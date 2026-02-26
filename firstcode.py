@@ -35,4 +35,4 @@ output_path.parent.mkdir(parents=True, exist_ok=True)
 # Save to CSV
 df_provinces.to_csv(output_path, index=False)
 
-print(f"Horray! Files saved to sakada.txt and {output_path}")
+print(f"Success! Files saved to sakada.txt and {output_path}")
