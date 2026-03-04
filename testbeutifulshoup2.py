@@ -4,6 +4,5 @@ with open("index.html","r") as f:
     doc = BeautifulSoup(f, "html.parser")
 #print(doc.prettify())
 
-tag = doc.title
-tag.string = "hello"
+tag = doc.find_all("p")
 print(tag)
