@@ -5,8 +5,8 @@ url = 'https://books.toscrape.com'
 response = requests.get(url)
 soup = BeautifulSoup(response.text, 'html.parser')
 
-divs = soup.find_all("div", class_ = "page_inner")
+prices = soup.find_all("p", class_="price_color")
 
-for div in divs :
-    print(div.text)
+for price in prices:
+    print(price.text)
     
