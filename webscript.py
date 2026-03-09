@@ -5,9 +5,8 @@ url = 'https://books.toscrape.com'
 response = requests.get(url)
 soup = BeautifulSoup(response.text, 'html.parser')
 
-divs = soup.find_all("div")
+divs = soup.find_all("div", class_ = "page_inner")
 
-for book in divs:
-    a_tag = book.find("a")
+for div in divs :
+    print(div.text)
     
-    print(a_tag)
