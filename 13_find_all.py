@@ -1,12 +1,21 @@
 from bs4 import BeautifulSoup
 import requests
 
-website = 'https://subscene.com/movie/Titanic-120338'
+
+website = 'https://subslikescript.com/movie/Titanic-120338'
 response = requests.get(website)
 content = response.text
 
-soup = BeautifulSoup(content, 'lxml')
+soup = BeautifulSoup(content,'lxml')
 
-boxes = soup.find_all('script')
-for box in boxes:
-    print(box.text)
+box = soup.find('article', class_ = 'main-article')
+
+title = box.find('h1').get_text()
+transcripts  = box.find_all('p', class_ = 'cue-line')# subtitle-cue # .get_text(strip=True, separator='\n')
+
+
+with open(f'{title}_all.txt','w+') as file:
+    for transcript in transcripts:
+        file.write("%s\n" % transcript) 
+
+print("End of the program")
