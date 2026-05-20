@@ -1,0 +1,53 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://bible-db.example/schemas/reading-progress.json",
+  "title": "ReadingProgress",
+  "description": "Tracks where a user is in a reading plan or free reading session",
+  "type": "object",
+  "required": ["userId", "editionId"],
+  "additionalProperties": false,
+  "properties": {
+    "_id":       { "type": "string" },
+    "userId":    { "type": "string", "minLength": 1 },
+    "editionId": { "type": "string" },
+    "lastRead": {
+      "type": "object",
+      "required": ["canonicalRef", "bookId", "chapterOrder", "verseOrder"],
+      "additionalProperties": false,
+      "properties": {
+        "canonicalRef": { "type": "string" },
+        "bookId":       { "type": "string" },
+        "chapterOrder": { "type": "integer", "minimum": 1 },
+        "verseOrder":   { "type": "integer", "minimum": 1 },
+        "readAt":       { "type": "string", "format": "date-time" }
+      }
+    },
+    "completedChapters": {
+      "type": "array",
+      "items": { "type": "string" },
+      "uniqueItems": true
+    },
+    "completedBooks": {
+      "type": "array",
+      "items": { "type": "string" },
+      "uniqueItems": true
+    },
+    "readingPlan": {
+      "oneOf": [
+        {
+          "type": "string",
+          "enum": [
+            "chronological_1year", "canonical_1year",
+            "nt_30days", "psalms_proverbs", "custom"
+          ]
+        },
+        { "type": "null" }
+      ]
+    },
+    "readingPlanDay": {
+      "oneOf": [{ "type": "integer", "minimum": 1 }, { "type": "null" }]
+    },
+    "createdAt": { "type": "string", "format": "date-time" },
+    "updatedAt": { "type": "string", "format": "date-time" }
+  }
+}

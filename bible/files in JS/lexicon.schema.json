@@ -1,0 +1,40 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://bible-db.example/schemas/lexicon.json",
+  "title": "Lexicon",
+  "description": "One Strong's concordance entry (Hebrew or Greek)",
+  "type": "object",
+  "required": ["_id", "language", "strongsNumber", "lemma", "definition"],
+  "additionalProperties": false,
+  "properties": {
+    "_id":             { "type": "string", "pattern": "^[HG][0-9]{4}$" },
+    "language":        { "type": "string", "enum": ["Hebrew", "Aramaic", "Greek"] },
+    "strongsNumber":   { "type": "string", "pattern": "^[HG][0-9]{4}$" },
+    "lemma":           { "type": "string", "minLength": 1 },
+    "transliteration": { "type": "string" },
+    "pronunciation":   { "type": "string" },
+    "partOfSpeech":    { "type": "string" },
+    "definition":         { "type": "string", "minLength": 1 },
+    "extendedDefinition": { "type": "string" },
+    "usageNotes":         { "type": "string" },
+    "kjvTranslations": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["word", "count"],
+        "additionalProperties": false,
+        "properties": {
+          "word":  { "type": "string" },
+          "count": { "type": "integer", "minimum": 0 }
+        }
+      }
+    },
+    "relatedStrongs": {
+      "type": "array",
+      "items": { "type": "string", "pattern": "^[HG][0-9]{4}$" },
+      "uniqueItems": true
+    },
+    "createdAt": { "type": "string", "format": "date-time" },
+    "updatedAt": { "type": "string", "format": "date-time" }
+  }
+}

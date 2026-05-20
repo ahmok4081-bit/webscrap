@@ -1,0 +1,34 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://bible-db.example/schemas/edition.json",
+  "title": "Edition",
+  "description": "A Bible translation or version (KJV, ESV, LXX, WLC, etc.)",
+  "type": "object",
+  "required": ["_id", "name", "abbreviation", "language"],
+  "additionalProperties": false,
+  "properties": {
+    "_id":          { "type": "string", "pattern": "^edition_[a-z0-9_]+$" },
+    "name":         { "type": "string", "minLength": 2, "maxLength": 120 },
+    "abbreviation": { "type": "string", "minLength": 2, "maxLength": 10 },
+    "language":     { "type": "string", "minLength": 2, "maxLength": 10 },
+    "direction":    { "type": "string", "enum": ["ltr", "rtl"] },
+    "script":       { "type": "string" },
+    "year":         { "type": "integer", "minimum": 100, "maximum": 2100 },
+    "publisher":    { "type": "string" },
+    "copyright":    { "type": "string" },
+    "hasRedLetters":      { "type": "boolean" },
+    "hasStrongsNumbers":  { "type": "boolean" },
+    "hasWordAlignment":   { "type": "boolean" },
+    "sourceTextType": {
+      "type": "string",
+      "enum": ["original", "translation", "paraphrase", "interlinear"]
+    },
+    "sourceEditionIds": {
+      "type": "array",
+      "items": { "type": "string" },
+      "uniqueItems": true
+    },
+    "createdAt": { "type": "string", "format": "date-time" },
+    "updatedAt": { "type": "string", "format": "date-time" }
+  }
+}

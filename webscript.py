@@ -13,9 +13,13 @@ for book in all_books[:5]:
     title = book.h3.a["title"]
     price = book.find("p", class_="price_color").text
     rating = book.find("p", class_="star-rating")["class"][1]
-    #link = urljoin(url, book.h3.a["href"])
     link = urljoin(url, book.h3.a["href"])
+    avaliblelity = book.find('p', class_="instock availability").text.strip()
+
     print(title)
     print(price)
     print(rating)
+    print(avaliblelity)
     print(link)
+    print(avaliblelity)
+   # print(star)

@@ -1,0 +1,135 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://bible-db.example/schemas/chapter.json",
+  "title": "Chapter",
+  "description": "A Bible chapter with embedded verses and rich-text content tree",
+
+  "definitions": {
+
+    "mark": {
+      "type": "object",
+      "required": ["type"],
+      "additionalProperties": false,
+      "properties": {
+        "type": {
+          "type": "string",
+          "enum": [
+            "bold", "italic", "underline", "strikethrough",
+            "superscript", "subscript", "smallCaps",
+            "redLetter", "selah", "poetryIndent",
+            "color", "font", "highlight",
+            "footnoteMarker", "crossRefMarker", "strongs"
+          ]
+        },
+        "value":  { "type": "string", "description": "Color hex e.g. #FF0000" },
+        "family": { "type": "string", "description": "Font family name" },
+        "size":   { "type": "number", "minimum": 4, "maximum": 144 },
+        "ref":    { "type": "string", "description": "footnote marker / Strong's number" },
+        "level":  { "type": "integer", "minimum": 1, "maximum": 6 },
+        "color":  { "type": "string", "description": "Highlight color hex" }
+      }
+    },
+
+    "contentNode": {
+      "type": "object",
+      "required": ["type"],
+      "properties": {
+        "type": {
+          "type": "string",
+          "enum": [
+            "document","heading","paragraph","blockquote",
+            "list","listItem","table","tableRow","tableCell",
+            "verse","verseNumber","section",
+            "text","hardBreak"
+          ]
+        },
+        "text":     { "type": "string" },
+        "marks":    { "type": "array", "items": { "$ref": "#/definitions/mark" } },
+        "attrs":    { "type": "object" },
+        "children": {
+          "type": "array",
+          "items": { "$ref": "#/definitions/contentNode" }
+        }
+      },
+      "if": { "properties": { "type": { "const": "text" } }, "required": ["type"] },
+      "then": { "required": ["text"] }
+    },
+
+    "footnote": {
+      "type": "object",
+      "required": ["marker", "text"],
+      "additionalProperties": false,
+      "properties": {
+        "marker": { "type": "string", "minLength": 1 },
+        "text":   { "type": "string", "minLength": 1 }
+      }
+    },
+
+    "verse": {
+      "type": "object",
+      "required": ["verseId", "order", "reference", "canonicalRef", "root", "plainText"],
+      "additionalProperties": false,
+      "properties": {
+        "verseId":      { "type": "string", "pattern": "^[a-z0-9_]+$" },
+        "order":        { "type": "integer", "minimum": 1 },
+        "reference":    { "type": "string" },
+        "canonicalRef": { "type": "string", "pattern": "^[A-Z0-9]+\\.[0-9]+\\.[0-9]+$" },
+        "root":         { "$ref": "#/definitions/contentNode" },
+        "plainText":    { "type": "string", "minLength": 1 },
+        "wordCount":    { "type": "integer", "minimum": 0 },
+        "strongsRefs": {
+          "type": "array",
+          "items": { "type": "string", "pattern": "^[HG][0-9]{4}$" },
+          "uniqueItems": true
+        },
+        "footnotes":       { "type": "array", "items": { "$ref": "#/definitions/footnote" } },
+        "crossReferences": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "canonicalRefs of related verses"
+        },
+        "liturgicalMarkers": {
+          "type": "array",
+          "items": { "type": "string" }
+        }
+      }
+    },
+
+    "sectionHeading": {
+      "type": "object",
+      "required": ["beforeVerse", "text"],
+      "additionalProperties": false,
+      "properties": {
+        "beforeVerse": { "type": "integer", "minimum": 1 },
+        "text":        { "type": "string", "minLength": 1 }
+      }
+    }
+
+  },
+
+  "type": "object",
+  "required": ["_id", "editionId", "bookId", "order", "reference", "canonicalRef", "totalVerses", "verses", "plainText"],
+  "additionalProperties": false,
+  "properties": {
+    "_id":          { "type": "string", "pattern": "^ch_[a-z0-9_]+$" },
+    "editionId":    { "type": "string" },
+    "bookId":       { "type": "string" },
+    "order":        { "type": "integer", "minimum": 1 },
+    "reference":    { "type": "string" },
+    "canonicalRef": { "type": "string", "pattern": "^[A-Z0-9]+\\.[0-9]+$" },
+    "totalVerses":  { "type": "integer", "minimum": 1 },
+    "verses": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "$ref": "#/definitions/verse" }
+    },
+    "plainText":       { "type": "string", "minLength": 1 },
+    "sectionHeadings": {
+      "type": "array",
+      "items": { "$ref": "#/definitions/sectionHeading" }
+    },
+    "schemaVersion": { "type": "integer", "minimum": 1 },
+    "createdAt": { "type": "string", "format": "date-time" },
+    "updatedAt": { "type": "string", "format": "date-time" }
+  }
+}

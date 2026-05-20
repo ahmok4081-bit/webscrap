@@ -1,0 +1,27 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://bible-db.example/schemas/book.json",
+  "title": "Book",
+  "description": "One canonical book of the Bible per edition",
+  "type": "object",
+  "required": ["_id", "editionId", "testament", "order", "name", "abbreviation", "totalChapters", "totalVerses"],
+  "additionalProperties": false,
+  "properties": {
+    "_id":          { "type": "string", "pattern": "^book_[a-z0-9_]+$" },
+    "editionId":    { "type": "string" },
+    "testament":    { "type": "string", "enum": ["OT", "NT", "DC"] },
+    "order":        { "type": "integer", "minimum": 1, "maximum": 100 },
+    "name":         { "type": "string", "minLength": 1, "maxLength": 60 },
+    "abbreviation": { "type": "string", "minLength": 1, "maxLength": 10 },
+    "usfmCode":     { "type": "string", "minLength": 2, "maxLength": 5 },
+    "osis":         { "type": "string" },
+    "category": {
+      "type": "string",
+      "enum": ["Law","History","Poetry","Prophecy","Gospel","Acts","Epistle","Apocalyptic","Deuterocanon"]
+    },
+    "totalChapters": { "type": "integer", "minimum": 1 },
+    "totalVerses":   { "type": "integer", "minimum": 1 },
+    "createdAt": { "type": "string", "format": "date-time" },
+    "updatedAt": { "type": "string", "format": "date-time" }
+  }
+}

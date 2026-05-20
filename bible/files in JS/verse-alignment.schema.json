@@ -1,0 +1,27 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://bible-db.example/schemas/verse-alignment.json",
+  "title": "VerseAlignment",
+  "description": "Maps a canonical verse reference to per-edition verse IDs. Handles split/merged verses across traditions.",
+  "type": "object",
+  "required": ["_id", "canonicalRef", "editions"],
+  "additionalProperties": false,
+  "properties": {
+    "_id":          { "type": "string" },
+    "canonicalRef": { "type": "string", "pattern": "^[A-Z0-9]+\\.[0-9]+\\.[0-9]+$",
+                      "description": "Stable cross-edition reference e.g. PS.119.1" },
+    "editions": {
+      "type": "object",
+      "description": "Map of editionId → verseId (null if verse absent in that edition)",
+      "additionalProperties": {
+        "oneOf": [
+          { "type": "string" },
+          { "type": "null" }
+        ]
+      }
+    },
+    "verseSplitNote": {
+      "oneOf": [{ "type": "string" }, { "type": "null" }]
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://bible-db.example/schemas/annotation.json",
+  "title": "Annotation",
+  "description": "User highlight, note, cross-reference, or bookmark. Never mutates source text.",
+  "type": "object",
+  "required": ["userId", "type", "canonicalRef"],
+  "additionalProperties": false,
+
+  "definitions": {
+    "selection": {
+      "type": "object",
+      "required": ["verseId", "startOffset"],
+      "additionalProperties": false,
+      "properties": {
+        "verseId":     { "type": "string" },
+        "startOffset": { "type": "integer", "minimum": 0 },
+        "endOffset":   { "oneOf": [{ "type": "integer", "minimum": 0 }, { "type": "null" }] }
+      }
+    },
+    "highlightStyle": {
+      "type": "object",
+      "required": ["color"],
+      "additionalProperties": false,
+      "properties": {
+        "color":   { "type": "string", "pattern": "^#[0-9A-Fa-f]{6}$" },
+        "opacity": { "type": "number", "minimum": 0, "maximum": 1 }
+      }
+    }
+  },
+
+  "properties": {
+    "_id":        { "type": "string" },
+    "userId":     { "type": "string", "minLength": 1 },
+    "type": {
+      "type": "string",
+      "enum": ["highlight", "note", "crossRef", "bookmark"]
+    },
+    "canonicalRef":       { "type": "string" },
+    "editionId":          { "type": "string" },
+    "selection":          { "$ref": "#/definitions/selection" },
+    "style":              { "$ref": "#/definitions/highlightStyle" },
+    "note": {
+      "type": "object",
+      "properties": {
+        "root":      { "type": "object", "description": "ContentNode document tree" },
+        "plainText": { "type": "string" }
+      }
+    },
+    "linkedCanonicalRef": { "type": "string" },
+    "tags": {
+      "type": "array",
+      "items": { "type": "string" },
+      "uniqueItems": true
+    },
+    "isPrivate": { "type": "boolean" },
+    "groupId":   { "oneOf": [{ "type": "string" }, { "type": "null" }] },
+    "createdAt": { "type": "string", "format": "date-time" },
+    "updatedAt": { "type": "string", "format": "date-time" }
+  },
+
+  "allOf": [
+    {
+      "if": { "properties": { "type": { "const": "crossRef" } } },
+      "then": { "required": ["linkedCanonicalRef"] }
+    },
+    {
+      "if": { "properties": { "type": { "enum": ["highlight", "note"] } } },
+      "then": { "required": ["selection"] }
+    },
+    {
+      "if": { "properties": { "type": { "const": "highlight" } } },
+      "then": { "required": ["style"] }
+    }
+  ]
+}
