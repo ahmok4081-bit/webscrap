@@ -1,0 +1,24 @@
+{
+  "name": "webscrap",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000w\u0000e\u0000b\u0000s\u0000c\u0000r\u0000a\u0000p\u0000\r\u0000 \u0000a\u0000s\u0000f\u0000j\u0000a\u0000s\u0000k\u0000f\u0000j\u0000a\u0000s\u0000k\u0000f\u0000j\u0000l\u0000k\u0000s\u0000a\u0000f\u0000j\u0000\r\u0000 \u0000j\u0000h\u0000g\u0000j\u0000j\u0000h\u0000j\u0000j\u0000h\u0000g\u0000j\u0000h\u0000\r\u0000 \u0000s\u0000h\u0000j\u0000d\u0000g\u0000f\u0000s\u0000j\u0000k\u0000z\u0000d\u0000g\u0000\r\u0000 \u0000s\u0000d\u0000s\u0000k\u0000j\u0000f\u0000d\u0000k\u0000s\u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmok4081-bit/webscrap.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ahmok4081-bit/webscrap/issues"
+  },
+  "homepage": "https://github.com/ahmok4081-bit/webscrap#readme",
+  "dependencies": {
+    "mongodb": "^7.2.0"
+  }
+}
