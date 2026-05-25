@@ -279,9 +279,13 @@ def get_translation_by_id(
     collection_name: str = "translation",
 ) -> dict | None:
     """Fetch a translation document from MongoDB by translationId."""
-    client = MongoClient("mongodb://localhost:27017")
-    collection = client[db_name][collection_name]
-    return collection.find_one({"translationId": translation_id})
+    try:
+        client = MongoClient("mongodb://localhost:27017", serverSelectionTimeoutMS=2000)
+        collection = client[db_name][collection_name]
+        return collection.find_one({"translationId": translation_id})
+    except Exception as e:
+        print(f"MongoDB not available: {e}")
+        return None
 
 
 def get_book_from_translation(translation: dict | None, book_id: str) -> dict | None:
@@ -497,8 +501,9 @@ if __name__ == "__main__":
         translation = model.TranslationDoc( translationId = translationAbbreviation,   name= translationName, abbreviation= translationAbbreviation,  language=language,copyright=copyrightText, books = [])
     if book is None:
         # need to search in ot or nt
+        combined_books = {**ot, **nt}
         book_title = next(
-        name for name, data in ot.items() if data["book_id"] == bookAbbreviation
+        name for name, data in combined_books.items() if data["book_id"] == bookAbbreviation
         )
         book = model.BookDoc(bookId = bookAbbreviation, title = book_title, abbreviation = bookAbbreviation, chapters = [])
 
@@ -549,8 +554,9 @@ if __name__ == "__main__":
 
             if existing_book is None:
                 if book is None:
+                    combined_books = {**ot, **nt}
                     book_title = next(
-                        name for name, data in ot.items() if data["book_id"] == bookAbbreviation
+                        name for name, data in combined_books.items() if data["book_id"] == bookAbbreviation
                     )
                     book = model.BookDoc(bookId=bookAbbreviation, title=book_title, abbreviation=bookAbbreviation, chapters=[])
                 translation.books.append(book)
@@ -566,10 +572,6 @@ if __name__ == "__main__":
             else:
                 existing_chapter.entries = entries
                 chapter = existing_chapter
-
-            client = MongoClient("mongodb://localhost:27017")
-            db = client["bible"]
-            collection = db["translation"]
 
             # Create a separate, clean document just for the current chapter's JSON file
             current_chapter_only_book = model.BookDoc(
@@ -594,13 +596,19 @@ if __name__ == "__main__":
                 json.dump(doc_json, f, ensure_ascii=False, indent=2)
                 
             # For MongoDB, write the entire accumulated translation (all books & chapters)
-            doc_db = asdict(translation)
-            existing = collection.find_one({"translationId": translation.translationId})
-            if existing:
-                doc_db["_id"] = existing["_id"]
-                collection.replace_one({"_id": existing["_id"]}, doc_db)
-            else:
-                collection.insert_one(doc_db)
+            try:
+                client = MongoClient("mongodb://localhost:27017", serverSelectionTimeoutMS=2000)
+                db = client["bible"]
+                collection = db["translation"]
+                doc_db = asdict(translation)
+                existing = collection.find_one({"translationId": translation.translationId})
+                if existing:
+                    doc_db["_id"] = existing["_id"]
+                    collection.replace_one({"_id": existing["_id"]}, doc_db)
+                else:
+                    collection.insert_one(doc_db)
+            except Exception as e:
+                print(f"MongoDB write failed: {e}", file=sys.__stdout__)
 
             fileNameCsv = os.path.join(csv_dir, f"{filename}.csv")
             write_rows_to_csv(fileNameCsv)
