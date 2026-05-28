@@ -479,8 +479,8 @@ if __name__ == "__main__":
 
     # bibleId = 107 # NET Bible
     # bibleId = 2287  #GKHB
-    # bibleId = 1270  #KOV
-    bibleId = 1930 #  NVT
+    bibleId = 1270  #KOV
+    #bibleId = 1930 #  NVT
     # bibleId = 59 #  ESV
     # bibleId = 1608 # ARA
 
