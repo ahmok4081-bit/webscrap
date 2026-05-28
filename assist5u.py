@@ -268,7 +268,7 @@ def load_ot_books_from_json(path: str) -> List:
 def load_nt_books_from_json(path: str) -> List:
     nt = {}  
     """Load books from a JSON file"""
-    with open(path + "/new.json") as f: r
+    with open(path + "/new.json") as f:
         nt = json.load(f)
     return nt
 

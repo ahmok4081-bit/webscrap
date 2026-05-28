@@ -13,6 +13,7 @@ import model as model
 import json
 import re
 from pymongo import MongoClient
+from pymongo.errors import PyMongoError
 import os
 
 HEADERS = {
@@ -64,7 +65,7 @@ def extract_tags_from_chapter(version_id: int, chapter_tag: Tag, rows: list, lin
             tag_classes = []
             tag_classes = tag.attrs.get('class', [])
             # if tag.attrs.get('class', []) = 'p' then add an integer to the tag_classes list to indicate the paragraph number, and increment the paragraph number for the next paragraph tag
-            match tag.attrs.get(['class'][0])[0]:  
+            match tag_classes[0] if tag_classes else None:  
                 case 'p': 
                     paragraphNumber += 1
                     if 'p' in tag_classes:
@@ -252,20 +253,22 @@ def get_chapter_data(version: str, book_id: int, reference: str) -> dict:
     response.raise_for_status()
     return response.json()
 
-def load_ot_books_from_json(path: str) -> List:
-    ot = {}
-    nt = {}  
-    """Load books from a JSON file"""
-    with open(path + "/old.json") as f:
-        ot = json.load(f)
-    return ot
+def load_ot_books_from_json(path: str) -> dict:
+    """Load OT book metadata from a JSON file."""
+    json_path = os.path.join(path, "old.json")
+    if not os.path.exists(json_path):
+        return {}
+    with open(json_path, encoding="utf-8") as f:
+        return json.load(f)
 
-def load_nt_books_from_json(path: str) -> List:
-    nt = {}  
-    """Load books from a JSON file"""
-    with open(path + "/new.json") as f:
-        nt = json.load(f)
-    return nt
+
+def load_nt_books_from_json(path: str) -> dict:
+    """Load NT book metadata from a JSON file."""
+    json_path = os.path.join(path, "new.json")
+    if not os.path.exists(json_path):
+        return {}
+    with open(json_path, encoding="utf-8") as f:
+        return json.load(f)
 
 
 def get_translation_by_id(
@@ -274,9 +277,13 @@ def get_translation_by_id(
     collection_name: str = "translation",
 ) -> dict | None:
     """Fetch a translation document from MongoDB by translationId."""
-    client = MongoClient("mongodb://localhost:27017")
-    collection = client[db_name][collection_name]
-    return collection.find_one({"translationId": translation_id})
+    try:
+        client = MongoClient("mongodb://localhost:27017", serverSelectionTimeoutMS=5000)
+        collection = client[db_name][collection_name]
+        return collection.find_one({"translationId": translation_id})
+    except PyMongoError as exc:
+        print(f"Warning: Could not connect to MongoDB to fetch translation '{translation_id}': {exc}")
+        return None
 
 
 def get_book_from_translation(translation: dict | None, book_id: str) -> dict | None:
@@ -317,8 +324,6 @@ def dict_to_chapter(chapter: dict) -> model.ChapterDoc:
 def dict_to_book(book: dict) -> model.BookDoc:
     return model.BookDoc(
         bookId=book.get("bookId", ""),
-        testament=book.get("testament", ""),
-        order=book.get("order", 0),
         title=book.get("title"),
         abbreviation=book.get("abbreviation"),
         chapters=[dict_to_chapter(chapter) for chapter in book.get("chapters", [])],
@@ -582,14 +587,16 @@ if __name__ == "__main__":
 
         book_index, book_title = result
 
-        book = model.BookDoc(
-            bookId=bookAbbreviation,
-            testament=testament,
-            order=book_index + 1,
-            title=book_title,
-            abbreviation=bookAbbreviation,
-            chapters=[],
-        )
+    if book_title is None:
+        book_index = 0
+        book_title = bookAbbreviation
+
+    book = model.BookDoc(
+        bookId=bookAbbreviation,
+        title=book_title,
+        abbreviation=bookAbbreviation,
+        chapters=[],
+    )
 
     if chapter is None:   
         chapter = model.ChapterDoc(chapter = int(chapter_num), entries = [])
@@ -623,10 +630,12 @@ if __name__ == "__main__":
 
             # ==== verify if the last verse number in the entries matches the expected chapter length from the JSON files, and print a warning if it does not match, to identify potential issues with the scraped data, such as missing verses or incorrect verse numbers, which can be caused by changes in the HTML structure of the source website or inconsistencies in the data. This is especially important for books with a large number of verses, like Psalms 119, to ensure that all verses are correctly captured and accounted for. ====
             last_verse = get_last_plain_text_verse(entries)
-            match = re.match(r"^([A-Za-z]+)(\d+)$", last_verse)
-            if match:
-                prefix, number = match.groups()
-                last_verse_number = int(number)
+            last_verse_number = None
+            if last_verse:
+                match = re.match(r"^([A-Za-z]+)(\d+)$", last_verse)
+                if match:
+                    prefix, number = match.groups()
+                    last_verse_number = int(number)
 
             testament = "OT"
             result = get_book_from_json("./app/json/old.json", bookAbbreviation)
@@ -634,12 +643,21 @@ if __name__ == "__main__":
                 result = get_book_from_json("./app/json/new.json", bookAbbreviation)
                 testament = "NT"
 
-            index, book_name, book_data = result
-            # print(book_name)  # "Judges"
-            # print(book_data["book_id"])  # "JDG"
-            # print(book_data["chapters"])  # [36, 23, 31, 24, ...]
-            if book_data["chapters"][chapter.chapter-1] !=  last_verse_number:
-                print(f"XXXX ===================== Warning: Last verse number {last_verse} does not match expected chapter length {book_data['chapters'][chapter.chapter-1]} for {bookAbbreviation} chapter {chapter.chapter}")
+            if result is None:
+
+                book_index = 0
+                book_name = bookAbbreviation
+                book_data = None
+            else:
+                index, book_name, book_data = result
+                book_index = index
+
+            if book_data is not None and last_verse_number is not None:
+                expected_length = book_data["chapters"][chapter.chapter - 1]
+                if expected_length != last_verse_number:
+                    print(
+                        f"XXXX ===================== Warning: Last verse number {last_verse_number} does not match expected chapter length {expected_length} for {bookAbbreviation} chapter {chapter.chapter}"
+                    )
         
 
 
@@ -674,8 +692,6 @@ if __name__ == "__main__":
 
                 book = model.BookDoc(
                     bookId=bookAbbreviation,
-                    testament=testament,
-                    order=book_index + 1,
                     title=book_title,
                     abbreviation=bookAbbreviation,
                     chapters=[],
@@ -695,15 +711,9 @@ if __name__ == "__main__":
                 existing_chapter.entries = entries
                 chapter = existing_chapter
 
-            client = MongoClient("mongodb://localhost:27017")
-            db = client["bible"]
-            collection = db["translation"]
-
             # Create a separate, clean document just for the current chapter's JSON file
             current_chapter_only_book = model.BookDoc(
                 bookId=book.bookId,
-                testament=book.testament,
-                order=book.order,
                 title=book.title,
                 abbreviation=book.abbreviation,
                 chapters=[chapter]
@@ -724,13 +734,19 @@ if __name__ == "__main__":
                 json.dump(doc_json, f, ensure_ascii=False, indent=2)
                 
             # For MongoDB, write the entire accumulated translation (all books & chapters)
-            doc_db = asdict(translation)
-            existing = collection.find_one({"translationId": translation.translationId})
-            if existing:
-                doc_db["_id"] = existing["_id"]
-                collection.replace_one({"_id": existing["_id"]}, doc_db)
-            else:
-                collection.insert_one(doc_db)
+            try:
+                client = MongoClient("mongodb://localhost:27017", serverSelectionTimeoutMS=5000)
+                db = client["bible"]
+                collection = db["translation"]
+                doc_db = asdict(translation)
+                existing = collection.find_one({"translationId": translation.translationId})
+                if existing:
+                    doc_db["_id"] = existing["_id"]
+                    collection.replace_one({"_id": existing["_id"]}, doc_db)
+                else:
+                    collection.insert_one(doc_db)
+            except PyMongoError as exc:
+                print(f"Warning: Could not write to MongoDB: {exc}")
 
             fileNameCsv = os.path.join(csv_dir, f"{filename}.csv")
             write_rows_to_csv(fileNameCsv)
