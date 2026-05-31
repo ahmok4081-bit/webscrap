@@ -465,21 +465,21 @@ if __name__ == "__main__":
     testament = "NT"  # "OT" or "NT"
     book_number = 0
 
-    # book_chapter = "GEN.1"
-    # book_chapter = "GEN.2"
+    #book_chapter = "GEN.1"
+    book_chapter = "GEN.2"
     # book_chapter = "GEN.3"
     # book_chapter = "GEN.4"
     # book_chapter = "JDG.1"
-    book_chapter = "PSA.77"
+    #book_chapter = "PSA.77"
     # book_chapter = "PSA.119"  
     # bookChapter = "MRK.1"
     # book_chapter = "ROM.1"
     # bookChapter = "ACT.20"
     # bookChapter = "REV.21"
 
-    # bibleId = 107 # NET Bible
+    bibleId = 107 # NET Bible
     # bibleId = 2287  #GKHB
-    bibleId = 1270  #KOV
+    #bibleId = 1270  #KOV
     #bibleId = 1930 #  NVT
     # bibleId = 59 #  ESV
     # bibleId = 1608 # ARA
