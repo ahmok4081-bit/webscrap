@@ -19,6 +19,8 @@ class ChapterDoc:
 @dataclass
 class BookDoc:
     bookId: str
+    testament: str
+    order: int
     title: Optional[str] = None
     abbreviation: Optional[str] = None
     chapters: List[ChapterDoc] = field(default_factory=list)

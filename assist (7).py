@@ -24,9 +24,6 @@ HEADERS = {
     "Accept-Language": "en-US,en;q=0.9",
 }
 
-
- 
-
 def write_rows_to_csv(fileName: str) -> None:
 #    for id, tag, text in zip(ids, tags, texts):
 #     rows.append([id, tag, text])
@@ -42,8 +39,7 @@ def write_rows_to_csv(fileName: str) -> None:
 
 
 
-
-def extract_tags_from_chapter(chapter_tag: Tag, rows: list, lineNumber: int, plain_text: list) -> list[model.Entry]: 
+def extract_tags_from_chapter(version_id: int, chapter_tag: Tag, rows: list, lineNumber: int,) -> list[model.Entry]: 
     entries: list[model.Entry] = []
     entry = model.Entry(rowId=0, keyParts=[], value="")
 
@@ -52,18 +48,15 @@ def extract_tags_from_chapter(chapter_tag: Tag, rows: list, lineNumber: int, pla
     q2Number = 0
     q3Number = 0
     mNumber = 0
-    
-    ids = [str]
-    tags = [str]
-    texts = [str]
-    
     verse_qtt = 0
-    # chunk = 0
     
     tag_classes = []  # Initialize  tag_classes 
     child_classes = []  # Initialize child_classes 
     nephew_classes = []  # Initialize nephew_classes 
     classes = [] 
+
+    # handle NET PSALM 119:113 that has a label with the verse number different from the verse number in the verse tag, so I need to update the verse number in the classes to match the verse number in the label, and also update the entry value to match the verse number in the label
+    chapter_exception, verse_exception = 0, 0
    
     for tag in chapter_tag:
 
@@ -109,8 +102,14 @@ def extract_tags_from_chapter(chapter_tag: Tag, rows: list, lineNumber: int, pla
                             classes = [lineNumber] + tag_classes + child_classes + nephew_classes
                             entry.rowId = lineNumber
                             entry.keyParts = classes
-                            #check if classes contains 'note' and 'f', if it does, need split if footenote
+                            strTemp = nephew.get_text(strip=True)
                             if {'note', 'f'}.issubset(classes):
+
+                                # match version_id:  
+                                #     case 107: 
+                                        # XXXX if NET bible and the nephew is a footnote, then the nephew text content needs to be split into two lines, the first line is the footnote type (tn/sn/tc/map) and the second line is the footnote text content, and the entry value needs to be updated to the footnote text content only, without the footnote type
+                            #check if classes contains 'note' and 'f', if it does, need split if footenote
+                        
                                 if len(nephew.get_text(strip=True)) > 1:
                                     _BOUNDARY = re.compile(
                                         r'(?:'
@@ -131,12 +130,13 @@ def extract_tags_from_chapter(chapter_tag: Tag, rows: list, lineNumber: int, pla
                                         #a linha abaixo da erro em GKHB gen 3.6, pois o footnote n~ao tem as marcacoes do NET bible (tn|sn|tc|map)
                                         
                                         #XXXX Version GKHB PSALMs 119 ver 30 there is a footnote that does not have the prefix tn/sn/tc/map, so it is not split into two lines, but it should be. Need to find a way to split it into two lines without the prefix
-                                        footnote_type, footnote_text = footenote.split(" ", 1)
+                                        # footnote_type, footnote_text = footenote.split(" ", 1)
 
                                         if i < len(footnotes) - 1:
                                             strTemp += footenote + '\n' 
                                         else:
                                             strTemp += footenote
+                                    # case _:
                                     entry.rowId = lineNumber
                                     entry.value = strTemp
                                     entries.append(entry)
@@ -145,31 +145,43 @@ def extract_tags_from_chapter(chapter_tag: Tag, rows: list, lineNumber: int, pla
                                     rows.append([lineNumber, str(classes), strTemp])
                                     lineNumber+=1
 
-                            else: 
+                            else: #verse
                                 if {'verse', 'label'}.issubset(classes):
+                                    lineNumber = append_verse_plain_text(entries, rows, lineNumber, verse_qtt)
+                                    verse_qtt += 1
+                                    verse_exception, chapter_exception = 0, 0
+                                # ====================================================================
+                                # handle NET PSALM 119:113 that has a label with the verse number different from the verse number in the verse tag, so I need to update the verse number in the classes to match the verse number in the label, and also update the entry value to match the verse number in the label 
+                                if re.search(r'\d+:\d+', nephew.get_text(strip=True)):
+                                    chapter_exception, verse_exception = map(int, re.search(r'(\d+):(\d+)', nephew.get_text(strip=True).strip()).groups())
+                                    classes[4] = 'label'  # Ensure the last element is 'label'
+                                    entry.value = str(verse_exception) #nephew.get_text(strip=True)
                                     verse_qtt+=1
-                                    # XXXX
-                                    # add a entry keyParts  plain_text whenever a new verse is scraped
-                                    classes = [lineNumber] + tag_classes + child_classes + ["plain_text"]
-                                    entry.rowId = lineNumber
+                                else:
                                     entry.value = nephew.get_text(strip=True)
-                                    entries.append(entry)
-                                    print( str(classes)  + "\t" + nephew.get_text(strip=True))
-                                    rows.append([lineNumber, str(classes), nephew.get_text(strip=True)])
 
-                                    entry = model.Entry(rowId=0, keyParts=[], value="") 
-                                    lineNumber +=1
+                                if verse_exception != 0:
+                                    # [702, 'p234', 'verse', 'v110', 'label']	 110
+                                    # [719, 'p241', 'verse', 'v112', 'bd']	 119:113
+                                    classes[3] = f'v{verse_exception}'     # Update the verse number in classes to match the verse number in the label
+                                # ==================================================================== 
 
+                                entry.keyParts = classes  
                                 entry.rowId = lineNumber
-                                entry.value = nephew.get_text(strip=True)
+                                
                                 entries.append(entry)
-                                entry = model.Entry(rowId=0, keyParts=[], value="")    
-                                print( str(classes)  + "\t" + nephew.get_text(strip=True))      # if classes = ['p1', 'verse', 'v1', 'note', 'f'] nephew.get_text(strip=True) is a footnote content
+                                
+                                classes[0] = lineNumber   
+                                print( str(classes)  + "\t" + entry.value)      # if classes = ['p1', 'verse', 'v1', 'note', 'f'] nephew.get_text(strip=True) is a footnote content
                                                                                                 # if classes = ['s1', 'note', 'f', 'body'] nephew.get_text(strip=True) is footnote content
-                                rows.append([lineNumber, str(classes), nephew.get_text(strip=True)])
+                                rows.append([lineNumber, str(classes), entry.value])
                                 lineNumber+=1
+                                entry = model.Entry(rowId=0, keyParts=[], value="") 
                         else:
-                           
+                            # s1 and heading
+                            # YYYY need to verify if there is any verse before that need to be added as plain_text  
+                            lineNumber = append_verse_plain_text(entries, rows, lineNumber, verse_qtt)
+                                 
                             if nephew.get_text(strip=True): 
                                 classes = [lineNumber] + tag_classes + child_classes
                                 entry.rowId = lineNumber
@@ -180,7 +192,8 @@ def extract_tags_from_chapter(chapter_tag: Tag, rows: list, lineNumber: int, pla
                                 print(str(classes)  + "\t" + str(nephew)) # print 's', 'headings'
                                 rows.append([lineNumber, str(classes), nephew.get_text(strip=True)])
                                 lineNumber+=1
-                else:
+                else: # simple label without children
+
                     classes = [lineNumber] + tag_classes 
                     entry.keyParts = tag_classes
                     entry.rowId = lineNumber
@@ -194,11 +207,25 @@ def extract_tags_from_chapter(chapter_tag: Tag, rows: list, lineNumber: int, pla
 
         else:
             pass
+
         tag_classes = []  # Reset tag_classes for the next tag
         child_classes = []  # Reset child_classes for the next tag
         nephew_classes = []  # Reset nephew_classes for the next tag
         classes = []  # Reset classes for the next tag
         entry = model.Entry(rowId=0, keyParts=[], value="")
+    #add the last verse plain_text 
+  
+    verse_text = f'{verse_qtt} ' + get_verse_content(entries, f'v{verse_qtt}')
+    plain_text_classes = [lineNumber] + get_verse_key_parts(entries, f'v{verse_qtt}') + ["plain_text"]
+    entry.rowId = lineNumber
+    entry.keyParts = plain_text_classes
+    entry.value = verse_text
+    entries.append(entry)
+    entry = model.Entry(rowId=0, keyParts=[], value="")
+    
+    print( str(plain_text_classes)  + "\t" + verse_text)
+    rows.append([lineNumber, str(plain_text_classes), verse_text])
+    lineNumber+=1
 
     return entries 
     
@@ -290,6 +317,8 @@ def dict_to_chapter(chapter: dict) -> model.ChapterDoc:
 def dict_to_book(book: dict) -> model.BookDoc:
     return model.BookDoc(
         bookId=book.get("bookId", ""),
+        testament=book.get("testament", ""),
+        order=book.get("order", 0),
         title=book.get("title"),
         abbreviation=book.get("abbreviation"),
         chapters=[dict_to_chapter(chapter) for chapter in book.get("chapters", [])],
@@ -340,20 +369,106 @@ def get_chapter_document(
     return get_chapter_from_book(book, chapter_number)
 
 
+def get_verse_content(entries: list[model.Entry], verse_label: str) -> str:
+    """Concatenates all content entries for a specific verse label (e.g., 'v1', 'v2'), including small caps ('sc')."""
+    return " ".join([
+        entry.value 
+        for entry in entries 
+        if 'verse' in entry.keyParts 
+        and ('content' in entry.keyParts or 'sc' in entry.keyParts)
+        and verse_label in entry.keyParts
+    ])
+
+def get_verse_key_parts(entries: list[model.Entry], verse_label: str) -> list:
+    """Returns the list of keyParts for a specific verse label (e.g., 'v1', 'v2') excluding the first element and 'content'."""
+    for entry in entries:
+        if 'verse' in entry.keyParts and 'content' in entry.keyParts and verse_label in entry.keyParts:
+            return [part for part in entry.keyParts[1:] if part != 'content']
+    return []
+
+def append_verse_plain_text(
+    entries: list[model.Entry],
+    rows: list,
+    lineNumber: int,
+    verse_qtt: int,
+) -> int:
+    """Append the verse plain_text entry when a new verse label is encountered."""
+    if verse_qtt == 0:
+        return lineNumber
+
+    verse_label = f'v{verse_qtt}'
+    #append to entries and rows only if there is not already a plain_text entry for the current verse label, to avoid duplicate plain_text entries for the same verse label, because in some cases there are multiple tags with the same verse label, but I only want to add one plain_text entry for each verse label
+    if any(
+        'plain_text' in entry.keyParts and verse_label in entry.keyParts
+        for entry in entries
+    ):
+        return lineNumber
+
+    verse_text = f'{verse_qtt} ' + get_verse_content(entries, verse_label)
+    plain_text_classes = [lineNumber] + get_verse_key_parts(entries, verse_label) + ["plain_text"]
+
+    entry = model.Entry(rowId=lineNumber, keyParts=plain_text_classes, value=verse_text)
+    entries.append(entry)
+    rows.append([lineNumber, str(plain_text_classes), verse_text])
+    print(str(plain_text_classes) + "\t" + verse_text)
+    return lineNumber + 1
+
+
+def get_last_plain_text_verse(entries):
+    for entry in reversed(entries):
+        if entry.keyParts and "plain_text" in entry.keyParts:
+            return next(
+                (part for part in entry.keyParts if re.match(r"^v\d+$", str(part))),
+                None,
+            )
+    return None
+
+def get_book_from_json(json_file_path: str, book_id: str) -> tuple[str, dict] | None:
+    """
+    Retrieve a book element from a JSON file by book_id.
+    
+    Args:
+        json_file_path: Path to the JSON file (e.g., "./app/json/old.json")
+        book_id: The book ID to search for (e.g., "JDG", "GEN")
+    
+    Returns:
+        A tuple of (book_name, book_data) if found, else None
+        Example: ("Judges", {"book_id": "JDG", "chapters": [36, 23, ...]})
+    """
+    try:
+        with open(json_file_path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        
+        for index, (book_name, book_data) in enumerate(data.items()):
+            if book_data.get("book_id") == book_id:
+                return (index, book_name, book_data)
+        
+        return None
+    except FileNotFoundError:
+        print(f"Error: JSON file not found at {json_file_path}")
+        return None
+    except json.JSONDecodeError:
+        print(f"Error: Invalid JSON in {json_file_path}")
+        return None
+
 if __name__ == "__main__":
     import sys
     rows = [["id","tag","text"]]
     lineNumber = 0
-    # ot and nt files not needed since we extract book titles directly from response
+    ot = load_ot_books_from_json("./app/json")
+    nt = load_nt_books_from_json("./app/json")
+    testament = "NT"  # "OT" or "NT"
+    book_number = 0
 
     book_chapter = "GEN.1"
     # book_chapter = "GEN.2"
-    # bookChapter = "GEN.3"
-    # bookChapter = "GEN.4"
-    # bookChapter = "PSA.77"
+    # book_chapter = "GEN.3"
+    # book_chapter = "GEN.4"
+    # book_chapter = "JDG.1"
+    # book_chapter = "PSA.77"
     # book_chapter = "PSA.119"  
     # bookChapter = "MRK.1"
-    # bookChapter = "ROM.1"
+    # book_chapter = "ROM.1"
     # bookChapter = "ACT.20"
     # bookChapter = "REV.21"
 
@@ -361,7 +476,9 @@ if __name__ == "__main__":
     # bibleId = 2287  #GKHB
     # bibleId = 1270  #KOV
     # bibleId = 1930 #  NVT
+    # bibleId = 59 #  ESV
     # bibleId = 1608 # ARA
+    bibleId = 1588 #AMP
 
 
 
@@ -379,13 +496,16 @@ if __name__ == "__main__":
     # response['next']['usfm'][0] has the next chapter to scrap
     
     bookName  = response['reference']['human']
+    bookName, chapter_num = bookName.split(" ")
     bookAbbreviation, chapter_num = chapterCode.split(".")
-    if " " in bookName:
-        bookName = bookName.rsplit(" ", 1)[0]
 
 
     versionId = response['reference']['version_id']
     match versionId:  
+        case 59: 
+            translationAbbreviation = "ESV"
+            translationName = "English Standard Version"
+            language = "English"
         case 107: 
             translationAbbreviation = "NET"
             translationName = "New English Translation"
@@ -439,55 +559,51 @@ if __name__ == "__main__":
 
     if translation is None:
         translation = model.TranslationDoc( translationId = translationAbbreviation,   name= translationName, abbreviation= translationAbbreviation,  language=language,copyright=copyrightText, books = [])
-    if book is None:
-        book = model.BookDoc(bookId = bookAbbreviation, title = bookName, abbreviation = bookAbbreviation, chapters = [])
+
+    result = next(
+        (
+            (index, name)
+            for index, (name, data) in enumerate(nt.items())
+            if data["book_id"] == bookAbbreviation
+        ),
+        (None, None),
+    )
+
+    book_index, book_title = result
+    if book_title is None:
+        testament = "OT"
+        result = next(
+            (
+                (index, name)
+                for index, (name, data) in enumerate(ot.items())
+                if data["book_id"] == bookAbbreviation
+            ),
+            (None, None),
+        )
+
+        book_index, book_title = result
+
+        book = model.BookDoc(
+            bookId=bookAbbreviation,
+            testament=testament,
+            order=book_index + 1,
+            title=book_title,
+            abbreviation=bookAbbreviation,
+            chapters=[],
+        )
 
     if chapter is None:   
         chapter = model.ChapterDoc(chapter = int(chapter_num), entries = [])
     
 
     textHtml = BeautifulSoup(response['content'], 'lxml')
-
-    # XXXX ================================================ 
-    # need to check, gen 1 is generting 33 verses instead of 31
-    # texto_html = BeautifulSoup(
-    # self.__capitulo_atual['content'], 'html.parser')
-
-    
-
-    verse_reg_expression = re.compile(r'\d+')
-    plain_text = []
-    # plain_text[0] = "In the beginning God created the heavens and the earth."
-    # plain_text[1] = "Now the earth was formless and empty, darkness was over the surface of the deep, and the Spirit of God was hovering over the waters."
-    i = 0; 
-    for verse in textHtml.find_all(
-            'span', {'data-usfm': re.compile("GEN" + '.[0-9]*')}):
-        verse_number = int(verse_reg_expression.findall(
-            verse.attrs['class'][1])[0])
-
-        temp_var = ''.join([s.get_text() for s in verse.find_all(
-            'span', {'class': 'content'})])
-        plain_text.append(temp_var)
-        
-
-        # remove all spaces, tabs and newlines from plain_text
-        if not plain_text[i].strip():
-            continue
-        i += 1
-        # ================================================ 
-
-
-    # if I use class="book" it will not work, because the structure is based on 3 levels after chapter 
-    # chapter_tag: Tag | None = textHtml.find(class_="book")
-    # 2,"['chapter', 'ch1', 'label']",1
     chapter_tag: Tag | None = textHtml.find(class_="chapter")
 
-
     if chapter_tag:
-        # Define output directories
-        json_dir = os.path.join("app", "json", bookAbbreviation)
-        txt_dir = os.path.join("app", "txt", bookAbbreviation)
-        csv_dir = os.path.join("app", "csv", bookAbbreviation)
+        # Define output directories (organized by translation then book)
+        json_dir = os.path.join("app", "json", translationAbbreviation, testament, f"{book_index+1:02d}_"+ bookAbbreviation)
+        txt_dir = os.path.join("app", "txt", translationAbbreviation,testament, f"{book_index+1:02d}_"+ bookAbbreviation)
+        csv_dir = os.path.join("app", "csv", translationAbbreviation, testament, f"{book_index+1:02d}_"+ bookAbbreviation)
 
         # Ensure directories exist
         os.makedirs(json_dir, exist_ok=True)
@@ -503,16 +619,69 @@ if __name__ == "__main__":
         with open(fileName_txt, "w", encoding="utf-8") as _f:
             sys.stdout = _f
             
-            entries = extract_tags_from_chapter(chapter_tag, rows,lineNumber, plain_text)
+            entries = extract_tags_from_chapter(versionId, chapter_tag, rows, lineNumber)
             chapter.entries = entries
+
+            # ==== verify if the last verse number in the entries matches the expected chapter length from the JSON files, and print a warning if it does not match, to identify potential issues with the scraped data, such as missing verses or incorrect verse numbers, which can be caused by changes in the HTML structure of the source website or inconsistencies in the data. This is especially important for books with a large number of verses, like Psalms 119, to ensure that all verses are correctly captured and accounted for. ====
+            last_verse = get_last_plain_text_verse(entries)
+            match = re.match(r"^([A-Za-z]+)(\d+)$", last_verse)
+            if match:
+                prefix, number = match.groups()
+                last_verse_number = int(number)
+
+            testament = "OT"
+            result = get_book_from_json("./app/json/old.json", bookAbbreviation)
+            if result is None:
+                result = get_book_from_json("./app/json/new.json", bookAbbreviation)
+                testament = "NT"
+
+            index, book_name, book_data = result
+            # print(book_name)  # "Judges"
+            # print(book_data["book_id"])  # "JDG"
+            # print(book_data["chapters"])  # [36, 23, 31, 24, ...]
+            if book_data["chapters"][chapter.chapter-1] !=  last_verse_number:
+                print(f"XXXX ===================== Warning: Last verse number {last_verse} does not match expected chapter length {book_data['chapters'][chapter.chapter-1]} for {bookAbbreviation} chapter {chapter.chapter}")
+        
+
+
 
             existing_book = None
             if isinstance(translation, model.TranslationDoc):
                 existing_book = find_book_in_translation_doc(translation, bookAbbreviation)
-
             if existing_book is None:
-                if book is None:
-                    book = model.BookDoc(bookId=bookAbbreviation, title=bookName, abbreviation=bookAbbreviation, chapters=[])
+                testament = "NT"
+                result = next(
+                    (
+                        (index, name)
+                        for index, (name, data) in enumerate(nt.items())
+                        if data["book_id"] == bookAbbreviation
+                    ),
+                    (None, None),
+                )
+
+                book_index, book_title = result
+                if book_title is None:
+                    testament = "OT"
+                    result = next(
+                        (
+                            (index, name)
+                            for index, (name, data) in enumerate(ot.items())
+                            if data["book_id"] == bookAbbreviation
+                        ),
+                        (None, None),
+                    )
+
+                    book_index, book_title = result
+
+                book = model.BookDoc(
+                    bookId=bookAbbreviation,
+                    testament=testament,
+                    order=book_index + 1,
+                    title=book_title,
+                    abbreviation=bookAbbreviation,
+                    chapters=[],
+                )
+
                 translation.books.append(book)
             else:
                 book = existing_book
@@ -534,6 +703,8 @@ if __name__ == "__main__":
             # Create a separate, clean document just for the current chapter's JSON file
             current_chapter_only_book = model.BookDoc(
                 bookId=book.bookId,
+                testament=book.testament,
+                order=book.order,
                 title=book.title,
                 abbreviation=book.abbreviation,
                 chapters=[chapter]
@@ -553,17 +724,6 @@ if __name__ == "__main__":
             with open(fileNameJson, "w", encoding="utf-8") as f:
                 json.dump(doc_json, f, ensure_ascii=False, indent=2)
                 
-            # inserting using json file =================================================
-            # client = MongoClient("mongodb://localhost:27017")
-            # db = client["your_db"]
-            # collection = db["your_collection"]
-
-            # with open(fileNameJson, "r", encoding="utf-8") as f:
-            #     doc = json.load(f)
-
-            # collection.insert_one(doc)
-            # inserting using json file =================================================
-
             # For MongoDB, write the entire accumulated translation (all books & chapters)
             doc_db = asdict(translation)
             existing = collection.find_one({"translationId": translation.translationId})
@@ -580,8 +740,7 @@ if __name__ == "__main__":
         print("Chapter tag not found")
 
     # Restore stdout
-    sys.stdout = sys.__stdout__  
-            
+    sys.stdout = sys.__stdout__   
 
 # usfm tags_
 # \p	Normal paragraph	Indented
