@@ -1,0 +1,1575 @@
+{
+  "translationId": "ESV",
+  "name": "English Standard Version",
+  "abbreviation": "ESV",
+  "language": "English",
+  "copyright": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.",
+  "books": [
+    {
+      "bookId": "DEU",
+      "testament": "OT",
+      "order": 5,
+      "title": "Deuteronomy",
+      "abbreviation": "DEU",
+      "chapters": [
+        {
+          "chapter": 22,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Various Laws"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "“You"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 23:4"
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "shall not see your brother’s ox or his sheep going astray and ignore them. You shall take them back to your brother."
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                "v001_ESV_DEU_022",
+                7,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 “You shall not see your brother’s ox or his sheep going astray and ignore them. You shall take them back to your brother."
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                9,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "And if he does not live near you and you do not know who he is, you shall bring it home to your house, and it shall stay with you until your brother seeks it. Then you shall restore it to him."
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                "v002_ESV_DEU_022",
+                10,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 And if he does not live near you and you do not know who he is, you shall bring it home to your house, and it shall stay with you until your brother seeks it. Then you shall restore it to him."
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                11,
+                "p1",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                12,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "And you shall do the same with his donkey or with his garment, or with any lost thing of your brother’s, which he loses and you find; you may not ignore it."
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                "v003_ESV_DEU_022",
+                13,
+                "p1",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 And you shall do the same with his donkey or with his garment, or with any lost thing of your brother’s, which he loses and you find; you may not ignore it."
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "p1",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                15,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 23:5"
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                16,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "You shall not see your brother’s donkey or his ox fallen down by the way and ignore them. You shall help him to lift them up again."
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                "v004_ESV_DEU_022",
+                17,
+                "p1",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 You shall not see your brother’s donkey or his ox fallen down by the way and ignore them. You shall help him to lift them up again."
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "p2",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p2",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "“A woman shall not wear a man’s garment, nor shall a man put on a woman’s cloak,"
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                20,
+                "p2",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#[ch.18:12;25:16]"
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p2",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "for whoever does these things is an abomination to the"
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                22,
+                "p2",
+                "verse",
+                "v5",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "p2",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "your God."
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                "v005_ESV_DEU_022",
+                24,
+                "p2",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 “A woman shall not wear a man’s garment, nor shall a man put on a woman’s cloak, for whoever does these things is an abomination to the Lord your God."
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "p3",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                26,
+                "p3",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "“If you come across a bird’s nest in any tree or on the ground, with young ones or eggs and the mother sitting on the young or on the eggs,"
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                27,
+                "p3",
+                "verse",
+                "v6",
+                "note",
+                "x"
+              ],
+              "value": "#Lev. 22:28"
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                28,
+                "p3",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "you shall not take the mother with the young."
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                "v006_ESV_DEU_022",
+                29,
+                "p3",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 “If you come across a bird’s nest in any tree or on the ground, with young ones or eggs and the mother sitting on the young or on the eggs, you shall not take the mother with the young."
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                30,
+                "p3",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                31,
+                "p3",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "You shall let the mother go, but the young you may take for yourself,"
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "p3",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.4:40"
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                33,
+                "p3",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "that it may go well with you, and that you may live long."
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                "v007_ESV_DEU_022",
+                34,
+                "p3",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 You shall let the mother go, but the young you may take for yourself, that it may go well with you, and that you may live long."
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                35,
+                "p4",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "p4",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "“When you build a new house, you shall make a parapet for your roof, that you may not bring the guilt of blood upon your house, if anyone should fall from it."
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                "v008_ESV_DEU_022",
+                37,
+                "p4",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 “When you build a new house, you shall make a parapet for your roof, that you may not bring the guilt of blood upon your house, if anyone should fall from it."
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                38,
+                "p5",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                39,
+                "p5",
+                "verse",
+                "v9",
+                "note",
+                "x"
+              ],
+              "value": "#Lev. 19:19"
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                40,
+                "p5",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "“You shall not sow your vineyard with two kinds of seed, lest the whole yield be forfeited,"
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p5",
+                "verse",
+                "v9",
+                "note",
+                "f"
+              ],
+              "value": "#22:9Hebrewbecome holy"
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "p5",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "the crop that you have sown and the yield of the vineyard."
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                "v009_ESV_DEU_022",
+                43,
+                "p5",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 “You shall not sow your vineyard with two kinds of seed, lest the whole yield be forfeited, the crop that you have sown and the yield of the vineyard."
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                44,
+                "p5",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                45,
+                "p5",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "You shall not plow with an ox and a donkey together."
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                "v010_ESV_DEU_022",
+                46,
+                "p5",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 You shall not plow with an ox and a donkey together."
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                47,
+                "p5",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                48,
+                "p5",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "You shall not wear cloth of wool and linen mixed together."
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                "v011_ESV_DEU_022",
+                49,
+                "p5",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 You shall not wear cloth of wool and linen mixed together."
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "p6",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                51,
+                "p6",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 15:38;[Matt. 23:5]"
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                52,
+                "p6",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "“You shall make yourself tassels on the four corners of the garment with which you cover yourself."
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Laws Concerning Sexual Immorality"
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                "v012_ESV_DEU_022",
+                54,
+                "p6",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 “You shall make yourself tassels on the four corners of the garment with which you cover yourself."
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                55,
+                "p7",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                56,
+                "p7",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "“If any man takes a wife and"
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                57,
+                "p7",
+                "verse",
+                "v13",
+                "note",
+                "x"
+              ],
+              "value": "#[2 Sam. 13:15]"
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                58,
+                "p7",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "goes in to her and then hates her"
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                "v013_ESV_DEU_022",
+                59,
+                "p7",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 “If any man takes a wife and goes in to her and then hates her"
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                60,
+                "p7",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                61,
+                "p7",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "and accuses her of misconduct and brings a bad name upon her, saying, ‘I took this woman, and when I came near her, I did not find in her evidence of virginity,’"
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                "v014_ESV_DEU_022",
+                62,
+                "p7",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 and accuses her of misconduct and brings a bad name upon her, saying, ‘I took this woman, and when I came near her, I did not find in her evidence of virginity,’"
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                63,
+                "p7",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                64,
+                "p7",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "then the father of the young woman and her mother shall take and bring out the evidence of her virginity to the elders of the city in the gate."
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                "v015_ESV_DEU_022",
+                65,
+                "p7",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 then the father of the young woman and her mother shall take and bring out the evidence of her virginity to the elders of the city in the gate."
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                66,
+                "p7",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                67,
+                "p7",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "And the father of the young woman shall say to the elders, ‘I gave my daughter to this man to marry, and he hates her;"
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                "v016_ESV_DEU_022",
+                68,
+                "p7",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 And the father of the young woman shall say to the elders, ‘I gave my daughter to this man to marry, and he hates her;"
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                69,
+                "p7",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                70,
+                "p7",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "and behold, he has accused her of misconduct, saying, “I did not find in your daughter evidence of virginity.” And yet this is the evidence of my daughter’s virginity.’ And they shall spread the cloak before the elders of the city."
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                "v017_ESV_DEU_022",
+                71,
+                "p7",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 and behold, he has accused her of misconduct, saying, “I did not find in your daughter evidence of virginity.” And yet this is the evidence of my daughter’s virginity.’ And they shall spread the cloak before the elders of the city."
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                72,
+                "p7",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                73,
+                "p7",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "Then the elders of that city shall take the man and whip"
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                74,
+                "p7",
+                "verse",
+                "v18",
+                "note",
+                "f"
+              ],
+              "value": "#22:18Ordiscipline"
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                75,
+                "p7",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "him,"
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                "v018_ESV_DEU_022",
+                76,
+                "p7",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 Then the elders of that city shall take the man and whip him,"
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                77,
+                "p7",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                78,
+                "p7",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "and they shall fine him a hundred shekels"
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                79,
+                "p7",
+                "verse",
+                "v19",
+                "note",
+                "f"
+              ],
+              "value": "#22:19Ashekelwas about 2/5 ounce or 11 grams"
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                80,
+                "p7",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "of silver and give them to the father of the young woman, because he has brought a bad name upon a virgin"
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                81,
+                "p7",
+                "verse",
+                "v19",
+                "note",
+                "f"
+              ],
+              "value": "#22:19Orgirl of marriageable age"
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                82,
+                "p7",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "of Israel. And she shall be his wife."
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                83,
+                "p7",
+                "verse",
+                "v19",
+                "note",
+                "x"
+              ],
+              "value": "#[Matt. 19:8,9;Mark 10:11;Luke 16:18]"
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                84,
+                "p7",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "He may not divorce her all his days."
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                "v019_ESV_DEU_022",
+                85,
+                "p7",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 and they shall fine him a hundred shekels of silver and give them to the father of the young woman, because he has brought a bad name upon a virgin of Israel. And she shall be his wife. He may not divorce her all his days."
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                86,
+                "p7",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                87,
+                "p7",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "But if the thing is true, that evidence of virginity was not found in the young woman,"
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                "v020_ESV_DEU_022",
+                88,
+                "p7",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 But if the thing is true, that evidence of virginity was not found in the young woman,"
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                89,
+                "p7",
+                "verse",
+                "v21",
+                "label"
+              ],
+              "value": "21"
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                90,
+                "p7",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "then they shall bring out the young woman to the door of her father’s house, and"
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                91,
+                "p7",
+                "verse",
+                "v21",
+                "note",
+                "x"
+              ],
+              "value": "#[ch.21:21]"
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                92,
+                "p7",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "the men of her city shall stone her to death with stones, because she has"
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                93,
+                "p7",
+                "verse",
+                "v21",
+                "note",
+                "x"
+              ],
+              "value": "#SeeGen. 34:7"
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                94,
+                "p7",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "done an outrageous thing in Israel by whoring in her father’s house."
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                95,
+                "p7",
+                "verse",
+                "v21",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.13:5"
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                96,
+                "p7",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "So you shall purge the evil from your midst."
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                "v021_ESV_DEU_022",
+                97,
+                "p7",
+                "verse",
+                "v21",
+                "plain_text"
+              ],
+              "value": "21 then they shall bring out the young woman to the door of her father’s house, and the men of her city shall stone her to death with stones, because she has done an outrageous thing in Israel by whoring in her father’s house. So you shall purge the evil from your midst."
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                98,
+                "p8",
+                "verse",
+                "v22",
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                99,
+                "p8",
+                "verse",
+                "v22",
+                "note",
+                "x"
+              ],
+              "value": "#Lev. 20:10;[Ezek. 16:38,40;23:45,47;John 8:5]"
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                100,
+                "p8",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "“If a man is found lying with the wife of another man, both of them shall die, the man who lay with the woman, and the woman."
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                101,
+                "p8",
+                "verse",
+                "v22",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.21above]"
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                102,
+                "p8",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "So you shall purge the evil from Israel."
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                "v022_ESV_DEU_022",
+                103,
+                "p8",
+                "verse",
+                "v22",
+                "plain_text"
+              ],
+              "value": "22 “If a man is found lying with the wife of another man, both of them shall die, the man who lay with the woman, and the woman. So you shall purge the evil from Israel."
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                104,
+                "p9",
+                "verse",
+                "v23",
+                "label"
+              ],
+              "value": "23"
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                105,
+                "p9",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "“If there is a"
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                106,
+                "p9",
+                "verse",
+                "v23",
+                "note",
+                "x"
+              ],
+              "value": "#[Matt. 1:18,19]"
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                107,
+                "p9",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "betrothed virgin, and a man meets her in the city and lies with her,"
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                "v023_ESV_DEU_022",
+                108,
+                "p9",
+                "verse",
+                "v23",
+                "plain_text"
+              ],
+              "value": "23 “If there is a betrothed virgin, and a man meets her in the city and lies with her,"
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                109,
+                "p9",
+                "verse",
+                "v24",
+                "label"
+              ],
+              "value": "24"
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                110,
+                "p9",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "then you shall bring them both out to the gate of that city, and you shall stone them to death with stones, the young woman because she did not cry for help though she was in the city, and the man because he violated his neighbor’s wife."
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                111,
+                "p9",
+                "verse",
+                "v24",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.21above]"
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                112,
+                "p9",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "So you shall purge the evil from your midst."
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                "v024_ESV_DEU_022",
+                113,
+                "p9",
+                "verse",
+                "v24",
+                "plain_text"
+              ],
+              "value": "24 then you shall bring them both out to the gate of that city, and you shall stone them to death with stones, the young woman because she did not cry for help though she was in the city, and the man because he violated his neighbor’s wife. So you shall purge the evil from your midst."
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                114,
+                "p10",
+                "verse",
+                "v25",
+                "label"
+              ],
+              "value": "25"
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                115,
+                "p10",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "“But if in the open country a man meets a young woman who is betrothed, and the man seizes her and lies with her, then only the man who lay with her shall die."
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                "v025_ESV_DEU_022",
+                116,
+                "p10",
+                "verse",
+                "v25",
+                "plain_text"
+              ],
+              "value": "25 “But if in the open country a man meets a young woman who is betrothed, and the man seizes her and lies with her, then only the man who lay with her shall die."
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                117,
+                "p10",
+                "verse",
+                "v26",
+                "label"
+              ],
+              "value": "26"
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                118,
+                "p10",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "But you shall do nothing to the young woman; she has committed no offense punishable by death. For this case is like that of a man attacking and murdering his neighbor,"
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                "v026_ESV_DEU_022",
+                119,
+                "p10",
+                "verse",
+                "v26",
+                "plain_text"
+              ],
+              "value": "26 But you shall do nothing to the young woman; she has committed no offense punishable by death. For this case is like that of a man attacking and murdering his neighbor,"
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                120,
+                "p10",
+                "verse",
+                "v27",
+                "label"
+              ],
+              "value": "27"
+            },
+            {
+              "rowId": 121,
+              "keyParts": [
+                121,
+                "p10",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "because he met her in the open country, and though the betrothed young woman cried for help there was no one to rescue her."
+            },
+            {
+              "rowId": 122,
+              "keyParts": [
+                "v027_ESV_DEU_022",
+                122,
+                "p10",
+                "verse",
+                "v27",
+                "plain_text"
+              ],
+              "value": "27 because he met her in the open country, and though the betrothed young woman cried for help there was no one to rescue her."
+            },
+            {
+              "rowId": 123,
+              "keyParts": [
+                123,
+                "p11",
+                "verse",
+                "v28",
+                "label"
+              ],
+              "value": "28"
+            },
+            {
+              "rowId": 124,
+              "keyParts": [
+                124,
+                "p11",
+                "verse",
+                "v28",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 22:16,17"
+            },
+            {
+              "rowId": 125,
+              "keyParts": [
+                125,
+                "p11",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "“If a man meets a virgin who is not betrothed, and seizes her and lies with her, and they are found,"
+            },
+            {
+              "rowId": 126,
+              "keyParts": [
+                "v028_ESV_DEU_022",
+                126,
+                "p11",
+                "verse",
+                "v28",
+                "plain_text"
+              ],
+              "value": "28 “If a man meets a virgin who is not betrothed, and seizes her and lies with her, and they are found,"
+            },
+            {
+              "rowId": 127,
+              "keyParts": [
+                127,
+                "p11",
+                "verse",
+                "v29",
+                "label"
+              ],
+              "value": "29"
+            },
+            {
+              "rowId": 128,
+              "keyParts": [
+                128,
+                "p11",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "then the man who lay with her shall give to the father of the young woman fifty shekels of silver, and she shall be his wife, because he has violated her. He may not divorce her all his days."
+            },
+            {
+              "rowId": 129,
+              "keyParts": [
+                "v029_ESV_DEU_022",
+                129,
+                "p11",
+                "verse",
+                "v29",
+                "plain_text"
+              ],
+              "value": "29 then the man who lay with her shall give to the father of the young woman fifty shekels of silver, and she shall be his wife, because he has violated her. He may not divorce her all his days."
+            },
+            {
+              "rowId": 130,
+              "keyParts": [
+                130,
+                "p12",
+                "verse",
+                "v30",
+                "label"
+              ],
+              "value": "30"
+            },
+            {
+              "rowId": 131,
+              "keyParts": [
+                131,
+                "p12",
+                "verse",
+                "v30",
+                "note",
+                "f"
+              ],
+              "value": "#22:30Ch 23:1 in Hebrew"
+            },
+            {
+              "rowId": 132,
+              "keyParts": [
+                132,
+                "p12",
+                "verse",
+                "v30",
+                "note",
+                "x"
+              ],
+              "value": "#SeeLev. 18:8"
+            },
+            {
+              "rowId": 133,
+              "keyParts": [
+                133,
+                "p12",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "“A man shall not take his father’s wife, so that he does not"
+            },
+            {
+              "rowId": 134,
+              "keyParts": [
+                134,
+                "p12",
+                "verse",
+                "v30",
+                "note",
+                "x"
+              ],
+              "value": "#ch.27:20;[Ruth 3:9;Ezek. 16:8]"
+            },
+            {
+              "rowId": 135,
+              "keyParts": [
+                135,
+                "p12",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "uncover his father’s nakedness."
+            },
+            {
+              "rowId": 136,
+              "keyParts": [
+                136,
+                "p12",
+                "verse",
+                "v30",
+                "note",
+                "f"
+              ],
+              "value": "#22:30Hebrewuncover his father’s skirt"
+            },
+            {
+              "rowId": 137,
+              "keyParts": [
+                "v030_ESV_DEU_022",
+                137,
+                "p12",
+                "verse",
+                "v30",
+                "plain_text"
+              ],
+              "value": "30 “A man shall not take his father’s wife, so that he does not uncover his father’s nakedness."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1767 @@
+{
+  "translationId": "ESV",
+  "name": "English Standard Version",
+  "abbreviation": "ESV",
+  "language": "English",
+  "copyright": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.",
+  "books": [
+    {
+      "bookId": "GEN",
+      "testament": "OT",
+      "order": 1,
+      "title": "Genesis",
+      "abbreviation": "GEN",
+      "chapters": [
+        {
+          "chapter": 32,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "32"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Jacob Fears Esau"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "Jacob went on his way, and the angels of God met him."
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                "v001_ESV_GEN_032",
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 Jacob went on his way, and the angels of God met him."
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                7,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "And when Jacob saw them he said, “This is God’s"
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#[Josh. 5:14;Luke 2:13]"
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                9,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "camp!” So he called the name of that place"
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#Josh. 21:38;2 Sam. 2:8;17:24,27;1 Kgs. 2:8"
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                11,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "Mahanaim."
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                12,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "f"
+              ],
+              "value": "#32:2Mahanaimmeanstwo camps"
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                "v002_ESV_GEN_032",
+                13,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 And when Jacob saw them he said, “This is God’s camp!” So he called the name of that place Mahanaim."
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "p2",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                15,
+                "p2",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "And Jacob sent"
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                16,
+                "p2",
+                "verse",
+                "v3",
+                "note",
+                "f"
+              ],
+              "value": "#32:3Orhad sent"
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                17,
+                "p2",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "messengers before him to Esau his brother in the land of"
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "p2",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#ch.36:8,9;Deut. 2:5;Josh. 24:4"
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p2",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "Seir, the country of Edom,"
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                "v003_ESV_GEN_032",
+                20,
+                "p2",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 And Jacob sent messengers before him to Esau his brother in the land of Seir, the country of Edom,"
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p2",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                22,
+                "p2",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "instructing them, “Thus you shall say to my lord Esau: Thus says your servant Jacob, ‘I have sojourned with Laban and stayed until now."
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                "v004_ESV_GEN_032",
+                23,
+                "p2",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 instructing them, “Thus you shall say to my lord Esau: Thus says your servant Jacob, ‘I have sojourned with Laban and stayed until now."
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                24,
+                "p2",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "p2",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "I have oxen, donkeys, flocks, male servants, and female servants. I have sent to tell my lord, in order that"
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                26,
+                "p2",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#ch.33:8,15"
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                27,
+                "p2",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "I may find favor in your sight.’”"
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                "v005_ESV_GEN_032",
+                28,
+                "p2",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 I have oxen, donkeys, flocks, male servants, and female servants. I have sent to tell my lord, in order that I may find favor in your sight.’”"
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                29,
+                "p3",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                30,
+                "p3",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "And the messengers returned to Jacob, saying, “We came to your brother Esau, and"
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                31,
+                "p3",
+                "verse",
+                "v6",
+                "note",
+                "x"
+              ],
+              "value": "#ch.33:1"
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "p3",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "he is coming to meet you, and there are four hundred men with him.”"
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                "v006_ESV_GEN_032",
+                33,
+                "p3",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 And the messengers returned to Jacob, saying, “We came to your brother Esau, and he is coming to meet you, and there are four hundred men with him.”"
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                34,
+                "p3",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                35,
+                "p3",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "Then Jacob was"
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "p3",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#ch.35:3"
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                37,
+                "p3",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "greatly afraid and distressed. He divided the people who were with him, and the flocks and herds and camels, into two camps,"
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                "v007_ESV_GEN_032",
+                38,
+                "p3",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 Then Jacob was greatly afraid and distressed. He divided the people who were with him, and the flocks and herds and camels, into two camps,"
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                39,
+                "p3",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                40,
+                "p3",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "thinking, “If Esau comes to the one camp and attacks it, then the camp that is left will escape.”"
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                "v008_ESV_GEN_032",
+                41,
+                "p3",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 thinking, “If Esau comes to the one camp and attacks it, then the camp that is left will escape.”"
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "p4",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                43,
+                "p4",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "And Jacob said,"
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                44,
+                "p4",
+                "verse",
+                "v9",
+                "note",
+                "x"
+              ],
+              "value": "#ch.28:13;31:42,53"
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                45,
+                "p4",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "“O God of my father Abraham and God of my father Isaac, O"
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                46,
+                "p4",
+                "verse",
+                "v9",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                47,
+                "p4",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "who"
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                48,
+                "p4",
+                "verse",
+                "v9",
+                "note",
+                "x"
+              ],
+              "value": "#ch.31:3,13"
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                49,
+                "p4",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "said to me, ‘Return to your country and to your kindred, that I may do you good,’"
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                "v009_ESV_GEN_032",
+                50,
+                "p4",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 And Jacob said, “O God of my father Abraham and God of my father Isaac, O Lord who said to me, ‘Return to your country and to your kindred, that I may do you good,’"
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                51,
+                "p4",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                52,
+                "p4",
+                "verse",
+                "v10",
+                "note",
+                "x"
+              ],
+              "value": "#[2 Sam. 7:18]"
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                53,
+                "p4",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "I am not worthy of the least of all the deeds of steadfast love and all the faithfulness that you have shown to your servant, for with only my staff I crossed this Jordan, and now I have become two camps."
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                "v010_ESV_GEN_032",
+                54,
+                "p4",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 I am not worthy of the least of all the deeds of steadfast love and all the faithfulness that you have shown to your servant, for with only my staff I crossed this Jordan, and now I have become two camps."
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                55,
+                "p4",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                56,
+                "p4",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "Please deliver me from the hand of my brother, from the hand of Esau, for"
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                57,
+                "p4",
+                "verse",
+                "v11",
+                "note",
+                "x"
+              ],
+              "value": "#[Prov. 18:19]"
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                58,
+                "p4",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "I fear him, that he may come and attack me, the mothers with the children."
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                "v011_ESV_GEN_032",
+                59,
+                "p4",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 Please deliver me from the hand of my brother, from the hand of Esau, for I fear him, that he may come and attack me, the mothers with the children."
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                60,
+                "p4",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                61,
+                "p4",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "But"
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                62,
+                "p4",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#ch.28:13-15"
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                63,
+                "p4",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "you said, ‘I will surely do you good, and make your offspring as the sand of the sea, which cannot be numbered for multitude.’”"
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                "v012_ESV_GEN_032",
+                64,
+                "p4",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 But you said, ‘I will surely do you good, and make your offspring as the sand of the sea, which cannot be numbered for multitude.’”"
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                65,
+                "p5",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                66,
+                "p5",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "So he stayed there that night, and from what he had with him he took"
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                67,
+                "p5",
+                "verse",
+                "v13",
+                "note",
+                "x"
+              ],
+              "value": "#ch.43:11;[Prov. 17:8;18:16;19:6;21:14]"
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                68,
+                "p5",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "a present for his brother Esau,"
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                "v013_ESV_GEN_032",
+                69,
+                "p5",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 So he stayed there that night, and from what he had with him he took a present for his brother Esau,"
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                70,
+                "p5",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                71,
+                "p5",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "two hundred female goats and twenty male goats, two hundred ewes and twenty rams,"
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                "v014_ESV_GEN_032",
+                72,
+                "p5",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 two hundred female goats and twenty male goats, two hundred ewes and twenty rams,"
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                73,
+                "p5",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                74,
+                "p5",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "thirty milking camels and their calves, forty cows and ten bulls, twenty female donkeys and ten male donkeys."
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                "v015_ESV_GEN_032",
+                75,
+                "p5",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 thirty milking camels and their calves, forty cows and ten bulls, twenty female donkeys and ten male donkeys."
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                76,
+                "p5",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                77,
+                "p5",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "These he handed over to his servants, every drove by itself, and said to his servants, “Pass on ahead of me and put a space between drove and drove.”"
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                "v016_ESV_GEN_032",
+                78,
+                "p5",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 These he handed over to his servants, every drove by itself, and said to his servants, “Pass on ahead of me and put a space between drove and drove.”"
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                79,
+                "p5",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                80,
+                "p5",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "He instructed the first, “When Esau my brother meets you and asks you, ‘To whom do you belong? Where are you going? And whose are these ahead of you?’"
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                "v017_ESV_GEN_032",
+                81,
+                "p5",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 He instructed the first, “When Esau my brother meets you and asks you, ‘To whom do you belong? Where are you going? And whose are these ahead of you?’"
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                82,
+                "p5",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                83,
+                "p5",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "then you shall say, ‘They belong to your servant Jacob. They are a present sent to my lord Esau. And moreover, he is behind us.’”"
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                "v018_ESV_GEN_032",
+                84,
+                "p5",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 then you shall say, ‘They belong to your servant Jacob. They are a present sent to my lord Esau. And moreover, he is behind us.’”"
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                85,
+                "p5",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                86,
+                "p5",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "He likewise instructed the second and the third and all who followed the droves, “You shall say the same thing to Esau when you find him,"
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                "v019_ESV_GEN_032",
+                87,
+                "p5",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 He likewise instructed the second and the third and all who followed the droves, “You shall say the same thing to Esau when you find him,"
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                88,
+                "p5",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                89,
+                "p5",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "and you shall say, ‘Moreover, your servant Jacob is behind us.’” For he thought, “I may appease him"
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                90,
+                "p5",
+                "verse",
+                "v20",
+                "note",
+                "f"
+              ],
+              "value": "#32:20Hebrewappease his face"
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                91,
+                "p5",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "with the present that goes ahead of me, and afterward I shall see his face. Perhaps he will accept me.”"
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                92,
+                "p5",
+                "verse",
+                "v20",
+                "note",
+                "f"
+              ],
+              "value": "#32:20Hebrewhe will lift my face"
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                "v020_ESV_GEN_032",
+                93,
+                "p5",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 and you shall say, ‘Moreover, your servant Jacob is behind us.’” For he thought, “I may appease him with the present that goes ahead of me, and afterward I shall see his face. Perhaps he will accept me.”"
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                94,
+                "p5",
+                "verse",
+                "v21",
+                "label"
+              ],
+              "value": "21"
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                95,
+                "p5",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "So the present passed on ahead of him, and he himself stayed that night in the camp."
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Jacob Wrestles with God"
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                "v021_ESV_GEN_032",
+                97,
+                "p5",
+                "verse",
+                "v21",
+                "plain_text"
+              ],
+              "value": "21 So the present passed on ahead of him, and he himself stayed that night in the camp."
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                98,
+                "p6",
+                "verse",
+                "v22",
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                99,
+                "p6",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "The same night he arose and took his two wives, his two female servants, and his eleven children,"
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                100,
+                "p6",
+                "verse",
+                "v22",
+                "note",
+                "f"
+              ],
+              "value": "#32:22Orsons"
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                101,
+                "p6",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "and crossed the ford of the"
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                102,
+                "p6",
+                "verse",
+                "v22",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 2:37;3:16;Josh. 12:2"
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                103,
+                "p6",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "Jabbok."
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                "v022_ESV_GEN_032",
+                104,
+                "p6",
+                "verse",
+                "v22",
+                "plain_text"
+              ],
+              "value": "22 The same night he arose and took his two wives, his two female servants, and his eleven children, and crossed the ford of the Jabbok."
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                105,
+                "p6",
+                "verse",
+                "v23",
+                "label"
+              ],
+              "value": "23"
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                106,
+                "p6",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "He took them and sent them across the stream, and everything else that he had."
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                "v023_ESV_GEN_032",
+                107,
+                "p6",
+                "verse",
+                "v23",
+                "plain_text"
+              ],
+              "value": "23 He took them and sent them across the stream, and everything else that he had."
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                108,
+                "p6",
+                "verse",
+                "v24",
+                "label"
+              ],
+              "value": "24"
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                109,
+                "p6",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "And Jacob was left alone. And"
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                110,
+                "p6",
+                "verse",
+                "v24",
+                "note",
+                "x"
+              ],
+              "value": "#Hos. 12:3,4"
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                111,
+                "p6",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "a man wrestled with him until the breaking of the day."
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                "v024_ESV_GEN_032",
+                112,
+                "p6",
+                "verse",
+                "v24",
+                "plain_text"
+              ],
+              "value": "24 And Jacob was left alone. And a man wrestled with him until the breaking of the day."
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                113,
+                "p6",
+                "verse",
+                "v25",
+                "label"
+              ],
+              "value": "25"
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                114,
+                "p6",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "When the man saw that he did not prevail against Jacob, he touched his hip socket, and Jacob’s hip was put out of joint as he wrestled with him."
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                "v025_ESV_GEN_032",
+                115,
+                "p6",
+                "verse",
+                "v25",
+                "plain_text"
+              ],
+              "value": "25 When the man saw that he did not prevail against Jacob, he touched his hip socket, and Jacob’s hip was put out of joint as he wrestled with him."
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                116,
+                "p6",
+                "verse",
+                "v26",
+                "label"
+              ],
+              "value": "26"
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                117,
+                "p6",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "Then he said, “Let me go, for the day has broken.” But Jacob said,"
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                118,
+                "p6",
+                "verse",
+                "v26",
+                "note",
+                "x"
+              ],
+              "value": "#[Luke 18:1]; See Matt. 15:21-28"
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                119,
+                "p6",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "“I will not let you go unless you bless me.”"
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                "v026_ESV_GEN_032",
+                120,
+                "p6",
+                "verse",
+                "v26",
+                "plain_text"
+              ],
+              "value": "26 Then he said, “Let me go, for the day has broken.” But Jacob said, “I will not let you go unless you bless me.”"
+            },
+            {
+              "rowId": 121,
+              "keyParts": [
+                121,
+                "p6",
+                "verse",
+                "v27",
+                "label"
+              ],
+              "value": "27"
+            },
+            {
+              "rowId": 122,
+              "keyParts": [
+                122,
+                "p6",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "And he said to him, “What is your name?” And he said, “Jacob.”"
+            },
+            {
+              "rowId": 123,
+              "keyParts": [
+                "v027_ESV_GEN_032",
+                123,
+                "p6",
+                "verse",
+                "v27",
+                "plain_text"
+              ],
+              "value": "27 And he said to him, “What is your name?” And he said, “Jacob.”"
+            },
+            {
+              "rowId": 124,
+              "keyParts": [
+                124,
+                "p6",
+                "verse",
+                "v28",
+                "label"
+              ],
+              "value": "28"
+            },
+            {
+              "rowId": 125,
+              "keyParts": [
+                125,
+                "p6",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "Then he said,"
+            },
+            {
+              "rowId": 126,
+              "keyParts": [
+                126,
+                "p6",
+                "verse",
+                "v28",
+                "note",
+                "x"
+              ],
+              "value": "#ch.35:10;2 Kgs. 17:34"
+            },
+            {
+              "rowId": 127,
+              "keyParts": [
+                127,
+                "p6",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "“Your name shall no longer be called Jacob, but Israel,"
+            },
+            {
+              "rowId": 128,
+              "keyParts": [
+                128,
+                "p6",
+                "verse",
+                "v28",
+                "note",
+                "f"
+              ],
+              "value": "#32:28IsraelmeansHe strives with God, orGod strives"
+            },
+            {
+              "rowId": 129,
+              "keyParts": [
+                129,
+                "p6",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "for"
+            },
+            {
+              "rowId": 130,
+              "keyParts": [
+                130,
+                "p6",
+                "verse",
+                "v28",
+                "note",
+                "x"
+              ],
+              "value": "#Hos. 12:3,4"
+            },
+            {
+              "rowId": 131,
+              "keyParts": [
+                131,
+                "p6",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "you have striven with God and"
+            },
+            {
+              "rowId": 132,
+              "keyParts": [
+                132,
+                "p6",
+                "verse",
+                "v28",
+                "note",
+                "x"
+              ],
+              "value": "#ch.33:4"
+            },
+            {
+              "rowId": 133,
+              "keyParts": [
+                133,
+                "p6",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "with men, and have prevailed.”"
+            },
+            {
+              "rowId": 134,
+              "keyParts": [
+                "v028_ESV_GEN_032",
+                134,
+                "p6",
+                "verse",
+                "v28",
+                "plain_text"
+              ],
+              "value": "28 Then he said, “Your name shall no longer be called Jacob, but Israel, for you have striven with God and with men, and have prevailed.”"
+            },
+            {
+              "rowId": 135,
+              "keyParts": [
+                135,
+                "p6",
+                "verse",
+                "v29",
+                "label"
+              ],
+              "value": "29"
+            },
+            {
+              "rowId": 136,
+              "keyParts": [
+                136,
+                "p6",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "Then Jacob asked him, “Please tell me your name.” But he said,"
+            },
+            {
+              "rowId": 137,
+              "keyParts": [
+                137,
+                "p6",
+                "verse",
+                "v29",
+                "note",
+                "x"
+              ],
+              "value": "#Judg. 13:18"
+            },
+            {
+              "rowId": 138,
+              "keyParts": [
+                138,
+                "p6",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "“Why is it that you ask my name?” And there he blessed him."
+            },
+            {
+              "rowId": 139,
+              "keyParts": [
+                "v029_ESV_GEN_032",
+                139,
+                "p6",
+                "verse",
+                "v29",
+                "plain_text"
+              ],
+              "value": "29 Then Jacob asked him, “Please tell me your name.” But he said, “Why is it that you ask my name?” And there he blessed him."
+            },
+            {
+              "rowId": 140,
+              "keyParts": [
+                140,
+                "p6",
+                "verse",
+                "v30",
+                "label"
+              ],
+              "value": "30"
+            },
+            {
+              "rowId": 141,
+              "keyParts": [
+                141,
+                "p6",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "So Jacob called the name of the place Peniel,"
+            },
+            {
+              "rowId": 142,
+              "keyParts": [
+                142,
+                "p6",
+                "verse",
+                "v30",
+                "note",
+                "f"
+              ],
+              "value": "#32:30Penielmeansthe face of God"
+            },
+            {
+              "rowId": 143,
+              "keyParts": [
+                143,
+                "p6",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "saying, “For"
+            },
+            {
+              "rowId": 144,
+              "keyParts": [
+                144,
+                "p6",
+                "verse",
+                "v30",
+                "note",
+                "x"
+              ],
+              "value": "#ch.16:13;Ex. 24:10,11;Deut. 5:24;Judg. 6:22;13:22;[Ex. 33:20;Isa. 6:5]"
+            },
+            {
+              "rowId": 145,
+              "keyParts": [
+                145,
+                "p6",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "I have seen God face to face, and yet my life has been delivered.”"
+            },
+            {
+              "rowId": 146,
+              "keyParts": [
+                "v030_ESV_GEN_032",
+                146,
+                "p6",
+                "verse",
+                "v30",
+                "plain_text"
+              ],
+              "value": "30 So Jacob called the name of the place Peniel, saying, “For I have seen God face to face, and yet my life has been delivered.”"
+            },
+            {
+              "rowId": 147,
+              "keyParts": [
+                147,
+                "p6",
+                "verse",
+                "v31",
+                "label"
+              ],
+              "value": "31"
+            },
+            {
+              "rowId": 148,
+              "keyParts": [
+                148,
+                "p6",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "The sun rose upon him as he passed"
+            },
+            {
+              "rowId": 149,
+              "keyParts": [
+                149,
+                "p6",
+                "verse",
+                "v31",
+                "note",
+                "x"
+              ],
+              "value": "#Judg. 8:8,17;1 Kgs. 12:25"
+            },
+            {
+              "rowId": 150,
+              "keyParts": [
+                150,
+                "p6",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "Penuel, limping because of his hip."
+            },
+            {
+              "rowId": 151,
+              "keyParts": [
+                "v031_ESV_GEN_032",
+                151,
+                "p6",
+                "verse",
+                "v31",
+                "plain_text"
+              ],
+              "value": "31 The sun rose upon him as he passed Penuel, limping because of his hip."
+            },
+            {
+              "rowId": 152,
+              "keyParts": [
+                152,
+                "p6",
+                "verse",
+                "v32",
+                "label"
+              ],
+              "value": "32"
+            },
+            {
+              "rowId": 153,
+              "keyParts": [
+                153,
+                "p6",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "Therefore to this day the people of Israel do not eat the sinew of the thigh that is on the hip socket, because he touched the socket of Jacob’s hip on the sinew of the thigh."
+            },
+            {
+              "rowId": 154,
+              "keyParts": [
+                "v032_ESV_GEN_032",
+                154,
+                "p6",
+                "verse",
+                "v32",
+                "plain_text"
+              ],
+              "value": "32 Therefore to this day the people of Israel do not eat the sinew of the thigh that is on the hip socket, because he touched the socket of Jacob’s hip on the sinew of the thigh."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

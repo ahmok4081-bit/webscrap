@@ -1,0 +1,1848 @@
+{
+  "translationId": "ESV",
+  "name": "English Standard Version",
+  "abbreviation": "ESV",
+  "language": "English",
+  "copyright": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.",
+  "books": [
+    {
+      "bookId": "EXO",
+      "testament": "OT",
+      "order": 2,
+      "title": "Exodus",
+      "abbreviation": "EXO",
+      "chapters": [
+        {
+          "chapter": 21,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "21"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Laws About Slaves"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "“Now these are the"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#ch.24:3;Deut. 4:14;6:1"
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "rules that you shall set before them."
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                "v001_ESV_EXO_021",
+                7,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 “Now these are the rules that you shall set before them."
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                9,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 15:12;Jer. 34:14;SeeLev. 25:39-41"
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "When you buy a Hebrew slave,"
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                11,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "f"
+              ],
+              "value": "#21:2Orservant; the Hebrew term‘ebeddesignates a range of social and economic roles; also verses 5, 6, 7, 20, 21, 26, 27, 32 (see Preface)"
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                12,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "he shall serve six years, and in the seventh he shall go out free, for nothing."
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                "v002_ESV_EXO_021",
+                13,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 When you buy a Hebrew slave, he shall serve six years, and in the seventh he shall go out free, for nothing."
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "p1",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                15,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "If he comes in single, he shall go out single; if he comes in married, then his wife shall go out with him."
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                "v003_ESV_EXO_021",
+                16,
+                "p1",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 If he comes in single, he shall go out single; if he comes in married, then his wife shall go out with him."
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                17,
+                "p1",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "If his master gives him a wife and she bears him sons or daughters, the wife and her children shall be her master’s, and he shall go out alone."
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                "v004_ESV_EXO_021",
+                19,
+                "p1",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 If his master gives him a wife and she bears him sons or daughters, the wife and her children shall be her master’s, and he shall go out alone."
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                20,
+                "p1",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "But"
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                22,
+                "p1",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 15:16,17"
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "if the slave plainly says, ‘I love my master, my wife, and my children; I will not go out free,’"
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                "v005_ESV_EXO_021",
+                24,
+                "p1",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 But if the slave plainly says, ‘I love my master, my wife, and my children; I will not go out free,’"
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "p1",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                26,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "then his master shall bring him to"
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                27,
+                "p1",
+                "verse",
+                "v6",
+                "note",
+                "x"
+              ],
+              "value": "#[Ps. 82:6;John 10:34,35]"
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                28,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "God, and he shall bring him to the door or the doorpost. And his master shall bore his ear through with an awl, and he shall be his slave forever."
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                "v006_ESV_EXO_021",
+                29,
+                "p1",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 then his master shall bring him to God, and he shall bring him to the door or the doorpost. And his master shall bore his ear through with an awl, and he shall be his slave forever."
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                30,
+                "p2",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                31,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "“When a man"
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "p2",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#Neh. 5:5"
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                33,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "sells his daughter as a slave, she shall not go out as the male slaves do."
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                "v007_ESV_EXO_021",
+                34,
+                "p2",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 “When a man sells his daughter as a slave, she shall not go out as the male slaves do."
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                35,
+                "p2",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "If she does not please her master, who has designated her"
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                37,
+                "p2",
+                "verse",
+                "v8",
+                "note",
+                "f"
+              ],
+              "value": "#21:8Orso that he has not designated her"
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                38,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "for himself, then he shall let her be redeemed. He shall have no right to sell her to a foreign people, since he has broken faith with her."
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                "v008_ESV_EXO_021",
+                39,
+                "p2",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 If she does not please her master, who has designated her for himself, then he shall let her be redeemed. He shall have no right to sell her to a foreign people, since he has broken faith with her."
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                40,
+                "p2",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "If he designates her for his son, he shall deal with her as with a daughter."
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                "v009_ESV_EXO_021",
+                42,
+                "p2",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 If he designates her for his son, he shall deal with her as with a daughter."
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                43,
+                "p2",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                44,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "If he takes another wife to himself, he shall not diminish her food, her clothing, or"
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                45,
+                "p2",
+                "verse",
+                "v10",
+                "note",
+                "x"
+              ],
+              "value": "#1 Cor. 7:5"
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                46,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "her marital rights."
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                "v010_ESV_EXO_021",
+                47,
+                "p2",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 If he takes another wife to himself, he shall not diminish her food, her clothing, or her marital rights."
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                48,
+                "p2",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                49,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "And if he does not do these three things for her, she shall go out for nothing, without payment of money."
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                "v011_ESV_EXO_021",
+                50,
+                "p2",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 And if he does not do these three things for her, she shall go out for nothing, without payment of money."
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                51,
+                "p3",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                52,
+                "p3",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#Gen. 9:6;Lev. 24:17;Num. 35:30,31;[Matt. 26:52]"
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                53,
+                "p3",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "“Whoever strikes a man so that he dies shall be put to death."
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                "v012_ESV_EXO_021",
+                54,
+                "p3",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 “Whoever strikes a man so that he dies shall be put to death."
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                55,
+                "p3",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                56,
+                "p3",
+                "verse",
+                "v13",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 19:4,5;SeeNum. 35:22-25"
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                57,
+                "p3",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "But if he did not lie in wait for him, but God let him fall into his hand, then"
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                58,
+                "p3",
+                "verse",
+                "v13",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 35:11;Deut. 4:41-43;19:2,3;SeeJosh. 20:2-9"
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                59,
+                "p3",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "I will appoint for you a place to which he may flee."
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                "v013_ESV_EXO_021",
+                60,
+                "p3",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 But if he did not lie in wait for him, but God let him fall into his hand, then I will appoint for you a place to which he may flee."
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                61,
+                "p3",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                62,
+                "p3",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "But if a man willfully attacks another to kill him by cunning,"
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                63,
+                "p3",
+                "verse",
+                "v14",
+                "note",
+                "x"
+              ],
+              "value": "#See1 Kgs. 2:28-34"
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                64,
+                "p3",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "you shall take him from my altar, that he may die."
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                "v014_ESV_EXO_021",
+                65,
+                "p3",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 But if a man willfully attacks another to kill him by cunning, you shall take him from my altar, that he may die."
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                66,
+                "p4",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                67,
+                "p4",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "“Whoever strikes his father or his mother shall be put to death."
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                "v015_ESV_EXO_021",
+                68,
+                "p4",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 “Whoever strikes his father or his mother shall be put to death."
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                69,
+                "p5",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                70,
+                "p5",
+                "verse",
+                "v16",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 24:7;1 Tim. 1:10"
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                71,
+                "p5",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "“Whoever steals a man and sells him, and anyone found"
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                72,
+                "p5",
+                "verse",
+                "v16",
+                "note",
+                "x"
+              ],
+              "value": "#ch.22:4"
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                73,
+                "p5",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "in possession of him, shall be put to death."
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                "v016_ESV_EXO_021",
+                74,
+                "p5",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 “Whoever steals a man and sells him, and anyone found in possession of him, shall be put to death."
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                75,
+                "p6",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                76,
+                "p6",
+                "verse",
+                "v17",
+                "note",
+                "x"
+              ],
+              "value": "#Lev. 20:9;Deut. 27:16;CitedMatt. 15:4;Mark 7:10;[Prov. 20:20;30:11]"
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                77,
+                "p6",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "“Whoever curses"
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                78,
+                "p6",
+                "verse",
+                "v17",
+                "note",
+                "f"
+              ],
+              "value": "#21:17Ordishonors; Septuagintreviles"
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                79,
+                "p6",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "his father or his mother shall be put to death."
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                "v017_ESV_EXO_021",
+                80,
+                "p6",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 “Whoever curses his father or his mother shall be put to death."
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                81,
+                "p7",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                82,
+                "p7",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "“When men quarrel and one strikes the other with a stone or with his fist and the man does not die but takes to his bed,"
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                "v018_ESV_EXO_021",
+                83,
+                "p7",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 “When men quarrel and one strikes the other with a stone or with his fist and the man does not die but takes to his bed,"
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                84,
+                "p7",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                85,
+                "p7",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "then if the man rises again and walks outdoors with his staff, he who struck him shall be clear; only he shall pay for the loss of his time, and shall have him thoroughly healed."
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                "v019_ESV_EXO_021",
+                86,
+                "p7",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 then if the man rises again and walks outdoors with his staff, he who struck him shall be clear; only he shall pay for the loss of his time, and shall have him thoroughly healed."
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                87,
+                "p8",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                88,
+                "p8",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "“When a man strikes his slave, male or female, with a rod and the slave dies under his hand, he shall be avenged."
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                "v020_ESV_EXO_021",
+                89,
+                "p8",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 “When a man strikes his slave, male or female, with a rod and the slave dies under his hand, he shall be avenged."
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                90,
+                "p8",
+                "verse",
+                "v21",
+                "label"
+              ],
+              "value": "21"
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                91,
+                "p8",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "But if the slave survives a day or two, he is not to be avenged, for the"
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                92,
+                "p8",
+                "verse",
+                "v21",
+                "note",
+                "x"
+              ],
+              "value": "#[Lev. 25:45,46]"
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                93,
+                "p8",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "slave is his money."
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                "v021_ESV_EXO_021",
+                94,
+                "p8",
+                "verse",
+                "v21",
+                "plain_text"
+              ],
+              "value": "21 But if the slave survives a day or two, he is not to be avenged, for the slave is his money."
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                95,
+                "p9",
+                "verse",
+                "v22",
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                96,
+                "p9",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "“When men strive together and hit a pregnant woman, so that her children come out, but there is no harm, the one who hit her shall surely be fined, as the woman’s husband shall impose on him, and"
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                97,
+                "p9",
+                "verse",
+                "v22",
+                "note",
+                "x"
+              ],
+              "value": "#[Deut. 22:18,19]"
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                98,
+                "p9",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "he shall pay as the"
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                99,
+                "p9",
+                "verse",
+                "v22",
+                "note",
+                "x"
+              ],
+              "value": "#[Job 31:11]"
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                100,
+                "p9",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "judges determine."
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                "v022_ESV_EXO_021",
+                101,
+                "p9",
+                "verse",
+                "v22",
+                "plain_text"
+              ],
+              "value": "22 “When men strive together and hit a pregnant woman, so that her children come out, but there is no harm, the one who hit her shall surely be fined, as the woman’s husband shall impose on him, and he shall pay as the judges determine."
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                102,
+                "p9",
+                "verse",
+                "v23",
+                "label"
+              ],
+              "value": "23"
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                103,
+                "p9",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "But if there is harm,"
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                104,
+                "p9",
+                "verse",
+                "v23",
+                "note",
+                "f"
+              ],
+              "value": "#21:23Orso that her children come out and it is clear who was to blame, he shall be fined as the woman’s husband shall impose on him, and he alone shall pay.23If it is unclear who was to blame"
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                105,
+                "p9",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "then you shall pay"
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                106,
+                "p9",
+                "verse",
+                "v23",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 19:21"
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                107,
+                "p9",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "life for life,"
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                "v023_ESV_EXO_021",
+                108,
+                "p9",
+                "verse",
+                "v23",
+                "plain_text"
+              ],
+              "value": "23 But if there is harm, then you shall pay life for life,"
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                109,
+                "p9",
+                "verse",
+                "v24",
+                "label"
+              ],
+              "value": "24"
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                110,
+                "p9",
+                "verse",
+                "v24",
+                "note",
+                "x"
+              ],
+              "value": "#Lev. 24:20;Deut. 19:21;CitedMatt. 5:38"
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                111,
+                "p9",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "eye for eye, tooth for tooth, hand for hand, foot for foot,"
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                "v024_ESV_EXO_021",
+                112,
+                "p9",
+                "verse",
+                "v24",
+                "plain_text"
+              ],
+              "value": "24 eye for eye, tooth for tooth, hand for hand, foot for foot,"
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                113,
+                "p9",
+                "verse",
+                "v25",
+                "label"
+              ],
+              "value": "25"
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                114,
+                "p9",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "burn for burn, wound for wound, stripe for stripe."
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                "v025_ESV_EXO_021",
+                115,
+                "p9",
+                "verse",
+                "v25",
+                "plain_text"
+              ],
+              "value": "25 burn for burn, wound for wound, stripe for stripe."
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                116,
+                "p10",
+                "verse",
+                "v26",
+                "label"
+              ],
+              "value": "26"
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                117,
+                "p10",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "“When a man strikes the eye of his slave, male or female, and destroys it, he shall let the slave go free because of his eye."
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                "v026_ESV_EXO_021",
+                118,
+                "p10",
+                "verse",
+                "v26",
+                "plain_text"
+              ],
+              "value": "26 “When a man strikes the eye of his slave, male or female, and destroys it, he shall let the slave go free because of his eye."
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                119,
+                "p10",
+                "verse",
+                "v27",
+                "label"
+              ],
+              "value": "27"
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                120,
+                "p10",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "If he knocks out the tooth of his slave, male or female, he shall let the slave go free because of his tooth."
+            },
+            {
+              "rowId": 121,
+              "keyParts": [
+                "v027_ESV_EXO_021",
+                121,
+                "p10",
+                "verse",
+                "v27",
+                "plain_text"
+              ],
+              "value": "27 If he knocks out the tooth of his slave, male or female, he shall let the slave go free because of his tooth."
+            },
+            {
+              "rowId": 122,
+              "keyParts": [
+                122,
+                "p11",
+                "verse",
+                "v28",
+                "label"
+              ],
+              "value": "28"
+            },
+            {
+              "rowId": 123,
+              "keyParts": [
+                123,
+                "p11",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "“When an ox gores a man or a woman to death, the"
+            },
+            {
+              "rowId": 124,
+              "keyParts": [
+                124,
+                "p11",
+                "verse",
+                "v28",
+                "note",
+                "x"
+              ],
+              "value": "#Gen. 9:5"
+            },
+            {
+              "rowId": 125,
+              "keyParts": [
+                125,
+                "p11",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "ox shall be stoned, and its flesh shall not be eaten, but the owner of the ox shall not be liable."
+            },
+            {
+              "rowId": 126,
+              "keyParts": [
+                "v028_ESV_EXO_021",
+                126,
+                "p11",
+                "verse",
+                "v28",
+                "plain_text"
+              ],
+              "value": "28 “When an ox gores a man or a woman to death, the ox shall be stoned, and its flesh shall not be eaten, but the owner of the ox shall not be liable."
+            },
+            {
+              "rowId": 127,
+              "keyParts": [
+                127,
+                "p11",
+                "verse",
+                "v29",
+                "label"
+              ],
+              "value": "29"
+            },
+            {
+              "rowId": 128,
+              "keyParts": [
+                128,
+                "p11",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "But if the ox has been accustomed to gore in the past, and its owner has been warned but has not kept it in, and it kills a man or a woman, the ox shall be stoned, and its owner also shall be put to death."
+            },
+            {
+              "rowId": 129,
+              "keyParts": [
+                "v029_ESV_EXO_021",
+                129,
+                "p11",
+                "verse",
+                "v29",
+                "plain_text"
+              ],
+              "value": "29 But if the ox has been accustomed to gore in the past, and its owner has been warned but has not kept it in, and it kills a man or a woman, the ox shall be stoned, and its owner also shall be put to death."
+            },
+            {
+              "rowId": 130,
+              "keyParts": [
+                130,
+                "p11",
+                "verse",
+                "v30",
+                "label"
+              ],
+              "value": "30"
+            },
+            {
+              "rowId": 131,
+              "keyParts": [
+                131,
+                "p11",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "If"
+            },
+            {
+              "rowId": 132,
+              "keyParts": [
+                132,
+                "p11",
+                "verse",
+                "v30",
+                "note",
+                "x"
+              ],
+              "value": "#ch.30:12;Num. 35:31,32"
+            },
+            {
+              "rowId": 133,
+              "keyParts": [
+                133,
+                "p11",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "a ransom is imposed on him, then"
+            },
+            {
+              "rowId": 134,
+              "keyParts": [
+                134,
+                "p11",
+                "verse",
+                "v30",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.22above]"
+            },
+            {
+              "rowId": 135,
+              "keyParts": [
+                135,
+                "p11",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "he shall give for the redemption of his life whatever is imposed on him."
+            },
+            {
+              "rowId": 136,
+              "keyParts": [
+                "v030_ESV_EXO_021",
+                136,
+                "p11",
+                "verse",
+                "v30",
+                "plain_text"
+              ],
+              "value": "30 If a ransom is imposed on him, then he shall give for the redemption of his life whatever is imposed on him."
+            },
+            {
+              "rowId": 137,
+              "keyParts": [
+                137,
+                "p11",
+                "verse",
+                "v31",
+                "label"
+              ],
+              "value": "31"
+            },
+            {
+              "rowId": 138,
+              "keyParts": [
+                138,
+                "p11",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "If it gores a man’s son or daughter, he shall be dealt with according to this same rule."
+            },
+            {
+              "rowId": 139,
+              "keyParts": [
+                "v031_ESV_EXO_021",
+                139,
+                "p11",
+                "verse",
+                "v31",
+                "plain_text"
+              ],
+              "value": "31 If it gores a man’s son or daughter, he shall be dealt with according to this same rule."
+            },
+            {
+              "rowId": 140,
+              "keyParts": [
+                140,
+                "p11",
+                "verse",
+                "v32",
+                "label"
+              ],
+              "value": "32"
+            },
+            {
+              "rowId": 141,
+              "keyParts": [
+                141,
+                "p11",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "If the ox gores a slave, male or female, the owner shall give to their master"
+            },
+            {
+              "rowId": 142,
+              "keyParts": [
+                142,
+                "p11",
+                "verse",
+                "v32",
+                "note",
+                "x"
+              ],
+              "value": "#[Zech. 11:12,13;Matt. 26:15]"
+            },
+            {
+              "rowId": 143,
+              "keyParts": [
+                143,
+                "p11",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "thirty shekels"
+            },
+            {
+              "rowId": 144,
+              "keyParts": [
+                144,
+                "p11",
+                "verse",
+                "v32",
+                "note",
+                "f"
+              ],
+              "value": "#21:32Ashekelwas about 2/5 ounce or 11 grams"
+            },
+            {
+              "rowId": 145,
+              "keyParts": [
+                145,
+                "p11",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "of silver, and"
+            },
+            {
+              "rowId": 146,
+              "keyParts": [
+                146,
+                "p11",
+                "verse",
+                "v32",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.28above]"
+            },
+            {
+              "rowId": 147,
+              "keyParts": [
+                147,
+                "p11",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "the ox shall be stoned."
+            },
+            {
+              "rowId": 148,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Laws About Restitution"
+            },
+            {
+              "rowId": 149,
+              "keyParts": [
+                "v032_ESV_EXO_021",
+                149,
+                "p11",
+                "verse",
+                "v32",
+                "plain_text"
+              ],
+              "value": "32 If the ox gores a slave, male or female, the owner shall give to their master thirty shekels of silver, and the ox shall be stoned."
+            },
+            {
+              "rowId": 150,
+              "keyParts": [
+                150,
+                "p12",
+                "verse",
+                "v33",
+                "label"
+              ],
+              "value": "33"
+            },
+            {
+              "rowId": 151,
+              "keyParts": [
+                151,
+                "p12",
+                "verse",
+                "v33",
+                "content"
+              ],
+              "value": "“When a man opens a pit, or when a man digs a pit and does not cover it, and an ox or a donkey falls into it,"
+            },
+            {
+              "rowId": 152,
+              "keyParts": [
+                "v033_ESV_EXO_021",
+                152,
+                "p12",
+                "verse",
+                "v33",
+                "plain_text"
+              ],
+              "value": "33 “When a man opens a pit, or when a man digs a pit and does not cover it, and an ox or a donkey falls into it,"
+            },
+            {
+              "rowId": 153,
+              "keyParts": [
+                153,
+                "p12",
+                "verse",
+                "v34",
+                "label"
+              ],
+              "value": "34"
+            },
+            {
+              "rowId": 154,
+              "keyParts": [
+                154,
+                "p12",
+                "verse",
+                "v34",
+                "content"
+              ],
+              "value": "the owner of the pit shall make restoration. He shall give money to its owner, and the dead beast shall be his."
+            },
+            {
+              "rowId": 155,
+              "keyParts": [
+                "v034_ESV_EXO_021",
+                155,
+                "p12",
+                "verse",
+                "v34",
+                "plain_text"
+              ],
+              "value": "34 the owner of the pit shall make restoration. He shall give money to its owner, and the dead beast shall be his."
+            },
+            {
+              "rowId": 156,
+              "keyParts": [
+                156,
+                "p13",
+                "verse",
+                "v35",
+                "label"
+              ],
+              "value": "35"
+            },
+            {
+              "rowId": 157,
+              "keyParts": [
+                157,
+                "p13",
+                "verse",
+                "v35",
+                "content"
+              ],
+              "value": "“When one man’s ox butts another’s, so that it dies, then they shall sell the live ox and share its price, and the dead beast also they shall share."
+            },
+            {
+              "rowId": 158,
+              "keyParts": [
+                "v035_ESV_EXO_021",
+                158,
+                "p13",
+                "verse",
+                "v35",
+                "plain_text"
+              ],
+              "value": "35 “When one man’s ox butts another’s, so that it dies, then they shall sell the live ox and share its price, and the dead beast also they shall share."
+            },
+            {
+              "rowId": 159,
+              "keyParts": [
+                159,
+                "p13",
+                "verse",
+                "v36",
+                "label"
+              ],
+              "value": "36"
+            },
+            {
+              "rowId": 160,
+              "keyParts": [
+                160,
+                "p13",
+                "verse",
+                "v36",
+                "content"
+              ],
+              "value": "Or if it is known that the ox has been accustomed to gore in the past, and its owner has not kept it in, he shall repay ox for ox, and the dead beast shall be his."
+            },
+            {
+              "rowId": 161,
+              "keyParts": [
+                "v036_ESV_EXO_021",
+                161,
+                "p13",
+                "verse",
+                "v36",
+                "plain_text"
+              ],
+              "value": "36 Or if it is known that the ox has been accustomed to gore in the past, and its owner has not kept it in, he shall repay ox for ox, and the dead beast shall be his."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

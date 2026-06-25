@@ -1,0 +1,1156 @@
+{
+  "translationId": "ESV",
+  "name": "English Standard Version",
+  "abbreviation": "ESV",
+  "language": "English",
+  "copyright": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.",
+  "books": [
+    {
+      "bookId": "GEN",
+      "testament": "OT",
+      "order": 1,
+      "title": "Genesis",
+      "abbreviation": "GEN",
+      "chapters": [
+        {
+          "chapter": 20,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Abraham and Abimelech"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "From there Abraham journeyed toward the territory of the Negeb and lived between"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#ch.16:7,14"
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "Kadesh and Shur; and he"
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                7,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#ch.26:3"
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "sojourned in"
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                9,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#ch.26:6"
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "Gerar."
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                "v001_ESV_GEN_020",
+                11,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 From there Abraham journeyed toward the territory of the Negeb and lived between Kadesh and Shur; and he sojourned in Gerar."
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                12,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                13,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "And Abraham said of Sarah his wife,"
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.12:13-20;26:7-11"
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                15,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "“She is my sister.” And Abimelech king of Gerar sent and took Sarah."
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                "v002_ESV_GEN_020",
+                16,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 And Abraham said of Sarah his wife, “She is my sister.” And Abimelech king of Gerar sent and took Sarah."
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                17,
+                "p1",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#Ps. 105:14"
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "But God came to Abimelech"
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                20,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#Job 33:15,16;Matt. 1:20;2:12"
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "in a dream by night and said to him, “Behold, you are a dead man because of the woman whom you have taken, for she is a man’s wife.”"
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                "v003_ESV_GEN_020",
+                22,
+                "p1",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 But God came to Abimelech in a dream by night and said to him, “Behold, you are a dead man because of the woman whom you have taken, for she is a man’s wife.”"
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "p1",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                24,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "Now Abimelech had not approached her. So he said,"
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#ch.18:23;[1 Chr. 21:17]"
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                26,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "“Lord, will you kill an innocent people?"
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                "v004_ESV_GEN_020",
+                27,
+                "p1",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 Now Abimelech had not approached her. So he said, “Lord, will you kill an innocent people?"
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                28,
+                "p1",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                29,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "Did he not himself say to me, ‘She is my sister’? And she herself said, ‘He is my brother.’ In the integrity of my heart and the innocence of my hands I have done this.”"
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                "v005_ESV_GEN_020",
+                30,
+                "p1",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 Did he not himself say to me, ‘She is my sister’? And she herself said, ‘He is my brother.’ In the integrity of my heart and the innocence of my hands I have done this.”"
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                31,
+                "p1",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "Then God said to him in the dream, “Yes, I know that you have done this in the integrity of your heart, and it was I who kept you from sinning"
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                33,
+                "p1",
+                "verse",
+                "v6",
+                "note",
+                "x"
+              ],
+              "value": "#ch.39:9;Ps. 51:4"
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                34,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "against me. Therefore I did not let you touch her."
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                "v006_ESV_GEN_020",
+                35,
+                "p1",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 Then God said to him in the dream, “Yes, I know that you have done this in the integrity of your heart, and it was I who kept you from sinning against me. Therefore I did not let you touch her."
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "p1",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                37,
+                "p1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "Now then, return the man’s wife,"
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                38,
+                "p1",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#1 Sam. 7:5;Job 42:8"
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                39,
+                "p1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "for he is a prophet, so that he will pray for you, and you shall live. But if you do not return her, know that you shall surely die, you"
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                40,
+                "p1",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#[Num. 16:32,33]"
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "and all who are yours.”"
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                "v007_ESV_GEN_020",
+                42,
+                "p1",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 Now then, return the man’s wife, for he is a prophet, so that he will pray for you, and you shall live. But if you do not return her, know that you shall surely die, you and all who are yours.”"
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                43,
+                "p2",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                44,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "So Abimelech rose early in the morning and called all his servants and told them all these things. And the men were very much afraid."
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                "v008_ESV_GEN_020",
+                45,
+                "p2",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 So Abimelech rose early in the morning and called all his servants and told them all these things. And the men were very much afraid."
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                46,
+                "p2",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                47,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "Then Abimelech called Abraham and said to him, “What have you done to us? And how have I sinned against you, that you have brought on me and my kingdom a great sin? You have done to me things that ought not to be done.”"
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                "v009_ESV_GEN_020",
+                48,
+                "p2",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 Then Abimelech called Abraham and said to him, “What have you done to us? And how have I sinned against you, that you have brought on me and my kingdom a great sin? You have done to me things that ought not to be done.”"
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                49,
+                "p2",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "And Abimelech said to Abraham, “What did you see, that you did this thing?”"
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                "v010_ESV_GEN_020",
+                51,
+                "p2",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 And Abimelech said to Abraham, “What did you see, that you did this thing?”"
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                52,
+                "p2",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                53,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "Abraham said, “I did it because I thought,"
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                54,
+                "p2",
+                "verse",
+                "v11",
+                "note",
+                "x"
+              ],
+              "value": "#Prov. 16:6"
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                55,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "‘There is no fear of God at all in this place, and"
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                56,
+                "p2",
+                "verse",
+                "v11",
+                "note",
+                "x"
+              ],
+              "value": "#ch.12:12;26:7"
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                57,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "they will kill me because of my wife.’"
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                "v011_ESV_GEN_020",
+                58,
+                "p2",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 Abraham said, “I did it because I thought, ‘There is no fear of God at all in this place, and they will kill me because of my wife.’"
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                59,
+                "p2",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                60,
+                "p2",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "Besides,"
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                61,
+                "p2",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#[ch.11:29]"
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                62,
+                "p2",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "she is indeed my sister, the daughter of my father though not the daughter of my mother, and she became my wife."
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                "v012_ESV_GEN_020",
+                63,
+                "p2",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 Besides, she is indeed my sister, the daughter of my father though not the daughter of my mother, and she became my wife."
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                64,
+                "p2",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                65,
+                "p2",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "And when"
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                66,
+                "p2",
+                "verse",
+                "v13",
+                "note",
+                "x"
+              ],
+              "value": "#ch.12:1"
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                67,
+                "p2",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "God caused me to wander from my father’s house, I said to her, ‘This is the kindness you must do me: at every place to which we come,"
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                68,
+                "p2",
+                "verse",
+                "v13",
+                "note",
+                "x"
+              ],
+              "value": "#ch.12:13"
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                69,
+                "p2",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "say of me, “He is my brother.”’”"
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                "v013_ESV_GEN_020",
+                70,
+                "p2",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 And when God caused me to wander from my father’s house, I said to her, ‘This is the kindness you must do me: at every place to which we come, say of me, “He is my brother.”’”"
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                71,
+                "p3",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                72,
+                "p3",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "Then Abimelech"
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                73,
+                "p3",
+                "verse",
+                "v14",
+                "note",
+                "x"
+              ],
+              "value": "#ch.12:16"
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                74,
+                "p3",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "took sheep and oxen, and male servants and female servants, and gave them to Abraham, and returned Sarah his wife to him."
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                "v014_ESV_GEN_020",
+                75,
+                "p3",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 Then Abimelech took sheep and oxen, and male servants and female servants, and gave them to Abraham, and returned Sarah his wife to him."
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                76,
+                "p3",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                77,
+                "p3",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "And Abimelech said, “Behold,"
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                78,
+                "p3",
+                "verse",
+                "v15",
+                "note",
+                "x"
+              ],
+              "value": "#ch.13:9;34:10"
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                79,
+                "p3",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "my land is before you; dwell where it pleases you.”"
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                "v015_ESV_GEN_020",
+                80,
+                "p3",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 And Abimelech said, “Behold, my land is before you; dwell where it pleases you.”"
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                81,
+                "p3",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                82,
+                "p3",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "To Sarah he said, “Behold, I have given"
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                83,
+                "p3",
+                "verse",
+                "v16",
+                "note",
+                "x"
+              ],
+              "value": "#[ver.5]"
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                84,
+                "p3",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "your brother a thousand pieces of silver. It is"
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                85,
+                "p3",
+                "verse",
+                "v16",
+                "note",
+                "x"
+              ],
+              "value": "#[ch.24:65]"
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                86,
+                "p3",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "a sign of your innocence in the eyes of all"
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                87,
+                "p3",
+                "verse",
+                "v16",
+                "note",
+                "f"
+              ],
+              "value": "#20:16HebrewIt is a covering of eyes for all"
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                88,
+                "p3",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "who are with you, and before everyone you are vindicated.”"
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                "v016_ESV_GEN_020",
+                89,
+                "p3",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 To Sarah he said, “Behold, I have given your brother a thousand pieces of silver. It is a sign of your innocence in the eyes of all who are with you, and before everyone you are vindicated.”"
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                90,
+                "p3",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                91,
+                "p3",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "Then"
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                92,
+                "p3",
+                "verse",
+                "v17",
+                "note",
+                "x"
+              ],
+              "value": "#[James 5:16]"
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                93,
+                "p3",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "Abraham prayed to God, and God healed Abimelech, and also healed his wife and female slaves so that they bore children."
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                "v017_ESV_GEN_020",
+                94,
+                "p3",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 Then Abraham prayed to God, and God healed Abimelech, and also healed his wife and female slaves so that they bore children."
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                95,
+                "p3",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                96,
+                "p3",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "For the"
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                97,
+                "p3",
+                "verse",
+                "v18",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                98,
+                "p3",
+                "verse",
+                "v18",
+                "note",
+                "x"
+              ],
+              "value": "#[ch.12:17]"
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                99,
+                "p3",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "had closed all the wombs of the house of Abimelech because of Sarah, Abraham’s wife."
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                "v018_ESV_GEN_020",
+                100,
+                "p3",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 For the Lord had closed all the wombs of the house of Abimelech because of Sarah, Abraham’s wife."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

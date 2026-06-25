@@ -1,0 +1,1607 @@
+{
+  "translationId": "NET",
+  "name": "New English Translation",
+  "abbreviation": "NET",
+  "language": "English",
+  "copyright": "1996 - 2007 by Biblical Studies Press, LLC",
+  "books": [
+    {
+      "bookId": "GEN",
+      "testament": "",
+      "order": 0,
+      "title": "Genesis",
+      "abbreviation": "GEN",
+      "chapters": [
+        {
+          "chapter": 23,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "23"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "The Death of Sarah"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "Sarah lived 127 years."
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “And the years of Sarah were one hundred years and twenty years and seven years, the years of the life of Sarah.”"
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                "v001_NET_GEN_023",
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 Sarah lived 127 years."
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                7,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "Then she"
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                9,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “Sarah.” The proper name has been replaced in the translation by the pronoun (“she”) for stylistic reasons."
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "died in Kiriath Arba (that is, Hebron) in the land of Canaan. Abraham went to mourn for Sarah and to weep for her."
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                11,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "f"
+              ],
+              "value": "sn Mourn…weep. The description here is of standard mourning rites (see K. A. Kitchen, NBD3 149-50). They would have been carried out in the presence of the corpse, probably in Sarah’s tent. So Abraham came in to mourn; then he rose up to go and bury his dead (v. 3)."
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                "v002_NET_GEN_023",
+                12,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 Then she died in Kiriath Arba (that is, Hebron) in the land of Canaan. Abraham went to mourn for Sarah and to weep for her."
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                13,
+                "p2",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "p2",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "Then Abraham got up from mourning his dead wife"
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                15,
+                "p2",
+                "verse",
+                "v3",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “And Abraham arose from upon the face of his dead.”"
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                16,
+                "p2",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "and said to the sons of Heth,"
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                17,
+                "p2",
+                "verse",
+                "v3",
+                "note",
+                "f"
+              ],
+              "value": "tn Some translate the Hebrew term “Heth” as “Hittites” here (also in vv. 5, 7, 10, 16, 18, 20), but this gives the impression that these people were the classical Hittites of Anatolia. However, there is no known connection between these sons of Heth, apparently a Canaanite group (see Gen 10:15), and the Hittites of Asia Minor. See H. A. Hoffner, Jr., “Hittites,” Peoples of the Old Testament World, 152-53."
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                "v003_NET_GEN_023",
+                18,
+                "p2",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 Then Abraham got up from mourning his dead wife and said to the sons of Heth,"
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p2",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                20,
+                "p2",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "“I am a temporary settler"
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p2",
+                "verse",
+                "v4",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “a resident alien and a settler.”"
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                22,
+                "p2",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "among you. Grant"
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "p2",
+                "verse",
+                "v4",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “give,” which is used here as an idiom for “sell” (see v. 9). The idiom reflects the polite bartering that was done in the culture at the time."
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                24,
+                "p2",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "me ownership"
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "p2",
+                "verse",
+                "v4",
+                "note",
+                "f"
+              ],
+              "value": "tn Or “possession.”"
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                26,
+                "p2",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "of a burial site among you so that I may"
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                27,
+                "p2",
+                "verse",
+                "v4",
+                "note",
+                "f"
+              ],
+              "value": "tn Following the imperative, the cohortative with the prefixed conjunction expresses purpose."
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                28,
+                "p2",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "bury my dead.”"
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                29,
+                "p2",
+                "verse",
+                "v4",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “bury my dead out of my sight.” The last phrase “out of my sight” has not been included in the translation for stylistic reasons."
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                "v004_NET_GEN_023",
+                30,
+                "p2",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 “I am a temporary settler among you. Grant me ownership of a burial site among you so that I may bury my dead.”"
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                31,
+                "p3",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "p3",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "The sons of Heth answered Abraham,"
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                33,
+                "p3",
+                "verse",
+                "v5",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “answered Abraham saying to him.”"
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                "v005_NET_GEN_023",
+                34,
+                "p3",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 The sons of Heth answered Abraham,"
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                35,
+                "p3",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "p3",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "“Listen, sir,"
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                37,
+                "p3",
+                "verse",
+                "v6",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “Hear us, my lord.”"
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                38,
+                "p3",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "you are a mighty prince"
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                39,
+                "p3",
+                "verse",
+                "v6",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “prince of God.” The divine name may be used here as a means of expressing the superlative, “mighty prince.” The word for “prince” probably means “tribal chief” here. See M. H. Gottstein, “Nasi’ ‘elohim (Gen 23:6),” VT 3 (1953) 298-99; and D. W. Thomas, “Consideration of Some Unusual Ways of Expressing the Superlative in Hebrew,” VT 3 (1953) 215-16."
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                40,
+                "p3",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "among us! You may bury your dead in the choicest of our tombs. None of us will refuse you his tomb to prevent you"
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p3",
+                "verse",
+                "v6",
+                "note",
+                "f"
+              ],
+              "value": "tn The phrase “to prevent you” has been added in the translation for stylistic reasons."
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "p3",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "from burying your dead.”"
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                "v006_NET_GEN_023",
+                43,
+                "p3",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 “Listen, sir, you are a mighty prince among us! You may bury your dead in the choicest of our tombs. None of us will refuse you his tomb to prevent you from burying your dead.”"
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                44,
+                "p4",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                45,
+                "p4",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "Abraham got up and bowed down to the local people,"
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                46,
+                "p4",
+                "verse",
+                "v7",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “to the people of the land” (also in v. 12)."
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                47,
+                "p4",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "the sons of Heth."
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                "v007_NET_GEN_023",
+                48,
+                "p4",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 Abraham got up and bowed down to the local people, the sons of Heth."
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                49,
+                "p4",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "p4",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "Then he said to them, “If you agree"
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                51,
+                "p4",
+                "verse",
+                "v8",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “If it is with your purpose.” The Hebrew noun נֶפֶשׁ (nefesh) here has the nuance “purpose” or perhaps “desire” (see BDB 661 s.v. נֶפֶשׁ)."
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                52,
+                "p4",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "that I may bury my dead,"
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                53,
+                "p4",
+                "verse",
+                "v8",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “bury my dead out of my sight.” The last phrase “out of my sight” has not been included in the translation for stylistic reasons."
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                54,
+                "p4",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "then hear me out."
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                55,
+                "p4",
+                "verse",
+                "v8",
+                "note",
+                "f"
+              ],
+              "value": "tn Or “hear me.”"
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                56,
+                "p4",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "Ask"
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                57,
+                "p4",
+                "verse",
+                "v8",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “intercede for me with.”"
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                58,
+                "p4",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "Ephron the son of Zohar"
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                "v008_NET_GEN_023",
+                59,
+                "p4",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 Then he said to them, “If you agree that I may bury my dead, then hear me out. Ask Ephron the son of Zohar"
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                60,
+                "p4",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                61,
+                "p4",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "if he will sell"
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                62,
+                "p4",
+                "verse",
+                "v9",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “give.” This is used here (also a second time later in this verse) as an idiom for “sell”; see the note on the word “grant” in v. 4."
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                63,
+                "p4",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "me the cave of Machpelah that belongs to him; it is at the end of his field. Let him sell it to me publicly"
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                64,
+                "p4",
+                "verse",
+                "v9",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “in your presence.”"
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                65,
+                "p4",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "for the full price,"
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                66,
+                "p4",
+                "verse",
+                "v9",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “silver.”"
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                67,
+                "p4",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "so that I may own it as a burial site.”"
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                "v009_NET_GEN_023",
+                68,
+                "p4",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 if he will sell me the cave of Machpelah that belongs to him; it is at the end of his field. Let him sell it to me publicly for the full price, so that I may own it as a burial site.”"
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                69,
+                "p5",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                70,
+                "p5",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "(Now Ephron was sitting among the sons of Heth.) Ephron the Hethite"
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                71,
+                "p5",
+                "verse",
+                "v10",
+                "note",
+                "f"
+              ],
+              "value": "tn Or perhaps “Hittite,” but see the note on the name “Heth” in v. 3."
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                72,
+                "p5",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "replied to Abraham in the hearing"
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                73,
+                "p5",
+                "verse",
+                "v10",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “ears.” By metonymy the “ears” stand for the presence or proximity (i.e., within earshot) of the persons named."
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                74,
+                "p5",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "of the sons of Heth – before all who entered the gate"
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                75,
+                "p5",
+                "verse",
+                "v10",
+                "note",
+                "f"
+              ],
+              "value": "sn On the expression all who entered the gate see E. A. Speiser, “‘Coming’ and ‘Going’ at the City Gate,” BASOR 144 (1956): 20-23; and G. Evans, “‘Coming’ and ‘Going’ at the City Gate: A Discussion of Professor Speiser’s Paper,” BASOR 150 (1958): 28-33."
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                76,
+                "p5",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "of his city –"
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                "v010_NET_GEN_023",
+                77,
+                "p5",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 (Now Ephron was sitting among the sons of Heth.) Ephron the Hethite replied to Abraham in the hearing of the sons of Heth – before all who entered the gate of his city –"
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                78,
+                "p5",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                79,
+                "p5",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "“No, my lord! Hear me out. I sell"
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                80,
+                "p5",
+                "verse",
+                "v11",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “give.” The perfect tense has here a present nuance; this is a formal, legally binding declaration. Abraham asked only for a burial site/cave within the field; Ephron agrees to sell him the entire field."
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                81,
+                "p5",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "you both the field and the cave that is in it."
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                82,
+                "p5",
+                "verse",
+                "v11",
+                "note",
+                "f"
+              ],
+              "value": "tn The Hebrew text adds “to you I give [i.e., sell] it.” This is redundant in English and has not been translated for stylistic reasons."
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                83,
+                "p5",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "In the presence of my people"
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                84,
+                "p5",
+                "verse",
+                "v11",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “in the presence of the sons of my people.”"
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                85,
+                "p5",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "I sell it to you. Bury your dead.”"
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                "v011_NET_GEN_023",
+                86,
+                "p5",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 “No, my lord! Hear me out. I sell you both the field and the cave that is in it. In the presence of my people I sell it to you. Bury your dead.”"
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                87,
+                "p6",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                88,
+                "p6",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "Abraham bowed before the local people"
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                "v012_NET_GEN_023",
+                89,
+                "p6",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 Abraham bowed before the local people"
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                90,
+                "p6",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                91,
+                "p6",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "and said to Ephron in their hearing, “Hear me, if you will. I pay"
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                92,
+                "p6",
+                "verse",
+                "v13",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “give.”"
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                93,
+                "p6",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "to you the price"
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                94,
+                "p6",
+                "verse",
+                "v13",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “silver.”"
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                95,
+                "p6",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "of the field. Take it from me so that I may"
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                96,
+                "p6",
+                "verse",
+                "v13",
+                "note",
+                "f"
+              ],
+              "value": "tn After the imperative, the cohortative with the prefixed conjunction expresses purpose or result."
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                97,
+                "p6",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "bury my dead there.”"
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                "v013_NET_GEN_023",
+                98,
+                "p6",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 and said to Ephron in their hearing, “Hear me, if you will. I pay to you the price of the field. Take it from me so that I may bury my dead there.”"
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                99,
+                "p7",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                100,
+                "p7",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "Ephron answered Abraham, saying to him,"
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                "v014_NET_GEN_023",
+                101,
+                "p7",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 Ephron answered Abraham, saying to him,"
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                102,
+                "p7",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                103,
+                "p7",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "“Hear me, my lord. The land is worth"
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                104,
+                "p7",
+                "verse",
+                "v15",
+                "note",
+                "f"
+              ],
+              "value": "tn The word “worth” has been supplied in the translation for stylistic reasons."
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                105,
+                "p7",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "400 pieces of silver,"
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                106,
+                "p7",
+                "verse",
+                "v15",
+                "note",
+                "f"
+              ],
+              "value": "sn Four hundred pieces of silver. The standards for weighing money varied considerably in the ancient Near East, but the generally accepted weight for the shekel is 11.5 grams (0.4 ounce). This makes the weight of silver here 4.6 kilograms, or 160 ounces (about 10 pounds)."
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                107,
+                "p7",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "but what is that between me and you? So bury your dead.”"
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                "v015_NET_GEN_023",
+                108,
+                "p7",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 “Hear me, my lord. The land is worth 400 pieces of silver, but what is that between me and you? So bury your dead.”"
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                109,
+                "p8",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                110,
+                "p8",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "So Abraham agreed to Ephron’s price"
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                111,
+                "p8",
+                "verse",
+                "v16",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “listened to Ephron.”"
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                112,
+                "p8",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "and weighed"
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                113,
+                "p8",
+                "verse",
+                "v16",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and Abraham weighed out.”"
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                114,
+                "p8",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "out for him"
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                115,
+                "p8",
+                "verse",
+                "v16",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “to Ephron.” The proper name has been replaced by the pronoun (“him”) in the translation for stylistic reasons."
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                116,
+                "p8",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "the price"
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                117,
+                "p8",
+                "verse",
+                "v16",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “silver.”"
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                118,
+                "p8",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "that Ephron had quoted"
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                119,
+                "p8",
+                "verse",
+                "v16",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “that he had spoken.” The referent (Ephron) has been specified here in the translation for clarity and for stylistic reasons."
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                120,
+                "p8",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "in the hearing of the sons of Heth – 400 pieces of silver, according to the standard measurement at the time."
+            },
+            {
+              "rowId": 121,
+              "keyParts": [
+                121,
+                "p8",
+                "verse",
+                "v16",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “passing for the merchant.” The final clause affirms that the measurement of silver was according to the standards used by the merchants of the time."
+            },
+            {
+              "rowId": 122,
+              "keyParts": [
+                "v016_NET_GEN_023",
+                122,
+                "p8",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 So Abraham agreed to Ephron’s price and weighed out for him the price that Ephron had quoted in the hearing of the sons of Heth – 400 pieces of silver, according to the standard measurement at the time."
+            },
+            {
+              "rowId": 123,
+              "keyParts": [
+                123,
+                "p9",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 124,
+              "keyParts": [
+                124,
+                "p9",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "So Abraham secured"
+            },
+            {
+              "rowId": 125,
+              "keyParts": [
+                125,
+                "p9",
+                "verse",
+                "v17",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “And it was conveyed.” The recipient, Abraham (mentioned in the Hebrew text at the beginning of v. 18) has been placed here in the translation for stylistic reasons."
+            },
+            {
+              "rowId": 126,
+              "keyParts": [
+                126,
+                "p9",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "Ephron’s field in Machpelah, next to Mamre, including the field, the cave that was in it, and all the trees that were in the field and all around its border,"
+            },
+            {
+              "rowId": 127,
+              "keyParts": [
+                "v017_NET_GEN_023",
+                127,
+                "p9",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 So Abraham secured Ephron’s field in Machpelah, next to Mamre, including the field, the cave that was in it, and all the trees that were in the field and all around its border,"
+            },
+            {
+              "rowId": 128,
+              "keyParts": [
+                128,
+                "p9",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 129,
+              "keyParts": [
+                129,
+                "p9",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "as his property in the presence of the sons of Heth before all who entered the gate of Ephron’s city."
+            },
+            {
+              "rowId": 130,
+              "keyParts": [
+                130,
+                "p9",
+                "verse",
+                "v18",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “his city”; the referent (Ephron) has been specified in the translation for clarity.\nsn See G. M. Tucker, “The Legal Background of Genesis 23,” JBL 85 (1966):77-84; and M. R. Lehmann, “Abraham’s Purchase of Machpelah and Hittite Law,” BASOR 129 (1953): 15-18."
+            },
+            {
+              "rowId": 131,
+              "keyParts": [
+                "v018_NET_GEN_023",
+                131,
+                "p9",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 as his property in the presence of the sons of Heth before all who entered the gate of Ephron’s city."
+            },
+            {
+              "rowId": 132,
+              "keyParts": [
+                132,
+                "p10",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 133,
+              "keyParts": [
+                133,
+                "p10",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "After this Abraham buried his wife Sarah in the cave in the field of Machpelah next to Mamre (that is, Hebron) in the land of Canaan."
+            },
+            {
+              "rowId": 134,
+              "keyParts": [
+                "v019_NET_GEN_023",
+                134,
+                "p10",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 After this Abraham buried his wife Sarah in the cave in the field of Machpelah next to Mamre (that is, Hebron) in the land of Canaan."
+            },
+            {
+              "rowId": 135,
+              "keyParts": [
+                135,
+                "p10",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 136,
+              "keyParts": [
+                136,
+                "p10",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "So Abraham secured the field and the cave that was in it as a burial site"
+            },
+            {
+              "rowId": 137,
+              "keyParts": [
+                137,
+                "p10",
+                "verse",
+                "v20",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “possession of a grave.”"
+            },
+            {
+              "rowId": 138,
+              "keyParts": [
+                138,
+                "p10",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "from the sons of Heth."
+            },
+            {
+              "rowId": 139,
+              "keyParts": [
+                "v020_NET_GEN_023",
+                139,
+                "p10",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 So Abraham secured the field and the cave that was in it as a burial site from the sons of Heth."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1797 @@
+{
+  "translationId": "NET",
+  "name": "New English Translation",
+  "abbreviation": "NET",
+  "language": "English",
+  "copyright": "1996 - 2007 by Biblical Studies Press, LLC",
+  "books": [
+    {
+      "bookId": "GEN",
+      "testament": "",
+      "order": 0,
+      "title": "Genesis",
+      "abbreviation": "GEN",
+      "chapters": [
+        {
+          "chapter": 28,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "28"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                2,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "So Isaac called for Jacob and blessed him. Then he commanded him, “You must not marry a Canaanite woman!"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “you must not take a wife from the daughters of Canaan.”"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                "v001_NET_GEN_028",
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 So Isaac called for Jacob and blessed him. Then he commanded him, “You must not marry a Canaanite woman!"
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                7,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "Leave immediately"
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “Arise! Go!” The first of the two imperatives is adverbial and stresses the immediacy of the departure."
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                9,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "for Paddan Aram! Go to the house of Bethuel, your mother’s father, and find yourself a wife there, among the daughters of Laban, your mother’s brother."
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                "v002_NET_GEN_028",
+                10,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 Leave immediately for Paddan Aram! Go to the house of Bethuel, your mother’s father, and find yourself a wife there, among the daughters of Laban, your mother’s brother."
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                11,
+                "p1",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                12,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "May the sovereign God"
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                13,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “El Shaddai.” See the extended note on the phrase “sovereign God” in Gen 17:1."
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "bless you! May he make you fruitful and give you a multitude of descendants!"
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                15,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and make you fruitful and multiply you.” See Gen 17:6, 20 for similar terminology."
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                16,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "Then you will become"
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                17,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "f"
+              ],
+              "value": "tn The perfect verbal form with vav (ו) consecutive here indicates consequence. The collocation הָיָה + preposition לְ (hayah + lÿ) means “become.”"
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "a large nation."
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “an assembly of peoples.”"
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                "v003_NET_GEN_028",
+                20,
+                "p1",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 May the sovereign God bless you! May he make you fruitful and give you a multitude of descendants! Then you will become a large nation."
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p1",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                22,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "May he give you and your descendants the blessing he gave to Abraham"
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and may he give to you the blessing of Abraham, to you and to your offspring with you.” The name “Abraham” is an objective genitive here; this refers to the blessing that God gave to Abraham."
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                24,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "so that you may possess the land"
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "f"
+              ],
+              "value": "tn The words “the land” have been supplied in the translation for clarity."
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                26,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "God gave to Abraham, the land where you have been living as a temporary resident.”"
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                27,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “the land of your sojournings,” that is, the land where Jacob had been living as a resident alien, as his future descendants would after him."
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                "v004_NET_GEN_028",
+                28,
+                "p1",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 May he give you and your descendants the blessing he gave to Abraham so that you may possess the land God gave to Abraham, the land where you have been living as a temporary resident.”"
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                29,
+                "p1",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                30,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "So Isaac sent Jacob on his way, and he went to Paddan Aram, to Laban son of Bethuel the Aramean and brother of Rebekah, the mother of Jacob and Esau."
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                "v005_NET_GEN_028",
+                31,
+                "p1",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 So Isaac sent Jacob on his way, and he went to Paddan Aram, to Laban son of Bethuel the Aramean and brother of Rebekah, the mother of Jacob and Esau."
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "p2",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                33,
+                "p2",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "Esau saw that Isaac had blessed Jacob and sent him off to Paddan Aram to find a wife there."
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                34,
+                "p2",
+                "verse",
+                "v6",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “to take for himself from there a wife.”"
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                35,
+                "p2",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "As he blessed him,"
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "p2",
+                "verse",
+                "v6",
+                "note",
+                "f"
+              ],
+              "value": "tn The infinitive construct with the preposition and the suffix form a temporal clause."
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                37,
+                "p2",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "Isaac commanded him, “You must not marry a Canaanite woman.”"
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                38,
+                "p2",
+                "verse",
+                "v6",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “you must not take a wife from the daughters of Canaan.”"
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                "v006_NET_GEN_028",
+                39,
+                "p2",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 Esau saw that Isaac had blessed Jacob and sent him off to Paddan Aram to find a wife there. As he blessed him, Isaac commanded him, “You must not marry a Canaanite woman.”"
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                40,
+                "p2",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "Jacob obeyed his father and mother and left for Paddan Aram."
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                "v007_NET_GEN_028",
+                42,
+                "p2",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 Jacob obeyed his father and mother and left for Paddan Aram."
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                43,
+                "p2",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                44,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "Then Esau realized"
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                45,
+                "p2",
+                "verse",
+                "v8",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “saw.”"
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                46,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "that the Canaanite women"
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                47,
+                "p2",
+                "verse",
+                "v8",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “the daughters of Canaan.”"
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                48,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "were displeasing to"
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                49,
+                "p2",
+                "verse",
+                "v8",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “evil in the eyes of.”"
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "his father Isaac."
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                "v008_NET_GEN_028",
+                51,
+                "p2",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 Then Esau realized that the Canaanite women were displeasing to his father Isaac."
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                52,
+                "p2",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                53,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "So Esau went to Ishmael and married"
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                54,
+                "p2",
+                "verse",
+                "v9",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “took for a wife.”"
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                55,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "Mahalath, the sister of Nebaioth and daughter of Abraham’s son Ishmael, along with the wives he already had."
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Jacob’s Dream at Bethel"
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                "v009_NET_GEN_028",
+                57,
+                "p2",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 So Esau went to Ishmael and married Mahalath, the sister of Nebaioth and daughter of Abraham’s son Ishmael, along with the wives he already had."
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                58,
+                "p3",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                59,
+                "p3",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "Meanwhile Jacob left Beer Sheba and set out for Haran."
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                "v010_NET_GEN_028",
+                60,
+                "p3",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 Meanwhile Jacob left Beer Sheba and set out for Haran."
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                61,
+                "p3",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                62,
+                "p3",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "He reached a certain place"
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                63,
+                "p3",
+                "verse",
+                "v11",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “the place.” The article may indicate simply that the place is definite in the mind of the narrator. However, as the story unfolds the place is transformed into a holy place. See A. P. Ross, “Jacob’s Vision: The Founding of Bethel,” BSac 142 (1985): 224-37."
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                64,
+                "p3",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "where he decided to camp because the sun had gone down."
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                65,
+                "p3",
+                "verse",
+                "v11",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and he spent the night there because the sun had gone down.”"
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                66,
+                "p3",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "He took one of the stones"
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                67,
+                "p3",
+                "verse",
+                "v11",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “he took from the stones of the place,” which here means Jacob took one of the stones (see v. 18)."
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                68,
+                "p3",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "and placed it near his head."
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                69,
+                "p3",
+                "verse",
+                "v11",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and he put [it at] the place of his head.” The text does not actually say the stone was placed under his head to serve as a pillow, although most interpreters and translators assume this. It is possible the stone served some other purpose. Jacob does not seem to have been a committed monotheist yet (see v. 20-21) so he may have believed it contained some spiritual power. Note that later in the story he anticipates the stone becoming the residence of God (see v. 22). Many cultures throughout the world view certain types of stones as magical and/or sacred. See J. G. Fraser, Folklore in the Old Testament, 231-37."
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                70,
+                "p3",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "Then he fell asleep"
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                71,
+                "p3",
+                "verse",
+                "v11",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “lay down.”"
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                72,
+                "p3",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "in that place"
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                "v011_NET_GEN_028",
+                73,
+                "p3",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 He reached a certain place where he decided to camp because the sun had gone down. He took one of the stones and placed it near his head. Then he fell asleep in that place"
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                74,
+                "p3",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                75,
+                "p3",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "and had a dream."
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                76,
+                "p3",
+                "verse",
+                "v12",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and dreamed.”"
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                77,
+                "p3",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "He saw"
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                78,
+                "p3",
+                "verse",
+                "v12",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and look.” The scene which Jacob witnessed is described in three clauses introduced with הִנֵּה (hinneh). In this way the narrator invites the reader to witness the scene through Jacob’s eyes. J. P. Fokkelman points out that the particle goes with a lifted arm and an open mouth: “There, a ladder! Oh, angels! and look, the Lord himself” (Narrative Art in Genesis [SSN], 51-52)."
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                79,
+                "p3",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "a stairway"
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                80,
+                "p3",
+                "verse",
+                "v12",
+                "note",
+                "f"
+              ],
+              "value": "tn The Hebrew noun סֻלָּם (sullam, “ladder, stairway”) occurs only here in the OT, but there appears to be an Akkadian cognate simmiltu (with metathesis of the second and third consonants and a feminine ending) which has a specialized meaning of “stairway, ramp.” See H. R. Cohen, Biblical Hapax Legomena (SBLDS), 34. For further discussion see C. Houtman, “What Did Jacob See in His Dream at Bethel? Some Remarks on Genesis 28:10-22,” VT 27 (1977): 337-52; J. G. Griffiths, “The Celestial Ladder and the Gate of Heaven,” ExpTim 76 (1964/65): 229-30; and A. R. Millard, “The Celestial Ladder and the Gate of Heaven,” ExpTim 78 (1966/67): 86-87."
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                81,
+                "p3",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "erected on the earth with its top reaching to the heavens. The angels of God were going up and coming down it"
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                "v012_NET_GEN_028",
+                82,
+                "p3",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 and had a dream. He saw a stairway erected on the earth with its top reaching to the heavens. The angels of God were going up and coming down it"
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                83,
+                "p3",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                84,
+                "p3",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "and the"
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                85,
+                "p3",
+                "verse",
+                "v13",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                86,
+                "p3",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "stood at its top. He said, “I am the"
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                87,
+                "p3",
+                "verse",
+                "v13",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                88,
+                "p3",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": ", the God of your grandfather Abraham and the God of your father Isaac."
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                89,
+                "p3",
+                "verse",
+                "v13",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “the God of your father Abraham and the God of Isaac.” The Hebrew word for “father” can typically be used in a broader sense than the English word, in this case referring to Abraham (who was Jacob’s grandfather). For stylistic reasons and for clarity, the words “your father” are supplied with “Isaac” in the translation."
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                90,
+                "p3",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "I will give you and your descendants the ground"
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                91,
+                "p3",
+                "verse",
+                "v13",
+                "note",
+                "f"
+              ],
+              "value": "tn The Hebrew term אֶרֶץ (’erets) can mean “[the] earth,” “land,” “region,” “piece of ground,” or “ground” depending on the context. Here the term specifically refers to the plot of ground on which Jacob was lying, but at the same time this stands by metonymy for the entire land of Canaan."
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                92,
+                "p3",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "you are lying on."
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                "v013_NET_GEN_028",
+                93,
+                "p3",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 and the Lord stood at its top. He said, “I am the Lord , the God of your grandfather Abraham and the God of your father Isaac. I will give you and your descendants the ground you are lying on."
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                94,
+                "p3",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                95,
+                "p3",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "Your descendants will be like the dust of the earth,"
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                96,
+                "p3",
+                "verse",
+                "v14",
+                "note",
+                "f"
+              ],
+              "value": "tn This is the same Hebrew word translated “ground” in the preceding verse."
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                97,
+                "p3",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "and you will spread out"
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                98,
+                "p3",
+                "verse",
+                "v14",
+                "note",
+                "f"
+              ],
+              "value": "tn The verb is singular in the Hebrew; Jacob is addressed as the representative of his descendants."
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                99,
+                "p3",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "to the west, east, north, and south. All the families of the earth will pronounce blessings on one another"
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                100,
+                "p3",
+                "verse",
+                "v14",
+                "note",
+                "f"
+              ],
+              "value": "tn Theoretically the Niphal stem can be translated either as passive or reflexive/reciprocal. (The Niphal of “bless” is only used in formulations of the Abrahamic covenant. See Gen 12:2; 18:18; 28:14.) Traditionally the verb is taken as passive here, as if Jacob were going to be a channel or source of blessing. But in other formulations of the Abrahamic covenant (see Gen 22:18; 26:4) the Hitpael replaces this Niphal form, suggesting a translation “will bless (i.e., pronounce blessings upon) themselves/one another.” The Hitpael of “bless” is used with a reflexive/reciprocal sense in Deut 29:18; Ps 72:17; Isa 65:16; Jer 4:2. Gen 28:14 predicts that Jacob will be held up as a paradigm of divine blessing and that people will use his name in their blessing formulae (see Gen 12:2 and 18:18 as well, where Abram/Abraham receives this promise). For examples of blessing formulae utilizing an individual as an example of blessing see Gen 48:20 and Ruth 4:11."
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                101,
+                "p3",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "using your name and that of your descendants."
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                102,
+                "p3",
+                "verse",
+                "v14",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and they will pronounce blessings by you, all the families of the earth, and by your offspring.”"
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                "v014_NET_GEN_028",
+                103,
+                "p3",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 Your descendants will be like the dust of the earth, and you will spread out to the west, east, north, and south. All the families of the earth will pronounce blessings on one another using your name and that of your descendants."
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                104,
+                "p3",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                105,
+                "p3",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "I am with you!"
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                106,
+                "p3",
+                "verse",
+                "v15",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “Look, I [am] with you.” The clause is a nominal clause; the verb to be supplied could be present (as in the translation) or future, “Look, I [will be] with you” (cf. NEB)."
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                107,
+                "p3",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "I will protect you wherever you go and will bring you back to this land. I will not leave you until I have done what I promised you!”"
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                "v015_NET_GEN_028",
+                108,
+                "p3",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 I am with you! I will protect you wherever you go and will bring you back to this land. I will not leave you until I have done what I promised you!”"
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                109,
+                "p4",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                110,
+                "p4",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "Then Jacob woke up"
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                111,
+                "p4",
+                "verse",
+                "v16",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “woke up from his sleep.” This has been simplified in the translation for stylistic reasons."
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                112,
+                "p4",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "and thought,"
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                113,
+                "p4",
+                "verse",
+                "v16",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “said.”"
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                114,
+                "p4",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "“Surely the"
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                115,
+                "p4",
+                "verse",
+                "v16",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                116,
+                "p4",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "is in this place, but I did not realize it!”"
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                "v016_NET_GEN_028",
+                117,
+                "p4",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 Then Jacob woke up and thought, “Surely the Lord is in this place, but I did not realize it!”"
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                118,
+                "p4",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                119,
+                "p4",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "He was afraid and said, “What an awesome place this is! This is nothing else than the house of God! This is the gate of heaven!”"
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                "v017_NET_GEN_028",
+                120,
+                "p4",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 He was afraid and said, “What an awesome place this is! This is nothing else than the house of God! This is the gate of heaven!”"
+            },
+            {
+              "rowId": 121,
+              "keyParts": [
+                121,
+                "p5",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 122,
+              "keyParts": [
+                122,
+                "p5",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "Early"
+            },
+            {
+              "rowId": 123,
+              "keyParts": [
+                123,
+                "p5",
+                "verse",
+                "v18",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and he got up early…and he took.”"
+            },
+            {
+              "rowId": 124,
+              "keyParts": [
+                124,
+                "p5",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "in the morning Jacob"
+            },
+            {
+              "rowId": 125,
+              "keyParts": [
+                125,
+                "p5",
+                "verse",
+                "v18",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “he”; the referent (Jacob) has been specified in the translation for clarity."
+            },
+            {
+              "rowId": 126,
+              "keyParts": [
+                126,
+                "p5",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "took the stone he had placed near his head"
+            },
+            {
+              "rowId": 127,
+              "keyParts": [
+                127,
+                "p5",
+                "verse",
+                "v18",
+                "note",
+                "f"
+              ],
+              "value": "tn See the note on this phrase in v. 11."
+            },
+            {
+              "rowId": 128,
+              "keyParts": [
+                128,
+                "p5",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "and set it up as a sacred stone."
+            },
+            {
+              "rowId": 129,
+              "keyParts": [
+                129,
+                "p5",
+                "verse",
+                "v18",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “standing stone.”\nsn Sacred stone. Such a stone could be used as a boundary marker, a burial stone, or as a shrine. Here the stone is intended to be a reminder of the stairway that was “erected” and on which the Lord “stood.” (In Hebrew the word translated “sacred stone” is derived from the verb translated “erected” in v. 12 and “stood” in v. 13. Since the top of the stairway reached the heavens where the Lord stood, Jacob poured oil on the top of the stone. See C. F. Graesser, “Standing Stones in Ancient Palestine,” BA 35 (1972): 34-63; and E. Stockton, “Sacred Pillars in the Bible,” ABR 20 (1972): 16-32."
+            },
+            {
+              "rowId": 130,
+              "keyParts": [
+                130,
+                "p5",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "Then he poured oil on top of it."
+            },
+            {
+              "rowId": 131,
+              "keyParts": [
+                "v018_NET_GEN_028",
+                131,
+                "p5",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 Early in the morning Jacob took the stone he had placed near his head and set it up as a sacred stone. Then he poured oil on top of it."
+            },
+            {
+              "rowId": 132,
+              "keyParts": [
+                132,
+                "p5",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 133,
+              "keyParts": [
+                133,
+                "p5",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "He called that place Bethel,"
+            },
+            {
+              "rowId": 134,
+              "keyParts": [
+                134,
+                "p5",
+                "verse",
+                "v19",
+                "note",
+                "f"
+              ],
+              "value": "tn The name Bethel means “house of God” in Hebrew (see v. 17).\nmap For location see Map4-G4; Map5-C1; Map6-E3; Map7-D1; Map8-G3."
+            },
+            {
+              "rowId": 135,
+              "keyParts": [
+                135,
+                "p5",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "although the former name of the town was Luz."
+            },
+            {
+              "rowId": 136,
+              "keyParts": [
+                "v019_NET_GEN_028",
+                136,
+                "p5",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 He called that place Bethel, although the former name of the town was Luz."
+            },
+            {
+              "rowId": 137,
+              "keyParts": [
+                137,
+                "p5",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 138,
+              "keyParts": [
+                138,
+                "p5",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "Then Jacob made a vow, saying, “If God is with me and protects me on this journey I am taking and gives me food"
+            },
+            {
+              "rowId": 139,
+              "keyParts": [
+                139,
+                "p5",
+                "verse",
+                "v20",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “bread,” although the term can be used for food in general."
+            },
+            {
+              "rowId": 140,
+              "keyParts": [
+                140,
+                "p5",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "to eat and clothing to wear,"
+            },
+            {
+              "rowId": 141,
+              "keyParts": [
+                "v020_NET_GEN_028",
+                141,
+                "p5",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 Then Jacob made a vow, saying, “If God is with me and protects me on this journey I am taking and gives me food to eat and clothing to wear,"
+            },
+            {
+              "rowId": 142,
+              "keyParts": [
+                142,
+                "p5",
+                "verse",
+                "v21",
+                "label"
+              ],
+              "value": "21"
+            },
+            {
+              "rowId": 143,
+              "keyParts": [
+                143,
+                "p5",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "and I return safely to my father’s home,"
+            },
+            {
+              "rowId": 144,
+              "keyParts": [
+                144,
+                "p5",
+                "verse",
+                "v21",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and I return in peace to the house of my father.”"
+            },
+            {
+              "rowId": 145,
+              "keyParts": [
+                145,
+                "p5",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "then the"
+            },
+            {
+              "rowId": 146,
+              "keyParts": [
+                146,
+                "p5",
+                "verse",
+                "v21",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 147,
+              "keyParts": [
+                147,
+                "p5",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "will become my God."
+            },
+            {
+              "rowId": 148,
+              "keyParts": [
+                "v021_NET_GEN_028",
+                148,
+                "p5",
+                "verse",
+                "v21",
+                "plain_text"
+              ],
+              "value": "21 and I return safely to my father’s home, then the Lord will become my God."
+            },
+            {
+              "rowId": 149,
+              "keyParts": [
+                149,
+                "p5",
+                "verse",
+                "v22",
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 150,
+              "keyParts": [
+                150,
+                "p5",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "Then this stone"
+            },
+            {
+              "rowId": 151,
+              "keyParts": [
+                151,
+                "p5",
+                "verse",
+                "v22",
+                "note",
+                "f"
+              ],
+              "value": "tn The disjunctive clause structure (conjunction + noun/subject) is used to highlight the statement."
+            },
+            {
+              "rowId": 152,
+              "keyParts": [
+                152,
+                "p5",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "that I have set up as a sacred stone will be the house of God, and I will surely"
+            },
+            {
+              "rowId": 153,
+              "keyParts": [
+                153,
+                "p5",
+                "verse",
+                "v22",
+                "note",
+                "f"
+              ],
+              "value": "tn The infinitive absolute is used before the finite verb for emphasis."
+            },
+            {
+              "rowId": 154,
+              "keyParts": [
+                154,
+                "p5",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "give you back a tenth of everything you give me.”"
+            },
+            {
+              "rowId": 155,
+              "keyParts": [
+                155,
+                "p5",
+                "verse",
+                "v22",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and all which you give to me I will surely give a tenth of it to you.” The disjunctive clause structure (conjunction + noun/object) highlights this statement as well."
+            },
+            {
+              "rowId": 156,
+              "keyParts": [
+                "v022_NET_GEN_028",
+                156,
+                "p5",
+                "verse",
+                "v22",
+                "plain_text"
+              ],
+              "value": "22 Then this stone that I have set up as a sacred stone will be the house of God, and I will surely give you back a tenth of everything you give me.”"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

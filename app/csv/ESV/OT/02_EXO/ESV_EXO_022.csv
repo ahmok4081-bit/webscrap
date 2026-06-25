@@ -1,0 +1,160 @@
+id,tag,text
+1,"[1, 'label']",22
+2,"[2, 'p1', 'verse', 'v1', 'label']",1
+3,"[3, 'p1', 'verse', 'v1', 'note', 'f']",#22:1Ch 21:37 in Hebrew
+4,"[4, 'p1', 'verse', 'v1', 'content']","“If a man steals an ox or a sheep, and kills it or sells it, he shall repay five oxen for an ox, and"
+5,"[5, 'p1', 'verse', 'v1', 'note', 'x']",#2 Sam. 12:6;[Prov. 6:31;Luke 19:8]
+6,"[6, 'p1', 'verse', 'v1', 'content']",four sheep for a sheep.
+7,"['v001_ESV_EXO_022', 7, 'p1', 'verse', 'v1', 'plain_text']","1 “If a man steals an ox or a sheep, and kills it or sells it, he shall repay five oxen for an ox, and four sheep for a sheep."
+8,"[8, 'p1', 'verse', 'v2', 'label']",2
+9,"[9, 'p1', 'verse', 'v2', 'note', 'f']",#22:2Ch 22:1 in Hebrew
+10,"[10, 'p1', 'verse', 'v2', 'content']",If a thief is found
+11,"[11, 'p1', 'verse', 'v2', 'note', 'x']",#Matt. 24:43
+12,"[12, 'p1', 'verse', 'v2', 'content']","breaking in and is struck so that he dies, there shall be no bloodguilt for him,"
+13,"['v002_ESV_EXO_022', 13, 'p1', 'verse', 'v2', 'plain_text']","2 If a thief is found breaking in and is struck so that he dies, there shall be no bloodguilt for him,"
+14,"[14, 'p1', 'verse', 'v3', 'label']",3
+15,"[15, 'p1', 'verse', 'v3', 'content']","but if the sun has risen on him, there shall be bloodguilt for him. He"
+16,"[16, 'p1', 'verse', 'v3', 'note', 'f']","#22:3That is, the thief"
+17,"[17, 'p1', 'verse', 'v3', 'content']","shall surely pay. If he has nothing, then"
+18,"[18, 'p1', 'verse', 'v3', 'note', 'x']",#[ch.21:2]
+19,"[19, 'p1', 'verse', 'v3', 'content']",he shall be sold for his theft.
+20,"['v003_ESV_EXO_022', 20, 'p1', 'verse', 'v3', 'plain_text']","3 but if the sun has risen on him, there shall be bloodguilt for him. He shall surely pay. If he has nothing, then he shall be sold for his theft."
+21,"[21, 'p1', 'verse', 'v4', 'label']",4
+22,"[22, 'p1', 'verse', 'v4', 'content']",If the stolen beast
+23,"[23, 'p1', 'verse', 'v4', 'note', 'x']",#ch.21:16
+24,"[24, 'p1', 'verse', 'v4', 'content']","is found alive in his possession, whether it is an ox or a donkey or a sheep,"
+25,"[25, 'p1', 'verse', 'v4', 'note', 'x']",#[ver.1]
+26,"[26, 'p1', 'verse', 'v4', 'content']",he shall pay double.
+27,"['v004_ESV_EXO_022', 27, 'p1', 'verse', 'v4', 'plain_text']","4 If the stolen beast is found alive in his possession, whether it is an ox or a donkey or a sheep, he shall pay double."
+28,"[28, 'p2', 'verse', 'v5', 'label']",5
+29,"[29, 'p2', 'verse', 'v5', 'content']","“If a man causes a field or vineyard to be grazed over, or lets his beast loose and it feeds in another man’s field, he shall make restitution from the best in his own field and in his own vineyard."
+30,"['v005_ESV_EXO_022', 30, 'p2', 'verse', 'v5', 'plain_text']","5 “If a man causes a field or vineyard to be grazed over, or lets his beast loose and it feeds in another man’s field, he shall make restitution from the best in his own field and in his own vineyard."
+31,"[31, 'p3', 'verse', 'v6', 'label']",6
+32,"[32, 'p3', 'verse', 'v6', 'content']","“If fire breaks out and catches in thorns so that the stacked grain or the standing grain or the field is consumed, he who started the fire shall make full restitution."
+33,"['v006_ESV_EXO_022', 33, 'p3', 'verse', 'v6', 'plain_text']","6 “If fire breaks out and catches in thorns so that the stacked grain or the standing grain or the field is consumed, he who started the fire shall make full restitution."
+34,"[34, 'p4', 'verse', 'v7', 'label']",7
+35,"[35, 'p4', 'verse', 'v7', 'content']","“If a man gives to his neighbor money or goods to keep safe, and it is stolen from the man’s house, then, if the thief is found,"
+36,"[36, 'p4', 'verse', 'v7', 'note', 'x']",#[See ver.4above]
+37,"[37, 'p4', 'verse', 'v7', 'content']",he shall pay double.
+38,"['v007_ESV_EXO_022', 38, 'p4', 'verse', 'v7', 'plain_text']","7 “If a man gives to his neighbor money or goods to keep safe, and it is stolen from the man’s house, then, if the thief is found, he shall pay double."
+39,"[39, 'p4', 'verse', 'v8', 'label']",8
+40,"[40, 'p4', 'verse', 'v8', 'content']","If the thief is not found, the owner of the house shall come near to God to show whether or not he has put his hand to his neighbor’s property."
+41,"['v008_ESV_EXO_022', 41, 'p4', 'verse', 'v8', 'plain_text']","8 If the thief is not found, the owner of the house shall come near to God to show whether or not he has put his hand to his neighbor’s property."
+42,"[42, 'p4', 'verse', 'v9', 'label']",9
+43,"[43, 'p4', 'verse', 'v9', 'content']","For every breach of trust, whether it is for an ox, for a donkey, for a sheep, for a cloak, or for any kind of lost thing, of which one says, ‘This is it,’ the case of both parties shall come before God. The one whom God condemns shall pay double to his neighbor."
+44,"['v009_ESV_EXO_022', 44, 'p4', 'verse', 'v9', 'plain_text']","9 For every breach of trust, whether it is for an ox, for a donkey, for a sheep, for a cloak, or for any kind of lost thing, of which one says, ‘This is it,’ the case of both parties shall come before God. The one whom God condemns shall pay double to his neighbor."
+45,"[45, 'p5', 'verse', 'v10', 'label']",10
+46,"[46, 'p5', 'verse', 'v10', 'content']","“If a man gives to his neighbor a donkey or an ox or a sheep or any beast to keep safe, and it dies or is injured or is driven away, without anyone seeing it,"
+47,"['v010_ESV_EXO_022', 47, 'p5', 'verse', 'v10', 'plain_text']","10 “If a man gives to his neighbor a donkey or an ox or a sheep or any beast to keep safe, and it dies or is injured or is driven away, without anyone seeing it,"
+48,"[48, 'p5', 'verse', 'v11', 'label']",11
+49,"[49, 'p5', 'verse', 'v11', 'note', 'x']",#Heb. 6:16
+50,"[50, 'p5', 'verse', 'v11', 'content']",an oath by the
+51,"[51, 'p5', 'verse', 'v11', 'nd']",Lord
+52,"[52, 'p5', 'verse', 'v11', 'content']","shall be between them both to see whether or not he has put his hand to his neighbor’s property. The owner shall accept the oath, and he shall not make restitution."
+53,"['v011_ESV_EXO_022', 53, 'p5', 'verse', 'v11', 'plain_text']","11 an oath by the Lord shall be between them both to see whether or not he has put his hand to his neighbor’s property. The owner shall accept the oath, and he shall not make restitution."
+54,"[54, 'p5', 'verse', 'v12', 'label']",12
+55,"[55, 'p5', 'verse', 'v12', 'content']",But if
+56,"[56, 'p5', 'verse', 'v12', 'note', 'x']",#Gen. 31:39
+57,"[57, 'p5', 'verse', 'v12', 'content']","it is stolen from him, he shall make restitution to its owner."
+58,"['v012_ESV_EXO_022', 58, 'p5', 'verse', 'v12', 'plain_text']","12 But if it is stolen from him, he shall make restitution to its owner."
+59,"[59, 'p5', 'verse', 'v13', 'label']",13
+60,"[60, 'p5', 'verse', 'v13', 'content']","If it is torn by beasts, let him bring it as evidence. He shall not make restitution for what has been torn."
+61,"['v013_ESV_EXO_022', 61, 'p5', 'verse', 'v13', 'plain_text']","13 If it is torn by beasts, let him bring it as evidence. He shall not make restitution for what has been torn."
+62,"[62, 'p6', 'verse', 'v14', 'label']",14
+63,"[63, 'p6', 'verse', 'v14', 'content']","“If a man borrows anything of his neighbor, and it is injured or dies, the owner not being with it, he shall make full restitution."
+64,"['v014_ESV_EXO_022', 64, 'p6', 'verse', 'v14', 'plain_text']","14 “If a man borrows anything of his neighbor, and it is injured or dies, the owner not being with it, he shall make full restitution."
+65,"[65, 'p6', 'verse', 'v15', 'label']",15
+66,"[66, 'p6', 'verse', 'v15', 'content']","If the owner was with it, he shall not make restitution; if it was hired, it came for its hiring fee."
+67,"[67, 'p6', 'verse', 'v15', 'note', 'f']",#22:15Orit is reckoned in(Hebrewcomes into)its hiring fee
+68,"[68, 's1', 'heading']",Laws for a Just Community
+69,"['v015_ESV_EXO_022', 69, 'p6', 'verse', 'v15', 'plain_text']","15 If the owner was with it, he shall not make restitution; if it was hired, it came for its hiring fee."
+70,"[70, 'p7', 'verse', 'v16', 'label']",16
+71,"[71, 'p7', 'verse', 'v16', 'note', 'x']","#Deut. 22:28,29"
+72,"[72, 'p7', 'verse', 'v16', 'content']",“If a man seduces a virgin
+73,"[73, 'p7', 'verse', 'v16', 'note', 'f']",#22:16Ora girl of marriageable age; also verse 17
+74,"[74, 'p7', 'verse', 'v16', 'content']","who is not betrothed and lies with her, he shall give the bride-price"
+75,"[75, 'p7', 'verse', 'v16', 'note', 'f']",#22:16Orengagement present; also verse 17
+76,"[76, 'p7', 'verse', 'v16', 'content']",for her and make her his wife.
+77,"['v016_ESV_EXO_022', 77, 'p7', 'verse', 'v16', 'plain_text']","16 “If a man seduces a virgin who is not betrothed and lies with her, he shall give the bride-price for her and make her his wife."
+78,"[78, 'p7', 'verse', 'v17', 'label']",17
+79,"[79, 'p7', 'verse', 'v17', 'content']","If her father utterly refuses to give her to him,"
+80,"[80, 'p7', 'verse', 'v17', 'note', 'x']",#[See ver.16above]
+81,"[81, 'p7', 'verse', 'v17', 'content']",he shall pay money equal to the
+82,"[82, 'p7', 'verse', 'v17', 'note', 'x']",#Gen. 34:12;1 Sam. 18:25
+83,"[83, 'p7', 'verse', 'v17', 'content']",bride-price for virgins.
+84,"['v017_ESV_EXO_022', 84, 'p7', 'verse', 'v17', 'plain_text']","17 If her father utterly refuses to give her to him, he shall pay money equal to the bride-price for virgins."
+85,"[85, 'p8', 'verse', 'v18', 'label']",18
+86,"[86, 'p8', 'verse', 'v18', 'note', 'x']","#Lev. 19:26,31;20:27;Deut. 18:10,11;1 Sam. 28:3,9"
+87,"[87, 'p8', 'verse', 'v18', 'content']",“You shall not permit a sorceress to live.
+88,"['v018_ESV_EXO_022', 88, 'p8', 'verse', 'v18', 'plain_text']",18 “You shall not permit a sorceress to live.
+89,"[89, 'p9', 'verse', 'v19', 'label']",19
+90,"[90, 'p9', 'verse', 'v19', 'note', 'x']",#Lev. 18:23;20:15;Deut. 27:21
+91,"[91, 'p9', 'verse', 'v19', 'content']",“Whoever lies with an animal shall be put to death.
+92,"['v019_ESV_EXO_022', 92, 'p9', 'verse', 'v19', 'plain_text']",19 “Whoever lies with an animal shall be put to death.
+93,"[93, 'p10', 'verse', 'v20', 'label']",20
+94,"[94, 'p10', 'verse', 'v20', 'note', 'x']","#[Num. 25:2,7,8;Josh. 23:16]; See Deut. 13:1-15; 17:2-5"
+95,"[95, 'p10', 'verse', 'v20', 'content']","“Whoever sacrifices to any god, other than the"
+96,"[96, 'p10', 'verse', 'v20', 'nd']",Lord
+97,"[97, 'p10', 'verse', 'v20', 'content']","alone, shall be devoted to destruction."
+98,"[98, 'p10', 'verse', 'v20', 'note', 'f']","#22:20That is, set apart (devoted) as an offering to the Lord (for destruction)"
+99,"['v020_ESV_EXO_022', 99, 'p10', 'verse', 'v20', 'plain_text']","20 “Whoever sacrifices to any god, other than the Lord alone, shall be devoted to destruction."
+100,"[100, 'p11', 'verse', 'v21', 'label']",21
+101,"[101, 'p11', 'verse', 'v21', 'note', 'x']","#ch.23:9;Lev. 19:33;Deut. 10:18,19;Jer. 7:6;Zech. 7:10;Mal. 3:5"
+102,"[102, 'p11', 'verse', 'v21', 'content']","“You shall not wrong a sojourner or oppress him, for you were sojourners in the land of Egypt."
+103,"['v021_ESV_EXO_022', 103, 'p11', 'verse', 'v21', 'plain_text']","21 “You shall not wrong a sojourner or oppress him, for you were sojourners in the land of Egypt."
+104,"[104, 'p11', 'verse', 'v22', 'label']",22
+105,"[105, 'p11', 'verse', 'v22', 'note', 'x']","#Deut. 24:17;27:19;Ps. 94:6;Isa. 1:17,23;10:2;Ezek. 22:7;Zech. 7:10;James 1:27"
+106,"[106, 'p11', 'verse', 'v22', 'content']",You shall not mistreat any widow or fatherless child.
+107,"['v022_ESV_EXO_022', 107, 'p11', 'verse', 'v22', 'plain_text']",22 You shall not mistreat any widow or fatherless child.
+108,"[108, 'p11', 'verse', 'v23', 'label']",23
+109,"[109, 'p11', 'verse', 'v23', 'content']","If you do mistreat them, and they"
+110,"[110, 'p11', 'verse', 'v23', 'note', 'x']",#Job 34:28;Luke 18:7
+111,"[111, 'p11', 'verse', 'v23', 'content']","cry out to me, I will surely"
+112,"[112, 'p11', 'verse', 'v23', 'note', 'x']",#Ps. 18:6;145:19;[James 5:4]
+113,"[113, 'p11', 'verse', 'v23', 'content']","hear their cry,"
+114,"['v023_ESV_EXO_022', 114, 'p11', 'verse', 'v23', 'plain_text']","23 If you do mistreat them, and they cry out to me, I will surely hear their cry,"
+115,"[115, 'p11', 'verse', 'v24', 'label']",24
+116,"[116, 'p11', 'verse', 'v24', 'content']","and my wrath will burn, and I will kill you with the sword, and"
+117,"[117, 'p11', 'verse', 'v24', 'note', 'x']",#Ps. 109:9;Lam. 5:3
+118,"[118, 'p11', 'verse', 'v24', 'content']",your wives shall become widows and your children fatherless.
+119,"['v024_ESV_EXO_022', 119, 'p11', 'verse', 'v24', 'plain_text']","24 and my wrath will burn, and I will kill you with the sword, and your wives shall become widows and your children fatherless."
+120,"[120, 'p12', 'verse', 'v25', 'label']",25
+121,"[121, 'p12', 'verse', 'v25', 'note', 'x']","#Lev. 25:35-37;Deut. 23:19,20;Neh. 5:7;Ps. 15:5;Prov. 28:8;Ezek. 18:8,13,17;22:12"
+122,"[122, 'p12', 'verse', 'v25', 'content']","“If you lend money to any of my people with you who is poor, you shall not be like a moneylender to him, and you shall not exact interest from him."
+123,"['v025_ESV_EXO_022', 123, 'p12', 'verse', 'v25', 'plain_text']","25 “If you lend money to any of my people with you who is poor, you shall not be like a moneylender to him, and you shall not exact interest from him."
+124,"[124, 'p12', 'verse', 'v26', 'label']",26
+125,"[125, 'p12', 'verse', 'v26', 'note', 'x']","#Deut. 24:13,17;Prov. 20:16;Ezek. 18:7,16;Amos 2:8;[Prov. 22:27]"
+126,"[126, 'p12', 'verse', 'v26', 'content']","If ever you take your neighbor’s cloak in pledge, you shall return it to him before the sun goes down,"
+127,"['v026_ESV_EXO_022', 127, 'p12', 'verse', 'v26', 'plain_text']","26 If ever you take your neighbor’s cloak in pledge, you shall return it to him before the sun goes down,"
+128,"[128, 'p12', 'verse', 'v27', 'label']",27
+129,"[129, 'p12', 'verse', 'v27', 'content']","for that is his only covering, and it is his cloak for his body; in what else shall he sleep? And if he"
+130,"[130, 'p12', 'verse', 'v27', 'note', 'x']",#[See ver.23above]
+131,"[131, 'p12', 'verse', 'v27', 'content']","cries to me, I will hear, for I am"
+132,"[132, 'p12', 'verse', 'v27', 'note', 'x']",#ch.34:6;2 Chr. 30:9;Neh. 9:17
+133,"[133, 'p12', 'verse', 'v27', 'content']",compassionate.
+134,"['v027_ESV_EXO_022', 134, 'p12', 'verse', 'v27', 'plain_text']","27 for that is his only covering, and it is his cloak for his body; in what else shall he sleep? And if he cries to me, I will hear, for I am compassionate."
+135,"[135, 'p13', 'verse', 'v28', 'label']",28
+136,"[136, 'p13', 'verse', 'v28', 'note', 'x']",#CitedActs 23:5;[2 Sam. 19:21;Eccles. 10:20;Jude 8]
+137,"[137, 'p13', 'verse', 'v28', 'content']","“You shall not revile God, nor"
+138,"[138, 'p13', 'verse', 'v28', 'note', 'x']",#CitedActs 23:5;[2 Sam. 19:21;Eccles. 10:20;Jude 8]
+139,"[139, 'p13', 'verse', 'v28', 'content']",curse a ruler of your people.
+140,"['v028_ESV_EXO_022', 140, 'p13', 'verse', 'v28', 'plain_text']","28 “You shall not revile God, nor curse a ruler of your people."
+141,"[141, 'p14', 'verse', 'v29', 'label']",29
+142,"[142, 'p14', 'verse', 'v29', 'content']",“You shall not delay to offer from the fullness of your harvest and from the outflow of your presses.
+143,"[143, 'p14', 'verse', 'v29', 'note', 'x']",#See ch.13:2
+144,"[144, 'p14', 'verse', 'v29', 'content']",The firstborn of your sons you shall give to me.
+145,"['v029_ESV_EXO_022', 145, 'p14', 'verse', 'v29', 'plain_text']",29 “You shall not delay to offer from the fullness of your harvest and from the outflow of your presses. The firstborn of your sons you shall give to me.
+146,"[146, 'p14', 'verse', 'v30', 'label']",30
+147,"[147, 'p14', 'verse', 'v30', 'note', 'x']",#Deut. 15:19
+148,"[148, 'p14', 'verse', 'v30', 'content']",You shall do the same with your oxen and with your sheep:
+149,"[149, 'p14', 'verse', 'v30', 'note', 'x']",#Lev. 22:27
+150,"[150, 'p14', 'verse', 'v30', 'content']",seven days it shall be with its mother; on the eighth day you shall give it to me.
+151,"['v030_ESV_EXO_022', 151, 'p14', 'verse', 'v30', 'plain_text']",30 You shall do the same with your oxen and with your sheep: seven days it shall be with its mother; on the eighth day you shall give it to me.
+152,"[152, 'p15', 'verse', 'v31', 'label']",31
+153,"[153, 'p15', 'verse', 'v31', 'note', 'x']","#ch.19:6;Lev. 11:44,45"
+154,"[154, 'p15', 'verse', 'v31', 'content']",“You shall be consecrated to me. Therefore
+155,"[155, 'p15', 'verse', 'v31', 'note', 'x']",#Lev. 22:8;Ezek. 4:14;44:31
+156,"[156, 'p15', 'verse', 'v31', 'content']",you shall not eat any flesh that is torn by beasts in the field;
+157,"[157, 'p15', 'verse', 'v31', 'note', 'x']",#[Matt. 7:6]
+158,"[158, 'p15', 'verse', 'v31', 'content']",you shall throw it to the dogs.
+159,"['v031_ESV_EXO_022', 159, 'p15', 'verse', 'v31', 'plain_text']",31 “You shall be consecrated to me. Therefore you shall not eat any flesh that is torn by beasts in the field; you shall throw it to the dogs.

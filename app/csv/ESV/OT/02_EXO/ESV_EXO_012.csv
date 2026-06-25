@@ -1,0 +1,315 @@
+id,tag,text
+1,"[1, 'label']",12
+2,"[2, 's1', 'heading']",The Passover
+3,"[3, 'p1', 'verse', 'v1', 'label']",1
+4,"[4, 'p1', 'verse', 'v1', 'content']",The
+5,"[5, 'p1', 'verse', 'v1', 'nd']",Lord
+6,"[6, 'p1', 'verse', 'v1', 'content']","said to Moses and Aaron in the land of Egypt,"
+7,"['v001_ESV_EXO_012', 7, 'p1', 'verse', 'v1', 'plain_text']","1 The Lord said to Moses and Aaron in the land of Egypt,"
+8,"[8, 'p1', 'verse', 'v2', 'label']",2
+9,"[9, 'p1', 'verse', 'v2', 'note', 'x']",#ch.13:4;23:15;34:18;Deut. 16:1
+10,"[10, 'p1', 'verse', 'v2', 'content']",“This month shall be for you the beginning of months. It shall be the first month of the year for you.
+11,"['v002_ESV_EXO_012', 11, 'p1', 'verse', 'v2', 'plain_text']",2 “This month shall be for you the beginning of months. It shall be the first month of the year for you.
+12,"[12, 'p1', 'verse', 'v3', 'label']",3
+13,"[13, 'p1', 'verse', 'v3', 'content']",Tell all the congregation of Israel that on the tenth day of this month every man shall take a lamb
+14,"[14, 'p1', 'verse', 'v3', 'note', 'x']",#ver.21
+15,"[15, 'p1', 'verse', 'v3', 'content']","according to their fathers’ houses, a lamb for a household."
+16,"['v003_ESV_EXO_012', 16, 'p1', 'verse', 'v3', 'plain_text']","3 Tell all the congregation of Israel that on the tenth day of this month every man shall take a lamb according to their fathers’ houses, a lamb for a household."
+17,"[17, 'p1', 'verse', 'v4', 'label']",4
+18,"[18, 'p1', 'verse', 'v4', 'content']","And if the household is too small for a lamb, then he and his nearest neighbor shall take according to the number of persons; according to what each can eat you shall make your count for the lamb."
+19,"['v004_ESV_EXO_012', 19, 'p1', 'verse', 'v4', 'plain_text']","4 And if the household is too small for a lamb, then he and his nearest neighbor shall take according to the number of persons; according to what each can eat you shall make your count for the lamb."
+20,"[20, 'p1', 'verse', 'v5', 'label']",5
+21,"[21, 'p1', 'verse', 'v5', 'content']",Your lamb shall be
+22,"[22, 'p1', 'verse', 'v5', 'note', 'x']","#Lev. 22:19-21;Deut. 17:1;Mal. 1:8,14;Heb. 9:14"
+23,"[23, 'p1', 'verse', 'v5', 'content']","without blemish, a male a year old. You may take it from the sheep or from the goats,"
+24,"['v005_ESV_EXO_012', 24, 'p1', 'verse', 'v5', 'plain_text']","5 Your lamb shall be without blemish, a male a year old. You may take it from the sheep or from the goats,"
+25,"[25, 'p1', 'verse', 'v6', 'label']",6
+26,"[26, 'p1', 'verse', 'v6', 'content']",and you shall keep it until the
+27,"[27, 'p1', 'verse', 'v6', 'note', 'x']",#ver.18;Lev. 23:5;Num. 9:3;28:16;Josh. 5:10;Ezra 6:19
+28,"[28, 'p1', 'verse', 'v6', 'content']","fourteenth day of this month, when the whole assembly of the congregation of Israel shall kill their lambs at twilight."
+29,"[29, 'p1', 'verse', 'v6', 'note', 'f']",#12:6Hebrewbetween the two evenings
+30,"['v006_ESV_EXO_012', 30, 'p1', 'verse', 'v6', 'plain_text']","6 and you shall keep it until the fourteenth day of this month, when the whole assembly of the congregation of Israel shall kill their lambs at twilight."
+31,"[31, 'p2', 'verse', 'v7', 'label']",7
+32,"[32, 'p2', 'verse', 'v7', 'content']",“Then they shall take some of the blood and put it on the
+33,"[33, 'p2', 'verse', 'v7', 'note', 'x']",#ver.22
+34,"[34, 'p2', 'verse', 'v7', 'content']",two doorposts and the lintel of the houses in which they eat it.
+35,"['v007_ESV_EXO_012', 35, 'p2', 'verse', 'v7', 'plain_text']",7 “Then they shall take some of the blood and put it on the two doorposts and the lintel of the houses in which they eat it.
+36,"[36, 'p2', 'verse', 'v8', 'label']",8
+37,"[37, 'p2', 'verse', 'v8', 'content']","They shall eat the flesh that night, roasted on the fire; with"
+38,"[38, 'p2', 'verse', 'v8', 'note', 'x']",#ch.23:18;34:25;Num. 9:11;Deut. 16:3;1 Cor. 5:8
+39,"[39, 'p2', 'verse', 'v8', 'content']",unleavened bread and bitter herbs they shall eat it.
+40,"['v008_ESV_EXO_012', 40, 'p2', 'verse', 'v8', 'plain_text']","8 They shall eat the flesh that night, roasted on the fire; with unleavened bread and bitter herbs they shall eat it."
+41,"[41, 'p2', 'verse', 'v9', 'label']",9
+42,"[42, 'p2', 'verse', 'v9', 'content']","Do not eat any of it raw or boiled in water, but"
+43,"[43, 'p2', 'verse', 'v9', 'note', 'x']",#Deut. 16:7;2 Chr. 35:13
+44,"[44, 'p2', 'verse', 'v9', 'content']","roasted, its head with its legs and its inner parts."
+45,"['v009_ESV_EXO_012', 45, 'p2', 'verse', 'v9', 'plain_text']","9 Do not eat any of it raw or boiled in water, but roasted, its head with its legs and its inner parts."
+46,"[46, 'p2', 'verse', 'v10', 'label']",10
+47,"[47, 'p2', 'verse', 'v10', 'content']",And
+48,"[48, 'p2', 'verse', 'v10', 'note', 'x']",#ch.23:18;29:34;34:25;Deut. 16:4;[Lev. 7:15]
+49,"[49, 'p2', 'verse', 'v10', 'content']",you shall let none of it remain until the morning; anything that remains until the morning you shall burn.
+50,"['v010_ESV_EXO_012', 50, 'p2', 'verse', 'v10', 'plain_text']",10 And you shall let none of it remain until the morning; anything that remains until the morning you shall burn.
+51,"[51, 'p2', 'verse', 'v11', 'label']",11
+52,"[52, 'p2', 'verse', 'v11', 'content']",In this manner you shall eat it: with
+53,"[53, 'p2', 'verse', 'v11', 'note', 'x']",#[Luke 12:35;Eph. 6:14;1 Pet. 1:13]
+54,"[54, 'p2', 'verse', 'v11', 'content']","your belt fastened, your sandals on your feet, and your staff in your hand. And you shall eat it in haste."
+55,"[55, 'p2', 'verse', 'v11', 'note', 'x']",#ver.27;Lev. 23:5;Deut. 16:5;[1 Cor. 5:7]
+56,"[56, 'p2', 'verse', 'v11', 'content']",It is the
+57,"[57, 'p2', 'verse', 'v11', 'nd']",Lord
+58,"[58, 'p2', 'verse', 'v11', 'content']",’s Passover.
+59,"['v011_ESV_EXO_012', 59, 'p2', 'verse', 'v11', 'plain_text']","11 In this manner you shall eat it: with your belt fastened, your sandals on your feet, and your staff in your hand. And you shall eat it in haste. It is the Lord ’s Passover."
+60,"[60, 'p2', 'verse', 'v12', 'label']",12
+61,"[61, 'p2', 'verse', 'v12', 'content']",For
+62,"[62, 'p2', 'verse', 'v12', 'note', 'x']","#ver.23;ch.11:4,5"
+63,"[63, 'p2', 'verse', 'v12', 'content']","I will pass through the land of Egypt that night, and I will strike all the firstborn in the land of Egypt, both man and beast; and on"
+64,"[64, 'p2', 'verse', 'v12', 'note', 'x']",#Num. 33:4
+65,"[65, 'p2', 'verse', 'v12', 'content']",all the gods of Egypt I will execute judgments:
+66,"[66, 'p2', 'verse', 'v12', 'note', 'x']",#ch.6:2;Isa. 43:11
+67,"[67, 'p2', 'verse', 'v12', 'content']",I am the
+68,"[68, 'p2', 'verse', 'v12', 'nd']",Lord
+69,"[69, 'p2', 'verse', 'v12', 'content']",.
+70,"['v012_ESV_EXO_012', 70, 'p2', 'verse', 'v12', 'plain_text']","12 For I will pass through the land of Egypt that night, and I will strike all the firstborn in the land of Egypt, both man and beast; and on all the gods of Egypt I will execute judgments: I am the Lord ."
+71,"[71, 'p2', 'verse', 'v13', 'label']",13
+72,"[72, 'p2', 'verse', 'v13', 'note', 'x']",#[Heb. 11:28]
+73,"[73, 'p2', 'verse', 'v13', 'content']","The blood shall be a sign for you, on the houses where you are. And when I see the blood, I will pass over you, and no plague will befall you to destroy you, when I strike the land of Egypt."
+74,"['v013_ESV_EXO_012', 74, 'p2', 'verse', 'v13', 'plain_text']","13 The blood shall be a sign for you, on the houses where you are. And when I see the blood, I will pass over you, and no plague will befall you to destroy you, when I strike the land of Egypt."
+75,"[75, 'p3', 'verse', 'v14', 'label']",14
+76,"[76, 'p3', 'verse', 'v14', 'content']",“This day shall be
+77,"[77, 'p3', 'verse', 'v14', 'note', 'x']",#ch.13:9
+78,"[78, 'p3', 'verse', 'v14', 'content']","for you a memorial day, and you shall keep it as a feast to the"
+79,"[79, 'p3', 'verse', 'v14', 'nd']",Lord
+80,"[80, 'p3', 'verse', 'v14', 'content']","; throughout your generations, as a"
+81,"[81, 'p3', 'verse', 'v14', 'note', 'x']","#ver.17, 24, 43;ch.13:10;2 Kgs. 23:21"
+82,"[82, 'p3', 'verse', 'v14', 'content']","statute forever, you shall keep it as a feast."
+83,"['v014_ESV_EXO_012', 83, 'p3', 'verse', 'v14', 'plain_text']","14 “This day shall be for you a memorial day, and you shall keep it as a feast to the Lord ; throughout your generations, as a statute forever, you shall keep it as a feast."
+84,"[84, 'p3', 'verse', 'v15', 'label']",15
+85,"[85, 'p3', 'verse', 'v15', 'note', 'x']","#ch.13:6,7;23:15;34:18,25;Lev. 23:6;Num. 28:17;Deut. 16:3,8;[1 Cor. 5:7,8]"
+86,"[86, 'p3', 'verse', 'v15', 'content']","Seven days you shall eat unleavened bread. On the first day you shall remove leaven out of your houses, for if anyone eats what is leavened, from the first day until the seventh day,"
+87,"[87, 'p3', 'verse', 'v15', 'note', 'x']",#[Gen. 17:14;Num. 9:13]
+88,"[88, 'p3', 'verse', 'v15', 'content']",that person shall be cut off from Israel.
+89,"['v015_ESV_EXO_012', 89, 'p3', 'verse', 'v15', 'plain_text']","15 Seven days you shall eat unleavened bread. On the first day you shall remove leaven out of your houses, for if anyone eats what is leavened, from the first day until the seventh day, that person shall be cut off from Israel."
+90,"[90, 'p3', 'verse', 'v16', 'label']",16
+91,"[91, 'p3', 'verse', 'v16', 'content']",On the first day you shall hold a
+92,"[92, 'p3', 'verse', 'v16', 'note', 'x']","#Lev. 23:7,8;Num. 28:18,25"
+93,"[93, 'p3', 'verse', 'v16', 'content']","holy assembly, and on the seventh day a holy assembly. No work shall be done on those days. But what everyone needs to eat, that alone may be prepared by you."
+94,"['v016_ESV_EXO_012', 94, 'p3', 'verse', 'v16', 'plain_text']","16 On the first day you shall hold a holy assembly, and on the seventh day a holy assembly. No work shall be done on those days. But what everyone needs to eat, that alone may be prepared by you."
+95,"[95, 'p3', 'verse', 'v17', 'label']",17
+96,"[96, 'p3', 'verse', 'v17', 'content']","And you shall observe the Feast of Unleavened Bread, for"
+97,"[97, 'p3', 'verse', 'v17', 'note', 'x']",#ch.13:3
+98,"[98, 'p3', 'verse', 'v17', 'content']",on this very day I brought your
+99,"[99, 'p3', 'verse', 'v17', 'note', 'x']",#ver.51;ch.7:4
+100,"[100, 'p3', 'verse', 'v17', 'content']","hosts out of the land of Egypt. Therefore you shall observe this day, throughout your generations, as a statute forever."
+101,"['v017_ESV_EXO_012', 101, 'p3', 'verse', 'v17', 'plain_text']","17 And you shall observe the Feast of Unleavened Bread, for on this very day I brought your hosts out of the land of Egypt. Therefore you shall observe this day, throughout your generations, as a statute forever."
+102,"[102, 'p3', 'verse', 'v18', 'label']",18
+103,"[103, 'p3', 'verse', 'v18', 'note', 'x']",#Lev. 23:5;Num. 28:16
+104,"[104, 'p3', 'verse', 'v18', 'content']","In the first month, from the fourteenth day of the month at evening, you shall eat unleavened bread until the twenty-first day of the month at evening."
+105,"['v018_ESV_EXO_012', 105, 'p3', 'verse', 'v18', 'plain_text']","18 In the first month, from the fourteenth day of the month at evening, you shall eat unleavened bread until the twenty-first day of the month at evening."
+106,"[106, 'p3', 'verse', 'v19', 'label']",19
+107,"[107, 'p3', 'verse', 'v19', 'note', 'x']",#ver.15
+108,"[108, 'p3', 'verse', 'v19', 'content']","For seven days no leaven is to be found in your houses. If anyone eats what is leavened,"
+109,"[109, 'p3', 'verse', 'v19', 'note', 'x']",#ver.15
+110,"[110, 'p3', 'verse', 'v19', 'content']","that person will be cut off from the congregation of Israel,"
+111,"[111, 'p3', 'verse', 'v19', 'note', 'x']","#ver.48, 49"
+112,"[112, 'p3', 'verse', 'v19', 'content']",whether he is a sojourner or a native of the land.
+113,"['v019_ESV_EXO_012', 113, 'p3', 'verse', 'v19', 'plain_text']","19 For seven days no leaven is to be found in your houses. If anyone eats what is leavened, that person will be cut off from the congregation of Israel, whether he is a sojourner or a native of the land."
+114,"[114, 'p3', 'verse', 'v20', 'label']",20
+115,"[115, 'p3', 'verse', 'v20', 'content']",You shall eat nothing leavened; in all your dwelling places you shall eat unleavened bread.”
+116,"['v020_ESV_EXO_012', 116, 'p3', 'verse', 'v20', 'plain_text']",20 You shall eat nothing leavened; in all your dwelling places you shall eat unleavened bread.”
+117,"[117, 'p4', 'verse', 'v21', 'label']",21
+118,"[118, 'p4', 'verse', 'v21', 'content']","Then Moses called all the elders of Israel and said to them, “Go and select lambs for yourselves"
+119,"[119, 'p4', 'verse', 'v21', 'note', 'x']",#ver.3
+120,"[120, 'p4', 'verse', 'v21', 'content']","according to your clans, and kill the Passover lamb."
+121,"['v021_ESV_EXO_012', 121, 'p4', 'verse', 'v21', 'plain_text']","21 Then Moses called all the elders of Israel and said to them, “Go and select lambs for yourselves according to your clans, and kill the Passover lamb."
+122,"[122, 'p4', 'verse', 'v22', 'label']",22
+123,"[123, 'p4', 'verse', 'v22', 'content']",Take a bunch of
+124,"[124, 'p4', 'verse', 'v22', 'note', 'x']",#Lev. 14:6;Num. 19:18;Ps. 51:7;Heb. 9:19
+125,"[125, 'p4', 'verse', 'v22', 'content']",hyssop and
+126,"[126, 'p4', 'verse', 'v22', 'note', 'x']",#Heb. 11:28
+127,"[127, 'p4', 'verse', 'v22', 'content']","dip it in the blood that is in the basin, and touch"
+128,"[128, 'p4', 'verse', 'v22', 'note', 'x']",#ver.7
+129,"[129, 'p4', 'verse', 'v22', 'content']",the lintel and the two doorposts with the blood that is in the basin.
+130,"[130, 'p4', 'verse', 'v22', 'note', 'x']",#[Isa. 26:20]
+131,"[131, 'p4', 'verse', 'v22', 'content']",None of you shall go out of the door of his house until the morning.
+132,"['v022_ESV_EXO_012', 132, 'p4', 'verse', 'v22', 'plain_text']","22 Take a bunch of hyssop and dip it in the blood that is in the basin, and touch the lintel and the two doorposts with the blood that is in the basin. None of you shall go out of the door of his house until the morning."
+133,"[133, 'p4', 'verse', 'v23', 'label']",23
+134,"[134, 'p4', 'verse', 'v23', 'note', 'x']","#ver.12, 13"
+135,"[135, 'p4', 'verse', 'v23', 'content']",For the
+136,"[136, 'p4', 'verse', 'v23', 'nd']",Lord
+137,"[137, 'p4', 'verse', 'v23', 'content']","will pass through to strike the Egyptians, and when he sees the blood on"
+138,"[138, 'p4', 'verse', 'v23', 'note', 'x']",#[See ver.22above]
+139,"[139, 'p4', 'verse', 'v23', 'content']","the lintel and on the two doorposts, the"
+140,"[140, 'p4', 'verse', 'v23', 'nd']",Lord
+141,"[141, 'p4', 'verse', 'v23', 'content']",will pass over the door and
+142,"[142, 'p4', 'verse', 'v23', 'note', 'x']",#Heb. 11:28;[Ezek. 9:6;Rev. 7:3;9:4]
+143,"[143, 'p4', 'verse', 'v23', 'content']",will not allow the destroyer to enter your houses to strike you.
+144,"['v023_ESV_EXO_012', 144, 'p4', 'verse', 'v23', 'plain_text']","23 For the Lord will pass through to strike the Egyptians, and when he sees the blood on the lintel and on the two doorposts, the Lord will pass over the door and will not allow the destroyer to enter your houses to strike you."
+145,"[145, 'p4', 'verse', 'v24', 'label']",24
+146,"[146, 'p4', 'verse', 'v24', 'content']",You shall observe this rite as a statute for you and for your sons forever.
+147,"['v024_ESV_EXO_012', 147, 'p4', 'verse', 'v24', 'plain_text']",24 You shall observe this rite as a statute for you and for your sons forever.
+148,"[148, 'p4', 'verse', 'v25', 'label']",25
+149,"[149, 'p4', 'verse', 'v25', 'content']",And when you come to the land that the
+150,"[150, 'p4', 'verse', 'v25', 'nd']",Lord
+151,"[151, 'p4', 'verse', 'v25', 'content']","will give you,"
+152,"[152, 'p4', 'verse', 'v25', 'note', 'x']","#ch.3:8,17"
+153,"[153, 'p4', 'verse', 'v25', 'content']","as he has promised, you shall keep this service."
+154,"['v025_ESV_EXO_012', 154, 'p4', 'verse', 'v25', 'plain_text']","25 And when you come to the land that the Lord will give you, as he has promised, you shall keep this service."
+155,"[155, 'p4', 'verse', 'v26', 'label']",26
+156,"[156, 'p4', 'verse', 'v26', 'content']",And
+157,"[157, 'p4', 'verse', 'v26', 'note', 'x']","#ch.13:8,14;Deut. 6:20;32:7;Josh. 4:6,21;Ps. 78:3-6"
+158,"[158, 'p4', 'verse', 'v26', 'content']","when your children say to you, ‘What do you mean by this service?’"
+159,"['v026_ESV_EXO_012', 159, 'p4', 'verse', 'v26', 'plain_text']","26 And when your children say to you, ‘What do you mean by this service?’"
+160,"[160, 'p4', 'verse', 'v27', 'label']",27
+161,"[161, 'p4', 'verse', 'v27', 'content']","you shall say,"
+162,"[162, 'p4', 'verse', 'v27', 'note', 'x']","#ver.11, 21"
+163,"[163, 'p4', 'verse', 'v27', 'content']",‘It is the sacrifice of the
+164,"[164, 'p4', 'verse', 'v27', 'nd']",Lord
+165,"[165, 'p4', 'verse', 'v27', 'content']","’s Passover, for he passed over the houses of the people of Israel in Egypt, when he struck the Egyptians but spared our houses.’” And the people"
+166,"[166, 'p4', 'verse', 'v27', 'note', 'x']",#ch.4:31
+167,"[167, 'p4', 'verse', 'v27', 'content']",bowed their heads and worshiped.
+168,"['v027_ESV_EXO_012', 168, 'p4', 'verse', 'v27', 'plain_text']","27 you shall say, ‘It is the sacrifice of the Lord ’s Passover, for he passed over the houses of the people of Israel in Egypt, when he struck the Egyptians but spared our houses.’” And the people bowed their heads and worshiped."
+169,"[169, 'p5', 'verse', 'v28', 'label']",28
+170,"[170, 'p5', 'verse', 'v28', 'content']",Then the people of Israel went and did so; as the
+171,"[171, 'p5', 'verse', 'v28', 'nd']",Lord
+172,"[172, 'p5', 'verse', 'v28', 'content']","had commanded Moses and Aaron, so they did."
+173,"[173, 's1', 'heading']",The Tenth Plague: Death of the Firstborn
+174,"['v028_ESV_EXO_012', 174, 'p5', 'verse', 'v28', 'plain_text']","28 Then the people of Israel went and did so; as the Lord had commanded Moses and Aaron, so they did."
+175,"[175, 'p6', 'verse', 'v29', 'label']",29
+176,"[176, 'p6', 'verse', 'v29', 'note', 'x']",#ch.11:4
+177,"[177, 'p6', 'verse', 'v29', 'content']",At midnight the
+178,"[178, 'p6', 'verse', 'v29', 'note', 'x']",#Num. 8:17;33:4;Ps. 78:51;105:36;135:8;136:10
+179,"[179, 'p6', 'verse', 'v29', 'nd']",Lord
+180,"[180, 'p6', 'verse', 'v29', 'content']","struck down all the firstborn in the land of Egypt,"
+181,"[181, 'p6', 'verse', 'v29', 'note', 'x']",#ch.4:23;11:5
+182,"[182, 'p6', 'verse', 'v29', 'content']","from the firstborn of Pharaoh who sat on his throne to the firstborn of the captive who was in the dungeon, and all the firstborn of the livestock."
+183,"['v029_ESV_EXO_012', 183, 'p6', 'verse', 'v29', 'plain_text']","29 At midnight the Lord struck down all the firstborn in the land of Egypt, from the firstborn of Pharaoh who sat on his throne to the firstborn of the captive who was in the dungeon, and all the firstborn of the livestock."
+184,"[184, 'p6', 'verse', 'v30', 'label']",30
+185,"[185, 'p6', 'verse', 'v30', 'content']","And Pharaoh rose up in the night, he and all his servants and all the Egyptians. And there was"
+186,"[186, 'p6', 'verse', 'v30', 'note', 'x']","#ch.11:6;[Amos 5:16,17]"
+187,"[187, 'p6', 'verse', 'v30', 'content']","a great cry in Egypt, for there was not a house where someone was not dead."
+188,"['v030_ESV_EXO_012', 188, 'p6', 'verse', 'v30', 'plain_text']","30 And Pharaoh rose up in the night, he and all his servants and all the Egyptians. And there was a great cry in Egypt, for there was not a house where someone was not dead."
+189,"[189, 'p6', 'verse', 'v31', 'label']",31
+190,"[190, 'p6', 'verse', 'v31', 'content']","Then he summoned Moses and Aaron by night and said, “Up, go out from among my people,"
+191,"[191, 'p6', 'verse', 'v31', 'note', 'x']",#[ch.10:9-11]
+192,"[192, 'p6', 'verse', 'v31', 'content']","both you and the people of Israel; and go, serve the"
+193,"[193, 'p6', 'verse', 'v31', 'nd']",Lord
+194,"[194, 'p6', 'verse', 'v31', 'content']",", as you have said."
+195,"['v031_ESV_EXO_012', 195, 'p6', 'verse', 'v31', 'plain_text']","31 Then he summoned Moses and Aaron by night and said, “Up, go out from among my people, both you and the people of Israel; and go, serve the Lord , as you have said."
+196,"[196, 'p6', 'verse', 'v32', 'label']",32
+197,"[197, 'p6', 'verse', 'v32', 'note', 'x']",#[ch.10:24-26]
+198,"[198, 'p6', 'verse', 'v32', 'content']","Take your flocks and your herds, as you have said, and be gone, and bless me also!”"
+199,"[199, 's1', 'heading']",The Exodus
+200,"['v032_ESV_EXO_012', 200, 'p6', 'verse', 'v32', 'plain_text']","32 Take your flocks and your herds, as you have said, and be gone, and bless me also!”"
+201,"[201, 'p7', 'verse', 'v33', 'label']",33
+202,"[202, 'p7', 'verse', 'v33', 'note', 'x']","#ch.6:1;11:1,8;Ps. 105:38"
+203,"[203, 'p7', 'verse', 'v33', 'content']","The Egyptians were urgent with the people to send them out of the land in haste. For they said, “We shall all be dead.”"
+204,"['v033_ESV_EXO_012', 204, 'p7', 'verse', 'v33', 'plain_text']","33 The Egyptians were urgent with the people to send them out of the land in haste. For they said, “We shall all be dead.”"
+205,"[205, 'p7', 'verse', 'v34', 'label']",34
+206,"[206, 'p7', 'verse', 'v34', 'content']","So the people took their dough before it was leavened, their kneading bowls being bound up in their cloaks on their shoulders."
+207,"['v034_ESV_EXO_012', 207, 'p7', 'verse', 'v34', 'plain_text']","34 So the people took their dough before it was leavened, their kneading bowls being bound up in their cloaks on their shoulders."
+208,"[208, 'p7', 'verse', 'v35', 'label']",35
+209,"[209, 'p7', 'verse', 'v35', 'content']","The people of Israel had also done as Moses told them, for they had"
+210,"[210, 'p7', 'verse', 'v35', 'note', 'x']",#ch.3:22;11:2
+211,"[211, 'p7', 'verse', 'v35', 'content']",asked the Egyptians for silver and gold jewelry and for clothing.
+212,"['v035_ESV_EXO_012', 212, 'p7', 'verse', 'v35', 'plain_text']","35 The people of Israel had also done as Moses told them, for they had asked the Egyptians for silver and gold jewelry and for clothing."
+213,"[213, 'p7', 'verse', 'v36', 'label']",36
+214,"[214, 'p7', 'verse', 'v36', 'note', 'x']",#ch.3:21;11:3
+215,"[215, 'p7', 'verse', 'v36', 'content']",And the
+216,"[216, 'p7', 'verse', 'v36', 'nd']",Lord
+217,"[217, 'p7', 'verse', 'v36', 'content']","had given the people favor in the sight of the Egyptians, so that"
+218,"[218, 'p7', 'verse', 'v36', 'note', 'x']",#Gen. 15:14;Ps. 105:37
+219,"[219, 'p7', 'verse', 'v36', 'content']",they let them have what they asked. Thus they plundered the Egyptians.
+220,"['v036_ESV_EXO_012', 220, 'p7', 'verse', 'v36', 'plain_text']","36 And the Lord had given the people favor in the sight of the Egyptians, so that they let them have what they asked. Thus they plundered the Egyptians."
+221,"[221, 'p8', 'verse', 'v37', 'label']",37
+222,"[222, 'p8', 'verse', 'v37', 'content']",And the
+223,"[223, 'p8', 'verse', 'v37', 'note', 'x']","#Num. 33:3,5"
+224,"[224, 'p8', 'verse', 'v37', 'content']",people of Israel journeyed from
+225,"[225, 'p8', 'verse', 'v37', 'note', 'x']",#Gen. 47:11;[ch.1:11]
+226,"[226, 'p8', 'verse', 'v37', 'content']","Rameses to Succoth,"
+227,"[227, 'p8', 'verse', 'v37', 'note', 'x']",#[ch.38:26;Num. 1:46;2:32;11:21;26:51]
+228,"[228, 'p8', 'verse', 'v37', 'content']","about six hundred thousand men on foot, besides women and children."
+229,"['v037_ESV_EXO_012', 229, 'p8', 'verse', 'v37', 'plain_text']","37 And the people of Israel journeyed from Rameses to Succoth, about six hundred thousand men on foot, besides women and children."
+230,"[230, 'p8', 'verse', 'v38', 'label']",38
+231,"[231, 'p8', 'verse', 'v38', 'content']",A
+232,"[232, 'p8', 'verse', 'v38', 'note', 'x']","#Lev. 24:10,11;Num. 11:4;[Neh. 13:3]"
+233,"[233, 'p8', 'verse', 'v38', 'content']","mixed multitude also went up with them, and very much livestock, both flocks and herds."
+234,"['v038_ESV_EXO_012', 234, 'p8', 'verse', 'v38', 'plain_text']","38 A mixed multitude also went up with them, and very much livestock, both flocks and herds."
+235,"[235, 'p8', 'verse', 'v39', 'label']",39
+236,"[236, 'p8', 'verse', 'v39', 'content']","And they baked unleavened cakes of the dough that they had brought out of Egypt, for it was not leavened, because"
+237,"[237, 'p8', 'verse', 'v39', 'note', 'x']",#[See ver.33above]
+238,"[238, 'p8', 'verse', 'v39', 'content']",they were thrust out of Egypt and
+239,"[239, 'p8', 'verse', 'v39', 'note', 'x']",#[Deut. 16:3]
+240,"[240, 'p8', 'verse', 'v39', 'content']","could not wait, nor had they prepared any provisions for themselves."
+241,"['v039_ESV_EXO_012', 241, 'p8', 'verse', 'v39', 'plain_text']","39 And they baked unleavened cakes of the dough that they had brought out of Egypt, for it was not leavened, because they were thrust out of Egypt and could not wait, nor had they prepared any provisions for themselves."
+242,"[242, 'p9', 'verse', 'v40', 'label']",40
+243,"[243, 'p9', 'verse', 'v40', 'content']",The time that the people of Israel lived in Egypt was 430 years.
+244,"['v040_ESV_EXO_012', 244, 'p9', 'verse', 'v40', 'plain_text']",40 The time that the people of Israel lived in Egypt was 430 years.
+245,"[245, 'p9', 'verse', 'v41', 'label']",41
+246,"[246, 'p9', 'verse', 'v41', 'content']",At the end of
+247,"[247, 'p9', 'verse', 'v41', 'note', 'x']",#Gal. 3:17;[Gen. 15:13;Acts 7:6]
+248,"[248, 'p9', 'verse', 'v41', 'content']","430 years, on that very day, all the hosts of the"
+249,"[249, 'p9', 'verse', 'v41', 'nd']",Lord
+250,"[250, 'p9', 'verse', 'v41', 'content']",went out from the land of Egypt.
+251,"['v041_ESV_EXO_012', 251, 'p9', 'verse', 'v41', 'plain_text']","41 At the end of 430 years, on that very day, all the hosts of the Lord went out from the land of Egypt."
+252,"[252, 'p9', 'verse', 'v42', 'label']",42
+253,"[253, 'p9', 'verse', 'v42', 'content']",It was a night of watching by the
+254,"[254, 'p9', 'verse', 'v42', 'nd']",Lord
+255,"[255, 'p9', 'verse', 'v42', 'content']",", to bring them out of the land of Egypt; so this same night is a"
+256,"[256, 'p9', 'verse', 'v42', 'note', 'x']",#SeeDeut. 16:1-6
+257,"[257, 'p9', 'verse', 'v42', 'content']",night of watching kept to the
+258,"[258, 'p9', 'verse', 'v42', 'nd']",Lord
+259,"[259, 'p9', 'verse', 'v42', 'content']",by all the people of Israel throughout their generations.
+260,"[260, 's1', 'heading']",Institution of the Passover
+261,"['v042_ESV_EXO_012', 261, 'p9', 'verse', 'v42', 'plain_text']","42 It was a night of watching by the Lord , to bring them out of the land of Egypt; so this same night is a night of watching kept to the Lord by all the people of Israel throughout their generations."
+262,"[262, 'p10', 'verse', 'v43', 'label']",43
+263,"[263, 'p10', 'verse', 'v43', 'content']",And the
+264,"[264, 'p10', 'verse', 'v43', 'nd']",Lord
+265,"[265, 'p10', 'verse', 'v43', 'content']","said to Moses and Aaron, “This is the statute of the Passover: no foreigner shall eat of it,"
+266,"['v043_ESV_EXO_012', 266, 'p10', 'verse', 'v43', 'plain_text']","43 And the Lord said to Moses and Aaron, “This is the statute of the Passover: no foreigner shall eat of it,"
+267,"[267, 'p10', 'verse', 'v44', 'label']",44
+268,"[268, 'p10', 'verse', 'v44', 'content']",but every slave
+269,"[269, 'p10', 'verse', 'v44', 'note', 'f']",#12:44Orservant; the Hebrew term‘ebeddesignates a range of social and economic roles (see Preface)
+270,"[270, 'p10', 'verse', 'v44', 'content']",that is
+271,"[271, 'p10', 'verse', 'v44', 'note', 'x']","#[Gen. 17:12,13]"
+272,"[272, 'p10', 'verse', 'v44', 'content']",bought for money may eat of it after you have circumcised him.
+273,"['v044_ESV_EXO_012', 273, 'p10', 'verse', 'v44', 'plain_text']",44 but every slave that is bought for money may eat of it after you have circumcised him.
+274,"[274, 'p10', 'verse', 'v45', 'label']",45
+275,"[275, 'p10', 'verse', 'v45', 'note', 'x']",#Lev. 22:10
+276,"[276, 'p10', 'verse', 'v45', 'content']",No foreigner or hired worker may eat of it.
+277,"['v045_ESV_EXO_012', 277, 'p10', 'verse', 'v45', 'plain_text']",45 No foreigner or hired worker may eat of it.
+278,"[278, 'p10', 'verse', 'v46', 'label']",46
+279,"[279, 'p10', 'verse', 'v46', 'content']","It shall be eaten in one house; you shall not take any of the flesh outside the house, and"
+280,"[280, 'p10', 'verse', 'v46', 'note', 'x']",#Num. 9:12;CitedJohn 19:36
+281,"[281, 'p10', 'verse', 'v46', 'content']",you shall not break any of its bones.
+282,"['v046_ESV_EXO_012', 282, 'p10', 'verse', 'v46', 'plain_text']","46 It shall be eaten in one house; you shall not take any of the flesh outside the house, and you shall not break any of its bones."
+283,"[283, 'p10', 'verse', 'v47', 'label']",47
+284,"[284, 'p10', 'verse', 'v47', 'note', 'x']",#ver.6
+285,"[285, 'p10', 'verse', 'v47', 'content']",All the congregation of Israel shall keep it.
+286,"['v047_ESV_EXO_012', 286, 'p10', 'verse', 'v47', 'plain_text']",47 All the congregation of Israel shall keep it.
+287,"[287, 'p10', 'verse', 'v48', 'label']",48
+288,"[288, 'p10', 'verse', 'v48', 'note', 'x']",#Num. 9:14
+289,"[289, 'p10', 'verse', 'v48', 'content']",If a stranger shall sojourn with you and would keep the Passover to the
+290,"[290, 'p10', 'verse', 'v48', 'nd']",Lord
+291,"[291, 'p10', 'verse', 'v48', 'content']",", let all his males be circumcised. Then he may come near and keep it; he"
+292,"[292, 'p10', 'verse', 'v48', 'note', 'x']",#ver.19
+293,"[293, 'p10', 'verse', 'v48', 'content']",shall be as a native of the land. But no uncircumcised person shall eat of it.
+294,"['v048_ESV_EXO_012', 294, 'p10', 'verse', 'v48', 'plain_text']","48 If a stranger shall sojourn with you and would keep the Passover to the Lord , let all his males be circumcised. Then he may come near and keep it; he shall be as a native of the land. But no uncircumcised person shall eat of it."
+295,"[295, 'p10', 'verse', 'v49', 'label']",49
+296,"[296, 'p10', 'verse', 'v49', 'content']",There shall be
+297,"[297, 'p10', 'verse', 'v49', 'note', 'x']","#Num. 9:14;15:15,16"
+298,"[298, 'p10', 'verse', 'v49', 'content']",one law for the native and for the
+299,"[299, 'p10', 'verse', 'v49', 'note', 'x']",#[See ver.48above]
+300,"[300, 'p10', 'verse', 'v49', 'content']",stranger who sojourns among you.”
+301,"['v049_ESV_EXO_012', 301, 'p10', 'verse', 'v49', 'plain_text']",49 There shall be one law for the native and for the stranger who sojourns among you.”
+302,"[302, 'p11', 'verse', 'v50', 'label']",50
+303,"[303, 'p11', 'verse', 'v50', 'content']",All the people of Israel did just as the
+304,"[304, 'p11', 'verse', 'v50', 'nd']",Lord
+305,"[305, 'p11', 'verse', 'v50', 'content']",commanded Moses and Aaron.
+306,"['v050_ESV_EXO_012', 306, 'p11', 'verse', 'v50', 'plain_text']",50 All the people of Israel did just as the Lord commanded Moses and Aaron.
+307,"[307, 'p11', 'verse', 'v51', 'label']",51
+308,"[308, 'p11', 'verse', 'v51', 'content']",And on that very day the
+309,"[309, 'p11', 'verse', 'v51', 'note', 'x']",#ver.41;Acts 13:17
+310,"[310, 'p11', 'verse', 'v51', 'nd']",Lord
+311,"[311, 'p11', 'verse', 'v51', 'content']",brought the people of Israel out of the land of Egypt by their
+312,"[312, 'p11', 'verse', 'v51', 'note', 'x']",#ver.17
+313,"[313, 'p11', 'verse', 'v51', 'content']",hosts.
+314,"['v051_ESV_EXO_012', 314, 'p11', 'verse', 'v51', 'plain_text']",51 And on that very day the Lord brought the people of Israel out of the land of Egypt by their hosts.

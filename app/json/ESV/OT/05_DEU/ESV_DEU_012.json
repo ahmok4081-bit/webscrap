@@ -1,0 +1,2867 @@
+{
+  "translationId": "ESV",
+  "name": "English Standard Version",
+  "abbreviation": "ESV",
+  "language": "English",
+  "copyright": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.",
+  "books": [
+    {
+      "bookId": "DEU",
+      "testament": "OT",
+      "order": 5,
+      "title": "Deuteronomy",
+      "abbreviation": "DEU",
+      "chapters": [
+        {
+          "chapter": 12,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "The"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "s1",
+                "nd",
+                "heading"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "’s Chosen Place of Worship"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#ch.6:1"
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                7,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "“These are the statutes and rules that you shall be careful to do in the land that the"
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v1",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                9,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": ", the God of your fathers, has given you to possess,"
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#ch.4:10"
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                11,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "all the days that you live on the earth."
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                "v001_ESV_DEU_012",
+                12,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 “These are the statutes and rules that you shall be careful to do in the land that the Lord , the God of your fathers, has given you to possess, all the days that you live on the earth."
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                13,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#ch.7:5;Ex. 34:13"
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                15,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "You shall surely destroy all the places where the nations whom you shall dispossess served their gods,"
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                16,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#1 Kgs. 14:23;2 Kgs. 16:4;17:10;Jer. 3:6"
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                17,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "on the high mountains and on the hills and under every green tree."
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                "v002_ESV_DEU_012",
+                18,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 You shall surely destroy all the places where the nations whom you shall dispossess served their gods, on the high mountains and on the hills and under every green tree."
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p1",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                20,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "You shall tear down their altars and dash in pieces"
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.16:22"
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                22,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "their pillars and burn their"
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.16:21"
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                24,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "Asherim with fire. You shall chop down the carved images of their gods and"
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#[Zeph. 1:4;Zech. 13:2]"
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                26,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "destroy their name out of that place."
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                "v003_ESV_DEU_012",
+                27,
+                "p1",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 You shall tear down their altars and dash in pieces their pillars and burn their Asherim with fire. You shall chop down the carved images of their gods and destroy their name out of that place."
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                28,
+                "p1",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                29,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#ver.31"
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                30,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "You shall not worship the"
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                31,
+                "p1",
+                "verse",
+                "v4",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "your God in that way."
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                "v004_ESV_DEU_012",
+                33,
+                "p1",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 You shall not worship the Lord your God in that way."
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                34,
+                "p1",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                35,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "But you shall seek"
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "p1",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#ch.16:2;26:2;1 Kgs. 8:29;2 Chr. 7:12;[Josh. 18:1]"
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                37,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "the place that the"
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                38,
+                "p1",
+                "verse",
+                "v5",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                39,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "your God will choose out of all your tribes to put his name and make his habitation"
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                40,
+                "p1",
+                "verse",
+                "v5",
+                "note",
+                "f"
+              ],
+              "value": "#12:5Orname as its habitation"
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "there. There you shall go,"
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                "v005_ESV_DEU_012",
+                42,
+                "p1",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 But you shall seek the place that the Lord your God will choose out of all your tribes to put his name and make his habitation there. There you shall go,"
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                43,
+                "p1",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                44,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "and there you shall bring your burnt offerings and your sacrifices,"
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                45,
+                "p1",
+                "verse",
+                "v6",
+                "note",
+                "x"
+              ],
+              "value": "#ch.14:22,23;15:19,20"
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                46,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "your tithes and the contribution that you present, your vow offerings, your freewill offerings, and the"
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                47,
+                "p1",
+                "verse",
+                "v6",
+                "note",
+                "x"
+              ],
+              "value": "#ch.14:23"
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                48,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "firstborn of your herd and of your flock."
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                "v006_ESV_DEU_012",
+                49,
+                "p1",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 and there you shall bring your burnt offerings and your sacrifices, your tithes and the contribution that you present, your vow offerings, your freewill offerings, and the firstborn of your herd and of your flock."
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "p1",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                51,
+                "p1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "And"
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                52,
+                "p1",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#ch.14:23,26;15:20"
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                53,
+                "p1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "there you shall eat before the"
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                54,
+                "p1",
+                "verse",
+                "v7",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                55,
+                "p1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "your God, and"
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                56,
+                "p1",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#ch.14:26;16:11,14,15;26:11;27:7;28:8;Lev. 23:40"
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                57,
+                "p1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "you shall rejoice, you and your households, in all that you undertake, in which the"
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                58,
+                "p1",
+                "verse",
+                "v7",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                59,
+                "p1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "your God has blessed you."
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                "v007_ESV_DEU_012",
+                60,
+                "p1",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 And there you shall eat before the Lord your God, and you shall rejoice, you and your households, in all that you undertake, in which the Lord your God has blessed you."
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                61,
+                "p2",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                62,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "“You shall not do according to all that we are doing here today,"
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                63,
+                "p2",
+                "verse",
+                "v8",
+                "note",
+                "x"
+              ],
+              "value": "#Judg. 17:6;21:25"
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                64,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "everyone doing whatever is right in his own eyes,"
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                "v008_ESV_DEU_012",
+                65,
+                "p2",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 “You shall not do according to all that we are doing here today, everyone doing whatever is right in his own eyes,"
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                66,
+                "p2",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                67,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "for you have not as yet come to"
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                68,
+                "p2",
+                "verse",
+                "v9",
+                "note",
+                "x"
+              ],
+              "value": "#1 Kgs. 8:56;Ps. 95:11;[Heb. 4:8]"
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                69,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "the rest and to the inheritance that the"
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                70,
+                "p2",
+                "verse",
+                "v9",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                71,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "your God is giving you."
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                "v009_ESV_DEU_012",
+                72,
+                "p2",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 for you have not as yet come to the rest and to the inheritance that the Lord your God is giving you."
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                73,
+                "p2",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                74,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "But when"
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                75,
+                "p2",
+                "verse",
+                "v10",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.11:31"
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                76,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "you go over the Jordan and live in the land that the"
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                77,
+                "p2",
+                "verse",
+                "v10",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                78,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "your God is giving you to inherit,"
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                79,
+                "p2",
+                "verse",
+                "v10",
+                "note",
+                "x"
+              ],
+              "value": "#ch.25:19;Josh. 23:1;[2 Sam. 7:1;1 Kgs. 5:4]"
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                80,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "and when he gives you rest from all your enemies around, so that you live in safety,"
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                "v010_ESV_DEU_012",
+                81,
+                "p2",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 But when you go over the Jordan and live in the land that the Lord your God is giving you to inherit, and when he gives you rest from all your enemies around, so that you live in safety,"
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                82,
+                "p2",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                83,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "then to"
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                84,
+                "p2",
+                "verse",
+                "v11",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.5above]"
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                85,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "the place that the"
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                86,
+                "p2",
+                "verse",
+                "v11",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                87,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "your God will choose, to make his name dwell there, there you shall bring all that I command you: your burnt offerings and your sacrifices,"
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                88,
+                "p2",
+                "verse",
+                "v11",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.6above]"
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                89,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "your tithes and the contribution that you present, and all your finest vow offerings that you vow to the"
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                90,
+                "p2",
+                "verse",
+                "v11",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                91,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "."
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                "v011_ESV_DEU_012",
+                92,
+                "p2",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 then to the place that the Lord your God will choose, to make his name dwell there, there you shall bring all that I command you: your burnt offerings and your sacrifices, your tithes and the contribution that you present, and all your finest vow offerings that you vow to the Lord ."
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                93,
+                "p2",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                94,
+                "p2",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "And"
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                95,
+                "p2",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.7above]"
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                96,
+                "p2",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "you shall rejoice before the"
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                97,
+                "p2",
+                "verse",
+                "v12",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                98,
+                "p2",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "your God, you and your sons and your daughters, your male servants and your female servants, and the Levite that is within your towns, since"
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                99,
+                "p2",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#SeeNum. 18:20"
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                100,
+                "p2",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "he has no portion or inheritance with you."
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                "v012_ESV_DEU_012",
+                101,
+                "p2",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 And you shall rejoice before the Lord your God, you and your sons and your daughters, your male servants and your female servants, and the Levite that is within your towns, since he has no portion or inheritance with you."
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                102,
+                "p2",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                103,
+                "p2",
+                "verse",
+                "v13",
+                "note",
+                "x"
+              ],
+              "value": "#Lev. 17:3,4;[1 Kgs. 12:28,33]"
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                104,
+                "p2",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "Take care that you do not offer your burnt offerings at any place that you see,"
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                "v013_ESV_DEU_012",
+                105,
+                "p2",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 Take care that you do not offer your burnt offerings at any place that you see,"
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                106,
+                "p2",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                107,
+                "p2",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "but at"
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                108,
+                "p2",
+                "verse",
+                "v14",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.5above]"
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                109,
+                "p2",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "the place that the"
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                110,
+                "p2",
+                "verse",
+                "v14",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                111,
+                "p2",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "will choose in one of your tribes, there you shall offer your burnt offerings, and there you shall do all that I am commanding you."
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                "v014_ESV_DEU_012",
+                112,
+                "p2",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 but at the place that the Lord will choose in one of your tribes, there you shall offer your burnt offerings, and there you shall do all that I am commanding you."
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                113,
+                "p3",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                114,
+                "p3",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "“However, you may slaughter and eat meat within any of your towns, as much as you desire,"
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                115,
+                "p3",
+                "verse",
+                "v15",
+                "note",
+                "x"
+              ],
+              "value": "#ch.16:17"
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                116,
+                "p3",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "according to the blessing of the"
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                117,
+                "p3",
+                "verse",
+                "v15",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                118,
+                "p3",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "your God that he has given you."
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                119,
+                "p3",
+                "verse",
+                "v15",
+                "note",
+                "x"
+              ],
+              "value": "#ch.14:5;15:22"
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                120,
+                "p3",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "The unclean and the clean may eat of it, as of the gazelle and as of the deer."
+            },
+            {
+              "rowId": 121,
+              "keyParts": [
+                "v015_ESV_DEU_012",
+                121,
+                "p3",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 “However, you may slaughter and eat meat within any of your towns, as much as you desire, according to the blessing of the Lord your God that he has given you. The unclean and the clean may eat of it, as of the gazelle and as of the deer."
+            },
+            {
+              "rowId": 122,
+              "keyParts": [
+                122,
+                "p3",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 123,
+              "keyParts": [
+                123,
+                "p3",
+                "verse",
+                "v16",
+                "note",
+                "x"
+              ],
+              "value": "#SeeLev. 3:17"
+            },
+            {
+              "rowId": 124,
+              "keyParts": [
+                124,
+                "p3",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "Only you shall not eat the blood; you shall pour it out on the earth like water."
+            },
+            {
+              "rowId": 125,
+              "keyParts": [
+                "v016_ESV_DEU_012",
+                125,
+                "p3",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 Only you shall not eat the blood; you shall pour it out on the earth like water."
+            },
+            {
+              "rowId": 126,
+              "keyParts": [
+                126,
+                "p3",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 127,
+              "keyParts": [
+                127,
+                "p3",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "You may not eat within your towns"
+            },
+            {
+              "rowId": 128,
+              "keyParts": [
+                128,
+                "p3",
+                "verse",
+                "v17",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.6above]"
+            },
+            {
+              "rowId": 129,
+              "keyParts": [
+                129,
+                "p3",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "the tithe of your grain or of your wine or of your oil, or the firstborn of your herd or of your flock, or any of your vow offerings that you vow, or your freewill offerings or the contribution that you present,"
+            },
+            {
+              "rowId": 130,
+              "keyParts": [
+                "v017_ESV_DEU_012",
+                130,
+                "p3",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 You may not eat within your towns the tithe of your grain or of your wine or of your oil, or the firstborn of your herd or of your flock, or any of your vow offerings that you vow, or your freewill offerings or the contribution that you present,"
+            },
+            {
+              "rowId": 131,
+              "keyParts": [
+                131,
+                "p3",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 132,
+              "keyParts": [
+                132,
+                "p3",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "but"
+            },
+            {
+              "rowId": 133,
+              "keyParts": [
+                133,
+                "p3",
+                "verse",
+                "v18",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.7above]"
+            },
+            {
+              "rowId": 134,
+              "keyParts": [
+                134,
+                "p3",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "you shall eat them before the"
+            },
+            {
+              "rowId": 135,
+              "keyParts": [
+                135,
+                "p3",
+                "verse",
+                "v18",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 136,
+              "keyParts": [
+                136,
+                "p3",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "your God in"
+            },
+            {
+              "rowId": 137,
+              "keyParts": [
+                137,
+                "p3",
+                "verse",
+                "v18",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.5above]"
+            },
+            {
+              "rowId": 138,
+              "keyParts": [
+                138,
+                "p3",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "the place that the"
+            },
+            {
+              "rowId": 139,
+              "keyParts": [
+                139,
+                "p3",
+                "verse",
+                "v18",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 140,
+              "keyParts": [
+                140,
+                "p3",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "your God will choose, you and your son and your daughter, your male servant and your female servant, and the Levite who is within your towns. And"
+            },
+            {
+              "rowId": 141,
+              "keyParts": [
+                141,
+                "p3",
+                "verse",
+                "v18",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.7above]"
+            },
+            {
+              "rowId": 142,
+              "keyParts": [
+                142,
+                "p3",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "you shall rejoice before the"
+            },
+            {
+              "rowId": 143,
+              "keyParts": [
+                143,
+                "p3",
+                "verse",
+                "v18",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 144,
+              "keyParts": [
+                144,
+                "p3",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "your God in all that you undertake."
+            },
+            {
+              "rowId": 145,
+              "keyParts": [
+                "v018_ESV_DEU_012",
+                145,
+                "p3",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 but you shall eat them before the Lord your God in the place that the Lord your God will choose, you and your son and your daughter, your male servant and your female servant, and the Levite who is within your towns. And you shall rejoice before the Lord your God in all that you undertake."
+            },
+            {
+              "rowId": 146,
+              "keyParts": [
+                146,
+                "p3",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 147,
+              "keyParts": [
+                147,
+                "p3",
+                "verse",
+                "v19",
+                "note",
+                "x"
+              ],
+              "value": "#ch.14:27;[2 Chr. 31:4]"
+            },
+            {
+              "rowId": 148,
+              "keyParts": [
+                148,
+                "p3",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "Take care that you do not neglect the Levite as long as you live in your land."
+            },
+            {
+              "rowId": 149,
+              "keyParts": [
+                "v019_ESV_DEU_012",
+                149,
+                "p3",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 Take care that you do not neglect the Levite as long as you live in your land."
+            },
+            {
+              "rowId": 150,
+              "keyParts": [
+                150,
+                "p4",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 151,
+              "keyParts": [
+                151,
+                "p4",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "“When the"
+            },
+            {
+              "rowId": 152,
+              "keyParts": [
+                152,
+                "p4",
+                "verse",
+                "v20",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 153,
+              "keyParts": [
+                153,
+                "p4",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "your God"
+            },
+            {
+              "rowId": 154,
+              "keyParts": [
+                154,
+                "p4",
+                "verse",
+                "v20",
+                "note",
+                "x"
+              ],
+              "value": "#ch.19:8"
+            },
+            {
+              "rowId": 155,
+              "keyParts": [
+                155,
+                "p4",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "enlarges your territory,"
+            },
+            {
+              "rowId": 156,
+              "keyParts": [
+                156,
+                "p4",
+                "verse",
+                "v20",
+                "note",
+                "x"
+              ],
+              "value": "#ch.11:24;19:8,9;Gen. 28:14;Ex. 34:24"
+            },
+            {
+              "rowId": 157,
+              "keyParts": [
+                157,
+                "p4",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "as he has promised you, and you say, ‘I will eat meat,’ because you crave meat, you may eat meat whenever you desire."
+            },
+            {
+              "rowId": 158,
+              "keyParts": [
+                "v020_ESV_DEU_012",
+                158,
+                "p4",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 “When the Lord your God enlarges your territory, as he has promised you, and you say, ‘I will eat meat,’ because you crave meat, you may eat meat whenever you desire."
+            },
+            {
+              "rowId": 159,
+              "keyParts": [
+                159,
+                "p4",
+                "verse",
+                "v21",
+                "label"
+              ],
+              "value": "21"
+            },
+            {
+              "rowId": 160,
+              "keyParts": [
+                160,
+                "p4",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "If"
+            },
+            {
+              "rowId": 161,
+              "keyParts": [
+                161,
+                "p4",
+                "verse",
+                "v21",
+                "note",
+                "x"
+              ],
+              "value": "#Seever.5"
+            },
+            {
+              "rowId": 162,
+              "keyParts": [
+                162,
+                "p4",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "the place that the"
+            },
+            {
+              "rowId": 163,
+              "keyParts": [
+                163,
+                "p4",
+                "verse",
+                "v21",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 164,
+              "keyParts": [
+                164,
+                "p4",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "your God will choose to put his name there is too far from you,"
+            },
+            {
+              "rowId": 165,
+              "keyParts": [
+                165,
+                "p4",
+                "verse",
+                "v21",
+                "note",
+                "x"
+              ],
+              "value": "#ver.15"
+            },
+            {
+              "rowId": 166,
+              "keyParts": [
+                166,
+                "p4",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "then you may kill any of your herd or your flock, which the"
+            },
+            {
+              "rowId": 167,
+              "keyParts": [
+                167,
+                "p4",
+                "verse",
+                "v21",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 168,
+              "keyParts": [
+                168,
+                "p4",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "has given you, as I have commanded you, and you may eat within your towns whenever you desire."
+            },
+            {
+              "rowId": 169,
+              "keyParts": [
+                "v021_ESV_DEU_012",
+                169,
+                "p4",
+                "verse",
+                "v21",
+                "plain_text"
+              ],
+              "value": "21 If the place that the Lord your God will choose to put his name there is too far from you, then you may kill any of your herd or your flock, which the Lord has given you, as I have commanded you, and you may eat within your towns whenever you desire."
+            },
+            {
+              "rowId": 170,
+              "keyParts": [
+                170,
+                "p4",
+                "verse",
+                "v22",
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 171,
+              "keyParts": [
+                171,
+                "p4",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "Just"
+            },
+            {
+              "rowId": 172,
+              "keyParts": [
+                172,
+                "p4",
+                "verse",
+                "v22",
+                "note",
+                "x"
+              ],
+              "value": "#ch.14:5;15:22"
+            },
+            {
+              "rowId": 173,
+              "keyParts": [
+                173,
+                "p4",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "as the gazelle or the deer is eaten, so you may eat of it."
+            },
+            {
+              "rowId": 174,
+              "keyParts": [
+                174,
+                "p4",
+                "verse",
+                "v22",
+                "note",
+                "x"
+              ],
+              "value": "#ch.14:5;15:22"
+            },
+            {
+              "rowId": 175,
+              "keyParts": [
+                175,
+                "p4",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "The unclean and the clean alike may eat of it."
+            },
+            {
+              "rowId": 176,
+              "keyParts": [
+                "v022_ESV_DEU_012",
+                176,
+                "p4",
+                "verse",
+                "v22",
+                "plain_text"
+              ],
+              "value": "22 Just as the gazelle or the deer is eaten, so you may eat of it. The unclean and the clean alike may eat of it."
+            },
+            {
+              "rowId": 177,
+              "keyParts": [
+                177,
+                "p4",
+                "verse",
+                "v23",
+                "label"
+              ],
+              "value": "23"
+            },
+            {
+              "rowId": 178,
+              "keyParts": [
+                178,
+                "p4",
+                "verse",
+                "v23",
+                "note",
+                "x"
+              ],
+              "value": "#SeeLev. 3:17"
+            },
+            {
+              "rowId": 179,
+              "keyParts": [
+                179,
+                "p4",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "Only be sure that you do not eat the blood,"
+            },
+            {
+              "rowId": 180,
+              "keyParts": [
+                180,
+                "p4",
+                "verse",
+                "v23",
+                "note",
+                "x"
+              ],
+              "value": "#SeeGen. 9:4"
+            },
+            {
+              "rowId": 181,
+              "keyParts": [
+                181,
+                "p4",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "for the blood is the life, and you shall not eat the life with the flesh."
+            },
+            {
+              "rowId": 182,
+              "keyParts": [
+                "v023_ESV_DEU_012",
+                182,
+                "p4",
+                "verse",
+                "v23",
+                "plain_text"
+              ],
+              "value": "23 Only be sure that you do not eat the blood, for the blood is the life, and you shall not eat the life with the flesh."
+            },
+            {
+              "rowId": 183,
+              "keyParts": [
+                183,
+                "p4",
+                "verse",
+                "v24",
+                "label"
+              ],
+              "value": "24"
+            },
+            {
+              "rowId": 184,
+              "keyParts": [
+                184,
+                "p4",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "You shall not eat it; you shall pour it out on the earth like water."
+            },
+            {
+              "rowId": 185,
+              "keyParts": [
+                "v024_ESV_DEU_012",
+                185,
+                "p4",
+                "verse",
+                "v24",
+                "plain_text"
+              ],
+              "value": "24 You shall not eat it; you shall pour it out on the earth like water."
+            },
+            {
+              "rowId": 186,
+              "keyParts": [
+                186,
+                "p4",
+                "verse",
+                "v25",
+                "label"
+              ],
+              "value": "25"
+            },
+            {
+              "rowId": 187,
+              "keyParts": [
+                187,
+                "p4",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "You shall not eat it,"
+            },
+            {
+              "rowId": 188,
+              "keyParts": [
+                188,
+                "p4",
+                "verse",
+                "v25",
+                "note",
+                "x"
+              ],
+              "value": "#ch.4:40;[Eccles. 8:12;Isa. 3:10]"
+            },
+            {
+              "rowId": 189,
+              "keyParts": [
+                189,
+                "p4",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "that all may go well with you and with your children after you,"
+            },
+            {
+              "rowId": 190,
+              "keyParts": [
+                190,
+                "p4",
+                "verse",
+                "v25",
+                "note",
+                "x"
+              ],
+              "value": "#ch.6:18;13:18;Ex. 15:26;1 Kgs. 11:38"
+            },
+            {
+              "rowId": 191,
+              "keyParts": [
+                191,
+                "p4",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "when you do what is right in the sight of the"
+            },
+            {
+              "rowId": 192,
+              "keyParts": [
+                192,
+                "p4",
+                "verse",
+                "v25",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 193,
+              "keyParts": [
+                193,
+                "p4",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "."
+            },
+            {
+              "rowId": 194,
+              "keyParts": [
+                "v025_ESV_DEU_012",
+                194,
+                "p4",
+                "verse",
+                "v25",
+                "plain_text"
+              ],
+              "value": "25 You shall not eat it, that all may go well with you and with your children after you, when you do what is right in the sight of the Lord ."
+            },
+            {
+              "rowId": 195,
+              "keyParts": [
+                195,
+                "p4",
+                "verse",
+                "v26",
+                "label"
+              ],
+              "value": "26"
+            },
+            {
+              "rowId": 196,
+              "keyParts": [
+                196,
+                "p4",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "But the"
+            },
+            {
+              "rowId": 197,
+              "keyParts": [
+                197,
+                "p4",
+                "verse",
+                "v26",
+                "note",
+                "x"
+              ],
+              "value": "#[Num. 5:9,10;18:19]"
+            },
+            {
+              "rowId": 198,
+              "keyParts": [
+                198,
+                "p4",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "holy things that are due from you, and"
+            },
+            {
+              "rowId": 199,
+              "keyParts": [
+                199,
+                "p4",
+                "verse",
+                "v26",
+                "note",
+                "x"
+              ],
+              "value": "#[1 Sam. 1:21]"
+            },
+            {
+              "rowId": 200,
+              "keyParts": [
+                200,
+                "p4",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "your vow offerings, you shall take, and you shall go to"
+            },
+            {
+              "rowId": 201,
+              "keyParts": [
+                201,
+                "p4",
+                "verse",
+                "v26",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.21above]"
+            },
+            {
+              "rowId": 202,
+              "keyParts": [
+                202,
+                "p4",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "the place that the"
+            },
+            {
+              "rowId": 203,
+              "keyParts": [
+                203,
+                "p4",
+                "verse",
+                "v26",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 204,
+              "keyParts": [
+                204,
+                "p4",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "will choose,"
+            },
+            {
+              "rowId": 205,
+              "keyParts": [
+                "v026_ESV_DEU_012",
+                205,
+                "p4",
+                "verse",
+                "v26",
+                "plain_text"
+              ],
+              "value": "26 But the holy things that are due from you, and your vow offerings, you shall take, and you shall go to the place that the Lord will choose,"
+            },
+            {
+              "rowId": 206,
+              "keyParts": [
+                206,
+                "p4",
+                "verse",
+                "v27",
+                "label"
+              ],
+              "value": "27"
+            },
+            {
+              "rowId": 207,
+              "keyParts": [
+                207,
+                "p4",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "and"
+            },
+            {
+              "rowId": 208,
+              "keyParts": [
+                208,
+                "p4",
+                "verse",
+                "v27",
+                "note",
+                "x"
+              ],
+              "value": "#Lev. 1:5,9,13;17:11"
+            },
+            {
+              "rowId": 209,
+              "keyParts": [
+                209,
+                "p4",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "offer your burnt offerings, the flesh and the blood, on the altar of the"
+            },
+            {
+              "rowId": 210,
+              "keyParts": [
+                210,
+                "p4",
+                "verse",
+                "v27",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 211,
+              "keyParts": [
+                211,
+                "p4",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "your God. The blood of your sacrifices shall be poured out on the altar of the"
+            },
+            {
+              "rowId": 212,
+              "keyParts": [
+                212,
+                "p4",
+                "verse",
+                "v27",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 213,
+              "keyParts": [
+                213,
+                "p4",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "your God, but the flesh you may eat."
+            },
+            {
+              "rowId": 214,
+              "keyParts": [
+                "v027_ESV_DEU_012",
+                214,
+                "p4",
+                "verse",
+                "v27",
+                "plain_text"
+              ],
+              "value": "27 and offer your burnt offerings, the flesh and the blood, on the altar of the Lord your God. The blood of your sacrifices shall be poured out on the altar of the Lord your God, but the flesh you may eat."
+            },
+            {
+              "rowId": 215,
+              "keyParts": [
+                215,
+                "p4",
+                "verse",
+                "v28",
+                "label"
+              ],
+              "value": "28"
+            },
+            {
+              "rowId": 216,
+              "keyParts": [
+                216,
+                "p4",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "Be careful to obey all these words that I command you,"
+            },
+            {
+              "rowId": 217,
+              "keyParts": [
+                217,
+                "p4",
+                "verse",
+                "v28",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.25above]"
+            },
+            {
+              "rowId": 218,
+              "keyParts": [
+                218,
+                "p4",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "that it may go well with you and with your children after you forever, when you do what is good and right in the sight of the"
+            },
+            {
+              "rowId": 219,
+              "keyParts": [
+                219,
+                "p4",
+                "verse",
+                "v28",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 220,
+              "keyParts": [
+                220,
+                "p4",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "your God."
+            },
+            {
+              "rowId": 221,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Warning Against Idolatry"
+            },
+            {
+              "rowId": 222,
+              "keyParts": [
+                "v028_ESV_DEU_012",
+                222,
+                "p4",
+                "verse",
+                "v28",
+                "plain_text"
+              ],
+              "value": "28 Be careful to obey all these words that I command you, that it may go well with you and with your children after you forever, when you do what is good and right in the sight of the Lord your God."
+            },
+            {
+              "rowId": 223,
+              "keyParts": [
+                223,
+                "p5",
+                "verse",
+                "v29",
+                "label"
+              ],
+              "value": "29"
+            },
+            {
+              "rowId": 224,
+              "keyParts": [
+                224,
+                "p5",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "“When"
+            },
+            {
+              "rowId": 225,
+              "keyParts": [
+                225,
+                "p5",
+                "verse",
+                "v29",
+                "note",
+                "x"
+              ],
+              "value": "#ch.19:1;Josh. 23:4,5"
+            },
+            {
+              "rowId": 226,
+              "keyParts": [
+                226,
+                "p5",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "the"
+            },
+            {
+              "rowId": 227,
+              "keyParts": [
+                227,
+                "p5",
+                "verse",
+                "v29",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 228,
+              "keyParts": [
+                228,
+                "p5",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "your God cuts off before you the nations whom you go in to dispossess, and you dispossess them and dwell in their land,"
+            },
+            {
+              "rowId": 229,
+              "keyParts": [
+                "v029_ESV_DEU_012",
+                229,
+                "p5",
+                "verse",
+                "v29",
+                "plain_text"
+              ],
+              "value": "29 “When the Lord your God cuts off before you the nations whom you go in to dispossess, and you dispossess them and dwell in their land,"
+            },
+            {
+              "rowId": 230,
+              "keyParts": [
+                230,
+                "p5",
+                "verse",
+                "v30",
+                "label"
+              ],
+              "value": "30"
+            },
+            {
+              "rowId": 231,
+              "keyParts": [
+                231,
+                "p5",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "take care"
+            },
+            {
+              "rowId": 232,
+              "keyParts": [
+                232,
+                "p5",
+                "verse",
+                "v30",
+                "note",
+                "x"
+              ],
+              "value": "#ch.7:16"
+            },
+            {
+              "rowId": 233,
+              "keyParts": [
+                233,
+                "p5",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "that you be not ensnared to follow them, after they have been destroyed before you, and that you do not inquire about their gods, saying, ‘How did these nations serve their gods?—that I also may do the same.’"
+            },
+            {
+              "rowId": 234,
+              "keyParts": [
+                "v030_ESV_DEU_012",
+                234,
+                "p5",
+                "verse",
+                "v30",
+                "plain_text"
+              ],
+              "value": "30 take care that you be not ensnared to follow them, after they have been destroyed before you, and that you do not inquire about their gods, saying, ‘How did these nations serve their gods?—that I also may do the same.’"
+            },
+            {
+              "rowId": 235,
+              "keyParts": [
+                235,
+                "p5",
+                "verse",
+                "v31",
+                "label"
+              ],
+              "value": "31"
+            },
+            {
+              "rowId": 236,
+              "keyParts": [
+                236,
+                "p5",
+                "verse",
+                "v31",
+                "note",
+                "x"
+              ],
+              "value": "#ver.4;Lev. 18:3,26,30;[2 Kgs. 17:15]"
+            },
+            {
+              "rowId": 237,
+              "keyParts": [
+                237,
+                "p5",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "You shall not worship the"
+            },
+            {
+              "rowId": 238,
+              "keyParts": [
+                238,
+                "p5",
+                "verse",
+                "v31",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 239,
+              "keyParts": [
+                239,
+                "p5",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "your God in that way, for every"
+            },
+            {
+              "rowId": 240,
+              "keyParts": [
+                240,
+                "p5",
+                "verse",
+                "v31",
+                "note",
+                "x"
+              ],
+              "value": "#ch.7:25;17:1;18:12;23:18;25:16;27:15"
+            },
+            {
+              "rowId": 241,
+              "keyParts": [
+                241,
+                "p5",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "abominable thing that the"
+            },
+            {
+              "rowId": 242,
+              "keyParts": [
+                242,
+                "p5",
+                "verse",
+                "v31",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 243,
+              "keyParts": [
+                243,
+                "p5",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "hates they have done for their gods, for"
+            },
+            {
+              "rowId": 244,
+              "keyParts": [
+                244,
+                "p5",
+                "verse",
+                "v31",
+                "note",
+                "x"
+              ],
+              "value": "#2 Kgs. 17:31;Jer. 7:31;19:5"
+            },
+            {
+              "rowId": 245,
+              "keyParts": [
+                245,
+                "p5",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "they even burn their sons and their daughters in the fire to their gods."
+            },
+            {
+              "rowId": 246,
+              "keyParts": [
+                "v031_ESV_DEU_012",
+                246,
+                "p5",
+                "verse",
+                "v31",
+                "plain_text"
+              ],
+              "value": "31 You shall not worship the Lord your God in that way, for every abominable thing that the Lord hates they have done for their gods, for they even burn their sons and their daughters in the fire to their gods."
+            },
+            {
+              "rowId": 247,
+              "keyParts": [
+                247,
+                "p6",
+                "verse",
+                "v32",
+                "label"
+              ],
+              "value": "32"
+            },
+            {
+              "rowId": 248,
+              "keyParts": [
+                248,
+                "p6",
+                "verse",
+                "v32",
+                "note",
+                "f"
+              ],
+              "value": "#12:32Ch 13:1 in Hebrew"
+            },
+            {
+              "rowId": 249,
+              "keyParts": [
+                249,
+                "p6",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "“Everything that I command you, you shall be careful to do."
+            },
+            {
+              "rowId": 250,
+              "keyParts": [
+                250,
+                "p6",
+                "verse",
+                "v32",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.4:2"
+            },
+            {
+              "rowId": 251,
+              "keyParts": [
+                251,
+                "p6",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "You shall not add to it or take from it."
+            },
+            {
+              "rowId": 252,
+              "keyParts": [
+                "v032_ESV_DEU_012",
+                252,
+                "p6",
+                "verse",
+                "v32",
+                "plain_text"
+              ],
+              "value": "32 “Everything that I command you, you shall be careful to do. You shall not add to it or take from it."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1707 @@
+{
+  "translationId": "ESV",
+  "name": "English Standard Version",
+  "abbreviation": "ESV",
+  "language": "English",
+  "copyright": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.",
+  "books": [
+    {
+      "bookId": "JOS",
+      "testament": "OT",
+      "order": 6,
+      "title": "Joshua",
+      "abbreviation": "JOS",
+      "chapters": [
+        {
+          "chapter": 12,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Kings Defeated by Moses"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "Now these are the kings of the land whom the people of Israel defeated and took possession of their land beyond the Jordan toward the sunrise, from"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 21:13,24;Deut. 3:8,9"
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "the Valley of the Arnon to Mount Hermon, with all"
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                7,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#SeeDeut. 1:1"
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "the Arabah eastward:"
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                "v001_ESV_JOS_012",
+                9,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 Now these are the kings of the land whom the people of Israel defeated and took possession of their land beyond the Jordan toward the sunrise, from the Valley of the Arnon to Mount Hermon, with all the Arabah eastward:"
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                11,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 2:32,33;3:6,16;SeeNum. 21:21-26"
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                12,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "Sihon king of the Amorites who lived at Heshbon and ruled from Aroer, which is on the edge of the Valley of the Arnon, and"
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                13,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 2:36"
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "from the middle of the valley as far as the"
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                15,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#Gen. 32:22"
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                16,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "river Jabbok, the boundary of the Ammonites, that is, half of Gilead,"
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                "v002_ESV_JOS_012",
+                17,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 Sihon king of the Amorites who lived at Heshbon and ruled from Aroer, which is on the edge of the Valley of the Arnon, and from the middle of the valley as far as the river Jabbok, the boundary of the Ammonites, that is, half of Gilead,"
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "p1",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "and"
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                20,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.1above]"
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "the Arabah"
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                22,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#ch.11:2"
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "to the Sea of Chinneroth eastward, and in the direction of Beth-jeshimoth, to the Sea of the Arabah, the Salt Sea, southward to the foot of"
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                24,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#ch.13:20;Deut. 3:17;4:49"
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "the slopes of Pisgah;"
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                "v003_ESV_JOS_012",
+                26,
+                "p1",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 and the Arabah to the Sea of Chinneroth eastward, and in the direction of Beth-jeshimoth, to the Sea of the Arabah, the Salt Sea, southward to the foot of the slopes of Pisgah;"
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                27,
+                "p1",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                28,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "and"
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                29,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 3:3,10;SeeNum. 21:33-35"
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                30,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "Og"
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                31,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "f"
+              ],
+              "value": "#12:4Septuagint; Hebrewthe boundary of Og"
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "king of Bashan, one of the remnant of"
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                33,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#ch.13:12;15:8;18:16"
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                34,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "the Rephaim,"
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                35,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#ch.9:10;Deut. 1:4"
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "who lived at Ashtaroth and at Edrei"
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                "v004_ESV_JOS_012",
+                37,
+                "p1",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 and Og king of Bashan, one of the remnant of the Rephaim, who lived at Ashtaroth and at Edrei"
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                38,
+                "p1",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                39,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "and ruled over"
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                40,
+                "p1",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 3:8,9"
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "Mount Hermon and"
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "p1",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#ch.13:11;Deut. 3:10"
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                43,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "Salecah and all Bashan"
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                44,
+                "p1",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 3:14"
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                45,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "to the boundary of the Geshurites and the Maacathites, and over half of Gilead to the boundary of Sihon king of Heshbon."
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                "v005_ESV_JOS_012",
+                46,
+                "p1",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 and ruled over Mount Hermon and Salecah and all Bashan to the boundary of the Geshurites and the Maacathites, and over half of Gilead to the boundary of Sihon king of Heshbon."
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                47,
+                "p1",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                48,
+                "p1",
+                "verse",
+                "v6",
+                "note",
+                "x"
+              ],
+              "value": "#SeeNum. 21:23,24,33-35"
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                49,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "Moses, the servant of the"
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "p1",
+                "verse",
+                "v6",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                51,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": ", and the people of Israel defeated them. And Moses the servant of the"
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                52,
+                "p1",
+                "verse",
+                "v6",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                53,
+                "p1",
+                "verse",
+                "v6",
+                "note",
+                "x"
+              ],
+              "value": "#ch.13:8;Num. 32:29,33;Deut. 3:11,12"
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                54,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "gave their land for a possession to the Reubenites and the Gadites and the half-tribe of Manasseh."
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Kings Defeated by Joshua"
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                "v006_ESV_JOS_012",
+                56,
+                "p1",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 Moses, the servant of the Lord , and the people of Israel defeated them. And Moses the servant of the Lord gave their land for a possession to the Reubenites and the Gadites and the half-tribe of Manasseh."
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                57,
+                "p2",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                58,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "And these are the kings of the land whom Joshua and the people of Israel defeated on the west side of the Jordan, from Baal-gad in the Valley of Lebanon to"
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                59,
+                "p2",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#ch.11:17"
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                60,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "Mount Halak, that rises toward Seir (and Joshua gave their land to the tribes of Israel as a possession"
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                61,
+                "p2",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#ch.11:23;18:10"
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                62,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "according to their allotments,"
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                "v007_ESV_JOS_012",
+                63,
+                "p2",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 And these are the kings of the land whom Joshua and the people of Israel defeated on the west side of the Jordan, from Baal-gad in the Valley of Lebanon to Mount Halak, that rises toward Seir (and Joshua gave their land to the tribes of Israel as a possession according to their allotments,"
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                64,
+                "p2",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                65,
+                "p2",
+                "verse",
+                "v8",
+                "note",
+                "x"
+              ],
+              "value": "#ch.10:40;11:16"
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                66,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "in the hill country, in the lowland, in the Arabah, in the slopes, in the wilderness, and in the Negeb, the land of"
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                67,
+                "p2",
+                "verse",
+                "v8",
+                "note",
+                "x"
+              ],
+              "value": "#ch.9:1"
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                68,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "the Hittites, the Amorites, the Canaanites, the Perizzites, the Hivites, and the Jebusites):"
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                "v008_ESV_JOS_012",
+                69,
+                "p2",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 in the hill country, in the lowland, in the Arabah, in the slopes, in the wilderness, and in the Negeb, the land of the Hittites, the Amorites, the Canaanites, the Perizzites, the Hivites, and the Jebusites):"
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                70,
+                "p2",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                71,
+                "p2",
+                "verse",
+                "v9",
+                "note",
+                "x"
+              ],
+              "value": "#[ch.6:2]"
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                72,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "the king of Jericho, one;"
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                73,
+                "p2",
+                "verse",
+                "v9",
+                "note",
+                "x"
+              ],
+              "value": "#ch.8:29"
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                74,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "the king of Ai, which is beside Bethel, one;"
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                "v009_ESV_JOS_012",
+                75,
+                "p2",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 the king of Jericho, one; the king of Ai, which is beside Bethel, one;"
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                76,
+                "p2",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                77,
+                "p2",
+                "verse",
+                "v10",
+                "note",
+                "x"
+              ],
+              "value": "#ch.10:23"
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                78,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "the king of Jerusalem, one;"
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                79,
+                "p2",
+                "verse",
+                "v10",
+                "note",
+                "x"
+              ],
+              "value": "#ch.10:23"
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                80,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "the king of Hebron, one;"
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                "v010_ESV_JOS_012",
+                81,
+                "p2",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 the king of Jerusalem, one; the king of Hebron, one;"
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                82,
+                "p2",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                83,
+                "p2",
+                "verse",
+                "v11",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.10above]"
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                84,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "the king of Jarmuth, one;"
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                85,
+                "p2",
+                "verse",
+                "v11",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.10above]"
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                86,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "the king of Lachish, one;"
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                "v011_ESV_JOS_012",
+                87,
+                "p2",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 the king of Jarmuth, one; the king of Lachish, one;"
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                88,
+                "p2",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                89,
+                "p2",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.10above]"
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                90,
+                "p2",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "the king of Eglon, one;"
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                91,
+                "p2",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#ch.10:33"
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                92,
+                "p2",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "the king of Gezer, one;"
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                "v012_ESV_JOS_012",
+                93,
+                "p2",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 the king of Eglon, one; the king of Gezer, one;"
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                94,
+                "p2",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                95,
+                "p2",
+                "verse",
+                "v13",
+                "note",
+                "x"
+              ],
+              "value": "#ch.10:38,39"
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                96,
+                "p2",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "the king of Debir, one; the king of Geder, one;"
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                "v013_ESV_JOS_012",
+                97,
+                "p2",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 the king of Debir, one; the king of Geder, one;"
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                98,
+                "p2",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                99,
+                "p2",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "the king of Hormah, one; the king of Arad, one;"
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                "v014_ESV_JOS_012",
+                100,
+                "p2",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 the king of Hormah, one; the king of Arad, one;"
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                101,
+                "p2",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                102,
+                "p2",
+                "verse",
+                "v15",
+                "note",
+                "x"
+              ],
+              "value": "#ch.10:29"
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                103,
+                "p2",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "the king of Libnah, one; the king of Adullam, one;"
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                "v015_ESV_JOS_012",
+                104,
+                "p2",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 the king of Libnah, one; the king of Adullam, one;"
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                105,
+                "p2",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                106,
+                "p2",
+                "verse",
+                "v16",
+                "note",
+                "x"
+              ],
+              "value": "#ch.10:28"
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                107,
+                "p2",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "the king of Makkedah, one;"
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                108,
+                "p2",
+                "verse",
+                "v16",
+                "note",
+                "x"
+              ],
+              "value": "#ch.8:17;Judg. 1:22"
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                109,
+                "p2",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "the king of Bethel, one;"
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                "v016_ESV_JOS_012",
+                110,
+                "p2",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 the king of Makkedah, one; the king of Bethel, one;"
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                111,
+                "p2",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                112,
+                "p2",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "the king of Tappuah, one; the king of Hepher, one;"
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                "v017_ESV_JOS_012",
+                113,
+                "p2",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 the king of Tappuah, one; the king of Hepher, one;"
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                114,
+                "p2",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                115,
+                "p2",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "the king of Aphek, one; the king of Lasharon, one;"
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                "v018_ESV_JOS_012",
+                116,
+                "p2",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 the king of Aphek, one; the king of Lasharon, one;"
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                117,
+                "p2",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                118,
+                "p2",
+                "verse",
+                "v19",
+                "note",
+                "x"
+              ],
+              "value": "#ch.11:1"
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                119,
+                "p2",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "the king of Madon, one;"
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                120,
+                "p2",
+                "verse",
+                "v19",
+                "note",
+                "x"
+              ],
+              "value": "#ch.11:1,10"
+            },
+            {
+              "rowId": 121,
+              "keyParts": [
+                121,
+                "p2",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "the king of Hazor, one;"
+            },
+            {
+              "rowId": 122,
+              "keyParts": [
+                "v019_ESV_JOS_012",
+                122,
+                "p2",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 the king of Madon, one; the king of Hazor, one;"
+            },
+            {
+              "rowId": 123,
+              "keyParts": [
+                123,
+                "p2",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 124,
+              "keyParts": [
+                124,
+                "p2",
+                "verse",
+                "v20",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.19above]"
+            },
+            {
+              "rowId": 125,
+              "keyParts": [
+                125,
+                "p2",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "the king of Shimron-meron, one;"
+            },
+            {
+              "rowId": 126,
+              "keyParts": [
+                126,
+                "p2",
+                "verse",
+                "v20",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.19above]"
+            },
+            {
+              "rowId": 127,
+              "keyParts": [
+                127,
+                "p2",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "the king of Achshaph, one;"
+            },
+            {
+              "rowId": 128,
+              "keyParts": [
+                "v020_ESV_JOS_012",
+                128,
+                "p2",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 the king of Shimron-meron, one; the king of Achshaph, one;"
+            },
+            {
+              "rowId": 129,
+              "keyParts": [
+                129,
+                "p2",
+                "verse",
+                "v21",
+                "label"
+              ],
+              "value": "21"
+            },
+            {
+              "rowId": 130,
+              "keyParts": [
+                130,
+                "p2",
+                "verse",
+                "v21",
+                "note",
+                "x"
+              ],
+              "value": "#ch.17:11"
+            },
+            {
+              "rowId": 131,
+              "keyParts": [
+                131,
+                "p2",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "the king of Taanach, one;"
+            },
+            {
+              "rowId": 132,
+              "keyParts": [
+                132,
+                "p2",
+                "verse",
+                "v21",
+                "note",
+                "x"
+              ],
+              "value": "#ch.17:11"
+            },
+            {
+              "rowId": 133,
+              "keyParts": [
+                133,
+                "p2",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "the king of Megiddo, one;"
+            },
+            {
+              "rowId": 134,
+              "keyParts": [
+                "v021_ESV_JOS_012",
+                134,
+                "p2",
+                "verse",
+                "v21",
+                "plain_text"
+              ],
+              "value": "21 the king of Taanach, one; the king of Megiddo, one;"
+            },
+            {
+              "rowId": 135,
+              "keyParts": [
+                135,
+                "p2",
+                "verse",
+                "v22",
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 136,
+              "keyParts": [
+                136,
+                "p2",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "the king of Kedesh, one; the king of Jokneam in Carmel, one;"
+            },
+            {
+              "rowId": 137,
+              "keyParts": [
+                "v022_ESV_JOS_012",
+                137,
+                "p2",
+                "verse",
+                "v22",
+                "plain_text"
+              ],
+              "value": "22 the king of Kedesh, one; the king of Jokneam in Carmel, one;"
+            },
+            {
+              "rowId": 138,
+              "keyParts": [
+                138,
+                "p2",
+                "verse",
+                "v23",
+                "label"
+              ],
+              "value": "23"
+            },
+            {
+              "rowId": 139,
+              "keyParts": [
+                139,
+                "p2",
+                "verse",
+                "v23",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.21above]"
+            },
+            {
+              "rowId": 140,
+              "keyParts": [
+                140,
+                "p2",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "the king of Dor in"
+            },
+            {
+              "rowId": 141,
+              "keyParts": [
+                141,
+                "p2",
+                "verse",
+                "v23",
+                "note",
+                "x"
+              ],
+              "value": "#ch.11:2"
+            },
+            {
+              "rowId": 142,
+              "keyParts": [
+                142,
+                "p2",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "Naphath-dor, one; the king of Goiim in Galilee,"
+            },
+            {
+              "rowId": 143,
+              "keyParts": [
+                143,
+                "p2",
+                "verse",
+                "v23",
+                "note",
+                "f"
+              ],
+              "value": "#12:23Septuagint; HebrewGilgal"
+            },
+            {
+              "rowId": 144,
+              "keyParts": [
+                144,
+                "p2",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "one;"
+            },
+            {
+              "rowId": 145,
+              "keyParts": [
+                "v023_ESV_JOS_012",
+                145,
+                "p2",
+                "verse",
+                "v23",
+                "plain_text"
+              ],
+              "value": "23 the king of Dor in Naphath-dor, one; the king of Goiim in Galilee, one;"
+            },
+            {
+              "rowId": 146,
+              "keyParts": [
+                146,
+                "p2",
+                "verse",
+                "v24",
+                "label"
+              ],
+              "value": "24"
+            },
+            {
+              "rowId": 147,
+              "keyParts": [
+                147,
+                "p2",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "the king of Tirzah, one: in all, thirty-one kings."
+            },
+            {
+              "rowId": 148,
+              "keyParts": [
+                "v024_ESV_JOS_012",
+                148,
+                "p2",
+                "verse",
+                "v24",
+                "plain_text"
+              ],
+              "value": "24 the king of Tirzah, one: in all, thirty-one kings."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3097 @@
+{
+  "translationId": "NET",
+  "name": "New English Translation",
+  "abbreviation": "NET",
+  "language": "English",
+  "copyright": "1996 - 2007 by Biblical Studies Press, LLC",
+  "books": [
+    {
+      "bookId": "GEN",
+      "testament": "",
+      "order": 0,
+      "title": "Genesis",
+      "abbreviation": "GEN",
+      "chapters": [
+        {
+          "chapter": 18,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Three Special Visitors"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "The"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "appeared to Abraham"
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                7,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “him”; the referent (Abraham) has been specified in the translation for clarity."
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "by the oaks"
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                9,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "f"
+              ],
+              "value": "tn Or “terebinths.”"
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "of Mamre while"
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                11,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "f"
+              ],
+              "value": "tn The disjunctive clause here is circumstantial to the main clause."
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                12,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "he was sitting at the entrance"
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                13,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "f"
+              ],
+              "value": "tn The Hebrew noun translated “entrance” is an adverbial accusative of place."
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "to his tent during the hottest time of the day."
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                "v001_NET_GEN_018",
+                15,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 The Lord appeared to Abraham by the oaks of Mamre while he was sitting at the entrance to his tent during the hottest time of the day."
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                16,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                17,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "Abraham"
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “he”; the referent (Abraham) has been specified in the translation for clarity."
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "looked up"
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                20,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “lifted up his eyes.”"
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "and saw"
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                22,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and saw, and look.” The particle הִנֵּה (hinneh) draws attention to what he saw. The drawn-out description focuses the reader’s attention on Abraham’s deliberate, fixed gaze and indicates that what he is seeing is significant."
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "three men standing across"
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                24,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "f"
+              ],
+              "value": "tn The Hebrew preposition עַל (’al) indicates the three men were nearby, but not close by, for Abraham had to run to meet them."
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "from him. When he saw them"
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                26,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "f"
+              ],
+              "value": "tn The pronoun “them” has been supplied in the translation for clarification. In the Hebrew text the verb has no stated object."
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                27,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "he ran from the entrance of the tent to meet them and bowed low"
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                28,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "f"
+              ],
+              "value": "tn The form וַיִּשְׁתַּחוּ (vayyishtakhu, “and bowed low”) is from the verb הִשְׁתַּחֲוָה (hishtakhavah, “to worship, bow low to the ground”). It is probably from a root חָוָה (khavah), though some derive it from שָׁחָה (shakhah)."
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                29,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "to the ground."
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                30,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "f"
+              ],
+              "value": "sn The reader knows this is a theophany. The three visitors are probably the Lord and two angels (see Gen 19:1). It is not certain how soon Abraham recognized the true identity of the visitors. His actions suggest he suspected this was something out of the ordinary, though it is possible that his lavish treatment of the visitors was done quite unwittingly. Bowing down to the ground would be reserved for obeisance of kings or worship of the Lord. Whether he was aware of it or not, Abraham’s action was most appropriate."
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                "v002_NET_GEN_018",
+                31,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 Abraham looked up and saw three men standing across from him. When he saw them he ran from the entrance of the tent to meet them and bowed low to the ground."
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "p2",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                33,
+                "p2",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "He said, “My lord,"
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                34,
+                "p2",
+                "verse",
+                "v3",
+                "note",
+                "f"
+              ],
+              "value": "tc The MT has the form אֲדֹנָי (’adonay, “Master”) which is reserved for God. This may reflect later scribal activity. The scribes, knowing it was the Lord, may have put the proper pointing with the word instead of the more common אֲדֹנִי (’adoni, “my master”)."
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                35,
+                "p2",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "if I have found favor in your sight, do not pass by and leave your servant."
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "p2",
+                "verse",
+                "v3",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “do not pass by from upon your servant.”"
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                "v003_NET_GEN_018",
+                37,
+                "p2",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 He said, “My lord, if I have found favor in your sight, do not pass by and leave your servant."
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                38,
+                "p2",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                39,
+                "p2",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "Let a little water be brought so that"
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                40,
+                "p2",
+                "verse",
+                "v4",
+                "note",
+                "f"
+              ],
+              "value": "tn The imperative after the jussive indicates purpose here."
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p2",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "you may all"
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "p2",
+                "verse",
+                "v4",
+                "note",
+                "f"
+              ],
+              "value": "tn The word “all” has been supplied in the translation because the Hebrew verb translated “wash” and the pronominal suffix on the word “feet” are plural, referring to all three of the visitors."
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                43,
+                "p2",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "wash your feet and rest under the tree."
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                "v004_NET_GEN_018",
+                44,
+                "p2",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 Let a little water be brought so that you may all wash your feet and rest under the tree."
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                45,
+                "p2",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                46,
+                "p2",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "And let me get"
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                47,
+                "p2",
+                "verse",
+                "v5",
+                "note",
+                "f"
+              ],
+              "value": "tn The Qal cohortative here probably has the nuance of polite request."
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                48,
+                "p2",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "a bit of food"
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                49,
+                "p2",
+                "verse",
+                "v5",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “a piece of bread.” The Hebrew word לֶחֶם (lekhem) can refer either to bread specifically or to food in general. Based on Abraham’s directions to Sarah in v. 6, bread was certainly involved, but v. 7 indicates that Abraham had a more elaborate meal in mind."
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "p2",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "so that you may refresh yourselves"
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                51,
+                "p2",
+                "verse",
+                "v5",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “strengthen your heart.” The imperative after the cohortative indicates purpose here."
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                52,
+                "p2",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "since you have passed by your servant’s home. After that you may be on your way.”"
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                53,
+                "p2",
+                "verse",
+                "v5",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “so that you may refresh yourselves, after [which] you may be on your way – for therefore you passed by near your servant.”"
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                54,
+                "p2",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "“All right,” they replied, “you may do as you say.”"
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                "v005_NET_GEN_018",
+                55,
+                "p2",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 And let me get a bit of food so that you may refresh yourselves since you have passed by your servant’s home. After that you may be on your way.” “All right,” they replied, “you may do as you say.”"
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                56,
+                "p3",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                57,
+                "p3",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "So Abraham hurried into the tent and said to Sarah, “Quick! Take"
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                58,
+                "p3",
+                "verse",
+                "v6",
+                "note",
+                "f"
+              ],
+              "value": "tn The word “take” is supplied in the translation for stylistic reasons. In the Hebrew text the sentence lacks a verb other than the imperative “hurry.” The elliptical structure of the language reflects Abraham’s haste to get things ready quickly."
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                59,
+                "p3",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "three measures"
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                60,
+                "p3",
+                "verse",
+                "v6",
+                "note",
+                "f"
+              ],
+              "value": "sn Three measures (Heb “three seahs”) was equivalent to about twenty quarts (twenty-two liters) of flour, which would make a lot of bread. The animal prepared for the meal was far more than the three visitors needed. This was a banquet for royalty. Either it had been a lonely time for Abraham and the presence of visitors made him very happy, or he sensed this was a momentous visit."
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                61,
+                "p3",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "of fine flour, knead it, and make bread.”"
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                62,
+                "p3",
+                "verse",
+                "v6",
+                "note",
+                "f"
+              ],
+              "value": "sn The bread was the simple, round bread made by bedouins that is normally prepared quickly for visitors."
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                "v006_NET_GEN_018",
+                63,
+                "p3",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 So Abraham hurried into the tent and said to Sarah, “Quick! Take three measures of fine flour, knead it, and make bread.”"
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                64,
+                "p3",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                65,
+                "p3",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "Then Abraham ran to the herd and chose a fine, tender calf, and gave it to a servant,"
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                66,
+                "p3",
+                "verse",
+                "v7",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “the young man.”"
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                67,
+                "p3",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "who quickly prepared it."
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                68,
+                "p3",
+                "verse",
+                "v7",
+                "note",
+                "f"
+              ],
+              "value": "tn The construction uses the Piel preterite, “he hurried,” followed by the infinitive construct; the two probably form a verbal hendiadys: “he quickly prepared.”"
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                "v007_NET_GEN_018",
+                69,
+                "p3",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 Then Abraham ran to the herd and chose a fine, tender calf, and gave it to a servant, who quickly prepared it."
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                70,
+                "p3",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                71,
+                "p3",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "Abraham"
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                72,
+                "p3",
+                "verse",
+                "v8",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “he”; the referent (Abraham) has been specified in the translation for clarity."
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                73,
+                "p3",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "then took some curds and milk, along with the calf that had been prepared, and placed the food"
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                74,
+                "p3",
+                "verse",
+                "v8",
+                "note",
+                "f"
+              ],
+              "value": "tn The words “the food” are supplied in the translation for stylistic reasons. In the Hebrew text the verb has no stated object."
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                75,
+                "p3",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "before them. They ate while"
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                76,
+                "p3",
+                "verse",
+                "v8",
+                "note",
+                "f"
+              ],
+              "value": "tn The disjunctive clause is a temporal circumstantial clause subordinate to the main verb."
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                77,
+                "p3",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "he was standing near them under a tree."
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                "v008_NET_GEN_018",
+                78,
+                "p3",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 Abraham then took some curds and milk, along with the calf that had been prepared, and placed the food before them. They ate while he was standing near them under a tree."
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                79,
+                "p4",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                80,
+                "p4",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "Then they asked him, “Where is Sarah your wife?” He replied, “There,"
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                81,
+                "p4",
+                "verse",
+                "v9",
+                "note",
+                "f"
+              ],
+              "value": "tn The particle הִנֵּה (hinneh) often accompanies a gesture of pointing or a focused gaze."
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                82,
+                "p4",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "in the tent.”"
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                "v009_NET_GEN_018",
+                83,
+                "p4",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 Then they asked him, “Where is Sarah your wife?” He replied, “There, in the tent.”"
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                84,
+                "p4",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                85,
+                "p4",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "One of them"
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                86,
+                "p4",
+                "verse",
+                "v10",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “he”; the referent (one of the three men introduced in v. 2) has been specified in the translation for clarity. Some English translations have specified the referent as the Lord (cf. RSV, NIV) based on vv. 1, 13, but the Hebrew text merely has “he said” at this point, referring to one of the three visitors. Aside from the introductory statement in v. 1, the incident is narrated from Abraham’s point of view, and the suspense is built up for the reader as Abraham’s elaborate banquet preparations in the preceding verses suggest he suspects these are important guests. But not until the promise of a son later in this verse does it become clear who is speaking. In v. 13 the Hebrew text explicitly mentions the Lord."
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                87,
+                "p4",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "said, “I will surely return"
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                88,
+                "p4",
+                "verse",
+                "v10",
+                "note",
+                "f"
+              ],
+              "value": "tn The Hebrew construction is emphatic, using the infinitive absolute with the imperfect tense.\nsn I will surely return. If Abraham had not yet figured out who this was, this interchange would have made it clear. Otherwise, how would a return visit from this man mean Sarah would have a son?"
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                89,
+                "p4",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "to you when the season comes round again,"
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                90,
+                "p4",
+                "verse",
+                "v10",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “as/when the time lives” or “revives,” possibly referring to the springtime."
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                91,
+                "p4",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "and your wife Sarah will have a son!”"
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                92,
+                "p4",
+                "verse",
+                "v10",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and there will be (הִנֵּה, hinneh) a son for Sarah.”"
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                93,
+                "p4",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "(Now Sarah was listening at the entrance to the tent, not far behind him."
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                94,
+                "p4",
+                "verse",
+                "v10",
+                "note",
+                "f"
+              ],
+              "value": "tn This is the first of two disjunctive parenthetical clauses preparing the reader for Sarah’s response (see v. 12)."
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                "v010_NET_GEN_018",
+                95,
+                "p4",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 One of them said, “I will surely return to you when the season comes round again, and your wife Sarah will have a son!” (Now Sarah was listening at the entrance to the tent, not far behind him."
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                96,
+                "p4",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                97,
+                "p4",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "Abraham and Sarah were old and advancing in years;"
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                98,
+                "p4",
+                "verse",
+                "v11",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “days.”"
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                99,
+                "p4",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "Sarah had long since passed menopause.)"
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                100,
+                "p4",
+                "verse",
+                "v11",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “it had ceased to be for Sarah [after] a way like women.”"
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                "v011_NET_GEN_018",
+                101,
+                "p4",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 Abraham and Sarah were old and advancing in years; Sarah had long since passed menopause.)"
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                102,
+                "p4",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                103,
+                "p4",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "So Sarah laughed to herself, thinking,"
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                104,
+                "p4",
+                "verse",
+                "v12",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “saying.”"
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                105,
+                "p4",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "“After I am worn out will I have pleasure,"
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                106,
+                "p4",
+                "verse",
+                "v12",
+                "note",
+                "f"
+              ],
+              "value": "tn It has been suggested that this word should be translated “conception,” not “pleasure.” See A. A. McIntosh, “A Third Root ‘adah in Biblical Hebrew,” VT 24 (1974): 454-73."
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                107,
+                "p4",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "especially when my husband is old too?”"
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                108,
+                "p4",
+                "verse",
+                "v12",
+                "note",
+                "f"
+              ],
+              "value": "tn The word “too” has been added in the translation for stylistic reasons."
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                "v012_NET_GEN_018",
+                109,
+                "p4",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 So Sarah laughed to herself, thinking, “After I am worn out will I have pleasure, especially when my husband is old too?”"
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                110,
+                "p5",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                111,
+                "p5",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "The"
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                112,
+                "p5",
+                "verse",
+                "v13",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                113,
+                "p5",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "said to Abraham, “Why"
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                114,
+                "p5",
+                "verse",
+                "v13",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “Why, this?” The demonstrative pronoun following the interrogative pronoun is enclitic, emphasizing the Lord’s amazement: “Why on earth did Sarah laugh?”"
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                115,
+                "p5",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "did Sarah laugh and say, ‘Will I really"
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                116,
+                "p5",
+                "verse",
+                "v13",
+                "note",
+                "f"
+              ],
+              "value": "tn The Hebrew construction uses both הַאַף (ha’af) and אֻמְנָם (’umnam): “Indeed, truly, will I have a child?”"
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                117,
+                "p5",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "have a child when I am old?’"
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                "v013_NET_GEN_018",
+                118,
+                "p5",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 The Lord said to Abraham, “Why did Sarah laugh and say, ‘Will I really have a child when I am old?’"
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                119,
+                "p5",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                120,
+                "p5",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "Is anything impossible"
+            },
+            {
+              "rowId": 121,
+              "keyParts": [
+                121,
+                "p5",
+                "verse",
+                "v14",
+                "note",
+                "f"
+              ],
+              "value": "tn The Hebrew verb פָּלָא (pala’) means “to be wonderful, to be extraordinary, to be surpassing, to be amazing.”"
+            },
+            {
+              "rowId": 122,
+              "keyParts": [
+                122,
+                "p5",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "for the"
+            },
+            {
+              "rowId": 123,
+              "keyParts": [
+                123,
+                "p5",
+                "verse",
+                "v14",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 124,
+              "keyParts": [
+                124,
+                "p5",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "? I will return to you when the season comes round again and Sarah will have a son.”"
+            },
+            {
+              "rowId": 125,
+              "keyParts": [
+                125,
+                "p5",
+                "verse",
+                "v14",
+                "note",
+                "f"
+              ],
+              "value": "sn Sarah will have a son. The passage brings God’s promise into clear focus. As long as it was a promise for the future, it really could be believed without much involvement. But now, when it seemed so impossible from the human standpoint, when the Lord fixed an exact date for the birth of the child, the promise became rather overwhelming to Abraham and Sarah. But then this was the Lord of creation, the one they had come to trust. The point of these narratives is that the creation of Abraham’s offspring, which eventually became Israel, is no less a miraculous work of creation than the creation of the world itself."
+            },
+            {
+              "rowId": 126,
+              "keyParts": [
+                "v014_NET_GEN_018",
+                126,
+                "p5",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 Is anything impossible for the Lord ? I will return to you when the season comes round again and Sarah will have a son.”"
+            },
+            {
+              "rowId": 127,
+              "keyParts": [
+                127,
+                "p5",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 128,
+              "keyParts": [
+                128,
+                "p5",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "Then Sarah lied, saying, “I did not laugh,” because she was afraid. But the"
+            },
+            {
+              "rowId": 129,
+              "keyParts": [
+                129,
+                "p5",
+                "verse",
+                "v15",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 130,
+              "keyParts": [
+                130,
+                "p5",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "said, “No! You did laugh.”"
+            },
+            {
+              "rowId": 131,
+              "keyParts": [
+                131,
+                "p5",
+                "verse",
+                "v15",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “And he said, ‘No, but you did laugh.’” The referent (the Lord) has been specified in the translation for clarity."
+            },
+            {
+              "rowId": 132,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Abraham Pleads for Sodom"
+            },
+            {
+              "rowId": 133,
+              "keyParts": [
+                "v015_NET_GEN_018",
+                133,
+                "p5",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 Then Sarah lied, saying, “I did not laugh,” because she was afraid. But the Lord said, “No! You did laugh.”"
+            },
+            {
+              "rowId": 134,
+              "keyParts": [
+                134,
+                "p6",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 135,
+              "keyParts": [
+                135,
+                "p6",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "When the men got up to leave,"
+            },
+            {
+              "rowId": 136,
+              "keyParts": [
+                136,
+                "p6",
+                "verse",
+                "v16",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “And the men arose from there.”"
+            },
+            {
+              "rowId": 137,
+              "keyParts": [
+                137,
+                "p6",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "they looked out over"
+            },
+            {
+              "rowId": 138,
+              "keyParts": [
+                138,
+                "p6",
+                "verse",
+                "v16",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “toward the face of.”"
+            },
+            {
+              "rowId": 139,
+              "keyParts": [
+                139,
+                "p6",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "Sodom. (Now"
+            },
+            {
+              "rowId": 140,
+              "keyParts": [
+                140,
+                "p6",
+                "verse",
+                "v16",
+                "note",
+                "f"
+              ],
+              "value": "tn The disjunctive parenthetical clause sets the stage for the following speech."
+            },
+            {
+              "rowId": 141,
+              "keyParts": [
+                141,
+                "p6",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "Abraham was walking with them to see them on their way.)"
+            },
+            {
+              "rowId": 142,
+              "keyParts": [
+                142,
+                "p6",
+                "verse",
+                "v16",
+                "note",
+                "f"
+              ],
+              "value": "tn The Piel of שָׁלַח (shalakh) means “to lead out, to send out, to expel”; here it is used in the friendly sense of seeing the visitors on their way."
+            },
+            {
+              "rowId": 143,
+              "keyParts": [
+                "v016_NET_GEN_018",
+                143,
+                "p6",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 When the men got up to leave, they looked out over Sodom. (Now Abraham was walking with them to see them on their way.)"
+            },
+            {
+              "rowId": 144,
+              "keyParts": [
+                144,
+                "p6",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 145,
+              "keyParts": [
+                145,
+                "p6",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "Then the"
+            },
+            {
+              "rowId": 146,
+              "keyParts": [
+                146,
+                "p6",
+                "verse",
+                "v17",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 147,
+              "keyParts": [
+                147,
+                "p6",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "said, “Should I hide from Abraham what I am about to do?"
+            },
+            {
+              "rowId": 148,
+              "keyParts": [
+                148,
+                "p6",
+                "verse",
+                "v17",
+                "note",
+                "f"
+              ],
+              "value": "tn The active participle here refers to an action that is imminent."
+            },
+            {
+              "rowId": 149,
+              "keyParts": [
+                "v017_NET_GEN_018",
+                149,
+                "p6",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 Then the Lord said, “Should I hide from Abraham what I am about to do?"
+            },
+            {
+              "rowId": 150,
+              "keyParts": [
+                150,
+                "p6",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 151,
+              "keyParts": [
+                151,
+                "p6",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "After all, Abraham"
+            },
+            {
+              "rowId": 152,
+              "keyParts": [
+                152,
+                "p6",
+                "verse",
+                "v18",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “And Abraham.” The disjunctive clause is probably causal, giving a reason why God should not hide his intentions from Abraham. One could translate, “Should I hide from Abraham what I am about to do, seeing that Abraham will surely become a great and powerful nation?”"
+            },
+            {
+              "rowId": 153,
+              "keyParts": [
+                153,
+                "p6",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "will surely become"
+            },
+            {
+              "rowId": 154,
+              "keyParts": [
+                154,
+                "p6",
+                "verse",
+                "v18",
+                "note",
+                "f"
+              ],
+              "value": "tn The infinitive absolute lends emphasis to the finite verb that follows."
+            },
+            {
+              "rowId": 155,
+              "keyParts": [
+                155,
+                "p6",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "a great and powerful nation, and all the nations on the earth will pronounce blessings on one another"
+            },
+            {
+              "rowId": 156,
+              "keyParts": [
+                156,
+                "p6",
+                "verse",
+                "v18",
+                "note",
+                "f"
+              ],
+              "value": "tn Theoretically the Niphal can be translated either as passive or reflexive/reciprocal. (The Niphal of “bless” is only used in formulations of the Abrahamic covenant. See Gen 12:2; 18:18; 28:14.) Traditionally the verb is taken as passive here, as if Abram were going to be a channel or source of blessing. But in later formulations of the Abrahamic covenant (see Gen 22:18; 26:4) the Hitpael replaces this Niphal form, suggesting a translation “will bless [i.e., “pronounce blessings upon”] themselves [or “one another”].” The Hitpael of “bless” is used with a reflexive/reciprocal sense in Deut 29:18; Ps 72:17; Isa 65:16; Jer 4:2. Gen 18:18 (like 12:2) predicts that Abraham will be held up as a paradigm of divine blessing and that people will use his name in their blessing formulae. For examples of blessing formulae utilizing an individual as an example of blessing see Gen 48:20 and Ruth 4:11."
+            },
+            {
+              "rowId": 157,
+              "keyParts": [
+                157,
+                "p6",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "using his name."
+            },
+            {
+              "rowId": 158,
+              "keyParts": [
+                "v018_NET_GEN_018",
+                158,
+                "p6",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 After all, Abraham will surely become a great and powerful nation, and all the nations on the earth will pronounce blessings on one another using his name."
+            },
+            {
+              "rowId": 159,
+              "keyParts": [
+                159,
+                "p6",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 160,
+              "keyParts": [
+                160,
+                "p6",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "I have chosen him"
+            },
+            {
+              "rowId": 161,
+              "keyParts": [
+                161,
+                "p6",
+                "verse",
+                "v19",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “For I have known him.” The verb יָדַע (yada’) here means “to recognize and treat in a special manner, to choose” (see Amos 3:2). It indicates that Abraham stood in a special covenantal relationship with the Lord."
+            },
+            {
+              "rowId": 162,
+              "keyParts": [
+                162,
+                "p6",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "so that he may command his children and his household after him to keep"
+            },
+            {
+              "rowId": 163,
+              "keyParts": [
+                163,
+                "p6",
+                "verse",
+                "v19",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and they will keep.” The perfect verbal form with vav consecutive carries on the subjective nuance of the preceding imperfect verbal form (translated “so that he may command”)."
+            },
+            {
+              "rowId": 164,
+              "keyParts": [
+                164,
+                "p6",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "the way of the"
+            },
+            {
+              "rowId": 165,
+              "keyParts": [
+                165,
+                "p6",
+                "verse",
+                "v19",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 166,
+              "keyParts": [
+                166,
+                "p6",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "by doing"
+            },
+            {
+              "rowId": 167,
+              "keyParts": [
+                167,
+                "p6",
+                "verse",
+                "v19",
+                "note",
+                "f"
+              ],
+              "value": "tn The infinitive construct here indicates manner, explaining how Abraham’s children and his household will keep the way of the Lord."
+            },
+            {
+              "rowId": 168,
+              "keyParts": [
+                168,
+                "p6",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "what is right and just. Then the"
+            },
+            {
+              "rowId": 169,
+              "keyParts": [
+                169,
+                "p6",
+                "verse",
+                "v19",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 170,
+              "keyParts": [
+                170,
+                "p6",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "will give"
+            },
+            {
+              "rowId": 171,
+              "keyParts": [
+                171,
+                "p6",
+                "verse",
+                "v19",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “bring on.” The infinitive after לְמַעַן (lÿma’an) indicates result here."
+            },
+            {
+              "rowId": 172,
+              "keyParts": [
+                172,
+                "p6",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "to Abraham what he promised"
+            },
+            {
+              "rowId": 173,
+              "keyParts": [
+                173,
+                "p6",
+                "verse",
+                "v19",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “spoke to.”"
+            },
+            {
+              "rowId": 174,
+              "keyParts": [
+                174,
+                "p6",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "him.”"
+            },
+            {
+              "rowId": 175,
+              "keyParts": [
+                "v019_NET_GEN_018",
+                175,
+                "p6",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 I have chosen him so that he may command his children and his household after him to keep the way of the Lord by doing what is right and just. Then the Lord will give to Abraham what he promised him.”"
+            },
+            {
+              "rowId": 176,
+              "keyParts": [
+                176,
+                "p7",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 177,
+              "keyParts": [
+                177,
+                "p7",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "So the"
+            },
+            {
+              "rowId": 178,
+              "keyParts": [
+                178,
+                "p7",
+                "verse",
+                "v20",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 179,
+              "keyParts": [
+                179,
+                "p7",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "said, “The outcry against"
+            },
+            {
+              "rowId": 180,
+              "keyParts": [
+                180,
+                "p7",
+                "verse",
+                "v20",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “the outcry of Sodom,” which apparently refers to the outcry for divine justice from those (unidentified persons) who observe its sinful ways."
+            },
+            {
+              "rowId": 181,
+              "keyParts": [
+                181,
+                "p7",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "Sodom and Gomorrah is so great and their sin so blatant"
+            },
+            {
+              "rowId": 182,
+              "keyParts": [
+                182,
+                "p7",
+                "verse",
+                "v20",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “heavy.”"
+            },
+            {
+              "rowId": 183,
+              "keyParts": [
+                "v020_NET_GEN_018",
+                183,
+                "p7",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 So the Lord said, “The outcry against Sodom and Gomorrah is so great and their sin so blatant"
+            },
+            {
+              "rowId": 184,
+              "keyParts": [
+                184,
+                "p7",
+                "verse",
+                "v21",
+                "label"
+              ],
+              "value": "21"
+            },
+            {
+              "rowId": 185,
+              "keyParts": [
+                185,
+                "p7",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "that I must go down"
+            },
+            {
+              "rowId": 186,
+              "keyParts": [
+                186,
+                "p7",
+                "verse",
+                "v21",
+                "note",
+                "f"
+              ],
+              "value": "tn The cohortative indicates the Lord’s resolve.\nsn I must go down. The descent to “see” Sodom is a bold anthropomorphism, stressing the careful judgment of God. The language is reminiscent of the Lord going down to see the Tower of Babel in Gen 11:1-9."
+            },
+            {
+              "rowId": 187,
+              "keyParts": [
+                187,
+                "p7",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "and see if they are as wicked as the outcry suggests."
+            },
+            {
+              "rowId": 188,
+              "keyParts": [
+                188,
+                "p7",
+                "verse",
+                "v21",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “[if] according to the outcry that has come to me they have done completely.” Even the Lord, who is well aware of the human capacity to sin, finds it hard to believe that anyone could be as bad as the “outcry” against Sodom and Gomorrah suggests."
+            },
+            {
+              "rowId": 189,
+              "keyParts": [
+                189,
+                "p7",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "If not,"
+            },
+            {
+              "rowId": 190,
+              "keyParts": [
+                190,
+                "p7",
+                "verse",
+                "v21",
+                "note",
+                "f"
+              ],
+              "value": "sn The short phrase if not provides a ray of hope and inspires Abraham’s intercession."
+            },
+            {
+              "rowId": 191,
+              "keyParts": [
+                191,
+                "p7",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "I want to know.”"
+            },
+            {
+              "rowId": 192,
+              "keyParts": [
+                "v021_NET_GEN_018",
+                192,
+                "p7",
+                "verse",
+                "v21",
+                "plain_text"
+              ],
+              "value": "21 that I must go down and see if they are as wicked as the outcry suggests. If not, I want to know.”"
+            },
+            {
+              "rowId": 193,
+              "keyParts": [
+                193,
+                "p8",
+                "verse",
+                "v22",
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 194,
+              "keyParts": [
+                194,
+                "p8",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "The two men turned"
+            },
+            {
+              "rowId": 195,
+              "keyParts": [
+                195,
+                "p8",
+                "verse",
+                "v22",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “And the men turned from there.” The word “two” is not in the Hebrew text, but is supplied here for clarity. Gen 19:1 mentions only two individuals (described as “angels”), while Abraham had entertained three visitors (18:2). The implication is that the Lord was the third visitor, who remained behind with Abraham here. The words “from there” are not included in the translation for stylistic reasons."
+            },
+            {
+              "rowId": 196,
+              "keyParts": [
+                196,
+                "p8",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "and headed"
+            },
+            {
+              "rowId": 197,
+              "keyParts": [
+                197,
+                "p8",
+                "verse",
+                "v22",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “went.”"
+            },
+            {
+              "rowId": 198,
+              "keyParts": [
+                198,
+                "p8",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "toward Sodom, but Abraham was still standing before the"
+            },
+            {
+              "rowId": 199,
+              "keyParts": [
+                199,
+                "p8",
+                "verse",
+                "v22",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 200,
+              "keyParts": [
+                200,
+                "p8",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "."
+            },
+            {
+              "rowId": 201,
+              "keyParts": [
+                201,
+                "p8",
+                "verse",
+                "v22",
+                "note",
+                "f"
+              ],
+              "value": "tc An ancient Hebrew scribal tradition reads “but the Lord remained standing before Abraham.” This reading is problematic because the phrase “standing before” typically indicates intercession, but the Lord would certainly not be interceding before Abraham."
+            },
+            {
+              "rowId": 202,
+              "keyParts": [
+                "v022_NET_GEN_018",
+                202,
+                "p8",
+                "verse",
+                "v22",
+                "plain_text"
+              ],
+              "value": "22 The two men turned and headed toward Sodom, but Abraham was still standing before the Lord ."
+            },
+            {
+              "rowId": 203,
+              "keyParts": [
+                203,
+                "p8",
+                "verse",
+                "v23",
+                "label"
+              ],
+              "value": "23"
+            },
+            {
+              "rowId": 204,
+              "keyParts": [
+                204,
+                "p8",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "Abraham approached and said, “Will you sweep away the godly along with the wicked?"
+            },
+            {
+              "rowId": 205,
+              "keyParts": [
+                "v023_NET_GEN_018",
+                205,
+                "p8",
+                "verse",
+                "v23",
+                "plain_text"
+              ],
+              "value": "23 Abraham approached and said, “Will you sweep away the godly along with the wicked?"
+            },
+            {
+              "rowId": 206,
+              "keyParts": [
+                206,
+                "p8",
+                "verse",
+                "v24",
+                "label"
+              ],
+              "value": "24"
+            },
+            {
+              "rowId": 207,
+              "keyParts": [
+                207,
+                "p8",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "What if there are fifty godly people in the city? Will you really wipe it out and not spare"
+            },
+            {
+              "rowId": 208,
+              "keyParts": [
+                208,
+                "p8",
+                "verse",
+                "v24",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “lift up,” perhaps in the sense of “bear with” (cf. NRSV “forgive”)."
+            },
+            {
+              "rowId": 209,
+              "keyParts": [
+                209,
+                "p8",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "the place for the sake of the fifty godly people who are in it?"
+            },
+            {
+              "rowId": 210,
+              "keyParts": [
+                "v024_NET_GEN_018",
+                210,
+                "p8",
+                "verse",
+                "v24",
+                "plain_text"
+              ],
+              "value": "24 What if there are fifty godly people in the city? Will you really wipe it out and not spare the place for the sake of the fifty godly people who are in it?"
+            },
+            {
+              "rowId": 211,
+              "keyParts": [
+                211,
+                "p8",
+                "verse",
+                "v25",
+                "label"
+              ],
+              "value": "25"
+            },
+            {
+              "rowId": 212,
+              "keyParts": [
+                212,
+                "p8",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "Far be it from you to do such a thing – to kill the godly with the wicked, treating the godly and the wicked alike! Far be it from you! Will not the judge"
+            },
+            {
+              "rowId": 213,
+              "keyParts": [
+                213,
+                "p8",
+                "verse",
+                "v25",
+                "note",
+                "f"
+              ],
+              "value": "tn Or “ruler.”"
+            },
+            {
+              "rowId": 214,
+              "keyParts": [
+                214,
+                "p8",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "of the whole earth do what is right?”"
+            },
+            {
+              "rowId": 215,
+              "keyParts": [
+                215,
+                "p8",
+                "verse",
+                "v25",
+                "note",
+                "f"
+              ],
+              "value": "sn Will not the judge of the whole earth do what is right? For discussion of this text see J. L. Crenshaw, “Popular Questioning of the Justice of God in Ancient Israel,” ZAW 82 (1970): 380-95, and C. S. Rodd, “Shall Not the Judge of All the Earth Do What Is Just?” ExpTim 83 (1972): 137-39."
+            },
+            {
+              "rowId": 216,
+              "keyParts": [
+                "v025_NET_GEN_018",
+                216,
+                "p8",
+                "verse",
+                "v25",
+                "plain_text"
+              ],
+              "value": "25 Far be it from you to do such a thing – to kill the godly with the wicked, treating the godly and the wicked alike! Far be it from you! Will not the judge of the whole earth do what is right?”"
+            },
+            {
+              "rowId": 217,
+              "keyParts": [
+                217,
+                "p9",
+                "verse",
+                "v26",
+                "label"
+              ],
+              "value": "26"
+            },
+            {
+              "rowId": 218,
+              "keyParts": [
+                218,
+                "p9",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "So the"
+            },
+            {
+              "rowId": 219,
+              "keyParts": [
+                219,
+                "p9",
+                "verse",
+                "v26",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 220,
+              "keyParts": [
+                220,
+                "p9",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "replied, “If I find in the city of Sodom fifty godly people, I will spare the whole place for their sake.”"
+            },
+            {
+              "rowId": 221,
+              "keyParts": [
+                "v026_NET_GEN_018",
+                221,
+                "p9",
+                "verse",
+                "v26",
+                "plain_text"
+              ],
+              "value": "26 So the Lord replied, “If I find in the city of Sodom fifty godly people, I will spare the whole place for their sake.”"
+            },
+            {
+              "rowId": 222,
+              "keyParts": [
+                222,
+                "p10",
+                "verse",
+                "v27",
+                "label"
+              ],
+              "value": "27"
+            },
+            {
+              "rowId": 223,
+              "keyParts": [
+                223,
+                "p10",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "Then Abraham asked, “Since I have undertaken to speak to the Lord"
+            },
+            {
+              "rowId": 224,
+              "keyParts": [
+                224,
+                "p10",
+                "verse",
+                "v27",
+                "note",
+                "f"
+              ],
+              "value": "tn The Hebrew term translated “Lord” here and in vv. 30, 31, 32 is אֲדֹנָי (’adonay)."
+            },
+            {
+              "rowId": 225,
+              "keyParts": [
+                225,
+                "p10",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "(although I am but dust and ashes),"
+            },
+            {
+              "rowId": 226,
+              "keyParts": [
+                226,
+                "p10",
+                "verse",
+                "v27",
+                "note",
+                "f"
+              ],
+              "value": "tn The disjunctive clause is a concessive clause here, drawing out the humility as a contrast to the Lord."
+            },
+            {
+              "rowId": 227,
+              "keyParts": [
+                "v027_NET_GEN_018",
+                227,
+                "p10",
+                "verse",
+                "v27",
+                "plain_text"
+              ],
+              "value": "27 Then Abraham asked, “Since I have undertaken to speak to the Lord (although I am but dust and ashes),"
+            },
+            {
+              "rowId": 228,
+              "keyParts": [
+                228,
+                "p10",
+                "verse",
+                "v28",
+                "label"
+              ],
+              "value": "28"
+            },
+            {
+              "rowId": 229,
+              "keyParts": [
+                229,
+                "p10",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "what if there are five less than the fifty godly people? Will you destroy"
+            },
+            {
+              "rowId": 230,
+              "keyParts": [
+                230,
+                "p10",
+                "verse",
+                "v28",
+                "note",
+                "f"
+              ],
+              "value": "tn The Hebrew verb שָׁחַת (shakhat, “to destroy”) was used earlier to describe the effect of the flood."
+            },
+            {
+              "rowId": 231,
+              "keyParts": [
+                231,
+                "p10",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "the whole city because five are lacking?”"
+            },
+            {
+              "rowId": 232,
+              "keyParts": [
+                232,
+                "p10",
+                "verse",
+                "v28",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “because of five.”"
+            },
+            {
+              "rowId": 233,
+              "keyParts": [
+                233,
+                "p10",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "He replied, “I will not destroy it if I find forty-five there.”"
+            },
+            {
+              "rowId": 234,
+              "keyParts": [
+                "v028_NET_GEN_018",
+                234,
+                "p10",
+                "verse",
+                "v28",
+                "plain_text"
+              ],
+              "value": "28 what if there are five less than the fifty godly people? Will you destroy the whole city because five are lacking?” He replied, “I will not destroy it if I find forty-five there.”"
+            },
+            {
+              "rowId": 235,
+              "keyParts": [
+                235,
+                "p11",
+                "verse",
+                "v29",
+                "label"
+              ],
+              "value": "29"
+            },
+            {
+              "rowId": 236,
+              "keyParts": [
+                236,
+                "p11",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "Abraham"
+            },
+            {
+              "rowId": 237,
+              "keyParts": [
+                237,
+                "p11",
+                "verse",
+                "v29",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “he”; the referent (Abraham) has been specified in the translation for clarity."
+            },
+            {
+              "rowId": 238,
+              "keyParts": [
+                238,
+                "p11",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "spoke to him again,"
+            },
+            {
+              "rowId": 239,
+              "keyParts": [
+                239,
+                "p11",
+                "verse",
+                "v29",
+                "note",
+                "f"
+              ],
+              "value": "tn The construction is a verbal hendiadys – the preterite (“he added”) is combined with an adverb “yet” and an infinitive “to speak.”"
+            },
+            {
+              "rowId": 240,
+              "keyParts": [
+                240,
+                "p11",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "“What if forty are found there?” He replied, “I will not do it for the sake of the forty.”"
+            },
+            {
+              "rowId": 241,
+              "keyParts": [
+                "v029_NET_GEN_018",
+                241,
+                "p11",
+                "verse",
+                "v29",
+                "plain_text"
+              ],
+              "value": "29 Abraham spoke to him again, “What if forty are found there?” He replied, “I will not do it for the sake of the forty.”"
+            },
+            {
+              "rowId": 242,
+              "keyParts": [
+                242,
+                "p12",
+                "verse",
+                "v30",
+                "label"
+              ],
+              "value": "30"
+            },
+            {
+              "rowId": 243,
+              "keyParts": [
+                243,
+                "p12",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "Then Abraham"
+            },
+            {
+              "rowId": 244,
+              "keyParts": [
+                244,
+                "p12",
+                "verse",
+                "v30",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “he”; the referent (Abraham) has been specified in the translation for clarity."
+            },
+            {
+              "rowId": 245,
+              "keyParts": [
+                245,
+                "p12",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "said, “May the Lord not be angry"
+            },
+            {
+              "rowId": 246,
+              "keyParts": [
+                246,
+                "p12",
+                "verse",
+                "v30",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “let it not be hot to the Lord.” This is an idiom which means “may the Lord not be angry.”"
+            },
+            {
+              "rowId": 247,
+              "keyParts": [
+                247,
+                "p12",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "so that I may speak!"
+            },
+            {
+              "rowId": 248,
+              "keyParts": [
+                248,
+                "p12",
+                "verse",
+                "v30",
+                "note",
+                "f"
+              ],
+              "value": "tn After the jussive, the cohortative indicates purpose/result."
+            },
+            {
+              "rowId": 249,
+              "keyParts": [
+                249,
+                "p12",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "What if thirty are found there?” He replied, “I will not do it if I find thirty there.”"
+            },
+            {
+              "rowId": 250,
+              "keyParts": [
+                "v030_NET_GEN_018",
+                250,
+                "p12",
+                "verse",
+                "v30",
+                "plain_text"
+              ],
+              "value": "30 Then Abraham said, “May the Lord not be angry so that I may speak! What if thirty are found there?” He replied, “I will not do it if I find thirty there.”"
+            },
+            {
+              "rowId": 251,
+              "keyParts": [
+                251,
+                "p13",
+                "verse",
+                "v31",
+                "label"
+              ],
+              "value": "31"
+            },
+            {
+              "rowId": 252,
+              "keyParts": [
+                252,
+                "p13",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "Abraham"
+            },
+            {
+              "rowId": 253,
+              "keyParts": [
+                253,
+                "p13",
+                "verse",
+                "v31",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “he”; the referent (Abraham) has been specified in the translation for clarity."
+            },
+            {
+              "rowId": 254,
+              "keyParts": [
+                254,
+                "p13",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "said, “Since I have undertaken to speak to the Lord, what if only twenty are found there?” He replied, “I will not destroy it for the sake of the twenty.”"
+            },
+            {
+              "rowId": 255,
+              "keyParts": [
+                "v031_NET_GEN_018",
+                255,
+                "p13",
+                "verse",
+                "v31",
+                "plain_text"
+              ],
+              "value": "31 Abraham said, “Since I have undertaken to speak to the Lord, what if only twenty are found there?” He replied, “I will not destroy it for the sake of the twenty.”"
+            },
+            {
+              "rowId": 256,
+              "keyParts": [
+                256,
+                "p14",
+                "verse",
+                "v32",
+                "label"
+              ],
+              "value": "32"
+            },
+            {
+              "rowId": 257,
+              "keyParts": [
+                257,
+                "p14",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "Finally Abraham"
+            },
+            {
+              "rowId": 258,
+              "keyParts": [
+                258,
+                "p14",
+                "verse",
+                "v32",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “he”; the referent (Abraham) has been specified in the translation for clarity."
+            },
+            {
+              "rowId": 259,
+              "keyParts": [
+                259,
+                "p14",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "said, “May the Lord not be angry so that I may speak just once more. What if ten are found there?” He replied, “I will not destroy it for the sake of the ten.”"
+            },
+            {
+              "rowId": 260,
+              "keyParts": [
+                "v032_NET_GEN_018",
+                260,
+                "p14",
+                "verse",
+                "v32",
+                "plain_text"
+              ],
+              "value": "32 Finally Abraham said, “May the Lord not be angry so that I may speak just once more. What if ten are found there?” He replied, “I will not destroy it for the sake of the ten.”"
+            },
+            {
+              "rowId": 261,
+              "keyParts": [
+                261,
+                "p15",
+                "verse",
+                "v33",
+                "label"
+              ],
+              "value": "33"
+            },
+            {
+              "rowId": 262,
+              "keyParts": [
+                262,
+                "p15",
+                "verse",
+                "v33",
+                "content"
+              ],
+              "value": "The"
+            },
+            {
+              "rowId": 263,
+              "keyParts": [
+                263,
+                "p15",
+                "verse",
+                "v33",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 264,
+              "keyParts": [
+                264,
+                "p15",
+                "verse",
+                "v33",
+                "content"
+              ],
+              "value": "went on his way"
+            },
+            {
+              "rowId": 265,
+              "keyParts": [
+                265,
+                "p15",
+                "verse",
+                "v33",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “And the Lord went.”"
+            },
+            {
+              "rowId": 266,
+              "keyParts": [
+                266,
+                "p15",
+                "verse",
+                "v33",
+                "content"
+              ],
+              "value": "when he had finished speaking"
+            },
+            {
+              "rowId": 267,
+              "keyParts": [
+                267,
+                "p15",
+                "verse",
+                "v33",
+                "note",
+                "f"
+              ],
+              "value": "tn The infinitive construct (“speaking”) serves as the direct object of the verb “finished.”"
+            },
+            {
+              "rowId": 268,
+              "keyParts": [
+                268,
+                "p15",
+                "verse",
+                "v33",
+                "content"
+              ],
+              "value": "to Abraham. Then Abraham returned home."
+            },
+            {
+              "rowId": 269,
+              "keyParts": [
+                269,
+                "p15",
+                "verse",
+                "v33",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “to his place.”"
+            },
+            {
+              "rowId": 270,
+              "keyParts": [
+                "v033_NET_GEN_018",
+                270,
+                "p15",
+                "verse",
+                "v33",
+                "plain_text"
+              ],
+              "value": "33 The Lord went on his way when he had finished speaking to Abraham. Then Abraham returned home."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

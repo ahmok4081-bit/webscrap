@@ -1,0 +1,2047 @@
+{
+  "translationId": "NET",
+  "name": "New English Translation",
+  "abbreviation": "NET",
+  "language": "English",
+  "copyright": "1996 - 2007 by Biblical Studies Press, LLC",
+  "books": [
+    {
+      "bookId": "GEN",
+      "testament": "",
+      "order": 0,
+      "title": "Genesis",
+      "abbreviation": "GEN",
+      "chapters": [
+        {
+          "chapter": 22,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "The Sacrifice of Isaac"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "Some time after these things God tested"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "f"
+              ],
+              "value": "sn The Hebrew verb used here means “to test; to try; to prove.” In this passage God tests Abraham to see if he would be obedient. See T. W. Mann, The Book of the Torah, 44-48. See also J. L. Crenshaw, A Whirlpool of Torment (OBT), 9-30; and J. I. Lawlor, “The Test of Abraham,” GTJ 1 (1980): 19-35."
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "Abraham. He said to him, “Abraham!” “Here I am!” Abraham"
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                7,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “he”; the referent (Abraham) has been specified in the translation for clarity."
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "replied."
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                "v001_NET_GEN_022",
+                9,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 Some time after these things God tested Abraham. He said to him, “Abraham!” “Here I am!” Abraham replied."
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                11,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "God"
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                12,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “he”; the referent (God) has been specified in the translation for clarity."
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                13,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "said, “Take your son – your only son, whom you love, Isaac"
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "f"
+              ],
+              "value": "sn Take your son…Isaac. The instructions are very clear, but the details are deliberate. With every additional description the commandment becomes more challenging."
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                15,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "– and go to the land of Moriah!"
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                16,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "f"
+              ],
+              "value": "sn There has been much debate over the location of Moriah; 2 Chr 3:1 suggests it may be the site where the temple was later built in Jerusalem."
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                17,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "Offer him up there as a burnt offering"
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "f"
+              ],
+              "value": "sn A whole burnt offering signified the complete surrender of the worshiper and complete acceptance by God. The demand for a human sacrifice was certainly radical and may have seemed to Abraham out of character for God. Abraham would have to obey without fully understanding what God was about."
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "on one of the mountains which I will indicate to"
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                20,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “which I will say to.”"
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "you.”"
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                "v002_NET_GEN_022",
+                22,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 God said, “Take your son – your only son, whom you love, Isaac – and go to the land of Moriah! Offer him up there as a burnt offering on one of the mountains which I will indicate to you.”"
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "p2",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                24,
+                "p2",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "Early in the morning Abraham got up and saddled his donkey."
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "p2",
+                "verse",
+                "v3",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “Abraham rose up early in the morning and saddled his donkey.”"
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                26,
+                "p2",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "He took two of his young servants with him, along with his son Isaac. When he had cut the wood for the burnt offering, he started out"
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                27,
+                "p2",
+                "verse",
+                "v3",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “he arose and he went.”"
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                28,
+                "p2",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "for the place God had spoken to him about."
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                "v003_NET_GEN_022",
+                29,
+                "p2",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 Early in the morning Abraham got up and saddled his donkey. He took two of his young servants with him, along with his son Isaac. When he had cut the wood for the burnt offering, he started out for the place God had spoken to him about."
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                30,
+                "p3",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                31,
+                "p3",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "On the third day Abraham caught sight of"
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "p3",
+                "verse",
+                "v4",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “lifted up his eyes and saw.”"
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                33,
+                "p3",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "the place in the distance."
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                "v004_NET_GEN_022",
+                34,
+                "p3",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 On the third day Abraham caught sight of the place in the distance."
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                35,
+                "p3",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "p3",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "So he"
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                37,
+                "p3",
+                "verse",
+                "v5",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “And Abraham.” The proper name has been replaced in the translation by the pronoun (“he”) for stylistic reasons."
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                38,
+                "p3",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "said to his servants, “You two stay"
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                39,
+                "p3",
+                "verse",
+                "v5",
+                "note",
+                "f"
+              ],
+              "value": "tn The Hebrew verb is masculine plural, referring to the two young servants who accompanied Abraham and Isaac on the journey."
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                40,
+                "p3",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "here with the donkey while"
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p3",
+                "verse",
+                "v5",
+                "note",
+                "f"
+              ],
+              "value": "tn The disjunctive clause (with the compound subject preceding the verb) may be circumstantial and temporal."
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "p3",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "the boy and I go up there. We will worship"
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                43,
+                "p3",
+                "verse",
+                "v5",
+                "note",
+                "f"
+              ],
+              "value": "tn This Hebrew word literally means “to bow oneself close to the ground.” It often means “to worship.”"
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                44,
+                "p3",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "and then return to you.”"
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                45,
+                "p3",
+                "verse",
+                "v5",
+                "note",
+                "f"
+              ],
+              "value": "sn It is impossible to know what Abraham was thinking when he said, “we will…return to you.” When he went he knew (1) that he was to sacrifice Isaac, and (2) that God intended to fulfill his earlier promises through Isaac. How he reconciled those facts is not clear in the text. Heb 11:17-19 suggests that Abraham believed God could restore Isaac to him through resurrection."
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                "v005_NET_GEN_022",
+                46,
+                "p3",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 So he said to his servants, “You two stay here with the donkey while the boy and I go up there. We will worship and then return to you.”"
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                47,
+                "p4",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                48,
+                "p4",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "Abraham took the wood for the burnt offering and put it on his son Isaac. Then he took the fire and the knife in his hand,"
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                49,
+                "p4",
+                "verse",
+                "v6",
+                "note",
+                "f"
+              ],
+              "value": "sn He took the fire and the knife in his hand. These details anticipate the sacrifice that lies ahead."
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "p4",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "and the two of them walked on together."
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                "v006_NET_GEN_022",
+                51,
+                "p4",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 Abraham took the wood for the burnt offering and put it on his son Isaac. Then he took the fire and the knife in his hand, and the two of them walked on together."
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                52,
+                "p4",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                53,
+                "p4",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "Isaac said to his father Abraham,"
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                54,
+                "p4",
+                "verse",
+                "v7",
+                "note",
+                "f"
+              ],
+              "value": "tn The Hebrew text adds “and said.” This is redundant and has not been translated for stylistic reasons."
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                55,
+                "p4",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "“My father?” “What is it,"
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                56,
+                "p4",
+                "verse",
+                "v7",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “Here I am” (cf. Gen 22:1)."
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                57,
+                "p4",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "my son?” he replied. “Here is the fire and the wood,” Isaac said,"
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                58,
+                "p4",
+                "verse",
+                "v7",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and he said, ‘Here is the fire and the wood.’” The referent (Isaac) has been specified in the translation for clarity. Here and in the following verse the order of the introductory clauses and the direct discourse has been rearranged in the translation for stylistic reasons."
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                59,
+                "p4",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "“but where is the lamb for the burnt offering?”"
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                "v007_NET_GEN_022",
+                60,
+                "p4",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 Isaac said to his father Abraham, “My father?” “What is it, my son?” he replied. “Here is the fire and the wood,” Isaac said, “but where is the lamb for the burnt offering?”"
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                61,
+                "p4",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                62,
+                "p4",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "“God will provide"
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                63,
+                "p4",
+                "verse",
+                "v8",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “will see for himself.” The construction means “to look out for; to see to it; to provide.”\nsn God will provide is the central theme of the passage and the turning point in the story. Note Paul’s allusion to the story in Rom 8:32 (“how shall he not freely give us all things?”) as well as H. J. Schoeps, “The Sacrifice of Isaac in Paul’s Theology,” JBL 65 (1946): 385-92."
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                64,
+                "p4",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "for himself the lamb for the burnt offering, my son,” Abraham replied. The two of them continued on together."
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                "v008_NET_GEN_022",
+                65,
+                "p4",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 “God will provide for himself the lamb for the burnt offering, my son,” Abraham replied. The two of them continued on together."
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                66,
+                "p5",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                67,
+                "p5",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "When they came to the place God had told him about, Abraham built the altar there"
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                68,
+                "p5",
+                "verse",
+                "v9",
+                "note",
+                "f"
+              ],
+              "value": "sn Abraham built an altar there. The theme of Abraham’s altar building culminates here. He has been a faithful worshiper. Will he continue to worship when called upon to make such a radical sacrifice?"
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                69,
+                "p5",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "and arranged the wood on it. Next he tied up"
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                70,
+                "p5",
+                "verse",
+                "v9",
+                "note",
+                "f"
+              ],
+              "value": "sn Then he tied up. This text has given rise to an important theme in Judaism known as the Aqedah, from the Hebrew word for “binding.” When sacrifices were made in the sanctuary, God remembered the binding of Isaac, for which a substitute was offered. See D. Polish, “The Binding of Isaac,” Jud 6 (1957): 17-21."
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                71,
+                "p5",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "his son Isaac and placed him on the altar on top of the wood."
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                "v009_NET_GEN_022",
+                72,
+                "p5",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 When they came to the place God had told him about, Abraham built the altar there and arranged the wood on it. Next he tied up his son Isaac and placed him on the altar on top of the wood."
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                73,
+                "p5",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                74,
+                "p5",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "Then Abraham reached out his hand, took the knife, and prepared to slaughter"
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                75,
+                "p5",
+                "verse",
+                "v10",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “in order to slaughter.”"
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                76,
+                "p5",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "his son."
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                "v010_NET_GEN_022",
+                77,
+                "p5",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 Then Abraham reached out his hand, took the knife, and prepared to slaughter his son."
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                78,
+                "p5",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                79,
+                "p5",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "But the"
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                80,
+                "p5",
+                "verse",
+                "v11",
+                "sc"
+              ],
+              "value": "Lord’"
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                81,
+                "p5",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "s angel"
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                82,
+                "p5",
+                "verse",
+                "v11",
+                "note",
+                "f"
+              ],
+              "value": "sn Heb “the messenger of the Lord” (also in v. 15). Some identify the angel of the Lord as the preincarnate Christ because in some texts the angel is identified with the Lord himself. However, see the note on the phrase “the Lord’s angel” in Gen 16:7."
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                83,
+                "p5",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "called to him from heaven, “Abraham! Abraham!” “Here I am!” he answered."
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                "v011_NET_GEN_022",
+                84,
+                "p5",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 But the Lord’ s angel called to him from heaven, “Abraham! Abraham!” “Here I am!” he answered."
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                85,
+                "p5",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                86,
+                "p5",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "“Do not harm the boy!”"
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                87,
+                "p5",
+                "verse",
+                "v12",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “Do not extend your hand toward the boy.”"
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                88,
+                "p5",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "the angel said."
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                89,
+                "p5",
+                "verse",
+                "v12",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and he said, ‘Do not extend…’”; the referent (the angel) has been specified in the context for clarity. The order of the introductory clause and the direct discourse has been rearranged in the translation for stylistic reasons."
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                90,
+                "p5",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "“Do not do anything to him, for now I know"
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                91,
+                "p5",
+                "verse",
+                "v12",
+                "note",
+                "f"
+              ],
+              "value": "sn For now I know. The test was designed to see if Abraham would be obedient (see v. 1)."
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                92,
+                "p5",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "that you fear"
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                93,
+                "p5",
+                "verse",
+                "v12",
+                "note",
+                "f"
+              ],
+              "value": "sn In this context fear refers by metonymy to obedience that grows from faith."
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                94,
+                "p5",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "God because you did not withhold your son, your only son, from me.”"
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                "v012_NET_GEN_022",
+                95,
+                "p5",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 “Do not harm the boy!” the angel said. “Do not do anything to him, for now I know that you fear God because you did not withhold your son, your only son, from me.”"
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                96,
+                "p6",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                97,
+                "p6",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "Abraham looked up"
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                98,
+                "p6",
+                "verse",
+                "v13",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “lifted his eyes.”"
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                99,
+                "p6",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "and saw"
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                100,
+                "p6",
+                "verse",
+                "v13",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and saw, and look.” The particle הִנֵּה (hinneh, “look”) draws attention to what Abraham saw and invites the audience to view the scene through his eyes."
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                101,
+                "p6",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "behind him"
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                102,
+                "p6",
+                "verse",
+                "v13",
+                "note",
+                "f"
+              ],
+              "value": "tc The translation follows the reading of the MT; a number of Hebrew mss, the LXX, Syriac, and Samaritan Pentateuch read “one” (אֶחָד, ’ekhad) instead of “behind him” (אַחַר, ’akhar)."
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                103,
+                "p6",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "a ram caught in the bushes by its horns. So he"
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                104,
+                "p6",
+                "verse",
+                "v13",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “Abraham”; the proper name has been replaced by the pronoun (“he”) in the translation for stylistic reasons."
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                105,
+                "p6",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "went over and got the ram and offered it up as a burnt offering instead of his son."
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                "v013_NET_GEN_022",
+                106,
+                "p6",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 Abraham looked up and saw behind him a ram caught in the bushes by its horns. So he went over and got the ram and offered it up as a burnt offering instead of his son."
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                107,
+                "p6",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                108,
+                "p6",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "And Abraham called the name of that place “The"
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                109,
+                "p6",
+                "verse",
+                "v14",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                110,
+                "p6",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "provides.”"
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                111,
+                "p6",
+                "verse",
+                "v14",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “the Lord sees” (יְהוָה יִרְאֶה, yÿhvah yir’eh, traditionally transliterated “Jehovah Jireh”; see the note on the word “provide” in v. 8). By so naming the place Abraham preserved in the memory of God’s people the amazing event that took place there."
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                112,
+                "p6",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "It is said to this day,"
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                113,
+                "p6",
+                "verse",
+                "v14",
+                "note",
+                "f"
+              ],
+              "value": "sn On the expression to this day see B. Childs, “A Study of the Formula ‘Until this Day’,” JBL 82 (1963): 279-92."
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                114,
+                "p6",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "“In the mountain of the"
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                115,
+                "p6",
+                "verse",
+                "v14",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                116,
+                "p6",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "provision will be made.”"
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                117,
+                "p6",
+                "verse",
+                "v14",
+                "note",
+                "f"
+              ],
+              "value": "sn The saying connected with these events has some ambiguity, which was probably intended. The Niphal verb could be translated (1) “in the mountain of the Lord it will be seen/provided” or (2) “in the mountain the Lord will appear.” If the temple later stood here (see the note on “Moriah” in Gen 22:2), the latter interpretation might find support, for the people went to the temple to appear before the Lord, who “appeared” to them by providing for them his power and blessings. See S. R. Driver, Genesis, 219."
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                "v014_NET_GEN_022",
+                118,
+                "p6",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 And Abraham called the name of that place “The Lord provides.” It is said to this day, “In the mountain of the Lord provision will be made.”"
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                119,
+                "p7",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                120,
+                "p7",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "The"
+            },
+            {
+              "rowId": 121,
+              "keyParts": [
+                121,
+                "p7",
+                "verse",
+                "v15",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 122,
+              "keyParts": [
+                122,
+                "p7",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "’s angel called to Abraham a second time from heaven"
+            },
+            {
+              "rowId": 123,
+              "keyParts": [
+                "v015_NET_GEN_022",
+                123,
+                "p7",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 The Lord ’s angel called to Abraham a second time from heaven"
+            },
+            {
+              "rowId": 124,
+              "keyParts": [
+                124,
+                "p7",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 125,
+              "keyParts": [
+                125,
+                "p7",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "and said, “‘I solemnly swear by my own name,’"
+            },
+            {
+              "rowId": 126,
+              "keyParts": [
+                126,
+                "p7",
+                "verse",
+                "v16",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “By myself I swear.”"
+            },
+            {
+              "rowId": 127,
+              "keyParts": [
+                127,
+                "p7",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "decrees the"
+            },
+            {
+              "rowId": 128,
+              "keyParts": [
+                128,
+                "p7",
+                "verse",
+                "v16",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 129,
+              "keyParts": [
+                129,
+                "p7",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": ","
+            },
+            {
+              "rowId": 130,
+              "keyParts": [
+                130,
+                "p7",
+                "verse",
+                "v16",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “the oracle of the Lord.” The phrase refers to a formal oracle or decree from the Lord."
+            },
+            {
+              "rowId": 131,
+              "keyParts": [
+                131,
+                "p7",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "‘that because you have done this and have not withheld your son, your only son,"
+            },
+            {
+              "rowId": 132,
+              "keyParts": [
+                "v016_NET_GEN_022",
+                132,
+                "p7",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 and said, “‘I solemnly swear by my own name,’ decrees the Lord , ‘that because you have done this and have not withheld your son, your only son,"
+            },
+            {
+              "rowId": 133,
+              "keyParts": [
+                133,
+                "p7",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 134,
+              "keyParts": [
+                134,
+                "p7",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "I will indeed bless you,"
+            },
+            {
+              "rowId": 135,
+              "keyParts": [
+                135,
+                "p7",
+                "verse",
+                "v17",
+                "note",
+                "f"
+              ],
+              "value": "tn The use of the infinitive absolute before the finite verbal form (either an imperfect or cohortative) emphasizes the certainty of the blessing."
+            },
+            {
+              "rowId": 136,
+              "keyParts": [
+                136,
+                "p7",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "and I will greatly multiply"
+            },
+            {
+              "rowId": 137,
+              "keyParts": [
+                137,
+                "p7",
+                "verse",
+                "v17",
+                "note",
+                "f"
+              ],
+              "value": "tn Here too the infinitive absolute is used for emphasis before the following finite verb (either an imperfect or cohortative).\nsn I will greatly multiply. The Lord here ratifies his earlier promise to give Abram a multitude of descendants. For further discussion see R. B. Chisholm, “Evidence from Genesis,” A Case for Premillennialism, 35-54."
+            },
+            {
+              "rowId": 138,
+              "keyParts": [
+                138,
+                "p7",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "your descendants"
+            },
+            {
+              "rowId": 139,
+              "keyParts": [
+                139,
+                "p7",
+                "verse",
+                "v17",
+                "note",
+                "f"
+              ],
+              "value": "tn The Hebrew term זֶרַע (zera’) occurring here and in v. 18 may mean “seed” (for planting), “offspring” (occasionally of animals, but usually of people), or “descendants” depending on the context."
+            },
+            {
+              "rowId": 140,
+              "keyParts": [
+                140,
+                "p7",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "so that they will be as countless as the stars in the sky or the grains of sand on the seashore. Your descendants will take possession"
+            },
+            {
+              "rowId": 141,
+              "keyParts": [
+                141,
+                "p7",
+                "verse",
+                "v17",
+                "note",
+                "f"
+              ],
+              "value": "tn Or “inherit.”"
+            },
+            {
+              "rowId": 142,
+              "keyParts": [
+                142,
+                "p7",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "of the strongholds"
+            },
+            {
+              "rowId": 143,
+              "keyParts": [
+                143,
+                "p7",
+                "verse",
+                "v17",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “gate,” which here stands for a walled city. To break through the gate complex would be to conquer the city, for the gate complex was the main area of defense (hence the translation “stronghold”)."
+            },
+            {
+              "rowId": 144,
+              "keyParts": [
+                144,
+                "p7",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "of their enemies."
+            },
+            {
+              "rowId": 145,
+              "keyParts": [
+                "v017_NET_GEN_022",
+                145,
+                "p7",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 I will indeed bless you, and I will greatly multiply your descendants so that they will be as countless as the stars in the sky or the grains of sand on the seashore. Your descendants will take possession of the strongholds of their enemies."
+            },
+            {
+              "rowId": 146,
+              "keyParts": [
+                146,
+                "p7",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 147,
+              "keyParts": [
+                147,
+                "p7",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "Because you have obeyed me,"
+            },
+            {
+              "rowId": 148,
+              "keyParts": [
+                148,
+                "p7",
+                "verse",
+                "v18",
+                "note",
+                "f"
+              ],
+              "value": "tn In the Hebrew text this causal clause comes at the end of the sentence. The translation alters the word order for stylistic reasons.\nsn Because you have obeyed me. Abraham’s obedience brought God’s ratification of the earlier conditional promise (see Gen 12:2)."
+            },
+            {
+              "rowId": 149,
+              "keyParts": [
+                149,
+                "p7",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "all the nations of the earth will pronounce blessings on one another"
+            },
+            {
+              "rowId": 150,
+              "keyParts": [
+                150,
+                "p7",
+                "verse",
+                "v18",
+                "note",
+                "f"
+              ],
+              "value": "tn Traditionally the verb is taken as passive (“will be blessed”) here, as if Abraham’s descendants were going to be a channel or source of blessing to the nations. But the Hitpael is better understood here as reflexive/reciprocal, “will bless [i.e., pronounce blessings on] themselves/one another” (see also Gen 26:4). Elsewhere the Hitpael of the verb “to bless” is used with a reflexive/reciprocal sense in Deut 29:18; Ps 72:17; Isa 65:16; Jer 4:2. Gen 12:2 predicts that Abram will be held up as a paradigm of divine blessing and that people will use his name in their blessing formulae. For examples of blessing formulae utilizing an individual as an example of blessing see Gen 48:20 and Ruth 4:11. Earlier formulations of this promise (see Gen 12:2; 18:18) use the Niphal stem. (See also Gen 28:14.)"
+            },
+            {
+              "rowId": 151,
+              "keyParts": [
+                151,
+                "p7",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "using the name of your descendants.’”"
+            },
+            {
+              "rowId": 152,
+              "keyParts": [
+                "v018_NET_GEN_022",
+                152,
+                "p7",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 Because you have obeyed me, all the nations of the earth will pronounce blessings on one another using the name of your descendants.’”"
+            },
+            {
+              "rowId": 153,
+              "keyParts": [
+                153,
+                "p8",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 154,
+              "keyParts": [
+                154,
+                "p8",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "Then Abraham returned to his servants, and they set out together"
+            },
+            {
+              "rowId": 155,
+              "keyParts": [
+                155,
+                "p8",
+                "verse",
+                "v19",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and they arose and went together.”"
+            },
+            {
+              "rowId": 156,
+              "keyParts": [
+                156,
+                "p8",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "for Beer Sheba where Abraham stayed."
+            },
+            {
+              "rowId": 157,
+              "keyParts": [
+                157,
+                "p8",
+                "verse",
+                "v19",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and Abraham stayed in Beer Sheba. This has been translated as a relative clause for stylistic reasons."
+            },
+            {
+              "rowId": 158,
+              "keyParts": [
+                "v019_NET_GEN_022",
+                158,
+                "p8",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 Then Abraham returned to his servants, and they set out together for Beer Sheba where Abraham stayed."
+            },
+            {
+              "rowId": 159,
+              "keyParts": [
+                159,
+                "p9",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 160,
+              "keyParts": [
+                160,
+                "p9",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "After these things Abraham was told, “Milcah"
+            },
+            {
+              "rowId": 161,
+              "keyParts": [
+                161,
+                "p9",
+                "verse",
+                "v20",
+                "note",
+                "f"
+              ],
+              "value": "tn In the Hebrew text the sentence begins with הִנֵּה (hinneh, “look”) which draws attention to the statement."
+            },
+            {
+              "rowId": 162,
+              "keyParts": [
+                162,
+                "p9",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "also has borne children to your brother Nahor –"
+            },
+            {
+              "rowId": 163,
+              "keyParts": [
+                "v020_NET_GEN_022",
+                163,
+                "p9",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 After these things Abraham was told, “Milcah also has borne children to your brother Nahor –"
+            },
+            {
+              "rowId": 164,
+              "keyParts": [
+                164,
+                "p9",
+                "verse",
+                "v21",
+                "label"
+              ],
+              "value": "21"
+            },
+            {
+              "rowId": 165,
+              "keyParts": [
+                165,
+                "p9",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "Uz the firstborn, his brother Buz, Kemuel (the father of Aram),"
+            },
+            {
+              "rowId": 166,
+              "keyParts": [
+                166,
+                "p9",
+                "verse",
+                "v21",
+                "note",
+                "f"
+              ],
+              "value": "sn This parenthetical note about Kemuel’s descendant is probably a later insertion by the author/compiler of Genesis and not part of the original announcement."
+            },
+            {
+              "rowId": 167,
+              "keyParts": [
+                "v021_NET_GEN_022",
+                167,
+                "p9",
+                "verse",
+                "v21",
+                "plain_text"
+              ],
+              "value": "21 Uz the firstborn, his brother Buz, Kemuel (the father of Aram),"
+            },
+            {
+              "rowId": 168,
+              "keyParts": [
+                168,
+                "p9",
+                "verse",
+                "v22",
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 169,
+              "keyParts": [
+                169,
+                "p9",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "Kesed, Hazo, Pildash, Jidlaph, and Bethuel.”"
+            },
+            {
+              "rowId": 170,
+              "keyParts": [
+                "v022_NET_GEN_022",
+                170,
+                "p9",
+                "verse",
+                "v22",
+                "plain_text"
+              ],
+              "value": "22 Kesed, Hazo, Pildash, Jidlaph, and Bethuel.”"
+            },
+            {
+              "rowId": 171,
+              "keyParts": [
+                171,
+                "p9",
+                "verse",
+                "v23",
+                "label"
+              ],
+              "value": "23"
+            },
+            {
+              "rowId": 172,
+              "keyParts": [
+                172,
+                "p9",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "(Now"
+            },
+            {
+              "rowId": 173,
+              "keyParts": [
+                173,
+                "p9",
+                "verse",
+                "v23",
+                "note",
+                "f"
+              ],
+              "value": "tn The disjunctive clause gives information that is important but parenthetical to the narrative. Rebekah would become the wife of Isaac (Gen 24:15)."
+            },
+            {
+              "rowId": 174,
+              "keyParts": [
+                174,
+                "p9",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "Bethuel became the father of Rebekah.) These were the eight sons Milcah bore to Abraham’s brother Nahor."
+            },
+            {
+              "rowId": 175,
+              "keyParts": [
+                "v023_NET_GEN_022",
+                175,
+                "p9",
+                "verse",
+                "v23",
+                "plain_text"
+              ],
+              "value": "23 (Now Bethuel became the father of Rebekah.) These were the eight sons Milcah bore to Abraham’s brother Nahor."
+            },
+            {
+              "rowId": 176,
+              "keyParts": [
+                176,
+                "p9",
+                "verse",
+                "v24",
+                "label"
+              ],
+              "value": "24"
+            },
+            {
+              "rowId": 177,
+              "keyParts": [
+                177,
+                "p9",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "His concubine, whose name was Reumah, also bore him children – Tebah, Gaham, Tahash, and Maacah."
+            },
+            {
+              "rowId": 178,
+              "keyParts": [
+                "v024_NET_GEN_022",
+                178,
+                "p9",
+                "verse",
+                "v24",
+                "plain_text"
+              ],
+              "value": "24 His concubine, whose name was Reumah, also bore him children – Tebah, Gaham, Tahash, and Maacah."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

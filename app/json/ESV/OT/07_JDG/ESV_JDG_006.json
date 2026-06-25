@@ -1,0 +1,3030 @@
+{
+  "translationId": "ESV",
+  "name": "English Standard Version",
+  "abbreviation": "ESV",
+  "language": "English",
+  "copyright": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.",
+  "books": [
+    {
+      "bookId": "JDG",
+      "testament": "OT",
+      "order": 7,
+      "title": "Judges",
+      "abbreviation": "JDG",
+      "chapters": [
+        {
+          "chapter": 6,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Midian Oppresses Israel"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.2:19"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "The people of Israel did what was evil in the sight of the"
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                7,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": ", and the"
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v1",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                9,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "gave them into the hand of"
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#Gen. 25:2;Num. 25:17,18;Hab. 3:7"
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                11,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "Midian seven years."
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                "v001_ESV_JDG_006",
+                12,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 The people of Israel did what was evil in the sight of the Lord , and the Lord gave them into the hand of Midian seven years."
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                13,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "And the hand of Midian overpowered Israel, and because of Midian the people of Israel made for themselves the dens that are in the mountains and"
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                15,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#1 Sam. 13:6;Heb. 11:38"
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                16,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "the caves and the strongholds."
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                "v002_ESV_JDG_006",
+                17,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 And the hand of Midian overpowered Israel, and because of Midian the people of Israel made for themselves the dens that are in the mountains and the caves and the strongholds."
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "p1",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "For whenever the Israelites planted crops, the Midianites and"
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                20,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#ch.3:13"
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "the Amalekites and"
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                22,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#ver.33;ch.7:12;8:10;Gen. 29:1;1 Kgs. 4:30;Job 1:3"
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "the people of the East would come up against them."
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                "v003_ESV_JDG_006",
+                24,
+                "p1",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 For whenever the Israelites planted crops, the Midianites and the Amalekites and the people of the East would come up against them."
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "p1",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                26,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "They would encamp against them"
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                27,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#[Lev. 26:16]; See Deut. 28:30-33, 51; Mic. 6:15"
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                28,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "and devour the produce of the land, as far as Gaza, and leave no sustenance in Israel and no sheep or ox or donkey."
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                "v004_ESV_JDG_006",
+                29,
+                "p1",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 They would encamp against them and devour the produce of the land, as far as Gaza, and leave no sustenance in Israel and no sheep or ox or donkey."
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                30,
+                "p1",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                31,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "For they would come up with their livestock and their tents; they would come"
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "p1",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#ch.7:12"
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                33,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "like locusts in number—both they and their camels could not be counted—so that they laid waste the land as they came in."
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                "v005_ESV_JDG_006",
+                34,
+                "p1",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 For they would come up with their livestock and their tents; they would come like locusts in number—both they and their camels could not be counted—so that they laid waste the land as they came in."
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                35,
+                "p1",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "And Israel was brought very low because of Midian. And the people of Israel"
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                37,
+                "p1",
+                "verse",
+                "v6",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.3:9"
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                38,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "cried out for help to the"
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                39,
+                "p1",
+                "verse",
+                "v6",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                40,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "."
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                "v006_ESV_JDG_006",
+                41,
+                "p1",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 And Israel was brought very low because of Midian. And the people of Israel cried out for help to the Lord ."
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "p2",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                43,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "When the people of Israel cried out to the"
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                44,
+                "p2",
+                "verse",
+                "v7",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                45,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "on account of the Midianites,"
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                "v007_ESV_JDG_006",
+                46,
+                "p2",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 When the people of Israel cried out to the Lord on account of the Midianites,"
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                47,
+                "p2",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                48,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "the"
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                49,
+                "p2",
+                "verse",
+                "v8",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "sent a prophet to the people of Israel. And he said to them, “Thus says the"
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                51,
+                "p2",
+                "verse",
+                "v8",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                52,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": ", the God of Israel:"
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                53,
+                "p2",
+                "verse",
+                "v8",
+                "note",
+                "x"
+              ],
+              "value": "#1 Sam. 10:18"
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                54,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "I led you up from Egypt and brought you out of the house of slavery."
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                "v008_ESV_JDG_006",
+                55,
+                "p2",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 the Lord sent a prophet to the people of Israel. And he said to them, “Thus says the Lord , the God of Israel: I led you up from Egypt and brought you out of the house of slavery."
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                56,
+                "p2",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                57,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "And I delivered you from the hand of the Egyptians and from the hand of all who oppressed you, and"
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                58,
+                "p2",
+                "verse",
+                "v9",
+                "note",
+                "x"
+              ],
+              "value": "#Ps. 44:2,3"
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                59,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "drove them out before you and gave you their land."
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                "v009_ESV_JDG_006",
+                60,
+                "p2",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 And I delivered you from the hand of the Egyptians and from the hand of all who oppressed you, and drove them out before you and gave you their land."
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                61,
+                "p2",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                62,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "And I said to you, ‘I am the"
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                63,
+                "p2",
+                "verse",
+                "v10",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                64,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "your God;"
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                65,
+                "p2",
+                "verse",
+                "v10",
+                "note",
+                "x"
+              ],
+              "value": "#Josh. 24:15;See2 Kgs. 17:35-38"
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                66,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "you shall not fear the gods of the Amorites in whose land you dwell.’ But you have not obeyed my voice.”"
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "The Call of Gideon"
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                "v010_ESV_JDG_006",
+                68,
+                "p2",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 And I said to you, ‘I am the Lord your God; you shall not fear the gods of the Amorites in whose land you dwell.’ But you have not obeyed my voice.”"
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                69,
+                "p3",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                70,
+                "p3",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "Now the angel of the"
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                71,
+                "p3",
+                "verse",
+                "v11",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                72,
+                "p3",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "came and sat under the terebinth at Ophrah, which belonged to Joash"
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                73,
+                "p3",
+                "verse",
+                "v11",
+                "note",
+                "x"
+              ],
+              "value": "#ch.8:2;Josh. 17:2"
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                74,
+                "p3",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "the Abiezrite, while his son"
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                75,
+                "p3",
+                "verse",
+                "v11",
+                "note",
+                "x"
+              ],
+              "value": "#Heb. 11:32"
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                76,
+                "p3",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "Gideon was beating out wheat in the winepress to hide it from the Midianites."
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                "v011_ESV_JDG_006",
+                77,
+                "p3",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 Now the angel of the Lord came and sat under the terebinth at Ophrah, which belonged to Joash the Abiezrite, while his son Gideon was beating out wheat in the winepress to hide it from the Midianites."
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                78,
+                "p3",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                79,
+                "p3",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "And"
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                80,
+                "p3",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#ch.13:3;Luke 1:11;[Acts 10:3]"
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                81,
+                "p3",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "the angel of the"
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                82,
+                "p3",
+                "verse",
+                "v12",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                83,
+                "p3",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "appeared to him and said to him,"
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                84,
+                "p3",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#Josh. 1:5"
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                85,
+                "p3",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "“The"
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                86,
+                "p3",
+                "verse",
+                "v12",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                87,
+                "p3",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "is with you, O mighty man of valor.”"
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                "v012_ESV_JDG_006",
+                88,
+                "p3",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 And the angel of the Lord appeared to him and said to him, “The Lord is with you, O mighty man of valor.”"
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                89,
+                "p3",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                90,
+                "p3",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "And Gideon said to him, “Please, my lord, if the"
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                91,
+                "p3",
+                "verse",
+                "v13",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                92,
+                "p3",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "is with us, why then has all this happened to us? And where are"
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                93,
+                "p3",
+                "verse",
+                "v13",
+                "note",
+                "x"
+              ],
+              "value": "#Ps. 89:49;Isa. 63:15"
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                94,
+                "p3",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "all his wonderful deeds"
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                95,
+                "p3",
+                "verse",
+                "v13",
+                "note",
+                "x"
+              ],
+              "value": "#Ps. 44:1"
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                96,
+                "p3",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "that our fathers recounted to us, saying, ‘Did not the"
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                97,
+                "p3",
+                "verse",
+                "v13",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                98,
+                "p3",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "bring us up from Egypt?’ But now the"
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                99,
+                "p3",
+                "verse",
+                "v13",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                100,
+                "p3",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "has forsaken us and given us into the hand of Midian.”"
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                "v013_ESV_JDG_006",
+                101,
+                "p3",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 And Gideon said to him, “Please, my lord, if the Lord is with us, why then has all this happened to us? And where are all his wonderful deeds that our fathers recounted to us, saying, ‘Did not the Lord bring us up from Egypt?’ But now the Lord has forsaken us and given us into the hand of Midian.”"
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                102,
+                "p3",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                103,
+                "p3",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "And the"
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                104,
+                "p3",
+                "verse",
+                "v14",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                105,
+                "p3",
+                "verse",
+                "v14",
+                "note",
+                "f"
+              ],
+              "value": "#6:14Septuagintthe angel of theLord; also verse 16"
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                106,
+                "p3",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "turned to him and said, “Go in this might of yours and save Israel from the hand of Midian;"
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                107,
+                "p3",
+                "verse",
+                "v14",
+                "note",
+                "x"
+              ],
+              "value": "#1 Sam. 12:11;[Josh. 1:9]"
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                108,
+                "p3",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "do not I send you?”"
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                "v014_ESV_JDG_006",
+                109,
+                "p3",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 And the Lord turned to him and said, “Go in this might of yours and save Israel from the hand of Midian; do not I send you?”"
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                110,
+                "p3",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                111,
+                "p3",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "And he said to him,"
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                112,
+                "p3",
+                "verse",
+                "v15",
+                "note",
+                "x"
+              ],
+              "value": "#[Ex. 3:11]"
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                113,
+                "p3",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "“Please, Lord, how can I save Israel? Behold,"
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                114,
+                "p3",
+                "verse",
+                "v15",
+                "note",
+                "x"
+              ],
+              "value": "#1 Sam. 9:21;18:18"
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                115,
+                "p3",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "my clan is the weakest in Manasseh, and I am the least in my father’s house.”"
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                "v015_ESV_JDG_006",
+                116,
+                "p3",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 And he said to him, “Please, Lord, how can I save Israel? Behold, my clan is the weakest in Manasseh, and I am the least in my father’s house.”"
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                117,
+                "p3",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                118,
+                "p3",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "And the"
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                119,
+                "p3",
+                "verse",
+                "v16",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                120,
+                "p3",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "said to him,"
+            },
+            {
+              "rowId": 121,
+              "keyParts": [
+                121,
+                "p3",
+                "verse",
+                "v16",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 3:12;Josh. 1:5"
+            },
+            {
+              "rowId": 122,
+              "keyParts": [
+                122,
+                "p3",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "“But I will be with you, and you shall strike the Midianites as one man.”"
+            },
+            {
+              "rowId": 123,
+              "keyParts": [
+                "v016_ESV_JDG_006",
+                123,
+                "p3",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 And the Lord said to him, “But I will be with you, and you shall strike the Midianites as one man.”"
+            },
+            {
+              "rowId": 124,
+              "keyParts": [
+                124,
+                "p3",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 125,
+              "keyParts": [
+                125,
+                "p3",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "And he said to him,"
+            },
+            {
+              "rowId": 126,
+              "keyParts": [
+                126,
+                "p3",
+                "verse",
+                "v17",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 33:13"
+            },
+            {
+              "rowId": 127,
+              "keyParts": [
+                127,
+                "p3",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "“If now I have found favor in your eyes, then"
+            },
+            {
+              "rowId": 128,
+              "keyParts": [
+                128,
+                "p3",
+                "verse",
+                "v17",
+                "note",
+                "x"
+              ],
+              "value": "#2 Kgs. 20:8,9;Isa. 7:11;[ver.36, 37]; SeeEx. 4:1-8"
+            },
+            {
+              "rowId": 129,
+              "keyParts": [
+                129,
+                "p3",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "show me a sign that it is you who speak with me."
+            },
+            {
+              "rowId": 130,
+              "keyParts": [
+                "v017_ESV_JDG_006",
+                130,
+                "p3",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 And he said to him, “If now I have found favor in your eyes, then show me a sign that it is you who speak with me."
+            },
+            {
+              "rowId": 131,
+              "keyParts": [
+                131,
+                "p3",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 132,
+              "keyParts": [
+                132,
+                "p3",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "Please"
+            },
+            {
+              "rowId": 133,
+              "keyParts": [
+                133,
+                "p3",
+                "verse",
+                "v18",
+                "note",
+                "x"
+              ],
+              "value": "#ch.13:15;Gen. 18:3-5"
+            },
+            {
+              "rowId": 134,
+              "keyParts": [
+                134,
+                "p3",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "do not depart from here until I come to you and bring out my present and set it before you.” And he said, “I will stay till you return.”"
+            },
+            {
+              "rowId": 135,
+              "keyParts": [
+                "v018_ESV_JDG_006",
+                135,
+                "p3",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 Please do not depart from here until I come to you and bring out my present and set it before you.” And he said, “I will stay till you return.”"
+            },
+            {
+              "rowId": 136,
+              "keyParts": [
+                136,
+                "p4",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 137,
+              "keyParts": [
+                137,
+                "p4",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "So Gideon went into his house"
+            },
+            {
+              "rowId": 138,
+              "keyParts": [
+                138,
+                "p4",
+                "verse",
+                "v19",
+                "note",
+                "x"
+              ],
+              "value": "#Gen. 18:6-8"
+            },
+            {
+              "rowId": 139,
+              "keyParts": [
+                139,
+                "p4",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "and prepared a young goat and unleavened cakes from an ephah"
+            },
+            {
+              "rowId": 140,
+              "keyParts": [
+                140,
+                "p4",
+                "verse",
+                "v19",
+                "note",
+                "f"
+              ],
+              "value": "#6:19Anephahwas about 3/5 bushel or 22 liters"
+            },
+            {
+              "rowId": 141,
+              "keyParts": [
+                141,
+                "p4",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "of flour. The meat he put in a basket, and the broth he put in a pot, and brought them to him under the terebinth and presented them."
+            },
+            {
+              "rowId": 142,
+              "keyParts": [
+                "v019_ESV_JDG_006",
+                142,
+                "p4",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 So Gideon went into his house and prepared a young goat and unleavened cakes from an ephah of flour. The meat he put in a basket, and the broth he put in a pot, and brought them to him under the terebinth and presented them."
+            },
+            {
+              "rowId": 143,
+              "keyParts": [
+                143,
+                "p4",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 144,
+              "keyParts": [
+                144,
+                "p4",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "And the angel of God said to him, “Take the meat and the unleavened cakes, and put them"
+            },
+            {
+              "rowId": 145,
+              "keyParts": [
+                145,
+                "p4",
+                "verse",
+                "v20",
+                "note",
+                "x"
+              ],
+              "value": "#ch.13:19"
+            },
+            {
+              "rowId": 146,
+              "keyParts": [
+                146,
+                "p4",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "on this rock, and"
+            },
+            {
+              "rowId": 147,
+              "keyParts": [
+                147,
+                "p4",
+                "verse",
+                "v20",
+                "note",
+                "x"
+              ],
+              "value": "#[1 Kgs. 18:33,34]"
+            },
+            {
+              "rowId": 148,
+              "keyParts": [
+                148,
+                "p4",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "pour the broth over them.” And he did so."
+            },
+            {
+              "rowId": 149,
+              "keyParts": [
+                "v020_ESV_JDG_006",
+                149,
+                "p4",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 And the angel of God said to him, “Take the meat and the unleavened cakes, and put them on this rock, and pour the broth over them.” And he did so."
+            },
+            {
+              "rowId": 150,
+              "keyParts": [
+                150,
+                "p4",
+                "verse",
+                "v21",
+                "label"
+              ],
+              "value": "21"
+            },
+            {
+              "rowId": 151,
+              "keyParts": [
+                151,
+                "p4",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "Then the angel of the"
+            },
+            {
+              "rowId": 152,
+              "keyParts": [
+                152,
+                "p4",
+                "verse",
+                "v21",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 153,
+              "keyParts": [
+                153,
+                "p4",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "reached out the tip of the staff that was in his hand and touched the meat and the unleavened cakes."
+            },
+            {
+              "rowId": 154,
+              "keyParts": [
+                154,
+                "p4",
+                "verse",
+                "v21",
+                "note",
+                "x"
+              ],
+              "value": "#Lev. 9:24;1 Kgs. 18:38;2 Chr. 7:1"
+            },
+            {
+              "rowId": 155,
+              "keyParts": [
+                155,
+                "p4",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "And fire sprang up from the rock and consumed the meat and the unleavened cakes. And the angel of the"
+            },
+            {
+              "rowId": 156,
+              "keyParts": [
+                156,
+                "p4",
+                "verse",
+                "v21",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 157,
+              "keyParts": [
+                157,
+                "p4",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "vanished from his sight."
+            },
+            {
+              "rowId": 158,
+              "keyParts": [
+                "v021_ESV_JDG_006",
+                158,
+                "p4",
+                "verse",
+                "v21",
+                "plain_text"
+              ],
+              "value": "21 Then the angel of the Lord reached out the tip of the staff that was in his hand and touched the meat and the unleavened cakes. And fire sprang up from the rock and consumed the meat and the unleavened cakes. And the angel of the Lord vanished from his sight."
+            },
+            {
+              "rowId": 159,
+              "keyParts": [
+                159,
+                "p4",
+                "verse",
+                "v22",
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 160,
+              "keyParts": [
+                160,
+                "p4",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "Then Gideon perceived that he was the angel of the"
+            },
+            {
+              "rowId": 161,
+              "keyParts": [
+                161,
+                "p4",
+                "verse",
+                "v22",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 162,
+              "keyParts": [
+                162,
+                "p4",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": ". And Gideon said,"
+            },
+            {
+              "rowId": 163,
+              "keyParts": [
+                163,
+                "p4",
+                "verse",
+                "v22",
+                "note",
+                "x"
+              ],
+              "value": "#ch.13:21,22;[Gen. 32:30;Ex. 33:20;Deut. 5:26]"
+            },
+            {
+              "rowId": 164,
+              "keyParts": [
+                164,
+                "p4",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "“Alas, O Lord"
+            },
+            {
+              "rowId": 165,
+              "keyParts": [
+                165,
+                "p4",
+                "verse",
+                "v22",
+                "nd"
+              ],
+              "value": "God"
+            },
+            {
+              "rowId": 166,
+              "keyParts": [
+                166,
+                "p4",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "! For now I have seen the angel of the"
+            },
+            {
+              "rowId": 167,
+              "keyParts": [
+                167,
+                "p4",
+                "verse",
+                "v22",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 168,
+              "keyParts": [
+                168,
+                "p4",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "face to face.”"
+            },
+            {
+              "rowId": 169,
+              "keyParts": [
+                "v022_ESV_JDG_006",
+                169,
+                "p4",
+                "verse",
+                "v22",
+                "plain_text"
+              ],
+              "value": "22 Then Gideon perceived that he was the angel of the Lord . And Gideon said, “Alas, O Lord God ! For now I have seen the angel of the Lord face to face.”"
+            },
+            {
+              "rowId": 170,
+              "keyParts": [
+                170,
+                "p4",
+                "verse",
+                "v23",
+                "label"
+              ],
+              "value": "23"
+            },
+            {
+              "rowId": 171,
+              "keyParts": [
+                171,
+                "p4",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "But the"
+            },
+            {
+              "rowId": 172,
+              "keyParts": [
+                172,
+                "p4",
+                "verse",
+                "v23",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 173,
+              "keyParts": [
+                173,
+                "p4",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "said to him,"
+            },
+            {
+              "rowId": 174,
+              "keyParts": [
+                174,
+                "p4",
+                "verse",
+                "v23",
+                "note",
+                "x"
+              ],
+              "value": "#Dan. 10:19"
+            },
+            {
+              "rowId": 175,
+              "keyParts": [
+                175,
+                "p4",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "“Peace be to you. Do not fear; you shall not die.”"
+            },
+            {
+              "rowId": 176,
+              "keyParts": [
+                "v023_ESV_JDG_006",
+                176,
+                "p4",
+                "verse",
+                "v23",
+                "plain_text"
+              ],
+              "value": "23 But the Lord said to him, “Peace be to you. Do not fear; you shall not die.”"
+            },
+            {
+              "rowId": 177,
+              "keyParts": [
+                177,
+                "p4",
+                "verse",
+                "v24",
+                "label"
+              ],
+              "value": "24"
+            },
+            {
+              "rowId": 178,
+              "keyParts": [
+                178,
+                "p4",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "Then Gideon built an altar there to the"
+            },
+            {
+              "rowId": 179,
+              "keyParts": [
+                179,
+                "p4",
+                "verse",
+                "v24",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 180,
+              "keyParts": [
+                180,
+                "p4",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "and called it,"
+            },
+            {
+              "rowId": 181,
+              "keyParts": [
+                181,
+                "p4",
+                "verse",
+                "v24",
+                "note",
+                "x"
+              ],
+              "value": "#[Gen. 22:14;Ex. 17:15;Ezek. 48:35]"
+            },
+            {
+              "rowId": 182,
+              "keyParts": [
+                182,
+                "p4",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "The"
+            },
+            {
+              "rowId": 183,
+              "keyParts": [
+                183,
+                "p4",
+                "verse",
+                "v24",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 184,
+              "keyParts": [
+                184,
+                "p4",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "Is Peace. To this day it still stands at"
+            },
+            {
+              "rowId": 185,
+              "keyParts": [
+                185,
+                "p4",
+                "verse",
+                "v24",
+                "note",
+                "x"
+              ],
+              "value": "#ver.11;ch.8:27,32"
+            },
+            {
+              "rowId": 186,
+              "keyParts": [
+                186,
+                "p4",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "Ophrah, which belongs to the Abiezrites."
+            },
+            {
+              "rowId": 187,
+              "keyParts": [
+                "v024_ESV_JDG_006",
+                187,
+                "p4",
+                "verse",
+                "v24",
+                "plain_text"
+              ],
+              "value": "24 Then Gideon built an altar there to the Lord and called it, The Lord Is Peace. To this day it still stands at Ophrah, which belongs to the Abiezrites."
+            },
+            {
+              "rowId": 188,
+              "keyParts": [
+                188,
+                "p5",
+                "verse",
+                "v25",
+                "label"
+              ],
+              "value": "25"
+            },
+            {
+              "rowId": 189,
+              "keyParts": [
+                189,
+                "p5",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "That night the"
+            },
+            {
+              "rowId": 190,
+              "keyParts": [
+                190,
+                "p5",
+                "verse",
+                "v25",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 191,
+              "keyParts": [
+                191,
+                "p5",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "said to him, “Take your father’s bull, and the second bull seven years old, and pull down the altar of Baal that your father has, and cut down"
+            },
+            {
+              "rowId": 192,
+              "keyParts": [
+                192,
+                "p5",
+                "verse",
+                "v25",
+                "note",
+                "x"
+              ],
+              "value": "#ch.3:7"
+            },
+            {
+              "rowId": 193,
+              "keyParts": [
+                193,
+                "p5",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "the Asherah that is beside it"
+            },
+            {
+              "rowId": 194,
+              "keyParts": [
+                "v025_ESV_JDG_006",
+                194,
+                "p5",
+                "verse",
+                "v25",
+                "plain_text"
+              ],
+              "value": "25 That night the Lord said to him, “Take your father’s bull, and the second bull seven years old, and pull down the altar of Baal that your father has, and cut down the Asherah that is beside it"
+            },
+            {
+              "rowId": 195,
+              "keyParts": [
+                195,
+                "p5",
+                "verse",
+                "v26",
+                "label"
+              ],
+              "value": "26"
+            },
+            {
+              "rowId": 196,
+              "keyParts": [
+                196,
+                "p5",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "and build an altar to the"
+            },
+            {
+              "rowId": 197,
+              "keyParts": [
+                197,
+                "p5",
+                "verse",
+                "v26",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 198,
+              "keyParts": [
+                198,
+                "p5",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "your God on the top of the"
+            },
+            {
+              "rowId": 199,
+              "keyParts": [
+                199,
+                "p5",
+                "verse",
+                "v26",
+                "note",
+                "x"
+              ],
+              "value": "#Dan. 11:7,10,31(Heb.)"
+            },
+            {
+              "rowId": 200,
+              "keyParts": [
+                200,
+                "p5",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "stronghold here, with stones laid in due order. Then take the second bull and offer it as a burnt offering with the wood of the Asherah that you shall cut down.”"
+            },
+            {
+              "rowId": 201,
+              "keyParts": [
+                "v026_ESV_JDG_006",
+                201,
+                "p5",
+                "verse",
+                "v26",
+                "plain_text"
+              ],
+              "value": "26 and build an altar to the Lord your God on the top of the stronghold here, with stones laid in due order. Then take the second bull and offer it as a burnt offering with the wood of the Asherah that you shall cut down.”"
+            },
+            {
+              "rowId": 202,
+              "keyParts": [
+                202,
+                "p5",
+                "verse",
+                "v27",
+                "label"
+              ],
+              "value": "27"
+            },
+            {
+              "rowId": 203,
+              "keyParts": [
+                203,
+                "p5",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "So Gideon took ten men of his servants and did as the"
+            },
+            {
+              "rowId": 204,
+              "keyParts": [
+                204,
+                "p5",
+                "verse",
+                "v27",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 205,
+              "keyParts": [
+                205,
+                "p5",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "had told him. But because he was too afraid of his family and the men of the town to do it by day, he did it by night."
+            },
+            {
+              "rowId": 206,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Gideon Destroys the Altar of Baal"
+            },
+            {
+              "rowId": 207,
+              "keyParts": [
+                "v027_ESV_JDG_006",
+                207,
+                "p5",
+                "verse",
+                "v27",
+                "plain_text"
+              ],
+              "value": "27 So Gideon took ten men of his servants and did as the Lord had told him. But because he was too afraid of his family and the men of the town to do it by day, he did it by night."
+            },
+            {
+              "rowId": 208,
+              "keyParts": [
+                208,
+                "p6",
+                "verse",
+                "v28",
+                "label"
+              ],
+              "value": "28"
+            },
+            {
+              "rowId": 209,
+              "keyParts": [
+                209,
+                "p6",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "When the men of the town rose early in the morning, behold, the altar of Baal was broken down, and the Asherah beside it was cut down, and the second bull was offered on the altar that had been built."
+            },
+            {
+              "rowId": 210,
+              "keyParts": [
+                "v028_ESV_JDG_006",
+                210,
+                "p6",
+                "verse",
+                "v28",
+                "plain_text"
+              ],
+              "value": "28 When the men of the town rose early in the morning, behold, the altar of Baal was broken down, and the Asherah beside it was cut down, and the second bull was offered on the altar that had been built."
+            },
+            {
+              "rowId": 211,
+              "keyParts": [
+                211,
+                "p6",
+                "verse",
+                "v29",
+                "label"
+              ],
+              "value": "29"
+            },
+            {
+              "rowId": 212,
+              "keyParts": [
+                212,
+                "p6",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "And they said to one another, “Who has done this thing?” And after they had searched and inquired, they said, “Gideon the son of Joash has done this thing.”"
+            },
+            {
+              "rowId": 213,
+              "keyParts": [
+                "v029_ESV_JDG_006",
+                213,
+                "p6",
+                "verse",
+                "v29",
+                "plain_text"
+              ],
+              "value": "29 And they said to one another, “Who has done this thing?” And after they had searched and inquired, they said, “Gideon the son of Joash has done this thing.”"
+            },
+            {
+              "rowId": 214,
+              "keyParts": [
+                214,
+                "p6",
+                "verse",
+                "v30",
+                "label"
+              ],
+              "value": "30"
+            },
+            {
+              "rowId": 215,
+              "keyParts": [
+                215,
+                "p6",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "Then the men of the town said to Joash, “Bring out your son, that he may die, for he has broken down the altar of Baal and cut down the Asherah beside it.”"
+            },
+            {
+              "rowId": 216,
+              "keyParts": [
+                "v030_ESV_JDG_006",
+                216,
+                "p6",
+                "verse",
+                "v30",
+                "plain_text"
+              ],
+              "value": "30 Then the men of the town said to Joash, “Bring out your son, that he may die, for he has broken down the altar of Baal and cut down the Asherah beside it.”"
+            },
+            {
+              "rowId": 217,
+              "keyParts": [
+                217,
+                "p6",
+                "verse",
+                "v31",
+                "label"
+              ],
+              "value": "31"
+            },
+            {
+              "rowId": 218,
+              "keyParts": [
+                218,
+                "p6",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "But Joash said to all who stood against him, “Will you contend for Baal? Or will you save him? Whoever contends for him shall be put to death by morning. If he is a god, let him contend for himself, because his altar has been broken down.”"
+            },
+            {
+              "rowId": 219,
+              "keyParts": [
+                "v031_ESV_JDG_006",
+                219,
+                "p6",
+                "verse",
+                "v31",
+                "plain_text"
+              ],
+              "value": "31 But Joash said to all who stood against him, “Will you contend for Baal? Or will you save him? Whoever contends for him shall be put to death by morning. If he is a god, let him contend for himself, because his altar has been broken down.”"
+            },
+            {
+              "rowId": 220,
+              "keyParts": [
+                220,
+                "p6",
+                "verse",
+                "v32",
+                "label"
+              ],
+              "value": "32"
+            },
+            {
+              "rowId": 221,
+              "keyParts": [
+                221,
+                "p6",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "Therefore on that day Gideon"
+            },
+            {
+              "rowId": 222,
+              "keyParts": [
+                222,
+                "p6",
+                "verse",
+                "v32",
+                "note",
+                "f"
+              ],
+              "value": "#6:32Hebrewhe"
+            },
+            {
+              "rowId": 223,
+              "keyParts": [
+                223,
+                "p6",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "was called"
+            },
+            {
+              "rowId": 224,
+              "keyParts": [
+                224,
+                "p6",
+                "verse",
+                "v32",
+                "note",
+                "x"
+              ],
+              "value": "#ch.7:1;1 Sam. 12:11;[2 Sam. 11:21]"
+            },
+            {
+              "rowId": 225,
+              "keyParts": [
+                225,
+                "p6",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "Jerubbaal, that is to say, “Let Baal contend against him,” because he broke down his altar."
+            },
+            {
+              "rowId": 226,
+              "keyParts": [
+                "v032_ESV_JDG_006",
+                226,
+                "p6",
+                "verse",
+                "v32",
+                "plain_text"
+              ],
+              "value": "32 Therefore on that day Gideon was called Jerubbaal, that is to say, “Let Baal contend against him,” because he broke down his altar."
+            },
+            {
+              "rowId": 227,
+              "keyParts": [
+                227,
+                "p7",
+                "verse",
+                "v33",
+                "label"
+              ],
+              "value": "33"
+            },
+            {
+              "rowId": 228,
+              "keyParts": [
+                228,
+                "p7",
+                "verse",
+                "v33",
+                "content"
+              ],
+              "value": "Now"
+            },
+            {
+              "rowId": 229,
+              "keyParts": [
+                229,
+                "p7",
+                "verse",
+                "v33",
+                "note",
+                "x"
+              ],
+              "value": "#ver.3"
+            },
+            {
+              "rowId": 230,
+              "keyParts": [
+                230,
+                "p7",
+                "verse",
+                "v33",
+                "content"
+              ],
+              "value": "all the Midianites and the Amalekites and the people of the East came together, and they crossed the Jordan and encamped in"
+            },
+            {
+              "rowId": 231,
+              "keyParts": [
+                231,
+                "p7",
+                "verse",
+                "v33",
+                "note",
+                "x"
+              ],
+              "value": "#Josh. 17:16"
+            },
+            {
+              "rowId": 232,
+              "keyParts": [
+                232,
+                "p7",
+                "verse",
+                "v33",
+                "content"
+              ],
+              "value": "the Valley of Jezreel."
+            },
+            {
+              "rowId": 233,
+              "keyParts": [
+                "v033_ESV_JDG_006",
+                233,
+                "p7",
+                "verse",
+                "v33",
+                "plain_text"
+              ],
+              "value": "33 Now all the Midianites and the Amalekites and the people of the East came together, and they crossed the Jordan and encamped in the Valley of Jezreel."
+            },
+            {
+              "rowId": 234,
+              "keyParts": [
+                234,
+                "p7",
+                "verse",
+                "v34",
+                "label"
+              ],
+              "value": "34"
+            },
+            {
+              "rowId": 235,
+              "keyParts": [
+                235,
+                "p7",
+                "verse",
+                "v34",
+                "content"
+              ],
+              "value": "But"
+            },
+            {
+              "rowId": 236,
+              "keyParts": [
+                236,
+                "p7",
+                "verse",
+                "v34",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.3:10"
+            },
+            {
+              "rowId": 237,
+              "keyParts": [
+                237,
+                "p7",
+                "verse",
+                "v34",
+                "content"
+              ],
+              "value": "the Spirit of the"
+            },
+            {
+              "rowId": 238,
+              "keyParts": [
+                238,
+                "p7",
+                "verse",
+                "v34",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 239,
+              "keyParts": [
+                239,
+                "p7",
+                "verse",
+                "v34",
+                "content"
+              ],
+              "value": "clothed Gideon,"
+            },
+            {
+              "rowId": 240,
+              "keyParts": [
+                240,
+                "p7",
+                "verse",
+                "v34",
+                "note",
+                "x"
+              ],
+              "value": "#ch.3:27"
+            },
+            {
+              "rowId": 241,
+              "keyParts": [
+                241,
+                "p7",
+                "verse",
+                "v34",
+                "content"
+              ],
+              "value": "and he sounded the trumpet, and the Abiezrites were called out to follow him."
+            },
+            {
+              "rowId": 242,
+              "keyParts": [
+                "v034_ESV_JDG_006",
+                242,
+                "p7",
+                "verse",
+                "v34",
+                "plain_text"
+              ],
+              "value": "34 But the Spirit of the Lord clothed Gideon, and he sounded the trumpet, and the Abiezrites were called out to follow him."
+            },
+            {
+              "rowId": 243,
+              "keyParts": [
+                243,
+                "p7",
+                "verse",
+                "v35",
+                "label"
+              ],
+              "value": "35"
+            },
+            {
+              "rowId": 244,
+              "keyParts": [
+                244,
+                "p7",
+                "verse",
+                "v35",
+                "note",
+                "x"
+              ],
+              "value": "#ch.7:24"
+            },
+            {
+              "rowId": 245,
+              "keyParts": [
+                245,
+                "p7",
+                "verse",
+                "v35",
+                "content"
+              ],
+              "value": "And he sent messengers throughout all Manasseh, and they too were called out to follow him."
+            },
+            {
+              "rowId": 246,
+              "keyParts": [
+                246,
+                "p7",
+                "verse",
+                "v35",
+                "note",
+                "x"
+              ],
+              "value": "#ch.7:24"
+            },
+            {
+              "rowId": 247,
+              "keyParts": [
+                247,
+                "p7",
+                "verse",
+                "v35",
+                "content"
+              ],
+              "value": "And he sent messengers to Asher, Zebulun, and Naphtali, and they went up to meet them."
+            },
+            {
+              "rowId": 248,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "The Sign of the Fleece"
+            },
+            {
+              "rowId": 249,
+              "keyParts": [
+                "v035_ESV_JDG_006",
+                249,
+                "p7",
+                "verse",
+                "v35",
+                "plain_text"
+              ],
+              "value": "35 And he sent messengers throughout all Manasseh, and they too were called out to follow him. And he sent messengers to Asher, Zebulun, and Naphtali, and they went up to meet them."
+            },
+            {
+              "rowId": 250,
+              "keyParts": [
+                250,
+                "p8",
+                "verse",
+                "v36",
+                "label"
+              ],
+              "value": "36"
+            },
+            {
+              "rowId": 251,
+              "keyParts": [
+                251,
+                "p8",
+                "verse",
+                "v36",
+                "note",
+                "x"
+              ],
+              "value": "#For ver. 36-40, seeEx. 4:1-7"
+            },
+            {
+              "rowId": 252,
+              "keyParts": [
+                252,
+                "p8",
+                "verse",
+                "v36",
+                "content"
+              ],
+              "value": "Then Gideon said to God, “If you will save Israel by my hand, as you have said,"
+            },
+            {
+              "rowId": 253,
+              "keyParts": [
+                "v036_ESV_JDG_006",
+                253,
+                "p8",
+                "verse",
+                "v36",
+                "plain_text"
+              ],
+              "value": "36 Then Gideon said to God, “If you will save Israel by my hand, as you have said,"
+            },
+            {
+              "rowId": 254,
+              "keyParts": [
+                254,
+                "p8",
+                "verse",
+                "v37",
+                "label"
+              ],
+              "value": "37"
+            },
+            {
+              "rowId": 255,
+              "keyParts": [
+                255,
+                "p8",
+                "verse",
+                "v37",
+                "content"
+              ],
+              "value": "behold, I am laying a fleece of wool on the threshing floor. If there is dew on the fleece alone, and it is dry on all the ground, then I shall know that you will save Israel by my hand, as you have said.”"
+            },
+            {
+              "rowId": 256,
+              "keyParts": [
+                "v037_ESV_JDG_006",
+                256,
+                "p8",
+                "verse",
+                "v37",
+                "plain_text"
+              ],
+              "value": "37 behold, I am laying a fleece of wool on the threshing floor. If there is dew on the fleece alone, and it is dry on all the ground, then I shall know that you will save Israel by my hand, as you have said.”"
+            },
+            {
+              "rowId": 257,
+              "keyParts": [
+                257,
+                "p8",
+                "verse",
+                "v38",
+                "label"
+              ],
+              "value": "38"
+            },
+            {
+              "rowId": 258,
+              "keyParts": [
+                258,
+                "p8",
+                "verse",
+                "v38",
+                "content"
+              ],
+              "value": "And it was so. When he rose early next morning and squeezed the fleece, he wrung enough dew from the fleece to fill a bowl with water."
+            },
+            {
+              "rowId": 259,
+              "keyParts": [
+                "v038_ESV_JDG_006",
+                259,
+                "p8",
+                "verse",
+                "v38",
+                "plain_text"
+              ],
+              "value": "38 And it was so. When he rose early next morning and squeezed the fleece, he wrung enough dew from the fleece to fill a bowl with water."
+            },
+            {
+              "rowId": 260,
+              "keyParts": [
+                260,
+                "p8",
+                "verse",
+                "v39",
+                "label"
+              ],
+              "value": "39"
+            },
+            {
+              "rowId": 261,
+              "keyParts": [
+                261,
+                "p8",
+                "verse",
+                "v39",
+                "content"
+              ],
+              "value": "Then Gideon said to God,"
+            },
+            {
+              "rowId": 262,
+              "keyParts": [
+                262,
+                "p8",
+                "verse",
+                "v39",
+                "note",
+                "x"
+              ],
+              "value": "#Gen. 18:32"
+            },
+            {
+              "rowId": 263,
+              "keyParts": [
+                263,
+                "p8",
+                "verse",
+                "v39",
+                "content"
+              ],
+              "value": "“Let not your anger burn against me; let me speak just once more. Please let me test just once more with the fleece. Please let it be dry on the fleece only, and on all the ground let there be dew.”"
+            },
+            {
+              "rowId": 264,
+              "keyParts": [
+                "v039_ESV_JDG_006",
+                264,
+                "p8",
+                "verse",
+                "v39",
+                "plain_text"
+              ],
+              "value": "39 Then Gideon said to God, “Let not your anger burn against me; let me speak just once more. Please let me test just once more with the fleece. Please let it be dry on the fleece only, and on all the ground let there be dew.”"
+            },
+            {
+              "rowId": 265,
+              "keyParts": [
+                265,
+                "p8",
+                "verse",
+                "v40",
+                "label"
+              ],
+              "value": "40"
+            },
+            {
+              "rowId": 266,
+              "keyParts": [
+                266,
+                "p8",
+                "verse",
+                "v40",
+                "content"
+              ],
+              "value": "And God did so that night; and it was dry on the fleece only, and on all the ground there was dew."
+            },
+            {
+              "rowId": 267,
+              "keyParts": [
+                "v040_ESV_JDG_006",
+                267,
+                "p8",
+                "verse",
+                "v40",
+                "plain_text"
+              ],
+              "value": "40 And God did so that night; and it was dry on the fleece only, and on all the ground there was dew."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

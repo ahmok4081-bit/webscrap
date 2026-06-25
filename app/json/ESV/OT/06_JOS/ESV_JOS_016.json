@@ -1,0 +1,643 @@
+{
+  "translationId": "ESV",
+  "name": "English Standard Version",
+  "abbreviation": "ESV",
+  "language": "English",
+  "copyright": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.",
+  "books": [
+    {
+      "bookId": "JOS",
+      "testament": "OT",
+      "order": 6,
+      "title": "Joshua",
+      "abbreviation": "JOS",
+      "chapters": [
+        {
+          "chapter": 16,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "The Allotment for Ephraim and Manasseh"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "The allotment of the people of Joseph went from the Jordan by Jericho, east of the waters of Jericho,"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#ch.8:15;18:12"
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "into the wilderness, going up from Jericho into the hill country to Bethel."
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                "v001_ESV_JOS_016",
+                7,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 The allotment of the people of Joseph went from the Jordan by Jericho, east of the waters of Jericho, into the wilderness, going up from Jericho into the hill country to Bethel."
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                9,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "Then"
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#[ch.18:13;Gen. 28:19;Judg. 1:23,26]"
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                11,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "going from Bethel to Luz, it passes along to Ataroth, the territory of the Archites."
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                "v002_ESV_JOS_016",
+                12,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 Then going from Bethel to Luz, it passes along to Ataroth, the territory of the Archites."
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                13,
+                "p1",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "Then it goes down westward to the territory of the Japhletites, as far as the territory of Lower"
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                15,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.10:10"
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                16,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "Beth-horon, then to"
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                17,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.10:33"
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "Gezer, and it ends at the sea."
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                "v003_ESV_JOS_016",
+                19,
+                "p1",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 Then it goes down westward to the territory of the Japhletites, as far as the territory of Lower Beth-horon, then to Gezer, and it ends at the sea."
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                20,
+                "p2",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p2",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#[ch.17:14]"
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                22,
+                "p2",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "The people of Joseph, Manasseh and Ephraim, received their inheritance."
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                "v004_ESV_JOS_016",
+                23,
+                "p2",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 The people of Joseph, Manasseh and Ephraim, received their inheritance."
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                24,
+                "p3",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "p3",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "The territory of the people of Ephraim by their clans was as follows: the boundary of their inheritance on the east was"
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                26,
+                "p3",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#ch.18:13"
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                27,
+                "p3",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "Ataroth-addar as far as Upper Beth-horon,"
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                "v005_ESV_JOS_016",
+                28,
+                "p3",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 The territory of the people of Ephraim by their clans was as follows: the boundary of their inheritance on the east was Ataroth-addar as far as Upper Beth-horon,"
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                29,
+                "p3",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                30,
+                "p3",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "and the boundary goes from there to the sea. On the north is"
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                31,
+                "p3",
+                "verse",
+                "v6",
+                "note",
+                "x"
+              ],
+              "value": "#ch.17:7"
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "p3",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "Michmethath. Then on the east the boundary turns around toward Taanath-shiloh and passes along beyond it on the east to Janoah,"
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                "v006_ESV_JOS_016",
+                33,
+                "p3",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 and the boundary goes from there to the sea. On the north is Michmethath. Then on the east the boundary turns around toward Taanath-shiloh and passes along beyond it on the east to Janoah,"
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                34,
+                "p3",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                35,
+                "p3",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "then it goes down from Janoah to Ataroth and"
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "p3",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#1 Chr. 7:28"
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                37,
+                "p3",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "to Naarah, and touches Jericho, ending at the Jordan."
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                "v007_ESV_JOS_016",
+                38,
+                "p3",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 then it goes down from Janoah to Ataroth and to Naarah, and touches Jericho, ending at the Jordan."
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                39,
+                "p3",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                40,
+                "p3",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "From"
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p3",
+                "verse",
+                "v8",
+                "note",
+                "x"
+              ],
+              "value": "#ch.17:8,9"
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "p3",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "Tappuah the boundary goes westward to the brook Kanah and ends at the sea. Such is the inheritance of the tribe of the people of Ephraim by their clans,"
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                "v008_ESV_JOS_016",
+                43,
+                "p3",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 From Tappuah the boundary goes westward to the brook Kanah and ends at the sea. Such is the inheritance of the tribe of the people of Ephraim by their clans,"
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                44,
+                "p3",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                45,
+                "p3",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "together with"
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                46,
+                "p3",
+                "verse",
+                "v9",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.8above]"
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                47,
+                "p3",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "the towns that were set apart for the people of Ephraim within the inheritance of the Manassites, all those towns with their villages."
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                "v009_ESV_JOS_016",
+                48,
+                "p3",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 together with the towns that were set apart for the people of Ephraim within the inheritance of the Manassites, all those towns with their villages."
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                49,
+                "p3",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "p3",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "However,"
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                51,
+                "p3",
+                "verse",
+                "v10",
+                "note",
+                "x"
+              ],
+              "value": "#Judg. 1:29;1 Kgs. 9:16"
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                52,
+                "p3",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "they did not drive out the Canaanites who lived in Gezer, so the Canaanites have lived in the midst of Ephraim to this day but have been made"
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                53,
+                "p3",
+                "verse",
+                "v10",
+                "note",
+                "x"
+              ],
+              "value": "#ch.17:13;Gen. 49:15"
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                54,
+                "p3",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "to do forced labor."
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                "v010_ESV_JOS_016",
+                55,
+                "p3",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 However, they did not drive out the Canaanites who lived in Gezer, so the Canaanites have lived in the midst of Ephraim to this day but have been made to do forced labor."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1960 @@
+{
+  "translationId": "ESV",
+  "name": "English Standard Version",
+  "abbreviation": "ESV",
+  "language": "English",
+  "copyright": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.",
+  "books": [
+    {
+      "bookId": "DEU",
+      "testament": "OT",
+      "order": 5,
+      "title": "Deuteronomy",
+      "abbreviation": "DEU",
+      "chapters": [
+        {
+          "chapter": 18,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Provision for Priests and Levites"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "“The Levitical priests, all the tribe of Levi,"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#SeeNum. 18:20"
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "shall have no portion or inheritance with Israel. They"
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                7,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 18:8,9;Josh. 13:14;1 Sam. 2:28;[1 Cor. 9:13]"
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "shall eat the"
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                9,
+                "p1",
+                "verse",
+                "v1",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "’s food offerings"
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                11,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "f"
+              ],
+              "value": "#18:1Orthe offerings by fire to theLord"
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                12,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "as their"
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                13,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "f"
+              ],
+              "value": "#18:1Hebrewhis"
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "inheritance."
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                "v001_ESV_DEU_018",
+                15,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 “The Levitical priests, all the tribe of Levi, shall have no portion or inheritance with Israel. They shall eat the Lord ’s food offerings as their inheritance."
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                16,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                17,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "They shall have no inheritance among their brothers; the"
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "p1",
+                "verse",
+                "v2",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "is their inheritance, as he promised them."
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                "v002_ESV_DEU_018",
+                20,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 They shall have no inheritance among their brothers; the Lord is their inheritance, as he promised them."
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p1",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                22,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "And this shall be the priests’ due from the people, from those offering a sacrifice, whether an ox or a sheep:"
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#SeeLev. 7:30-34"
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                24,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "they shall give to the priest the shoulder and the two cheeks and the stomach."
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                "v003_ESV_DEU_018",
+                25,
+                "p1",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 And this shall be the priests’ due from the people, from those offering a sacrifice, whether an ox or a sheep: they shall give to the priest the shoulder and the two cheeks and the stomach."
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                26,
+                "p1",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                27,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 18:12;2 Chr. 31:5"
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                28,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "The firstfruits of your grain, of your wine and of your oil, and the first fleece of your sheep, you shall give him."
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                "v004_ESV_DEU_018",
+                29,
+                "p1",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 The firstfruits of your grain, of your wine and of your oil, and the first fleece of your sheep, you shall give him."
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                30,
+                "p1",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                31,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "For the"
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "p1",
+                "verse",
+                "v5",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                33,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "your God has chosen him out of all your tribes"
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                34,
+                "p1",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#ch.17:12"
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                35,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "to stand and minister in the name of the"
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "p1",
+                "verse",
+                "v5",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                37,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": ", him and his sons for all time."
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                "v005_ESV_DEU_018",
+                38,
+                "p1",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 For the Lord your God has chosen him out of all your tribes to stand and minister in the name of the Lord , him and his sons for all time."
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                39,
+                "p2",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                40,
+                "p2",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "“And if a Levite comes from any of your towns out of all Israel,"
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p2",
+                "verse",
+                "v6",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 35:2,3;Judg. 17:7;19:1"
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "p2",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "where he lives—and he may come when he desires"
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                43,
+                "p2",
+                "verse",
+                "v6",
+                "note",
+                "f"
+              ],
+              "value": "#18:6Orlives—if he comes enthusiastically"
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                44,
+                "p2",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "—"
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                45,
+                "p2",
+                "verse",
+                "v6",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.12:5"
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                46,
+                "p2",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "to the place that the"
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                47,
+                "p2",
+                "verse",
+                "v6",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                48,
+                "p2",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "will choose,"
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                "v006_ESV_DEU_018",
+                49,
+                "p2",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 “And if a Levite comes from any of your towns out of all Israel, where he lives—and he may come when he desires — to the place that the Lord will choose,"
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "p2",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                51,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "and ministers in the name of the"
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                52,
+                "p2",
+                "verse",
+                "v7",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                53,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "his God,"
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                54,
+                "p2",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#[1 Chr. 23:6;2 Chr. 31:2]"
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                55,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "like all his fellow Levites who stand to minister there before the"
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                56,
+                "p2",
+                "verse",
+                "v7",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                57,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": ","
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                "v007_ESV_DEU_018",
+                58,
+                "p2",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 and ministers in the name of the Lord his God, like all his fellow Levites who stand to minister there before the Lord ,"
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                59,
+                "p2",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                60,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "then he may have equal"
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                61,
+                "p2",
+                "verse",
+                "v8",
+                "note",
+                "x"
+              ],
+              "value": "#2 Chr. 31:4;Neh. 12:44,47;13:10"
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                62,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "portions to eat, besides what he receives from the sale of his patrimony."
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                63,
+                "p2",
+                "verse",
+                "v8",
+                "note",
+                "f"
+              ],
+              "value": "#18:8The meaning of the Hebrew is uncertain"
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Abominable Practices"
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                "v008_ESV_DEU_018",
+                65,
+                "p2",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 then he may have equal portions to eat, besides what he receives from the sale of his patrimony."
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                66,
+                "p3",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                67,
+                "p3",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "“When you come into the land that the"
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                68,
+                "p3",
+                "verse",
+                "v9",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                69,
+                "p3",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "your God is giving you,"
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                70,
+                "p3",
+                "verse",
+                "v9",
+                "note",
+                "x"
+              ],
+              "value": "#ch.12:29-31;SeeLev. 18:26-30"
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                71,
+                "p3",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "you shall not learn to follow the abominable practices of those nations."
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                "v009_ESV_DEU_018",
+                72,
+                "p3",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 “When you come into the land that the Lord your God is giving you, you shall not learn to follow the abominable practices of those nations."
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                73,
+                "p3",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                74,
+                "p3",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "There shall not be found among you anyone"
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                75,
+                "p3",
+                "verse",
+                "v10",
+                "note",
+                "x"
+              ],
+              "value": "#SeeLev. 18:21"
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                76,
+                "p3",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "who burns his son or his daughter as an offering,"
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                77,
+                "p3",
+                "verse",
+                "v10",
+                "note",
+                "f"
+              ],
+              "value": "#18:10Hebrewmakes his son or his daughter pass through the fire"
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                78,
+                "p3",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "anyone who"
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                79,
+                "p3",
+                "verse",
+                "v10",
+                "note",
+                "x"
+              ],
+              "value": "#2 Kgs. 17:17"
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                80,
+                "p3",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "practices divination or"
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                81,
+                "p3",
+                "verse",
+                "v10",
+                "note",
+                "x"
+              ],
+              "value": "#SeeLev. 19:26"
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                82,
+                "p3",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "tells fortunes or interprets omens, or"
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                83,
+                "p3",
+                "verse",
+                "v10",
+                "note",
+                "x"
+              ],
+              "value": "#[Ex. 22:18]"
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                84,
+                "p3",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "a sorcerer"
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                "v010_ESV_DEU_018",
+                85,
+                "p3",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 There shall not be found among you anyone who burns his son or his daughter as an offering, anyone who practices divination or tells fortunes or interprets omens, or a sorcerer"
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                86,
+                "p3",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                87,
+                "p3",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "or a charmer or"
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                88,
+                "p3",
+                "verse",
+                "v11",
+                "note",
+                "x"
+              ],
+              "value": "#SeeLev. 19:31"
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                89,
+                "p3",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "a medium or a necromancer or"
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                90,
+                "p3",
+                "verse",
+                "v11",
+                "note",
+                "x"
+              ],
+              "value": "#[1 Sam. 28:7]"
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                91,
+                "p3",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "one who inquires of the dead,"
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                "v011_ESV_DEU_018",
+                92,
+                "p3",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 or a charmer or a medium or a necromancer or one who inquires of the dead,"
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                93,
+                "p3",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                94,
+                "p3",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#ch.22:5;25:16"
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                95,
+                "p3",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "for whoever does these things is an abomination to the"
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                96,
+                "p3",
+                "verse",
+                "v12",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                97,
+                "p3",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": ". And"
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                98,
+                "p3",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.9:4"
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                99,
+                "p3",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "because of these abominations the"
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                100,
+                "p3",
+                "verse",
+                "v12",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                101,
+                "p3",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "your God is driving them out before you."
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                "v012_ESV_DEU_018",
+                102,
+                "p3",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 for whoever does these things is an abomination to the Lord . And because of these abominations the Lord your God is driving them out before you."
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                103,
+                "p3",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                104,
+                "p3",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "You shall be blameless before the"
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                105,
+                "p3",
+                "verse",
+                "v13",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                106,
+                "p3",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "your God,"
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                "v013_ESV_DEU_018",
+                107,
+                "p3",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 You shall be blameless before the Lord your God,"
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                108,
+                "p3",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                109,
+                "p3",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "for these nations, which you are about to dispossess, listen to fortune-tellers and to diviners. But as for you, the"
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                110,
+                "p3",
+                "verse",
+                "v14",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                111,
+                "p3",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "your God has not allowed you to do this."
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "A New Prophet like Moses"
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                "v014_ESV_DEU_018",
+                113,
+                "p3",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 for these nations, which you are about to dispossess, listen to fortune-tellers and to diviners. But as for you, the Lord your God has not allowed you to do this."
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                114,
+                "p4",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                115,
+                "p4",
+                "verse",
+                "v15",
+                "note",
+                "x"
+              ],
+              "value": "#John 1:21,25,45;CitedActs 3:22;7:37"
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                116,
+                "p4",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "“The"
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                117,
+                "p4",
+                "verse",
+                "v15",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                118,
+                "p4",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "your God will raise up for you a prophet like me from among you, from your brothers—it is to him you shall listen—"
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                "v015_ESV_DEU_018",
+                119,
+                "p4",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 “The Lord your God will raise up for you a prophet like me from among you, from your brothers—it is to him you shall listen—"
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                120,
+                "p4",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 121,
+              "keyParts": [
+                121,
+                "p4",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "just as you desired of the"
+            },
+            {
+              "rowId": 122,
+              "keyParts": [
+                122,
+                "p4",
+                "verse",
+                "v16",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 123,
+              "keyParts": [
+                123,
+                "p4",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "your God at Horeb"
+            },
+            {
+              "rowId": 124,
+              "keyParts": [
+                124,
+                "p4",
+                "verse",
+                "v16",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.9:10"
+            },
+            {
+              "rowId": 125,
+              "keyParts": [
+                125,
+                "p4",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "on the day of the assembly, when you said,"
+            },
+            {
+              "rowId": 126,
+              "keyParts": [
+                126,
+                "p4",
+                "verse",
+                "v16",
+                "note",
+                "x"
+              ],
+              "value": "#SeeEx. 20:19"
+            },
+            {
+              "rowId": 127,
+              "keyParts": [
+                127,
+                "p4",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "‘Let me not hear again the voice of the"
+            },
+            {
+              "rowId": 128,
+              "keyParts": [
+                128,
+                "p4",
+                "verse",
+                "v16",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 129,
+              "keyParts": [
+                129,
+                "p4",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "my God or see this great fire any more, lest I die.’"
+            },
+            {
+              "rowId": 130,
+              "keyParts": [
+                "v016_ESV_DEU_018",
+                130,
+                "p4",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 just as you desired of the Lord your God at Horeb on the day of the assembly, when you said, ‘Let me not hear again the voice of the Lord my God or see this great fire any more, lest I die.’"
+            },
+            {
+              "rowId": 131,
+              "keyParts": [
+                131,
+                "p4",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 132,
+              "keyParts": [
+                132,
+                "p4",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "And the"
+            },
+            {
+              "rowId": 133,
+              "keyParts": [
+                133,
+                "p4",
+                "verse",
+                "v17",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 134,
+              "keyParts": [
+                134,
+                "p4",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "said to me,"
+            },
+            {
+              "rowId": 135,
+              "keyParts": [
+                135,
+                "p4",
+                "verse",
+                "v17",
+                "note",
+                "x"
+              ],
+              "value": "#ch.5:28"
+            },
+            {
+              "rowId": 136,
+              "keyParts": [
+                136,
+                "p4",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "‘They are right in what they have spoken."
+            },
+            {
+              "rowId": 137,
+              "keyParts": [
+                "v017_ESV_DEU_018",
+                137,
+                "p4",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 And the Lord said to me, ‘They are right in what they have spoken."
+            },
+            {
+              "rowId": 138,
+              "keyParts": [
+                138,
+                "p4",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 139,
+              "keyParts": [
+                139,
+                "p4",
+                "verse",
+                "v18",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.15above]"
+            },
+            {
+              "rowId": 140,
+              "keyParts": [
+                140,
+                "p4",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "I will raise up for them a prophet like you from among their brothers."
+            },
+            {
+              "rowId": 141,
+              "keyParts": [
+                141,
+                "p4",
+                "verse",
+                "v18",
+                "note",
+                "x"
+              ],
+              "value": "#Jer. 1:9;5:14;[John 17:8]"
+            },
+            {
+              "rowId": 142,
+              "keyParts": [
+                142,
+                "p4",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "And I will put my words in his mouth, and"
+            },
+            {
+              "rowId": 143,
+              "keyParts": [
+                143,
+                "p4",
+                "verse",
+                "v18",
+                "note",
+                "x"
+              ],
+              "value": "#[John 4:25;8:28;12:49,50]"
+            },
+            {
+              "rowId": 144,
+              "keyParts": [
+                144,
+                "p4",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "he shall speak to them all that I command him."
+            },
+            {
+              "rowId": 145,
+              "keyParts": [
+                "v018_ESV_DEU_018",
+                145,
+                "p4",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 I will raise up for them a prophet like you from among their brothers. And I will put my words in his mouth, and he shall speak to them all that I command him."
+            },
+            {
+              "rowId": 146,
+              "keyParts": [
+                146,
+                "p4",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 147,
+              "keyParts": [
+                147,
+                "p4",
+                "verse",
+                "v19",
+                "note",
+                "x"
+              ],
+              "value": "#[Acts 3:23]"
+            },
+            {
+              "rowId": 148,
+              "keyParts": [
+                148,
+                "p4",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "And whoever will"
+            },
+            {
+              "rowId": 149,
+              "keyParts": [
+                149,
+                "p4",
+                "verse",
+                "v19",
+                "note",
+                "x"
+              ],
+              "value": "#Jer. 29:19;35:13"
+            },
+            {
+              "rowId": 150,
+              "keyParts": [
+                150,
+                "p4",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "not listen to my words that he shall speak in my name, I myself will require it of him."
+            },
+            {
+              "rowId": 151,
+              "keyParts": [
+                "v019_ESV_DEU_018",
+                151,
+                "p4",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 And whoever will not listen to my words that he shall speak in my name, I myself will require it of him."
+            },
+            {
+              "rowId": 152,
+              "keyParts": [
+                152,
+                "p4",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 153,
+              "keyParts": [
+                153,
+                "p4",
+                "verse",
+                "v20",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.13:5"
+            },
+            {
+              "rowId": 154,
+              "keyParts": [
+                154,
+                "p4",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "But the prophet who presumes to speak a word in my name that I have not commanded him to speak, or"
+            },
+            {
+              "rowId": 155,
+              "keyParts": [
+                155,
+                "p4",
+                "verse",
+                "v20",
+                "note",
+                "f"
+              ],
+              "value": "#18:20Orand"
+            },
+            {
+              "rowId": 156,
+              "keyParts": [
+                156,
+                "p4",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "who speaks in the name of other gods, that same prophet shall die.’"
+            },
+            {
+              "rowId": 157,
+              "keyParts": [
+                "v020_ESV_DEU_018",
+                157,
+                "p4",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 But the prophet who presumes to speak a word in my name that I have not commanded him to speak, or who speaks in the name of other gods, that same prophet shall die.’"
+            },
+            {
+              "rowId": 158,
+              "keyParts": [
+                158,
+                "p4",
+                "verse",
+                "v21",
+                "label"
+              ],
+              "value": "21"
+            },
+            {
+              "rowId": 159,
+              "keyParts": [
+                159,
+                "p4",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "And if you say in your heart, ‘How may we know the word that the"
+            },
+            {
+              "rowId": 160,
+              "keyParts": [
+                160,
+                "p4",
+                "verse",
+                "v21",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 161,
+              "keyParts": [
+                161,
+                "p4",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "has not spoken?’—"
+            },
+            {
+              "rowId": 162,
+              "keyParts": [
+                "v021_ESV_DEU_018",
+                162,
+                "p4",
+                "verse",
+                "v21",
+                "plain_text"
+              ],
+              "value": "21 And if you say in your heart, ‘How may we know the word that the Lord has not spoken?’—"
+            },
+            {
+              "rowId": 163,
+              "keyParts": [
+                163,
+                "p4",
+                "verse",
+                "v22",
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 164,
+              "keyParts": [
+                164,
+                "p4",
+                "verse",
+                "v22",
+                "note",
+                "x"
+              ],
+              "value": "#[ch.13:1-3;Jer. 28:9]"
+            },
+            {
+              "rowId": 165,
+              "keyParts": [
+                165,
+                "p4",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "when a prophet speaks in the name of the"
+            },
+            {
+              "rowId": 166,
+              "keyParts": [
+                166,
+                "p4",
+                "verse",
+                "v22",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 167,
+              "keyParts": [
+                167,
+                "p4",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": ", if the word does not come to pass or come true, that is a word that the"
+            },
+            {
+              "rowId": 168,
+              "keyParts": [
+                168,
+                "p4",
+                "verse",
+                "v22",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 169,
+              "keyParts": [
+                169,
+                "p4",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "has not spoken;"
+            },
+            {
+              "rowId": 170,
+              "keyParts": [
+                170,
+                "p4",
+                "verse",
+                "v22",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.20above]"
+            },
+            {
+              "rowId": 171,
+              "keyParts": [
+                171,
+                "p4",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "the prophet has spoken it presumptuously. You need not be afraid of him."
+            },
+            {
+              "rowId": 172,
+              "keyParts": [
+                "v022_ESV_DEU_018",
+                172,
+                "p4",
+                "verse",
+                "v22",
+                "plain_text"
+              ],
+              "value": "22 when a prophet speaks in the name of the Lord , if the word does not come to pass or come true, that is a word that the Lord has not spoken; the prophet has spoken it presumptuously. You need not be afraid of him."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -10,7 +10,7 @@ from unittest import case
 import requests
 from bs4 import BeautifulSoup, NavigableString, Tag
 import csv
-import model as model
+import model_NEW as model
 import json
 import re
 from pymongo import MongoClient
@@ -655,7 +655,7 @@ if __name__ == "__main__":
     # book_chapter = "JDG.1"
     # bookChapter = "PSA.77"
     # book_chapter = "PSA.119" 
-    book_chapter = "LUK.15" 
+    book_chapter = "LUK.1" 
 
     # Field Conference 
     # book_chapter = "PSA.42"  
@@ -672,11 +672,11 @@ if __name__ == "__main__":
     # bookChapter = "ACT.20"
     # bookChapter = "REV.21"
 
-    bibleId = 107 # NET Bible
-    bibleId = 2287  #GKH
+    #bibleId = 107 # NET Bible
+    #bibleId = 2287  #GKH
     # bibleId = 1270  #KOV
     # bibleId = 1930 #  NVT
-    # bibleId = 59 #  ESV  
+    bibleId = 59 #  ESV  
     # bibleId = 1588 #  AMP  
     # bibleId = 1608 # ARA
 
@@ -695,8 +695,8 @@ if __name__ == "__main__":
             chapterCode = response['reference']['usfm'][0]
             # response['next']['usfm'][0] has the next chapter to scrap
             
-            bookName  = response['reference']['human']
-            bookName, chapter_num = bookName.split(" ")
+            bookName = response['reference']['human']
+            bookName, _, chapter_num = bookName.rpartition(" ")
             bookAbbreviation, chapter_num = chapterCode.split(".")
 
 

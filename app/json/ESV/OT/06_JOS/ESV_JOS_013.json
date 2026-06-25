@@ -1,0 +1,2377 @@
+{
+  "translationId": "ESV",
+  "name": "English Standard Version",
+  "abbreviation": "ESV",
+  "language": "English",
+  "copyright": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.",
+  "books": [
+    {
+      "bookId": "JOS",
+      "testament": "OT",
+      "order": 6,
+      "title": "Joshua",
+      "abbreviation": "JOS",
+      "chapters": [
+        {
+          "chapter": 13,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Land Still to Be Conquered"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "Now Joshua"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#ch.14:10;23:1"
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "was old and advanced in years, and the"
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                7,
+                "p1",
+                "verse",
+                "v1",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "said to him, “You are old and advanced in years, and there remains yet very much land"
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                9,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 31:3"
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "to possess."
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                "v001_ESV_JOS_013",
+                11,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 Now Joshua was old and advanced in years, and the Lord said to him, “You are old and advanced in years, and there remains yet very much land to possess."
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                12,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                13,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#Judg. 3:1"
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "This is the land that yet remains: all the"
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                15,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#Joel 3:4"
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                16,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "regions of the Philistines, and all those of the Geshurites"
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                "v002_ESV_JOS_013",
+                17,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 This is the land that yet remains: all the regions of the Philistines, and all those of the Geshurites"
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "p1",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "(from the"
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                20,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#1 Chr. 13:5;Jer. 2:18"
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "Shihor, which is east of Egypt, northward to the boundary of Ekron, it is counted as Canaanite;"
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                22,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#Judg. 3:3"
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "there are five rulers of the Philistines, those of Gaza, Ashdod, Ashkelon, Gath, and Ekron), and those of"
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                24,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 2:23"
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "the Avvim,"
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                "v003_ESV_JOS_013",
+                26,
+                "p1",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 (from the Shihor, which is east of Egypt, northward to the boundary of Ekron, it is counted as Canaanite; there are five rulers of the Philistines, those of Gaza, Ashdod, Ashkelon, Gath, and Ekron), and those of the Avvim,"
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                27,
+                "p1",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                28,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "in the south, all the land of the Canaanites, and Mearah that belongs to the Sidonians, to Aphek, to the boundary of"
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                29,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#SeeJudg. 1:34-36"
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                30,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "the Amorites,"
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                "v004_ESV_JOS_013",
+                31,
+                "p1",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 in the south, all the land of the Canaanites, and Mearah that belongs to the Sidonians, to Aphek, to the boundary of the Amorites,"
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "p1",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                33,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "and the land of the"
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                34,
+                "p1",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#1 Kgs. 5:18;Ps. 83:7;Ezek. 27:9"
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                35,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "Gebalites, and all Lebanon, toward the sunrise, from"
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "p1",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#ch.11:17;12:7"
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                37,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "Baal-gad below Mount Hermon to"
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                38,
+                "p1",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 34:8"
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                39,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "Lebo-hamath,"
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                "v005_ESV_JOS_013",
+                40,
+                "p1",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 and the land of the Gebalites, and all Lebanon, toward the sunrise, from Baal-gad below Mount Hermon to Lebo-hamath,"
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p1",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "all the inhabitants of the hill country from Lebanon to"
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                43,
+                "p1",
+                "verse",
+                "v6",
+                "note",
+                "x"
+              ],
+              "value": "#ch.11:8"
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                44,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "Misrephoth-maim, even all the Sidonians. I myself will drive"
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                45,
+                "p1",
+                "verse",
+                "v6",
+                "note",
+                "x"
+              ],
+              "value": "#[ch.23:13;Judg. 2:21-23]"
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                46,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "them out from before the people of Israel. Only"
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                47,
+                "p1",
+                "verse",
+                "v6",
+                "note",
+                "x"
+              ],
+              "value": "#ch.23:4"
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                48,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "allot the land to Israel"
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                49,
+                "p1",
+                "verse",
+                "v6",
+                "note",
+                "x"
+              ],
+              "value": "#ch.23:4;Num. 34:2"
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "for an inheritance, as I have commanded you."
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                "v006_ESV_JOS_013",
+                51,
+                "p1",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 all the inhabitants of the hill country from Lebanon to Misrephoth-maim, even all the Sidonians. I myself will drive them out from before the people of Israel. Only allot the land to Israel for an inheritance, as I have commanded you."
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                52,
+                "p1",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                53,
+                "p1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "Now therefore"
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                54,
+                "p1",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#ch.14:1,2"
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                55,
+                "p1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "divide this land for an inheritance to the nine tribes and half the tribe of Manasseh.”"
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "The Inheritance East of the Jordan"
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                "v007_ESV_JOS_013",
+                57,
+                "p1",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 Now therefore divide this land for an inheritance to the nine tribes and half the tribe of Manasseh.”"
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                58,
+                "p2",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                59,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "With the other half of the tribe of Manasseh"
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                60,
+                "p2",
+                "verse",
+                "v8",
+                "note",
+                "f"
+              ],
+              "value": "#13:8HebrewWith it"
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                61,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "the Reubenites and the Gadites received their inheritance,"
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                62,
+                "p2",
+                "verse",
+                "v8",
+                "note",
+                "x"
+              ],
+              "value": "#ch.12:6;SeeNum. 32:33"
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                63,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "which Moses gave them, beyond the Jordan eastward, as Moses the servant of the"
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                64,
+                "p2",
+                "verse",
+                "v8",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                65,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "gave them:"
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                "v008_ESV_JOS_013",
+                66,
+                "p2",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 With the other half of the tribe of Manasseh the Reubenites and the Gadites received their inheritance, which Moses gave them, beyond the Jordan eastward, as Moses the servant of the Lord gave them:"
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                67,
+                "p2",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                68,
+                "p2",
+                "verse",
+                "v9",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 2:36"
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                69,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "from Aroer, which is on the edge of the Valley of the Arnon, and the city that is in the middle of the valley, and"
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                70,
+                "p2",
+                "verse",
+                "v9",
+                "note",
+                "x"
+              ],
+              "value": "#ver.16;[Num. 21:30]"
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                71,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "all the tableland of Medeba as far as Dibon;"
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                "v009_ESV_JOS_013",
+                72,
+                "p2",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 from Aroer, which is on the edge of the Valley of the Arnon, and the city that is in the middle of the valley, and all the tableland of Medeba as far as Dibon;"
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                73,
+                "p2",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                74,
+                "p2",
+                "verse",
+                "v10",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 21:24,25"
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                75,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "and all the cities of Sihon king of the Amorites, who reigned in Heshbon, as far as the boundary of the Ammonites;"
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                "v010_ESV_JOS_013",
+                76,
+                "p2",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 and all the cities of Sihon king of the Amorites, who reigned in Heshbon, as far as the boundary of the Ammonites;"
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                77,
+                "p2",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                78,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "and Gilead, and the"
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                79,
+                "p2",
+                "verse",
+                "v11",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 3:14"
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                80,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "region of the Geshurites and Maacathites, and all Mount Hermon, and"
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                81,
+                "p2",
+                "verse",
+                "v11",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 3:14"
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                82,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "all Bashan to Salecah;"
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                "v011_ESV_JOS_013",
+                83,
+                "p2",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 and Gilead, and the region of the Geshurites and Maacathites, and all Mount Hermon, and all Bashan to Salecah;"
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                84,
+                "p2",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                85,
+                "p2",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.11above]"
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                86,
+                "p2",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "all the kingdom of Og in Bashan, who reigned in Ashtaroth and in Edrei (he alone was left of"
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                87,
+                "p2",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.11above]"
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                88,
+                "p2",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "the remnant of the Rephaim);"
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                89,
+                "p2",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 21:24,35"
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                90,
+                "p2",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "these Moses had struck and driven out."
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                "v012_ESV_JOS_013",
+                91,
+                "p2",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 all the kingdom of Og in Bashan, who reigned in Ashtaroth and in Edrei (he alone was left of the remnant of the Rephaim); these Moses had struck and driven out."
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                92,
+                "p2",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                93,
+                "p2",
+                "verse",
+                "v13",
+                "note",
+                "x"
+              ],
+              "value": "#ver.11"
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                94,
+                "p2",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "Yet the people of Israel did not drive out the Geshurites or the Maacathites, but Geshur and Maacath dwell in the midst of Israel to this day."
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                "v013_ESV_JOS_013",
+                95,
+                "p2",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 Yet the people of Israel did not drive out the Geshurites or the Maacathites, but Geshur and Maacath dwell in the midst of Israel to this day."
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                96,
+                "p3",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                97,
+                "p3",
+                "verse",
+                "v14",
+                "note",
+                "x"
+              ],
+              "value": "#ch.14:3,4;SeeNum. 18:20-32"
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                98,
+                "p3",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "To the tribe of Levi alone Moses gave no inheritance. The offerings by fire to the"
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                99,
+                "p3",
+                "verse",
+                "v14",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                100,
+                "p3",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "God of Israel are their inheritance, as he said to him."
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                "v014_ESV_JOS_013",
+                101,
+                "p3",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 To the tribe of Levi alone Moses gave no inheritance. The offerings by fire to the Lord God of Israel are their inheritance, as he said to him."
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                102,
+                "p4",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                103,
+                "p4",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "And Moses gave an inheritance to the tribe of the people of Reuben according to their clans."
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                "v015_ESV_JOS_013",
+                104,
+                "p4",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 And Moses gave an inheritance to the tribe of the people of Reuben according to their clans."
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                105,
+                "p4",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                106,
+                "p4",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "So their territory was from Aroer,"
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                107,
+                "p4",
+                "verse",
+                "v16",
+                "note",
+                "x"
+              ],
+              "value": "#ver.9"
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                108,
+                "p4",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "which is on the edge of the Valley of the Arnon, and the city that is in the middle of the valley, and all the tableland by"
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                109,
+                "p4",
+                "verse",
+                "v16",
+                "note",
+                "x"
+              ],
+              "value": "#[Num. 21:30]"
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                110,
+                "p4",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "Medeba;"
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                "v016_ESV_JOS_013",
+                111,
+                "p4",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 So their territory was from Aroer, which is on the edge of the Valley of the Arnon, and the city that is in the middle of the valley, and all the tableland by Medeba;"
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                112,
+                "p4",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                113,
+                "p4",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "with Heshbon, and all its cities that are in the tableland;"
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                114,
+                "p4",
+                "verse",
+                "v17",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.16above]"
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                115,
+                "p4",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "Dibon, and Bamoth-baal, and Beth-baal-meon,"
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                "v017_ESV_JOS_013",
+                116,
+                "p4",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 with Heshbon, and all its cities that are in the tableland; Dibon, and Bamoth-baal, and Beth-baal-meon,"
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                117,
+                "p4",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                118,
+                "p4",
+                "verse",
+                "v18",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 21:23"
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                119,
+                "p4",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "and Jahaz, and Kedemoth, and Mephaath,"
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                "v018_ESV_JOS_013",
+                120,
+                "p4",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 and Jahaz, and Kedemoth, and Mephaath,"
+            },
+            {
+              "rowId": 121,
+              "keyParts": [
+                121,
+                "p4",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 122,
+              "keyParts": [
+                122,
+                "p4",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "and"
+            },
+            {
+              "rowId": 123,
+              "keyParts": [
+                123,
+                "p4",
+                "verse",
+                "v19",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 32:37,38"
+            },
+            {
+              "rowId": 124,
+              "keyParts": [
+                124,
+                "p4",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "Kiriathaim, and"
+            },
+            {
+              "rowId": 125,
+              "keyParts": [
+                125,
+                "p4",
+                "verse",
+                "v19",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 32:37,38"
+            },
+            {
+              "rowId": 126,
+              "keyParts": [
+                126,
+                "p4",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "Sibmah, and Zereth-shahar on the hill of the valley,"
+            },
+            {
+              "rowId": 127,
+              "keyParts": [
+                "v019_ESV_JOS_013",
+                127,
+                "p4",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 and Kiriathaim, and Sibmah, and Zereth-shahar on the hill of the valley,"
+            },
+            {
+              "rowId": 128,
+              "keyParts": [
+                128,
+                "p4",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 129,
+              "keyParts": [
+                129,
+                "p4",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "and"
+            },
+            {
+              "rowId": 130,
+              "keyParts": [
+                130,
+                "p4",
+                "verse",
+                "v20",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 4:46"
+            },
+            {
+              "rowId": 131,
+              "keyParts": [
+                131,
+                "p4",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "Beth-peor, and"
+            },
+            {
+              "rowId": 132,
+              "keyParts": [
+                132,
+                "p4",
+                "verse",
+                "v20",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.12:3"
+            },
+            {
+              "rowId": 133,
+              "keyParts": [
+                133,
+                "p4",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "the slopes of Pisgah, and"
+            },
+            {
+              "rowId": 134,
+              "keyParts": [
+                134,
+                "p4",
+                "verse",
+                "v20",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.12:3"
+            },
+            {
+              "rowId": 135,
+              "keyParts": [
+                135,
+                "p4",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "Beth-jeshimoth,"
+            },
+            {
+              "rowId": 136,
+              "keyParts": [
+                "v020_ESV_JOS_013",
+                136,
+                "p4",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 and Beth-peor, and the slopes of Pisgah, and Beth-jeshimoth,"
+            },
+            {
+              "rowId": 137,
+              "keyParts": [
+                137,
+                "p4",
+                "verse",
+                "v21",
+                "label"
+              ],
+              "value": "21"
+            },
+            {
+              "rowId": 138,
+              "keyParts": [
+                138,
+                "p4",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "that is,"
+            },
+            {
+              "rowId": 139,
+              "keyParts": [
+                139,
+                "p4",
+                "verse",
+                "v21",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 3:10"
+            },
+            {
+              "rowId": 140,
+              "keyParts": [
+                140,
+                "p4",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "all the cities of the tableland, and all the kingdom of Sihon king of the Amorites, who reigned in Heshbon,"
+            },
+            {
+              "rowId": 141,
+              "keyParts": [
+                141,
+                "p4",
+                "verse",
+                "v21",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 21:24"
+            },
+            {
+              "rowId": 142,
+              "keyParts": [
+                142,
+                "p4",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "whom Moses defeated with"
+            },
+            {
+              "rowId": 143,
+              "keyParts": [
+                143,
+                "p4",
+                "verse",
+                "v21",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 31:8"
+            },
+            {
+              "rowId": 144,
+              "keyParts": [
+                144,
+                "p4",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "the leaders of Midian, Evi and Rekem and Zur and Hur and Reba, the princes of Sihon, who lived in the land."
+            },
+            {
+              "rowId": 145,
+              "keyParts": [
+                "v021_ESV_JOS_013",
+                145,
+                "p4",
+                "verse",
+                "v21",
+                "plain_text"
+              ],
+              "value": "21 that is, all the cities of the tableland, and all the kingdom of Sihon king of the Amorites, who reigned in Heshbon, whom Moses defeated with the leaders of Midian, Evi and Rekem and Zur and Hur and Reba, the princes of Sihon, who lived in the land."
+            },
+            {
+              "rowId": 146,
+              "keyParts": [
+                146,
+                "p4",
+                "verse",
+                "v22",
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 147,
+              "keyParts": [
+                147,
+                "p4",
+                "verse",
+                "v22",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.21above]"
+            },
+            {
+              "rowId": 148,
+              "keyParts": [
+                148,
+                "p4",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "Balaam also, the son of Beor, the one who practiced divination, was killed with the sword by the people of Israel among the rest of their slain."
+            },
+            {
+              "rowId": 149,
+              "keyParts": [
+                "v022_ESV_JOS_013",
+                149,
+                "p4",
+                "verse",
+                "v22",
+                "plain_text"
+              ],
+              "value": "22 Balaam also, the son of Beor, the one who practiced divination, was killed with the sword by the people of Israel among the rest of their slain."
+            },
+            {
+              "rowId": 150,
+              "keyParts": [
+                150,
+                "p4",
+                "verse",
+                "v23",
+                "label"
+              ],
+              "value": "23"
+            },
+            {
+              "rowId": 151,
+              "keyParts": [
+                151,
+                "p4",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "And the border of the people of Reuben was the Jordan as a boundary. This was the inheritance of the people of Reuben, according to their clans with their cities and villages."
+            },
+            {
+              "rowId": 152,
+              "keyParts": [
+                "v023_ESV_JOS_013",
+                152,
+                "p4",
+                "verse",
+                "v23",
+                "plain_text"
+              ],
+              "value": "23 And the border of the people of Reuben was the Jordan as a boundary. This was the inheritance of the people of Reuben, according to their clans with their cities and villages."
+            },
+            {
+              "rowId": 153,
+              "keyParts": [
+                153,
+                "p5",
+                "verse",
+                "v24",
+                "label"
+              ],
+              "value": "24"
+            },
+            {
+              "rowId": 154,
+              "keyParts": [
+                154,
+                "p5",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "Moses gave an inheritance also to the tribe of Gad, to the people of Gad, according to their clans."
+            },
+            {
+              "rowId": 155,
+              "keyParts": [
+                "v024_ESV_JOS_013",
+                155,
+                "p5",
+                "verse",
+                "v24",
+                "plain_text"
+              ],
+              "value": "24 Moses gave an inheritance also to the tribe of Gad, to the people of Gad, according to their clans."
+            },
+            {
+              "rowId": 156,
+              "keyParts": [
+                156,
+                "p5",
+                "verse",
+                "v25",
+                "label"
+              ],
+              "value": "25"
+            },
+            {
+              "rowId": 157,
+              "keyParts": [
+                157,
+                "p5",
+                "verse",
+                "v25",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 32:34-36"
+            },
+            {
+              "rowId": 158,
+              "keyParts": [
+                158,
+                "p5",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "Their territory was Jazer, and all the cities of Gilead, and half the land of the Ammonites, to Aroer, which is east of"
+            },
+            {
+              "rowId": 159,
+              "keyParts": [
+                159,
+                "p5",
+                "verse",
+                "v25",
+                "note",
+                "x"
+              ],
+              "value": "#[Deut. 3:11;2 Sam. 11:1;12:26]"
+            },
+            {
+              "rowId": 160,
+              "keyParts": [
+                160,
+                "p5",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "Rabbah,"
+            },
+            {
+              "rowId": 161,
+              "keyParts": [
+                "v025_ESV_JOS_013",
+                161,
+                "p5",
+                "verse",
+                "v25",
+                "plain_text"
+              ],
+              "value": "25 Their territory was Jazer, and all the cities of Gilead, and half the land of the Ammonites, to Aroer, which is east of Rabbah,"
+            },
+            {
+              "rowId": 162,
+              "keyParts": [
+                162,
+                "p5",
+                "verse",
+                "v26",
+                "label"
+              ],
+              "value": "26"
+            },
+            {
+              "rowId": 163,
+              "keyParts": [
+                163,
+                "p5",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "and from Heshbon to Ramath-mizpeh and Betonim, and from"
+            },
+            {
+              "rowId": 164,
+              "keyParts": [
+                164,
+                "p5",
+                "verse",
+                "v26",
+                "note",
+                "x"
+              ],
+              "value": "#Gen. 32:2;2 Sam. 2:8,12;17:24"
+            },
+            {
+              "rowId": 165,
+              "keyParts": [
+                165,
+                "p5",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "Mahanaim to the territory of Debir,"
+            },
+            {
+              "rowId": 166,
+              "keyParts": [
+                166,
+                "p5",
+                "verse",
+                "v26",
+                "note",
+                "f"
+              ],
+              "value": "#13:26Septuagint, Syriac, Vulgate; HebrewLidebir"
+            },
+            {
+              "rowId": 167,
+              "keyParts": [
+                "v026_ESV_JOS_013",
+                167,
+                "p5",
+                "verse",
+                "v26",
+                "plain_text"
+              ],
+              "value": "26 and from Heshbon to Ramath-mizpeh and Betonim, and from Mahanaim to the territory of Debir,"
+            },
+            {
+              "rowId": 168,
+              "keyParts": [
+                168,
+                "p5",
+                "verse",
+                "v27",
+                "label"
+              ],
+              "value": "27"
+            },
+            {
+              "rowId": 169,
+              "keyParts": [
+                169,
+                "p5",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "and in the valley Beth-haram, Beth-nimrah,"
+            },
+            {
+              "rowId": 170,
+              "keyParts": [
+                170,
+                "p5",
+                "verse",
+                "v27",
+                "note",
+                "x"
+              ],
+              "value": "#Gen. 33:17"
+            },
+            {
+              "rowId": 171,
+              "keyParts": [
+                171,
+                "p5",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "Succoth, and Zaphon, the rest of the kingdom of Sihon king of Heshbon, having the Jordan as a boundary, to the lower end of the Sea of"
+            },
+            {
+              "rowId": 172,
+              "keyParts": [
+                172,
+                "p5",
+                "verse",
+                "v27",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.11:2"
+            },
+            {
+              "rowId": 173,
+              "keyParts": [
+                173,
+                "p5",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "Chinnereth, eastward beyond the Jordan."
+            },
+            {
+              "rowId": 174,
+              "keyParts": [
+                "v027_ESV_JOS_013",
+                174,
+                "p5",
+                "verse",
+                "v27",
+                "plain_text"
+              ],
+              "value": "27 and in the valley Beth-haram, Beth-nimrah, Succoth, and Zaphon, the rest of the kingdom of Sihon king of Heshbon, having the Jordan as a boundary, to the lower end of the Sea of Chinnereth, eastward beyond the Jordan."
+            },
+            {
+              "rowId": 175,
+              "keyParts": [
+                175,
+                "p5",
+                "verse",
+                "v28",
+                "label"
+              ],
+              "value": "28"
+            },
+            {
+              "rowId": 176,
+              "keyParts": [
+                176,
+                "p5",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "This is the inheritance of the people of Gad according to their clans, with their cities and villages."
+            },
+            {
+              "rowId": 177,
+              "keyParts": [
+                "v028_ESV_JOS_013",
+                177,
+                "p5",
+                "verse",
+                "v28",
+                "plain_text"
+              ],
+              "value": "28 This is the inheritance of the people of Gad according to their clans, with their cities and villages."
+            },
+            {
+              "rowId": 178,
+              "keyParts": [
+                178,
+                "p6",
+                "verse",
+                "v29",
+                "label"
+              ],
+              "value": "29"
+            },
+            {
+              "rowId": 179,
+              "keyParts": [
+                179,
+                "p6",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "And Moses gave an inheritance to the half-tribe of Manasseh. It was allotted to the half-tribe of the people of Manasseh according to their clans."
+            },
+            {
+              "rowId": 180,
+              "keyParts": [
+                "v029_ESV_JOS_013",
+                180,
+                "p6",
+                "verse",
+                "v29",
+                "plain_text"
+              ],
+              "value": "29 And Moses gave an inheritance to the half-tribe of Manasseh. It was allotted to the half-tribe of the people of Manasseh according to their clans."
+            },
+            {
+              "rowId": 181,
+              "keyParts": [
+                181,
+                "p6",
+                "verse",
+                "v30",
+                "label"
+              ],
+              "value": "30"
+            },
+            {
+              "rowId": 182,
+              "keyParts": [
+                182,
+                "p6",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "Their region extended from"
+            },
+            {
+              "rowId": 183,
+              "keyParts": [
+                183,
+                "p6",
+                "verse",
+                "v30",
+                "note",
+                "x"
+              ],
+              "value": "#Seever.26"
+            },
+            {
+              "rowId": 184,
+              "keyParts": [
+                184,
+                "p6",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "Mahanaim, through all Bashan, the whole kingdom of Og king of Bashan, and all"
+            },
+            {
+              "rowId": 185,
+              "keyParts": [
+                185,
+                "p6",
+                "verse",
+                "v30",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 32:41;1 Chr. 2:23;[Deut. 3:14]"
+            },
+            {
+              "rowId": 186,
+              "keyParts": [
+                186,
+                "p6",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "the towns of Jair, which are in Bashan, sixty cities,"
+            },
+            {
+              "rowId": 187,
+              "keyParts": [
+                "v030_ESV_JOS_013",
+                187,
+                "p6",
+                "verse",
+                "v30",
+                "plain_text"
+              ],
+              "value": "30 Their region extended from Mahanaim, through all Bashan, the whole kingdom of Og king of Bashan, and all the towns of Jair, which are in Bashan, sixty cities,"
+            },
+            {
+              "rowId": 188,
+              "keyParts": [
+                188,
+                "p6",
+                "verse",
+                "v31",
+                "label"
+              ],
+              "value": "31"
+            },
+            {
+              "rowId": 189,
+              "keyParts": [
+                189,
+                "p6",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "and half Gilead, and"
+            },
+            {
+              "rowId": 190,
+              "keyParts": [
+                190,
+                "p6",
+                "verse",
+                "v31",
+                "note",
+                "x"
+              ],
+              "value": "#ch.12:4"
+            },
+            {
+              "rowId": 191,
+              "keyParts": [
+                191,
+                "p6",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "Ashtaroth, and Edrei, the cities of the kingdom of Og in Bashan. These were allotted to the people of"
+            },
+            {
+              "rowId": 192,
+              "keyParts": [
+                192,
+                "p6",
+                "verse",
+                "v31",
+                "note",
+                "x"
+              ],
+              "value": "#ch.17:1;Num. 32:39,40"
+            },
+            {
+              "rowId": 193,
+              "keyParts": [
+                193,
+                "p6",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "Machir the son of Manasseh for the half of the people of Machir according to their clans."
+            },
+            {
+              "rowId": 194,
+              "keyParts": [
+                "v031_ESV_JOS_013",
+                194,
+                "p6",
+                "verse",
+                "v31",
+                "plain_text"
+              ],
+              "value": "31 and half Gilead, and Ashtaroth, and Edrei, the cities of the kingdom of Og in Bashan. These were allotted to the people of Machir the son of Manasseh for the half of the people of Machir according to their clans."
+            },
+            {
+              "rowId": 195,
+              "keyParts": [
+                195,
+                "p7",
+                "verse",
+                "v32",
+                "label"
+              ],
+              "value": "32"
+            },
+            {
+              "rowId": 196,
+              "keyParts": [
+                196,
+                "p7",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "These are the inheritances that Moses distributed"
+            },
+            {
+              "rowId": 197,
+              "keyParts": [
+                197,
+                "p7",
+                "verse",
+                "v32",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 22:1"
+            },
+            {
+              "rowId": 198,
+              "keyParts": [
+                198,
+                "p7",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "in the plains of Moab, beyond the Jordan east of Jericho."
+            },
+            {
+              "rowId": 199,
+              "keyParts": [
+                "v032_ESV_JOS_013",
+                199,
+                "p7",
+                "verse",
+                "v32",
+                "plain_text"
+              ],
+              "value": "32 These are the inheritances that Moses distributed in the plains of Moab, beyond the Jordan east of Jericho."
+            },
+            {
+              "rowId": 200,
+              "keyParts": [
+                200,
+                "p7",
+                "verse",
+                "v33",
+                "label"
+              ],
+              "value": "33"
+            },
+            {
+              "rowId": 201,
+              "keyParts": [
+                201,
+                "p7",
+                "verse",
+                "v33",
+                "note",
+                "x"
+              ],
+              "value": "#ver.14;ch.18:7;Num. 18:20"
+            },
+            {
+              "rowId": 202,
+              "keyParts": [
+                202,
+                "p7",
+                "verse",
+                "v33",
+                "content"
+              ],
+              "value": "But to the tribe of Levi Moses gave no inheritance; the"
+            },
+            {
+              "rowId": 203,
+              "keyParts": [
+                203,
+                "p7",
+                "verse",
+                "v33",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 204,
+              "keyParts": [
+                204,
+                "p7",
+                "verse",
+                "v33",
+                "content"
+              ],
+              "value": "God of Israel is their inheritance,"
+            },
+            {
+              "rowId": 205,
+              "keyParts": [
+                205,
+                "p7",
+                "verse",
+                "v33",
+                "note",
+                "x"
+              ],
+              "value": "#ver.14;ch.18:7;Num. 18:20"
+            },
+            {
+              "rowId": 206,
+              "keyParts": [
+                206,
+                "p7",
+                "verse",
+                "v33",
+                "content"
+              ],
+              "value": "just as he said to them."
+            },
+            {
+              "rowId": 207,
+              "keyParts": [
+                "v033_ESV_JOS_013",
+                207,
+                "p7",
+                "verse",
+                "v33",
+                "plain_text"
+              ],
+              "value": "33 But to the tribe of Levi Moses gave no inheritance; the Lord God of Israel is their inheritance, just as he said to them."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

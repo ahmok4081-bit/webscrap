@@ -1,0 +1,1586 @@
+{
+  "translationId": "ESV",
+  "name": "English Standard Version",
+  "abbreviation": "ESV",
+  "language": "English",
+  "copyright": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.",
+  "books": [
+    {
+      "bookId": "GEN",
+      "testament": "OT",
+      "order": 1,
+      "title": "Genesis",
+      "abbreviation": "GEN",
+      "chapters": [
+        {
+          "chapter": 11,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "The Tower of Babel"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "Now the whole earth had one language and the same words."
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                "v001_ESV_GEN_011",
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 Now the whole earth had one language and the same words."
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                7,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "And as people migrated from the east, they found a plain in"
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#ch.10:10;14:1,9;Isa. 11:11;Dan. 1:2;Zech. 5:11"
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                9,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "the land of Shinar and settled there."
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                "v002_ESV_GEN_011",
+                10,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 And as people migrated from the east, they found a plain in the land of Shinar and settled there."
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                11,
+                "p1",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                12,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "And they said to one another, “Come, let us make bricks, and burn them thoroughly.” And they had brick for stone,"
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                13,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#ch.14:10;Ex. 2:3"
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "and bitumen for mortar."
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                "v003_ESV_GEN_011",
+                15,
+                "p1",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 And they said to one another, “Come, let us make bricks, and burn them thoroughly.” And they had brick for stone, and bitumen for mortar."
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                16,
+                "p1",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                17,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "Then they said, “Come, let us build ourselves a city and a tower"
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 1:28"
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "with its top in the heavens, and let us make a name for ourselves, lest we be dispersed over the face of the whole earth.”"
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                "v004_ESV_GEN_011",
+                20,
+                "p1",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 Then they said, “Come, let us build ourselves a city and a tower with its top in the heavens, and let us make a name for ourselves, lest we be dispersed over the face of the whole earth.”"
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p1",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                22,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "And"
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "p1",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#ch.18:21"
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                24,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "the"
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "p1",
+                "verse",
+                "v5",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                26,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "came down to see the city and the tower, which the children of man had built."
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                "v005_ESV_GEN_011",
+                27,
+                "p1",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 And the Lord came down to see the city and the tower, which the children of man had built."
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                28,
+                "p1",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                29,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "And the"
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                30,
+                "p1",
+                "verse",
+                "v6",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                31,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "said, “Behold, they are one people, and they have all one language, and this is only the beginning of what they will do. And nothing that they propose to do will now be impossible for them."
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                "v006_ESV_GEN_011",
+                32,
+                "p1",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 And the Lord said, “Behold, they are one people, and they have all one language, and this is only the beginning of what they will do. And nothing that they propose to do will now be impossible for them."
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                33,
+                "p1",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                34,
+                "p1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "Come,"
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                35,
+                "p1",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#ch.1:26;[Ps. 2:4]"
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "p1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "let us go down and there confuse their language, so that they may not understand one another’s speech.”"
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                "v007_ESV_GEN_011",
+                37,
+                "p1",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 Come, let us go down and there confuse their language, so that they may not understand one another’s speech.”"
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                38,
+                "p1",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                39,
+                "p1",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "So"
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                40,
+                "p1",
+                "verse",
+                "v8",
+                "note",
+                "x"
+              ],
+              "value": "#ch.10:25,32;Luke 1:51"
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p1",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "the"
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "p1",
+                "verse",
+                "v8",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                43,
+                "p1",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "dispersed them from there over the face of all the earth, and they left off building the city."
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                "v008_ESV_GEN_011",
+                44,
+                "p1",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 So the Lord dispersed them from there over the face of all the earth, and they left off building the city."
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                45,
+                "p1",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                46,
+                "p1",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "Therefore its name was called"
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                47,
+                "p1",
+                "verse",
+                "v9",
+                "note",
+                "x"
+              ],
+              "value": "#ch.10:10"
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                48,
+                "p1",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "Babel, because there the"
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                49,
+                "p1",
+                "verse",
+                "v9",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "p1",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "confused"
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                51,
+                "p1",
+                "verse",
+                "v9",
+                "note",
+                "f"
+              ],
+              "value": "#11:9Babelsounds like the Hebrew forconfused"
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                52,
+                "p1",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "the language of all the earth. And from there the"
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                53,
+                "p1",
+                "verse",
+                "v9",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                54,
+                "p1",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "dispersed them over the face of all the earth."
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Shem’s Descendants"
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                "v009_ESV_GEN_011",
+                56,
+                "p1",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 Therefore its name was called Babel, because there the Lord confused the language of all the earth. And from there the Lord dispersed them over the face of all the earth."
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                57,
+                "p2",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                58,
+                "p2",
+                "verse",
+                "v10",
+                "note",
+                "x"
+              ],
+              "value": "#[ch.10:22]; For ver. 10-26, see 1 Chr. 1:17-27"
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                59,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "These are the generations of Shem. When Shem was 100 years old, he fathered Arpachshad two years after the flood."
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                "v010_ESV_GEN_011",
+                60,
+                "p2",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 These are the generations of Shem. When Shem was 100 years old, he fathered Arpachshad two years after the flood."
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                61,
+                "p2",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                62,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "And Shem lived after he fathered Arpachshad 500 years and had other sons and daughters."
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                "v011_ESV_GEN_011",
+                63,
+                "p2",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 And Shem lived after he fathered Arpachshad 500 years and had other sons and daughters."
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                64,
+                "p3",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                65,
+                "p3",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "When Arpachshad had lived 35 years, he fathered Shelah."
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                "v012_ESV_GEN_011",
+                66,
+                "p3",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 When Arpachshad had lived 35 years, he fathered Shelah."
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                67,
+                "p3",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                68,
+                "p3",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "And Arpachshad lived after he fathered Shelah 403 years and had other sons and daughters."
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                "v013_ESV_GEN_011",
+                69,
+                "p3",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 And Arpachshad lived after he fathered Shelah 403 years and had other sons and daughters."
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                70,
+                "p4",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                71,
+                "p4",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "When Shelah had lived 30 years, he fathered Eber."
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                "v014_ESV_GEN_011",
+                72,
+                "p4",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 When Shelah had lived 30 years, he fathered Eber."
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                73,
+                "p4",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                74,
+                "p4",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "And Shelah lived after he fathered Eber 403 years and had other sons and daughters."
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                "v015_ESV_GEN_011",
+                75,
+                "p4",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 And Shelah lived after he fathered Eber 403 years and had other sons and daughters."
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                76,
+                "p5",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                77,
+                "p5",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "When Eber had lived 34 years, he fathered Peleg."
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                "v016_ESV_GEN_011",
+                78,
+                "p5",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 When Eber had lived 34 years, he fathered Peleg."
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                79,
+                "p5",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                80,
+                "p5",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "And Eber lived after he fathered Peleg 430 years and had other sons and daughters."
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                "v017_ESV_GEN_011",
+                81,
+                "p5",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 And Eber lived after he fathered Peleg 430 years and had other sons and daughters."
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                82,
+                "p6",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                83,
+                "p6",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "When Peleg had lived 30 years, he fathered Reu."
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                "v018_ESV_GEN_011",
+                84,
+                "p6",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 When Peleg had lived 30 years, he fathered Reu."
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                85,
+                "p6",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                86,
+                "p6",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "And Peleg lived after he fathered Reu 209 years and had other sons and daughters."
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                "v019_ESV_GEN_011",
+                87,
+                "p6",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 And Peleg lived after he fathered Reu 209 years and had other sons and daughters."
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                88,
+                "p7",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                89,
+                "p7",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "When Reu had lived 32 years, he fathered Serug."
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                "v020_ESV_GEN_011",
+                90,
+                "p7",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 When Reu had lived 32 years, he fathered Serug."
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                91,
+                "p7",
+                "verse",
+                "v21",
+                "label"
+              ],
+              "value": "21"
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                92,
+                "p7",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "And Reu lived after he fathered Serug 207 years and had other sons and daughters."
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                "v021_ESV_GEN_011",
+                93,
+                "p7",
+                "verse",
+                "v21",
+                "plain_text"
+              ],
+              "value": "21 And Reu lived after he fathered Serug 207 years and had other sons and daughters."
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                94,
+                "p8",
+                "verse",
+                "v22",
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                95,
+                "p8",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "When Serug had lived 30 years, he fathered Nahor."
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                "v022_ESV_GEN_011",
+                96,
+                "p8",
+                "verse",
+                "v22",
+                "plain_text"
+              ],
+              "value": "22 When Serug had lived 30 years, he fathered Nahor."
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                97,
+                "p8",
+                "verse",
+                "v23",
+                "label"
+              ],
+              "value": "23"
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                98,
+                "p8",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "And Serug lived after he fathered Nahor 200 years and had other sons and daughters."
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                "v023_ESV_GEN_011",
+                99,
+                "p8",
+                "verse",
+                "v23",
+                "plain_text"
+              ],
+              "value": "23 And Serug lived after he fathered Nahor 200 years and had other sons and daughters."
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                100,
+                "p9",
+                "verse",
+                "v24",
+                "label"
+              ],
+              "value": "24"
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                101,
+                "p9",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "When"
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                102,
+                "p9",
+                "verse",
+                "v24",
+                "note",
+                "x"
+              ],
+              "value": "#Josh. 24:2"
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                103,
+                "p9",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "Nahor had lived 29 years, he fathered Terah."
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                "v024_ESV_GEN_011",
+                104,
+                "p9",
+                "verse",
+                "v24",
+                "plain_text"
+              ],
+              "value": "24 When Nahor had lived 29 years, he fathered Terah."
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                105,
+                "p9",
+                "verse",
+                "v25",
+                "label"
+              ],
+              "value": "25"
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                106,
+                "p9",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "And Nahor lived after he fathered Terah 119 years and had other sons and daughters."
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                "v025_ESV_GEN_011",
+                107,
+                "p9",
+                "verse",
+                "v25",
+                "plain_text"
+              ],
+              "value": "25 And Nahor lived after he fathered Terah 119 years and had other sons and daughters."
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                108,
+                "p10",
+                "verse",
+                "v26",
+                "label"
+              ],
+              "value": "26"
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                109,
+                "p10",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "When"
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                110,
+                "p10",
+                "verse",
+                "v26",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.24above]"
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                111,
+                "p10",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "Terah had lived 70 years, he fathered Abram, Nahor, and Haran."
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Terah’s Descendants"
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                "v026_ESV_GEN_011",
+                113,
+                "p10",
+                "verse",
+                "v26",
+                "plain_text"
+              ],
+              "value": "26 When Terah had lived 70 years, he fathered Abram, Nahor, and Haran."
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                114,
+                "p11",
+                "verse",
+                "v27",
+                "label"
+              ],
+              "value": "27"
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                115,
+                "p11",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "Now these are the generations of Terah. Terah fathered Abram, Nahor, and Haran; and Haran fathered Lot."
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                "v027_ESV_GEN_011",
+                116,
+                "p11",
+                "verse",
+                "v27",
+                "plain_text"
+              ],
+              "value": "27 Now these are the generations of Terah. Terah fathered Abram, Nahor, and Haran; and Haran fathered Lot."
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                117,
+                "p11",
+                "verse",
+                "v28",
+                "label"
+              ],
+              "value": "28"
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                118,
+                "p11",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "Haran died in the presence of his father Terah in the land of his kindred, in Ur of the Chaldeans."
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                "v028_ESV_GEN_011",
+                119,
+                "p11",
+                "verse",
+                "v28",
+                "plain_text"
+              ],
+              "value": "28 Haran died in the presence of his father Terah in the land of his kindred, in Ur of the Chaldeans."
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                120,
+                "p11",
+                "verse",
+                "v29",
+                "label"
+              ],
+              "value": "29"
+            },
+            {
+              "rowId": 121,
+              "keyParts": [
+                121,
+                "p11",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "And Abram and Nahor took wives. The name of Abram’s wife was"
+            },
+            {
+              "rowId": 122,
+              "keyParts": [
+                122,
+                "p11",
+                "verse",
+                "v29",
+                "note",
+                "x"
+              ],
+              "value": "#ch.17:15"
+            },
+            {
+              "rowId": 123,
+              "keyParts": [
+                123,
+                "p11",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "Sarai, and the name of Nahor’s wife,"
+            },
+            {
+              "rowId": 124,
+              "keyParts": [
+                124,
+                "p11",
+                "verse",
+                "v29",
+                "note",
+                "x"
+              ],
+              "value": "#ch.22:20"
+            },
+            {
+              "rowId": 125,
+              "keyParts": [
+                125,
+                "p11",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "Milcah, the daughter of Haran the father of Milcah and Iscah."
+            },
+            {
+              "rowId": 126,
+              "keyParts": [
+                "v029_ESV_GEN_011",
+                126,
+                "p11",
+                "verse",
+                "v29",
+                "plain_text"
+              ],
+              "value": "29 And Abram and Nahor took wives. The name of Abram’s wife was Sarai, and the name of Nahor’s wife, Milcah, the daughter of Haran the father of Milcah and Iscah."
+            },
+            {
+              "rowId": 127,
+              "keyParts": [
+                127,
+                "p11",
+                "verse",
+                "v30",
+                "label"
+              ],
+              "value": "30"
+            },
+            {
+              "rowId": 128,
+              "keyParts": [
+                128,
+                "p11",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "Now Sarai was barren; she had no child."
+            },
+            {
+              "rowId": 129,
+              "keyParts": [
+                "v030_ESV_GEN_011",
+                129,
+                "p11",
+                "verse",
+                "v30",
+                "plain_text"
+              ],
+              "value": "30 Now Sarai was barren; she had no child."
+            },
+            {
+              "rowId": 130,
+              "keyParts": [
+                130,
+                "p12",
+                "verse",
+                "v31",
+                "label"
+              ],
+              "value": "31"
+            },
+            {
+              "rowId": 131,
+              "keyParts": [
+                131,
+                "p12",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "Terah"
+            },
+            {
+              "rowId": 132,
+              "keyParts": [
+                132,
+                "p12",
+                "verse",
+                "v31",
+                "note",
+                "x"
+              ],
+              "value": "#ch.12:1"
+            },
+            {
+              "rowId": 133,
+              "keyParts": [
+                133,
+                "p12",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "took Abram his son and Lot the son of Haran, his grandson, and Sarai his daughter-in-law, his son Abram’s wife, and they went forth together"
+            },
+            {
+              "rowId": 134,
+              "keyParts": [
+                134,
+                "p12",
+                "verse",
+                "v31",
+                "note",
+                "x"
+              ],
+              "value": "#ch.15:7;Josh. 24:2;Neh. 9:7;Acts 7:2,4"
+            },
+            {
+              "rowId": 135,
+              "keyParts": [
+                135,
+                "p12",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "from Ur of the Chaldeans to go into the land of Canaan, but when they came to Haran, they settled there."
+            },
+            {
+              "rowId": 136,
+              "keyParts": [
+                "v031_ESV_GEN_011",
+                136,
+                "p12",
+                "verse",
+                "v31",
+                "plain_text"
+              ],
+              "value": "31 Terah took Abram his son and Lot the son of Haran, his grandson, and Sarai his daughter-in-law, his son Abram’s wife, and they went forth together from Ur of the Chaldeans to go into the land of Canaan, but when they came to Haran, they settled there."
+            },
+            {
+              "rowId": 137,
+              "keyParts": [
+                137,
+                "p12",
+                "verse",
+                "v32",
+                "label"
+              ],
+              "value": "32"
+            },
+            {
+              "rowId": 138,
+              "keyParts": [
+                138,
+                "p12",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "The days of Terah were 205 years, and Terah died in Haran."
+            },
+            {
+              "rowId": 139,
+              "keyParts": [
+                "v032_ESV_GEN_011",
+                139,
+                "p12",
+                "verse",
+                "v32",
+                "plain_text"
+              ],
+              "value": "32 The days of Terah were 205 years, and Terah died in Haran."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

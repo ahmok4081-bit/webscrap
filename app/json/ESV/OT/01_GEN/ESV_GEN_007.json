@@ -1,0 +1,1315 @@
+{
+  "translationId": "ESV",
+  "name": "English Standard Version",
+  "abbreviation": "ESV",
+  "language": "English",
+  "copyright": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.",
+  "books": [
+    {
+      "bookId": "GEN",
+      "testament": "OT",
+      "order": 1,
+      "title": "Genesis",
+      "abbreviation": "GEN",
+      "chapters": [
+        {
+          "chapter": 7,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                2,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "Then the"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "said to Noah,"
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#Matt. 24:38,39;Luke 17:26,27;Heb. 11:7;1 Pet. 3:20;2 Pet. 2:5"
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                7,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "“Go into the ark, you and all your household, for I have seen that"
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#ch.6:9"
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                9,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "you are righteous before me in this generation."
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                "v001_ESV_GEN_007",
+                10,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 Then the Lord said to Noah, “Go into the ark, you and all your household, for I have seen that you are righteous before me in this generation."
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                11,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                12,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "Take with you seven pairs of all"
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                13,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#ch.8:20;[Lev. 11]"
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "clean animals,"
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                15,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "f"
+              ],
+              "value": "#7:2Orseven of each kind of clean animal"
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                16,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "the male and his mate, and a pair of the animals that are not clean, the male and his mate,"
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                "v002_ESV_GEN_007",
+                17,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 Take with you seven pairs of all clean animals, the male and his mate, and a pair of the animals that are not clean, the male and his mate,"
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "p1",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "and seven pairs"
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                20,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "f"
+              ],
+              "value": "#7:3Orseven of each kind"
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "of the birds of the heavens also, male and female, to keep their offspring alive on the face of all the earth."
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                "v003_ESV_GEN_007",
+                22,
+                "p1",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 and seven pairs of the birds of the heavens also, male and female, to keep their offspring alive on the face of all the earth."
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "p1",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                24,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "For in seven days"
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#ver.12, 17;[Job 37:11-13]"
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                26,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "I will send rain on the earth forty days and forty nights,"
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                27,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#ch.6:17"
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                28,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "and every living thing"
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                29,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "f"
+              ],
+              "value": "#7:4Hebrewall existence; also verse 23"
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                30,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "that I have made I will blot out from the face of the ground.”"
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                "v004_ESV_GEN_007",
+                31,
+                "p1",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 For in seven days I will send rain on the earth forty days and forty nights, and every living thing that I have made I will blot out from the face of the ground.”"
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "p1",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                33,
+                "p1",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#ch.6:22"
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                34,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "And Noah did all that the"
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                35,
+                "p1",
+                "verse",
+                "v5",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "had commanded him."
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                "v005_ESV_GEN_007",
+                37,
+                "p1",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 And Noah did all that the Lord had commanded him."
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                38,
+                "p2",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                39,
+                "p2",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "Noah was six hundred years old when the flood of waters came upon the earth."
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                "v006_ESV_GEN_007",
+                40,
+                "p2",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 Noah was six hundred years old when the flood of waters came upon the earth."
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p2",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "And Noah and his sons and his wife and his sons’ wives with him went into the ark to escape the waters of the flood."
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                "v007_ESV_GEN_007",
+                43,
+                "p2",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 And Noah and his sons and his wife and his sons’ wives with him went into the ark to escape the waters of the flood."
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                44,
+                "p2",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                45,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "Of clean animals, and of animals that are not clean, and of birds, and of everything that creeps on the ground,"
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                "v008_ESV_GEN_007",
+                46,
+                "p2",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 Of clean animals, and of animals that are not clean, and of birds, and of everything that creeps on the ground,"
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                47,
+                "p2",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                48,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "two and two, male and female, went into the ark with Noah, as God had commanded Noah."
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                "v009_ESV_GEN_007",
+                49,
+                "p2",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 two and two, male and female, went into the ark with Noah, as God had commanded Noah."
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "p2",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                51,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "And after seven days the waters of the flood came upon the earth."
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                "v010_ESV_GEN_007",
+                52,
+                "p2",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 And after seven days the waters of the flood came upon the earth."
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                53,
+                "p3",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                54,
+                "p3",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "In the six hundredth year of Noah’s life, in the second month, on the seventeenth day of the month, on that day all the"
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                55,
+                "p3",
+                "verse",
+                "v11",
+                "note",
+                "x"
+              ],
+              "value": "#ch.8:2;Prov. 8:28;[Amos 9:6]"
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                56,
+                "p3",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "fountains of the great deep burst forth, and"
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                57,
+                "p3",
+                "verse",
+                "v11",
+                "note",
+                "x"
+              ],
+              "value": "#ch.8:2;2 Kgs. 7:19;Isa. 24:18;Mal. 3:10;[Ps. 78:23]"
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                58,
+                "p3",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "the windows of the heavens were opened."
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                "v011_ESV_GEN_007",
+                59,
+                "p3",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 In the six hundredth year of Noah’s life, in the second month, on the seventeenth day of the month, on that day all the fountains of the great deep burst forth, and the windows of the heavens were opened."
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                60,
+                "p3",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                61,
+                "p3",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "And rain fell upon the earth forty days and forty nights."
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                "v012_ESV_GEN_007",
+                62,
+                "p3",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 And rain fell upon the earth forty days and forty nights."
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                63,
+                "p3",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                64,
+                "p3",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "On the very same day Noah and his sons, Shem and Ham and Japheth, and Noah’s wife and the three wives of his sons with them entered the ark,"
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                "v013_ESV_GEN_007",
+                65,
+                "p3",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 On the very same day Noah and his sons, Shem and Ham and Japheth, and Noah’s wife and the three wives of his sons with them entered the ark,"
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                66,
+                "p3",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                67,
+                "p3",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "they and every beast, according to its kind, and all the livestock according to their kinds, and every creeping thing that creeps on the earth, according to its kind, and every bird, according to its kind, every winged creature."
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                "v014_ESV_GEN_007",
+                68,
+                "p3",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 they and every beast, according to its kind, and all the livestock according to their kinds, and every creeping thing that creeps on the earth, according to its kind, and every bird, according to its kind, every winged creature."
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                69,
+                "p3",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                70,
+                "p3",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "They"
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                71,
+                "p3",
+                "verse",
+                "v15",
+                "note",
+                "x"
+              ],
+              "value": "#ch.6:20"
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                72,
+                "p3",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "went into the ark with Noah, two and two of all flesh in which there was the breath of life."
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                "v015_ESV_GEN_007",
+                73,
+                "p3",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 They went into the ark with Noah, two and two of all flesh in which there was the breath of life."
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                74,
+                "p3",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                75,
+                "p3",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "And those that entered, male and female of all flesh, went in"
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                76,
+                "p3",
+                "verse",
+                "v16",
+                "note",
+                "x"
+              ],
+              "value": "#ver.2, 3"
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                77,
+                "p3",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "as God had commanded him. And the"
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                78,
+                "p3",
+                "verse",
+                "v16",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                79,
+                "p3",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "shut him in."
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                "v016_ESV_GEN_007",
+                80,
+                "p3",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 And those that entered, male and female of all flesh, went in as God had commanded him. And the Lord shut him in."
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                81,
+                "p4",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                82,
+                "p4",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "The flood"
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                83,
+                "p4",
+                "verse",
+                "v17",
+                "note",
+                "x"
+              ],
+              "value": "#ver.4, 12"
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                84,
+                "p4",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "continued forty days on the earth. The waters increased and bore up the ark, and it rose high above the earth."
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                "v017_ESV_GEN_007",
+                85,
+                "p4",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 The flood continued forty days on the earth. The waters increased and bore up the ark, and it rose high above the earth."
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                86,
+                "p4",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                87,
+                "p4",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "The waters prevailed and increased greatly on the earth, and the ark floated on the face of the waters."
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                "v018_ESV_GEN_007",
+                88,
+                "p4",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 The waters prevailed and increased greatly on the earth, and the ark floated on the face of the waters."
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                89,
+                "p4",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                90,
+                "p4",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "And the waters prevailed so mightily on the earth that all the high mountains under the whole heaven were covered."
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                "v019_ESV_GEN_007",
+                91,
+                "p4",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 And the waters prevailed so mightily on the earth that all the high mountains under the whole heaven were covered."
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                92,
+                "p4",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                93,
+                "p4",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "The waters prevailed above the mountains, covering them fifteen cubits"
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                94,
+                "p4",
+                "verse",
+                "v20",
+                "note",
+                "f"
+              ],
+              "value": "#7:20Acubitwas about 18 inches or 45 centimeters"
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                95,
+                "p4",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "deep."
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                "v020_ESV_GEN_007",
+                96,
+                "p4",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 The waters prevailed above the mountains, covering them fifteen cubits deep."
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                97,
+                "p4",
+                "verse",
+                "v21",
+                "label"
+              ],
+              "value": "21"
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                98,
+                "p4",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "And"
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                99,
+                "p4",
+                "verse",
+                "v21",
+                "note",
+                "x"
+              ],
+              "value": "#ver.4;ch.6:13,17;2 Pet. 3:6"
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                100,
+                "p4",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "all flesh died that moved on the earth, birds, livestock, beasts, all swarming creatures that swarm on the earth, and all mankind."
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                "v021_ESV_GEN_007",
+                101,
+                "p4",
+                "verse",
+                "v21",
+                "plain_text"
+              ],
+              "value": "21 And all flesh died that moved on the earth, birds, livestock, beasts, all swarming creatures that swarm on the earth, and all mankind."
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                102,
+                "p4",
+                "verse",
+                "v22",
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                103,
+                "p4",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "Everything on the dry land"
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                104,
+                "p4",
+                "verse",
+                "v22",
+                "note",
+                "x"
+              ],
+              "value": "#ch.2:7"
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                105,
+                "p4",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "in whose nostrils was the breath of life died."
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                "v022_ESV_GEN_007",
+                106,
+                "p4",
+                "verse",
+                "v22",
+                "plain_text"
+              ],
+              "value": "22 Everything on the dry land in whose nostrils was the breath of life died."
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                107,
+                "p4",
+                "verse",
+                "v23",
+                "label"
+              ],
+              "value": "23"
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                108,
+                "p4",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "He blotted out every living thing that was on the face of the ground, man and animals and creeping things and birds of the heavens. They were blotted out from the earth. Only"
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                109,
+                "p4",
+                "verse",
+                "v23",
+                "note",
+                "x"
+              ],
+              "value": "#2 Pet. 2:5"
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                110,
+                "p4",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "Noah was left, and those who were with him in the ark."
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                "v023_ESV_GEN_007",
+                111,
+                "p4",
+                "verse",
+                "v23",
+                "plain_text"
+              ],
+              "value": "23 He blotted out every living thing that was on the face of the ground, man and animals and creeping things and birds of the heavens. They were blotted out from the earth. Only Noah was left, and those who were with him in the ark."
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                112,
+                "p4",
+                "verse",
+                "v24",
+                "label"
+              ],
+              "value": "24"
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                113,
+                "p4",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "And the waters prevailed on the earth 150 days."
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                "v024_ESV_GEN_007",
+                114,
+                "p4",
+                "verse",
+                "v24",
+                "plain_text"
+              ],
+              "value": "24 And the waters prevailed on the earth 150 days."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

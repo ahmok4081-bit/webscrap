@@ -1,0 +1,1834 @@
+{
+  "translationId": "ESV",
+  "name": "English Standard Version",
+  "abbreviation": "ESV",
+  "language": "English",
+  "copyright": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.",
+  "books": [
+    {
+      "bookId": "EXO",
+      "testament": "OT",
+      "order": 2,
+      "title": "Exodus",
+      "abbreviation": "EXO",
+      "chapters": [
+        {
+          "chapter": 22,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                2,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "f"
+              ],
+              "value": "#22:1Ch 21:37 in Hebrew"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "“If a man steals an ox or a sheep, and kills it or sells it, he shall repay five oxen for an ox, and"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#2 Sam. 12:6;[Prov. 6:31;Luke 19:8]"
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "four sheep for a sheep."
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                "v001_ESV_EXO_022",
+                7,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 “If a man steals an ox or a sheep, and kills it or sells it, he shall repay five oxen for an ox, and four sheep for a sheep."
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                9,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "f"
+              ],
+              "value": "#22:2Ch 22:1 in Hebrew"
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "If a thief is found"
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                11,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#Matt. 24:43"
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                12,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "breaking in and is struck so that he dies, there shall be no bloodguilt for him,"
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                "v002_ESV_EXO_022",
+                13,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 If a thief is found breaking in and is struck so that he dies, there shall be no bloodguilt for him,"
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "p1",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                15,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "but if the sun has risen on him, there shall be bloodguilt for him. He"
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                16,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "f"
+              ],
+              "value": "#22:3That is, the thief"
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                17,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "shall surely pay. If he has nothing, then"
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#[ch.21:2]"
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "he shall be sold for his theft."
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                "v003_ESV_EXO_022",
+                20,
+                "p1",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 but if the sun has risen on him, there shall be bloodguilt for him. He shall surely pay. If he has nothing, then he shall be sold for his theft."
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p1",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                22,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "If the stolen beast"
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#ch.21:16"
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                24,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "is found alive in his possession, whether it is an ox or a donkey or a sheep,"
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#[ver.1]"
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                26,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "he shall pay double."
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                "v004_ESV_EXO_022",
+                27,
+                "p1",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 If the stolen beast is found alive in his possession, whether it is an ox or a donkey or a sheep, he shall pay double."
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                28,
+                "p2",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                29,
+                "p2",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "“If a man causes a field or vineyard to be grazed over, or lets his beast loose and it feeds in another man’s field, he shall make restitution from the best in his own field and in his own vineyard."
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                "v005_ESV_EXO_022",
+                30,
+                "p2",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 “If a man causes a field or vineyard to be grazed over, or lets his beast loose and it feeds in another man’s field, he shall make restitution from the best in his own field and in his own vineyard."
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                31,
+                "p3",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "p3",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "“If fire breaks out and catches in thorns so that the stacked grain or the standing grain or the field is consumed, he who started the fire shall make full restitution."
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                "v006_ESV_EXO_022",
+                33,
+                "p3",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 “If fire breaks out and catches in thorns so that the stacked grain or the standing grain or the field is consumed, he who started the fire shall make full restitution."
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                34,
+                "p4",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                35,
+                "p4",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "“If a man gives to his neighbor money or goods to keep safe, and it is stolen from the man’s house, then, if the thief is found,"
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "p4",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.4above]"
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                37,
+                "p4",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "he shall pay double."
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                "v007_ESV_EXO_022",
+                38,
+                "p4",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 “If a man gives to his neighbor money or goods to keep safe, and it is stolen from the man’s house, then, if the thief is found, he shall pay double."
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                39,
+                "p4",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                40,
+                "p4",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "If the thief is not found, the owner of the house shall come near to God to show whether or not he has put his hand to his neighbor’s property."
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                "v008_ESV_EXO_022",
+                41,
+                "p4",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 If the thief is not found, the owner of the house shall come near to God to show whether or not he has put his hand to his neighbor’s property."
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "p4",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                43,
+                "p4",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "For every breach of trust, whether it is for an ox, for a donkey, for a sheep, for a cloak, or for any kind of lost thing, of which one says, ‘This is it,’ the case of both parties shall come before God. The one whom God condemns shall pay double to his neighbor."
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                "v009_ESV_EXO_022",
+                44,
+                "p4",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 For every breach of trust, whether it is for an ox, for a donkey, for a sheep, for a cloak, or for any kind of lost thing, of which one says, ‘This is it,’ the case of both parties shall come before God. The one whom God condemns shall pay double to his neighbor."
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                45,
+                "p5",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                46,
+                "p5",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "“If a man gives to his neighbor a donkey or an ox or a sheep or any beast to keep safe, and it dies or is injured or is driven away, without anyone seeing it,"
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                "v010_ESV_EXO_022",
+                47,
+                "p5",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 “If a man gives to his neighbor a donkey or an ox or a sheep or any beast to keep safe, and it dies or is injured or is driven away, without anyone seeing it,"
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                48,
+                "p5",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                49,
+                "p5",
+                "verse",
+                "v11",
+                "note",
+                "x"
+              ],
+              "value": "#Heb. 6:16"
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "p5",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "an oath by the"
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                51,
+                "p5",
+                "verse",
+                "v11",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                52,
+                "p5",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "shall be between them both to see whether or not he has put his hand to his neighbor’s property. The owner shall accept the oath, and he shall not make restitution."
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                "v011_ESV_EXO_022",
+                53,
+                "p5",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 an oath by the Lord shall be between them both to see whether or not he has put his hand to his neighbor’s property. The owner shall accept the oath, and he shall not make restitution."
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                54,
+                "p5",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                55,
+                "p5",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "But if"
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                56,
+                "p5",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#Gen. 31:39"
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                57,
+                "p5",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "it is stolen from him, he shall make restitution to its owner."
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                "v012_ESV_EXO_022",
+                58,
+                "p5",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 But if it is stolen from him, he shall make restitution to its owner."
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                59,
+                "p5",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                60,
+                "p5",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "If it is torn by beasts, let him bring it as evidence. He shall not make restitution for what has been torn."
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                "v013_ESV_EXO_022",
+                61,
+                "p5",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 If it is torn by beasts, let him bring it as evidence. He shall not make restitution for what has been torn."
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                62,
+                "p6",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                63,
+                "p6",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "“If a man borrows anything of his neighbor, and it is injured or dies, the owner not being with it, he shall make full restitution."
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                "v014_ESV_EXO_022",
+                64,
+                "p6",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 “If a man borrows anything of his neighbor, and it is injured or dies, the owner not being with it, he shall make full restitution."
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                65,
+                "p6",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                66,
+                "p6",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "If the owner was with it, he shall not make restitution; if it was hired, it came for its hiring fee."
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                67,
+                "p6",
+                "verse",
+                "v15",
+                "note",
+                "f"
+              ],
+              "value": "#22:15Orit is reckoned in(Hebrewcomes into)its hiring fee"
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Laws for a Just Community"
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                "v015_ESV_EXO_022",
+                69,
+                "p6",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 If the owner was with it, he shall not make restitution; if it was hired, it came for its hiring fee."
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                70,
+                "p7",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                71,
+                "p7",
+                "verse",
+                "v16",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 22:28,29"
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                72,
+                "p7",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "“If a man seduces a virgin"
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                73,
+                "p7",
+                "verse",
+                "v16",
+                "note",
+                "f"
+              ],
+              "value": "#22:16Ora girl of marriageable age; also verse 17"
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                74,
+                "p7",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "who is not betrothed and lies with her, he shall give the bride-price"
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                75,
+                "p7",
+                "verse",
+                "v16",
+                "note",
+                "f"
+              ],
+              "value": "#22:16Orengagement present; also verse 17"
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                76,
+                "p7",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "for her and make her his wife."
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                "v016_ESV_EXO_022",
+                77,
+                "p7",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 “If a man seduces a virgin who is not betrothed and lies with her, he shall give the bride-price for her and make her his wife."
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                78,
+                "p7",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                79,
+                "p7",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "If her father utterly refuses to give her to him,"
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                80,
+                "p7",
+                "verse",
+                "v17",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.16above]"
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                81,
+                "p7",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "he shall pay money equal to the"
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                82,
+                "p7",
+                "verse",
+                "v17",
+                "note",
+                "x"
+              ],
+              "value": "#Gen. 34:12;1 Sam. 18:25"
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                83,
+                "p7",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "bride-price for virgins."
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                "v017_ESV_EXO_022",
+                84,
+                "p7",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 If her father utterly refuses to give her to him, he shall pay money equal to the bride-price for virgins."
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                85,
+                "p8",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                86,
+                "p8",
+                "verse",
+                "v18",
+                "note",
+                "x"
+              ],
+              "value": "#Lev. 19:26,31;20:27;Deut. 18:10,11;1 Sam. 28:3,9"
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                87,
+                "p8",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "“You shall not permit a sorceress to live."
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                "v018_ESV_EXO_022",
+                88,
+                "p8",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 “You shall not permit a sorceress to live."
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                89,
+                "p9",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                90,
+                "p9",
+                "verse",
+                "v19",
+                "note",
+                "x"
+              ],
+              "value": "#Lev. 18:23;20:15;Deut. 27:21"
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                91,
+                "p9",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "“Whoever lies with an animal shall be put to death."
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                "v019_ESV_EXO_022",
+                92,
+                "p9",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 “Whoever lies with an animal shall be put to death."
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                93,
+                "p10",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                94,
+                "p10",
+                "verse",
+                "v20",
+                "note",
+                "x"
+              ],
+              "value": "#[Num. 25:2,7,8;Josh. 23:16]; See Deut. 13:1-15; 17:2-5"
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                95,
+                "p10",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "“Whoever sacrifices to any god, other than the"
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                96,
+                "p10",
+                "verse",
+                "v20",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                97,
+                "p10",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "alone, shall be devoted to destruction."
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                98,
+                "p10",
+                "verse",
+                "v20",
+                "note",
+                "f"
+              ],
+              "value": "#22:20That is, set apart (devoted) as an offering to the Lord (for destruction)"
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                "v020_ESV_EXO_022",
+                99,
+                "p10",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 “Whoever sacrifices to any god, other than the Lord alone, shall be devoted to destruction."
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                100,
+                "p11",
+                "verse",
+                "v21",
+                "label"
+              ],
+              "value": "21"
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                101,
+                "p11",
+                "verse",
+                "v21",
+                "note",
+                "x"
+              ],
+              "value": "#ch.23:9;Lev. 19:33;Deut. 10:18,19;Jer. 7:6;Zech. 7:10;Mal. 3:5"
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                102,
+                "p11",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "“You shall not wrong a sojourner or oppress him, for you were sojourners in the land of Egypt."
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                "v021_ESV_EXO_022",
+                103,
+                "p11",
+                "verse",
+                "v21",
+                "plain_text"
+              ],
+              "value": "21 “You shall not wrong a sojourner or oppress him, for you were sojourners in the land of Egypt."
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                104,
+                "p11",
+                "verse",
+                "v22",
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                105,
+                "p11",
+                "verse",
+                "v22",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 24:17;27:19;Ps. 94:6;Isa. 1:17,23;10:2;Ezek. 22:7;Zech. 7:10;James 1:27"
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                106,
+                "p11",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "You shall not mistreat any widow or fatherless child."
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                "v022_ESV_EXO_022",
+                107,
+                "p11",
+                "verse",
+                "v22",
+                "plain_text"
+              ],
+              "value": "22 You shall not mistreat any widow or fatherless child."
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                108,
+                "p11",
+                "verse",
+                "v23",
+                "label"
+              ],
+              "value": "23"
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                109,
+                "p11",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "If you do mistreat them, and they"
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                110,
+                "p11",
+                "verse",
+                "v23",
+                "note",
+                "x"
+              ],
+              "value": "#Job 34:28;Luke 18:7"
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                111,
+                "p11",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "cry out to me, I will surely"
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                112,
+                "p11",
+                "verse",
+                "v23",
+                "note",
+                "x"
+              ],
+              "value": "#Ps. 18:6;145:19;[James 5:4]"
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                113,
+                "p11",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "hear their cry,"
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                "v023_ESV_EXO_022",
+                114,
+                "p11",
+                "verse",
+                "v23",
+                "plain_text"
+              ],
+              "value": "23 If you do mistreat them, and they cry out to me, I will surely hear their cry,"
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                115,
+                "p11",
+                "verse",
+                "v24",
+                "label"
+              ],
+              "value": "24"
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                116,
+                "p11",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "and my wrath will burn, and I will kill you with the sword, and"
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                117,
+                "p11",
+                "verse",
+                "v24",
+                "note",
+                "x"
+              ],
+              "value": "#Ps. 109:9;Lam. 5:3"
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                118,
+                "p11",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "your wives shall become widows and your children fatherless."
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                "v024_ESV_EXO_022",
+                119,
+                "p11",
+                "verse",
+                "v24",
+                "plain_text"
+              ],
+              "value": "24 and my wrath will burn, and I will kill you with the sword, and your wives shall become widows and your children fatherless."
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                120,
+                "p12",
+                "verse",
+                "v25",
+                "label"
+              ],
+              "value": "25"
+            },
+            {
+              "rowId": 121,
+              "keyParts": [
+                121,
+                "p12",
+                "verse",
+                "v25",
+                "note",
+                "x"
+              ],
+              "value": "#Lev. 25:35-37;Deut. 23:19,20;Neh. 5:7;Ps. 15:5;Prov. 28:8;Ezek. 18:8,13,17;22:12"
+            },
+            {
+              "rowId": 122,
+              "keyParts": [
+                122,
+                "p12",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "“If you lend money to any of my people with you who is poor, you shall not be like a moneylender to him, and you shall not exact interest from him."
+            },
+            {
+              "rowId": 123,
+              "keyParts": [
+                "v025_ESV_EXO_022",
+                123,
+                "p12",
+                "verse",
+                "v25",
+                "plain_text"
+              ],
+              "value": "25 “If you lend money to any of my people with you who is poor, you shall not be like a moneylender to him, and you shall not exact interest from him."
+            },
+            {
+              "rowId": 124,
+              "keyParts": [
+                124,
+                "p12",
+                "verse",
+                "v26",
+                "label"
+              ],
+              "value": "26"
+            },
+            {
+              "rowId": 125,
+              "keyParts": [
+                125,
+                "p12",
+                "verse",
+                "v26",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 24:13,17;Prov. 20:16;Ezek. 18:7,16;Amos 2:8;[Prov. 22:27]"
+            },
+            {
+              "rowId": 126,
+              "keyParts": [
+                126,
+                "p12",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "If ever you take your neighbor’s cloak in pledge, you shall return it to him before the sun goes down,"
+            },
+            {
+              "rowId": 127,
+              "keyParts": [
+                "v026_ESV_EXO_022",
+                127,
+                "p12",
+                "verse",
+                "v26",
+                "plain_text"
+              ],
+              "value": "26 If ever you take your neighbor’s cloak in pledge, you shall return it to him before the sun goes down,"
+            },
+            {
+              "rowId": 128,
+              "keyParts": [
+                128,
+                "p12",
+                "verse",
+                "v27",
+                "label"
+              ],
+              "value": "27"
+            },
+            {
+              "rowId": 129,
+              "keyParts": [
+                129,
+                "p12",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "for that is his only covering, and it is his cloak for his body; in what else shall he sleep? And if he"
+            },
+            {
+              "rowId": 130,
+              "keyParts": [
+                130,
+                "p12",
+                "verse",
+                "v27",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.23above]"
+            },
+            {
+              "rowId": 131,
+              "keyParts": [
+                131,
+                "p12",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "cries to me, I will hear, for I am"
+            },
+            {
+              "rowId": 132,
+              "keyParts": [
+                132,
+                "p12",
+                "verse",
+                "v27",
+                "note",
+                "x"
+              ],
+              "value": "#ch.34:6;2 Chr. 30:9;Neh. 9:17"
+            },
+            {
+              "rowId": 133,
+              "keyParts": [
+                133,
+                "p12",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "compassionate."
+            },
+            {
+              "rowId": 134,
+              "keyParts": [
+                "v027_ESV_EXO_022",
+                134,
+                "p12",
+                "verse",
+                "v27",
+                "plain_text"
+              ],
+              "value": "27 for that is his only covering, and it is his cloak for his body; in what else shall he sleep? And if he cries to me, I will hear, for I am compassionate."
+            },
+            {
+              "rowId": 135,
+              "keyParts": [
+                135,
+                "p13",
+                "verse",
+                "v28",
+                "label"
+              ],
+              "value": "28"
+            },
+            {
+              "rowId": 136,
+              "keyParts": [
+                136,
+                "p13",
+                "verse",
+                "v28",
+                "note",
+                "x"
+              ],
+              "value": "#CitedActs 23:5;[2 Sam. 19:21;Eccles. 10:20;Jude 8]"
+            },
+            {
+              "rowId": 137,
+              "keyParts": [
+                137,
+                "p13",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "“You shall not revile God, nor"
+            },
+            {
+              "rowId": 138,
+              "keyParts": [
+                138,
+                "p13",
+                "verse",
+                "v28",
+                "note",
+                "x"
+              ],
+              "value": "#CitedActs 23:5;[2 Sam. 19:21;Eccles. 10:20;Jude 8]"
+            },
+            {
+              "rowId": 139,
+              "keyParts": [
+                139,
+                "p13",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "curse a ruler of your people."
+            },
+            {
+              "rowId": 140,
+              "keyParts": [
+                "v028_ESV_EXO_022",
+                140,
+                "p13",
+                "verse",
+                "v28",
+                "plain_text"
+              ],
+              "value": "28 “You shall not revile God, nor curse a ruler of your people."
+            },
+            {
+              "rowId": 141,
+              "keyParts": [
+                141,
+                "p14",
+                "verse",
+                "v29",
+                "label"
+              ],
+              "value": "29"
+            },
+            {
+              "rowId": 142,
+              "keyParts": [
+                142,
+                "p14",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "“You shall not delay to offer from the fullness of your harvest and from the outflow of your presses."
+            },
+            {
+              "rowId": 143,
+              "keyParts": [
+                143,
+                "p14",
+                "verse",
+                "v29",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.13:2"
+            },
+            {
+              "rowId": 144,
+              "keyParts": [
+                144,
+                "p14",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "The firstborn of your sons you shall give to me."
+            },
+            {
+              "rowId": 145,
+              "keyParts": [
+                "v029_ESV_EXO_022",
+                145,
+                "p14",
+                "verse",
+                "v29",
+                "plain_text"
+              ],
+              "value": "29 “You shall not delay to offer from the fullness of your harvest and from the outflow of your presses. The firstborn of your sons you shall give to me."
+            },
+            {
+              "rowId": 146,
+              "keyParts": [
+                146,
+                "p14",
+                "verse",
+                "v30",
+                "label"
+              ],
+              "value": "30"
+            },
+            {
+              "rowId": 147,
+              "keyParts": [
+                147,
+                "p14",
+                "verse",
+                "v30",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 15:19"
+            },
+            {
+              "rowId": 148,
+              "keyParts": [
+                148,
+                "p14",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "You shall do the same with your oxen and with your sheep:"
+            },
+            {
+              "rowId": 149,
+              "keyParts": [
+                149,
+                "p14",
+                "verse",
+                "v30",
+                "note",
+                "x"
+              ],
+              "value": "#Lev. 22:27"
+            },
+            {
+              "rowId": 150,
+              "keyParts": [
+                150,
+                "p14",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "seven days it shall be with its mother; on the eighth day you shall give it to me."
+            },
+            {
+              "rowId": 151,
+              "keyParts": [
+                "v030_ESV_EXO_022",
+                151,
+                "p14",
+                "verse",
+                "v30",
+                "plain_text"
+              ],
+              "value": "30 You shall do the same with your oxen and with your sheep: seven days it shall be with its mother; on the eighth day you shall give it to me."
+            },
+            {
+              "rowId": 152,
+              "keyParts": [
+                152,
+                "p15",
+                "verse",
+                "v31",
+                "label"
+              ],
+              "value": "31"
+            },
+            {
+              "rowId": 153,
+              "keyParts": [
+                153,
+                "p15",
+                "verse",
+                "v31",
+                "note",
+                "x"
+              ],
+              "value": "#ch.19:6;Lev. 11:44,45"
+            },
+            {
+              "rowId": 154,
+              "keyParts": [
+                154,
+                "p15",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "“You shall be consecrated to me. Therefore"
+            },
+            {
+              "rowId": 155,
+              "keyParts": [
+                155,
+                "p15",
+                "verse",
+                "v31",
+                "note",
+                "x"
+              ],
+              "value": "#Lev. 22:8;Ezek. 4:14;44:31"
+            },
+            {
+              "rowId": 156,
+              "keyParts": [
+                156,
+                "p15",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "you shall not eat any flesh that is torn by beasts in the field;"
+            },
+            {
+              "rowId": 157,
+              "keyParts": [
+                157,
+                "p15",
+                "verse",
+                "v31",
+                "note",
+                "x"
+              ],
+              "value": "#[Matt. 7:6]"
+            },
+            {
+              "rowId": 158,
+              "keyParts": [
+                158,
+                "p15",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "you shall throw it to the dogs."
+            },
+            {
+              "rowId": 159,
+              "keyParts": [
+                "v031_ESV_EXO_022",
+                159,
+                "p15",
+                "verse",
+                "v31",
+                "plain_text"
+              ],
+              "value": "31 “You shall be consecrated to me. Therefore you shall not eat any flesh that is torn by beasts in the field; you shall throw it to the dogs."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1804 @@
+{
+  "translationId": "ESV",
+  "name": "English Standard Version",
+  "abbreviation": "ESV",
+  "language": "English",
+  "copyright": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.",
+  "books": [
+    {
+      "bookId": "EXO",
+      "testament": "OT",
+      "order": 2,
+      "title": "Exodus",
+      "abbreviation": "EXO",
+      "chapters": [
+        {
+          "chapter": 20,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "The Ten Commandments"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#For ver. 1-17, seeDeut. 5:6-21"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "And"
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 5:22"
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                7,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "God spoke all these words, saying,"
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                "v001_ESV_EXO_020",
+                8,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 And God spoke all these words, saying,"
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                9,
+                "p2",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "p2",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#Lev. 26:13;Ps. 81:10;Hos. 13:4"
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                11,
+                "p2",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "“I am the"
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                12,
+                "p2",
+                "verse",
+                "v2",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                13,
+                "p2",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "your God, who brought you out of the land of Egypt, out of the house of slavery."
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                "v002_ESV_EXO_020",
+                14,
+                "p2",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 “I am the Lord your God, who brought you out of the land of Egypt, out of the house of slavery."
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                15,
+                "p3",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                16,
+                "p3",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#2 Kgs. 17:35;Jer. 25:6;35:15"
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                17,
+                "p3",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "“You shall have no other gods before"
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "p3",
+                "verse",
+                "v3",
+                "note",
+                "f"
+              ],
+              "value": "#20:3Orbesides"
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p3",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "me."
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                "v003_ESV_EXO_020",
+                20,
+                "p3",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 “You shall have no other gods before me."
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p4",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                22,
+                "p4",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#Lev. 26:1;Deut. 27:15;Ps. 97:7;[Acts 17:29]"
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "p4",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "“You shall not make for yourself a carved image, or any likeness of anything that is in heaven above, or that is in the earth beneath, or that is in the water under the earth."
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                "v004_ESV_EXO_020",
+                24,
+                "p4",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 “You shall not make for yourself a carved image, or any likeness of anything that is in heaven above, or that is in the earth beneath, or that is in the water under the earth."
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "p4",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                26,
+                "p4",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#ch.23:24;Josh. 23:7"
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                27,
+                "p4",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "You shall not bow down to them or serve them, for I the"
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                28,
+                "p4",
+                "verse",
+                "v5",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                29,
+                "p4",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "your God am"
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                30,
+                "p4",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#ch.34:14;Deut. 4:24;6:15;Josh. 24:19;Nah. 1:2"
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                31,
+                "p4",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "a jealous God,"
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "p4",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#ch.34:7;Num. 14:18;[Ps. 79:8;109:14;Isa. 65:6,7;Jer. 32:18]"
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                33,
+                "p4",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "visiting the iniquity of the fathers on the children to the third and fourth generation of those who hate me,"
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                "v005_ESV_EXO_020",
+                34,
+                "p4",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 You shall not bow down to them or serve them, for I the Lord your God am a jealous God, visiting the iniquity of the fathers on the children to the third and fourth generation of those who hate me,"
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                35,
+                "p4",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "p4",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "but showing steadfast love to thousands"
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                37,
+                "p4",
+                "verse",
+                "v6",
+                "note",
+                "f"
+              ],
+              "value": "#20:6Orto the thousandth generation"
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                38,
+                "p4",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "of those who love me and keep my commandments."
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                "v006_ESV_EXO_020",
+                39,
+                "p4",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 but showing steadfast love to thousands of those who love me and keep my commandments."
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                40,
+                "p5",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p5",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#Lev. 19:12;[Matt. 5:34,35;James 5:12]"
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "p5",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "“You shall not take the name of the"
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                43,
+                "p5",
+                "verse",
+                "v7",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                44,
+                "p5",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "your God in vain, for the"
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                45,
+                "p5",
+                "verse",
+                "v7",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                46,
+                "p5",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "will not hold him guiltless who takes his name in vain."
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                "v007_ESV_EXO_020",
+                47,
+                "p5",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 “You shall not take the name of the Lord your God in vain, for the Lord will not hold him guiltless who takes his name in vain."
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                48,
+                "p6",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                49,
+                "p6",
+                "verse",
+                "v8",
+                "note",
+                "x"
+              ],
+              "value": "#Lev. 19:3,30;26:2;See ch.31:13-17"
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "p6",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "“Remember the Sabbath day, to keep it holy."
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                "v008_ESV_EXO_020",
+                51,
+                "p6",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 “Remember the Sabbath day, to keep it holy."
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                52,
+                "p6",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                53,
+                "p6",
+                "verse",
+                "v9",
+                "note",
+                "x"
+              ],
+              "value": "#ch.23:12;34:21;35:2;Lev. 23:3;Luke 13:14"
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                54,
+                "p6",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "Six days you shall labor, and do all your work,"
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                "v009_ESV_EXO_020",
+                55,
+                "p6",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 Six days you shall labor, and do all your work,"
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                56,
+                "p6",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                57,
+                "p6",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "but the"
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                58,
+                "p6",
+                "verse",
+                "v10",
+                "note",
+                "x"
+              ],
+              "value": "#ch.16:26;31:15;Gen. 2:2,3;Ezek. 20:12;SeeNum. 15:32-36"
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                59,
+                "p6",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "seventh day is a Sabbath to the"
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                60,
+                "p6",
+                "verse",
+                "v10",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                61,
+                "p6",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "your God. On it you shall not do any work, you, or your son, or your daughter, your male servant, or your female servant, or your livestock, or the"
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                62,
+                "p6",
+                "verse",
+                "v10",
+                "note",
+                "x"
+              ],
+              "value": "#SeeNeh. 13:16-19"
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                63,
+                "p6",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "sojourner who is within your gates."
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                "v010_ESV_EXO_020",
+                64,
+                "p6",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 but the seventh day is a Sabbath to the Lord your God. On it you shall not do any work, you, or your son, or your daughter, your male servant, or your female servant, or your livestock, or the sojourner who is within your gates."
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                65,
+                "p6",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                66,
+                "p6",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "For"
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                67,
+                "p6",
+                "verse",
+                "v11",
+                "note",
+                "x"
+              ],
+              "value": "#SeeGen. 1:1–2:3"
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                68,
+                "p6",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "in six days the"
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                69,
+                "p6",
+                "verse",
+                "v11",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                70,
+                "p6",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "made the heavens and the earth, the sea, and all that is in them, and rested on the seventh day. Therefore the"
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                71,
+                "p6",
+                "verse",
+                "v11",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                72,
+                "p6",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "blessed the Sabbath day and made it holy."
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                "v011_ESV_EXO_020",
+                73,
+                "p6",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 For in six days the Lord made the heavens and the earth, the sea, and all that is in them, and rested on the seventh day. Therefore the Lord blessed the Sabbath day and made it holy."
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                74,
+                "p7",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                75,
+                "p7",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#Lev. 19:3;CitedMatt. 15:4;19:19;Mark 7:10;10:19;Luke 18:20;Eph. 6:2;[Jer. 35:18,19]"
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                76,
+                "p7",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "“Honor your father and your mother,"
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                77,
+                "p7",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#Eph. 6:3"
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                78,
+                "p7",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "that your days may be long in the land that the"
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                79,
+                "p7",
+                "verse",
+                "v12",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                80,
+                "p7",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "your God is giving you."
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                "v012_ESV_EXO_020",
+                81,
+                "p7",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 “Honor your father and your mother, that your days may be long in the land that the Lord your God is giving you."
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                82,
+                "p8",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                83,
+                "p8",
+                "verse",
+                "v13",
+                "note",
+                "x"
+              ],
+              "value": "#CitedMatt. 5:21;19:18;Rom. 13:9;[Gen. 9:5,6;1 John 3:15]"
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                84,
+                "p8",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "“You shall not murder."
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                85,
+                "p8",
+                "verse",
+                "v13",
+                "note",
+                "f"
+              ],
+              "value": "#20:13The Hebrew word also covers causing human death through carelessness or negligence"
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                "v013_ESV_EXO_020",
+                86,
+                "p8",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 “You shall not murder."
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                87,
+                "p9",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                88,
+                "p9",
+                "verse",
+                "v14",
+                "note",
+                "x"
+              ],
+              "value": "#Lev. 18:20;Deut. 22:22;Prov. 6:32;1 Cor. 6:9;Heb. 13:4;CitedMatt. 5:27;Rom. 13:9"
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                89,
+                "p9",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "“You shall not commit adultery."
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                "v014_ESV_EXO_020",
+                90,
+                "p9",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 “You shall not commit adultery."
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                91,
+                "p10",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                92,
+                "p10",
+                "verse",
+                "v15",
+                "note",
+                "x"
+              ],
+              "value": "#Lev. 19:11;Eph. 4:28;CitedMatt. 19:18;Rom. 13:9"
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                93,
+                "p10",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "“You shall not steal."
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                "v015_ESV_EXO_020",
+                94,
+                "p10",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 “You shall not steal."
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                95,
+                "p11",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                96,
+                "p11",
+                "verse",
+                "v16",
+                "note",
+                "x"
+              ],
+              "value": "#ch.23:1;Prov. 19:5,9;21:28;24:28;25:18;CitedMatt. 19:18;SeeDeut. 19:16-20"
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                97,
+                "p11",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "“You shall not bear false witness against your neighbor."
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                "v016_ESV_EXO_020",
+                98,
+                "p11",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 “You shall not bear false witness against your neighbor."
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                99,
+                "p12",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                100,
+                "p12",
+                "verse",
+                "v17",
+                "note",
+                "x"
+              ],
+              "value": "#Luke 12:15;Eph. 5:3,5;CitedRom. 7:7;13:9;[Col. 3:5;Heb. 13:5]"
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                101,
+                "p12",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "“You shall not covet"
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                102,
+                "p12",
+                "verse",
+                "v17",
+                "note",
+                "x"
+              ],
+              "value": "#Mic. 2:2"
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                103,
+                "p12",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "your neighbor’s house;"
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                104,
+                "p12",
+                "verse",
+                "v17",
+                "note",
+                "x"
+              ],
+              "value": "#Jer. 5:8;Matt. 5:28"
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                105,
+                "p12",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "you shall not covet your neighbor’s wife, or his male servant, or his female servant, or his ox, or his donkey, or anything that is your neighbor’s.”"
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                "v017_ESV_EXO_020",
+                106,
+                "p12",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 “You shall not covet your neighbor’s house; you shall not covet your neighbor’s wife, or his male servant, or his female servant, or his ox, or his donkey, or anything that is your neighbor’s.”"
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                107,
+                "p13",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                108,
+                "p13",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "Now when all the people saw"
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                109,
+                "p13",
+                "verse",
+                "v18",
+                "note",
+                "x"
+              ],
+              "value": "#Heb. 12:18"
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                110,
+                "p13",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "the thunder and the flashes of lightning and the sound of the trumpet and the mountain smoking, the people were afraid"
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                111,
+                "p13",
+                "verse",
+                "v18",
+                "note",
+                "f"
+              ],
+              "value": "#20:18Samaritan, Septuagint, Syriac, Vulgate; Masoretic Textthe people saw"
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                112,
+                "p13",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "and trembled, and they stood far off"
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                "v018_ESV_EXO_020",
+                113,
+                "p13",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 Now when all the people saw the thunder and the flashes of lightning and the sound of the trumpet and the mountain smoking, the people were afraid and trembled, and they stood far off"
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                114,
+                "p13",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                115,
+                "p13",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "and said to Moses,"
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                116,
+                "p13",
+                "verse",
+                "v19",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 5:25,27;18:16;Gal. 3:19,20;Heb. 12:19"
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                117,
+                "p13",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "“You speak to us, and we will listen; but do not let God speak to us, lest we die.”"
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                "v019_ESV_EXO_020",
+                118,
+                "p13",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 and said to Moses, “You speak to us, and we will listen; but do not let God speak to us, lest we die.”"
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                119,
+                "p13",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                120,
+                "p13",
+                "verse",
+                "v20",
+                "note",
+                "x"
+              ],
+              "value": "#[1 Sam. 12:20]"
+            },
+            {
+              "rowId": 121,
+              "keyParts": [
+                121,
+                "p13",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "Moses said to the people, “Do not fear, for God has come to"
+            },
+            {
+              "rowId": 122,
+              "keyParts": [
+                122,
+                "p13",
+                "verse",
+                "v20",
+                "note",
+                "x"
+              ],
+              "value": "#[Gen. 22:1]; Deut. 13:3"
+            },
+            {
+              "rowId": 123,
+              "keyParts": [
+                123,
+                "p13",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "test you, that the fear of him may be before you, that you may not sin.”"
+            },
+            {
+              "rowId": 124,
+              "keyParts": [
+                "v020_ESV_EXO_020",
+                124,
+                "p13",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 Moses said to the people, “Do not fear, for God has come to test you, that the fear of him may be before you, that you may not sin.”"
+            },
+            {
+              "rowId": 125,
+              "keyParts": [
+                125,
+                "p13",
+                "verse",
+                "v21",
+                "label"
+              ],
+              "value": "21"
+            },
+            {
+              "rowId": 126,
+              "keyParts": [
+                126,
+                "p13",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "The people stood far off, while Moses drew near to the"
+            },
+            {
+              "rowId": 127,
+              "keyParts": [
+                127,
+                "p13",
+                "verse",
+                "v21",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 4:11;2 Sam. 22:10;1 Kgs. 8:12;Ps. 18:9;97:2"
+            },
+            {
+              "rowId": 128,
+              "keyParts": [
+                128,
+                "p13",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "thick darkness where God was."
+            },
+            {
+              "rowId": 129,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Laws About Altars"
+            },
+            {
+              "rowId": 130,
+              "keyParts": [
+                "v021_ESV_EXO_020",
+                130,
+                "p13",
+                "verse",
+                "v21",
+                "plain_text"
+              ],
+              "value": "21 The people stood far off, while Moses drew near to the thick darkness where God was."
+            },
+            {
+              "rowId": 131,
+              "keyParts": [
+                131,
+                "p14",
+                "verse",
+                "v22",
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 132,
+              "keyParts": [
+                132,
+                "p14",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "And the"
+            },
+            {
+              "rowId": 133,
+              "keyParts": [
+                133,
+                "p14",
+                "verse",
+                "v22",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 134,
+              "keyParts": [
+                134,
+                "p14",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "said to Moses, “Thus you shall say to the people of Israel: ‘You have seen for yourselves that I have"
+            },
+            {
+              "rowId": 135,
+              "keyParts": [
+                135,
+                "p14",
+                "verse",
+                "v22",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 4:36;Neh. 9:13;Heb. 12:25"
+            },
+            {
+              "rowId": 136,
+              "keyParts": [
+                136,
+                "p14",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "talked with you from heaven."
+            },
+            {
+              "rowId": 137,
+              "keyParts": [
+                "v022_ESV_EXO_020",
+                137,
+                "p14",
+                "verse",
+                "v22",
+                "plain_text"
+              ],
+              "value": "22 And the Lord said to Moses, “Thus you shall say to the people of Israel: ‘You have seen for yourselves that I have talked with you from heaven."
+            },
+            {
+              "rowId": 138,
+              "keyParts": [
+                138,
+                "p14",
+                "verse",
+                "v23",
+                "label"
+              ],
+              "value": "23"
+            },
+            {
+              "rowId": 139,
+              "keyParts": [
+                139,
+                "p14",
+                "verse",
+                "v23",
+                "note",
+                "x"
+              ],
+              "value": "#[ch.32:31;2 Kgs. 17:33;Ezek. 20:39;Zeph. 1:5]"
+            },
+            {
+              "rowId": 140,
+              "keyParts": [
+                140,
+                "p14",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "You shall not make gods of silver to be with me, nor shall you make for yourselves gods of gold."
+            },
+            {
+              "rowId": 141,
+              "keyParts": [
+                "v023_ESV_EXO_020",
+                141,
+                "p14",
+                "verse",
+                "v23",
+                "plain_text"
+              ],
+              "value": "23 You shall not make gods of silver to be with me, nor shall you make for yourselves gods of gold."
+            },
+            {
+              "rowId": 142,
+              "keyParts": [
+                142,
+                "p14",
+                "verse",
+                "v24",
+                "label"
+              ],
+              "value": "24"
+            },
+            {
+              "rowId": 143,
+              "keyParts": [
+                143,
+                "p14",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "An altar of earth you shall make for me and sacrifice on it your burnt offerings and your peace offerings, your sheep and your oxen."
+            },
+            {
+              "rowId": 144,
+              "keyParts": [
+                144,
+                "p14",
+                "verse",
+                "v24",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 12:5,11;14:23;16:6,11;26:2;1 Kgs. 8:29;9:3;2 Chr. 6:6;7:16;12:13;Ezra 6:12;Neh. 1:9;Ps. 74:7;Jer. 7:10,12"
+            },
+            {
+              "rowId": 145,
+              "keyParts": [
+                145,
+                "p14",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "In every place where I cause my name to be remembered I will come to you and"
+            },
+            {
+              "rowId": 146,
+              "keyParts": [
+                146,
+                "p14",
+                "verse",
+                "v24",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 7:13"
+            },
+            {
+              "rowId": 147,
+              "keyParts": [
+                147,
+                "p14",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "bless you."
+            },
+            {
+              "rowId": 148,
+              "keyParts": [
+                "v024_ESV_EXO_020",
+                148,
+                "p14",
+                "verse",
+                "v24",
+                "plain_text"
+              ],
+              "value": "24 An altar of earth you shall make for me and sacrifice on it your burnt offerings and your peace offerings, your sheep and your oxen. In every place where I cause my name to be remembered I will come to you and bless you."
+            },
+            {
+              "rowId": 149,
+              "keyParts": [
+                149,
+                "p14",
+                "verse",
+                "v25",
+                "label"
+              ],
+              "value": "25"
+            },
+            {
+              "rowId": 150,
+              "keyParts": [
+                150,
+                "p14",
+                "verse",
+                "v25",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 27:5;Josh. 8:31"
+            },
+            {
+              "rowId": 151,
+              "keyParts": [
+                151,
+                "p14",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "If you make me an altar of stone,"
+            },
+            {
+              "rowId": 152,
+              "keyParts": [
+                152,
+                "p14",
+                "verse",
+                "v25",
+                "note",
+                "x"
+              ],
+              "value": "#[1 Kgs. 5:17;1 Chr. 22:2]"
+            },
+            {
+              "rowId": 153,
+              "keyParts": [
+                153,
+                "p14",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "you shall not build it of hewn stones, for if you wield your tool on it you profane it."
+            },
+            {
+              "rowId": 154,
+              "keyParts": [
+                "v025_ESV_EXO_020",
+                154,
+                "p14",
+                "verse",
+                "v25",
+                "plain_text"
+              ],
+              "value": "25 If you make me an altar of stone, you shall not build it of hewn stones, for if you wield your tool on it you profane it."
+            },
+            {
+              "rowId": 155,
+              "keyParts": [
+                155,
+                "p14",
+                "verse",
+                "v26",
+                "label"
+              ],
+              "value": "26"
+            },
+            {
+              "rowId": 156,
+              "keyParts": [
+                156,
+                "p14",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "And you shall not go up by steps to my altar, that your nakedness be not exposed on it.’"
+            },
+            {
+              "rowId": 157,
+              "keyParts": [
+                "v026_ESV_EXO_020",
+                157,
+                "p14",
+                "verse",
+                "v26",
+                "plain_text"
+              ],
+              "value": "26 And you shall not go up by steps to my altar, that your nakedness be not exposed on it.’"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3024 @@
+{
+  "translationId": "ESV",
+  "name": "English Standard Version",
+  "abbreviation": "ESV",
+  "language": "English",
+  "copyright": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.",
+  "books": [
+    {
+      "bookId": "JOS",
+      "testament": "OT",
+      "order": 6,
+      "title": "Joshua",
+      "abbreviation": "JOS",
+      "chapters": [
+        {
+          "chapter": 24,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "24"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "The Covenant Renewal at Shechem"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "Joshua gathered all the tribes of Israel"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#ver.25, 32"
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "to Shechem and"
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                7,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.23:2"
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "summoned the elders, the heads, the judges, and the officers of Israel. And"
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                9,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#1 Sam. 10:19"
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "they presented themselves before God."
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                "v001_ESV_JOS_024",
+                11,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 Joshua gathered all the tribes of Israel to Shechem and summoned the elders, the heads, the judges, and the officers of Israel. And they presented themselves before God."
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                12,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                13,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "And Joshua said to all the people, “Thus says the"
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "p1",
+                "verse",
+                "v2",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                15,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": ", the God of Israel, ‘Long ago,"
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                16,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#SeeGen. 11:27-32"
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                17,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "your fathers lived beyond the Euphrates,"
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "f"
+              ],
+              "value": "#24:2Hebrewthe River"
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "Terah, the father of Abraham and of Nahor; and"
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                20,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#[Gen. 31:30;35:2]"
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "they served other gods."
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                "v002_ESV_JOS_024",
+                22,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 And Joshua said to all the people, “Thus says the Lord , the God of Israel, ‘Long ago, your fathers lived beyond the Euphrates, Terah, the father of Abraham and of Nahor; and they served other gods."
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "p1",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                24,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#SeeGen. 12:1-5;Acts 7:2-4"
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "Then I took your father Abraham from beyond the River"
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                26,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "f"
+              ],
+              "value": "#24:3That is, the Euphrates; also verses 14, 15"
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                27,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "and"
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                28,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#Gen. 12:6"
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                29,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "led him through all the land of Canaan, and made his offspring many."
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                30,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#Gen. 21:2,3"
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                31,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "I gave him Isaac."
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                "v003_ESV_JOS_024",
+                32,
+                "p1",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 Then I took your father Abraham from beyond the River and led him through all the land of Canaan, and made his offspring many. I gave him Isaac."
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                33,
+                "p1",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                34,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "And to Isaac I gave"
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                35,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#Gen. 25:24-26"
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "Jacob and Esau."
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                37,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#Gen. 36:8;Deut. 2:5"
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                38,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "And I gave Esau the hill country of Seir to possess,"
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                39,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#Gen. 46:1,6;Acts 7:15"
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                40,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "but Jacob and his children went down to Egypt."
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                "v004_ESV_JOS_024",
+                41,
+                "p1",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 And to Isaac I gave Jacob and Esau. And I gave Esau the hill country of Seir to possess, but Jacob and his children went down to Egypt."
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "p1",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                43,
+                "p1",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 3:10;4:14"
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                44,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "And I sent Moses and Aaron,"
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                45,
+                "p1",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#SeeEx. 7–12"
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                46,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "and I plagued Egypt with what I did in the midst of it, and"
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                47,
+                "p1",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 12:37,51"
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                48,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "afterward I brought you out."
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                "v005_ESV_JOS_024",
+                49,
+                "p1",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 And I sent Moses and Aaron, and I plagued Egypt with what I did in the midst of it, and afterward I brought you out."
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "p2",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                51,
+                "p2",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "“‘Then"
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                52,
+                "p2",
+                "verse",
+                "v6",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.5above]"
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                53,
+                "p2",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "I brought your fathers out of Egypt, and"
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                54,
+                "p2",
+                "verse",
+                "v6",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 14:2"
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                55,
+                "p2",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "you came to the sea."
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                56,
+                "p2",
+                "verse",
+                "v6",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 14:9"
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                57,
+                "p2",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "And the Egyptians pursued your fathers with chariots and horsemen to the Red Sea."
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                "v006_ESV_JOS_024",
+                58,
+                "p2",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 “‘Then I brought your fathers out of Egypt, and you came to the sea. And the Egyptians pursued your fathers with chariots and horsemen to the Red Sea."
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                59,
+                "p2",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                60,
+                "p2",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 14:10"
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                61,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "And when they cried to the"
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                62,
+                "p2",
+                "verse",
+                "v7",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                63,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": ","
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                64,
+                "p2",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 14:20"
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                65,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "he put darkness between you and the Egyptians"
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                66,
+                "p2",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 14:27,28"
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                67,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "and made the sea come upon them and cover them;"
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                68,
+                "p2",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 4:34;29:2"
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                69,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "and your eyes saw what I did in Egypt."
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                70,
+                "p2",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.5:6"
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                71,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "And you lived in the wilderness a long time."
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                "v007_ESV_JOS_024",
+                72,
+                "p2",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 And when they cried to the Lord , he put darkness between you and the Egyptians and made the sea come upon them and cover them; and your eyes saw what I did in Egypt. And you lived in the wilderness a long time."
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                73,
+                "p2",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                74,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "Then I brought you to the land of the Amorites, who lived on the other side of the Jordan."
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                75,
+                "p2",
+                "verse",
+                "v8",
+                "note",
+                "x"
+              ],
+              "value": "#SeeNum. 21:21-35"
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                76,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "They fought with you, and I gave them into your hand, and you took possession of their land, and I destroyed them before you."
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                "v008_ESV_JOS_024",
+                77,
+                "p2",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 Then I brought you to the land of the Amorites, who lived on the other side of the Jordan. They fought with you, and I gave them into your hand, and you took possession of their land, and I destroyed them before you."
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                78,
+                "p2",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                79,
+                "p2",
+                "verse",
+                "v9",
+                "note",
+                "x"
+              ],
+              "value": "#[Judg. 11:25]"
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                80,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "Then Balak the son of Zippor, king of Moab, arose and fought against Israel."
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                81,
+                "p2",
+                "verse",
+                "v9",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 22:5;Deut. 23:4"
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                82,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "And he sent and invited Balaam the son of Beor to curse you,"
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                "v009_ESV_JOS_024",
+                83,
+                "p2",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 Then Balak the son of Zippor, king of Moab, arose and fought against Israel. And he sent and invited Balaam the son of Beor to curse you,"
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                84,
+                "p2",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                85,
+                "p2",
+                "verse",
+                "v10",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 23:11,20;24:1,10"
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                86,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "but I would not listen to Balaam."
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                87,
+                "p2",
+                "verse",
+                "v10",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 23:11,20;24:1,10"
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                88,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "Indeed, he blessed you. So I delivered you out of his hand."
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                "v010_ESV_JOS_024",
+                89,
+                "p2",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 but I would not listen to Balaam. Indeed, he blessed you. So I delivered you out of his hand."
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                90,
+                "p2",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                91,
+                "p2",
+                "verse",
+                "v11",
+                "note",
+                "x"
+              ],
+              "value": "#ch.3:14,17;4:10-13"
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                92,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "And you went over the Jordan and came to Jericho,"
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                93,
+                "p2",
+                "verse",
+                "v11",
+                "note",
+                "x"
+              ],
+              "value": "#ch.6:1;See ch.10:1-3;11:1-3"
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                94,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "and the leaders of Jericho fought against you, and also"
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                95,
+                "p2",
+                "verse",
+                "v11",
+                "note",
+                "x"
+              ],
+              "value": "#ch.6:1;See ch.10:1-3;11:1-3"
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                96,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "the Amorites, the Perizzites, the Canaanites, the Hittites, the Girgashites, the Hivites, and the Jebusites. And I gave them into your hand."
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                "v011_ESV_JOS_024",
+                97,
+                "p2",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 And you went over the Jordan and came to Jericho, and the leaders of Jericho fought against you, and also the Amorites, the Perizzites, the Canaanites, the Hittites, the Girgashites, the Hivites, and the Jebusites. And I gave them into your hand."
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                98,
+                "p2",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                99,
+                "p2",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "And I sent"
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                100,
+                "p2",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 23:28;Deut. 7:20"
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                101,
+                "p2",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "the hornet before you, which drove them out before you, the two kings of the Amorites; it was"
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                102,
+                "p2",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#Ps. 44:3"
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                103,
+                "p2",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "not by your sword or by your bow."
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                "v012_ESV_JOS_024",
+                104,
+                "p2",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 And I sent the hornet before you, which drove them out before you, the two kings of the Amorites; it was not by your sword or by your bow."
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                105,
+                "p2",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                106,
+                "p2",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "I gave you a land on which you had not labored"
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                107,
+                "p2",
+                "verse",
+                "v13",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 6:10,11;[ch.11:13]"
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                108,
+                "p2",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "and cities that you had not built, and you dwell in them. You eat the fruit of vineyards and olive orchards that you did not plant.’"
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Choose Whom You Will Serve"
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                "v013_ESV_JOS_024",
+                110,
+                "p2",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 I gave you a land on which you had not labored and cities that you had not built, and you dwell in them. You eat the fruit of vineyards and olive orchards that you did not plant.’"
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                111,
+                "p3",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                112,
+                "p3",
+                "verse",
+                "v14",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 10:12;1 Sam. 12:24"
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                113,
+                "p3",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "“Now therefore fear the"
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                114,
+                "p3",
+                "verse",
+                "v14",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                115,
+                "p3",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "and serve him in sincerity and in faithfulness."
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                116,
+                "p3",
+                "verse",
+                "v14",
+                "note",
+                "x"
+              ],
+              "value": "#ver.2, 23"
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                117,
+                "p3",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "Put away the gods that your fathers served beyond the River and in Egypt, and serve the"
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                118,
+                "p3",
+                "verse",
+                "v14",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                119,
+                "p3",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "."
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                "v014_ESV_JOS_024",
+                120,
+                "p3",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 “Now therefore fear the Lord and serve him in sincerity and in faithfulness. Put away the gods that your fathers served beyond the River and in Egypt, and serve the Lord ."
+            },
+            {
+              "rowId": 121,
+              "keyParts": [
+                121,
+                "p3",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 122,
+              "keyParts": [
+                122,
+                "p3",
+                "verse",
+                "v15",
+                "note",
+                "x"
+              ],
+              "value": "#1 Kgs. 18:21;Ezek. 20:39"
+            },
+            {
+              "rowId": 123,
+              "keyParts": [
+                123,
+                "p3",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "And if it is evil in your eyes to serve the"
+            },
+            {
+              "rowId": 124,
+              "keyParts": [
+                124,
+                "p3",
+                "verse",
+                "v15",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 125,
+              "keyParts": [
+                125,
+                "p3",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": ","
+            },
+            {
+              "rowId": 126,
+              "keyParts": [
+                126,
+                "p3",
+                "verse",
+                "v15",
+                "note",
+                "x"
+              ],
+              "value": "#ver.22"
+            },
+            {
+              "rowId": 127,
+              "keyParts": [
+                127,
+                "p3",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "choose this day whom you will serve, whether"
+            },
+            {
+              "rowId": 128,
+              "keyParts": [
+                128,
+                "p3",
+                "verse",
+                "v15",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.14above]"
+            },
+            {
+              "rowId": 129,
+              "keyParts": [
+                129,
+                "p3",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "the gods your fathers served in the region beyond the River, or"
+            },
+            {
+              "rowId": 130,
+              "keyParts": [
+                130,
+                "p3",
+                "verse",
+                "v15",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 23:24,32,33;34:15;Deut. 13:7;29:18;Judg. 6:10"
+            },
+            {
+              "rowId": 131,
+              "keyParts": [
+                131,
+                "p3",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "the gods of the Amorites in whose land you dwell."
+            },
+            {
+              "rowId": 132,
+              "keyParts": [
+                132,
+                "p3",
+                "verse",
+                "v15",
+                "note",
+                "x"
+              ],
+              "value": "#Gen. 18:19"
+            },
+            {
+              "rowId": 133,
+              "keyParts": [
+                133,
+                "p3",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "But as for me and my house, we will serve the"
+            },
+            {
+              "rowId": 134,
+              "keyParts": [
+                134,
+                "p3",
+                "verse",
+                "v15",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 135,
+              "keyParts": [
+                135,
+                "p3",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": ".”"
+            },
+            {
+              "rowId": 136,
+              "keyParts": [
+                "v015_ESV_JOS_024",
+                136,
+                "p3",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 And if it is evil in your eyes to serve the Lord , choose this day whom you will serve, whether the gods your fathers served in the region beyond the River, or the gods of the Amorites in whose land you dwell. But as for me and my house, we will serve the Lord .”"
+            },
+            {
+              "rowId": 137,
+              "keyParts": [
+                137,
+                "p4",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 138,
+              "keyParts": [
+                138,
+                "p4",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "Then the people answered, “Far be it from us that we should forsake the"
+            },
+            {
+              "rowId": 139,
+              "keyParts": [
+                139,
+                "p4",
+                "verse",
+                "v16",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 140,
+              "keyParts": [
+                140,
+                "p4",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "to serve other gods,"
+            },
+            {
+              "rowId": 141,
+              "keyParts": [
+                "v016_ESV_JOS_024",
+                141,
+                "p4",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 Then the people answered, “Far be it from us that we should forsake the Lord to serve other gods,"
+            },
+            {
+              "rowId": 142,
+              "keyParts": [
+                142,
+                "p4",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 143,
+              "keyParts": [
+                143,
+                "p4",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "for it is the"
+            },
+            {
+              "rowId": 144,
+              "keyParts": [
+                144,
+                "p4",
+                "verse",
+                "v17",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 145,
+              "keyParts": [
+                145,
+                "p4",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "our God who brought us and our fathers up from the land of Egypt, out of the house of slavery, and who did those great signs in our sight and preserved us in all the way that we went, and among all the peoples through whom we passed."
+            },
+            {
+              "rowId": 146,
+              "keyParts": [
+                "v017_ESV_JOS_024",
+                146,
+                "p4",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 for it is the Lord our God who brought us and our fathers up from the land of Egypt, out of the house of slavery, and who did those great signs in our sight and preserved us in all the way that we went, and among all the peoples through whom we passed."
+            },
+            {
+              "rowId": 147,
+              "keyParts": [
+                147,
+                "p4",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 148,
+              "keyParts": [
+                148,
+                "p4",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "And the"
+            },
+            {
+              "rowId": 149,
+              "keyParts": [
+                149,
+                "p4",
+                "verse",
+                "v18",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 150,
+              "keyParts": [
+                150,
+                "p4",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "drove out before us all the peoples, the Amorites who lived in the land. Therefore we also will serve the"
+            },
+            {
+              "rowId": 151,
+              "keyParts": [
+                151,
+                "p4",
+                "verse",
+                "v18",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 152,
+              "keyParts": [
+                152,
+                "p4",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": ", for he is our God.”"
+            },
+            {
+              "rowId": 153,
+              "keyParts": [
+                "v018_ESV_JOS_024",
+                153,
+                "p4",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 And the Lord drove out before us all the peoples, the Amorites who lived in the land. Therefore we also will serve the Lord , for he is our God.”"
+            },
+            {
+              "rowId": 154,
+              "keyParts": [
+                154,
+                "p5",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 155,
+              "keyParts": [
+                155,
+                "p5",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "But Joshua said to the people, “You are not able to serve the"
+            },
+            {
+              "rowId": 156,
+              "keyParts": [
+                156,
+                "p5",
+                "verse",
+                "v19",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 157,
+              "keyParts": [
+                157,
+                "p5",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": ", for he is"
+            },
+            {
+              "rowId": 158,
+              "keyParts": [
+                158,
+                "p5",
+                "verse",
+                "v19",
+                "note",
+                "x"
+              ],
+              "value": "#Lev. 19:2;1 Sam. 6:20;Ps. 99:5,9;Isa. 5:16"
+            },
+            {
+              "rowId": 159,
+              "keyParts": [
+                159,
+                "p5",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "a holy God. He is"
+            },
+            {
+              "rowId": 160,
+              "keyParts": [
+                160,
+                "p5",
+                "verse",
+                "v19",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 20:5;Nah. 1:2"
+            },
+            {
+              "rowId": 161,
+              "keyParts": [
+                161,
+                "p5",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "a jealous God;"
+            },
+            {
+              "rowId": 162,
+              "keyParts": [
+                162,
+                "p5",
+                "verse",
+                "v19",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 23:21"
+            },
+            {
+              "rowId": 163,
+              "keyParts": [
+                163,
+                "p5",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "he will not forgive your transgressions or your sins."
+            },
+            {
+              "rowId": 164,
+              "keyParts": [
+                "v019_ESV_JOS_024",
+                164,
+                "p5",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 But Joshua said to the people, “You are not able to serve the Lord , for he is a holy God. He is a jealous God; he will not forgive your transgressions or your sins."
+            },
+            {
+              "rowId": 165,
+              "keyParts": [
+                165,
+                "p5",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 166,
+              "keyParts": [
+                166,
+                "p5",
+                "verse",
+                "v20",
+                "note",
+                "x"
+              ],
+              "value": "#[1 Chr. 28:9;2 Chr. 15:2;Ezra 8:22;Isa. 1:28;65:11,12;Jer. 17:13]"
+            },
+            {
+              "rowId": 167,
+              "keyParts": [
+                167,
+                "p5",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "If you forsake the"
+            },
+            {
+              "rowId": 168,
+              "keyParts": [
+                168,
+                "p5",
+                "verse",
+                "v20",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 169,
+              "keyParts": [
+                169,
+                "p5",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "and serve foreign gods, then"
+            },
+            {
+              "rowId": 170,
+              "keyParts": [
+                170,
+                "p5",
+                "verse",
+                "v20",
+                "note",
+                "x"
+              ],
+              "value": "#ch.23:15;Isa. 63:10;[Acts 7:42]"
+            },
+            {
+              "rowId": 171,
+              "keyParts": [
+                171,
+                "p5",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "he will turn and do you harm and consume you, after having done you good.”"
+            },
+            {
+              "rowId": 172,
+              "keyParts": [
+                "v020_ESV_JOS_024",
+                172,
+                "p5",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 If you forsake the Lord and serve foreign gods, then he will turn and do you harm and consume you, after having done you good.”"
+            },
+            {
+              "rowId": 173,
+              "keyParts": [
+                173,
+                "p5",
+                "verse",
+                "v21",
+                "label"
+              ],
+              "value": "21"
+            },
+            {
+              "rowId": 174,
+              "keyParts": [
+                174,
+                "p5",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "And the people said to Joshua, “No, but we will serve the"
+            },
+            {
+              "rowId": 175,
+              "keyParts": [
+                175,
+                "p5",
+                "verse",
+                "v21",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 176,
+              "keyParts": [
+                176,
+                "p5",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": ".”"
+            },
+            {
+              "rowId": 177,
+              "keyParts": [
+                "v021_ESV_JOS_024",
+                177,
+                "p5",
+                "verse",
+                "v21",
+                "plain_text"
+              ],
+              "value": "21 And the people said to Joshua, “No, but we will serve the Lord .”"
+            },
+            {
+              "rowId": 178,
+              "keyParts": [
+                178,
+                "p5",
+                "verse",
+                "v22",
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 179,
+              "keyParts": [
+                179,
+                "p5",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "Then Joshua said to the people, “You are witnesses against yourselves that"
+            },
+            {
+              "rowId": 180,
+              "keyParts": [
+                180,
+                "p5",
+                "verse",
+                "v22",
+                "note",
+                "x"
+              ],
+              "value": "#ver.15"
+            },
+            {
+              "rowId": 181,
+              "keyParts": [
+                181,
+                "p5",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "you have chosen the"
+            },
+            {
+              "rowId": 182,
+              "keyParts": [
+                182,
+                "p5",
+                "verse",
+                "v22",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 183,
+              "keyParts": [
+                183,
+                "p5",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": ", to serve him.” And they said, “We are witnesses.”"
+            },
+            {
+              "rowId": 184,
+              "keyParts": [
+                "v022_ESV_JOS_024",
+                184,
+                "p5",
+                "verse",
+                "v22",
+                "plain_text"
+              ],
+              "value": "22 Then Joshua said to the people, “You are witnesses against yourselves that you have chosen the Lord , to serve him.” And they said, “We are witnesses.”"
+            },
+            {
+              "rowId": 185,
+              "keyParts": [
+                185,
+                "p5",
+                "verse",
+                "v23",
+                "label"
+              ],
+              "value": "23"
+            },
+            {
+              "rowId": 186,
+              "keyParts": [
+                186,
+                "p5",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "He said, “Then"
+            },
+            {
+              "rowId": 187,
+              "keyParts": [
+                187,
+                "p5",
+                "verse",
+                "v23",
+                "note",
+                "x"
+              ],
+              "value": "#ver.14;Judg. 10:16;1 Sam. 7:3"
+            },
+            {
+              "rowId": 188,
+              "keyParts": [
+                188,
+                "p5",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "put away the foreign gods that are among you, and incline your heart to the"
+            },
+            {
+              "rowId": 189,
+              "keyParts": [
+                189,
+                "p5",
+                "verse",
+                "v23",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 190,
+              "keyParts": [
+                190,
+                "p5",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": ", the God of Israel.”"
+            },
+            {
+              "rowId": 191,
+              "keyParts": [
+                "v023_ESV_JOS_024",
+                191,
+                "p5",
+                "verse",
+                "v23",
+                "plain_text"
+              ],
+              "value": "23 He said, “Then put away the foreign gods that are among you, and incline your heart to the Lord , the God of Israel.”"
+            },
+            {
+              "rowId": 192,
+              "keyParts": [
+                192,
+                "p5",
+                "verse",
+                "v24",
+                "label"
+              ],
+              "value": "24"
+            },
+            {
+              "rowId": 193,
+              "keyParts": [
+                193,
+                "p5",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "And the people said to Joshua, “The"
+            },
+            {
+              "rowId": 194,
+              "keyParts": [
+                194,
+                "p5",
+                "verse",
+                "v24",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 195,
+              "keyParts": [
+                195,
+                "p5",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "our God we will serve, and his voice we will obey.”"
+            },
+            {
+              "rowId": 196,
+              "keyParts": [
+                "v024_ESV_JOS_024",
+                196,
+                "p5",
+                "verse",
+                "v24",
+                "plain_text"
+              ],
+              "value": "24 And the people said to Joshua, “The Lord our God we will serve, and his voice we will obey.”"
+            },
+            {
+              "rowId": 197,
+              "keyParts": [
+                197,
+                "p5",
+                "verse",
+                "v25",
+                "label"
+              ],
+              "value": "25"
+            },
+            {
+              "rowId": 198,
+              "keyParts": [
+                198,
+                "p5",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "So Joshua"
+            },
+            {
+              "rowId": 199,
+              "keyParts": [
+                199,
+                "p5",
+                "verse",
+                "v25",
+                "note",
+                "x"
+              ],
+              "value": "#2 Kgs. 11:17;2 Chr. 23:16;Neh. 9:38"
+            },
+            {
+              "rowId": 200,
+              "keyParts": [
+                200,
+                "p5",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "made a covenant with the people that day, and put in place"
+            },
+            {
+              "rowId": 201,
+              "keyParts": [
+                201,
+                "p5",
+                "verse",
+                "v25",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 15:25"
+            },
+            {
+              "rowId": 202,
+              "keyParts": [
+                202,
+                "p5",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "statutes and rules for them at Shechem."
+            },
+            {
+              "rowId": 203,
+              "keyParts": [
+                "v025_ESV_JOS_024",
+                203,
+                "p5",
+                "verse",
+                "v25",
+                "plain_text"
+              ],
+              "value": "25 So Joshua made a covenant with the people that day, and put in place statutes and rules for them at Shechem."
+            },
+            {
+              "rowId": 204,
+              "keyParts": [
+                204,
+                "p5",
+                "verse",
+                "v26",
+                "label"
+              ],
+              "value": "26"
+            },
+            {
+              "rowId": 205,
+              "keyParts": [
+                205,
+                "p5",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "And Joshua"
+            },
+            {
+              "rowId": 206,
+              "keyParts": [
+                206,
+                "p5",
+                "verse",
+                "v26",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 31:24"
+            },
+            {
+              "rowId": 207,
+              "keyParts": [
+                207,
+                "p5",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "wrote these words in the Book of the Law of God. And"
+            },
+            {
+              "rowId": 208,
+              "keyParts": [
+                208,
+                "p5",
+                "verse",
+                "v26",
+                "note",
+                "x"
+              ],
+              "value": "#[ch.4:3;Gen. 28:18]"
+            },
+            {
+              "rowId": 209,
+              "keyParts": [
+                209,
+                "p5",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "he took a large stone and set it up there"
+            },
+            {
+              "rowId": 210,
+              "keyParts": [
+                210,
+                "p5",
+                "verse",
+                "v26",
+                "note",
+                "x"
+              ],
+              "value": "#Gen. 35:4;Judg. 9:6"
+            },
+            {
+              "rowId": 211,
+              "keyParts": [
+                211,
+                "p5",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "under the terebinth that was by the sanctuary of the"
+            },
+            {
+              "rowId": 212,
+              "keyParts": [
+                212,
+                "p5",
+                "verse",
+                "v26",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 213,
+              "keyParts": [
+                213,
+                "p5",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "."
+            },
+            {
+              "rowId": 214,
+              "keyParts": [
+                "v026_ESV_JOS_024",
+                214,
+                "p5",
+                "verse",
+                "v26",
+                "plain_text"
+              ],
+              "value": "26 And Joshua wrote these words in the Book of the Law of God. And he took a large stone and set it up there under the terebinth that was by the sanctuary of the Lord ."
+            },
+            {
+              "rowId": 215,
+              "keyParts": [
+                215,
+                "p5",
+                "verse",
+                "v27",
+                "label"
+              ],
+              "value": "27"
+            },
+            {
+              "rowId": 216,
+              "keyParts": [
+                216,
+                "p5",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "And Joshua said to all the people, “Behold,"
+            },
+            {
+              "rowId": 217,
+              "keyParts": [
+                217,
+                "p5",
+                "verse",
+                "v27",
+                "note",
+                "x"
+              ],
+              "value": "#ch.22:27,28,34;Gen. 31:48,52;Deut. 31:19,21,26"
+            },
+            {
+              "rowId": 218,
+              "keyParts": [
+                218,
+                "p5",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "this stone shall be a witness against us, for"
+            },
+            {
+              "rowId": 219,
+              "keyParts": [
+                219,
+                "p5",
+                "verse",
+                "v27",
+                "note",
+                "x"
+              ],
+              "value": "#[Deut. 32:1]"
+            },
+            {
+              "rowId": 220,
+              "keyParts": [
+                220,
+                "p5",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "it has heard all the words of the"
+            },
+            {
+              "rowId": 221,
+              "keyParts": [
+                221,
+                "p5",
+                "verse",
+                "v27",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 222,
+              "keyParts": [
+                222,
+                "p5",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "that he spoke to us. Therefore it shall be a witness against you, lest you deal falsely with your God.”"
+            },
+            {
+              "rowId": 223,
+              "keyParts": [
+                "v027_ESV_JOS_024",
+                223,
+                "p5",
+                "verse",
+                "v27",
+                "plain_text"
+              ],
+              "value": "27 And Joshua said to all the people, “Behold, this stone shall be a witness against us, for it has heard all the words of the Lord that he spoke to us. Therefore it shall be a witness against you, lest you deal falsely with your God.”"
+            },
+            {
+              "rowId": 224,
+              "keyParts": [
+                224,
+                "p5",
+                "verse",
+                "v28",
+                "label"
+              ],
+              "value": "28"
+            },
+            {
+              "rowId": 225,
+              "keyParts": [
+                225,
+                "p5",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "So Joshua"
+            },
+            {
+              "rowId": 226,
+              "keyParts": [
+                226,
+                "p5",
+                "verse",
+                "v28",
+                "note",
+                "x"
+              ],
+              "value": "#Judg. 2:6"
+            },
+            {
+              "rowId": 227,
+              "keyParts": [
+                227,
+                "p5",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "sent the people away, every man to his inheritance."
+            },
+            {
+              "rowId": 228,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Joshua’s Death and Burial"
+            },
+            {
+              "rowId": 229,
+              "keyParts": [
+                "v028_ESV_JOS_024",
+                229,
+                "p5",
+                "verse",
+                "v28",
+                "plain_text"
+              ],
+              "value": "28 So Joshua sent the people away, every man to his inheritance."
+            },
+            {
+              "rowId": 230,
+              "keyParts": [
+                230,
+                "p6",
+                "verse",
+                "v29",
+                "label"
+              ],
+              "value": "29"
+            },
+            {
+              "rowId": 231,
+              "keyParts": [
+                231,
+                "p6",
+                "verse",
+                "v29",
+                "note",
+                "x"
+              ],
+              "value": "#For ver. 29-31, seeJudg. 2:7-9"
+            },
+            {
+              "rowId": 232,
+              "keyParts": [
+                232,
+                "p6",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "After these things Joshua the son of Nun, the servant of the"
+            },
+            {
+              "rowId": 233,
+              "keyParts": [
+                233,
+                "p6",
+                "verse",
+                "v29",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 234,
+              "keyParts": [
+                234,
+                "p6",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": ", died, being 110 years old."
+            },
+            {
+              "rowId": 235,
+              "keyParts": [
+                "v029_ESV_JOS_024",
+                235,
+                "p6",
+                "verse",
+                "v29",
+                "plain_text"
+              ],
+              "value": "29 After these things Joshua the son of Nun, the servant of the Lord , died, being 110 years old."
+            },
+            {
+              "rowId": 236,
+              "keyParts": [
+                236,
+                "p6",
+                "verse",
+                "v30",
+                "label"
+              ],
+              "value": "30"
+            },
+            {
+              "rowId": 237,
+              "keyParts": [
+                237,
+                "p6",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "And they buried him in his own inheritance at"
+            },
+            {
+              "rowId": 238,
+              "keyParts": [
+                238,
+                "p6",
+                "verse",
+                "v30",
+                "note",
+                "x"
+              ],
+              "value": "#[ch.19:50]"
+            },
+            {
+              "rowId": 239,
+              "keyParts": [
+                239,
+                "p6",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "Timnath-serah, which is in the hill country of Ephraim, north of the mountain of Gaash."
+            },
+            {
+              "rowId": 240,
+              "keyParts": [
+                "v030_ESV_JOS_024",
+                240,
+                "p6",
+                "verse",
+                "v30",
+                "plain_text"
+              ],
+              "value": "30 And they buried him in his own inheritance at Timnath-serah, which is in the hill country of Ephraim, north of the mountain of Gaash."
+            },
+            {
+              "rowId": 241,
+              "keyParts": [
+                241,
+                "p7",
+                "verse",
+                "v31",
+                "label"
+              ],
+              "value": "31"
+            },
+            {
+              "rowId": 242,
+              "keyParts": [
+                242,
+                "p7",
+                "verse",
+                "v31",
+                "note",
+                "x"
+              ],
+              "value": "#Judg. 2:7"
+            },
+            {
+              "rowId": 243,
+              "keyParts": [
+                243,
+                "p7",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "Israel served the"
+            },
+            {
+              "rowId": 244,
+              "keyParts": [
+                244,
+                "p7",
+                "verse",
+                "v31",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 245,
+              "keyParts": [
+                245,
+                "p7",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "all the days of Joshua, and all the days of the elders who outlived Joshua"
+            },
+            {
+              "rowId": 246,
+              "keyParts": [
+                246,
+                "p7",
+                "verse",
+                "v31",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 11:2;31:13"
+            },
+            {
+              "rowId": 247,
+              "keyParts": [
+                247,
+                "p7",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "and had known all the work that the"
+            },
+            {
+              "rowId": 248,
+              "keyParts": [
+                248,
+                "p7",
+                "verse",
+                "v31",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 249,
+              "keyParts": [
+                249,
+                "p7",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "did for Israel."
+            },
+            {
+              "rowId": 250,
+              "keyParts": [
+                "v031_ESV_JOS_024",
+                250,
+                "p7",
+                "verse",
+                "v31",
+                "plain_text"
+              ],
+              "value": "31 Israel served the Lord all the days of Joshua, and all the days of the elders who outlived Joshua and had known all the work that the Lord did for Israel."
+            },
+            {
+              "rowId": 251,
+              "keyParts": [
+                251,
+                "p8",
+                "verse",
+                "v32",
+                "label"
+              ],
+              "value": "32"
+            },
+            {
+              "rowId": 252,
+              "keyParts": [
+                252,
+                "p8",
+                "verse",
+                "v32",
+                "note",
+                "x"
+              ],
+              "value": "#Gen. 50:25;Ex. 13:19"
+            },
+            {
+              "rowId": 253,
+              "keyParts": [
+                253,
+                "p8",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "As for the bones of Joseph, which the people of Israel brought up from Egypt, they buried them at Shechem, in the piece of land"
+            },
+            {
+              "rowId": 254,
+              "keyParts": [
+                254,
+                "p8",
+                "verse",
+                "v32",
+                "note",
+                "x"
+              ],
+              "value": "#Gen. 33:19"
+            },
+            {
+              "rowId": 255,
+              "keyParts": [
+                255,
+                "p8",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "that Jacob bought from the sons of Hamor the father of Shechem for a hundred pieces of money."
+            },
+            {
+              "rowId": 256,
+              "keyParts": [
+                256,
+                "p8",
+                "verse",
+                "v32",
+                "note",
+                "f"
+              ],
+              "value": "#24:32Hebrewfor a hundred qesitah; a unit of money of uncertain value"
+            },
+            {
+              "rowId": 257,
+              "keyParts": [
+                257,
+                "p8",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "It became an inheritance of the descendants of Joseph."
+            },
+            {
+              "rowId": 258,
+              "keyParts": [
+                "v032_ESV_JOS_024",
+                258,
+                "p8",
+                "verse",
+                "v32",
+                "plain_text"
+              ],
+              "value": "32 As for the bones of Joseph, which the people of Israel brought up from Egypt, they buried them at Shechem, in the piece of land that Jacob bought from the sons of Hamor the father of Shechem for a hundred pieces of money. It became an inheritance of the descendants of Joseph."
+            },
+            {
+              "rowId": 259,
+              "keyParts": [
+                259,
+                "p9",
+                "verse",
+                "v33",
+                "label"
+              ],
+              "value": "33"
+            },
+            {
+              "rowId": 260,
+              "keyParts": [
+                260,
+                "p9",
+                "verse",
+                "v33",
+                "content"
+              ],
+              "value": "And Eleazar the son of Aaron died, and they buried him at Gibeah, the town of"
+            },
+            {
+              "rowId": 261,
+              "keyParts": [
+                261,
+                "p9",
+                "verse",
+                "v33",
+                "note",
+                "x"
+              ],
+              "value": "#ch.22:13"
+            },
+            {
+              "rowId": 262,
+              "keyParts": [
+                262,
+                "p9",
+                "verse",
+                "v33",
+                "content"
+              ],
+              "value": "Phinehas his son, which had been given him in"
+            },
+            {
+              "rowId": 263,
+              "keyParts": [
+                263,
+                "p9",
+                "verse",
+                "v33",
+                "note",
+                "x"
+              ],
+              "value": "#ver.30;ch.17:15"
+            },
+            {
+              "rowId": 264,
+              "keyParts": [
+                264,
+                "p9",
+                "verse",
+                "v33",
+                "content"
+              ],
+              "value": "the hill country of Ephraim."
+            },
+            {
+              "rowId": 265,
+              "keyParts": [
+                "v033_ESV_JOS_024",
+                265,
+                "p9",
+                "verse",
+                "v33",
+                "plain_text"
+              ],
+              "value": "33 And Eleazar the son of Aaron died, and they buried him at Gibeah, the town of Phinehas his son, which had been given him in the hill country of Ephraim."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

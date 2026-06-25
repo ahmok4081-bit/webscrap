@@ -1,0 +1,2356 @@
+{
+  "translationId": "ESV",
+  "name": "English Standard Version",
+  "abbreviation": "ESV",
+  "language": "English",
+  "copyright": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.",
+  "books": [
+    {
+      "bookId": "DEU",
+      "testament": "OT",
+      "order": 5,
+      "title": "Deuteronomy",
+      "abbreviation": "DEU",
+      "chapters": [
+        {
+          "chapter": 3,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "The Defeat of King Og"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "“Then we turned and went up the way to Bashan. And"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#ch.29:7;Num. 21:33,35"
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "Og the king of Bashan came out against us, he and all his people, to battle at"
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                7,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.1:4"
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "Edrei."
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                "v001_ESV_DEU_003",
+                9,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 “Then we turned and went up the way to Bashan. And Og the king of Bashan came out against us, he and all his people, to battle at Edrei."
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                11,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "But the"
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                12,
+                "p1",
+                "verse",
+                "v2",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                13,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "said to me, ‘Do not fear him, for I have given him and all his people and his land into your hand. And you shall do to him as you did to"
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#SeeNum. 21:23-26,34"
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                15,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "Sihon the king of the Amorites, who lived at Heshbon.’"
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                "v002_ESV_DEU_003",
+                16,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 But the Lord said to me, ‘Do not fear him, for I have given him and all his people and his land into your hand. And you shall do to him as you did to Sihon the king of the Amorites, who lived at Heshbon.’"
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                17,
+                "p1",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "So the"
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p1",
+                "verse",
+                "v3",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                20,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "our God gave into our hand Og also, the king of Bashan, and all his people,"
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 21:35"
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                22,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "and we struck him down until he had no survivor left."
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                "v003_ESV_DEU_003",
+                23,
+                "p1",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 So the Lord our God gave into our hand Og also, the king of Bashan, and all his people, and we struck him down until he had no survivor left."
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                24,
+                "p1",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "And we took all his cities at that time—there was not a city that we did not take from them—sixty cities,"
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                26,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#1 Kgs. 4:13"
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                27,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "the whole region of Argob, the kingdom of Og in Bashan."
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                "v004_ESV_DEU_003",
+                28,
+                "p1",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 And we took all his cities at that time—there was not a city that we did not take from them—sixty cities, the whole region of Argob, the kingdom of Og in Bashan."
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                29,
+                "p1",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                30,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "All these were cities fortified with high walls, gates, and bars, besides very many unwalled villages."
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                "v005_ESV_DEU_003",
+                31,
+                "p1",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 All these were cities fortified with high walls, gates, and bars, besides very many unwalled villages."
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "p1",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                33,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "And"
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                34,
+                "p1",
+                "verse",
+                "v6",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.7:2;Ps. 135:10-12"
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                35,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "we devoted them to destruction,"
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "p1",
+                "verse",
+                "v6",
+                "note",
+                "f"
+              ],
+              "value": "#3:6That is, set apart (devoted) as an offering to the Lord (for destruction); twice in this verse"
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                37,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "as we did to Sihon the king of Heshbon, devoting to destruction every"
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                38,
+                "p1",
+                "verse",
+                "v6",
+                "note",
+                "x"
+              ],
+              "value": "#ch.2:34"
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                39,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "city, men, women, and children."
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                "v006_ESV_DEU_003",
+                40,
+                "p1",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 And we devoted them to destruction, as we did to Sihon the king of Heshbon, devoting to destruction every city, men, women, and children."
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p1",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "p1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "But all the livestock and the spoil of the cities we took as our plunder."
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                "v007_ESV_DEU_003",
+                43,
+                "p1",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 But all the livestock and the spoil of the cities we took as our plunder."
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                44,
+                "p1",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                45,
+                "p1",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "So we took the land at that time out of the hand of the two kings of the Amorites who were beyond the Jordan, from the Valley of the Arnon to Mount Hermon"
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                "v008_ESV_DEU_003",
+                46,
+                "p1",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 So we took the land at that time out of the hand of the two kings of the Amorites who were beyond the Jordan, from the Valley of the Arnon to Mount Hermon"
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                47,
+                "p1",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                48,
+                "p1",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "(the Sidonians call"
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                49,
+                "p1",
+                "verse",
+                "v9",
+                "note",
+                "x"
+              ],
+              "value": "#ch.4:48;Josh. 11:3,17;12:5"
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "p1",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "Hermon"
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                51,
+                "p1",
+                "verse",
+                "v9",
+                "note",
+                "x"
+              ],
+              "value": "#Ps. 29:6;[ch.4:48]"
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                52,
+                "p1",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "Sirion, while the Amorites call it"
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                53,
+                "p1",
+                "verse",
+                "v9",
+                "note",
+                "x"
+              ],
+              "value": "#1 Chr. 5:23;Song 4:8;Ezek. 27:5"
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                54,
+                "p1",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "Senir),"
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                "v009_ESV_DEU_003",
+                55,
+                "p1",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 (the Sidonians call Hermon Sirion, while the Amorites call it Senir),"
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                56,
+                "p1",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                57,
+                "p1",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "all the cities of the"
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                58,
+                "p1",
+                "verse",
+                "v10",
+                "note",
+                "x"
+              ],
+              "value": "#ch.4:43;Josh. 13:9,16,17,21;Jer. 48:8,21"
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                59,
+                "p1",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "tableland and all Gilead and all Bashan, as far as"
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                60,
+                "p1",
+                "verse",
+                "v10",
+                "note",
+                "x"
+              ],
+              "value": "#Josh. 12:5;13:11;1 Chr. 5:11"
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                61,
+                "p1",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "Salecah and Edrei, cities of the kingdom of Og in Bashan."
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                "v010_ESV_DEU_003",
+                62,
+                "p1",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 all the cities of the tableland and all Gilead and all Bashan, as far as Salecah and Edrei, cities of the kingdom of Og in Bashan."
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                63,
+                "p1",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                64,
+                "p1",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "(For"
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                65,
+                "p1",
+                "verse",
+                "v11",
+                "note",
+                "x"
+              ],
+              "value": "#ch.2:11,20"
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                66,
+                "p1",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "only Og the king of Bashan was left of the remnant of"
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                67,
+                "p1",
+                "verse",
+                "v11",
+                "note",
+                "x"
+              ],
+              "value": "#SeeGen. 14:5"
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                68,
+                "p1",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "the Rephaim. Behold, his bed was a bed of iron. Is it not in"
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                69,
+                "p1",
+                "verse",
+                "v11",
+                "note",
+                "x"
+              ],
+              "value": "#2 Sam. 11:1;12:26;Jer. 49:2;Ezek. 21:20;25:5;Amos 1:14"
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                70,
+                "p1",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "Rabbah of the Ammonites? Nine cubits"
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                71,
+                "p1",
+                "verse",
+                "v11",
+                "note",
+                "f"
+              ],
+              "value": "#3:11Acubitwas about 18 inches or 45 centimeters"
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                72,
+                "p1",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "was its length, and four cubits its breadth, according to the"
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                73,
+                "p1",
+                "verse",
+                "v11",
+                "note",
+                "x"
+              ],
+              "value": "#[Rev. 21:17]"
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                74,
+                "p1",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "common cubit."
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                75,
+                "p1",
+                "verse",
+                "v11",
+                "note",
+                "f"
+              ],
+              "value": "#3:11Hebrewcubit of a man"
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                76,
+                "p1",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": ")"
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                "v011_ESV_DEU_003",
+                77,
+                "p1",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 (For only Og the king of Bashan was left of the remnant of the Rephaim. Behold, his bed was a bed of iron. Is it not in Rabbah of the Ammonites? Nine cubits was its length, and four cubits its breadth, according to the common cubit. )"
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                78,
+                "p2",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                79,
+                "p2",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "“When we took possession of this land at that time, I gave to the Reubenites and the Gadites the territory beginning"
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                80,
+                "p2",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.2:36"
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                81,
+                "p2",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "at Aroer, which is on the edge of the Valley of the Arnon, and half the hill country of Gilead with"
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                82,
+                "p2",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#SeeNum. 32:32-38;Josh. 13:8-13"
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                83,
+                "p2",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "its cities."
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                "v012_ESV_DEU_003",
+                84,
+                "p2",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 “When we took possession of this land at that time, I gave to the Reubenites and the Gadites the territory beginning at Aroer, which is on the edge of the Valley of the Arnon, and half the hill country of Gilead with its cities."
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                85,
+                "p2",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                86,
+                "p2",
+                "verse",
+                "v13",
+                "note",
+                "x"
+              ],
+              "value": "#SeeNum. 32:39-42;Josh. 13:29-31"
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                87,
+                "p2",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "The rest of Gilead, and all Bashan, the kingdom of Og, that is,"
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                88,
+                "p2",
+                "verse",
+                "v13",
+                "note",
+                "x"
+              ],
+              "value": "#1 Kgs. 4:13"
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                89,
+                "p2",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "all the region of Argob, I gave to the half-tribe of Manasseh. (All that portion of Bashan is called the land of"
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                90,
+                "p2",
+                "verse",
+                "v13",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.11above]"
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                91,
+                "p2",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "Rephaim."
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                "v013_ESV_DEU_003",
+                92,
+                "p2",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 The rest of Gilead, and all Bashan, the kingdom of Og, that is, all the region of Argob, I gave to the half-tribe of Manasseh. (All that portion of Bashan is called the land of Rephaim."
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                93,
+                "p2",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                94,
+                "p2",
+                "verse",
+                "v14",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 32:41;[1 Chr. 2:22,23]"
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                95,
+                "p2",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "Jair the Manassite took all the region of Argob, that is, Bashan, as far as the border of"
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                96,
+                "p2",
+                "verse",
+                "v14",
+                "note",
+                "x"
+              ],
+              "value": "#Josh. 12:5;13:11,13;2 Sam. 3:3;10:6;13:37,38"
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                97,
+                "p2",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "the Geshurites and the Maacathites, and called the villages"
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                98,
+                "p2",
+                "verse",
+                "v14",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 32:41"
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                99,
+                "p2",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "after his own name, Havvoth-jair, as it is to this day.)"
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                "v014_ESV_DEU_003",
+                100,
+                "p2",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 Jair the Manassite took all the region of Argob, that is, Bashan, as far as the border of the Geshurites and the Maacathites, and called the villages after his own name, Havvoth-jair, as it is to this day.)"
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                101,
+                "p2",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                102,
+                "p2",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "To Machir"
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                103,
+                "p2",
+                "verse",
+                "v15",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 32:39"
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                104,
+                "p2",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "I gave Gilead,"
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                "v015_ESV_DEU_003",
+                105,
+                "p2",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 To Machir I gave Gilead,"
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                106,
+                "p2",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                107,
+                "p2",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "and to the Reubenites"
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                108,
+                "p2",
+                "verse",
+                "v16",
+                "note",
+                "x"
+              ],
+              "value": "#[2 Sam. 24:5]"
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                109,
+                "p2",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "and the Gadites I gave the territory from Gilead as far as the Valley of the Arnon, with the middle of the valley as a border, as far over as the river Jabbok,"
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                110,
+                "p2",
+                "verse",
+                "v16",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 21:24;Josh. 12:2"
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                111,
+                "p2",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "the border of the Ammonites;"
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                "v016_ESV_DEU_003",
+                112,
+                "p2",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 and to the Reubenites and the Gadites I gave the territory from Gilead as far as the Valley of the Arnon, with the middle of the valley as a border, as far over as the river Jabbok, the border of the Ammonites;"
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                113,
+                "p2",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                114,
+                "p2",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "the Arabah also, with the Jordan as the border, from"
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                115,
+                "p2",
+                "verse",
+                "v17",
+                "note",
+                "x"
+              ],
+              "value": "#SeeNum. 34:11"
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                116,
+                "p2",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "Chinnereth as far as"
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                117,
+                "p2",
+                "verse",
+                "v17",
+                "note",
+                "x"
+              ],
+              "value": "#ch.4:49;Josh. 3:16;12:3;2 Kgs. 14:25"
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                118,
+                "p2",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "the Sea of the Arabah,"
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                119,
+                "p2",
+                "verse",
+                "v17",
+                "note",
+                "x"
+              ],
+              "value": "#SeeGen. 14:3"
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                120,
+                "p2",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "the Salt Sea, under"
+            },
+            {
+              "rowId": 121,
+              "keyParts": [
+                121,
+                "p2",
+                "verse",
+                "v17",
+                "note",
+                "x"
+              ],
+              "value": "#[Num. 21:15]"
+            },
+            {
+              "rowId": 122,
+              "keyParts": [
+                122,
+                "p2",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "the slopes of Pisgah on the east."
+            },
+            {
+              "rowId": 123,
+              "keyParts": [
+                "v017_ESV_DEU_003",
+                123,
+                "p2",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 the Arabah also, with the Jordan as the border, from Chinnereth as far as the Sea of the Arabah, the Salt Sea, under the slopes of Pisgah on the east."
+            },
+            {
+              "rowId": 124,
+              "keyParts": [
+                124,
+                "p3",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 125,
+              "keyParts": [
+                125,
+                "p3",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "“And I commanded you at that time, saying, ‘The"
+            },
+            {
+              "rowId": 126,
+              "keyParts": [
+                126,
+                "p3",
+                "verse",
+                "v18",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 127,
+              "keyParts": [
+                127,
+                "p3",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "your God has given you this land to possess."
+            },
+            {
+              "rowId": 128,
+              "keyParts": [
+                128,
+                "p3",
+                "verse",
+                "v18",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 32:20,21;Josh. 1:14;4:12"
+            },
+            {
+              "rowId": 129,
+              "keyParts": [
+                129,
+                "p3",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "All your men of valor shall cross over armed before your brothers, the people of Israel."
+            },
+            {
+              "rowId": 130,
+              "keyParts": [
+                "v018_ESV_DEU_003",
+                130,
+                "p3",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 “And I commanded you at that time, saying, ‘The Lord your God has given you this land to possess. All your men of valor shall cross over armed before your brothers, the people of Israel."
+            },
+            {
+              "rowId": 131,
+              "keyParts": [
+                131,
+                "p3",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 132,
+              "keyParts": [
+                132,
+                "p3",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "Only your wives, your little ones, and your livestock"
+            },
+            {
+              "rowId": 133,
+              "keyParts": [
+                133,
+                "p3",
+                "verse",
+                "v19",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 32:1,4"
+            },
+            {
+              "rowId": 134,
+              "keyParts": [
+                134,
+                "p3",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "(I know that you have much livestock) shall remain in the cities that I have given you,"
+            },
+            {
+              "rowId": 135,
+              "keyParts": [
+                "v019_ESV_DEU_003",
+                135,
+                "p3",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 Only your wives, your little ones, and your livestock (I know that you have much livestock) shall remain in the cities that I have given you,"
+            },
+            {
+              "rowId": 136,
+              "keyParts": [
+                136,
+                "p3",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 137,
+              "keyParts": [
+                137,
+                "p3",
+                "verse",
+                "v20",
+                "note",
+                "x"
+              ],
+              "value": "#Josh. 22:4"
+            },
+            {
+              "rowId": 138,
+              "keyParts": [
+                138,
+                "p3",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "until the"
+            },
+            {
+              "rowId": 139,
+              "keyParts": [
+                139,
+                "p3",
+                "verse",
+                "v20",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 140,
+              "keyParts": [
+                140,
+                "p3",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "gives rest to your brothers, as to you, and they also occupy the land that the"
+            },
+            {
+              "rowId": 141,
+              "keyParts": [
+                141,
+                "p3",
+                "verse",
+                "v20",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 142,
+              "keyParts": [
+                142,
+                "p3",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "your God gives them beyond the Jordan. Then each of you may return to his possession which I have given you.’"
+            },
+            {
+              "rowId": 143,
+              "keyParts": [
+                "v020_ESV_DEU_003",
+                143,
+                "p3",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 until the Lord gives rest to your brothers, as to you, and they also occupy the land that the Lord your God gives them beyond the Jordan. Then each of you may return to his possession which I have given you.’"
+            },
+            {
+              "rowId": 144,
+              "keyParts": [
+                144,
+                "p3",
+                "verse",
+                "v21",
+                "label"
+              ],
+              "value": "21"
+            },
+            {
+              "rowId": 145,
+              "keyParts": [
+                145,
+                "p3",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "And I commanded"
+            },
+            {
+              "rowId": 146,
+              "keyParts": [
+                146,
+                "p3",
+                "verse",
+                "v21",
+                "note",
+                "x"
+              ],
+              "value": "#[Num. 27:18]"
+            },
+            {
+              "rowId": 147,
+              "keyParts": [
+                147,
+                "p3",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "Joshua at that time, ‘Your eyes have seen all that the"
+            },
+            {
+              "rowId": 148,
+              "keyParts": [
+                148,
+                "p3",
+                "verse",
+                "v21",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 149,
+              "keyParts": [
+                149,
+                "p3",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "your God has done to these two kings. So will the"
+            },
+            {
+              "rowId": 150,
+              "keyParts": [
+                150,
+                "p3",
+                "verse",
+                "v21",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 151,
+              "keyParts": [
+                151,
+                "p3",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "do to all the kingdoms into which you are crossing."
+            },
+            {
+              "rowId": 152,
+              "keyParts": [
+                "v021_ESV_DEU_003",
+                152,
+                "p3",
+                "verse",
+                "v21",
+                "plain_text"
+              ],
+              "value": "21 And I commanded Joshua at that time, ‘Your eyes have seen all that the Lord your God has done to these two kings. So will the Lord do to all the kingdoms into which you are crossing."
+            },
+            {
+              "rowId": 153,
+              "keyParts": [
+                153,
+                "p3",
+                "verse",
+                "v22",
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 154,
+              "keyParts": [
+                154,
+                "p3",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "You shall not fear them, for it is"
+            },
+            {
+              "rowId": 155,
+              "keyParts": [
+                155,
+                "p3",
+                "verse",
+                "v22",
+                "note",
+                "x"
+              ],
+              "value": "#SeeEx. 14:14"
+            },
+            {
+              "rowId": 156,
+              "keyParts": [
+                156,
+                "p3",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "the"
+            },
+            {
+              "rowId": 157,
+              "keyParts": [
+                157,
+                "p3",
+                "verse",
+                "v22",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 158,
+              "keyParts": [
+                158,
+                "p3",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "your God who fights for you.’"
+            },
+            {
+              "rowId": 159,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Moses Forbidden to Enter the Land"
+            },
+            {
+              "rowId": 160,
+              "keyParts": [
+                "v022_ESV_DEU_003",
+                160,
+                "p3",
+                "verse",
+                "v22",
+                "plain_text"
+              ],
+              "value": "22 You shall not fear them, for it is the Lord your God who fights for you.’"
+            },
+            {
+              "rowId": 161,
+              "keyParts": [
+                161,
+                "p4",
+                "verse",
+                "v23",
+                "label"
+              ],
+              "value": "23"
+            },
+            {
+              "rowId": 162,
+              "keyParts": [
+                162,
+                "p4",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "“And I pleaded with the"
+            },
+            {
+              "rowId": 163,
+              "keyParts": [
+                163,
+                "p4",
+                "verse",
+                "v23",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 164,
+              "keyParts": [
+                164,
+                "p4",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "at that time, saying,"
+            },
+            {
+              "rowId": 165,
+              "keyParts": [
+                "v023_ESV_DEU_003",
+                165,
+                "p4",
+                "verse",
+                "v23",
+                "plain_text"
+              ],
+              "value": "23 “And I pleaded with the Lord at that time, saying,"
+            },
+            {
+              "rowId": 166,
+              "keyParts": [
+                166,
+                "p4",
+                "verse",
+                "v24",
+                "label"
+              ],
+              "value": "24"
+            },
+            {
+              "rowId": 167,
+              "keyParts": [
+                167,
+                "p4",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "‘O Lord"
+            },
+            {
+              "rowId": 168,
+              "keyParts": [
+                168,
+                "p4",
+                "verse",
+                "v24",
+                "nd"
+              ],
+              "value": "God"
+            },
+            {
+              "rowId": 169,
+              "keyParts": [
+                169,
+                "p4",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": ", you have only begun to show your servant"
+            },
+            {
+              "rowId": 170,
+              "keyParts": [
+                170,
+                "p4",
+                "verse",
+                "v24",
+                "note",
+                "x"
+              ],
+              "value": "#ch.5:24;11:2;32:3;1 Chr. 29:11"
+            },
+            {
+              "rowId": 171,
+              "keyParts": [
+                171,
+                "p4",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "your greatness and your mighty hand. For"
+            },
+            {
+              "rowId": 172,
+              "keyParts": [
+                172,
+                "p4",
+                "verse",
+                "v24",
+                "note",
+                "x"
+              ],
+              "value": "#SeeEx. 15:11"
+            },
+            {
+              "rowId": 173,
+              "keyParts": [
+                173,
+                "p4",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "what god is there in heaven or on earth who can do such works and mighty acts as yours?"
+            },
+            {
+              "rowId": 174,
+              "keyParts": [
+                "v024_ESV_DEU_003",
+                174,
+                "p4",
+                "verse",
+                "v24",
+                "plain_text"
+              ],
+              "value": "24 ‘O Lord God , you have only begun to show your servant your greatness and your mighty hand. For what god is there in heaven or on earth who can do such works and mighty acts as yours?"
+            },
+            {
+              "rowId": 175,
+              "keyParts": [
+                175,
+                "p4",
+                "verse",
+                "v25",
+                "label"
+              ],
+              "value": "25"
+            },
+            {
+              "rowId": 176,
+              "keyParts": [
+                176,
+                "p4",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "Please let me go over and see"
+            },
+            {
+              "rowId": 177,
+              "keyParts": [
+                177,
+                "p4",
+                "verse",
+                "v25",
+                "note",
+                "x"
+              ],
+              "value": "#ch.4:22;Ex. 3:8"
+            },
+            {
+              "rowId": 178,
+              "keyParts": [
+                178,
+                "p4",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "the good land beyond the Jordan, that good hill country and"
+            },
+            {
+              "rowId": 179,
+              "keyParts": [
+                179,
+                "p4",
+                "verse",
+                "v25",
+                "note",
+                "x"
+              ],
+              "value": "#[Josh. 1:4]"
+            },
+            {
+              "rowId": 180,
+              "keyParts": [
+                180,
+                "p4",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "Lebanon.’"
+            },
+            {
+              "rowId": 181,
+              "keyParts": [
+                "v025_ESV_DEU_003",
+                181,
+                "p4",
+                "verse",
+                "v25",
+                "plain_text"
+              ],
+              "value": "25 Please let me go over and see the good land beyond the Jordan, that good hill country and Lebanon.’"
+            },
+            {
+              "rowId": 182,
+              "keyParts": [
+                182,
+                "p4",
+                "verse",
+                "v26",
+                "label"
+              ],
+              "value": "26"
+            },
+            {
+              "rowId": 183,
+              "keyParts": [
+                183,
+                "p4",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "But"
+            },
+            {
+              "rowId": 184,
+              "keyParts": [
+                184,
+                "p4",
+                "verse",
+                "v26",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.1:37"
+            },
+            {
+              "rowId": 185,
+              "keyParts": [
+                185,
+                "p4",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "the"
+            },
+            {
+              "rowId": 186,
+              "keyParts": [
+                186,
+                "p4",
+                "verse",
+                "v26",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 187,
+              "keyParts": [
+                187,
+                "p4",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "was angry with me because of you and would not listen to me. And the"
+            },
+            {
+              "rowId": 188,
+              "keyParts": [
+                188,
+                "p4",
+                "verse",
+                "v26",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 189,
+              "keyParts": [
+                189,
+                "p4",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "said to me,"
+            },
+            {
+              "rowId": 190,
+              "keyParts": [
+                190,
+                "p4",
+                "verse",
+                "v26",
+                "note",
+                "x"
+              ],
+              "value": "#[2 Cor. 12:9]"
+            },
+            {
+              "rowId": 191,
+              "keyParts": [
+                191,
+                "p4",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "‘Enough from you; do not speak to me of this matter again."
+            },
+            {
+              "rowId": 192,
+              "keyParts": [
+                "v026_ESV_DEU_003",
+                192,
+                "p4",
+                "verse",
+                "v26",
+                "plain_text"
+              ],
+              "value": "26 But the Lord was angry with me because of you and would not listen to me. And the Lord said to me, ‘Enough from you; do not speak to me of this matter again."
+            },
+            {
+              "rowId": 193,
+              "keyParts": [
+                193,
+                "p4",
+                "verse",
+                "v27",
+                "label"
+              ],
+              "value": "27"
+            },
+            {
+              "rowId": 194,
+              "keyParts": [
+                194,
+                "p4",
+                "verse",
+                "v27",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 27:12,13"
+            },
+            {
+              "rowId": 195,
+              "keyParts": [
+                195,
+                "p4",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "Go up to the top of Pisgah and lift up your eyes westward and northward and southward and eastward, and look at it with your eyes, for you shall not go over this Jordan."
+            },
+            {
+              "rowId": 196,
+              "keyParts": [
+                "v027_ESV_DEU_003",
+                196,
+                "p4",
+                "verse",
+                "v27",
+                "plain_text"
+              ],
+              "value": "27 Go up to the top of Pisgah and lift up your eyes westward and northward and southward and eastward, and look at it with your eyes, for you shall not go over this Jordan."
+            },
+            {
+              "rowId": 197,
+              "keyParts": [
+                197,
+                "p4",
+                "verse",
+                "v28",
+                "label"
+              ],
+              "value": "28"
+            },
+            {
+              "rowId": 198,
+              "keyParts": [
+                198,
+                "p4",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "But"
+            },
+            {
+              "rowId": 199,
+              "keyParts": [
+                199,
+                "p4",
+                "verse",
+                "v28",
+                "note",
+                "x"
+              ],
+              "value": "#ch.1:38;31:3,7;Num. 27:23"
+            },
+            {
+              "rowId": 200,
+              "keyParts": [
+                200,
+                "p4",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "charge Joshua, and encourage and strengthen him, for he shall go over at the head of this people, and he shall put them in possession of the land that you shall see.’"
+            },
+            {
+              "rowId": 201,
+              "keyParts": [
+                "v028_ESV_DEU_003",
+                201,
+                "p4",
+                "verse",
+                "v28",
+                "plain_text"
+              ],
+              "value": "28 But charge Joshua, and encourage and strengthen him, for he shall go over at the head of this people, and he shall put them in possession of the land that you shall see.’"
+            },
+            {
+              "rowId": 202,
+              "keyParts": [
+                202,
+                "p4",
+                "verse",
+                "v29",
+                "label"
+              ],
+              "value": "29"
+            },
+            {
+              "rowId": 203,
+              "keyParts": [
+                203,
+                "p4",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "So we remained in"
+            },
+            {
+              "rowId": 204,
+              "keyParts": [
+                204,
+                "p4",
+                "verse",
+                "v29",
+                "note",
+                "x"
+              ],
+              "value": "#ch.4:46;34:6"
+            },
+            {
+              "rowId": 205,
+              "keyParts": [
+                205,
+                "p4",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "the valley opposite Beth-peor."
+            },
+            {
+              "rowId": 206,
+              "keyParts": [
+                "v029_ESV_DEU_003",
+                206,
+                "p4",
+                "verse",
+                "v29",
+                "plain_text"
+              ],
+              "value": "29 So we remained in the valley opposite Beth-peor."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

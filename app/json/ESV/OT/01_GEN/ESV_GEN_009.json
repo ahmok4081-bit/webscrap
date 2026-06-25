@@ -1,0 +1,1565 @@
+{
+  "translationId": "ESV",
+  "name": "English Standard Version",
+  "abbreviation": "ESV",
+  "language": "English",
+  "copyright": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.",
+  "books": [
+    {
+      "bookId": "GEN",
+      "testament": "OT",
+      "order": 1,
+      "title": "Genesis",
+      "abbreviation": "GEN",
+      "chapters": [
+        {
+          "chapter": 9,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                2,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "And God blessed Noah and his sons and said to them,"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#ch.1:22,28;8:17"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "“Be fruitful and multiply and fill the earth."
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                "v001_ESV_GEN_009",
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 And God blessed Noah and his sons and said to them, “Be fruitful and multiply and fill the earth."
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                7,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#[Ps. 8:6-8;James 3:7]"
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                9,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "The fear of you and the dread of you shall be upon every beast of the earth and upon every bird of the heavens, upon everything that creeps on the ground and all the fish of the sea. Into your hand they are delivered."
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                "v002_ESV_GEN_009",
+                10,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 The fear of you and the dread of you shall be upon every beast of the earth and upon every bird of the heavens, upon everything that creeps on the ground and all the fish of the sea. Into your hand they are delivered."
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                11,
+                "p1",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                12,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 12:15;1 Tim. 4:3,4"
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                13,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "Every moving thing that lives shall be food for you. And"
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#ch.1:29"
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                15,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "as I gave you the green plants, I give you everything."
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                "v003_ESV_GEN_009",
+                16,
+                "p1",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 Every moving thing that lives shall be food for you. And as I gave you the green plants, I give you everything."
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                17,
+                "p1",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "But you shall not eat flesh with its"
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#Lev. 17:10,11,14;Deut. 12:16,23;1 Sam. 14:33;Acts 15:20,29"
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                20,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "life, that is, its blood."
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                "v004_ESV_GEN_009",
+                21,
+                "p1",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 But you shall not eat flesh with its life, that is, its blood."
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                22,
+                "p1",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "And for your lifeblood I will require a reckoning:"
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                24,
+                "p1",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 21:28"
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "from every beast I will require it and"
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                26,
+                "p1",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#ch.4:10,11"
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                27,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "from man. From his fellow man I will require a reckoning for the life of man."
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                "v005_ESV_GEN_009",
+                28,
+                "p1",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 And for your lifeblood I will require a reckoning: from every beast I will require it and from man. From his fellow man I will require a reckoning for the life of man."
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                29,
+                "q1_1",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                30,
+                "q1_1",
+                "verse",
+                "v6",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 21:12,14;Lev. 24:17;Num. 35:31,33;[Matt. 26:52;Rev. 13:10]"
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                31,
+                "q1_1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "“Whoever sheds the blood of man,"
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "q2_1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "by man shall his blood be shed,"
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                33,
+                "q1_2",
+                "verse",
+                "v6",
+                "note",
+                "x"
+              ],
+              "value": "#ch.1:27;5:1;James 3:9"
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                34,
+                "q1_2",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "for God made man in his own image."
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                "v006_ESV_GEN_009",
+                35,
+                "q1_1",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 “Whoever sheds the blood of man, by man shall his blood be shed, for God made man in his own image."
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "m1",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                37,
+                "m1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "And you,"
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                38,
+                "m1",
+                "verse",
+                "v7",
+                "note",
+                "f"
+              ],
+              "value": "#9:7In Hebrewyouis plural"
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                39,
+                "m1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "be fruitful and multiply, increase greatly on the earth and multiply in it.”"
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                "v007_ESV_GEN_009",
+                40,
+                "m1",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 And you, be fruitful and multiply, increase greatly on the earth and multiply in it.”"
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p2",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "Then God said to Noah and to his sons with him,"
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                "v008_ESV_GEN_009",
+                43,
+                "p2",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 Then God said to Noah and to his sons with him,"
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                44,
+                "p2",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                45,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "“Behold,"
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                46,
+                "p2",
+                "verse",
+                "v9",
+                "note",
+                "x"
+              ],
+              "value": "#ch.6:18;8:20-22"
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                47,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "I establish my covenant with you and your offspring after you,"
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                "v009_ESV_GEN_009",
+                48,
+                "p2",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 “Behold, I establish my covenant with you and your offspring after you,"
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                49,
+                "p2",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "and with every living creature that is with you, the birds, the livestock, and every beast of the earth with you, as many as came out of the ark; it is for every beast of the earth."
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                "v010_ESV_GEN_009",
+                51,
+                "p2",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 and with every living creature that is with you, the birds, the livestock, and every beast of the earth with you, as many as came out of the ark; it is for every beast of the earth."
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                52,
+                "p2",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                53,
+                "p2",
+                "verse",
+                "v11",
+                "note",
+                "x"
+              ],
+              "value": "#Isa. 54:9,10"
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                54,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "I establish my covenant with you, that never again shall all flesh be cut off by the waters of the flood, and never again shall there be a flood to destroy the earth.”"
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                "v011_ESV_GEN_009",
+                55,
+                "p2",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 I establish my covenant with you, that never again shall all flesh be cut off by the waters of the flood, and never again shall there be a flood to destroy the earth.”"
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                56,
+                "p2",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                57,
+                "p2",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "And God said,"
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                58,
+                "p2",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#ch.17:11"
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                59,
+                "p2",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "“This is the sign of the covenant that I make between me and you and every living creature that is with you, for all future generations:"
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                "v012_ESV_GEN_009",
+                60,
+                "p2",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 And God said, “This is the sign of the covenant that I make between me and you and every living creature that is with you, for all future generations:"
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                61,
+                "p2",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                62,
+                "p2",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "I have set"
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                63,
+                "p2",
+                "verse",
+                "v13",
+                "note",
+                "x"
+              ],
+              "value": "#Ezek. 1:28;[Rev. 4:3;10:1]"
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                64,
+                "p2",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "my bow in the cloud, and it shall be a sign of the covenant between me and the earth."
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                "v013_ESV_GEN_009",
+                65,
+                "p2",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 I have set my bow in the cloud, and it shall be a sign of the covenant between me and the earth."
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                66,
+                "p2",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                67,
+                "p2",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "When I bring clouds over the earth and the bow is seen in the clouds,"
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                "v014_ESV_GEN_009",
+                68,
+                "p2",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 When I bring clouds over the earth and the bow is seen in the clouds,"
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                69,
+                "p2",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                70,
+                "p2",
+                "verse",
+                "v15",
+                "note",
+                "x"
+              ],
+              "value": "#[Lev. 26:42,45;1 Kgs. 8:23;Ezek. 16:60]"
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                71,
+                "p2",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "I will remember my covenant that is between me and you and every living creature of all flesh. And the waters shall never again become a flood to destroy all flesh."
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                "v015_ESV_GEN_009",
+                72,
+                "p2",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 I will remember my covenant that is between me and you and every living creature of all flesh. And the waters shall never again become a flood to destroy all flesh."
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                73,
+                "p2",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                74,
+                "p2",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "When the bow is in the clouds, I will see it and remember"
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                75,
+                "p2",
+                "verse",
+                "v16",
+                "note",
+                "x"
+              ],
+              "value": "#ch.17:7,13,19"
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                76,
+                "p2",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "the everlasting covenant between God and every living creature of all flesh that is on the earth.”"
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                "v016_ESV_GEN_009",
+                77,
+                "p2",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 When the bow is in the clouds, I will see it and remember the everlasting covenant between God and every living creature of all flesh that is on the earth.”"
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                78,
+                "p2",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                79,
+                "p2",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "God said to Noah, “This is the sign of the covenant that I have established between me and all flesh that is on the earth.”"
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Noah’s Descendants"
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                "v017_ESV_GEN_009",
+                81,
+                "p2",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 God said to Noah, “This is the sign of the covenant that I have established between me and all flesh that is on the earth.”"
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                82,
+                "p3",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                83,
+                "p3",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "The sons of Noah who went forth from the ark were"
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                84,
+                "p3",
+                "verse",
+                "v18",
+                "note",
+                "x"
+              ],
+              "value": "#ch.5:32;10:1"
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                85,
+                "p3",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "Shem, Ham, and Japheth. (Ham was the father of Canaan.)"
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                "v018_ESV_GEN_009",
+                86,
+                "p3",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 The sons of Noah who went forth from the ark were Shem, Ham, and Japheth. (Ham was the father of Canaan.)"
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                87,
+                "p3",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                88,
+                "p3",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "These three were the sons of Noah, and"
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                89,
+                "p3",
+                "verse",
+                "v19",
+                "note",
+                "x"
+              ],
+              "value": "#ch.10:32"
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                90,
+                "p3",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "from these the people of the whole earth were dispersed."
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                91,
+                "p3",
+                "verse",
+                "v19",
+                "note",
+                "f"
+              ],
+              "value": "#9:19Orfrom these the whole earth was populated"
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                "v019_ESV_GEN_009",
+                92,
+                "p3",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 These three were the sons of Noah, and from these the people of the whole earth were dispersed."
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                93,
+                "p4",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                94,
+                "p4",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "Noah began to be a man of the soil, and he planted a vineyard."
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                95,
+                "p4",
+                "verse",
+                "v20",
+                "note",
+                "f"
+              ],
+              "value": "#9:20OrNoah, a man of the soil, was the first to plant a vineyard"
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                "v020_ESV_GEN_009",
+                96,
+                "p4",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 Noah began to be a man of the soil, and he planted a vineyard."
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                97,
+                "p4",
+                "verse",
+                "v21",
+                "label"
+              ],
+              "value": "21"
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                98,
+                "p4",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "He drank of the wine and became drunk and lay uncovered in his tent."
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                "v021_ESV_GEN_009",
+                99,
+                "p4",
+                "verse",
+                "v21",
+                "plain_text"
+              ],
+              "value": "21 He drank of the wine and became drunk and lay uncovered in his tent."
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                100,
+                "p4",
+                "verse",
+                "v22",
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                101,
+                "p4",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "And Ham, the father of Canaan, saw the nakedness of his father and told his two brothers outside."
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                "v022_ESV_GEN_009",
+                102,
+                "p4",
+                "verse",
+                "v22",
+                "plain_text"
+              ],
+              "value": "22 And Ham, the father of Canaan, saw the nakedness of his father and told his two brothers outside."
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                103,
+                "p4",
+                "verse",
+                "v23",
+                "label"
+              ],
+              "value": "23"
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                104,
+                "p4",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "Then Shem and Japheth took a garment, laid it on both their shoulders, and walked backward and covered the nakedness of their father. Their faces were turned backward, and they did not see their father’s nakedness."
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                "v023_ESV_GEN_009",
+                105,
+                "p4",
+                "verse",
+                "v23",
+                "plain_text"
+              ],
+              "value": "23 Then Shem and Japheth took a garment, laid it on both their shoulders, and walked backward and covered the nakedness of their father. Their faces were turned backward, and they did not see their father’s nakedness."
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                106,
+                "p4",
+                "verse",
+                "v24",
+                "label"
+              ],
+              "value": "24"
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                107,
+                "p4",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "When Noah awoke from his wine"
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                108,
+                "p4",
+                "verse",
+                "v24",
+                "note",
+                "x"
+              ],
+              "value": "#[Hab. 2:15]"
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                109,
+                "p4",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "and knew what his youngest son had done to him,"
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                "v024_ESV_GEN_009",
+                110,
+                "p4",
+                "verse",
+                "v24",
+                "plain_text"
+              ],
+              "value": "24 When Noah awoke from his wine and knew what his youngest son had done to him,"
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                111,
+                "p4",
+                "verse",
+                "v25",
+                "label"
+              ],
+              "value": "25"
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                112,
+                "p4",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "he said,"
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                113,
+                "q1_3",
+                "verse",
+                "v25",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 27:16"
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                114,
+                "q1_3",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "“Cursed be Canaan;"
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                115,
+                "q2_2",
+                "verse",
+                "v25",
+                "note",
+                "x"
+              ],
+              "value": "#Josh. 9:23;Judg. 1:28;1 Kgs. 9:20,21"
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                116,
+                "q2_2",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "a servant of servants shall he be to his brothers.”"
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                "v025_ESV_GEN_009",
+                117,
+                "p4",
+                "verse",
+                "v25",
+                "plain_text"
+              ],
+              "value": "25 he said, “Cursed be Canaan; a servant of servants shall he be to his brothers.”"
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                118,
+                "m2",
+                "verse",
+                "v26",
+                "label"
+              ],
+              "value": "26"
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                119,
+                "m2",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "He also said,"
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                120,
+                "q1_4",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "“Blessed be the"
+            },
+            {
+              "rowId": 121,
+              "keyParts": [
+                121,
+                "q1_4",
+                "verse",
+                "v26",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 122,
+              "keyParts": [
+                122,
+                "q1_4",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": ", the God of Shem;"
+            },
+            {
+              "rowId": 123,
+              "keyParts": [
+                123,
+                "q2_3",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "and let Canaan be his servant."
+            },
+            {
+              "rowId": 124,
+              "keyParts": [
+                "v026_ESV_GEN_009",
+                124,
+                "m2",
+                "verse",
+                "v26",
+                "plain_text"
+              ],
+              "value": "26 He also said, “Blessed be the Lord , the God of Shem; and let Canaan be his servant."
+            },
+            {
+              "rowId": 125,
+              "keyParts": [
+                125,
+                "q1_5",
+                "verse",
+                "v27",
+                "label"
+              ],
+              "value": "27"
+            },
+            {
+              "rowId": 126,
+              "keyParts": [
+                126,
+                "q1_5",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "May God enlarge Japheth,"
+            },
+            {
+              "rowId": 127,
+              "keyParts": [
+                127,
+                "q1_5",
+                "verse",
+                "v27",
+                "note",
+                "f"
+              ],
+              "value": "#9:27Japhethsounds like the Hebrew forenlarge"
+            },
+            {
+              "rowId": 128,
+              "keyParts": [
+                128,
+                "q2_4",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "and let him dwell in the tents of Shem,"
+            },
+            {
+              "rowId": 129,
+              "keyParts": [
+                129,
+                "q2_5",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "and let Canaan be his servant.”"
+            },
+            {
+              "rowId": 130,
+              "keyParts": [
+                "v027_ESV_GEN_009",
+                130,
+                "q1_5",
+                "verse",
+                "v27",
+                "plain_text"
+              ],
+              "value": "27 May God enlarge Japheth, and let him dwell in the tents of Shem, and let Canaan be his servant.”"
+            },
+            {
+              "rowId": 131,
+              "keyParts": [
+                131,
+                "p5",
+                "verse",
+                "v28",
+                "label"
+              ],
+              "value": "28"
+            },
+            {
+              "rowId": 132,
+              "keyParts": [
+                132,
+                "p5",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "After the flood Noah lived 350 years."
+            },
+            {
+              "rowId": 133,
+              "keyParts": [
+                "v028_ESV_GEN_009",
+                133,
+                "p5",
+                "verse",
+                "v28",
+                "plain_text"
+              ],
+              "value": "28 After the flood Noah lived 350 years."
+            },
+            {
+              "rowId": 134,
+              "keyParts": [
+                134,
+                "p5",
+                "verse",
+                "v29",
+                "label"
+              ],
+              "value": "29"
+            },
+            {
+              "rowId": 135,
+              "keyParts": [
+                135,
+                "p5",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "All the days of Noah were 950 years, and he died."
+            },
+            {
+              "rowId": 136,
+              "keyParts": [
+                "v029_ESV_GEN_009",
+                136,
+                "p5",
+                "verse",
+                "v29",
+                "plain_text"
+              ],
+              "value": "29 All the days of Noah were 950 years, and he died."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

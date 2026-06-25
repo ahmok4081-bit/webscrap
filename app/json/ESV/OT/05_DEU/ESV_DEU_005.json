@@ -1,0 +1,2372 @@
+{
+  "translationId": "ESV",
+  "name": "English Standard Version",
+  "abbreviation": "ESV",
+  "language": "English",
+  "copyright": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.",
+  "books": [
+    {
+      "bookId": "DEU",
+      "testament": "OT",
+      "order": 5,
+      "title": "Deuteronomy",
+      "abbreviation": "DEU",
+      "chapters": [
+        {
+          "chapter": 5,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "The Ten Commandments"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "And Moses summoned all Israel and said to them, “Hear, O Israel, the statutes and the rules that I speak in your hearing today, and you shall learn them and be careful to do them."
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                "v001_ESV_DEU_005",
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 And Moses summoned all Israel and said to them, “Hear, O Israel, the statutes and the rules that I speak in your hearing today, and you shall learn them and be careful to do them."
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                7,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#ch.4:23;Ex. 19:5"
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "The"
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                9,
+                "p1",
+                "verse",
+                "v2",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "our God made a covenant with us in Horeb."
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                "v002_ESV_DEU_005",
+                11,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 The Lord our God made a covenant with us in Horeb."
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                12,
+                "p1",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                13,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#[Heb. 8:9]"
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "Not with our fathers did the"
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                15,
+                "p1",
+                "verse",
+                "v3",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                16,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "make this covenant, but with us, who are all of us here alive today."
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                "v003_ESV_DEU_005",
+                17,
+                "p1",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 Not with our fathers did the Lord make this covenant, but with us, who are all of us here alive today."
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "p1",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "The"
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                20,
+                "p1",
+                "verse",
+                "v4",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "spoke with you"
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                22,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#[ch.34:10;Ex. 33:11;Num. 14:14;Judg. 6:22]"
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "face to face at the mountain, out of the midst of the fire,"
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                "v004_ESV_DEU_005",
+                24,
+                "p1",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 The Lord spoke with you face to face at the mountain, out of the midst of the fire,"
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "p1",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                26,
+                "p1",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 20:21;[Gal. 3:19]"
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                27,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "while I stood between the"
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                28,
+                "p1",
+                "verse",
+                "v5",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                29,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "and you at that time, to declare to you the word of the"
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                30,
+                "p1",
+                "verse",
+                "v5",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                31,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": ". For"
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "p1",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 19:16;20:18;24:2"
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                33,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "you were afraid because of the fire, and you did not go up into the mountain. He said:"
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                "v005_ESV_DEU_005",
+                34,
+                "p1",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 while I stood between the Lord and you at that time, to declare to you the word of the Lord . For you were afraid because of the fire, and you did not go up into the mountain. He said:"
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                35,
+                "p2",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "p2",
+                "verse",
+                "v6",
+                "note",
+                "x"
+              ],
+              "value": "#For ver. 6-21, seeEx. 20:2-17"
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                37,
+                "p2",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "“‘I am the"
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                38,
+                "p2",
+                "verse",
+                "v6",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                39,
+                "p2",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "your God, who brought you out of the land of Egypt, out of the house of slavery."
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                "v006_ESV_DEU_005",
+                40,
+                "p2",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 “‘I am the Lord your God, who brought you out of the land of Egypt, out of the house of slavery."
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p3",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "p3",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "“‘You shall have no other gods before"
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                43,
+                "p3",
+                "verse",
+                "v7",
+                "note",
+                "f"
+              ],
+              "value": "#5:7Orbesides"
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                44,
+                "p3",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "me."
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                "v007_ESV_DEU_005",
+                45,
+                "p3",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 “‘You shall have no other gods before me."
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                46,
+                "p4",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                47,
+                "p4",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "“‘You shall not make for yourself a carved image, or any likeness of anything that is in heaven above, or that is on the earth beneath, or that is in the water under the earth."
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                "v008_ESV_DEU_005",
+                48,
+                "p4",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 “‘You shall not make for yourself a carved image, or any likeness of anything that is in heaven above, or that is on the earth beneath, or that is in the water under the earth."
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                49,
+                "p4",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "p4",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "You shall not bow down to them or serve them, for I the"
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                51,
+                "p4",
+                "verse",
+                "v9",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                52,
+                "p4",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "your God am a jealous God, visiting the iniquity of the fathers on the children to the third and fourth generation of those who hate me,"
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                "v009_ESV_DEU_005",
+                53,
+                "p4",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 You shall not bow down to them or serve them, for I the Lord your God am a jealous God, visiting the iniquity of the fathers on the children to the third and fourth generation of those who hate me,"
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                54,
+                "p4",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                55,
+                "p4",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "but showing steadfast love to"
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                56,
+                "p4",
+                "verse",
+                "v10",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 20:6;Jer. 32:18"
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                57,
+                "p4",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "thousands"
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                58,
+                "p4",
+                "verse",
+                "v10",
+                "note",
+                "f"
+              ],
+              "value": "#5:10Orto the thousandth generation"
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                59,
+                "p4",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "of those who love me and keep my commandments."
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                "v010_ESV_DEU_005",
+                60,
+                "p4",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 but showing steadfast love to thousands of those who love me and keep my commandments."
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                61,
+                "p5",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                62,
+                "p5",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "“‘You shall not take the name of the"
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                63,
+                "p5",
+                "verse",
+                "v11",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                64,
+                "p5",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "your God in vain, for the"
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                65,
+                "p5",
+                "verse",
+                "v11",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                66,
+                "p5",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "will not hold him guiltless who takes his name in vain."
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                "v011_ESV_DEU_005",
+                67,
+                "p5",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 “‘You shall not take the name of the Lord your God in vain, for the Lord will not hold him guiltless who takes his name in vain."
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                68,
+                "p6",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                69,
+                "p6",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "“‘Observe the Sabbath day, to keep it holy, as the"
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                70,
+                "p6",
+                "verse",
+                "v12",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                71,
+                "p6",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "your God commanded you."
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                "v012_ESV_DEU_005",
+                72,
+                "p6",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 “‘Observe the Sabbath day, to keep it holy, as the Lord your God commanded you."
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                73,
+                "p6",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                74,
+                "p6",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "Six days you shall labor and do all your work,"
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                "v013_ESV_DEU_005",
+                75,
+                "p6",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 Six days you shall labor and do all your work,"
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                76,
+                "p6",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                77,
+                "p6",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "but"
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                78,
+                "p6",
+                "verse",
+                "v14",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 16:29,30;Heb. 4:4"
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                79,
+                "p6",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "the seventh day is a Sabbath to the"
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                80,
+                "p6",
+                "verse",
+                "v14",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                81,
+                "p6",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "your God. On it you shall not do any work, you or your son or your daughter or your male servant or your female servant, or your ox or your donkey or any of your livestock, or the sojourner who is within your gates,"
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                82,
+                "p6",
+                "verse",
+                "v14",
+                "note",
+                "x"
+              ],
+              "value": "#[Ex. 23:12]"
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                83,
+                "p6",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "that your male servant and your female servant may rest as well as you."
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                "v014_ESV_DEU_005",
+                84,
+                "p6",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 but the seventh day is a Sabbath to the Lord your God. On it you shall not do any work, you or your son or your daughter or your male servant or your female servant, or your ox or your donkey or any of your livestock, or the sojourner who is within your gates, that your male servant and your female servant may rest as well as you."
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                85,
+                "p6",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                86,
+                "p6",
+                "verse",
+                "v15",
+                "note",
+                "x"
+              ],
+              "value": "#ch.15:15;16:12;24:18,22"
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                87,
+                "p6",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "You shall remember that you were a slave"
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                88,
+                "p6",
+                "verse",
+                "v15",
+                "note",
+                "f"
+              ],
+              "value": "#5:15Orservant"
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                89,
+                "p6",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "in the land of Egypt, and the"
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                90,
+                "p6",
+                "verse",
+                "v15",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                91,
+                "p6",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "your God brought you out from there"
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                92,
+                "p6",
+                "verse",
+                "v15",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.4:34"
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                93,
+                "p6",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "with a mighty hand and an outstretched arm. Therefore the"
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                94,
+                "p6",
+                "verse",
+                "v15",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                95,
+                "p6",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "your God commanded you to keep the Sabbath day."
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                "v015_ESV_DEU_005",
+                96,
+                "p6",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 You shall remember that you were a slave in the land of Egypt, and the Lord your God brought you out from there with a mighty hand and an outstretched arm. Therefore the Lord your God commanded you to keep the Sabbath day."
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                97,
+                "p7",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                98,
+                "p7",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "“‘Honor your father and your mother, as the"
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                99,
+                "p7",
+                "verse",
+                "v16",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                100,
+                "p7",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "your God commanded you,"
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                101,
+                "p7",
+                "verse",
+                "v16",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.4:40"
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                102,
+                "p7",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "that your days may be long, and that it may go well with you in the land that the"
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                103,
+                "p7",
+                "verse",
+                "v16",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                104,
+                "p7",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "your God is giving you."
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                "v016_ESV_DEU_005",
+                105,
+                "p7",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 “‘Honor your father and your mother, as the Lord your God commanded you, that your days may be long, and that it may go well with you in the land that the Lord your God is giving you."
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                106,
+                "p8",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                107,
+                "p8",
+                "verse",
+                "v17",
+                "note",
+                "x"
+              ],
+              "value": "#Matt. 5:21,27;Luke 18:20;James 2:11"
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                108,
+                "p8",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "“‘You shall not murder."
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                109,
+                "p8",
+                "verse",
+                "v17",
+                "note",
+                "f"
+              ],
+              "value": "#5:17The Hebrew word also covers causing human death through carelessness or negligence"
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                "v017_ESV_DEU_005",
+                110,
+                "p8",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 “‘You shall not murder."
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                111,
+                "p9",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                112,
+                "p9",
+                "verse",
+                "v18",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.17above]"
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                113,
+                "p9",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "“‘And you shall not commit adultery."
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                "v018_ESV_DEU_005",
+                114,
+                "p9",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 “‘And you shall not commit adultery."
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                115,
+                "p10",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                116,
+                "p10",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "“‘And you shall not steal."
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                "v019_ESV_DEU_005",
+                117,
+                "p10",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 “‘And you shall not steal."
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                118,
+                "p11",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                119,
+                "p11",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "“‘And you shall not bear false witness against your neighbor."
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                "v020_ESV_DEU_005",
+                120,
+                "p11",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 “‘And you shall not bear false witness against your neighbor."
+            },
+            {
+              "rowId": 121,
+              "keyParts": [
+                121,
+                "p12",
+                "verse",
+                "v21",
+                "label"
+              ],
+              "value": "21"
+            },
+            {
+              "rowId": 122,
+              "keyParts": [
+                122,
+                "p12",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "“‘And you shall not covet your neighbor’s wife. And you shall not desire your neighbor’s house, his field, or his male servant, or his female servant, his ox, or his donkey, or anything that is your neighbor’s.’"
+            },
+            {
+              "rowId": 123,
+              "keyParts": [
+                "v021_ESV_DEU_005",
+                123,
+                "p12",
+                "verse",
+                "v21",
+                "plain_text"
+              ],
+              "value": "21 “‘And you shall not covet your neighbor’s wife. And you shall not desire your neighbor’s house, his field, or his male servant, or his female servant, his ox, or his donkey, or anything that is your neighbor’s.’"
+            },
+            {
+              "rowId": 124,
+              "keyParts": [
+                124,
+                "p13",
+                "verse",
+                "v22",
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 125,
+              "keyParts": [
+                125,
+                "p13",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "“These words the"
+            },
+            {
+              "rowId": 126,
+              "keyParts": [
+                126,
+                "p13",
+                "verse",
+                "v22",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 127,
+              "keyParts": [
+                127,
+                "p13",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "spoke to all your assembly"
+            },
+            {
+              "rowId": 128,
+              "keyParts": [
+                128,
+                "p13",
+                "verse",
+                "v22",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.4:11"
+            },
+            {
+              "rowId": 129,
+              "keyParts": [
+                129,
+                "p13",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "at the mountain out of the midst of the fire, the cloud, and the thick darkness, with a loud voice; and he added no more. And"
+            },
+            {
+              "rowId": 130,
+              "keyParts": [
+                130,
+                "p13",
+                "verse",
+                "v22",
+                "note",
+                "x"
+              ],
+              "value": "#ch.9:10,11;Ex. 24:12"
+            },
+            {
+              "rowId": 131,
+              "keyParts": [
+                131,
+                "p13",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "he wrote them on two tablets of stone and gave them to me."
+            },
+            {
+              "rowId": 132,
+              "keyParts": [
+                "v022_ESV_DEU_005",
+                132,
+                "p13",
+                "verse",
+                "v22",
+                "plain_text"
+              ],
+              "value": "22 “These words the Lord spoke to all your assembly at the mountain out of the midst of the fire, the cloud, and the thick darkness, with a loud voice; and he added no more. And he wrote them on two tablets of stone and gave them to me."
+            },
+            {
+              "rowId": 133,
+              "keyParts": [
+                133,
+                "p13",
+                "verse",
+                "v23",
+                "label"
+              ],
+              "value": "23"
+            },
+            {
+              "rowId": 134,
+              "keyParts": [
+                134,
+                "p13",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "And"
+            },
+            {
+              "rowId": 135,
+              "keyParts": [
+                135,
+                "p13",
+                "verse",
+                "v23",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.4:12"
+            },
+            {
+              "rowId": 136,
+              "keyParts": [
+                136,
+                "p13",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "as soon as you heard the voice out of the midst of the darkness, while the mountain was burning with fire, you came near to me, all the heads of your tribes, and your elders."
+            },
+            {
+              "rowId": 137,
+              "keyParts": [
+                "v023_ESV_DEU_005",
+                137,
+                "p13",
+                "verse",
+                "v23",
+                "plain_text"
+              ],
+              "value": "23 And as soon as you heard the voice out of the midst of the darkness, while the mountain was burning with fire, you came near to me, all the heads of your tribes, and your elders."
+            },
+            {
+              "rowId": 138,
+              "keyParts": [
+                138,
+                "p13",
+                "verse",
+                "v24",
+                "label"
+              ],
+              "value": "24"
+            },
+            {
+              "rowId": 139,
+              "keyParts": [
+                139,
+                "p13",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "And you said, ‘Behold, the"
+            },
+            {
+              "rowId": 140,
+              "keyParts": [
+                140,
+                "p13",
+                "verse",
+                "v24",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 141,
+              "keyParts": [
+                141,
+                "p13",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "our God has shown us his glory and"
+            },
+            {
+              "rowId": 142,
+              "keyParts": [
+                142,
+                "p13",
+                "verse",
+                "v24",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.3:24"
+            },
+            {
+              "rowId": 143,
+              "keyParts": [
+                143,
+                "p13",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "greatness, and"
+            },
+            {
+              "rowId": 144,
+              "keyParts": [
+                144,
+                "p13",
+                "verse",
+                "v24",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 19:19"
+            },
+            {
+              "rowId": 145,
+              "keyParts": [
+                145,
+                "p13",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "we have heard his voice out of the midst of the fire. This day we have seen God speak with man, and man"
+            },
+            {
+              "rowId": 146,
+              "keyParts": [
+                146,
+                "p13",
+                "verse",
+                "v24",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.4:33"
+            },
+            {
+              "rowId": 147,
+              "keyParts": [
+                147,
+                "p13",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "still live."
+            },
+            {
+              "rowId": 148,
+              "keyParts": [
+                "v024_ESV_DEU_005",
+                148,
+                "p13",
+                "verse",
+                "v24",
+                "plain_text"
+              ],
+              "value": "24 And you said, ‘Behold, the Lord our God has shown us his glory and greatness, and we have heard his voice out of the midst of the fire. This day we have seen God speak with man, and man still live."
+            },
+            {
+              "rowId": 149,
+              "keyParts": [
+                149,
+                "p13",
+                "verse",
+                "v25",
+                "label"
+              ],
+              "value": "25"
+            },
+            {
+              "rowId": 150,
+              "keyParts": [
+                150,
+                "p13",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "Now therefore why should we die? For this great fire will consume us."
+            },
+            {
+              "rowId": 151,
+              "keyParts": [
+                151,
+                "p13",
+                "verse",
+                "v25",
+                "note",
+                "x"
+              ],
+              "value": "#ch.18:16"
+            },
+            {
+              "rowId": 152,
+              "keyParts": [
+                152,
+                "p13",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "If we hear the voice of the"
+            },
+            {
+              "rowId": 153,
+              "keyParts": [
+                153,
+                "p13",
+                "verse",
+                "v25",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 154,
+              "keyParts": [
+                154,
+                "p13",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "our God any more, we shall die."
+            },
+            {
+              "rowId": 155,
+              "keyParts": [
+                "v025_ESV_DEU_005",
+                155,
+                "p13",
+                "verse",
+                "v25",
+                "plain_text"
+              ],
+              "value": "25 Now therefore why should we die? For this great fire will consume us. If we hear the voice of the Lord our God any more, we shall die."
+            },
+            {
+              "rowId": 156,
+              "keyParts": [
+                156,
+                "p13",
+                "verse",
+                "v26",
+                "label"
+              ],
+              "value": "26"
+            },
+            {
+              "rowId": 157,
+              "keyParts": [
+                157,
+                "p13",
+                "verse",
+                "v26",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.24above]"
+            },
+            {
+              "rowId": 158,
+              "keyParts": [
+                158,
+                "p13",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "For who is there of all flesh, that has heard the voice of the living God speaking out of the midst of fire as we have, and has still lived?"
+            },
+            {
+              "rowId": 159,
+              "keyParts": [
+                "v026_ESV_DEU_005",
+                159,
+                "p13",
+                "verse",
+                "v26",
+                "plain_text"
+              ],
+              "value": "26 For who is there of all flesh, that has heard the voice of the living God speaking out of the midst of fire as we have, and has still lived?"
+            },
+            {
+              "rowId": 160,
+              "keyParts": [
+                160,
+                "p13",
+                "verse",
+                "v27",
+                "label"
+              ],
+              "value": "27"
+            },
+            {
+              "rowId": 161,
+              "keyParts": [
+                161,
+                "p13",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "Go near and hear all that the"
+            },
+            {
+              "rowId": 162,
+              "keyParts": [
+                162,
+                "p13",
+                "verse",
+                "v27",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 163,
+              "keyParts": [
+                163,
+                "p13",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "our God will say, and"
+            },
+            {
+              "rowId": 164,
+              "keyParts": [
+                164,
+                "p13",
+                "verse",
+                "v27",
+                "note",
+                "x"
+              ],
+              "value": "#SeeEx. 20:19"
+            },
+            {
+              "rowId": 165,
+              "keyParts": [
+                165,
+                "p13",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "speak to us all that the"
+            },
+            {
+              "rowId": 166,
+              "keyParts": [
+                166,
+                "p13",
+                "verse",
+                "v27",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 167,
+              "keyParts": [
+                167,
+                "p13",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "our God will speak to you, and we will hear and do it.’"
+            },
+            {
+              "rowId": 168,
+              "keyParts": [
+                "v027_ESV_DEU_005",
+                168,
+                "p13",
+                "verse",
+                "v27",
+                "plain_text"
+              ],
+              "value": "27 Go near and hear all that the Lord our God will say, and speak to us all that the Lord our God will speak to you, and we will hear and do it.’"
+            },
+            {
+              "rowId": 169,
+              "keyParts": [
+                169,
+                "p14",
+                "verse",
+                "v28",
+                "label"
+              ],
+              "value": "28"
+            },
+            {
+              "rowId": 170,
+              "keyParts": [
+                170,
+                "p14",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "“And the"
+            },
+            {
+              "rowId": 171,
+              "keyParts": [
+                171,
+                "p14",
+                "verse",
+                "v28",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 172,
+              "keyParts": [
+                172,
+                "p14",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "heard your words, when you spoke to me. And the"
+            },
+            {
+              "rowId": 173,
+              "keyParts": [
+                173,
+                "p14",
+                "verse",
+                "v28",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 174,
+              "keyParts": [
+                174,
+                "p14",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "said to me, ‘I have heard the words of this people, which they have spoken to you."
+            },
+            {
+              "rowId": 175,
+              "keyParts": [
+                175,
+                "p14",
+                "verse",
+                "v28",
+                "note",
+                "x"
+              ],
+              "value": "#ch.18:17"
+            },
+            {
+              "rowId": 176,
+              "keyParts": [
+                176,
+                "p14",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "They are right in all that they have spoken."
+            },
+            {
+              "rowId": 177,
+              "keyParts": [
+                "v028_ESV_DEU_005",
+                177,
+                "p14",
+                "verse",
+                "v28",
+                "plain_text"
+              ],
+              "value": "28 “And the Lord heard your words, when you spoke to me. And the Lord said to me, ‘I have heard the words of this people, which they have spoken to you. They are right in all that they have spoken."
+            },
+            {
+              "rowId": 178,
+              "keyParts": [
+                178,
+                "p14",
+                "verse",
+                "v29",
+                "label"
+              ],
+              "value": "29"
+            },
+            {
+              "rowId": 179,
+              "keyParts": [
+                179,
+                "p14",
+                "verse",
+                "v29",
+                "note",
+                "x"
+              ],
+              "value": "#ch.32:29;Ps. 81:13;Isa. 48:18;[Matt. 23:37;Luke 19:42]"
+            },
+            {
+              "rowId": 180,
+              "keyParts": [
+                180,
+                "p14",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "Oh that they had such a heart as this always, to fear me and to keep all my commandments,"
+            },
+            {
+              "rowId": 181,
+              "keyParts": [
+                181,
+                "p14",
+                "verse",
+                "v29",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.4:40"
+            },
+            {
+              "rowId": 182,
+              "keyParts": [
+                182,
+                "p14",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "that it might go well with them and with their descendants"
+            },
+            {
+              "rowId": 183,
+              "keyParts": [
+                183,
+                "p14",
+                "verse",
+                "v29",
+                "note",
+                "f"
+              ],
+              "value": "#5:29Orsons"
+            },
+            {
+              "rowId": 184,
+              "keyParts": [
+                184,
+                "p14",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "forever!"
+            },
+            {
+              "rowId": 185,
+              "keyParts": [
+                "v029_ESV_DEU_005",
+                185,
+                "p14",
+                "verse",
+                "v29",
+                "plain_text"
+              ],
+              "value": "29 Oh that they had such a heart as this always, to fear me and to keep all my commandments, that it might go well with them and with their descendants forever!"
+            },
+            {
+              "rowId": 186,
+              "keyParts": [
+                186,
+                "p14",
+                "verse",
+                "v30",
+                "label"
+              ],
+              "value": "30"
+            },
+            {
+              "rowId": 187,
+              "keyParts": [
+                187,
+                "p14",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "Go and say to them, “Return to your tents.”"
+            },
+            {
+              "rowId": 188,
+              "keyParts": [
+                "v030_ESV_DEU_005",
+                188,
+                "p14",
+                "verse",
+                "v30",
+                "plain_text"
+              ],
+              "value": "30 Go and say to them, “Return to your tents.”"
+            },
+            {
+              "rowId": 189,
+              "keyParts": [
+                189,
+                "p14",
+                "verse",
+                "v31",
+                "label"
+              ],
+              "value": "31"
+            },
+            {
+              "rowId": 190,
+              "keyParts": [
+                190,
+                "p14",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "But you, stand here by me, and"
+            },
+            {
+              "rowId": 191,
+              "keyParts": [
+                191,
+                "p14",
+                "verse",
+                "v31",
+                "note",
+                "x"
+              ],
+              "value": "#Gal. 3:19"
+            },
+            {
+              "rowId": 192,
+              "keyParts": [
+                192,
+                "p14",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "I will tell you the whole commandment and the statutes and the rules that you shall teach them, that they may do them in the land that I am giving them to possess.’"
+            },
+            {
+              "rowId": 193,
+              "keyParts": [
+                "v031_ESV_DEU_005",
+                193,
+                "p14",
+                "verse",
+                "v31",
+                "plain_text"
+              ],
+              "value": "31 But you, stand here by me, and I will tell you the whole commandment and the statutes and the rules that you shall teach them, that they may do them in the land that I am giving them to possess.’"
+            },
+            {
+              "rowId": 194,
+              "keyParts": [
+                194,
+                "p14",
+                "verse",
+                "v32",
+                "label"
+              ],
+              "value": "32"
+            },
+            {
+              "rowId": 195,
+              "keyParts": [
+                195,
+                "p14",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "You shall be careful therefore to do as the"
+            },
+            {
+              "rowId": 196,
+              "keyParts": [
+                196,
+                "p14",
+                "verse",
+                "v32",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 197,
+              "keyParts": [
+                197,
+                "p14",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "your God has commanded you."
+            },
+            {
+              "rowId": 198,
+              "keyParts": [
+                198,
+                "p14",
+                "verse",
+                "v32",
+                "note",
+                "x"
+              ],
+              "value": "#ch.17:20;28:14;Josh. 1:7;23:6;2 Kgs. 22:2;Prov. 4:27"
+            },
+            {
+              "rowId": 199,
+              "keyParts": [
+                199,
+                "p14",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "You shall not turn aside to the right hand or to the left."
+            },
+            {
+              "rowId": 200,
+              "keyParts": [
+                "v032_ESV_DEU_005",
+                200,
+                "p14",
+                "verse",
+                "v32",
+                "plain_text"
+              ],
+              "value": "32 You shall be careful therefore to do as the Lord your God has commanded you. You shall not turn aside to the right hand or to the left."
+            },
+            {
+              "rowId": 201,
+              "keyParts": [
+                201,
+                "p14",
+                "verse",
+                "v33",
+                "label"
+              ],
+              "value": "33"
+            },
+            {
+              "rowId": 202,
+              "keyParts": [
+                202,
+                "p14",
+                "verse",
+                "v33",
+                "note",
+                "x"
+              ],
+              "value": "#ch.10:12;30:16;Jer. 7:23;[Luke 1:6]"
+            },
+            {
+              "rowId": 203,
+              "keyParts": [
+                203,
+                "p14",
+                "verse",
+                "v33",
+                "content"
+              ],
+              "value": "You shall walk in all the way that the"
+            },
+            {
+              "rowId": 204,
+              "keyParts": [
+                204,
+                "p14",
+                "verse",
+                "v33",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 205,
+              "keyParts": [
+                205,
+                "p14",
+                "verse",
+                "v33",
+                "content"
+              ],
+              "value": "your God has commanded you, that you may live, and"
+            },
+            {
+              "rowId": 206,
+              "keyParts": [
+                206,
+                "p14",
+                "verse",
+                "v33",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.4:40"
+            },
+            {
+              "rowId": 207,
+              "keyParts": [
+                207,
+                "p14",
+                "verse",
+                "v33",
+                "content"
+              ],
+              "value": "that it may go well with you, and that you may live long in the land that you shall possess."
+            },
+            {
+              "rowId": 208,
+              "keyParts": [
+                "v033_ESV_DEU_005",
+                208,
+                "p14",
+                "verse",
+                "v33",
+                "plain_text"
+              ],
+              "value": "33 You shall walk in all the way that the Lord your God has commanded you, that you may live, and that it may go well with you, and that you may live long in the land that you shall possess."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

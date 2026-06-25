@@ -1,0 +1,3034 @@
+{
+  "translationId": "ESV",
+  "name": "English Standard Version",
+  "abbreviation": "ESV",
+  "language": "English",
+  "copyright": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.",
+  "books": [
+    {
+      "bookId": "GEN",
+      "testament": "OT",
+      "order": 1,
+      "title": "Genesis",
+      "abbreviation": "GEN",
+      "chapters": [
+        {
+          "chapter": 41,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "41"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Joseph Interprets Pharaoh’s Dreams"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "After two whole years, Pharaoh dreamed that he was standing by the Nile,"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                "v001_ESV_GEN_041",
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 After two whole years, Pharaoh dreamed that he was standing by the Nile,"
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                7,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "and behold, there came up out of the Nile seven cows, attractive and plump, and they fed in the reed grass."
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                "v002_ESV_GEN_041",
+                8,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 and behold, there came up out of the Nile seven cows, attractive and plump, and they fed in the reed grass."
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                9,
+                "p1",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "And behold, seven other cows, ugly and thin, came up out of the Nile after them, and stood by the other cows on the bank of the Nile."
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                "v003_ESV_GEN_041",
+                11,
+                "p1",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 And behold, seven other cows, ugly and thin, came up out of the Nile after them, and stood by the other cows on the bank of the Nile."
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                12,
+                "p1",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                13,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "And the ugly, thin cows ate up the seven attractive, plump cows. And Pharaoh awoke."
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                "v004_ESV_GEN_041",
+                14,
+                "p1",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 And the ugly, thin cows ate up the seven attractive, plump cows. And Pharaoh awoke."
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                15,
+                "p1",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                16,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "And he fell asleep and dreamed a second time. And behold, seven ears of grain, plump and good, were growing on one stalk."
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                "v005_ESV_GEN_041",
+                17,
+                "p1",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 And he fell asleep and dreamed a second time. And behold, seven ears of grain, plump and good, were growing on one stalk."
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "p1",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "And behold, after them sprouted seven ears, thin and"
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                20,
+                "p1",
+                "verse",
+                "v6",
+                "note",
+                "x"
+              ],
+              "value": "#[Ezek. 17:10;19:12]; Hos. 13:15"
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "blighted by the east wind."
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                "v006_ESV_GEN_041",
+                22,
+                "p1",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 And behold, after them sprouted seven ears, thin and blighted by the east wind."
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "p1",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                24,
+                "p1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "And the thin ears swallowed up the seven plump, full ears. And Pharaoh awoke, and behold, it was a dream."
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                "v007_ESV_GEN_041",
+                25,
+                "p1",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 And the thin ears swallowed up the seven plump, full ears. And Pharaoh awoke, and behold, it was a dream."
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                26,
+                "p1",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                27,
+                "p1",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "So in the morning"
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                28,
+                "p1",
+                "verse",
+                "v8",
+                "note",
+                "x"
+              ],
+              "value": "#Ps. 77:4;Dan. 2:1,3"
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                29,
+                "p1",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "his spirit was troubled, and he sent and called for all the"
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                30,
+                "p1",
+                "verse",
+                "v8",
+                "note",
+                "x"
+              ],
+              "value": "#ver.24;Ex. 7:11,22;[Dan. 1:20;2:2;4:7;Matt. 2:1]"
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                31,
+                "p1",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "magicians of Egypt and all its wise men. Pharaoh told them his dreams, but there was none who could interpret them to Pharaoh."
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                "v008_ESV_GEN_041",
+                32,
+                "p1",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 So in the morning his spirit was troubled, and he sent and called for all the magicians of Egypt and all its wise men. Pharaoh told them his dreams, but there was none who could interpret them to Pharaoh."
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                33,
+                "p2",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                34,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "Then the chief cupbearer said to Pharaoh, “I remember my offenses today."
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                "v009_ESV_GEN_041",
+                35,
+                "p2",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 Then the chief cupbearer said to Pharaoh, “I remember my offenses today."
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "p2",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                37,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "When Pharaoh was"
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                38,
+                "p2",
+                "verse",
+                "v10",
+                "note",
+                "x"
+              ],
+              "value": "#ch.40:2,3"
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                39,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "angry with his servants"
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                40,
+                "p2",
+                "verse",
+                "v10",
+                "note",
+                "x"
+              ],
+              "value": "#[ch.39:20]"
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "and put me and the chief baker in custody in the house of the captain of the guard,"
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                "v010_ESV_GEN_041",
+                42,
+                "p2",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 When Pharaoh was angry with his servants and put me and the chief baker in custody in the house of the captain of the guard,"
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                43,
+                "p2",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                44,
+                "p2",
+                "verse",
+                "v11",
+                "note",
+                "x"
+              ],
+              "value": "#ch.40:5"
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                45,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "we dreamed on the same night, he and I, each having a dream with its own interpretation."
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                "v011_ESV_GEN_041",
+                46,
+                "p2",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 we dreamed on the same night, he and I, each having a dream with its own interpretation."
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                47,
+                "p2",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                48,
+                "p2",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "A young Hebrew was there with us, a servant of the captain of the guard. When we told him,"
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                49,
+                "p2",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.40:12-19"
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "p2",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "he interpreted our dreams to us, giving an interpretation to each man according to his dream."
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                "v012_ESV_GEN_041",
+                51,
+                "p2",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 A young Hebrew was there with us, a servant of the captain of the guard. When we told him, he interpreted our dreams to us, giving an interpretation to each man according to his dream."
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                52,
+                "p2",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                53,
+                "p2",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "And"
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                54,
+                "p2",
+                "verse",
+                "v13",
+                "note",
+                "x"
+              ],
+              "value": "#ch.40:21,22"
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                55,
+                "p2",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "as he interpreted to us, so it came about. I was restored to my office, and the baker was hanged.”"
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                "v013_ESV_GEN_041",
+                56,
+                "p2",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 And as he interpreted to us, so it came about. I was restored to my office, and the baker was hanged.”"
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                57,
+                "p3",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                58,
+                "p3",
+                "verse",
+                "v14",
+                "note",
+                "x"
+              ],
+              "value": "#Ps. 105:20"
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                59,
+                "p3",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "Then Pharaoh sent and called Joseph, and they"
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                60,
+                "p3",
+                "verse",
+                "v14",
+                "note",
+                "x"
+              ],
+              "value": "#[Dan. 2:25]"
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                61,
+                "p3",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "quickly brought him"
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                62,
+                "p3",
+                "verse",
+                "v14",
+                "note",
+                "x"
+              ],
+              "value": "#[1 Sam. 2:8;Ps. 113:7,8]"
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                63,
+                "p3",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "out of the pit. And when he had shaved himself and changed his clothes, he came in before Pharaoh."
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                "v014_ESV_GEN_041",
+                64,
+                "p3",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 Then Pharaoh sent and called Joseph, and they quickly brought him out of the pit. And when he had shaved himself and changed his clothes, he came in before Pharaoh."
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                65,
+                "p3",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                66,
+                "p3",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "And Pharaoh said to Joseph, “I have had a dream, and there is no one who can interpret it."
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                67,
+                "p3",
+                "verse",
+                "v15",
+                "note",
+                "x"
+              ],
+              "value": "#ver.12;Dan. 5:16"
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                68,
+                "p3",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "I have heard it said of you that when you hear a dream you can interpret it.”"
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                "v015_ESV_GEN_041",
+                69,
+                "p3",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 And Pharaoh said to Joseph, “I have had a dream, and there is no one who can interpret it. I have heard it said of you that when you hear a dream you can interpret it.”"
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                70,
+                "p3",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                71,
+                "p3",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "Joseph answered Pharaoh,"
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                72,
+                "p3",
+                "verse",
+                "v16",
+                "note",
+                "x"
+              ],
+              "value": "#Dan. 2:30"
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                73,
+                "p3",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "“It is not in me;"
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                74,
+                "p3",
+                "verse",
+                "v16",
+                "note",
+                "x"
+              ],
+              "value": "#ch.40:8;Dan. 2:22,28,47"
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                75,
+                "p3",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "God will give Pharaoh a favorable answer.”"
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                76,
+                "p3",
+                "verse",
+                "v16",
+                "note",
+                "f"
+              ],
+              "value": "#41:16Or (compare Samaritan, Septuagint)Without God it is not possible to give Pharaoh an answer about his welfare"
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                "v016_ESV_GEN_041",
+                77,
+                "p3",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 Joseph answered Pharaoh, “It is not in me; God will give Pharaoh a favorable answer.”"
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                78,
+                "p3",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                79,
+                "p3",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "Then Pharaoh said to Joseph, “Behold,"
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                80,
+                "p3",
+                "verse",
+                "v17",
+                "note",
+                "x"
+              ],
+              "value": "#Seever.1-7"
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                81,
+                "p3",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "in my dream I was standing on the banks of the Nile."
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                "v017_ESV_GEN_041",
+                82,
+                "p3",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 Then Pharaoh said to Joseph, “Behold, in my dream I was standing on the banks of the Nile."
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                83,
+                "p3",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                84,
+                "p3",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "Seven cows, plump and attractive, came up out of the Nile and fed in the reed grass."
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                "v018_ESV_GEN_041",
+                85,
+                "p3",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 Seven cows, plump and attractive, came up out of the Nile and fed in the reed grass."
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                86,
+                "p3",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                87,
+                "p3",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "Seven other cows came up after them, poor and very ugly and thin, such as I had never seen in all the land of Egypt."
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                "v019_ESV_GEN_041",
+                88,
+                "p3",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 Seven other cows came up after them, poor and very ugly and thin, such as I had never seen in all the land of Egypt."
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                89,
+                "p3",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                90,
+                "p3",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "And the thin, ugly cows ate up the first seven plump cows,"
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                "v020_ESV_GEN_041",
+                91,
+                "p3",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 And the thin, ugly cows ate up the first seven plump cows,"
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                92,
+                "p3",
+                "verse",
+                "v21",
+                "label"
+              ],
+              "value": "21"
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                93,
+                "p3",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "but when they had eaten them no one would have known that they had eaten them, for they were still as ugly as at the beginning. Then I awoke."
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                "v021_ESV_GEN_041",
+                94,
+                "p3",
+                "verse",
+                "v21",
+                "plain_text"
+              ],
+              "value": "21 but when they had eaten them no one would have known that they had eaten them, for they were still as ugly as at the beginning. Then I awoke."
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                95,
+                "p3",
+                "verse",
+                "v22",
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                96,
+                "p3",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "I also saw in my dream seven ears growing on one stalk, full and good."
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                "v022_ESV_GEN_041",
+                97,
+                "p3",
+                "verse",
+                "v22",
+                "plain_text"
+              ],
+              "value": "22 I also saw in my dream seven ears growing on one stalk, full and good."
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                98,
+                "p3",
+                "verse",
+                "v23",
+                "label"
+              ],
+              "value": "23"
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                99,
+                "p3",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "Seven ears, withered, thin, and blighted by the east wind, sprouted after them,"
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                "v023_ESV_GEN_041",
+                100,
+                "p3",
+                "verse",
+                "v23",
+                "plain_text"
+              ],
+              "value": "23 Seven ears, withered, thin, and blighted by the east wind, sprouted after them,"
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                101,
+                "p3",
+                "verse",
+                "v24",
+                "label"
+              ],
+              "value": "24"
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                102,
+                "p3",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "and the thin ears swallowed up the seven good ears. And"
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                103,
+                "p3",
+                "verse",
+                "v24",
+                "note",
+                "x"
+              ],
+              "value": "#ver.8;[Dan. 4:7]"
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                104,
+                "p3",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "I told it to the magicians, but there was no one who could explain it to me.”"
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                "v024_ESV_GEN_041",
+                105,
+                "p3",
+                "verse",
+                "v24",
+                "plain_text"
+              ],
+              "value": "24 and the thin ears swallowed up the seven good ears. And I told it to the magicians, but there was no one who could explain it to me.”"
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                106,
+                "p4",
+                "verse",
+                "v25",
+                "label"
+              ],
+              "value": "25"
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                107,
+                "p4",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "Then Joseph said to Pharaoh, “The dreams of Pharaoh are one;"
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                108,
+                "p4",
+                "verse",
+                "v25",
+                "note",
+                "x"
+              ],
+              "value": "#[Dan. 2:28,29,45;Rev. 4:1]"
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                109,
+                "p4",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "God has revealed to Pharaoh what he is about to do."
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                "v025_ESV_GEN_041",
+                110,
+                "p4",
+                "verse",
+                "v25",
+                "plain_text"
+              ],
+              "value": "25 Then Joseph said to Pharaoh, “The dreams of Pharaoh are one; God has revealed to Pharaoh what he is about to do."
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                111,
+                "p4",
+                "verse",
+                "v26",
+                "label"
+              ],
+              "value": "26"
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                112,
+                "p4",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "The seven good cows are seven years, and the seven good ears are seven years; the dreams are one."
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                "v026_ESV_GEN_041",
+                113,
+                "p4",
+                "verse",
+                "v26",
+                "plain_text"
+              ],
+              "value": "26 The seven good cows are seven years, and the seven good ears are seven years; the dreams are one."
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                114,
+                "p4",
+                "verse",
+                "v27",
+                "label"
+              ],
+              "value": "27"
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                115,
+                "p4",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "The seven lean and ugly cows that came up after them are seven years, and the seven empty ears blighted by the east wind are also"
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                116,
+                "p4",
+                "verse",
+                "v27",
+                "note",
+                "x"
+              ],
+              "value": "#[2 Kgs. 8:1]"
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                117,
+                "p4",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "seven years of famine."
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                "v027_ESV_GEN_041",
+                118,
+                "p4",
+                "verse",
+                "v27",
+                "plain_text"
+              ],
+              "value": "27 The seven lean and ugly cows that came up after them are seven years, and the seven empty ears blighted by the east wind are also seven years of famine."
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                119,
+                "p4",
+                "verse",
+                "v28",
+                "label"
+              ],
+              "value": "28"
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                120,
+                "p4",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "It is as I told Pharaoh;"
+            },
+            {
+              "rowId": 121,
+              "keyParts": [
+                121,
+                "p4",
+                "verse",
+                "v28",
+                "note",
+                "x"
+              ],
+              "value": "#ver.25"
+            },
+            {
+              "rowId": 122,
+              "keyParts": [
+                122,
+                "p4",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "God has shown to Pharaoh what he is about to do."
+            },
+            {
+              "rowId": 123,
+              "keyParts": [
+                "v028_ESV_GEN_041",
+                123,
+                "p4",
+                "verse",
+                "v28",
+                "plain_text"
+              ],
+              "value": "28 It is as I told Pharaoh; God has shown to Pharaoh what he is about to do."
+            },
+            {
+              "rowId": 124,
+              "keyParts": [
+                124,
+                "p4",
+                "verse",
+                "v29",
+                "label"
+              ],
+              "value": "29"
+            },
+            {
+              "rowId": 125,
+              "keyParts": [
+                125,
+                "p4",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "There will come"
+            },
+            {
+              "rowId": 126,
+              "keyParts": [
+                126,
+                "p4",
+                "verse",
+                "v29",
+                "note",
+                "x"
+              ],
+              "value": "#ver.47"
+            },
+            {
+              "rowId": 127,
+              "keyParts": [
+                127,
+                "p4",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "seven years of great plenty throughout all the land of Egypt,"
+            },
+            {
+              "rowId": 128,
+              "keyParts": [
+                "v029_ESV_GEN_041",
+                128,
+                "p4",
+                "verse",
+                "v29",
+                "plain_text"
+              ],
+              "value": "29 There will come seven years of great plenty throughout all the land of Egypt,"
+            },
+            {
+              "rowId": 129,
+              "keyParts": [
+                129,
+                "p4",
+                "verse",
+                "v30",
+                "label"
+              ],
+              "value": "30"
+            },
+            {
+              "rowId": 130,
+              "keyParts": [
+                130,
+                "p4",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "but after them there will arise"
+            },
+            {
+              "rowId": 131,
+              "keyParts": [
+                131,
+                "p4",
+                "verse",
+                "v30",
+                "note",
+                "x"
+              ],
+              "value": "#ver.54;ch.45:6"
+            },
+            {
+              "rowId": 132,
+              "keyParts": [
+                132,
+                "p4",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "seven years of famine, and all the plenty will be forgotten in the land of Egypt."
+            },
+            {
+              "rowId": 133,
+              "keyParts": [
+                133,
+                "p4",
+                "verse",
+                "v30",
+                "note",
+                "x"
+              ],
+              "value": "#ch.47:13"
+            },
+            {
+              "rowId": 134,
+              "keyParts": [
+                134,
+                "p4",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "The famine will consume the land,"
+            },
+            {
+              "rowId": 135,
+              "keyParts": [
+                "v030_ESV_GEN_041",
+                135,
+                "p4",
+                "verse",
+                "v30",
+                "plain_text"
+              ],
+              "value": "30 but after them there will arise seven years of famine, and all the plenty will be forgotten in the land of Egypt. The famine will consume the land,"
+            },
+            {
+              "rowId": 136,
+              "keyParts": [
+                136,
+                "p4",
+                "verse",
+                "v31",
+                "label"
+              ],
+              "value": "31"
+            },
+            {
+              "rowId": 137,
+              "keyParts": [
+                137,
+                "p4",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "and the plenty will be unknown in the land by reason of the famine that will follow, for it will be very severe."
+            },
+            {
+              "rowId": 138,
+              "keyParts": [
+                "v031_ESV_GEN_041",
+                138,
+                "p4",
+                "verse",
+                "v31",
+                "plain_text"
+              ],
+              "value": "31 and the plenty will be unknown in the land by reason of the famine that will follow, for it will be very severe."
+            },
+            {
+              "rowId": 139,
+              "keyParts": [
+                139,
+                "p4",
+                "verse",
+                "v32",
+                "label"
+              ],
+              "value": "32"
+            },
+            {
+              "rowId": 140,
+              "keyParts": [
+                140,
+                "p4",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "And the doubling of Pharaoh’s dream means that the"
+            },
+            {
+              "rowId": 141,
+              "keyParts": [
+                141,
+                "p4",
+                "verse",
+                "v32",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 23:19;Isa. 14:24;46:10,11"
+            },
+            {
+              "rowId": 142,
+              "keyParts": [
+                142,
+                "p4",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "thing is fixed by God, and God will shortly bring it about."
+            },
+            {
+              "rowId": 143,
+              "keyParts": [
+                "v032_ESV_GEN_041",
+                143,
+                "p4",
+                "verse",
+                "v32",
+                "plain_text"
+              ],
+              "value": "32 And the doubling of Pharaoh’s dream means that the thing is fixed by God, and God will shortly bring it about."
+            },
+            {
+              "rowId": 144,
+              "keyParts": [
+                144,
+                "p4",
+                "verse",
+                "v33",
+                "label"
+              ],
+              "value": "33"
+            },
+            {
+              "rowId": 145,
+              "keyParts": [
+                145,
+                "p4",
+                "verse",
+                "v33",
+                "content"
+              ],
+              "value": "Now therefore let Pharaoh select a discerning and wise man, and set him over the land of Egypt."
+            },
+            {
+              "rowId": 146,
+              "keyParts": [
+                "v033_ESV_GEN_041",
+                146,
+                "p4",
+                "verse",
+                "v33",
+                "plain_text"
+              ],
+              "value": "33 Now therefore let Pharaoh select a discerning and wise man, and set him over the land of Egypt."
+            },
+            {
+              "rowId": 147,
+              "keyParts": [
+                147,
+                "p4",
+                "verse",
+                "v34",
+                "label"
+              ],
+              "value": "34"
+            },
+            {
+              "rowId": 148,
+              "keyParts": [
+                148,
+                "p4",
+                "verse",
+                "v34",
+                "content"
+              ],
+              "value": "Let Pharaoh proceed to appoint overseers over the land and take one-fifth of the produce of the land"
+            },
+            {
+              "rowId": 149,
+              "keyParts": [
+                149,
+                "p4",
+                "verse",
+                "v34",
+                "note",
+                "f"
+              ],
+              "value": "#41:34Orover the land and organize the land"
+            },
+            {
+              "rowId": 150,
+              "keyParts": [
+                150,
+                "p4",
+                "verse",
+                "v34",
+                "content"
+              ],
+              "value": "of Egypt during the seven plentiful years."
+            },
+            {
+              "rowId": 151,
+              "keyParts": [
+                "v034_ESV_GEN_041",
+                151,
+                "p4",
+                "verse",
+                "v34",
+                "plain_text"
+              ],
+              "value": "34 Let Pharaoh proceed to appoint overseers over the land and take one-fifth of the produce of the land of Egypt during the seven plentiful years."
+            },
+            {
+              "rowId": 152,
+              "keyParts": [
+                152,
+                "p4",
+                "verse",
+                "v35",
+                "label"
+              ],
+              "value": "35"
+            },
+            {
+              "rowId": 153,
+              "keyParts": [
+                153,
+                "p4",
+                "verse",
+                "v35",
+                "content"
+              ],
+              "value": "And"
+            },
+            {
+              "rowId": 154,
+              "keyParts": [
+                154,
+                "p4",
+                "verse",
+                "v35",
+                "note",
+                "x"
+              ],
+              "value": "#ver.48"
+            },
+            {
+              "rowId": 155,
+              "keyParts": [
+                155,
+                "p4",
+                "verse",
+                "v35",
+                "content"
+              ],
+              "value": "let them gather all the food of these good years that are coming and store up grain under the authority of Pharaoh for food in the cities, and let them keep it."
+            },
+            {
+              "rowId": 156,
+              "keyParts": [
+                "v035_ESV_GEN_041",
+                156,
+                "p4",
+                "verse",
+                "v35",
+                "plain_text"
+              ],
+              "value": "35 And let them gather all the food of these good years that are coming and store up grain under the authority of Pharaoh for food in the cities, and let them keep it."
+            },
+            {
+              "rowId": 157,
+              "keyParts": [
+                157,
+                "p4",
+                "verse",
+                "v36",
+                "label"
+              ],
+              "value": "36"
+            },
+            {
+              "rowId": 158,
+              "keyParts": [
+                158,
+                "p4",
+                "verse",
+                "v36",
+                "content"
+              ],
+              "value": "That food shall be a reserve for the land against the seven years of famine that are to occur in the land of Egypt, so that the land may not perish through the famine.”"
+            },
+            {
+              "rowId": 159,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Joseph Rises to Power"
+            },
+            {
+              "rowId": 160,
+              "keyParts": [
+                "v036_ESV_GEN_041",
+                160,
+                "p4",
+                "verse",
+                "v36",
+                "plain_text"
+              ],
+              "value": "36 That food shall be a reserve for the land against the seven years of famine that are to occur in the land of Egypt, so that the land may not perish through the famine.”"
+            },
+            {
+              "rowId": 161,
+              "keyParts": [
+                161,
+                "p5",
+                "verse",
+                "v37",
+                "label"
+              ],
+              "value": "37"
+            },
+            {
+              "rowId": 162,
+              "keyParts": [
+                162,
+                "p5",
+                "verse",
+                "v37",
+                "content"
+              ],
+              "value": "This proposal pleased Pharaoh and all his servants."
+            },
+            {
+              "rowId": 163,
+              "keyParts": [
+                "v037_ESV_GEN_041",
+                163,
+                "p5",
+                "verse",
+                "v37",
+                "plain_text"
+              ],
+              "value": "37 This proposal pleased Pharaoh and all his servants."
+            },
+            {
+              "rowId": 164,
+              "keyParts": [
+                164,
+                "p5",
+                "verse",
+                "v38",
+                "label"
+              ],
+              "value": "38"
+            },
+            {
+              "rowId": 165,
+              "keyParts": [
+                165,
+                "p5",
+                "verse",
+                "v38",
+                "content"
+              ],
+              "value": "And Pharaoh said to his servants, “Can we find a man like this,"
+            },
+            {
+              "rowId": 166,
+              "keyParts": [
+                166,
+                "p5",
+                "verse",
+                "v38",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 27:18;Dan. 4:8,18;5:11,14"
+            },
+            {
+              "rowId": 167,
+              "keyParts": [
+                167,
+                "p5",
+                "verse",
+                "v38",
+                "content"
+              ],
+              "value": "in whom is the Spirit of God?”"
+            },
+            {
+              "rowId": 168,
+              "keyParts": [
+                168,
+                "p5",
+                "verse",
+                "v38",
+                "note",
+                "f"
+              ],
+              "value": "#41:38Orof the gods"
+            },
+            {
+              "rowId": 169,
+              "keyParts": [
+                "v038_ESV_GEN_041",
+                169,
+                "p5",
+                "verse",
+                "v38",
+                "plain_text"
+              ],
+              "value": "38 And Pharaoh said to his servants, “Can we find a man like this, in whom is the Spirit of God?”"
+            },
+            {
+              "rowId": 170,
+              "keyParts": [
+                170,
+                "p5",
+                "verse",
+                "v39",
+                "label"
+              ],
+              "value": "39"
+            },
+            {
+              "rowId": 171,
+              "keyParts": [
+                171,
+                "p5",
+                "verse",
+                "v39",
+                "content"
+              ],
+              "value": "Then Pharaoh said to Joseph, “Since God has shown you all this, there is none so discerning and wise as you are."
+            },
+            {
+              "rowId": 172,
+              "keyParts": [
+                "v039_ESV_GEN_041",
+                172,
+                "p5",
+                "verse",
+                "v39",
+                "plain_text"
+              ],
+              "value": "39 Then Pharaoh said to Joseph, “Since God has shown you all this, there is none so discerning and wise as you are."
+            },
+            {
+              "rowId": 173,
+              "keyParts": [
+                173,
+                "p5",
+                "verse",
+                "v40",
+                "label"
+              ],
+              "value": "40"
+            },
+            {
+              "rowId": 174,
+              "keyParts": [
+                174,
+                "p5",
+                "verse",
+                "v40",
+                "note",
+                "x"
+              ],
+              "value": "#Ps. 105:21;Acts 7:10"
+            },
+            {
+              "rowId": 175,
+              "keyParts": [
+                175,
+                "p5",
+                "verse",
+                "v40",
+                "content"
+              ],
+              "value": "You shall be over my house, and all my people shall order themselves as you command."
+            },
+            {
+              "rowId": 176,
+              "keyParts": [
+                176,
+                "p5",
+                "verse",
+                "v40",
+                "note",
+                "f"
+              ],
+              "value": "#41:40Hebrewand according to your command all my people shall kiss the ground"
+            },
+            {
+              "rowId": 177,
+              "keyParts": [
+                177,
+                "p5",
+                "verse",
+                "v40",
+                "content"
+              ],
+              "value": "Only as regards the throne will I be greater than you.”"
+            },
+            {
+              "rowId": 178,
+              "keyParts": [
+                "v040_ESV_GEN_041",
+                178,
+                "p5",
+                "verse",
+                "v40",
+                "plain_text"
+              ],
+              "value": "40 You shall be over my house, and all my people shall order themselves as you command. Only as regards the throne will I be greater than you.”"
+            },
+            {
+              "rowId": 179,
+              "keyParts": [
+                179,
+                "p5",
+                "verse",
+                "v41",
+                "label"
+              ],
+              "value": "41"
+            },
+            {
+              "rowId": 180,
+              "keyParts": [
+                180,
+                "p5",
+                "verse",
+                "v41",
+                "content"
+              ],
+              "value": "And Pharaoh said to Joseph, “See,"
+            },
+            {
+              "rowId": 181,
+              "keyParts": [
+                181,
+                "p5",
+                "verse",
+                "v41",
+                "note",
+                "x"
+              ],
+              "value": "#ch.42:6"
+            },
+            {
+              "rowId": 182,
+              "keyParts": [
+                182,
+                "p5",
+                "verse",
+                "v41",
+                "content"
+              ],
+              "value": "I have set you over all the land of Egypt.”"
+            },
+            {
+              "rowId": 183,
+              "keyParts": [
+                "v041_ESV_GEN_041",
+                183,
+                "p5",
+                "verse",
+                "v41",
+                "plain_text"
+              ],
+              "value": "41 And Pharaoh said to Joseph, “See, I have set you over all the land of Egypt.”"
+            },
+            {
+              "rowId": 184,
+              "keyParts": [
+                184,
+                "p5",
+                "verse",
+                "v42",
+                "label"
+              ],
+              "value": "42"
+            },
+            {
+              "rowId": 185,
+              "keyParts": [
+                185,
+                "p5",
+                "verse",
+                "v42",
+                "content"
+              ],
+              "value": "Then Pharaoh"
+            },
+            {
+              "rowId": 186,
+              "keyParts": [
+                186,
+                "p5",
+                "verse",
+                "v42",
+                "note",
+                "x"
+              ],
+              "value": "#Esth. 3:10;8:2,8,10"
+            },
+            {
+              "rowId": 187,
+              "keyParts": [
+                187,
+                "p5",
+                "verse",
+                "v42",
+                "content"
+              ],
+              "value": "took his signet ring from his hand and put it on Joseph’s hand, and"
+            },
+            {
+              "rowId": 188,
+              "keyParts": [
+                188,
+                "p5",
+                "verse",
+                "v42",
+                "note",
+                "x"
+              ],
+              "value": "#[Esth. 8:15]"
+            },
+            {
+              "rowId": 189,
+              "keyParts": [
+                189,
+                "p5",
+                "verse",
+                "v42",
+                "content"
+              ],
+              "value": "clothed him in garments of fine linen"
+            },
+            {
+              "rowId": 190,
+              "keyParts": [
+                190,
+                "p5",
+                "verse",
+                "v42",
+                "note",
+                "x"
+              ],
+              "value": "#Ezek. 16:11;[Dan. 5:7,29]"
+            },
+            {
+              "rowId": 191,
+              "keyParts": [
+                191,
+                "p5",
+                "verse",
+                "v42",
+                "content"
+              ],
+              "value": "and put a gold chain about his neck."
+            },
+            {
+              "rowId": 192,
+              "keyParts": [
+                "v042_ESV_GEN_041",
+                192,
+                "p5",
+                "verse",
+                "v42",
+                "plain_text"
+              ],
+              "value": "42 Then Pharaoh took his signet ring from his hand and put it on Joseph’s hand, and clothed him in garments of fine linen and put a gold chain about his neck."
+            },
+            {
+              "rowId": 193,
+              "keyParts": [
+                193,
+                "p5",
+                "verse",
+                "v43",
+                "label"
+              ],
+              "value": "43"
+            },
+            {
+              "rowId": 194,
+              "keyParts": [
+                194,
+                "p5",
+                "verse",
+                "v43",
+                "content"
+              ],
+              "value": "And he made him ride in his second chariot."
+            },
+            {
+              "rowId": 195,
+              "keyParts": [
+                195,
+                "p5",
+                "verse",
+                "v43",
+                "note",
+                "x"
+              ],
+              "value": "#[Esth. 6:9]"
+            },
+            {
+              "rowId": 196,
+              "keyParts": [
+                196,
+                "p5",
+                "verse",
+                "v43",
+                "content"
+              ],
+              "value": "And they called out before him, “Bow the knee!”"
+            },
+            {
+              "rowId": 197,
+              "keyParts": [
+                197,
+                "p5",
+                "verse",
+                "v43",
+                "note",
+                "f"
+              ],
+              "value": "#41:43Abrek, probably an Egyptian word, similar in sound to the Hebrew word meaningto kneel"
+            },
+            {
+              "rowId": 198,
+              "keyParts": [
+                198,
+                "p5",
+                "verse",
+                "v43",
+                "content"
+              ],
+              "value": "Thus he set him"
+            },
+            {
+              "rowId": 199,
+              "keyParts": [
+                199,
+                "p5",
+                "verse",
+                "v43",
+                "note",
+                "x"
+              ],
+              "value": "#ver.40;ch.42:6;45:8,9,26"
+            },
+            {
+              "rowId": 200,
+              "keyParts": [
+                200,
+                "p5",
+                "verse",
+                "v43",
+                "content"
+              ],
+              "value": "over all the land of Egypt."
+            },
+            {
+              "rowId": 201,
+              "keyParts": [
+                "v043_ESV_GEN_041",
+                201,
+                "p5",
+                "verse",
+                "v43",
+                "plain_text"
+              ],
+              "value": "43 And he made him ride in his second chariot. And they called out before him, “Bow the knee!” Thus he set him over all the land of Egypt."
+            },
+            {
+              "rowId": 202,
+              "keyParts": [
+                202,
+                "p5",
+                "verse",
+                "v44",
+                "label"
+              ],
+              "value": "44"
+            },
+            {
+              "rowId": 203,
+              "keyParts": [
+                203,
+                "p5",
+                "verse",
+                "v44",
+                "content"
+              ],
+              "value": "Moreover, Pharaoh said to Joseph, “I am Pharaoh, and"
+            },
+            {
+              "rowId": 204,
+              "keyParts": [
+                204,
+                "p5",
+                "verse",
+                "v44",
+                "note",
+                "x"
+              ],
+              "value": "#[Ps. 105:21,22]"
+            },
+            {
+              "rowId": 205,
+              "keyParts": [
+                205,
+                "p5",
+                "verse",
+                "v44",
+                "content"
+              ],
+              "value": "without your consent no one shall lift up hand or foot in all the land of Egypt.”"
+            },
+            {
+              "rowId": 206,
+              "keyParts": [
+                "v044_ESV_GEN_041",
+                206,
+                "p5",
+                "verse",
+                "v44",
+                "plain_text"
+              ],
+              "value": "44 Moreover, Pharaoh said to Joseph, “I am Pharaoh, and without your consent no one shall lift up hand or foot in all the land of Egypt.”"
+            },
+            {
+              "rowId": 207,
+              "keyParts": [
+                207,
+                "p5",
+                "verse",
+                "v45",
+                "label"
+              ],
+              "value": "45"
+            },
+            {
+              "rowId": 208,
+              "keyParts": [
+                208,
+                "p5",
+                "verse",
+                "v45",
+                "content"
+              ],
+              "value": "And Pharaoh called Joseph’s name Zaphenath-paneah. And he gave him in marriage Asenath, the daughter of Potiphera priest of On. So Joseph went out over the land of Egypt."
+            },
+            {
+              "rowId": 209,
+              "keyParts": [
+                "v045_ESV_GEN_041",
+                209,
+                "p5",
+                "verse",
+                "v45",
+                "plain_text"
+              ],
+              "value": "45 And Pharaoh called Joseph’s name Zaphenath-paneah. And he gave him in marriage Asenath, the daughter of Potiphera priest of On. So Joseph went out over the land of Egypt."
+            },
+            {
+              "rowId": 210,
+              "keyParts": [
+                210,
+                "p6",
+                "verse",
+                "v46",
+                "label"
+              ],
+              "value": "46"
+            },
+            {
+              "rowId": 211,
+              "keyParts": [
+                211,
+                "p6",
+                "verse",
+                "v46",
+                "content"
+              ],
+              "value": "Joseph was thirty years old when he"
+            },
+            {
+              "rowId": 212,
+              "keyParts": [
+                212,
+                "p6",
+                "verse",
+                "v46",
+                "note",
+                "x"
+              ],
+              "value": "#1 Sam. 16:21;1 Kgs. 12:6,8;Dan. 1:19"
+            },
+            {
+              "rowId": 213,
+              "keyParts": [
+                213,
+                "p6",
+                "verse",
+                "v46",
+                "content"
+              ],
+              "value": "entered the service of Pharaoh king of Egypt. And Joseph went out from the presence of Pharaoh and went through all the land of Egypt."
+            },
+            {
+              "rowId": 214,
+              "keyParts": [
+                "v046_ESV_GEN_041",
+                214,
+                "p6",
+                "verse",
+                "v46",
+                "plain_text"
+              ],
+              "value": "46 Joseph was thirty years old when he entered the service of Pharaoh king of Egypt. And Joseph went out from the presence of Pharaoh and went through all the land of Egypt."
+            },
+            {
+              "rowId": 215,
+              "keyParts": [
+                215,
+                "p6",
+                "verse",
+                "v47",
+                "label"
+              ],
+              "value": "47"
+            },
+            {
+              "rowId": 216,
+              "keyParts": [
+                216,
+                "p6",
+                "verse",
+                "v47",
+                "content"
+              ],
+              "value": "During the seven plentiful years the earth produced abundantly,"
+            },
+            {
+              "rowId": 217,
+              "keyParts": [
+                "v047_ESV_GEN_041",
+                217,
+                "p6",
+                "verse",
+                "v47",
+                "plain_text"
+              ],
+              "value": "47 During the seven plentiful years the earth produced abundantly,"
+            },
+            {
+              "rowId": 218,
+              "keyParts": [
+                218,
+                "p6",
+                "verse",
+                "v48",
+                "label"
+              ],
+              "value": "48"
+            },
+            {
+              "rowId": 219,
+              "keyParts": [
+                219,
+                "p6",
+                "verse",
+                "v48",
+                "content"
+              ],
+              "value": "and he gathered up all the food of these seven years, which occurred in the land of Egypt, and put the food in the cities. He put in every city the food from the fields around it."
+            },
+            {
+              "rowId": 220,
+              "keyParts": [
+                "v048_ESV_GEN_041",
+                220,
+                "p6",
+                "verse",
+                "v48",
+                "plain_text"
+              ],
+              "value": "48 and he gathered up all the food of these seven years, which occurred in the land of Egypt, and put the food in the cities. He put in every city the food from the fields around it."
+            },
+            {
+              "rowId": 221,
+              "keyParts": [
+                221,
+                "p6",
+                "verse",
+                "v49",
+                "label"
+              ],
+              "value": "49"
+            },
+            {
+              "rowId": 222,
+              "keyParts": [
+                222,
+                "p6",
+                "verse",
+                "v49",
+                "content"
+              ],
+              "value": "And Joseph stored up grain in great abundance,"
+            },
+            {
+              "rowId": 223,
+              "keyParts": [
+                223,
+                "p6",
+                "verse",
+                "v49",
+                "note",
+                "x"
+              ],
+              "value": "#ch.22:17;Judg. 7:12;1 Sam. 13:5;Ps. 78:27"
+            },
+            {
+              "rowId": 224,
+              "keyParts": [
+                224,
+                "p6",
+                "verse",
+                "v49",
+                "content"
+              ],
+              "value": "like the sand of the sea, until he ceased to measure it, for it could not be measured."
+            },
+            {
+              "rowId": 225,
+              "keyParts": [
+                "v049_ESV_GEN_041",
+                225,
+                "p6",
+                "verse",
+                "v49",
+                "plain_text"
+              ],
+              "value": "49 And Joseph stored up grain in great abundance, like the sand of the sea, until he ceased to measure it, for it could not be measured."
+            },
+            {
+              "rowId": 226,
+              "keyParts": [
+                226,
+                "p7",
+                "verse",
+                "v50",
+                "label"
+              ],
+              "value": "50"
+            },
+            {
+              "rowId": 227,
+              "keyParts": [
+                227,
+                "p7",
+                "verse",
+                "v50",
+                "content"
+              ],
+              "value": "Before the year of famine came,"
+            },
+            {
+              "rowId": 228,
+              "keyParts": [
+                228,
+                "p7",
+                "verse",
+                "v50",
+                "note",
+                "x"
+              ],
+              "value": "#ch.46:20;48:5"
+            },
+            {
+              "rowId": 229,
+              "keyParts": [
+                229,
+                "p7",
+                "verse",
+                "v50",
+                "content"
+              ],
+              "value": "two sons were born to Joseph. Asenath, the daughter of Potiphera priest of On, bore them to him."
+            },
+            {
+              "rowId": 230,
+              "keyParts": [
+                "v050_ESV_GEN_041",
+                230,
+                "p7",
+                "verse",
+                "v50",
+                "plain_text"
+              ],
+              "value": "50 Before the year of famine came, two sons were born to Joseph. Asenath, the daughter of Potiphera priest of On, bore them to him."
+            },
+            {
+              "rowId": 231,
+              "keyParts": [
+                231,
+                "p7",
+                "verse",
+                "v51",
+                "label"
+              ],
+              "value": "51"
+            },
+            {
+              "rowId": 232,
+              "keyParts": [
+                232,
+                "p7",
+                "verse",
+                "v51",
+                "content"
+              ],
+              "value": "Joseph called the name of the firstborn Manasseh. “For,” he said, “God has made me forget all my hardship and all my father’s house.”"
+            },
+            {
+              "rowId": 233,
+              "keyParts": [
+                233,
+                "p7",
+                "verse",
+                "v51",
+                "note",
+                "f"
+              ],
+              "value": "#41:51Manassehsounds like the Hebrew formaking to forget"
+            },
+            {
+              "rowId": 234,
+              "keyParts": [
+                "v051_ESV_GEN_041",
+                234,
+                "p7",
+                "verse",
+                "v51",
+                "plain_text"
+              ],
+              "value": "51 Joseph called the name of the firstborn Manasseh. “For,” he said, “God has made me forget all my hardship and all my father’s house.”"
+            },
+            {
+              "rowId": 235,
+              "keyParts": [
+                235,
+                "p7",
+                "verse",
+                "v52",
+                "label"
+              ],
+              "value": "52"
+            },
+            {
+              "rowId": 236,
+              "keyParts": [
+                236,
+                "p7",
+                "verse",
+                "v52",
+                "content"
+              ],
+              "value": "The name of the second he called Ephraim, “For God has"
+            },
+            {
+              "rowId": 237,
+              "keyParts": [
+                237,
+                "p7",
+                "verse",
+                "v52",
+                "note",
+                "x"
+              ],
+              "value": "#[ch.49:22;Hos. 13:15]"
+            },
+            {
+              "rowId": 238,
+              "keyParts": [
+                238,
+                "p7",
+                "verse",
+                "v52",
+                "content"
+              ],
+              "value": "made me fruitful in the land of my affliction.”"
+            },
+            {
+              "rowId": 239,
+              "keyParts": [
+                239,
+                "p7",
+                "verse",
+                "v52",
+                "note",
+                "f"
+              ],
+              "value": "#41:52Ephraimsounds like the Hebrew formaking fruitful"
+            },
+            {
+              "rowId": 240,
+              "keyParts": [
+                "v052_ESV_GEN_041",
+                240,
+                "p7",
+                "verse",
+                "v52",
+                "plain_text"
+              ],
+              "value": "52 The name of the second he called Ephraim, “For God has made me fruitful in the land of my affliction.”"
+            },
+            {
+              "rowId": 241,
+              "keyParts": [
+                241,
+                "p8",
+                "verse",
+                "v53",
+                "label"
+              ],
+              "value": "53"
+            },
+            {
+              "rowId": 242,
+              "keyParts": [
+                242,
+                "p8",
+                "verse",
+                "v53",
+                "content"
+              ],
+              "value": "The seven years of plenty that occurred in the land of Egypt came to an end,"
+            },
+            {
+              "rowId": 243,
+              "keyParts": [
+                "v053_ESV_GEN_041",
+                243,
+                "p8",
+                "verse",
+                "v53",
+                "plain_text"
+              ],
+              "value": "53 The seven years of plenty that occurred in the land of Egypt came to an end,"
+            },
+            {
+              "rowId": 244,
+              "keyParts": [
+                244,
+                "p8",
+                "verse",
+                "v54",
+                "label"
+              ],
+              "value": "54"
+            },
+            {
+              "rowId": 245,
+              "keyParts": [
+                245,
+                "p8",
+                "verse",
+                "v54",
+                "content"
+              ],
+              "value": "and"
+            },
+            {
+              "rowId": 246,
+              "keyParts": [
+                246,
+                "p8",
+                "verse",
+                "v54",
+                "note",
+                "x"
+              ],
+              "value": "#Ps. 105:16;Acts 7:11"
+            },
+            {
+              "rowId": 247,
+              "keyParts": [
+                247,
+                "p8",
+                "verse",
+                "v54",
+                "content"
+              ],
+              "value": "the seven years of famine began to come,"
+            },
+            {
+              "rowId": 248,
+              "keyParts": [
+                248,
+                "p8",
+                "verse",
+                "v54",
+                "note",
+                "x"
+              ],
+              "value": "#ver.30"
+            },
+            {
+              "rowId": 249,
+              "keyParts": [
+                249,
+                "p8",
+                "verse",
+                "v54",
+                "content"
+              ],
+              "value": "as Joseph had said. There was famine in all lands, but in all the land of Egypt there was bread."
+            },
+            {
+              "rowId": 250,
+              "keyParts": [
+                "v054_ESV_GEN_041",
+                250,
+                "p8",
+                "verse",
+                "v54",
+                "plain_text"
+              ],
+              "value": "54 and the seven years of famine began to come, as Joseph had said. There was famine in all lands, but in all the land of Egypt there was bread."
+            },
+            {
+              "rowId": 251,
+              "keyParts": [
+                251,
+                "p8",
+                "verse",
+                "v55",
+                "label"
+              ],
+              "value": "55"
+            },
+            {
+              "rowId": 252,
+              "keyParts": [
+                252,
+                "p8",
+                "verse",
+                "v55",
+                "content"
+              ],
+              "value": "When all the land of Egypt was famished, the people cried to Pharaoh for bread. Pharaoh said to all the Egyptians, “Go to Joseph. What he says to you, do.”"
+            },
+            {
+              "rowId": 253,
+              "keyParts": [
+                "v055_ESV_GEN_041",
+                253,
+                "p8",
+                "verse",
+                "v55",
+                "plain_text"
+              ],
+              "value": "55 When all the land of Egypt was famished, the people cried to Pharaoh for bread. Pharaoh said to all the Egyptians, “Go to Joseph. What he says to you, do.”"
+            },
+            {
+              "rowId": 254,
+              "keyParts": [
+                254,
+                "p9",
+                "verse",
+                "v56",
+                "label"
+              ],
+              "value": "56"
+            },
+            {
+              "rowId": 255,
+              "keyParts": [
+                255,
+                "p9",
+                "verse",
+                "v56",
+                "content"
+              ],
+              "value": "So when the famine had spread over all the land, Joseph opened all the storehouses"
+            },
+            {
+              "rowId": 256,
+              "keyParts": [
+                256,
+                "p9",
+                "verse",
+                "v56",
+                "note",
+                "f"
+              ],
+              "value": "#41:56Hebrewall that was in them"
+            },
+            {
+              "rowId": 257,
+              "keyParts": [
+                257,
+                "p9",
+                "verse",
+                "v56",
+                "content"
+              ],
+              "value": "and"
+            },
+            {
+              "rowId": 258,
+              "keyParts": [
+                258,
+                "p9",
+                "verse",
+                "v56",
+                "note",
+                "x"
+              ],
+              "value": "#ch.42:6;[ch.47:14,20,24]"
+            },
+            {
+              "rowId": 259,
+              "keyParts": [
+                259,
+                "p9",
+                "verse",
+                "v56",
+                "content"
+              ],
+              "value": "sold to the Egyptians, for the famine was severe in the land of Egypt."
+            },
+            {
+              "rowId": 260,
+              "keyParts": [
+                "v056_ESV_GEN_041",
+                260,
+                "p9",
+                "verse",
+                "v56",
+                "plain_text"
+              ],
+              "value": "56 So when the famine had spread over all the land, Joseph opened all the storehouses and sold to the Egyptians, for the famine was severe in the land of Egypt."
+            },
+            {
+              "rowId": 261,
+              "keyParts": [
+                261,
+                "p9",
+                "verse",
+                "v57",
+                "label"
+              ],
+              "value": "57"
+            },
+            {
+              "rowId": 262,
+              "keyParts": [
+                262,
+                "p9",
+                "verse",
+                "v57",
+                "content"
+              ],
+              "value": "Moreover, all the earth came to Egypt to Joseph to buy grain, because the famine was severe"
+            },
+            {
+              "rowId": 263,
+              "keyParts": [
+                263,
+                "p9",
+                "verse",
+                "v57",
+                "note",
+                "x"
+              ],
+              "value": "#ver.54, 56"
+            },
+            {
+              "rowId": 264,
+              "keyParts": [
+                264,
+                "p9",
+                "verse",
+                "v57",
+                "content"
+              ],
+              "value": "over all the earth."
+            },
+            {
+              "rowId": 265,
+              "keyParts": [
+                "v057_ESV_GEN_041",
+                265,
+                "p9",
+                "verse",
+                "v57",
+                "plain_text"
+              ],
+              "value": "57 Moreover, all the earth came to Egypt to Joseph to buy grain, because the famine was severe over all the earth."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

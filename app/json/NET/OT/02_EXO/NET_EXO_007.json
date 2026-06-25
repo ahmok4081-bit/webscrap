@@ -1,0 +1,2554 @@
+{
+  "translationId": "NET",
+  "name": "New English Translation",
+  "abbreviation": "NET",
+  "language": "English",
+  "copyright": "1996 - 2007 by Biblical Studies Press, LLC",
+  "books": [
+    {
+      "bookId": "EXO",
+      "testament": "OT",
+      "order": 2,
+      "title": "Exodus",
+      "abbreviation": "EXO",
+      "chapters": [
+        {
+          "chapter": 7,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                2,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "So the"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "said to Moses, “See, I have made you like God"
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "f"
+              ],
+              "value": "tn The word “like” is added for clarity, making explicit the implied comparison in the statement “I have made you God to Pharaoh.” The word אֱלֹהִים (’elohim) is used a few times in the Bible for humans (e.g., Pss 45:6; 82:1), and always clearly in the sense of a subordinate to GOD – they are his representatives on earth. The explanation here goes back to 4:16. If Moses is like God in that Aaron is his prophet, then Moses is certainly like God to Pharaoh. Only Moses, then, is able to speak to Pharaoh with such authority, giving him commands."
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                7,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "to Pharaoh, and your brother Aaron will be your prophet."
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "f"
+              ],
+              "value": "tn The word נְבִיאֶךָ (nÿvi’ekha, “your prophet”) recalls 4:16. Moses was to be like God to Aaron, and Aaron was to speak for him. This indicates that the idea of a “prophet” was of one who spoke for God, an idea with which Moses and Aaron and the readers of Exodus are assumed to be familiar."
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                "v001_NET_EXO_007",
+                9,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 So the Lord said to Moses, “See, I have made you like God to Pharaoh, and your brother Aaron will be your prophet."
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                11,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "You are to speak"
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                12,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "f"
+              ],
+              "value": "tn The imperfect tense here should have the nuance of instruction or injunction: “you are to speak.” The subject is singular (Moses) and made emphatic by the presence of the personal pronoun “you.”"
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                13,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "everything I command you,"
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "f"
+              ],
+              "value": "tn The phrase translated “everything I command you” is a noun clause serving as the direct object of the verb “speak.” The verb in the clause (אֲצַוֶּךָ, ’atsavvekha) is the Piel imperfect. It could be classified as a future: “everything that I will command you.” A nuance of progressive imperfect also fits well: “everything that I am commanding you.”\nsn The distinct emphasis is important. Aaron will speak to the people and Pharaoh what Moses tells him, and Moses will speak to Aaron what God commands him. The use of “command” keeps everything in perspective for Moses’ position."
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                15,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "and your brother Aaron is to tell Pharaoh that he must release"
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                16,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "f"
+              ],
+              "value": "tn The form is וְשִׁלַּח (vÿshillakh), a Piel perfect with vav (ו) consecutive. Following the imperfects of injunction or instruction, this verb continues the sequence. It could be taken as equal to an imperfect expressing future (“and he will release”) or subordinate to express purpose (“to release” = “in order that he may release”)."
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                17,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "the Israelites from his land."
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                "v002_NET_EXO_007",
+                18,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 You are to speak everything I command you, and your brother Aaron is to tell Pharaoh that he must release the Israelites from his land."
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p1",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                20,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "But I will harden"
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "f"
+              ],
+              "value": "tn The clause begins with the emphatic use of the pronoun and a disjunctive vav (ו) expressing the contrast “But as for me, I will harden.” They will speak, but God will harden.\nsn The imperfect tense of the verb קָשָׁה (qasha) is found only here in these “hardening passages.” The verb (here the Hiphil for “I will harden”) summarizes Pharaoh’s resistance to what God would be doing through Moses – he would stubbornly resist and refuse to submit; he would be resolved in his opposition. See R. R. Wilson, “The Hardening of Pharaoh’s Heart,” CBQ 41 (1979): 18-36."
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                22,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "Pharaoh’s heart, and although I will multiply"
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "f"
+              ],
+              "value": "tn The form beginning the second half of the verse is the perfect tense with vav (ו) consecutive, הִרְבֵּיתִי (hirbeti). It could be translated as a simple future in sequence after the imperfect preceding it, but the logical connection is not obvious. Since it carries the force of an imperfect due to the sequence, it may be subordinated as a temporal clause to the next clause that begins in v. 4. That maintains the flow of the argument."
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                24,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "my signs and my wonders in the land of Egypt,"
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                "v003_NET_EXO_007",
+                25,
+                "p1",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 But I will harden Pharaoh’s heart, and although I will multiply my signs and my wonders in the land of Egypt,"
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                26,
+                "p1",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                27,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "Pharaoh will not listen to you."
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                28,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and Pharaoh will not listen.”"
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                29,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "I will reach into"
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                30,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “put my hand into.” The expression is a strong anthropomorphism to depict God’s severest judgment on Egypt. The point is that neither the speeches of Moses and Aaron nor the signs that God would do will be effective. Consequently, God would deliver the blow that would destroy."
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                31,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "Egypt and bring out my regiments,"
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "f"
+              ],
+              "value": "tn See the note on this term in 6:26."
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                33,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "my people the Israelites, from the land of Egypt with great acts of judgment."
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                "v004_NET_EXO_007",
+                34,
+                "p1",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 Pharaoh will not listen to you. I will reach into Egypt and bring out my regiments, my people the Israelites, from the land of Egypt with great acts of judgment."
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                35,
+                "p1",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "Then"
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                37,
+                "p1",
+                "verse",
+                "v5",
+                "note",
+                "f"
+              ],
+              "value": "tn The emphasis on sequence is clear because the form is the perfect tense with the vav consecutive.\nsn The use of the verb “to know” (יָדַע, yada’) underscores what was said with regard to 6:3. By the time the actual exodus took place, the Egyptians would have “known” the name Yahweh, probably hearing it more than they wished. But they will know – experience the truth of it – when Yahweh defeats them."
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                38,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "the Egyptians will know that I am the"
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                39,
+                "p1",
+                "verse",
+                "v5",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                40,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": ", when I extend my hand"
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p1",
+                "verse",
+                "v5",
+                "note",
+                "f"
+              ],
+              "value": "sn This is another anthropomorphism, parallel to the preceding. If God were to “put” (נָתַן, natan), “extend” (נָטָה, nata), or “reach out” (שָׁלַח, shalakh) his hand against them, they would be destroyed. Contrast Exod 24:11."
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "over Egypt and bring the Israelites out from among them."
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                "v005_NET_EXO_007",
+                43,
+                "p1",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 Then the Egyptians will know that I am the Lord , when I extend my hand over Egypt and bring the Israelites out from among them."
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                44,
+                "p2",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                45,
+                "p2",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "And Moses and Aaron did so; they did just as the"
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                46,
+                "p2",
+                "verse",
+                "v6",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                47,
+                "p2",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "commanded them."
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                "v006_NET_EXO_007",
+                48,
+                "p2",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 And Moses and Aaron did so; they did just as the Lord commanded them."
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                49,
+                "p2",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "Now Moses was eighty years old and Aaron was eighty-three years old when they spoke to Pharaoh."
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                "v007_NET_EXO_007",
+                51,
+                "p2",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 Now Moses was eighty years old and Aaron was eighty-three years old when they spoke to Pharaoh."
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                52,
+                "p3",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                53,
+                "p3",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "The"
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                54,
+                "p3",
+                "verse",
+                "v8",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                55,
+                "p3",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "said"
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                56,
+                "p3",
+                "verse",
+                "v8",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “And Yahweh said.”"
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                57,
+                "p3",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "to Moses and Aaron,"
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                58,
+                "p3",
+                "verse",
+                "v8",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “said to Moses and Aaron, saying.”"
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                "v008_NET_EXO_007",
+                59,
+                "p3",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 The Lord said to Moses and Aaron,"
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                60,
+                "p3",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                61,
+                "p3",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "“When Pharaoh says to you, ‘Do"
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                62,
+                "p3",
+                "verse",
+                "v9",
+                "note",
+                "f"
+              ],
+              "value": "tn The verb is תְּנוּ (tÿnu), literally “give.” The imperative is followed by an ethical dative that strengthens the subject of the imperative: “you give a miracle.”"
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                63,
+                "p3",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "a miracle,’ and you say to Aaron, ‘Take your staff and throw it down"
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                64,
+                "p3",
+                "verse",
+                "v9",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and throw it.” The direct object, “it,” is implied."
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                65,
+                "p3",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "before Pharaoh,’ it will become"
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                66,
+                "p3",
+                "verse",
+                "v9",
+                "note",
+                "f"
+              ],
+              "value": "tn The form is the jussive יְהִי ( yÿhi). Gesenius notes that frequently in a conditional clause, a sentence with a protasis and apodosis, the jussive will be used. Here it is in the apodosis (GKC 323 §109.h)."
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                67,
+                "p3",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "a snake.”"
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                "v009_NET_EXO_007",
+                68,
+                "p3",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 “When Pharaoh says to you, ‘Do a miracle,’ and you say to Aaron, ‘Take your staff and throw it down before Pharaoh,’ it will become a snake.”"
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                69,
+                "p3",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                70,
+                "p3",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "When"
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                71,
+                "p3",
+                "verse",
+                "v10",
+                "note",
+                "f"
+              ],
+              "value": "tn The clause begins with the preterite and the vav (ו) consecutive; it is here subordinated to the next clause as a temporal clause."
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                72,
+                "p3",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "Moses and Aaron went to Pharaoh, they did so, just as the"
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                73,
+                "p3",
+                "verse",
+                "v10",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                74,
+                "p3",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "had commanded them – Aaron threw"
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                75,
+                "p3",
+                "verse",
+                "v10",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and Aaron threw.”"
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                76,
+                "p3",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "down his staff before Pharaoh and his servants and it became a snake."
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                77,
+                "p3",
+                "verse",
+                "v10",
+                "note",
+                "f"
+              ],
+              "value": "tn The noun used here is תַּנִּין (tannin), and not the word for “serpent” or “snake” used in chap. 4. This noun refers to a large reptile, in some texts large river or sea creatures (Gen 1:21; Ps 74:13) or land creatures (Deut 32:33). This wonder paralleled Moses’ miracle in 4:3 when he cast his staff down. But this is Aaron’s staff, and a different miracle. The noun could still be rendered “snake” here since the term could be broad enough to include it."
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                "v010_NET_EXO_007",
+                78,
+                "p3",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 When Moses and Aaron went to Pharaoh, they did so, just as the Lord had commanded them – Aaron threw down his staff before Pharaoh and his servants and it became a snake."
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                79,
+                "p3",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                80,
+                "p3",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "Then Pharaoh also summoned wise men and sorcerers,"
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                81,
+                "p3",
+                "verse",
+                "v11",
+                "note",
+                "f"
+              ],
+              "value": "sn For information on this Egyptian material, see D. B. Redford, A Study of the Biblical Story of Joseph (VTSup), 203-4."
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                82,
+                "p3",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "and the magicians"
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                83,
+                "p3",
+                "verse",
+                "v11",
+                "note",
+                "f"
+              ],
+              "value": "tn The חַרְטֻּמִּים (kharttummim) seem to have been the keepers of Egypt’s religious and magical texts, the sacred scribes."
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                84,
+                "p3",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "of Egypt by their secret arts"
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                85,
+                "p3",
+                "verse",
+                "v11",
+                "note",
+                "f"
+              ],
+              "value": "tn The term בְּלַהֲטֵיהֶם (bÿlahatehem) means “by their secret arts”; it is from לוּט (lut, “to enwrap”). The Greek renders the word “by their magic”; Tg. Onq. uses “murmurings” and “whispers,” and other Jewish sources “dazzling display” or “demons” (see further B. Jacob, Exodus, 253-54). They may have done this by clever tricks, manipulation of the animals, or demonic power. Many have suggested that Aaron and the magicians were familiar with an old trick in which they could temporarily paralyze a serpent and then revive it. But here Aaron’s snake swallows up their snakes."
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                86,
+                "p3",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "did the same thing."
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                "v011_NET_EXO_007",
+                87,
+                "p3",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 Then Pharaoh also summoned wise men and sorcerers, and the magicians of Egypt by their secret arts did the same thing."
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                88,
+                "p3",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                89,
+                "p3",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "Each man"
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                90,
+                "p3",
+                "verse",
+                "v12",
+                "note",
+                "f"
+              ],
+              "value": "tn The verb is plural, but the subject is singular, “a man – his staff.” This noun can be given a distributive sense: “each man threw down his staff.”"
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                91,
+                "p3",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "threw down his staff, and the staffs became snakes. But Aaron’s staff swallowed up their staffs."
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                "v012_NET_EXO_007",
+                92,
+                "p3",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 Each man threw down his staff, and the staffs became snakes. But Aaron’s staff swallowed up their staffs."
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                93,
+                "p3",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                94,
+                "p3",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "Yet Pharaoh’s heart became hard,"
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                95,
+                "p3",
+                "verse",
+                "v13",
+                "note",
+                "f"
+              ],
+              "value": "tn This phrase translates the Hebrew word חָזַק (khazaq); see S. R. Driver, Exodus, 53.\nsn For more on this subject, see B. Jacob, Exodus, 241-49. S. R. Driver (Exodus, 53) notes that when this word (חָזַק) is used it indicates a will or attitude that is unyielding and firm, but when כָּבֵד (kaved) is used, it stresses the will as being slow to move, unimpressionable, slow to be affected."
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                96,
+                "p3",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "and he did not listen to them, just as the"
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                97,
+                "p3",
+                "verse",
+                "v13",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                98,
+                "p3",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "had predicted."
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "The First Blow: Water to Blood"
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                "v013_NET_EXO_007",
+                100,
+                "p3",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 Yet Pharaoh’s heart became hard, and he did not listen to them, just as the Lord had predicted."
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                101,
+                "p4",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                102,
+                "p4",
+                "verse",
+                "v14",
+                "note",
+                "f"
+              ],
+              "value": "sn With the first plague, or blow on Pharaoh, a new section of the book unfolds. Until now the dominant focus has been on preparing the deliverer for the exodus. From here the account will focus on preparing Pharaoh for it. The theological emphasis for exposition of the entire series of plagues may be: The sovereign Lord is fully able to deliver his people from the oppression of the world so that they may worship and serve him alone. The distinct idea of each plague then will contribute to this main idea. It is clear from the outset that God could have delivered his people simply and suddenly. But he chose to draw out the process with the series of plagues. There appear to be several reasons: First, the plagues are designed to judge Egypt. It is justice for slavery. Second, the plagues are designed to inform Israel and Egypt of the ability of Yahweh. Everyone must know that it is Yahweh doing all these things. The Egyptians must know this before they are destroyed. Third, the plagues are designed to deliver Israel. The first plague is the plague of blood: God has absolute power over the sources of life. Here Yahweh strikes the heart of Egyptian life with death and corruption. The lesson is that God can turn the source of life into the prospect of death. Moreover, the Nile was venerated; so by turning it into death Moses was showing the superiority of Yahweh."
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                103,
+                "p4",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "The"
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                104,
+                "p4",
+                "verse",
+                "v14",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                105,
+                "p4",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "said to Moses, “Pharaoh’s heart is hard;"
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                106,
+                "p4",
+                "verse",
+                "v14",
+                "note",
+                "f"
+              ],
+              "value": "tn Or “unresponsive” (so HALOT 456 s.v. I כָּבֵד)."
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                107,
+                "p4",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "he refuses to release"
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                108,
+                "p4",
+                "verse",
+                "v14",
+                "note",
+                "f"
+              ],
+              "value": "tn The Piel infinitive construct לְשַׁלַּח (lÿshallakh) serves as the direct object of מֵאֵן (me’en), telling what Pharaoh refuses (characteristic perfect) to do. The whole clause is an explanation (like a metonymy of effect) of the first clause that states that Pharaoh’s heart is hard."
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                109,
+                "p4",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "the people."
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                "v014_NET_EXO_007",
+                110,
+                "p4",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 The Lord said to Moses, “Pharaoh’s heart is hard; he refuses to release the people."
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                111,
+                "p4",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                112,
+                "p4",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "Go to Pharaoh in the morning when"
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                113,
+                "p4",
+                "verse",
+                "v15",
+                "note",
+                "f"
+              ],
+              "value": "tn The clause begins with הִנֵּה (hinneh); here it provides the circumstances for the instruction for Moses – he is going out to the water so go meet him. A temporal clause translation captures the connection between the clauses."
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                114,
+                "p4",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "he goes out to the water. Position yourself"
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                115,
+                "p4",
+                "verse",
+                "v15",
+                "note",
+                "f"
+              ],
+              "value": "tn The instruction to Moses continues with this perfect tense with vav (ו) consecutive following the imperative. The verb means “to take a stand, station oneself.” It seems that Pharaoh’s going out to the water was a regular feature of his day and that Moses could be there waiting to meet him."
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                116,
+                "p4",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "to meet him by the edge of the Nile,"
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                117,
+                "p4",
+                "verse",
+                "v15",
+                "note",
+                "f"
+              ],
+              "value": "sn The Nile, the source of fertility for the country, was deified by the Egyptians. There were religious festivals held to the god of the Nile, especially when the Nile was flooding. The Talmud suggests that Pharaoh in this passage went out to the Nile to make observations as a magician about its level. Others suggest he went out simply to bathe or to check the water level – but that would not change the view of the Nile that was prevalent in the land."
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                118,
+                "p4",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "and take"
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                119,
+                "p4",
+                "verse",
+                "v15",
+                "note",
+                "f"
+              ],
+              "value": "tn The verb תִּקַּח (tiqqakh), the Qal imperfect of לָקַח (laqakh), functions here as the imperfect of instruction, or injunction perhaps, given the word order of the clause."
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                120,
+                "p4",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "in your hand the staff"
+            },
+            {
+              "rowId": 121,
+              "keyParts": [
+                121,
+                "p4",
+                "verse",
+                "v15",
+                "note",
+                "f"
+              ],
+              "value": "tn The final clause begins with the noun and vav disjunctive, which singles this instruction out for special attention – “now the staff…you are to take.”"
+            },
+            {
+              "rowId": 122,
+              "keyParts": [
+                122,
+                "p4",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "that was turned into a snake."
+            },
+            {
+              "rowId": 123,
+              "keyParts": [
+                "v015_NET_EXO_007",
+                123,
+                "p4",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 Go to Pharaoh in the morning when he goes out to the water. Position yourself to meet him by the edge of the Nile, and take in your hand the staff that was turned into a snake."
+            },
+            {
+              "rowId": 124,
+              "keyParts": [
+                124,
+                "p4",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 125,
+              "keyParts": [
+                125,
+                "p4",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "Tell him, ‘The"
+            },
+            {
+              "rowId": 126,
+              "keyParts": [
+                126,
+                "p4",
+                "verse",
+                "v16",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 127,
+              "keyParts": [
+                127,
+                "p4",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": ", the God of the Hebrews, has sent me to you to say,"
+            },
+            {
+              "rowId": 128,
+              "keyParts": [
+                128,
+                "p4",
+                "verse",
+                "v16",
+                "note",
+                "f"
+              ],
+              "value": "tn The form לֵאמֹר (le’mor) is the Qal infinitive construct with the lamed (ל) preposition. It is used so often epexegetically that it has achieved idiomatic status – “saying” (if translated at all). But here it would make better sense to take it as a purpose infinitive. God sent him to say these words."
+            },
+            {
+              "rowId": 129,
+              "keyParts": [
+                129,
+                "p4",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "“Release my people, that they may serve me"
+            },
+            {
+              "rowId": 130,
+              "keyParts": [
+                130,
+                "p4",
+                "verse",
+                "v16",
+                "note",
+                "f"
+              ],
+              "value": "tn The imperfect tense with the vav (וְיַעַבְדֻנִי, vÿya’avduni) following the imperative is in volitive sequence, showing the purpose – “that they may serve me.” The word “serve” (עָבַד, ’avad) is a general term to include religious observance and obedience."
+            },
+            {
+              "rowId": 131,
+              "keyParts": [
+                131,
+                "p4",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "in the desert!” But until now"
+            },
+            {
+              "rowId": 132,
+              "keyParts": [
+                132,
+                "p4",
+                "verse",
+                "v16",
+                "note",
+                "f"
+              ],
+              "value": "tn The final עַד־כֹּה (’ad-koh, “until now”) narrows the use of the perfect tense to the present perfect: “you have not listened.” That verb, however, involves more than than mere audition. It has the idea of responding to, hearkening, and in some places obeying; here “you have not complied” might catch the point of what Moses is saying, while “listen” helps to maintain the connection with other uses of the verb."
+            },
+            {
+              "rowId": 133,
+              "keyParts": [
+                133,
+                "p4",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "you have not listened."
+            },
+            {
+              "rowId": 134,
+              "keyParts": [
+                134,
+                "p4",
+                "verse",
+                "v16",
+                "note",
+                "f"
+              ],
+              "value": "tn Or “complied” (שָׁמַעְתָּ, shama’ta)."
+            },
+            {
+              "rowId": 135,
+              "keyParts": [
+                "v016_NET_EXO_007",
+                135,
+                "p4",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 Tell him, ‘The Lord , the God of the Hebrews, has sent me to you to say, “Release my people, that they may serve me in the desert!” But until now you have not listened."
+            },
+            {
+              "rowId": 136,
+              "keyParts": [
+                136,
+                "p4",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 137,
+              "keyParts": [
+                137,
+                "p4",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "Thus says the"
+            },
+            {
+              "rowId": 138,
+              "keyParts": [
+                138,
+                "p4",
+                "verse",
+                "v17",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 139,
+              "keyParts": [
+                139,
+                "p4",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": ": “By this you will know that I am the"
+            },
+            {
+              "rowId": 140,
+              "keyParts": [
+                140,
+                "p4",
+                "verse",
+                "v17",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 141,
+              "keyParts": [
+                141,
+                "p4",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": ": I am going to strike"
+            },
+            {
+              "rowId": 142,
+              "keyParts": [
+                142,
+                "p4",
+                "verse",
+                "v17",
+                "note",
+                "f"
+              ],
+              "value": "tn The construction using הִנֵּה (hinneh) before the participle (here the Hiphil participle מַכֶּה, makkeh) introduces a futur instans use of the participle, expressing imminent future, that he is about to do something."
+            },
+            {
+              "rowId": 143,
+              "keyParts": [
+                143,
+                "p4",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "the water of the Nile with the staff that is in my hand, and it will be turned into blood."
+            },
+            {
+              "rowId": 144,
+              "keyParts": [
+                144,
+                "p4",
+                "verse",
+                "v17",
+                "note",
+                "f"
+              ],
+              "value": "sn W. C. Kaiser summarizes a view that has been adopted by many scholars, including a good number of conservatives, that the plagues overlap with natural phenomena in Egypt. Accordingly, the “blood” would not be literal blood, but a reddish contamination in the water. If there was an unusually high inundation of the Nile, the water flowed sluggishly through swamps and was joined with the water from the mountains that washed out the reddish soil. If the flood were high, the water would have a deeper red color. In addition to this discoloration, there is said to be a type of algae which produce a stench and a deadly fluctuation of the oxygen level of the river that is fatal to fish (see W. C. Kaiser, Jr., “Exodus,” EBC 2:350; he cites Greta Hort, “The Plagues of Egypt,” ZAW 69 [1957]: 84-103; same title, ZAW 70 [1958]: 48-59). While most scholars would agree that the water did not actually become blood (any more than the moon will be turned to literal blood [Joel 2:31]), many are not satisfied with this kind of explanation. If the event was a fairly common feature of the Nile, it would not have been any kind of sign to Pharaoh – and it should still be observable. The features that would have to be safeguarded are that it was understood to be done by the staff of God, that it was unexpected and not a mere coincidence, and that the magnitude of the contamination, color, stench, and death, was unparalleled. God does use natural features in miracles, but to be miraculous signs they cannot simply coincide with natural phenomena."
+            },
+            {
+              "rowId": 145,
+              "keyParts": [
+                "v017_NET_EXO_007",
+                145,
+                "p4",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 Thus says the Lord : “By this you will know that I am the Lord : I am going to strike the water of the Nile with the staff that is in my hand, and it will be turned into blood."
+            },
+            {
+              "rowId": 146,
+              "keyParts": [
+                146,
+                "p4",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 147,
+              "keyParts": [
+                147,
+                "p4",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "Fish"
+            },
+            {
+              "rowId": 148,
+              "keyParts": [
+                148,
+                "p4",
+                "verse",
+                "v18",
+                "note",
+                "f"
+              ],
+              "value": "tn The definite article here has the generic use, indicating the class – “fish” (R. J. Williams, Hebrew Syntax, 19, §92)."
+            },
+            {
+              "rowId": 149,
+              "keyParts": [
+                149,
+                "p4",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "in the Nile will die, the Nile will stink, and the Egyptians will be unable"
+            },
+            {
+              "rowId": 150,
+              "keyParts": [
+                150,
+                "p4",
+                "verse",
+                "v18",
+                "note",
+                "f"
+              ],
+              "value": "tn The verb לָאָה (la’a), here in the Niphal perfect with a vav consecutive, means “be weary, impatient.” The Niphal meaning is “make oneself weary” in doing something, or “weary (strenuously exert) oneself.” It seems always to indicate exhausted patience (see BDB 521 s.v.). The term seems to imply that the Egyptians were not able to drink the red, contaminated water, and so would expend all their energy looking for water to drink – in frustration of course."
+            },
+            {
+              "rowId": 151,
+              "keyParts": [
+                151,
+                "p4",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "to drink water from the Nile.”’”"
+            },
+            {
+              "rowId": 152,
+              "keyParts": [
+                "v018_NET_EXO_007",
+                152,
+                "p4",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 Fish in the Nile will die, the Nile will stink, and the Egyptians will be unable to drink water from the Nile.”’”"
+            },
+            {
+              "rowId": 153,
+              "keyParts": [
+                153,
+                "p4",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 154,
+              "keyParts": [
+                154,
+                "p4",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "Then the"
+            },
+            {
+              "rowId": 155,
+              "keyParts": [
+                155,
+                "p4",
+                "verse",
+                "v19",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 156,
+              "keyParts": [
+                156,
+                "p4",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "said to Moses, “Tell Aaron, ‘Take your staff and stretch out your hand over Egypt’s waters – over their rivers, over their canals,"
+            },
+            {
+              "rowId": 157,
+              "keyParts": [
+                157,
+                "p4",
+                "verse",
+                "v19",
+                "note",
+                "f"
+              ],
+              "value": "tn Or “irrigation rivers” of the Nile."
+            },
+            {
+              "rowId": 158,
+              "keyParts": [
+                158,
+                "p4",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "over their ponds, and over all their reservoirs"
+            },
+            {
+              "rowId": 159,
+              "keyParts": [
+                159,
+                "p4",
+                "verse",
+                "v19",
+                "note",
+                "f"
+              ],
+              "value": "sn The Hebrew term means “gathering,” i.e., wherever they gathered or collected waters, notably cisterns and reservoirs. This would naturally lead to the inclusion of both wooden and stone vessels – down to the smallest gatherings."
+            },
+            {
+              "rowId": 160,
+              "keyParts": [
+                160,
+                "p4",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "– so that it becomes"
+            },
+            {
+              "rowId": 161,
+              "keyParts": [
+                161,
+                "p4",
+                "verse",
+                "v19",
+                "note",
+                "f"
+              ],
+              "value": "tn The imperfect tense with vav (ו) after the imperative indicates the purpose or result: “in order that they [the waters] be[come] blood.”"
+            },
+            {
+              "rowId": 162,
+              "keyParts": [
+                162,
+                "p4",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "blood.’ There will be blood everywhere in"
+            },
+            {
+              "rowId": 163,
+              "keyParts": [
+                163,
+                "p4",
+                "verse",
+                "v19",
+                "note",
+                "f"
+              ],
+              "value": "tn Or “in all.”"
+            },
+            {
+              "rowId": 164,
+              "keyParts": [
+                164,
+                "p4",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "the land of Egypt, even in wooden and stone containers.”"
+            },
+            {
+              "rowId": 165,
+              "keyParts": [
+                "v019_NET_EXO_007",
+                165,
+                "p4",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 Then the Lord said to Moses, “Tell Aaron, ‘Take your staff and stretch out your hand over Egypt’s waters – over their rivers, over their canals, over their ponds, and over all their reservoirs – so that it becomes blood.’ There will be blood everywhere in the land of Egypt, even in wooden and stone containers.”"
+            },
+            {
+              "rowId": 166,
+              "keyParts": [
+                166,
+                "p4",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 167,
+              "keyParts": [
+                167,
+                "p4",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "Moses and Aaron did so,"
+            },
+            {
+              "rowId": 168,
+              "keyParts": [
+                168,
+                "p4",
+                "verse",
+                "v20",
+                "note",
+                "f"
+              ],
+              "value": "sn Both Moses and Aaron had tasks to perform. Moses, being the “god” to Pharaoh, dealt directly with him and the Nile. He would strike the Nile. But Aaron, “his prophet,” would stretch out the staff over the rest of the waters of Egypt."
+            },
+            {
+              "rowId": 169,
+              "keyParts": [
+                169,
+                "p4",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "just as the"
+            },
+            {
+              "rowId": 170,
+              "keyParts": [
+                170,
+                "p4",
+                "verse",
+                "v20",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 171,
+              "keyParts": [
+                171,
+                "p4",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "had commanded. Moses raised"
+            },
+            {
+              "rowId": 172,
+              "keyParts": [
+                172,
+                "p4",
+                "verse",
+                "v20",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “And he raised”; the referent (Moses) has been specified in the translation for clarity."
+            },
+            {
+              "rowId": 173,
+              "keyParts": [
+                173,
+                "p4",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "the staff"
+            },
+            {
+              "rowId": 174,
+              "keyParts": [
+                174,
+                "p4",
+                "verse",
+                "v20",
+                "note",
+                "f"
+              ],
+              "value": "tn Gesenius calls the preposition on “staff” the בְּ (bet) instrumenti, used to introduce the object (GKC 380-81 §119.q). This construction provides a greater emphasis than an accusative."
+            },
+            {
+              "rowId": 175,
+              "keyParts": [
+                175,
+                "p4",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "and struck the water that was in the Nile right before the eyes"
+            },
+            {
+              "rowId": 176,
+              "keyParts": [
+                176,
+                "p4",
+                "verse",
+                "v20",
+                "note",
+                "f"
+              ],
+              "value": "tn The text could be rendered “in the sight of,” or simply “before,” but the literal idea of “before the eyes of” may stress how obvious the event was and how personally they were witnesses of it."
+            },
+            {
+              "rowId": 177,
+              "keyParts": [
+                177,
+                "p4",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "of Pharaoh and his servants,"
+            },
+            {
+              "rowId": 178,
+              "keyParts": [
+                178,
+                "p4",
+                "verse",
+                "v20",
+                "note",
+                "f"
+              ],
+              "value": "sn U. Cassuto (Exodus, 98) notes that the striking of the water was not a magical act. It signified two things: (1) the beginning of the sign, which was in accordance with God’s will, as Moses had previously announced, and (2) to symbolize actual “striking,” wherewith the Lord strikes Egypt and its gods (see v. 25)."
+            },
+            {
+              "rowId": 179,
+              "keyParts": [
+                179,
+                "p4",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "and all the water that was in the Nile was turned to blood."
+            },
+            {
+              "rowId": 180,
+              "keyParts": [
+                180,
+                "p4",
+                "verse",
+                "v20",
+                "note",
+                "f"
+              ],
+              "value": "sn There have been various attempts to explain the details of this plague or blow. One possible suggestion is that the plague turned the Nile into “blood,” but that it gradually turned back to its normal color and substance. However, the effects of the “blood” polluted the water so that dead fish and other contamination left it undrinkable. This would explain how the magicians could also do it – they would not have tried if all water was already turned to blood. It also explains why Pharaoh did not ask for the water to be turned back. This view was put forward by B. Schor; it is summarized by B. Jacob (Exodus, 258), who prefers the view of Rashi that the blow affected only water in use."
+            },
+            {
+              "rowId": 181,
+              "keyParts": [
+                "v020_NET_EXO_007",
+                181,
+                "p4",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 Moses and Aaron did so, just as the Lord had commanded. Moses raised the staff and struck the water that was in the Nile right before the eyes of Pharaoh and his servants, and all the water that was in the Nile was turned to blood."
+            },
+            {
+              "rowId": 182,
+              "keyParts": [
+                182,
+                "p4",
+                "verse",
+                "v21",
+                "label"
+              ],
+              "value": "21"
+            },
+            {
+              "rowId": 183,
+              "keyParts": [
+                183,
+                "p4",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "When the fish"
+            },
+            {
+              "rowId": 184,
+              "keyParts": [
+                184,
+                "p4",
+                "verse",
+                "v21",
+                "note",
+                "f"
+              ],
+              "value": "tn The first clause in this verse begins with a vav disjunctive, introducing a circumstantial clause to the statement that the water stank. The vav (ו) consecutive on the next verb shows that the smell was the result of the dead fish in the contaminated water. The result is then expressed with the vav beginning the clause that states that they could not drink it."
+            },
+            {
+              "rowId": 185,
+              "keyParts": [
+                185,
+                "p4",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "that were in the Nile died, the Nile began"
+            },
+            {
+              "rowId": 186,
+              "keyParts": [
+                186,
+                "p4",
+                "verse",
+                "v21",
+                "note",
+                "f"
+              ],
+              "value": "tn The preterite could be given a simple definite past translation, but an ingressive past would be more likely, as the smell would get worse and worse with the dead fish."
+            },
+            {
+              "rowId": 187,
+              "keyParts": [
+                187,
+                "p4",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "to stink, so that the Egyptians could not drink water from the Nile. There was blood"
+            },
+            {
+              "rowId": 188,
+              "keyParts": [
+                188,
+                "p4",
+                "verse",
+                "v21",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and there was blood.”"
+            },
+            {
+              "rowId": 189,
+              "keyParts": [
+                189,
+                "p4",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "everywhere in the land of Egypt!"
+            },
+            {
+              "rowId": 190,
+              "keyParts": [
+                "v021_NET_EXO_007",
+                190,
+                "p4",
+                "verse",
+                "v21",
+                "plain_text"
+              ],
+              "value": "21 When the fish that were in the Nile died, the Nile began to stink, so that the Egyptians could not drink water from the Nile. There was blood everywhere in the land of Egypt!"
+            },
+            {
+              "rowId": 191,
+              "keyParts": [
+                191,
+                "p4",
+                "verse",
+                "v22",
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 192,
+              "keyParts": [
+                192,
+                "p4",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "But the magicians of Egypt did the same"
+            },
+            {
+              "rowId": 193,
+              "keyParts": [
+                193,
+                "p4",
+                "verse",
+                "v22",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “thus, so.”"
+            },
+            {
+              "rowId": 194,
+              "keyParts": [
+                194,
+                "p4",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "by their secret arts, and so"
+            },
+            {
+              "rowId": 195,
+              "keyParts": [
+                195,
+                "p4",
+                "verse",
+                "v22",
+                "note",
+                "f"
+              ],
+              "value": "tn The vav consecutive on the preterite introduces the outcome or result of the matter – Pharaoh was hardened."
+            },
+            {
+              "rowId": 196,
+              "keyParts": [
+                196,
+                "p4",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "Pharaoh’s heart remained hard,"
+            },
+            {
+              "rowId": 197,
+              "keyParts": [
+                197,
+                "p4",
+                "verse",
+                "v22",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and the heart of Pharaoh became hard.” This phrase translates the Hebrew word חָזַק (khazaq; see S. R. Driver, Exodus, 53). In context this represents the continuation of a prior condition."
+            },
+            {
+              "rowId": 198,
+              "keyParts": [
+                198,
+                "p4",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "and he refused to listen to Moses and Aaron"
+            },
+            {
+              "rowId": 199,
+              "keyParts": [
+                199,
+                "p4",
+                "verse",
+                "v22",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “to them”; the referents (Moses and Aaron) have been specified in the translation for clarity."
+            },
+            {
+              "rowId": 200,
+              "keyParts": [
+                200,
+                "p4",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "– just as the"
+            },
+            {
+              "rowId": 201,
+              "keyParts": [
+                201,
+                "p4",
+                "verse",
+                "v22",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 202,
+              "keyParts": [
+                202,
+                "p4",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "had predicted."
+            },
+            {
+              "rowId": 203,
+              "keyParts": [
+                "v022_NET_EXO_007",
+                203,
+                "p4",
+                "verse",
+                "v22",
+                "plain_text"
+              ],
+              "value": "22 But the magicians of Egypt did the same by their secret arts, and so Pharaoh’s heart remained hard, and he refused to listen to Moses and Aaron – just as the Lord had predicted."
+            },
+            {
+              "rowId": 204,
+              "keyParts": [
+                204,
+                "p4",
+                "verse",
+                "v23",
+                "label"
+              ],
+              "value": "23"
+            },
+            {
+              "rowId": 205,
+              "keyParts": [
+                205,
+                "p4",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "And Pharaoh turned and went into his house. He did not pay any attention to this."
+            },
+            {
+              "rowId": 206,
+              "keyParts": [
+                206,
+                "p4",
+                "verse",
+                "v23",
+                "note",
+                "f"
+              ],
+              "value": "tn The text has וְלֹא־שָׁת לִבּוֹ גַּם־לָזֹאת (vÿlo’-shat libbo gam-lazo’t), which literally says, “and he did not set his heart also to this.” To “set the heart” to something would mean “to consider it.” This Hebrew idiom means that he did not pay attention to it, or take it to heart (cf. 2 Sam 13:20; Ps 48:13; 62:10; Prov 22:17; 24:32). Since Pharaoh had not been affected by this, he did not consider it or its implications further."
+            },
+            {
+              "rowId": 207,
+              "keyParts": [
+                "v023_NET_EXO_007",
+                207,
+                "p4",
+                "verse",
+                "v23",
+                "plain_text"
+              ],
+              "value": "23 And Pharaoh turned and went into his house. He did not pay any attention to this."
+            },
+            {
+              "rowId": 208,
+              "keyParts": [
+                208,
+                "p4",
+                "verse",
+                "v24",
+                "label"
+              ],
+              "value": "24"
+            },
+            {
+              "rowId": 209,
+              "keyParts": [
+                209,
+                "p4",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "All the Egyptians dug around the Nile for water to drink,"
+            },
+            {
+              "rowId": 210,
+              "keyParts": [
+                210,
+                "p4",
+                "verse",
+                "v24",
+                "note",
+                "f"
+              ],
+              "value": "sn The text stresses that the water in the Nile, and Nile water that had been diverted or collected for use, was polluted and undrinkable. Water underground also was from the Nile, but it had not been contaminated, certainly not with dead fish, and so would be drinkable."
+            },
+            {
+              "rowId": 211,
+              "keyParts": [
+                211,
+                "p4",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "because they could not drink the water of the Nile."
+            },
+            {
+              "rowId": 212,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "The Second Blow: Frogs"
+            },
+            {
+              "rowId": 213,
+              "keyParts": [
+                "v024_NET_EXO_007",
+                213,
+                "p4",
+                "verse",
+                "v24",
+                "plain_text"
+              ],
+              "value": "24 All the Egyptians dug around the Nile for water to drink, because they could not drink the water of the Nile."
+            },
+            {
+              "rowId": 214,
+              "keyParts": [
+                214,
+                "p5",
+                "verse",
+                "v25",
+                "label"
+              ],
+              "value": "25"
+            },
+            {
+              "rowId": 215,
+              "keyParts": [
+                215,
+                "p5",
+                "verse",
+                "v25",
+                "note",
+                "f"
+              ],
+              "value": "sn An attempt to connect this plague with the natural phenomena of Egypt proposes that because of the polluted water due to the high Nile, the frogs abandoned their normal watery homes (seven days after the first plague) and sought cover from the sun in homes wherever there was moisture. Since they had already been exposed to the poisonous water, they died very suddenly. The miracle was in the announcement and the timing, i.e., that Moses would predict this blow, and in the magnitude of it all, which was not natural (Greta Hort, “The Plagues of Egypt,” ZAW 69 [1957]: 95-98). It is also important to note that in parts of Egypt there was a fear of these creatures as embodying spirits capable of great evil. People developed the mentality of bowing to incredibly horrible idols to drive away the bad spirits. Evil spirits are represented in the book of Revelation in the forms of frogs (Rev 16:13). The frogs that the magicians produced could very well have been in the realm of evil spirits. Exactly how the Egyptians thought about this plague is hard to determine, but there is enough evidence to say that the plague would have made them spiritually as well as physically uncomfortable, and that the death of the frogs would have been a “sign” from God about their superstitions and related beliefs. The frog is associated with the god Hapi, and a frog-headed goddess named Heqet was supposed to assist women at childbirth. The plague would have been evidence that Yahweh was controlling their environment and upsetting their beliefs for his own purpose."
+            },
+            {
+              "rowId": 216,
+              "keyParts": [
+                216,
+                "p5",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "Seven full days passed"
+            },
+            {
+              "rowId": 217,
+              "keyParts": [
+                217,
+                "p5",
+                "verse",
+                "v25",
+                "note",
+                "f"
+              ],
+              "value": "tn The text literally has “and seven days were filled.” Seven days gave Pharaoh enough time to repent and release Israel. When the week passed, God’s second blow came."
+            },
+            {
+              "rowId": 218,
+              "keyParts": [
+                218,
+                "p5",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "after the"
+            },
+            {
+              "rowId": 219,
+              "keyParts": [
+                219,
+                "p5",
+                "verse",
+                "v25",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 220,
+              "keyParts": [
+                220,
+                "p5",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "struck"
+            },
+            {
+              "rowId": 221,
+              "keyParts": [
+                221,
+                "p5",
+                "verse",
+                "v25",
+                "note",
+                "f"
+              ],
+              "value": "tn This is a temporal clause made up of the preposition, the Hiphil infinitive construct of נָכָה (nakhah), הַכּוֹת (hakkot), followed by the subjective genitive YHWH. Here the verb is applied to the true meaning of the plague: Moses struck the water, but the plague was a blow struck by God."
+            },
+            {
+              "rowId": 222,
+              "keyParts": [
+                222,
+                "p5",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "the Nile."
+            },
+            {
+              "rowId": 223,
+              "keyParts": [
+                "v025_NET_EXO_007",
+                223,
+                "p5",
+                "verse",
+                "v25",
+                "plain_text"
+              ],
+              "value": "25 Seven full days passed after the Lord struck the Nile."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

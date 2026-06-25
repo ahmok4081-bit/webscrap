@@ -1,0 +1,3390 @@
+{
+  "translationId": "ESV",
+  "name": "English Standard Version",
+  "abbreviation": "ESV",
+  "language": "English",
+  "copyright": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.",
+  "books": [
+    {
+      "bookId": "DEU",
+      "testament": "OT",
+      "order": 5,
+      "title": "Deuteronomy",
+      "abbreviation": "DEU",
+      "chapters": [
+        {
+          "chapter": 1,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "The Command to Leave Horeb"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "These are the words that Moses spoke to all Israel beyond the Jordan in the wilderness, in"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#ch.3:17"
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "the Arabah opposite"
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                7,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#[Num. 21:14]"
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "Suph, between"
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                9,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#1 Sam. 25:1"
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "Paran and Tophel, Laban, Hazeroth, and Dizahab."
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                "v001_ESV_DEU_001",
+                11,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 These are the words that Moses spoke to all Israel beyond the Jordan in the wilderness, in the Arabah opposite Suph, between Paran and Tophel, Laban, Hazeroth, and Dizahab."
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                12,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                13,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "It is eleven days’ journey from Horeb by the way of Mount Seir to"
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#ch.2:14;9:23;Num. 13:26;32:8;34:4"
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                15,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "Kadesh-barnea."
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                "v002_ESV_DEU_001",
+                16,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 It is eleven days’ journey from Horeb by the way of Mount Seir to Kadesh-barnea."
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                17,
+                "p1",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#[Num. 33:38]"
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "In the fortieth year, on the first day of the eleventh month, Moses spoke to the people of Israel according to all that the"
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                20,
+                "p1",
+                "verse",
+                "v3",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "had given him in commandment to them,"
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                "v003_ESV_DEU_001",
+                22,
+                "p1",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 In the fortieth year, on the first day of the eleventh month, Moses spoke to the people of Israel according to all that the Lord had given him in commandment to them,"
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "p1",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                24,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "after"
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#SeeNum. 21:21-32"
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                26,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "he had defeated Sihon the king of the Amorites, who lived in Heshbon, and"
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                27,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#SeeNum. 21:33-35"
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                28,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "Og the king of Bashan, who lived in Ashtaroth and in"
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                29,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#ch.3:1,10;Josh. 12:4;13:12"
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                30,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "Edrei."
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                "v004_ESV_DEU_001",
+                31,
+                "p1",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 after he had defeated Sihon the king of the Amorites, who lived in Heshbon, and Og the king of Bashan, who lived in Ashtaroth and in Edrei."
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "p1",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                33,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "Beyond the Jordan,"
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                34,
+                "p1",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#ch.29:1"
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                35,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "in the land of Moab, Moses undertook to explain this law, saying,"
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                "v005_ESV_DEU_001",
+                36,
+                "p1",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 Beyond the Jordan, in the land of Moab, Moses undertook to explain this law, saying,"
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                37,
+                "p1",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                38,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "“The"
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                39,
+                "p1",
+                "verse",
+                "v6",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                40,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "our God said to us in Horeb,"
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p1",
+                "verse",
+                "v6",
+                "note",
+                "x"
+              ],
+              "value": "#ch.2:3;[Ex. 19:1;Num. 10:11]"
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "‘You have stayed long enough at this mountain."
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                "v006_ESV_DEU_001",
+                43,
+                "p1",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 “The Lord our God said to us in Horeb, ‘You have stayed long enough at this mountain."
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                44,
+                "p1",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                45,
+                "p1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "Turn and take your journey, and go to"
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                46,
+                "p1",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#[Num. 13:29]"
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                47,
+                "p1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "the hill country of the Amorites and to all their neighbors in"
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                48,
+                "p1",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.1above]"
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                49,
+                "p1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "the Arabah,"
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "p1",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#Josh. 9:1"
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                51,
+                "p1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "in the hill country and in the lowland and in the Negeb and"
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                52,
+                "p1",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#Josh. 9:1"
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                53,
+                "p1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "by the seacoast, the land of the Canaanites, and Lebanon, as far as the great river, the river Euphrates."
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                "v007_ESV_DEU_001",
+                54,
+                "p1",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 Turn and take your journey, and go to the hill country of the Amorites and to all their neighbors in the Arabah, in the hill country and in the lowland and in the Negeb and by the seacoast, the land of the Canaanites, and Lebanon, as far as the great river, the river Euphrates."
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                55,
+                "p1",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                56,
+                "p1",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "See, I have set the land before you. Go in and take possession of the land that the"
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                57,
+                "p1",
+                "verse",
+                "v8",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                58,
+                "p1",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "swore to your fathers,"
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                59,
+                "p1",
+                "verse",
+                "v8",
+                "note",
+                "x"
+              ],
+              "value": "#Gen. 12:7;13:14,15;15:18;17:7,8;26:3,4;28:13,14;50:24"
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                60,
+                "p1",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "to Abraham, to Isaac, and to Jacob, to give to them and to their offspring after them.’"
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Leaders Appointed"
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                "v008_ESV_DEU_001",
+                62,
+                "p1",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 See, I have set the land before you. Go in and take possession of the land that the Lord swore to your fathers, to Abraham, to Isaac, and to Jacob, to give to them and to their offspring after them.’"
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                63,
+                "p2",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                64,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "“At that time"
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                65,
+                "p2",
+                "verse",
+                "v9",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 11:14;[Ex. 18:18]"
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                66,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "I said to you, ‘I am not able to bear you by myself."
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                "v009_ESV_DEU_001",
+                67,
+                "p2",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 “At that time I said to you, ‘I am not able to bear you by myself."
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                68,
+                "p2",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                69,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "The"
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                70,
+                "p2",
+                "verse",
+                "v10",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                71,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "your God has multiplied you, and behold,"
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                72,
+                "p2",
+                "verse",
+                "v10",
+                "note",
+                "x"
+              ],
+              "value": "#[ch.10:22;28:62]; See Gen. 15:5"
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                73,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "you are today as numerous as the stars of heaven."
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                "v010_ESV_DEU_001",
+                74,
+                "p2",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 The Lord your God has multiplied you, and behold, you are today as numerous as the stars of heaven."
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                75,
+                "p2",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                76,
+                "p2",
+                "verse",
+                "v11",
+                "note",
+                "x"
+              ],
+              "value": "#[2 Sam. 24:3]"
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                77,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "May the"
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                78,
+                "p2",
+                "verse",
+                "v11",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                79,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": ", the God of your fathers, make you a thousand times as many as you are and bless you,"
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                80,
+                "p2",
+                "verse",
+                "v11",
+                "note",
+                "x"
+              ],
+              "value": "#Gen. 12:2;22:17;26:3,24"
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                81,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "as he has promised you!"
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                "v011_ESV_DEU_001",
+                82,
+                "p2",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 May the Lord , the God of your fathers, make you a thousand times as many as you are and bless you, as he has promised you!"
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                83,
+                "p2",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                84,
+                "p2",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#[1 Kgs. 3:8,9]"
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                85,
+                "p2",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "How can I bear by myself the weight and burden of you and your strife?"
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                "v012_ESV_DEU_001",
+                86,
+                "p2",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 How can I bear by myself the weight and burden of you and your strife?"
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                87,
+                "p2",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                88,
+                "p2",
+                "verse",
+                "v13",
+                "note",
+                "x"
+              ],
+              "value": "#[Ex. 18:21;Num. 11:16,17]"
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                89,
+                "p2",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "Choose for your tribes wise, understanding, and experienced men, and I will appoint them as your heads.’"
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                "v013_ESV_DEU_001",
+                90,
+                "p2",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 Choose for your tribes wise, understanding, and experienced men, and I will appoint them as your heads.’"
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                91,
+                "p2",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                92,
+                "p2",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "And you answered me, ‘The thing that you have spoken is good for us to do.’"
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                "v014_ESV_DEU_001",
+                93,
+                "p2",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 And you answered me, ‘The thing that you have spoken is good for us to do.’"
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                94,
+                "p2",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                95,
+                "p2",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "So I took the heads of your tribes, wise and experienced men,"
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                96,
+                "p2",
+                "verse",
+                "v15",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 18:25"
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                97,
+                "p2",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "and set them as heads over you, commanders of thousands, commanders of hundreds, commanders of fifties, commanders of tens, and officers, throughout your tribes."
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                "v015_ESV_DEU_001",
+                98,
+                "p2",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 So I took the heads of your tribes, wise and experienced men, and set them as heads over you, commanders of thousands, commanders of hundreds, commanders of fifties, commanders of tens, and officers, throughout your tribes."
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                99,
+                "p2",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                100,
+                "p2",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "And I charged your judges at that time, ‘Hear the cases between your brothers, and"
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                101,
+                "p2",
+                "verse",
+                "v16",
+                "note",
+                "x"
+              ],
+              "value": "#ch.16:18;John 7:24"
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                102,
+                "p2",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "judge righteously between a man and his brother or the alien who is with him."
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                "v016_ESV_DEU_001",
+                103,
+                "p2",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 And I charged your judges at that time, ‘Hear the cases between your brothers, and judge righteously between a man and his brother or the alien who is with him."
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                104,
+                "p2",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                105,
+                "p2",
+                "verse",
+                "v17",
+                "note",
+                "x"
+              ],
+              "value": "#ch.16:19;Ex. 23:2,3;Lev. 19:15;2 Chr. 19:7;Prov. 24:23;28:21;Mal. 2:9;James 2:1,9"
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                106,
+                "p2",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "You shall not be partial in judgment. You shall hear the small and the great alike. You shall not be intimidated by anyone, for"
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                107,
+                "p2",
+                "verse",
+                "v17",
+                "note",
+                "x"
+              ],
+              "value": "#2 Chr. 19:6;[Ex. 21:6]"
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                108,
+                "p2",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "the judgment is God’s. And the case that is too hard for you, you shall"
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                109,
+                "p2",
+                "verse",
+                "v17",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 18:22,26"
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                110,
+                "p2",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "bring to me, and I will hear it.’"
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                "v017_ESV_DEU_001",
+                111,
+                "p2",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 You shall not be partial in judgment. You shall hear the small and the great alike. You shall not be intimidated by anyone, for the judgment is God’s. And the case that is too hard for you, you shall bring to me, and I will hear it.’"
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                112,
+                "p2",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                113,
+                "p2",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "And I commanded you at that time all the things that you should do."
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Israel’s Refusal to Enter the Land"
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                "v018_ESV_DEU_001",
+                115,
+                "p2",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 And I commanded you at that time all the things that you should do."
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                116,
+                "p3",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                117,
+                "p3",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "“Then we set out from Horeb and"
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                118,
+                "p3",
+                "verse",
+                "v19",
+                "note",
+                "x"
+              ],
+              "value": "#ch.8:15;32:10;Jer. 2:6;[Num. 10:12]"
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                119,
+                "p3",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "went through all that great and terrifying wilderness that you saw, on the way to the hill country of the Amorites, as the"
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                120,
+                "p3",
+                "verse",
+                "v19",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 121,
+              "keyParts": [
+                121,
+                "p3",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "our God commanded us. And"
+            },
+            {
+              "rowId": 122,
+              "keyParts": [
+                122,
+                "p3",
+                "verse",
+                "v19",
+                "note",
+                "x"
+              ],
+              "value": "#Seever.2"
+            },
+            {
+              "rowId": 123,
+              "keyParts": [
+                123,
+                "p3",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "we came to Kadesh-barnea."
+            },
+            {
+              "rowId": 124,
+              "keyParts": [
+                "v019_ESV_DEU_001",
+                124,
+                "p3",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 “Then we set out from Horeb and went through all that great and terrifying wilderness that you saw, on the way to the hill country of the Amorites, as the Lord our God commanded us. And we came to Kadesh-barnea."
+            },
+            {
+              "rowId": 125,
+              "keyParts": [
+                125,
+                "p3",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 126,
+              "keyParts": [
+                126,
+                "p3",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "And I said to you, ‘You have come to the hill country of the Amorites, which the"
+            },
+            {
+              "rowId": 127,
+              "keyParts": [
+                127,
+                "p3",
+                "verse",
+                "v20",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 128,
+              "keyParts": [
+                128,
+                "p3",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "our God is giving us."
+            },
+            {
+              "rowId": 129,
+              "keyParts": [
+                "v020_ESV_DEU_001",
+                129,
+                "p3",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 And I said to you, ‘You have come to the hill country of the Amorites, which the Lord our God is giving us."
+            },
+            {
+              "rowId": 130,
+              "keyParts": [
+                130,
+                "p3",
+                "verse",
+                "v21",
+                "label"
+              ],
+              "value": "21"
+            },
+            {
+              "rowId": 131,
+              "keyParts": [
+                131,
+                "p3",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "See, the"
+            },
+            {
+              "rowId": 132,
+              "keyParts": [
+                132,
+                "p3",
+                "verse",
+                "v21",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 133,
+              "keyParts": [
+                133,
+                "p3",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "your God has set the land before you. Go up, take possession, as the"
+            },
+            {
+              "rowId": 134,
+              "keyParts": [
+                134,
+                "p3",
+                "verse",
+                "v21",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 135,
+              "keyParts": [
+                135,
+                "p3",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": ", the God of your fathers, has told you."
+            },
+            {
+              "rowId": 136,
+              "keyParts": [
+                136,
+                "p3",
+                "verse",
+                "v21",
+                "note",
+                "x"
+              ],
+              "value": "#ch.31:8;Josh. 1:9"
+            },
+            {
+              "rowId": 137,
+              "keyParts": [
+                137,
+                "p3",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "Do not fear or be dismayed.’"
+            },
+            {
+              "rowId": 138,
+              "keyParts": [
+                "v021_ESV_DEU_001",
+                138,
+                "p3",
+                "verse",
+                "v21",
+                "plain_text"
+              ],
+              "value": "21 See, the Lord your God has set the land before you. Go up, take possession, as the Lord , the God of your fathers, has told you. Do not fear or be dismayed.’"
+            },
+            {
+              "rowId": 139,
+              "keyParts": [
+                139,
+                "p3",
+                "verse",
+                "v22",
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 140,
+              "keyParts": [
+                140,
+                "p3",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "Then all of you came near me and said, ‘Let us send men before us, that they may explore the land for us and bring us word again of the way by which we must go up and the cities into which we shall come.’"
+            },
+            {
+              "rowId": 141,
+              "keyParts": [
+                "v022_ESV_DEU_001",
+                141,
+                "p3",
+                "verse",
+                "v22",
+                "plain_text"
+              ],
+              "value": "22 Then all of you came near me and said, ‘Let us send men before us, that they may explore the land for us and bring us word again of the way by which we must go up and the cities into which we shall come.’"
+            },
+            {
+              "rowId": 142,
+              "keyParts": [
+                142,
+                "p3",
+                "verse",
+                "v23",
+                "label"
+              ],
+              "value": "23"
+            },
+            {
+              "rowId": 143,
+              "keyParts": [
+                143,
+                "p3",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "The thing seemed good to me, and"
+            },
+            {
+              "rowId": 144,
+              "keyParts": [
+                144,
+                "p3",
+                "verse",
+                "v23",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 13:3"
+            },
+            {
+              "rowId": 145,
+              "keyParts": [
+                145,
+                "p3",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "I took twelve men from you, one man from each tribe."
+            },
+            {
+              "rowId": 146,
+              "keyParts": [
+                "v023_ESV_DEU_001",
+                146,
+                "p3",
+                "verse",
+                "v23",
+                "plain_text"
+              ],
+              "value": "23 The thing seemed good to me, and I took twelve men from you, one man from each tribe."
+            },
+            {
+              "rowId": 147,
+              "keyParts": [
+                147,
+                "p3",
+                "verse",
+                "v24",
+                "label"
+              ],
+              "value": "24"
+            },
+            {
+              "rowId": 148,
+              "keyParts": [
+                148,
+                "p3",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "And"
+            },
+            {
+              "rowId": 149,
+              "keyParts": [
+                149,
+                "p3",
+                "verse",
+                "v24",
+                "note",
+                "x"
+              ],
+              "value": "#SeeNum. 13:22-27"
+            },
+            {
+              "rowId": 150,
+              "keyParts": [
+                150,
+                "p3",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "they turned and went up into the hill country, and came to the Valley of Eshcol and spied it out."
+            },
+            {
+              "rowId": 151,
+              "keyParts": [
+                "v024_ESV_DEU_001",
+                151,
+                "p3",
+                "verse",
+                "v24",
+                "plain_text"
+              ],
+              "value": "24 And they turned and went up into the hill country, and came to the Valley of Eshcol and spied it out."
+            },
+            {
+              "rowId": 152,
+              "keyParts": [
+                152,
+                "p3",
+                "verse",
+                "v25",
+                "label"
+              ],
+              "value": "25"
+            },
+            {
+              "rowId": 153,
+              "keyParts": [
+                153,
+                "p3",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "And they took in their hands some of the fruit of the land and brought it down to us, and brought us word again and said, ‘It is a good land that the"
+            },
+            {
+              "rowId": 154,
+              "keyParts": [
+                154,
+                "p3",
+                "verse",
+                "v25",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 155,
+              "keyParts": [
+                155,
+                "p3",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "our God is giving us.’"
+            },
+            {
+              "rowId": 156,
+              "keyParts": [
+                "v025_ESV_DEU_001",
+                156,
+                "p3",
+                "verse",
+                "v25",
+                "plain_text"
+              ],
+              "value": "25 And they took in their hands some of the fruit of the land and brought it down to us, and brought us word again and said, ‘It is a good land that the Lord our God is giving us.’"
+            },
+            {
+              "rowId": 157,
+              "keyParts": [
+                157,
+                "p4",
+                "verse",
+                "v26",
+                "label"
+              ],
+              "value": "26"
+            },
+            {
+              "rowId": 158,
+              "keyParts": [
+                158,
+                "p4",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "“Yet you would not go up, but rebelled against the command of the"
+            },
+            {
+              "rowId": 159,
+              "keyParts": [
+                159,
+                "p4",
+                "verse",
+                "v26",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 160,
+              "keyParts": [
+                160,
+                "p4",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "your God."
+            },
+            {
+              "rowId": 161,
+              "keyParts": [
+                "v026_ESV_DEU_001",
+                161,
+                "p4",
+                "verse",
+                "v26",
+                "plain_text"
+              ],
+              "value": "26 “Yet you would not go up, but rebelled against the command of the Lord your God."
+            },
+            {
+              "rowId": 162,
+              "keyParts": [
+                162,
+                "p4",
+                "verse",
+                "v27",
+                "label"
+              ],
+              "value": "27"
+            },
+            {
+              "rowId": 163,
+              "keyParts": [
+                163,
+                "p4",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "And"
+            },
+            {
+              "rowId": 164,
+              "keyParts": [
+                164,
+                "p4",
+                "verse",
+                "v27",
+                "note",
+                "x"
+              ],
+              "value": "#Ps. 106:25;SeeNum. 14:1-4"
+            },
+            {
+              "rowId": 165,
+              "keyParts": [
+                165,
+                "p4",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "you murmured in your tents and said, ‘Because the"
+            },
+            {
+              "rowId": 166,
+              "keyParts": [
+                166,
+                "p4",
+                "verse",
+                "v27",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 167,
+              "keyParts": [
+                167,
+                "p4",
+                "verse",
+                "v27",
+                "note",
+                "x"
+              ],
+              "value": "#ch.9:28"
+            },
+            {
+              "rowId": 168,
+              "keyParts": [
+                168,
+                "p4",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "hated us he has brought us out of the land of Egypt,"
+            },
+            {
+              "rowId": 169,
+              "keyParts": [
+                169,
+                "p4",
+                "verse",
+                "v27",
+                "note",
+                "x"
+              ],
+              "value": "#[Josh. 7:7]"
+            },
+            {
+              "rowId": 170,
+              "keyParts": [
+                170,
+                "p4",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "to give us into the hand of the Amorites, to destroy us."
+            },
+            {
+              "rowId": 171,
+              "keyParts": [
+                "v027_ESV_DEU_001",
+                171,
+                "p4",
+                "verse",
+                "v27",
+                "plain_text"
+              ],
+              "value": "27 And you murmured in your tents and said, ‘Because the Lord hated us he has brought us out of the land of Egypt, to give us into the hand of the Amorites, to destroy us."
+            },
+            {
+              "rowId": 172,
+              "keyParts": [
+                172,
+                "p4",
+                "verse",
+                "v28",
+                "label"
+              ],
+              "value": "28"
+            },
+            {
+              "rowId": 173,
+              "keyParts": [
+                173,
+                "p4",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "Where are we going up?"
+            },
+            {
+              "rowId": 174,
+              "keyParts": [
+                174,
+                "p4",
+                "verse",
+                "v28",
+                "note",
+                "x"
+              ],
+              "value": "#Josh. 14:8"
+            },
+            {
+              "rowId": 175,
+              "keyParts": [
+                175,
+                "p4",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "Our brothers have made our hearts melt, saying,"
+            },
+            {
+              "rowId": 176,
+              "keyParts": [
+                176,
+                "p4",
+                "verse",
+                "v28",
+                "note",
+                "x"
+              ],
+              "value": "#ch.9:1,2;SeeNum. 13:28-33"
+            },
+            {
+              "rowId": 177,
+              "keyParts": [
+                177,
+                "p4",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "“The people are greater and taller than we. The cities are great and fortified up to heaven. And besides, we have seen"
+            },
+            {
+              "rowId": 178,
+              "keyParts": [
+                178,
+                "p4",
+                "verse",
+                "v28",
+                "note",
+                "x"
+              ],
+              "value": "#SeeNum. 13:22"
+            },
+            {
+              "rowId": 179,
+              "keyParts": [
+                179,
+                "p4",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "the sons of the Anakim there.”’"
+            },
+            {
+              "rowId": 180,
+              "keyParts": [
+                "v028_ESV_DEU_001",
+                180,
+                "p4",
+                "verse",
+                "v28",
+                "plain_text"
+              ],
+              "value": "28 Where are we going up? Our brothers have made our hearts melt, saying, “The people are greater and taller than we. The cities are great and fortified up to heaven. And besides, we have seen the sons of the Anakim there.”’"
+            },
+            {
+              "rowId": 181,
+              "keyParts": [
+                181,
+                "p4",
+                "verse",
+                "v29",
+                "label"
+              ],
+              "value": "29"
+            },
+            {
+              "rowId": 182,
+              "keyParts": [
+                182,
+                "p4",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "Then I said to you, ‘Do not be in dread or afraid of them."
+            },
+            {
+              "rowId": 183,
+              "keyParts": [
+                "v029_ESV_DEU_001",
+                183,
+                "p4",
+                "verse",
+                "v29",
+                "plain_text"
+              ],
+              "value": "29 Then I said to you, ‘Do not be in dread or afraid of them."
+            },
+            {
+              "rowId": 184,
+              "keyParts": [
+                184,
+                "p4",
+                "verse",
+                "v30",
+                "label"
+              ],
+              "value": "30"
+            },
+            {
+              "rowId": 185,
+              "keyParts": [
+                185,
+                "p4",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "The"
+            },
+            {
+              "rowId": 186,
+              "keyParts": [
+                186,
+                "p4",
+                "verse",
+                "v30",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 187,
+              "keyParts": [
+                187,
+                "p4",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "your God who goes before you"
+            },
+            {
+              "rowId": 188,
+              "keyParts": [
+                188,
+                "p4",
+                "verse",
+                "v30",
+                "note",
+                "x"
+              ],
+              "value": "#ch.3:22;Ex. 14:14,25;Josh. 10:14,42;23:3,10;[Neh. 4:20]"
+            },
+            {
+              "rowId": 189,
+              "keyParts": [
+                189,
+                "p4",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "will himself fight for you, just as he did for you in Egypt before your eyes,"
+            },
+            {
+              "rowId": 190,
+              "keyParts": [
+                "v030_ESV_DEU_001",
+                190,
+                "p4",
+                "verse",
+                "v30",
+                "plain_text"
+              ],
+              "value": "30 The Lord your God who goes before you will himself fight for you, just as he did for you in Egypt before your eyes,"
+            },
+            {
+              "rowId": 191,
+              "keyParts": [
+                191,
+                "p4",
+                "verse",
+                "v31",
+                "label"
+              ],
+              "value": "31"
+            },
+            {
+              "rowId": 192,
+              "keyParts": [
+                192,
+                "p4",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "and in the wilderness, where you have seen how the"
+            },
+            {
+              "rowId": 193,
+              "keyParts": [
+                193,
+                "p4",
+                "verse",
+                "v31",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 194,
+              "keyParts": [
+                194,
+                "p4",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "your God"
+            },
+            {
+              "rowId": 195,
+              "keyParts": [
+                195,
+                "p4",
+                "verse",
+                "v31",
+                "note",
+                "x"
+              ],
+              "value": "#ch.32:11,12;Ex. 19:4;Isa. 46:3,4;63:9;Hos. 11:3"
+            },
+            {
+              "rowId": 196,
+              "keyParts": [
+                196,
+                "p4",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "carried you, as a man carries his son, all the way that you went until you came to this place.’"
+            },
+            {
+              "rowId": 197,
+              "keyParts": [
+                "v031_ESV_DEU_001",
+                197,
+                "p4",
+                "verse",
+                "v31",
+                "plain_text"
+              ],
+              "value": "31 and in the wilderness, where you have seen how the Lord your God carried you, as a man carries his son, all the way that you went until you came to this place.’"
+            },
+            {
+              "rowId": 198,
+              "keyParts": [
+                198,
+                "p4",
+                "verse",
+                "v32",
+                "label"
+              ],
+              "value": "32"
+            },
+            {
+              "rowId": 199,
+              "keyParts": [
+                199,
+                "p4",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "Yet in spite of this word"
+            },
+            {
+              "rowId": 200,
+              "keyParts": [
+                200,
+                "p4",
+                "verse",
+                "v32",
+                "note",
+                "x"
+              ],
+              "value": "#Ps. 106:24;Jude 5"
+            },
+            {
+              "rowId": 201,
+              "keyParts": [
+                201,
+                "p4",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "you did not believe the"
+            },
+            {
+              "rowId": 202,
+              "keyParts": [
+                202,
+                "p4",
+                "verse",
+                "v32",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 203,
+              "keyParts": [
+                203,
+                "p4",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "your God,"
+            },
+            {
+              "rowId": 204,
+              "keyParts": [
+                "v032_ESV_DEU_001",
+                204,
+                "p4",
+                "verse",
+                "v32",
+                "plain_text"
+              ],
+              "value": "32 Yet in spite of this word you did not believe the Lord your God,"
+            },
+            {
+              "rowId": 205,
+              "keyParts": [
+                205,
+                "p4",
+                "verse",
+                "v33",
+                "label"
+              ],
+              "value": "33"
+            },
+            {
+              "rowId": 206,
+              "keyParts": [
+                206,
+                "p4",
+                "verse",
+                "v33",
+                "note",
+                "x"
+              ],
+              "value": "#SeeEx. 13:21"
+            },
+            {
+              "rowId": 207,
+              "keyParts": [
+                207,
+                "p4",
+                "verse",
+                "v33",
+                "content"
+              ],
+              "value": "who went before you in the way"
+            },
+            {
+              "rowId": 208,
+              "keyParts": [
+                208,
+                "p4",
+                "verse",
+                "v33",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 10:33"
+            },
+            {
+              "rowId": 209,
+              "keyParts": [
+                209,
+                "p4",
+                "verse",
+                "v33",
+                "content"
+              ],
+              "value": "to seek you out a place to pitch your tents, in fire by night and in the cloud by day, to show you by what way you should go."
+            },
+            {
+              "rowId": 210,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "The Penalty for Israel’s Rebellion"
+            },
+            {
+              "rowId": 211,
+              "keyParts": [
+                "v033_ESV_DEU_001",
+                211,
+                "p4",
+                "verse",
+                "v33",
+                "plain_text"
+              ],
+              "value": "33 who went before you in the way to seek you out a place to pitch your tents, in fire by night and in the cloud by day, to show you by what way you should go."
+            },
+            {
+              "rowId": 212,
+              "keyParts": [
+                212,
+                "p5",
+                "verse",
+                "v34",
+                "label"
+              ],
+              "value": "34"
+            },
+            {
+              "rowId": 213,
+              "keyParts": [
+                213,
+                "p5",
+                "verse",
+                "v34",
+                "content"
+              ],
+              "value": "“And the"
+            },
+            {
+              "rowId": 214,
+              "keyParts": [
+                214,
+                "p5",
+                "verse",
+                "v34",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 215,
+              "keyParts": [
+                215,
+                "p5",
+                "verse",
+                "v34",
+                "content"
+              ],
+              "value": "heard your words and was angered, and he swore,"
+            },
+            {
+              "rowId": 216,
+              "keyParts": [
+                "v034_ESV_DEU_001",
+                216,
+                "p5",
+                "verse",
+                "v34",
+                "plain_text"
+              ],
+              "value": "34 “And the Lord heard your words and was angered, and he swore,"
+            },
+            {
+              "rowId": 217,
+              "keyParts": [
+                217,
+                "p5",
+                "verse",
+                "v35",
+                "label"
+              ],
+              "value": "35"
+            },
+            {
+              "rowId": 218,
+              "keyParts": [
+                218,
+                "p5",
+                "verse",
+                "v35",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.2:15;Num. 14:20-30"
+            },
+            {
+              "rowId": 219,
+              "keyParts": [
+                219,
+                "p5",
+                "verse",
+                "v35",
+                "content"
+              ],
+              "value": "‘Not one of these men of this evil generation shall see the good land that I swore to give to your fathers,"
+            },
+            {
+              "rowId": 220,
+              "keyParts": [
+                "v035_ESV_DEU_001",
+                220,
+                "p5",
+                "verse",
+                "v35",
+                "plain_text"
+              ],
+              "value": "35 ‘Not one of these men of this evil generation shall see the good land that I swore to give to your fathers,"
+            },
+            {
+              "rowId": 221,
+              "keyParts": [
+                221,
+                "p5",
+                "verse",
+                "v36",
+                "label"
+              ],
+              "value": "36"
+            },
+            {
+              "rowId": 222,
+              "keyParts": [
+                222,
+                "p5",
+                "verse",
+                "v36",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 14:30;Josh. 14:9"
+            },
+            {
+              "rowId": 223,
+              "keyParts": [
+                223,
+                "p5",
+                "verse",
+                "v36",
+                "content"
+              ],
+              "value": "except Caleb the son of Jephunneh. He shall see it, and to him and to his children I will give the land on which he has trodden, because he has wholly followed the"
+            },
+            {
+              "rowId": 224,
+              "keyParts": [
+                224,
+                "p5",
+                "verse",
+                "v36",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 225,
+              "keyParts": [
+                225,
+                "p5",
+                "verse",
+                "v36",
+                "content"
+              ],
+              "value": "!’"
+            },
+            {
+              "rowId": 226,
+              "keyParts": [
+                "v036_ESV_DEU_001",
+                226,
+                "p5",
+                "verse",
+                "v36",
+                "plain_text"
+              ],
+              "value": "36 except Caleb the son of Jephunneh. He shall see it, and to him and to his children I will give the land on which he has trodden, because he has wholly followed the Lord !’"
+            },
+            {
+              "rowId": 227,
+              "keyParts": [
+                227,
+                "p5",
+                "verse",
+                "v37",
+                "label"
+              ],
+              "value": "37"
+            },
+            {
+              "rowId": 228,
+              "keyParts": [
+                228,
+                "p5",
+                "verse",
+                "v37",
+                "content"
+              ],
+              "value": "Even with me"
+            },
+            {
+              "rowId": 229,
+              "keyParts": [
+                229,
+                "p5",
+                "verse",
+                "v37",
+                "note",
+                "x"
+              ],
+              "value": "#ch.4:21;32:51;34:4;Num. 20:12;27:13,14;[Ps. 106:32]"
+            },
+            {
+              "rowId": 230,
+              "keyParts": [
+                230,
+                "p5",
+                "verse",
+                "v37",
+                "content"
+              ],
+              "value": "the"
+            },
+            {
+              "rowId": 231,
+              "keyParts": [
+                231,
+                "p5",
+                "verse",
+                "v37",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 232,
+              "keyParts": [
+                232,
+                "p5",
+                "verse",
+                "v37",
+                "content"
+              ],
+              "value": "was angry on your account and said, ‘You also shall not go in there."
+            },
+            {
+              "rowId": 233,
+              "keyParts": [
+                "v037_ESV_DEU_001",
+                233,
+                "p5",
+                "verse",
+                "v37",
+                "plain_text"
+              ],
+              "value": "37 Even with me the Lord was angry on your account and said, ‘You also shall not go in there."
+            },
+            {
+              "rowId": 234,
+              "keyParts": [
+                234,
+                "p5",
+                "verse",
+                "v38",
+                "label"
+              ],
+              "value": "38"
+            },
+            {
+              "rowId": 235,
+              "keyParts": [
+                235,
+                "p5",
+                "verse",
+                "v38",
+                "note",
+                "x"
+              ],
+              "value": "#ch.31:3,7;Ex. 24:13;[1 Sam. 16:22]"
+            },
+            {
+              "rowId": 236,
+              "keyParts": [
+                236,
+                "p5",
+                "verse",
+                "v38",
+                "content"
+              ],
+              "value": "Joshua the son of Nun,"
+            },
+            {
+              "rowId": 237,
+              "keyParts": [
+                237,
+                "p5",
+                "verse",
+                "v38",
+                "note",
+                "x"
+              ],
+              "value": "#ch.31:3,7;Ex. 24:13;[1 Sam. 16:22]"
+            },
+            {
+              "rowId": 238,
+              "keyParts": [
+                238,
+                "p5",
+                "verse",
+                "v38",
+                "content"
+              ],
+              "value": "who stands before you, he shall enter."
+            },
+            {
+              "rowId": 239,
+              "keyParts": [
+                239,
+                "p5",
+                "verse",
+                "v38",
+                "note",
+                "x"
+              ],
+              "value": "#ch.31:7,23;Num. 27:18-20"
+            },
+            {
+              "rowId": 240,
+              "keyParts": [
+                240,
+                "p5",
+                "verse",
+                "v38",
+                "content"
+              ],
+              "value": "Encourage him, for he shall cause Israel to inherit it."
+            },
+            {
+              "rowId": 241,
+              "keyParts": [
+                "v038_ESV_DEU_001",
+                241,
+                "p5",
+                "verse",
+                "v38",
+                "plain_text"
+              ],
+              "value": "38 Joshua the son of Nun, who stands before you, he shall enter. Encourage him, for he shall cause Israel to inherit it."
+            },
+            {
+              "rowId": 242,
+              "keyParts": [
+                242,
+                "p5",
+                "verse",
+                "v39",
+                "label"
+              ],
+              "value": "39"
+            },
+            {
+              "rowId": 243,
+              "keyParts": [
+                243,
+                "p5",
+                "verse",
+                "v39",
+                "content"
+              ],
+              "value": "And as for"
+            },
+            {
+              "rowId": 244,
+              "keyParts": [
+                244,
+                "p5",
+                "verse",
+                "v39",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 14:3,31"
+            },
+            {
+              "rowId": 245,
+              "keyParts": [
+                245,
+                "p5",
+                "verse",
+                "v39",
+                "content"
+              ],
+              "value": "your little ones, who you said would become a prey, and your children, who today"
+            },
+            {
+              "rowId": 246,
+              "keyParts": [
+                246,
+                "p5",
+                "verse",
+                "v39",
+                "note",
+                "x"
+              ],
+              "value": "#Isa. 7:15,16"
+            },
+            {
+              "rowId": 247,
+              "keyParts": [
+                247,
+                "p5",
+                "verse",
+                "v39",
+                "content"
+              ],
+              "value": "have no knowledge of good or evil, they shall go in there. And to them I will give it, and they shall possess it."
+            },
+            {
+              "rowId": 248,
+              "keyParts": [
+                "v039_ESV_DEU_001",
+                248,
+                "p5",
+                "verse",
+                "v39",
+                "plain_text"
+              ],
+              "value": "39 And as for your little ones, who you said would become a prey, and your children, who today have no knowledge of good or evil, they shall go in there. And to them I will give it, and they shall possess it."
+            },
+            {
+              "rowId": 249,
+              "keyParts": [
+                249,
+                "p5",
+                "verse",
+                "v40",
+                "label"
+              ],
+              "value": "40"
+            },
+            {
+              "rowId": 250,
+              "keyParts": [
+                250,
+                "p5",
+                "verse",
+                "v40",
+                "content"
+              ],
+              "value": "But as for you,"
+            },
+            {
+              "rowId": 251,
+              "keyParts": [
+                251,
+                "p5",
+                "verse",
+                "v40",
+                "note",
+                "x"
+              ],
+              "value": "#ch.2:1;Num. 14:25"
+            },
+            {
+              "rowId": 252,
+              "keyParts": [
+                252,
+                "p5",
+                "verse",
+                "v40",
+                "content"
+              ],
+              "value": "turn, and journey into the wilderness in the direction of the Red Sea.’"
+            },
+            {
+              "rowId": 253,
+              "keyParts": [
+                "v040_ESV_DEU_001",
+                253,
+                "p5",
+                "verse",
+                "v40",
+                "plain_text"
+              ],
+              "value": "40 But as for you, turn, and journey into the wilderness in the direction of the Red Sea.’"
+            },
+            {
+              "rowId": 254,
+              "keyParts": [
+                254,
+                "p6",
+                "verse",
+                "v41",
+                "label"
+              ],
+              "value": "41"
+            },
+            {
+              "rowId": 255,
+              "keyParts": [
+                255,
+                "p6",
+                "verse",
+                "v41",
+                "content"
+              ],
+              "value": "“Then you answered me,"
+            },
+            {
+              "rowId": 256,
+              "keyParts": [
+                256,
+                "p6",
+                "verse",
+                "v41",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 14:40"
+            },
+            {
+              "rowId": 257,
+              "keyParts": [
+                257,
+                "p6",
+                "verse",
+                "v41",
+                "content"
+              ],
+              "value": "‘We have sinned against the"
+            },
+            {
+              "rowId": 258,
+              "keyParts": [
+                258,
+                "p6",
+                "verse",
+                "v41",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 259,
+              "keyParts": [
+                259,
+                "p6",
+                "verse",
+                "v41",
+                "content"
+              ],
+              "value": ". We ourselves will go up and fight, just as the"
+            },
+            {
+              "rowId": 260,
+              "keyParts": [
+                260,
+                "p6",
+                "verse",
+                "v41",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 261,
+              "keyParts": [
+                261,
+                "p6",
+                "verse",
+                "v41",
+                "content"
+              ],
+              "value": "our God commanded us.’ And every one of you fastened on his weapons of war and thought it easy to go up into the hill country."
+            },
+            {
+              "rowId": 262,
+              "keyParts": [
+                "v041_ESV_DEU_001",
+                262,
+                "p6",
+                "verse",
+                "v41",
+                "plain_text"
+              ],
+              "value": "41 “Then you answered me, ‘We have sinned against the Lord . We ourselves will go up and fight, just as the Lord our God commanded us.’ And every one of you fastened on his weapons of war and thought it easy to go up into the hill country."
+            },
+            {
+              "rowId": 263,
+              "keyParts": [
+                263,
+                "p6",
+                "verse",
+                "v42",
+                "label"
+              ],
+              "value": "42"
+            },
+            {
+              "rowId": 264,
+              "keyParts": [
+                264,
+                "p6",
+                "verse",
+                "v42",
+                "content"
+              ],
+              "value": "And the"
+            },
+            {
+              "rowId": 265,
+              "keyParts": [
+                265,
+                "p6",
+                "verse",
+                "v42",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 266,
+              "keyParts": [
+                266,
+                "p6",
+                "verse",
+                "v42",
+                "content"
+              ],
+              "value": "said to me,"
+            },
+            {
+              "rowId": 267,
+              "keyParts": [
+                267,
+                "p6",
+                "verse",
+                "v42",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 14:42"
+            },
+            {
+              "rowId": 268,
+              "keyParts": [
+                268,
+                "p6",
+                "verse",
+                "v42",
+                "content"
+              ],
+              "value": "‘Say to them, Do not go up or fight,"
+            },
+            {
+              "rowId": 269,
+              "keyParts": [
+                269,
+                "p6",
+                "verse",
+                "v42",
+                "note",
+                "x"
+              ],
+              "value": "#[ch.31:17]"
+            },
+            {
+              "rowId": 270,
+              "keyParts": [
+                270,
+                "p6",
+                "verse",
+                "v42",
+                "content"
+              ],
+              "value": "for I am not in your midst, lest you be defeated before your enemies.’"
+            },
+            {
+              "rowId": 271,
+              "keyParts": [
+                "v042_ESV_DEU_001",
+                271,
+                "p6",
+                "verse",
+                "v42",
+                "plain_text"
+              ],
+              "value": "42 And the Lord said to me, ‘Say to them, Do not go up or fight, for I am not in your midst, lest you be defeated before your enemies.’"
+            },
+            {
+              "rowId": 272,
+              "keyParts": [
+                272,
+                "p6",
+                "verse",
+                "v43",
+                "label"
+              ],
+              "value": "43"
+            },
+            {
+              "rowId": 273,
+              "keyParts": [
+                273,
+                "p6",
+                "verse",
+                "v43",
+                "content"
+              ],
+              "value": "So I spoke to you, and you would not listen; but you rebelled against the command of the"
+            },
+            {
+              "rowId": 274,
+              "keyParts": [
+                274,
+                "p6",
+                "verse",
+                "v43",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 275,
+              "keyParts": [
+                275,
+                "p6",
+                "verse",
+                "v43",
+                "content"
+              ],
+              "value": "and"
+            },
+            {
+              "rowId": 276,
+              "keyParts": [
+                276,
+                "p6",
+                "verse",
+                "v43",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 14:44"
+            },
+            {
+              "rowId": 277,
+              "keyParts": [
+                277,
+                "p6",
+                "verse",
+                "v43",
+                "content"
+              ],
+              "value": "presumptuously went up into the hill country."
+            },
+            {
+              "rowId": 278,
+              "keyParts": [
+                "v043_ESV_DEU_001",
+                278,
+                "p6",
+                "verse",
+                "v43",
+                "plain_text"
+              ],
+              "value": "43 So I spoke to you, and you would not listen; but you rebelled against the command of the Lord and presumptuously went up into the hill country."
+            },
+            {
+              "rowId": 279,
+              "keyParts": [
+                279,
+                "p6",
+                "verse",
+                "v44",
+                "label"
+              ],
+              "value": "44"
+            },
+            {
+              "rowId": 280,
+              "keyParts": [
+                280,
+                "p6",
+                "verse",
+                "v44",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 14:45"
+            },
+            {
+              "rowId": 281,
+              "keyParts": [
+                281,
+                "p6",
+                "verse",
+                "v44",
+                "content"
+              ],
+              "value": "Then the Amorites who lived in that hill country came out against you and chased you"
+            },
+            {
+              "rowId": 282,
+              "keyParts": [
+                282,
+                "p6",
+                "verse",
+                "v44",
+                "note",
+                "x"
+              ],
+              "value": "#[Ps. 118:12;Isa. 7:18]"
+            },
+            {
+              "rowId": 283,
+              "keyParts": [
+                283,
+                "p6",
+                "verse",
+                "v44",
+                "content"
+              ],
+              "value": "as bees do and beat you down in Seir as far as"
+            },
+            {
+              "rowId": 284,
+              "keyParts": [
+                284,
+                "p6",
+                "verse",
+                "v44",
+                "note",
+                "x"
+              ],
+              "value": "#SeeNum. 21:3"
+            },
+            {
+              "rowId": 285,
+              "keyParts": [
+                285,
+                "p6",
+                "verse",
+                "v44",
+                "content"
+              ],
+              "value": "Hormah."
+            },
+            {
+              "rowId": 286,
+              "keyParts": [
+                "v044_ESV_DEU_001",
+                286,
+                "p6",
+                "verse",
+                "v44",
+                "plain_text"
+              ],
+              "value": "44 Then the Amorites who lived in that hill country came out against you and chased you as bees do and beat you down in Seir as far as Hormah."
+            },
+            {
+              "rowId": 287,
+              "keyParts": [
+                287,
+                "p6",
+                "verse",
+                "v45",
+                "label"
+              ],
+              "value": "45"
+            },
+            {
+              "rowId": 288,
+              "keyParts": [
+                288,
+                "p6",
+                "verse",
+                "v45",
+                "content"
+              ],
+              "value": "And you returned and wept before the"
+            },
+            {
+              "rowId": 289,
+              "keyParts": [
+                289,
+                "p6",
+                "verse",
+                "v45",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 290,
+              "keyParts": [
+                290,
+                "p6",
+                "verse",
+                "v45",
+                "content"
+              ],
+              "value": ", but the"
+            },
+            {
+              "rowId": 291,
+              "keyParts": [
+                291,
+                "p6",
+                "verse",
+                "v45",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 292,
+              "keyParts": [
+                292,
+                "p6",
+                "verse",
+                "v45",
+                "content"
+              ],
+              "value": "did not listen to your voice or give ear to you."
+            },
+            {
+              "rowId": 293,
+              "keyParts": [
+                "v045_ESV_DEU_001",
+                293,
+                "p6",
+                "verse",
+                "v45",
+                "plain_text"
+              ],
+              "value": "45 And you returned and wept before the Lord , but the Lord did not listen to your voice or give ear to you."
+            },
+            {
+              "rowId": 294,
+              "keyParts": [
+                294,
+                "p6",
+                "verse",
+                "v46",
+                "label"
+              ],
+              "value": "46"
+            },
+            {
+              "rowId": 295,
+              "keyParts": [
+                295,
+                "p6",
+                "verse",
+                "v46",
+                "content"
+              ],
+              "value": "So"
+            },
+            {
+              "rowId": 296,
+              "keyParts": [
+                296,
+                "p6",
+                "verse",
+                "v46",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 20:1,22;Judg. 11:17"
+            },
+            {
+              "rowId": 297,
+              "keyParts": [
+                297,
+                "p6",
+                "verse",
+                "v46",
+                "content"
+              ],
+              "value": "you remained at Kadesh many days, the days that you remained there."
+            },
+            {
+              "rowId": 298,
+              "keyParts": [
+                "v046_ESV_DEU_001",
+                298,
+                "p6",
+                "verse",
+                "v46",
+                "plain_text"
+              ],
+              "value": "46 So you remained at Kadesh many days, the days that you remained there."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3796 @@
+{
+  "translationId": "NET",
+  "name": "New English Translation",
+  "abbreviation": "NET",
+  "language": "English",
+  "copyright": "1996 - 2007 by Biblical Studies Press, LLC",
+  "books": [
+    {
+      "bookId": "GEN",
+      "testament": "",
+      "order": 0,
+      "title": "Genesis",
+      "abbreviation": "GEN",
+      "chapters": [
+        {
+          "chapter": 27,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "27"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Jacob Cheats Esau out of the Blessing"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "When"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "f"
+              ],
+              "value": "tn The clause begins with the temporal indicator (“and it happened”), making it subordinate to the main clause that follows later in the sentence."
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "Isaac was old and his eyes were so weak that he was almost blind,"
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                7,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and his eyes were weak from seeing.”"
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "he called his older"
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                9,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “greater” (in terms of age)."
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "son Esau and said to him, “My son!” “Here I am!” Esau"
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                11,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “he”; the referent (Esau) is specified in the translation for clarity."
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                12,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "replied."
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                "v001_NET_GEN_027",
+                13,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 When Isaac was old and his eyes were so weak that he was almost blind, he called his older son Esau and said to him, “My son!” “Here I am!” Esau replied."
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                15,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "Isaac"
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                16,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “he”; the referent (Isaac) is specified in the translation for clarity."
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                17,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "said, “Since"
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "f"
+              ],
+              "value": "tn The particle הִנֵּה (hinneh, “look”) here introduces a logically foundational statement, upon which the coming instruction will be based."
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "I am so old, I could die at any time."
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                20,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “I do not know the day of my death.”"
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                "v002_NET_GEN_027",
+                21,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 Isaac said, “Since I am so old, I could die at any time."
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                22,
+                "p1",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "Therefore, take your weapons – your quiver and your bow – and go out into the open fields and hunt down some wild game"
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                24,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "f"
+              ],
+              "value": "tn The Hebrew word is to be spelled either צַיִד (tsayid) following the marginal reading (Qere), or צֵידָה (tsedah) following the consonantal text (Kethib). Either way it is from the same root as the imperative צוּדָה (tsudah, “hunt down”)."
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "for me."
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                "v003_NET_GEN_027",
+                26,
+                "p1",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 Therefore, take your weapons – your quiver and your bow – and go out into the open fields and hunt down some wild game for me."
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                27,
+                "p1",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                28,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "Then prepare for me some tasty food, the kind I love, and bring it to me. Then"
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                29,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "f"
+              ],
+              "value": "tn Following the imperative, the cohortative (with the prefixed conjunction) indicates purpose or result."
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                30,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "I will eat it so that I may bless you"
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                31,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “so that my soul may bless you.” The use of נַפְשִׁי (nafshi, “my soul”) as the subject emphasizes that the blessing will be made with all Isaac’s desire and vitality. The conjunction “so that” closely relates the meal to the blessing, suggesting that this will be a ritual meal in conjunction with the giving of a formal blessing."
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "before I die.”"
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                "v004_NET_GEN_027",
+                33,
+                "p1",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 Then prepare for me some tasty food, the kind I love, and bring it to me. Then I will eat it so that I may bless you before I die.”"
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                34,
+                "p2",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                35,
+                "p2",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "Now Rebekah had been listening while Isaac spoke to his son Esau."
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "p2",
+                "verse",
+                "v5",
+                "note",
+                "f"
+              ],
+              "value": "tn The disjunctive clause (introduced by a conjunction with the subject, followed by the predicate) here introduces a new scene in the story."
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                37,
+                "p2",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "When Esau went out to the open fields to hunt down some wild game and bring it back,"
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                38,
+                "p2",
+                "verse",
+                "v5",
+                "note",
+                "f"
+              ],
+              "value": "tc The LXX adds here “to his father,” which may have been accidentally omitted in the MT."
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                "v005_NET_GEN_027",
+                39,
+                "p2",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 Now Rebekah had been listening while Isaac spoke to his son Esau. When Esau went out to the open fields to hunt down some wild game and bring it back,"
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                40,
+                "p2",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p2",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "Rebekah said to her son Jacob, “Look, I overheard your father tell your brother Esau,"
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                "v006_NET_GEN_027",
+                42,
+                "p2",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 Rebekah said to her son Jacob, “Look, I overheard your father tell your brother Esau,"
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                43,
+                "p2",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                44,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "‘Bring me some wild game and prepare for me some tasty food. Then I will eat"
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                45,
+                "p2",
+                "verse",
+                "v7",
+                "note",
+                "f"
+              ],
+              "value": "tn Following the imperative, the cohortative (with the prefixed conjunction) indicates purpose or result."
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                46,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "it and bless you"
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                47,
+                "p2",
+                "verse",
+                "v7",
+                "note",
+                "f"
+              ],
+              "value": "tn The cohortative, with the prefixed conjunction, also expresses logical sequence. See vv. 4, 19, 27."
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                48,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "in the presence of the"
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                49,
+                "p2",
+                "verse",
+                "v7",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "p2",
+                "verse",
+                "v7",
+                "note",
+                "f"
+              ],
+              "value": "tn In her report to Jacob, Rebekah plays down Isaac’s strong desire to bless Esau by leaving out נַפְשִׁי (nafshi, “my soul”), but by adding the phrase “in the presence of the Lord,” she stresses how serious this matter is."
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                51,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "before I die.’"
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                "v007_NET_GEN_027",
+                52,
+                "p2",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 ‘Bring me some wild game and prepare for me some tasty food. Then I will eat it and bless you in the presence of the Lord before I die.’"
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                53,
+                "p2",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                54,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "Now then, my son, do"
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                55,
+                "p2",
+                "verse",
+                "v8",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “listen to my voice.” The Hebrew idiom means “to comply; to obey.”"
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                56,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "exactly what I tell you!"
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                57,
+                "p2",
+                "verse",
+                "v8",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “to that which I am commanding you.”"
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                "v008_NET_GEN_027",
+                58,
+                "p2",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 Now then, my son, do exactly what I tell you!"
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                59,
+                "p2",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                60,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "Go to the flock and get me two of the best young goats. I’ll prepare"
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                61,
+                "p2",
+                "verse",
+                "v9",
+                "note",
+                "f"
+              ],
+              "value": "tn Following the imperative, the cohortative (with the prefixed conjunction) indicates purpose or result."
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                62,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "them in a tasty way for your father, just the way he loves them."
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                "v009_NET_GEN_027",
+                63,
+                "p2",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 Go to the flock and get me two of the best young goats. I’ll prepare them in a tasty way for your father, just the way he loves them."
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                64,
+                "p2",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                65,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "Then you will take"
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                66,
+                "p2",
+                "verse",
+                "v10",
+                "note",
+                "f"
+              ],
+              "value": "tn The form is the perfect tense with the vav (ו) consecutive. It carries forward the tone of instruction initiated by the command to “go…and get” in the preceding verse."
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                67,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "it to your father. Thus he will eat it"
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                68,
+                "p2",
+                "verse",
+                "v10",
+                "note",
+                "f"
+              ],
+              "value": "tn The form is the perfect with the vav (ו) consecutive; it carries the future nuance of the preceding verbs of instruction, but by switching the subject to Jacob, indicates the expected result of the subterfuge."
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                69,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "and"
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                70,
+                "p2",
+                "verse",
+                "v10",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “so that.” The conjunction indicates purpose or result."
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                71,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "bless you before he dies.”"
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                "v010_NET_GEN_027",
+                72,
+                "p2",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 Then you will take it to your father. Thus he will eat it and bless you before he dies.”"
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                73,
+                "p3",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                74,
+                "p3",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "“But Esau my brother is a hairy man,” Jacob protested to his mother Rebekah, “and I have smooth skin!"
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                75,
+                "p3",
+                "verse",
+                "v11",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “And Jacob said to Rebekah his mother, ‘Look, Esau my brother is a hairy man, but I am a smooth [skinned] man.’” The order of the introductory clause and the direct discourse has been rearranged in the translation for stylistic reasons."
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                "v011_NET_GEN_027",
+                76,
+                "p3",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 “But Esau my brother is a hairy man,” Jacob protested to his mother Rebekah, “and I have smooth skin!"
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                77,
+                "p3",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                78,
+                "p3",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "My father may touch me! Then he’ll think I’m mocking him"
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                79,
+                "p3",
+                "verse",
+                "v12",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “Perhaps my father will feel me and I will be in his eyes like a mocker.” The Hebrew expression “I will be in his eyes like” means “I would appear to him as.”"
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                80,
+                "p3",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "and I’ll bring a curse on myself instead of a blessing.”"
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                "v012_NET_GEN_027",
+                81,
+                "p3",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 My father may touch me! Then he’ll think I’m mocking him and I’ll bring a curse on myself instead of a blessing.”"
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                82,
+                "p3",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                83,
+                "p3",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "So his mother told him, “Any curse against you will fall on me,"
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                84,
+                "p3",
+                "verse",
+                "v13",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “upon me your curse.”"
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                85,
+                "p3",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "my son! Just obey me!"
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                86,
+                "p3",
+                "verse",
+                "v13",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “only listen to my voice.”"
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                87,
+                "p3",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "Go and get them for me!”"
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                "v013_NET_GEN_027",
+                88,
+                "p3",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 So his mother told him, “Any curse against you will fall on me, my son! Just obey me! Go and get them for me!”"
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                89,
+                "p4",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                90,
+                "p4",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "So he went and got the goats"
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                91,
+                "p4",
+                "verse",
+                "v14",
+                "note",
+                "f"
+              ],
+              "value": "tn The words “the goats” are not in the Hebrew text, but are supplied in the translation for stylistic reasons."
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                92,
+                "p4",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "and brought them to his mother. She"
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                93,
+                "p4",
+                "verse",
+                "v14",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “his mother.” This has been replaced by the pronoun “she” in the translation for stylistic reasons."
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                94,
+                "p4",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "prepared some tasty food, just the way his father loved it."
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                "v014_NET_GEN_027",
+                95,
+                "p4",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 So he went and got the goats and brought them to his mother. She prepared some tasty food, just the way his father loved it."
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                96,
+                "p4",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                97,
+                "p4",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "Then Rebekah took her older son Esau’s best clothes, which she had with her in the house, and put them on her younger son Jacob."
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                "v015_NET_GEN_027",
+                98,
+                "p4",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 Then Rebekah took her older son Esau’s best clothes, which she had with her in the house, and put them on her younger son Jacob."
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                99,
+                "p4",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                100,
+                "p4",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "She put the skins of the young goats"
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                101,
+                "p4",
+                "verse",
+                "v16",
+                "note",
+                "f"
+              ],
+              "value": "tn In the Hebrew text the object (“the skins of the young goats”) precedes the verb. The disjunctive clause draws attention to this key element in the subterfuge."
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                102,
+                "p4",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "on his hands"
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                103,
+                "p4",
+                "verse",
+                "v16",
+                "note",
+                "f"
+              ],
+              "value": "tn The word “hands” probably includes the forearms here. How the skins were attached is not specified in the Hebrew text; cf. NLT “she made him a pair of gloves.”"
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                104,
+                "p4",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "and the smooth part of his neck."
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                "v016_NET_GEN_027",
+                105,
+                "p4",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 She put the skins of the young goats on his hands and the smooth part of his neck."
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                106,
+                "p4",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                107,
+                "p4",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "Then she handed"
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                108,
+                "p4",
+                "verse",
+                "v17",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “gave…into the hand of.”"
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                109,
+                "p4",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "the tasty food and the bread she had made to her son Jacob."
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                "v017_NET_GEN_027",
+                110,
+                "p4",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 Then she handed the tasty food and the bread she had made to her son Jacob."
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                111,
+                "p5",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                112,
+                "p5",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "He went to his father and said, “My father!” Isaac"
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                113,
+                "p5",
+                "verse",
+                "v18",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and he said”; the referent (Isaac) has been specified in the translation for clarity."
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                114,
+                "p5",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "replied, “Here I am. Which are you, my son?”"
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                115,
+                "p5",
+                "verse",
+                "v18",
+                "note",
+                "f"
+              ],
+              "value": "sn Which are you, my son? Isaac’s first question shows that the deception is going to require more subterfuge than Rebekah had anticipated. Jacob will have to pull off the deceit."
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                "v018_NET_GEN_027",
+                116,
+                "p5",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 He went to his father and said, “My father!” Isaac replied, “Here I am. Which are you, my son?”"
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                117,
+                "p5",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                118,
+                "p5",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "Jacob said to his father, “I am Esau, your firstborn. I’ve done as you told me. Now sit up"
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                119,
+                "p5",
+                "verse",
+                "v19",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “get up and sit.” This may mean simply “sit up,” or it may indicate that he was to get up from his couch and sit at a table."
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                120,
+                "p5",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "and eat some of my wild game so that you can bless me.”"
+            },
+            {
+              "rowId": 121,
+              "keyParts": [
+                121,
+                "p5",
+                "verse",
+                "v19",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “so that your soul may bless me.” These words, though not reported by Rebekah to Jacob (see v. 7) accurately reflect what Isaac actually said to Esau (see v. 4). Perhaps Jacob knew more than Rebekah realized, but it is more likely that this was an idiom for sincere blessing with which Jacob was familiar. At any rate, his use of the precise wording was a nice, convincing touch."
+            },
+            {
+              "rowId": 122,
+              "keyParts": [
+                "v019_NET_GEN_027",
+                122,
+                "p5",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 Jacob said to his father, “I am Esau, your firstborn. I’ve done as you told me. Now sit up and eat some of my wild game so that you can bless me.”"
+            },
+            {
+              "rowId": 123,
+              "keyParts": [
+                123,
+                "p5",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 124,
+              "keyParts": [
+                124,
+                "p5",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "But Isaac asked his son, “How in the world"
+            },
+            {
+              "rowId": 125,
+              "keyParts": [
+                125,
+                "p5",
+                "verse",
+                "v20",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “What is this?” The enclitic pronoun “this” adds emphasis to the question, which is comparable to the English rhetorical question, “How in the world?”"
+            },
+            {
+              "rowId": 126,
+              "keyParts": [
+                126,
+                "p5",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "did you find it so quickly,"
+            },
+            {
+              "rowId": 127,
+              "keyParts": [
+                127,
+                "p5",
+                "verse",
+                "v20",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “you hastened to find.” In translation the infinitive becomes the main verb and the first verb becomes adverbial."
+            },
+            {
+              "rowId": 128,
+              "keyParts": [
+                128,
+                "p5",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "my son?” “Because the"
+            },
+            {
+              "rowId": 129,
+              "keyParts": [
+                129,
+                "p5",
+                "verse",
+                "v20",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 130,
+              "keyParts": [
+                130,
+                "p5",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "your God brought it to me,”"
+            },
+            {
+              "rowId": 131,
+              "keyParts": [
+                131,
+                "p5",
+                "verse",
+                "v20",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “caused to meet before me.”"
+            },
+            {
+              "rowId": 132,
+              "keyParts": [
+                132,
+                "p5",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "he replied."
+            },
+            {
+              "rowId": 133,
+              "keyParts": [
+                133,
+                "p5",
+                "verse",
+                "v20",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and he said, ‘Because the Lord your God….’” The order of the introductory clause and the direct discourse has been rearranged in the translation for stylistic reasons."
+            },
+            {
+              "rowId": 134,
+              "keyParts": [
+                "v020_NET_GEN_027",
+                134,
+                "p5",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 But Isaac asked his son, “How in the world did you find it so quickly, my son?” “Because the Lord your God brought it to me,” he replied."
+            },
+            {
+              "rowId": 135,
+              "keyParts": [
+                135,
+                "p5",
+                "verse",
+                "v21",
+                "label"
+              ],
+              "value": "21"
+            },
+            {
+              "rowId": 136,
+              "keyParts": [
+                136,
+                "p5",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "Then Isaac said to Jacob, “Come closer so I can touch you,"
+            },
+            {
+              "rowId": 137,
+              "keyParts": [
+                137,
+                "p5",
+                "verse",
+                "v21",
+                "note",
+                "f"
+              ],
+              "value": "tn Following the imperative, the cohortative (with prefixed conjunction) indicates purpose or result."
+            },
+            {
+              "rowId": 138,
+              "keyParts": [
+                138,
+                "p5",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "my son, and know for certain if you really are my son Esau.”"
+            },
+            {
+              "rowId": 139,
+              "keyParts": [
+                139,
+                "p5",
+                "verse",
+                "v21",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “Are you this one, Esau, my son, or not?” On the use of the interrogative particle here, see BDB 210 s.v. הֲ."
+            },
+            {
+              "rowId": 140,
+              "keyParts": [
+                "v021_NET_GEN_027",
+                140,
+                "p5",
+                "verse",
+                "v21",
+                "plain_text"
+              ],
+              "value": "21 Then Isaac said to Jacob, “Come closer so I can touch you, my son, and know for certain if you really are my son Esau.”"
+            },
+            {
+              "rowId": 141,
+              "keyParts": [
+                141,
+                "p5",
+                "verse",
+                "v22",
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 142,
+              "keyParts": [
+                142,
+                "p5",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "So Jacob went over to his father Isaac, who felt him and said, “The voice is Jacob’s, but the hands are Esau’s.”"
+            },
+            {
+              "rowId": 143,
+              "keyParts": [
+                "v022_NET_GEN_027",
+                143,
+                "p5",
+                "verse",
+                "v22",
+                "plain_text"
+              ],
+              "value": "22 So Jacob went over to his father Isaac, who felt him and said, “The voice is Jacob’s, but the hands are Esau’s.”"
+            },
+            {
+              "rowId": 144,
+              "keyParts": [
+                144,
+                "p5",
+                "verse",
+                "v23",
+                "label"
+              ],
+              "value": "23"
+            },
+            {
+              "rowId": 145,
+              "keyParts": [
+                145,
+                "p5",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "He did not recognize him because his hands were hairy, like his brother Esau’s hands. So Isaac blessed Jacob."
+            },
+            {
+              "rowId": 146,
+              "keyParts": [
+                146,
+                "p5",
+                "verse",
+                "v23",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and he blessed him.” The referents of the pronouns “he” (Isaac) and “him” (Jacob) have been specified in the translation for clarity."
+            },
+            {
+              "rowId": 147,
+              "keyParts": [
+                "v023_NET_GEN_027",
+                147,
+                "p5",
+                "verse",
+                "v23",
+                "plain_text"
+              ],
+              "value": "23 He did not recognize him because his hands were hairy, like his brother Esau’s hands. So Isaac blessed Jacob."
+            },
+            {
+              "rowId": 148,
+              "keyParts": [
+                148,
+                "p5",
+                "verse",
+                "v24",
+                "label"
+              ],
+              "value": "24"
+            },
+            {
+              "rowId": 149,
+              "keyParts": [
+                149,
+                "p5",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "Then he asked, “Are you really my son Esau?” “I am,” Jacob"
+            },
+            {
+              "rowId": 150,
+              "keyParts": [
+                150,
+                "p5",
+                "verse",
+                "v24",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “he”; the referent (Jacob) has been specified in the translation for clarity."
+            },
+            {
+              "rowId": 151,
+              "keyParts": [
+                151,
+                "p5",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "replied."
+            },
+            {
+              "rowId": 152,
+              "keyParts": [
+                "v024_NET_GEN_027",
+                152,
+                "p5",
+                "verse",
+                "v24",
+                "plain_text"
+              ],
+              "value": "24 Then he asked, “Are you really my son Esau?” “I am,” Jacob replied."
+            },
+            {
+              "rowId": 153,
+              "keyParts": [
+                153,
+                "p5",
+                "verse",
+                "v25",
+                "label"
+              ],
+              "value": "25"
+            },
+            {
+              "rowId": 154,
+              "keyParts": [
+                154,
+                "p5",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "Isaac"
+            },
+            {
+              "rowId": 155,
+              "keyParts": [
+                155,
+                "p5",
+                "verse",
+                "v25",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and he said”; the referent (Isaac) has been specified in the translation for clarity."
+            },
+            {
+              "rowId": 156,
+              "keyParts": [
+                156,
+                "p5",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "said, “Bring some of the wild game for me to eat, my son."
+            },
+            {
+              "rowId": 157,
+              "keyParts": [
+                157,
+                "p5",
+                "verse",
+                "v25",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “Bring near to me and I will eat of the wild game, my son.” Following the imperative, the cohortative with the prefixed conjunction indicates purpose or result."
+            },
+            {
+              "rowId": 158,
+              "keyParts": [
+                158,
+                "p5",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "Then I will bless you.”"
+            },
+            {
+              "rowId": 159,
+              "keyParts": [
+                159,
+                "p5",
+                "verse",
+                "v25",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “so that my soul may bless you.” The presence of נַפְשִׁי (nafshi, “my soul”) as subject emphasizes Isaac’s heartfelt desire to do this. The conjunction indicates that the ritual meal must be first eaten before the formal blessing may be given."
+            },
+            {
+              "rowId": 160,
+              "keyParts": [
+                160,
+                "p5",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "So Jacob"
+            },
+            {
+              "rowId": 161,
+              "keyParts": [
+                161,
+                "p5",
+                "verse",
+                "v25",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and he brought”; the referent (Jacob) has been specified in the translation for clarity."
+            },
+            {
+              "rowId": 162,
+              "keyParts": [
+                162,
+                "p5",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "brought it to him, and he ate it. He also brought him wine, and Isaac"
+            },
+            {
+              "rowId": 163,
+              "keyParts": [
+                163,
+                "p5",
+                "verse",
+                "v25",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and he drank”; the referent (Isaac) has been specified in the translation for clarity."
+            },
+            {
+              "rowId": 164,
+              "keyParts": [
+                164,
+                "p5",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "drank."
+            },
+            {
+              "rowId": 165,
+              "keyParts": [
+                "v025_NET_GEN_027",
+                165,
+                "p5",
+                "verse",
+                "v25",
+                "plain_text"
+              ],
+              "value": "25 Isaac said, “Bring some of the wild game for me to eat, my son. Then I will bless you.” So Jacob brought it to him, and he ate it. He also brought him wine, and Isaac drank."
+            },
+            {
+              "rowId": 166,
+              "keyParts": [
+                166,
+                "p5",
+                "verse",
+                "v26",
+                "label"
+              ],
+              "value": "26"
+            },
+            {
+              "rowId": 167,
+              "keyParts": [
+                167,
+                "p5",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "Then his father Isaac said to him, “Come here and kiss me, my son.”"
+            },
+            {
+              "rowId": 168,
+              "keyParts": [
+                "v026_NET_GEN_027",
+                168,
+                "p5",
+                "verse",
+                "v26",
+                "plain_text"
+              ],
+              "value": "26 Then his father Isaac said to him, “Come here and kiss me, my son.”"
+            },
+            {
+              "rowId": 169,
+              "keyParts": [
+                169,
+                "p5",
+                "verse",
+                "v27",
+                "label"
+              ],
+              "value": "27"
+            },
+            {
+              "rowId": 170,
+              "keyParts": [
+                170,
+                "p5",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "So Jacob"
+            },
+            {
+              "rowId": 171,
+              "keyParts": [
+                171,
+                "p5",
+                "verse",
+                "v27",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and he”; the referent (Jacob) has been specified in the translation for clarity."
+            },
+            {
+              "rowId": 172,
+              "keyParts": [
+                172,
+                "p5",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "went over and kissed him. When Isaac caught the scent"
+            },
+            {
+              "rowId": 173,
+              "keyParts": [
+                173,
+                "p5",
+                "verse",
+                "v27",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and he smelled the smell”; the referent (Isaac) has been specified in the translation for clarity."
+            },
+            {
+              "rowId": 174,
+              "keyParts": [
+                174,
+                "p5",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "of his clothing, he blessed him, saying,"
+            },
+            {
+              "rowId": 175,
+              "keyParts": [
+                175,
+                "p6",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "“Yes,"
+            },
+            {
+              "rowId": 176,
+              "keyParts": [
+                176,
+                "p6",
+                "verse",
+                "v27",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “see.”"
+            },
+            {
+              "rowId": 177,
+              "keyParts": [
+                177,
+                "p6",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "my son smells"
+            },
+            {
+              "rowId": 178,
+              "keyParts": [
+                178,
+                "p7",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "like the scent of an open field"
+            },
+            {
+              "rowId": 179,
+              "keyParts": [
+                179,
+                "p8",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "which the"
+            },
+            {
+              "rowId": 180,
+              "keyParts": [
+                180,
+                "p8",
+                "verse",
+                "v27",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 181,
+              "keyParts": [
+                181,
+                "p8",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "has blessed."
+            },
+            {
+              "rowId": 182,
+              "keyParts": [
+                "v027_NET_GEN_027",
+                182,
+                "p5",
+                "verse",
+                "v27",
+                "plain_text"
+              ],
+              "value": "27 So Jacob went over and kissed him. When Isaac caught the scent of his clothing, he blessed him, saying, “Yes, my son smells like the scent of an open field which the Lord has blessed."
+            },
+            {
+              "rowId": 183,
+              "keyParts": [
+                183,
+                "p9",
+                "verse",
+                "v28",
+                "label"
+              ],
+              "value": "28"
+            },
+            {
+              "rowId": 184,
+              "keyParts": [
+                184,
+                "p9",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "May God give you"
+            },
+            {
+              "rowId": 185,
+              "keyParts": [
+                185,
+                "p10",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "the dew of the sky"
+            },
+            {
+              "rowId": 186,
+              "keyParts": [
+                186,
+                "p10",
+                "verse",
+                "v28",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and from the dew of the sky.”"
+            },
+            {
+              "rowId": 187,
+              "keyParts": [
+                187,
+                "p11",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "and the richness"
+            },
+            {
+              "rowId": 188,
+              "keyParts": [
+                188,
+                "p11",
+                "verse",
+                "v28",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and from the fatness.”"
+            },
+            {
+              "rowId": 189,
+              "keyParts": [
+                189,
+                "p11",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "of the earth,"
+            },
+            {
+              "rowId": 190,
+              "keyParts": [
+                190,
+                "p12",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "and plenty of grain and new wine."
+            },
+            {
+              "rowId": 191,
+              "keyParts": [
+                "v028_NET_GEN_027",
+                191,
+                "p9",
+                "verse",
+                "v28",
+                "plain_text"
+              ],
+              "value": "28 May God give you the dew of the sky and the richness of the earth, and plenty of grain and new wine."
+            },
+            {
+              "rowId": 192,
+              "keyParts": [
+                192,
+                "p13",
+                "verse",
+                "v29",
+                "label"
+              ],
+              "value": "29"
+            },
+            {
+              "rowId": 193,
+              "keyParts": [
+                193,
+                "p13",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "May peoples serve you"
+            },
+            {
+              "rowId": 194,
+              "keyParts": [
+                194,
+                "p14",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "and nations bow down to you."
+            },
+            {
+              "rowId": 195,
+              "keyParts": [
+                195,
+                "p15",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "You will be"
+            },
+            {
+              "rowId": 196,
+              "keyParts": [
+                196,
+                "p15",
+                "verse",
+                "v29",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and be.” The verb is an imperative, which is used rhetorically in this oracle of blessing. It is an invitation to exercise authority his brothers and indicates that he is granted such authority by the patriarch of the family. Furthermore, the blessing enables the recipient to accomplish this."
+            },
+            {
+              "rowId": 197,
+              "keyParts": [
+                197,
+                "p15",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "lord"
+            },
+            {
+              "rowId": 198,
+              "keyParts": [
+                198,
+                "p15",
+                "verse",
+                "v29",
+                "note",
+                "f"
+              ],
+              "value": "tn The Hebrew word is גְבִיר (gevir, “lord, mighty one”). The one being blessed will be stronger and therefore more powerful than his brother. See Gen 25:23. The feminine form of this rare noun means “mistress” or “queen-mother.”"
+            },
+            {
+              "rowId": 199,
+              "keyParts": [
+                199,
+                "p15",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "over your brothers,"
+            },
+            {
+              "rowId": 200,
+              "keyParts": [
+                200,
+                "p16",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "and the sons of your mother will bow down to you."
+            },
+            {
+              "rowId": 201,
+              "keyParts": [
+                201,
+                "p16",
+                "verse",
+                "v29",
+                "note",
+                "f"
+              ],
+              "value": "tn Following the imperative, the prefixed verbal form (which is either an imperfect or a jussive) with the prefixed conjunction indicates purpose or result."
+            },
+            {
+              "rowId": 202,
+              "keyParts": [
+                202,
+                "p17",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "May those who curse you be cursed,"
+            },
+            {
+              "rowId": 203,
+              "keyParts": [
+                203,
+                "p18",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "and those who bless you be blessed.”"
+            },
+            {
+              "rowId": 204,
+              "keyParts": [
+                "v029_NET_GEN_027",
+                204,
+                "p13",
+                "verse",
+                "v29",
+                "plain_text"
+              ],
+              "value": "29 May peoples serve you and nations bow down to you. You will be lord over your brothers, and the sons of your mother will bow down to you. May those who curse you be cursed, and those who bless you be blessed.”"
+            },
+            {
+              "rowId": 205,
+              "keyParts": [
+                205,
+                "p19",
+                "verse",
+                "v30",
+                "label"
+              ],
+              "value": "30"
+            },
+            {
+              "rowId": 206,
+              "keyParts": [
+                206,
+                "p19",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "Isaac had just finished blessing Jacob, and Jacob had scarcely left"
+            },
+            {
+              "rowId": 207,
+              "keyParts": [
+                207,
+                "p19",
+                "verse",
+                "v30",
+                "note",
+                "f"
+              ],
+              "value": "tn The use of the infinitive absolute before the finite form of the verb makes the construction emphatic."
+            },
+            {
+              "rowId": 208,
+              "keyParts": [
+                208,
+                "p19",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "his father’s"
+            },
+            {
+              "rowId": 209,
+              "keyParts": [
+                209,
+                "p19",
+                "verse",
+                "v30",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “the presence of Isaac his father.” The repetition of the proper name (“Isaac”) was"
+            },
+            {
+              "rowId": 210,
+              "keyParts": [
+                210,
+                "p19",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "presence, when his brother Esau returned from the hunt."
+            },
+            {
+              "rowId": 211,
+              "keyParts": [
+                211,
+                "p19",
+                "verse",
+                "v30",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and Esau his brother came from his hunt.”"
+            },
+            {
+              "rowId": 212,
+              "keyParts": [
+                "v030_NET_GEN_027",
+                212,
+                "p19",
+                "verse",
+                "v30",
+                "plain_text"
+              ],
+              "value": "30 Isaac had just finished blessing Jacob, and Jacob had scarcely left his father’s presence, when his brother Esau returned from the hunt."
+            },
+            {
+              "rowId": 213,
+              "keyParts": [
+                213,
+                "p19",
+                "verse",
+                "v31",
+                "label"
+              ],
+              "value": "31"
+            },
+            {
+              "rowId": 214,
+              "keyParts": [
+                214,
+                "p19",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "He also prepared some tasty food and brought it to his father. Esau"
+            },
+            {
+              "rowId": 215,
+              "keyParts": [
+                215,
+                "p19",
+                "verse",
+                "v31",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and he said to his father”; the referent of “he” (Esau) has been specified in the translation for clarity, while the words “his father” have been replaced by the pronoun “him” for stylistic reasons."
+            },
+            {
+              "rowId": 216,
+              "keyParts": [
+                216,
+                "p19",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "said to him, “My father, get up"
+            },
+            {
+              "rowId": 217,
+              "keyParts": [
+                217,
+                "p19",
+                "verse",
+                "v31",
+                "note",
+                "f"
+              ],
+              "value": "tn Or “arise” (i.e., sit up)."
+            },
+            {
+              "rowId": 218,
+              "keyParts": [
+                218,
+                "p19",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "and eat some of your son’s wild game. Then you can bless me.”"
+            },
+            {
+              "rowId": 219,
+              "keyParts": [
+                219,
+                "p19",
+                "verse",
+                "v31",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “so that your soul may bless me.”"
+            },
+            {
+              "rowId": 220,
+              "keyParts": [
+                "v031_NET_GEN_027",
+                220,
+                "p19",
+                "verse",
+                "v31",
+                "plain_text"
+              ],
+              "value": "31 He also prepared some tasty food and brought it to his father. Esau said to him, “My father, get up and eat some of your son’s wild game. Then you can bless me.”"
+            },
+            {
+              "rowId": 221,
+              "keyParts": [
+                221,
+                "p19",
+                "verse",
+                "v32",
+                "label"
+              ],
+              "value": "32"
+            },
+            {
+              "rowId": 222,
+              "keyParts": [
+                222,
+                "p19",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "His father Isaac asked,"
+            },
+            {
+              "rowId": 223,
+              "keyParts": [
+                223,
+                "p19",
+                "verse",
+                "v32",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “said.”"
+            },
+            {
+              "rowId": 224,
+              "keyParts": [
+                224,
+                "p19",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "“Who are you?” “I am your firstborn son,”"
+            },
+            {
+              "rowId": 225,
+              "keyParts": [
+                225,
+                "p19",
+                "verse",
+                "v32",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and he said, ‘I [am] your son, your firstborn.’” The order of the introductory clause and the direct discourse has been rearranged for stylistic reasons."
+            },
+            {
+              "rowId": 226,
+              "keyParts": [
+                226,
+                "p19",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "he replied, “Esau!”"
+            },
+            {
+              "rowId": 227,
+              "keyParts": [
+                "v032_NET_GEN_027",
+                227,
+                "p19",
+                "verse",
+                "v32",
+                "plain_text"
+              ],
+              "value": "32 His father Isaac asked, “Who are you?” “I am your firstborn son,” he replied, “Esau!”"
+            },
+            {
+              "rowId": 228,
+              "keyParts": [
+                228,
+                "p19",
+                "verse",
+                "v33",
+                "label"
+              ],
+              "value": "33"
+            },
+            {
+              "rowId": 229,
+              "keyParts": [
+                229,
+                "p19",
+                "verse",
+                "v33",
+                "content"
+              ],
+              "value": "Isaac began to shake violently"
+            },
+            {
+              "rowId": 230,
+              "keyParts": [
+                230,
+                "p19",
+                "verse",
+                "v33",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and Isaac trembled with a great trembling to excess.” The verb “trembled” is joined with a cognate accusative, which is modified by an adjective “great,” and a prepositional phrase “to excess.” All of this is emphatic, showing the violence of Isaac’s reaction to the news."
+            },
+            {
+              "rowId": 231,
+              "keyParts": [
+                231,
+                "p19",
+                "verse",
+                "v33",
+                "content"
+              ],
+              "value": "and asked, “Then who else hunted game and brought it to me? I ate all of it just before you arrived, and I blessed him."
+            },
+            {
+              "rowId": 232,
+              "keyParts": [
+                232,
+                "p19",
+                "verse",
+                "v33",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “Who then is he who hunted game and brought [it] to me so that I ate from all before you arrived and blessed him?”"
+            },
+            {
+              "rowId": 233,
+              "keyParts": [
+                233,
+                "p19",
+                "verse",
+                "v33",
+                "content"
+              ],
+              "value": "He will indeed be blessed!”"
+            },
+            {
+              "rowId": 234,
+              "keyParts": [
+                "v033_NET_GEN_027",
+                234,
+                "p19",
+                "verse",
+                "v33",
+                "plain_text"
+              ],
+              "value": "33 Isaac began to shake violently and asked, “Then who else hunted game and brought it to me? I ate all of it just before you arrived, and I blessed him. He will indeed be blessed!”"
+            },
+            {
+              "rowId": 235,
+              "keyParts": [
+                235,
+                "p20",
+                "verse",
+                "v34",
+                "label"
+              ],
+              "value": "34"
+            },
+            {
+              "rowId": 236,
+              "keyParts": [
+                236,
+                "p20",
+                "verse",
+                "v34",
+                "content"
+              ],
+              "value": "When Esau heard"
+            },
+            {
+              "rowId": 237,
+              "keyParts": [
+                237,
+                "p20",
+                "verse",
+                "v34",
+                "note",
+                "f"
+              ],
+              "value": "tn The temporal clause is introduced with the temporal indicator and has the infinitive as its verb."
+            },
+            {
+              "rowId": 238,
+              "keyParts": [
+                238,
+                "p20",
+                "verse",
+                "v34",
+                "content"
+              ],
+              "value": "his father’s words, he wailed loudly and bitterly."
+            },
+            {
+              "rowId": 239,
+              "keyParts": [
+                239,
+                "p20",
+                "verse",
+                "v34",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and he yelled [with] a great and bitter yell to excess.”"
+            },
+            {
+              "rowId": 240,
+              "keyParts": [
+                240,
+                "p20",
+                "verse",
+                "v34",
+                "content"
+              ],
+              "value": "He said to his father, “Bless me too, my father!”"
+            },
+            {
+              "rowId": 241,
+              "keyParts": [
+                "v034_NET_GEN_027",
+                241,
+                "p20",
+                "verse",
+                "v34",
+                "plain_text"
+              ],
+              "value": "34 When Esau heard his father’s words, he wailed loudly and bitterly. He said to his father, “Bless me too, my father!”"
+            },
+            {
+              "rowId": 242,
+              "keyParts": [
+                242,
+                "p20",
+                "verse",
+                "v35",
+                "label"
+              ],
+              "value": "35"
+            },
+            {
+              "rowId": 243,
+              "keyParts": [
+                243,
+                "p20",
+                "verse",
+                "v35",
+                "content"
+              ],
+              "value": "But Isaac"
+            },
+            {
+              "rowId": 244,
+              "keyParts": [
+                244,
+                "p20",
+                "verse",
+                "v35",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and he said”; the referent (Isaac) has been specified in the translation for clarity."
+            },
+            {
+              "rowId": 245,
+              "keyParts": [
+                245,
+                "p20",
+                "verse",
+                "v35",
+                "content"
+              ],
+              "value": "replied, “Your brother came in here deceitfully and took away"
+            },
+            {
+              "rowId": 246,
+              "keyParts": [
+                246,
+                "p20",
+                "verse",
+                "v35",
+                "note",
+                "f"
+              ],
+              "value": "tn Or “took”; “received.”"
+            },
+            {
+              "rowId": 247,
+              "keyParts": [
+                247,
+                "p20",
+                "verse",
+                "v35",
+                "content"
+              ],
+              "value": "your blessing.”"
+            },
+            {
+              "rowId": 248,
+              "keyParts": [
+                "v035_NET_GEN_027",
+                248,
+                "p20",
+                "verse",
+                "v35",
+                "plain_text"
+              ],
+              "value": "35 But Isaac replied, “Your brother came in here deceitfully and took away your blessing.”"
+            },
+            {
+              "rowId": 249,
+              "keyParts": [
+                249,
+                "p20",
+                "verse",
+                "v36",
+                "label"
+              ],
+              "value": "36"
+            },
+            {
+              "rowId": 250,
+              "keyParts": [
+                250,
+                "p20",
+                "verse",
+                "v36",
+                "content"
+              ],
+              "value": "Esau exclaimed, “‘Jacob’ is the right name for him!"
+            },
+            {
+              "rowId": 251,
+              "keyParts": [
+                251,
+                "p20",
+                "verse",
+                "v36",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “Is he not rightly named Jacob?” The rhetorical question, since it expects a positive reply, has been translated as a declarative statement."
+            },
+            {
+              "rowId": 252,
+              "keyParts": [
+                252,
+                "p20",
+                "verse",
+                "v36",
+                "content"
+              ],
+              "value": "He has tripped me up"
+            },
+            {
+              "rowId": 253,
+              "keyParts": [
+                253,
+                "p20",
+                "verse",
+                "v36",
+                "note",
+                "f"
+              ],
+              "value": "sn He has tripped me up. When originally given, the name Jacob was a play on the word “heel” (see Gen 25:26). The name (since it is a verb) probably means something like “may he protect,” that is, as a rearguard, dogging the heels. This name was probably chosen because of the immediate association with the incident of grabbing the heel. Esau gives the name “Jacob” a negative connotation here, the meaning “to trip up; to supplant.”"
+            },
+            {
+              "rowId": 254,
+              "keyParts": [
+                254,
+                "p20",
+                "verse",
+                "v36",
+                "content"
+              ],
+              "value": "two times! He took away my birthright, and now, look, he has taken away my blessing!” Then he asked, “Have you not kept back a blessing for me?”"
+            },
+            {
+              "rowId": 255,
+              "keyParts": [
+                "v036_NET_GEN_027",
+                255,
+                "p20",
+                "verse",
+                "v36",
+                "plain_text"
+              ],
+              "value": "36 Esau exclaimed, “‘Jacob’ is the right name for him! He has tripped me up two times! He took away my birthright, and now, look, he has taken away my blessing!” Then he asked, “Have you not kept back a blessing for me?”"
+            },
+            {
+              "rowId": 256,
+              "keyParts": [
+                256,
+                "p21",
+                "verse",
+                "v37",
+                "label"
+              ],
+              "value": "37"
+            },
+            {
+              "rowId": 257,
+              "keyParts": [
+                257,
+                "p21",
+                "verse",
+                "v37",
+                "content"
+              ],
+              "value": "Isaac replied to Esau, “Look! I have made him lord over you. I have made all his relatives his servants and provided him with grain and new wine. What is left that I can do for you, my son?”"
+            },
+            {
+              "rowId": 258,
+              "keyParts": [
+                "v037_NET_GEN_027",
+                258,
+                "p21",
+                "verse",
+                "v37",
+                "plain_text"
+              ],
+              "value": "37 Isaac replied to Esau, “Look! I have made him lord over you. I have made all his relatives his servants and provided him with grain and new wine. What is left that I can do for you, my son?”"
+            },
+            {
+              "rowId": 259,
+              "keyParts": [
+                259,
+                "p21",
+                "verse",
+                "v38",
+                "label"
+              ],
+              "value": "38"
+            },
+            {
+              "rowId": 260,
+              "keyParts": [
+                260,
+                "p21",
+                "verse",
+                "v38",
+                "content"
+              ],
+              "value": "Esau said to his father, “Do you have only that one blessing, my father? Bless me too!”"
+            },
+            {
+              "rowId": 261,
+              "keyParts": [
+                261,
+                "p21",
+                "verse",
+                "v38",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “Bless me, me also, my father.” The words “my father” have not been repeated in the translation for stylistic reasons."
+            },
+            {
+              "rowId": 262,
+              "keyParts": [
+                262,
+                "p21",
+                "verse",
+                "v38",
+                "content"
+              ],
+              "value": "Then Esau wept loudly."
+            },
+            {
+              "rowId": 263,
+              "keyParts": [
+                263,
+                "p21",
+                "verse",
+                "v38",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and Esau lifted his voice and wept.”"
+            },
+            {
+              "rowId": 264,
+              "keyParts": [
+                "v038_NET_GEN_027",
+                264,
+                "p21",
+                "verse",
+                "v38",
+                "plain_text"
+              ],
+              "value": "38 Esau said to his father, “Do you have only that one blessing, my father? Bless me too!” Then Esau wept loudly."
+            },
+            {
+              "rowId": 265,
+              "keyParts": [
+                265,
+                "p22",
+                "verse",
+                "v39",
+                "label"
+              ],
+              "value": "39"
+            },
+            {
+              "rowId": 266,
+              "keyParts": [
+                266,
+                "p22",
+                "verse",
+                "v39",
+                "content"
+              ],
+              "value": "So his father Isaac said to him,"
+            },
+            {
+              "rowId": 267,
+              "keyParts": [
+                267,
+                "p23",
+                "verse",
+                "v39",
+                "content"
+              ],
+              "value": "“Indeed,"
+            },
+            {
+              "rowId": 268,
+              "keyParts": [
+                268,
+                "p23",
+                "verse",
+                "v39",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “look.”"
+            },
+            {
+              "rowId": 269,
+              "keyParts": [
+                269,
+                "p23",
+                "verse",
+                "v39",
+                "content"
+              ],
+              "value": "your home will be"
+            },
+            {
+              "rowId": 270,
+              "keyParts": [
+                270,
+                "p24",
+                "verse",
+                "v39",
+                "content"
+              ],
+              "value": "away from the richness"
+            },
+            {
+              "rowId": 271,
+              "keyParts": [
+                271,
+                "p24",
+                "verse",
+                "v39",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “from the fatness.”"
+            },
+            {
+              "rowId": 272,
+              "keyParts": [
+                272,
+                "p24",
+                "verse",
+                "v39",
+                "content"
+              ],
+              "value": "of the earth,"
+            },
+            {
+              "rowId": 273,
+              "keyParts": [
+                273,
+                "p25",
+                "verse",
+                "v39",
+                "content"
+              ],
+              "value": "and away from the dew of the sky above."
+            },
+            {
+              "rowId": 274,
+              "keyParts": [
+                "v039_NET_GEN_027",
+                274,
+                "p22",
+                "verse",
+                "v39",
+                "plain_text"
+              ],
+              "value": "39 So his father Isaac said to him, “Indeed, your home will be away from the richness of the earth, and away from the dew of the sky above."
+            },
+            {
+              "rowId": 275,
+              "keyParts": [
+                275,
+                "p26",
+                "verse",
+                "v40",
+                "label"
+              ],
+              "value": "40"
+            },
+            {
+              "rowId": 276,
+              "keyParts": [
+                276,
+                "p26",
+                "verse",
+                "v40",
+                "content"
+              ],
+              "value": "You will live by your sword"
+            },
+            {
+              "rowId": 277,
+              "keyParts": [
+                277,
+                "p27",
+                "verse",
+                "v40",
+                "content"
+              ],
+              "value": "but you will serve your brother."
+            },
+            {
+              "rowId": 278,
+              "keyParts": [
+                278,
+                "p28",
+                "verse",
+                "v40",
+                "content"
+              ],
+              "value": "When you grow restless,"
+            },
+            {
+              "rowId": 279,
+              "keyParts": [
+                279,
+                "p29",
+                "verse",
+                "v40",
+                "content"
+              ],
+              "value": "you will tear off his yoke"
+            },
+            {
+              "rowId": 280,
+              "keyParts": [
+                280,
+                "p30",
+                "verse",
+                "v40",
+                "content"
+              ],
+              "value": "from your neck.”"
+            },
+            {
+              "rowId": 281,
+              "keyParts": [
+                281,
+                "p30",
+                "verse",
+                "v40",
+                "note",
+                "f"
+              ],
+              "value": "sn You will tear off his yoke from your neck. It may be that this prophetic blessing found its fulfillment when Jerusalem fell and Edom got its revenge. The oracle makes Edom subservient to Israel and suggests the Edomites would live away from the best land and be forced to sustain themselves by violent measures."
+            },
+            {
+              "rowId": 282,
+              "keyParts": [
+                "v040_NET_GEN_027",
+                282,
+                "p26",
+                "verse",
+                "v40",
+                "plain_text"
+              ],
+              "value": "40 You will live by your sword but you will serve your brother. When you grow restless, you will tear off his yoke from your neck.”"
+            },
+            {
+              "rowId": 283,
+              "keyParts": [
+                283,
+                "p31",
+                "verse",
+                "v41",
+                "label"
+              ],
+              "value": "41"
+            },
+            {
+              "rowId": 284,
+              "keyParts": [
+                284,
+                "p31",
+                "verse",
+                "v41",
+                "content"
+              ],
+              "value": "So Esau hated"
+            },
+            {
+              "rowId": 285,
+              "keyParts": [
+                285,
+                "p31",
+                "verse",
+                "v41",
+                "note",
+                "f"
+              ],
+              "value": "tn Or “bore a grudge against” (cf. NAB, NASB, NIV). The Hebrew verb שָׂטַם (satam) describes persistent hatred."
+            },
+            {
+              "rowId": 286,
+              "keyParts": [
+                286,
+                "p31",
+                "verse",
+                "v41",
+                "content"
+              ],
+              "value": "Jacob because of the blessing his father had given to his brother."
+            },
+            {
+              "rowId": 287,
+              "keyParts": [
+                287,
+                "p31",
+                "verse",
+                "v41",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “because of the blessing which his father blessed him.”"
+            },
+            {
+              "rowId": 288,
+              "keyParts": [
+                288,
+                "p31",
+                "verse",
+                "v41",
+                "content"
+              ],
+              "value": "Esau said privately,"
+            },
+            {
+              "rowId": 289,
+              "keyParts": [
+                289,
+                "p31",
+                "verse",
+                "v41",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “said in his heart.” The expression may mean “said to himself.” Even if this is the case, v. 42 makes it clear that he must have shared his intentions with someone, because the news reached Rebekah."
+            },
+            {
+              "rowId": 290,
+              "keyParts": [
+                290,
+                "p31",
+                "verse",
+                "v41",
+                "content"
+              ],
+              "value": "“The time"
+            },
+            {
+              "rowId": 291,
+              "keyParts": [
+                291,
+                "p31",
+                "verse",
+                "v41",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “days.”"
+            },
+            {
+              "rowId": 292,
+              "keyParts": [
+                292,
+                "p31",
+                "verse",
+                "v41",
+                "content"
+              ],
+              "value": "of mourning for my father is near; then I will kill"
+            },
+            {
+              "rowId": 293,
+              "keyParts": [
+                293,
+                "p31",
+                "verse",
+                "v41",
+                "note",
+                "f"
+              ],
+              "value": "tn The cohortative here expresses Esau’s determined resolve to kill Jacob."
+            },
+            {
+              "rowId": 294,
+              "keyParts": [
+                294,
+                "p31",
+                "verse",
+                "v41",
+                "content"
+              ],
+              "value": "my brother Jacob!”"
+            },
+            {
+              "rowId": 295,
+              "keyParts": [
+                "v041_NET_GEN_027",
+                295,
+                "p31",
+                "verse",
+                "v41",
+                "plain_text"
+              ],
+              "value": "41 So Esau hated Jacob because of the blessing his father had given to his brother. Esau said privately, “The time of mourning for my father is near; then I will kill my brother Jacob!”"
+            },
+            {
+              "rowId": 296,
+              "keyParts": [
+                296,
+                "p32",
+                "verse",
+                "v42",
+                "label"
+              ],
+              "value": "42"
+            },
+            {
+              "rowId": 297,
+              "keyParts": [
+                297,
+                "p32",
+                "verse",
+                "v42",
+                "content"
+              ],
+              "value": "When Rebekah heard what her older son Esau had said,"
+            },
+            {
+              "rowId": 298,
+              "keyParts": [
+                298,
+                "p32",
+                "verse",
+                "v42",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and the words of Esau her older son were told to Rebekah.”"
+            },
+            {
+              "rowId": 299,
+              "keyParts": [
+                299,
+                "p32",
+                "verse",
+                "v42",
+                "content"
+              ],
+              "value": "she quickly summoned"
+            },
+            {
+              "rowId": 300,
+              "keyParts": [
+                300,
+                "p32",
+                "verse",
+                "v42",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “she sent and called for.”"
+            },
+            {
+              "rowId": 301,
+              "keyParts": [
+                301,
+                "p32",
+                "verse",
+                "v42",
+                "content"
+              ],
+              "value": "her younger son Jacob and told him, “Look, your brother Esau is planning to get revenge by killing you."
+            },
+            {
+              "rowId": 302,
+              "keyParts": [
+                302,
+                "p32",
+                "verse",
+                "v42",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “is consoling himself with respect to you to kill you.” The only way Esau had of dealing with his anger at the moment was to plan to kill his brother after the death of Isaac."
+            },
+            {
+              "rowId": 303,
+              "keyParts": [
+                "v042_NET_GEN_027",
+                303,
+                "p32",
+                "verse",
+                "v42",
+                "plain_text"
+              ],
+              "value": "42 When Rebekah heard what her older son Esau had said, she quickly summoned her younger son Jacob and told him, “Look, your brother Esau is planning to get revenge by killing you."
+            },
+            {
+              "rowId": 304,
+              "keyParts": [
+                304,
+                "p32",
+                "verse",
+                "v43",
+                "label"
+              ],
+              "value": "43"
+            },
+            {
+              "rowId": 305,
+              "keyParts": [
+                305,
+                "p32",
+                "verse",
+                "v43",
+                "content"
+              ],
+              "value": "Now then, my son, do what I say."
+            },
+            {
+              "rowId": 306,
+              "keyParts": [
+                306,
+                "p32",
+                "verse",
+                "v43",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “listen to my voice.”"
+            },
+            {
+              "rowId": 307,
+              "keyParts": [
+                307,
+                "p32",
+                "verse",
+                "v43",
+                "content"
+              ],
+              "value": "Run away immediately"
+            },
+            {
+              "rowId": 308,
+              "keyParts": [
+                308,
+                "p32",
+                "verse",
+                "v43",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “arise, flee.”"
+            },
+            {
+              "rowId": 309,
+              "keyParts": [
+                309,
+                "p32",
+                "verse",
+                "v43",
+                "content"
+              ],
+              "value": "to my brother Laban in Haran."
+            },
+            {
+              "rowId": 310,
+              "keyParts": [
+                "v043_NET_GEN_027",
+                310,
+                "p32",
+                "verse",
+                "v43",
+                "plain_text"
+              ],
+              "value": "43 Now then, my son, do what I say. Run away immediately to my brother Laban in Haran."
+            },
+            {
+              "rowId": 311,
+              "keyParts": [
+                311,
+                "p32",
+                "verse",
+                "v44",
+                "label"
+              ],
+              "value": "44"
+            },
+            {
+              "rowId": 312,
+              "keyParts": [
+                312,
+                "p32",
+                "verse",
+                "v44",
+                "content"
+              ],
+              "value": "Live with him for a little while"
+            },
+            {
+              "rowId": 313,
+              "keyParts": [
+                313,
+                "p32",
+                "verse",
+                "v44",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “a few days.” Rebekah probably downplays the length of time Jacob will be gone, perhaps to encourage him and assure him that things will settle down soon. She probably expects Esau’s anger to die down quickly. However, Jacob ends up being gone twenty years and he never sees Rebekah again."
+            },
+            {
+              "rowId": 314,
+              "keyParts": [
+                314,
+                "p32",
+                "verse",
+                "v44",
+                "content"
+              ],
+              "value": "until your brother’s rage subsides."
+            },
+            {
+              "rowId": 315,
+              "keyParts": [
+                "v044_NET_GEN_027",
+                315,
+                "p32",
+                "verse",
+                "v44",
+                "plain_text"
+              ],
+              "value": "44 Live with him for a little while until your brother’s rage subsides."
+            },
+            {
+              "rowId": 316,
+              "keyParts": [
+                316,
+                "p32",
+                "verse",
+                "v45",
+                "label"
+              ],
+              "value": "45"
+            },
+            {
+              "rowId": 317,
+              "keyParts": [
+                317,
+                "p32",
+                "verse",
+                "v45",
+                "content"
+              ],
+              "value": "Stay there"
+            },
+            {
+              "rowId": 318,
+              "keyParts": [
+                318,
+                "p32",
+                "verse",
+                "v45",
+                "note",
+                "f"
+              ],
+              "value": "tn The words “stay there” are supplied in the translation for stylistic reasons."
+            },
+            {
+              "rowId": 319,
+              "keyParts": [
+                319,
+                "p32",
+                "verse",
+                "v45",
+                "content"
+              ],
+              "value": "until your brother’s anger against you subsides and he forgets what you did to him. Then I’ll send someone to bring you back from there."
+            },
+            {
+              "rowId": 320,
+              "keyParts": [
+                320,
+                "p32",
+                "verse",
+                "v45",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and I will send and I will take you from there.” The verb “send” has no object in the Hebrew text; one must be supplied in the translation. Either “someone” or “a message” could be supplied, but since in those times a message would require a messenger, “someone” has been used."
+            },
+            {
+              "rowId": 321,
+              "keyParts": [
+                321,
+                "p32",
+                "verse",
+                "v45",
+                "content"
+              ],
+              "value": "Why should I lose both of you in one day?”"
+            },
+            {
+              "rowId": 322,
+              "keyParts": [
+                322,
+                "p32",
+                "verse",
+                "v45",
+                "note",
+                "f"
+              ],
+              "value": "tn If Jacob stayed, he would be killed and Esau would be forced to run away."
+            },
+            {
+              "rowId": 323,
+              "keyParts": [
+                "v045_NET_GEN_027",
+                323,
+                "p32",
+                "verse",
+                "v45",
+                "plain_text"
+              ],
+              "value": "45 Stay there until your brother’s anger against you subsides and he forgets what you did to him. Then I’ll send someone to bring you back from there. Why should I lose both of you in one day?”"
+            },
+            {
+              "rowId": 324,
+              "keyParts": [
+                324,
+                "p33",
+                "verse",
+                "v46",
+                "label"
+              ],
+              "value": "46"
+            },
+            {
+              "rowId": 325,
+              "keyParts": [
+                325,
+                "p33",
+                "verse",
+                "v46",
+                "content"
+              ],
+              "value": "Then Rebekah said to Isaac, “I am deeply depressed"
+            },
+            {
+              "rowId": 326,
+              "keyParts": [
+                326,
+                "p33",
+                "verse",
+                "v46",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “loathe my life.” The Hebrew verb translated “loathe” refers to strong disgust (see Lev 20:23)."
+            },
+            {
+              "rowId": 327,
+              "keyParts": [
+                327,
+                "p33",
+                "verse",
+                "v46",
+                "content"
+              ],
+              "value": "because of these daughters of Heth."
+            },
+            {
+              "rowId": 328,
+              "keyParts": [
+                328,
+                "p33",
+                "verse",
+                "v46",
+                "note",
+                "f"
+              ],
+              "value": "tn Some translate the Hebrew term “Heth” as “Hittites” here (see also Gen 23:3), but this gives the impression that these people were the classical Hittites of Anatolia. However, there is no known connection between these sons of Heth, apparently a Canaanite group (see Gen 10:15), and the Hittites of Asia Minor. See H. A. Hoffner, Jr., “Hittites,” Peoples of the Old Testament World, 152-53."
+            },
+            {
+              "rowId": 329,
+              "keyParts": [
+                329,
+                "p33",
+                "verse",
+                "v46",
+                "content"
+              ],
+              "value": "If Jacob were to marry one of these daughters of Heth who live in this land, I would want to die!”"
+            },
+            {
+              "rowId": 330,
+              "keyParts": [
+                330,
+                "p33",
+                "verse",
+                "v46",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “If Jacob takes a wife from the daughters of Heth, like these, from the daughters of the land, why to me life?”"
+            },
+            {
+              "rowId": 331,
+              "keyParts": [
+                "v046_NET_GEN_027",
+                331,
+                "p33",
+                "verse",
+                "v46",
+                "plain_text"
+              ],
+              "value": "46 Then Rebekah said to Isaac, “I am deeply depressed because of these daughters of Heth. If Jacob were to marry one of these daughters of Heth who live in this land, I would want to die!”"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

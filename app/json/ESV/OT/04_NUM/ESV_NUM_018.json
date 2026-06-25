@@ -1,0 +1,2552 @@
+{
+  "translationId": "ESV",
+  "name": "English Standard Version",
+  "abbreviation": "ESV",
+  "language": "English",
+  "copyright": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.",
+  "books": [
+    {
+      "bookId": "NUM",
+      "testament": "OT",
+      "order": 4,
+      "title": "Numbers",
+      "abbreviation": "NUM",
+      "chapters": [
+        {
+          "chapter": 18,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Duties of Priests and Levites"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "So the"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "said to Aaron, “You and your sons and your father’s house with you shall"
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                7,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#ver.23;SeeEx. 28:38"
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "bear iniquity connected with the sanctuary,"
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                9,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#ver.23"
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "and you and your sons with you shall bear iniquity connected with your priesthood."
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                "v001_ESV_NUM_018",
+                11,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 So the Lord said to Aaron, “You and your sons and your father’s house with you shall bear iniquity connected with the sanctuary, and you and your sons with you shall bear iniquity connected with your priesthood."
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                12,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                13,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "And with you bring your brothers also, the tribe of Levi, the tribe of your father, that they may"
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#[Gen. 29:34]"
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                15,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "join you and"
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                16,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.3:6-10"
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                17,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "minister to you while you and your sons with you are before the tent of the testimony."
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                "v002_ESV_NUM_018",
+                18,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 And with you bring your brothers also, the tribe of Levi, the tribe of your father, that they may join you and minister to you while you and your sons with you are before the tent of the testimony."
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p1",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                20,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "They shall keep guard over you and"
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#ch.3:25,31,36"
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                22,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "over the whole tent,"
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#ch.16:40"
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                24,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "but shall not come near to the vessels of the sanctuary or to the altar"
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#ch.4:15"
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                26,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "lest they, and you, die."
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                "v003_ESV_NUM_018",
+                27,
+                "p1",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 They shall keep guard over you and over the whole tent, but shall not come near to the vessels of the sanctuary or to the altar lest they, and you, die."
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                28,
+                "p1",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                29,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "They shall join you and keep guard over the tent of meeting for all the service of the tent,"
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                30,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.17:13"
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                31,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "and no outsider shall come near you."
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                "v004_ESV_NUM_018",
+                32,
+                "p1",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 They shall join you and keep guard over the tent of meeting for all the service of the tent, and no outsider shall come near you."
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                33,
+                "p1",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                34,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "And you shall"
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                35,
+                "p1",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#ch.3:38;Ex. 27:21;30:7;Lev. 24:3"
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "keep guard over the sanctuary and over the altar,"
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                37,
+                "p1",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#SeeLev. 10:6"
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                38,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "that there may never again be wrath on the people of Israel."
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                "v005_ESV_NUM_018",
+                39,
+                "p1",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 And you shall keep guard over the sanctuary and over the altar, that there may never again be wrath on the people of Israel."
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                40,
+                "p1",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p1",
+                "verse",
+                "v6",
+                "note",
+                "x"
+              ],
+              "value": "#ch.3:12,45"
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "And behold, I have taken your brothers the Levites from among the people of Israel."
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                43,
+                "p1",
+                "verse",
+                "v6",
+                "note",
+                "x"
+              ],
+              "value": "#ch.3:9;8:19"
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                44,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "They are a gift to you, given to the"
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                45,
+                "p1",
+                "verse",
+                "v6",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                46,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": ", to do the service of the tent of meeting."
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                "v006_ESV_NUM_018",
+                47,
+                "p1",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 And behold, I have taken your brothers the Levites from among the people of Israel. They are a gift to you, given to the Lord , to do the service of the tent of meeting."
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                48,
+                "p1",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                49,
+                "p1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "And"
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "p1",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#ch.3:10"
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                51,
+                "p1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "you and your sons with you shall guard your priesthood for all that concerns the altar and"
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                52,
+                "p1",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#Heb. 9:3,6"
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                53,
+                "p1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "that is within the veil; and you shall serve. I give your priesthood as a gift,"
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                54,
+                "p1",
+                "verse",
+                "v7",
+                "note",
+                "f"
+              ],
+              "value": "#18:7Hebrewservice of gift"
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                55,
+                "p1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "and"
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                56,
+                "p1",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.1:51"
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                57,
+                "p1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "any outsider who comes near shall be put to death.”"
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                "v007_ESV_NUM_018",
+                58,
+                "p1",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 And you and your sons with you shall guard your priesthood for all that concerns the altar and that is within the veil; and you shall serve. I give your priesthood as a gift, and any outsider who comes near shall be put to death.”"
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                59,
+                "p2",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                60,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "Then the"
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                61,
+                "p2",
+                "verse",
+                "v8",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                62,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "spoke to Aaron, “Behold,"
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                63,
+                "p2",
+                "verse",
+                "v8",
+                "note",
+                "x"
+              ],
+              "value": "#ch.5:9;Lev. 7:32"
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                64,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "I have given you charge of the contributions made to me, all the consecrated things of the people of Israel. I have given them to you"
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                65,
+                "p2",
+                "verse",
+                "v8",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 29:29;40:13,15"
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                66,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "as a portion and to your sons as a perpetual due."
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                "v008_ESV_NUM_018",
+                67,
+                "p2",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 Then the Lord spoke to Aaron, “Behold, I have given you charge of the contributions made to me, all the consecrated things of the people of Israel. I have given them to you as a portion and to your sons as a perpetual due."
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                68,
+                "p2",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                69,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "This shall be yours of the most holy things, reserved from the fire: every offering of theirs, every grain offering of theirs and every"
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                70,
+                "p2",
+                "verse",
+                "v9",
+                "note",
+                "x"
+              ],
+              "value": "#Lev. 4:22,27;6:25,26"
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                71,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "sin offering of theirs and every"
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                72,
+                "p2",
+                "verse",
+                "v9",
+                "note",
+                "x"
+              ],
+              "value": "#Lev. 7:7;14:13"
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                73,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "guilt offering of theirs, which they render to me, shall be most holy to you and to your sons."
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                "v009_ESV_NUM_018",
+                74,
+                "p2",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 This shall be yours of the most holy things, reserved from the fire: every offering of theirs, every grain offering of theirs and every sin offering of theirs and every guilt offering of theirs, which they render to me, shall be most holy to you and to your sons."
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                75,
+                "p2",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                76,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "In a most holy place shall you eat it. Every male may eat it; it is holy to you."
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                "v010_ESV_NUM_018",
+                77,
+                "p2",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 In a most holy place shall you eat it. Every male may eat it; it is holy to you."
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                78,
+                "p2",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                79,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "This also is yours: the contribution of their gift, all the"
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                80,
+                "p2",
+                "verse",
+                "v11",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 29:27,28;Lev. 7:30,34"
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                81,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "wave offerings of the people of Israel. I have given them to"
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                82,
+                "p2",
+                "verse",
+                "v11",
+                "note",
+                "x"
+              ],
+              "value": "#Lev. 10:14;[Deut. 18:3]"
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                83,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "you, and to your sons and daughters with you, as a perpetual due."
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                84,
+                "p2",
+                "verse",
+                "v11",
+                "note",
+                "x"
+              ],
+              "value": "#[Lev. 22:2,3,11-13]"
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                85,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "Everyone who is clean in your house may eat it."
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                "v011_ESV_NUM_018",
+                86,
+                "p2",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 This also is yours: the contribution of their gift, all the wave offerings of the people of Israel. I have given them to you, and to your sons and daughters with you, as a perpetual due. Everyone who is clean in your house may eat it."
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                87,
+                "p2",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                88,
+                "p2",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 18:4"
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                89,
+                "p2",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "All the best of the oil and all the best of the wine and of the grain,"
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                90,
+                "p2",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 23:19;34:26;Neh. 10:35,36"
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                91,
+                "p2",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "the firstfruits of what they give to the"
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                92,
+                "p2",
+                "verse",
+                "v12",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                93,
+                "p2",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": ", I give to you."
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                "v012_ESV_NUM_018",
+                94,
+                "p2",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 All the best of the oil and all the best of the wine and of the grain, the firstfruits of what they give to the Lord , I give to you."
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                95,
+                "p2",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                96,
+                "p2",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "The first ripe fruits of all that is in their land,"
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                97,
+                "p2",
+                "verse",
+                "v13",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 22:29;Lev. 2:14;Deut. 26:2"
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                98,
+                "p2",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "which they bring to the"
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                99,
+                "p2",
+                "verse",
+                "v13",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                100,
+                "p2",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": ", shall be yours."
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                101,
+                "p2",
+                "verse",
+                "v13",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.11above]"
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                102,
+                "p2",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "Everyone who is clean in your house may eat it."
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                "v013_ESV_NUM_018",
+                103,
+                "p2",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 The first ripe fruits of all that is in their land, which they bring to the Lord , shall be yours. Everyone who is clean in your house may eat it."
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                104,
+                "p2",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                105,
+                "p2",
+                "verse",
+                "v14",
+                "note",
+                "x"
+              ],
+              "value": "#Lev. 27:28"
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                106,
+                "p2",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "Every devoted thing in Israel shall be yours."
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                "v014_ESV_NUM_018",
+                107,
+                "p2",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 Every devoted thing in Israel shall be yours."
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                108,
+                "p2",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                109,
+                "p2",
+                "verse",
+                "v15",
+                "note",
+                "x"
+              ],
+              "value": "#SeeEx. 13:2"
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                110,
+                "p2",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "Everything that opens the womb of all flesh, whether man or beast, which they offer to the"
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                111,
+                "p2",
+                "verse",
+                "v15",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                112,
+                "p2",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": ", shall be yours. Nevertheless,"
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                113,
+                "p2",
+                "verse",
+                "v15",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 13:13;34:20"
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                114,
+                "p2",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "the firstborn of man you shall redeem, and the firstborn of unclean animals you shall redeem."
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                "v015_ESV_NUM_018",
+                115,
+                "p2",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 Everything that opens the womb of all flesh, whether man or beast, which they offer to the Lord , shall be yours. Nevertheless, the firstborn of man you shall redeem, and the firstborn of unclean animals you shall redeem."
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                116,
+                "p2",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                117,
+                "p2",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "And their redemption price"
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                118,
+                "p2",
+                "verse",
+                "v16",
+                "note",
+                "x"
+              ],
+              "value": "#ch.3:47;Lev. 27:2,6"
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                119,
+                "p2",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "(at a month old you shall redeem them) you shall fix at five shekels"
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                120,
+                "p2",
+                "verse",
+                "v16",
+                "note",
+                "f"
+              ],
+              "value": "#18:16Ashekelwas about 2/5 ounce or 11 grams"
+            },
+            {
+              "rowId": 121,
+              "keyParts": [
+                121,
+                "p2",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "in silver, according to the shekel of the sanctuary,"
+            },
+            {
+              "rowId": 122,
+              "keyParts": [
+                122,
+                "p2",
+                "verse",
+                "v16",
+                "note",
+                "x"
+              ],
+              "value": "#SeeEx. 30:13"
+            },
+            {
+              "rowId": 123,
+              "keyParts": [
+                123,
+                "p2",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "which is twenty gerahs."
+            },
+            {
+              "rowId": 124,
+              "keyParts": [
+                "v016_ESV_NUM_018",
+                124,
+                "p2",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 And their redemption price (at a month old you shall redeem them) you shall fix at five shekels in silver, according to the shekel of the sanctuary, which is twenty gerahs."
+            },
+            {
+              "rowId": 125,
+              "keyParts": [
+                125,
+                "p2",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 126,
+              "keyParts": [
+                126,
+                "p2",
+                "verse",
+                "v17",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 15:19"
+            },
+            {
+              "rowId": 127,
+              "keyParts": [
+                127,
+                "p2",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "But the firstborn of a cow, or the firstborn of a sheep, or the firstborn of a goat, you shall not redeem; they are holy. You shall sprinkle their blood on the altar and shall burn their fat as a food offering, with a pleasing aroma to the"
+            },
+            {
+              "rowId": 128,
+              "keyParts": [
+                128,
+                "p2",
+                "verse",
+                "v17",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 129,
+              "keyParts": [
+                129,
+                "p2",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "."
+            },
+            {
+              "rowId": 130,
+              "keyParts": [
+                "v017_ESV_NUM_018",
+                130,
+                "p2",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 But the firstborn of a cow, or the firstborn of a sheep, or the firstborn of a goat, you shall not redeem; they are holy. You shall sprinkle their blood on the altar and shall burn their fat as a food offering, with a pleasing aroma to the Lord ."
+            },
+            {
+              "rowId": 131,
+              "keyParts": [
+                131,
+                "p2",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 132,
+              "keyParts": [
+                132,
+                "p2",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "But their flesh shall be yours, as"
+            },
+            {
+              "rowId": 133,
+              "keyParts": [
+                133,
+                "p2",
+                "verse",
+                "v18",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 29:26,28;Lev. 7:31,32,34"
+            },
+            {
+              "rowId": 134,
+              "keyParts": [
+                134,
+                "p2",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "the breast that is waved and as the right thigh are yours."
+            },
+            {
+              "rowId": 135,
+              "keyParts": [
+                "v018_ESV_NUM_018",
+                135,
+                "p2",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 But their flesh shall be yours, as the breast that is waved and as the right thigh are yours."
+            },
+            {
+              "rowId": 136,
+              "keyParts": [
+                136,
+                "p2",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 137,
+              "keyParts": [
+                137,
+                "p2",
+                "verse",
+                "v19",
+                "note",
+                "x"
+              ],
+              "value": "#ver.11"
+            },
+            {
+              "rowId": 138,
+              "keyParts": [
+                138,
+                "p2",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "All the holy contributions that the people of Israel present to the"
+            },
+            {
+              "rowId": 139,
+              "keyParts": [
+                139,
+                "p2",
+                "verse",
+                "v19",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 140,
+              "keyParts": [
+                140,
+                "p2",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "I give to you, and to your sons and daughters with you, as a perpetual due."
+            },
+            {
+              "rowId": 141,
+              "keyParts": [
+                141,
+                "p2",
+                "verse",
+                "v19",
+                "note",
+                "x"
+              ],
+              "value": "#Lev. 2:13;2 Chr. 13:5"
+            },
+            {
+              "rowId": 142,
+              "keyParts": [
+                142,
+                "p2",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "It is a covenant of salt forever before the"
+            },
+            {
+              "rowId": 143,
+              "keyParts": [
+                143,
+                "p2",
+                "verse",
+                "v19",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 144,
+              "keyParts": [
+                144,
+                "p2",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "for you and for your offspring with you.”"
+            },
+            {
+              "rowId": 145,
+              "keyParts": [
+                "v019_ESV_NUM_018",
+                145,
+                "p2",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 All the holy contributions that the people of Israel present to the Lord I give to you, and to your sons and daughters with you, as a perpetual due. It is a covenant of salt forever before the Lord for you and for your offspring with you.”"
+            },
+            {
+              "rowId": 146,
+              "keyParts": [
+                146,
+                "p2",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 147,
+              "keyParts": [
+                147,
+                "p2",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "And the"
+            },
+            {
+              "rowId": 148,
+              "keyParts": [
+                148,
+                "p2",
+                "verse",
+                "v20",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 149,
+              "keyParts": [
+                149,
+                "p2",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "said to Aaron, “You shall have no inheritance in their land, neither shall you have any portion among them."
+            },
+            {
+              "rowId": 150,
+              "keyParts": [
+                150,
+                "p2",
+                "verse",
+                "v20",
+                "note",
+                "x"
+              ],
+              "value": "#ver.23, 24;Deut. 10:9;12:12;14:27;18:1,2;Josh. 13:33;14:3;18:7;Ezek. 44:28"
+            },
+            {
+              "rowId": 151,
+              "keyParts": [
+                151,
+                "p2",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "I am your portion and your inheritance among the people of Israel."
+            },
+            {
+              "rowId": 152,
+              "keyParts": [
+                "v020_ESV_NUM_018",
+                152,
+                "p2",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 And the Lord said to Aaron, “You shall have no inheritance in their land, neither shall you have any portion among them. I am your portion and your inheritance among the people of Israel."
+            },
+            {
+              "rowId": 153,
+              "keyParts": [
+                153,
+                "p3",
+                "verse",
+                "v21",
+                "label"
+              ],
+              "value": "21"
+            },
+            {
+              "rowId": 154,
+              "keyParts": [
+                154,
+                "p3",
+                "verse",
+                "v21",
+                "note",
+                "x"
+              ],
+              "value": "#ver.24, 26;Lev. 27:30,32;Deut. 14:22;Neh. 10:37;12:44;Heb. 7:5,8,9; [Gen. 14:20;28:22]"
+            },
+            {
+              "rowId": 155,
+              "keyParts": [
+                155,
+                "p3",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "“To the Levites I have given every tithe in Israel for an inheritance, in return for their service that they do, their service in the tent of meeting,"
+            },
+            {
+              "rowId": 156,
+              "keyParts": [
+                "v021_ESV_NUM_018",
+                156,
+                "p3",
+                "verse",
+                "v21",
+                "plain_text"
+              ],
+              "value": "21 “To the Levites I have given every tithe in Israel for an inheritance, in return for their service that they do, their service in the tent of meeting,"
+            },
+            {
+              "rowId": 157,
+              "keyParts": [
+                157,
+                "p3",
+                "verse",
+                "v22",
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 158,
+              "keyParts": [
+                158,
+                "p3",
+                "verse",
+                "v22",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.1:51"
+            },
+            {
+              "rowId": 159,
+              "keyParts": [
+                159,
+                "p3",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "so that the people of Israel do not come near the tent of meeting,"
+            },
+            {
+              "rowId": 160,
+              "keyParts": [
+                160,
+                "p3",
+                "verse",
+                "v22",
+                "note",
+                "x"
+              ],
+              "value": "#Lev. 22:9"
+            },
+            {
+              "rowId": 161,
+              "keyParts": [
+                161,
+                "p3",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "lest they bear sin and die."
+            },
+            {
+              "rowId": 162,
+              "keyParts": [
+                "v022_ESV_NUM_018",
+                162,
+                "p3",
+                "verse",
+                "v22",
+                "plain_text"
+              ],
+              "value": "22 so that the people of Israel do not come near the tent of meeting, lest they bear sin and die."
+            },
+            {
+              "rowId": 163,
+              "keyParts": [
+                163,
+                "p3",
+                "verse",
+                "v23",
+                "label"
+              ],
+              "value": "23"
+            },
+            {
+              "rowId": 164,
+              "keyParts": [
+                164,
+                "p3",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "But"
+            },
+            {
+              "rowId": 165,
+              "keyParts": [
+                165,
+                "p3",
+                "verse",
+                "v23",
+                "note",
+                "x"
+              ],
+              "value": "#ch.3:7"
+            },
+            {
+              "rowId": 166,
+              "keyParts": [
+                166,
+                "p3",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "the Levites shall do the service of the tent of meeting,"
+            },
+            {
+              "rowId": 167,
+              "keyParts": [
+                167,
+                "p3",
+                "verse",
+                "v23",
+                "note",
+                "x"
+              ],
+              "value": "#ver.1"
+            },
+            {
+              "rowId": 168,
+              "keyParts": [
+                168,
+                "p3",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "and they shall bear their iniquity. It shall be a perpetual statute throughout your generations, and among the people of Israel they shall have no inheritance."
+            },
+            {
+              "rowId": 169,
+              "keyParts": [
+                "v023_ESV_NUM_018",
+                169,
+                "p3",
+                "verse",
+                "v23",
+                "plain_text"
+              ],
+              "value": "23 But the Levites shall do the service of the tent of meeting, and they shall bear their iniquity. It shall be a perpetual statute throughout your generations, and among the people of Israel they shall have no inheritance."
+            },
+            {
+              "rowId": 170,
+              "keyParts": [
+                170,
+                "p3",
+                "verse",
+                "v24",
+                "label"
+              ],
+              "value": "24"
+            },
+            {
+              "rowId": 171,
+              "keyParts": [
+                171,
+                "p3",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "For the tithe of the people of Israel, which"
+            },
+            {
+              "rowId": 172,
+              "keyParts": [
+                172,
+                "p3",
+                "verse",
+                "v24",
+                "note",
+                "x"
+              ],
+              "value": "#ver.19, 26, 29"
+            },
+            {
+              "rowId": 173,
+              "keyParts": [
+                173,
+                "p3",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "they present as a contribution to the"
+            },
+            {
+              "rowId": 174,
+              "keyParts": [
+                174,
+                "p3",
+                "verse",
+                "v24",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 175,
+              "keyParts": [
+                175,
+                "p3",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": ", I have given to the Levites for an inheritance. Therefore I have said of them that they shall have no inheritance"
+            },
+            {
+              "rowId": 176,
+              "keyParts": [
+                176,
+                "p3",
+                "verse",
+                "v24",
+                "note",
+                "x"
+              ],
+              "value": "#ver.20, 21, 26"
+            },
+            {
+              "rowId": 177,
+              "keyParts": [
+                177,
+                "p3",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "among the people of Israel.”"
+            },
+            {
+              "rowId": 178,
+              "keyParts": [
+                "v024_ESV_NUM_018",
+                178,
+                "p3",
+                "verse",
+                "v24",
+                "plain_text"
+              ],
+              "value": "24 For the tithe of the people of Israel, which they present as a contribution to the Lord , I have given to the Levites for an inheritance. Therefore I have said of them that they shall have no inheritance among the people of Israel.”"
+            },
+            {
+              "rowId": 179,
+              "keyParts": [
+                179,
+                "p4",
+                "verse",
+                "v25",
+                "label"
+              ],
+              "value": "25"
+            },
+            {
+              "rowId": 180,
+              "keyParts": [
+                180,
+                "p4",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "And the"
+            },
+            {
+              "rowId": 181,
+              "keyParts": [
+                181,
+                "p4",
+                "verse",
+                "v25",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 182,
+              "keyParts": [
+                182,
+                "p4",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "spoke to Moses, saying,"
+            },
+            {
+              "rowId": 183,
+              "keyParts": [
+                "v025_ESV_NUM_018",
+                183,
+                "p4",
+                "verse",
+                "v25",
+                "plain_text"
+              ],
+              "value": "25 And the Lord spoke to Moses, saying,"
+            },
+            {
+              "rowId": 184,
+              "keyParts": [
+                184,
+                "p4",
+                "verse",
+                "v26",
+                "label"
+              ],
+              "value": "26"
+            },
+            {
+              "rowId": 185,
+              "keyParts": [
+                185,
+                "p4",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "“Moreover, you shall speak and say to the Levites, ‘When you take from the people of Israel the tithe that I have given you from them for your inheritance, then you shall present a contribution from it to the"
+            },
+            {
+              "rowId": 186,
+              "keyParts": [
+                186,
+                "p4",
+                "verse",
+                "v26",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 187,
+              "keyParts": [
+                187,
+                "p4",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": ","
+            },
+            {
+              "rowId": 188,
+              "keyParts": [
+                188,
+                "p4",
+                "verse",
+                "v26",
+                "note",
+                "x"
+              ],
+              "value": "#Neh. 10:38"
+            },
+            {
+              "rowId": 189,
+              "keyParts": [
+                189,
+                "p4",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "a tithe of the tithe."
+            },
+            {
+              "rowId": 190,
+              "keyParts": [
+                "v026_ESV_NUM_018",
+                190,
+                "p4",
+                "verse",
+                "v26",
+                "plain_text"
+              ],
+              "value": "26 “Moreover, you shall speak and say to the Levites, ‘When you take from the people of Israel the tithe that I have given you from them for your inheritance, then you shall present a contribution from it to the Lord , a tithe of the tithe."
+            },
+            {
+              "rowId": 191,
+              "keyParts": [
+                191,
+                "p4",
+                "verse",
+                "v27",
+                "label"
+              ],
+              "value": "27"
+            },
+            {
+              "rowId": 192,
+              "keyParts": [
+                192,
+                "p4",
+                "verse",
+                "v27",
+                "note",
+                "x"
+              ],
+              "value": "#ver.30"
+            },
+            {
+              "rowId": 193,
+              "keyParts": [
+                193,
+                "p4",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "And your contribution shall be counted to you as though it were the grain of the threshing floor, and as the fullness of the winepress."
+            },
+            {
+              "rowId": 194,
+              "keyParts": [
+                "v027_ESV_NUM_018",
+                194,
+                "p4",
+                "verse",
+                "v27",
+                "plain_text"
+              ],
+              "value": "27 And your contribution shall be counted to you as though it were the grain of the threshing floor, and as the fullness of the winepress."
+            },
+            {
+              "rowId": 195,
+              "keyParts": [
+                195,
+                "p4",
+                "verse",
+                "v28",
+                "label"
+              ],
+              "value": "28"
+            },
+            {
+              "rowId": 196,
+              "keyParts": [
+                196,
+                "p4",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "So you shall also present a contribution to the"
+            },
+            {
+              "rowId": 197,
+              "keyParts": [
+                197,
+                "p4",
+                "verse",
+                "v28",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 198,
+              "keyParts": [
+                198,
+                "p4",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "from all your tithes, which you receive from the people of Israel. And from it you shall give the"
+            },
+            {
+              "rowId": 199,
+              "keyParts": [
+                199,
+                "p4",
+                "verse",
+                "v28",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 200,
+              "keyParts": [
+                200,
+                "p4",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "’s contribution to Aaron the priest."
+            },
+            {
+              "rowId": 201,
+              "keyParts": [
+                "v028_ESV_NUM_018",
+                201,
+                "p4",
+                "verse",
+                "v28",
+                "plain_text"
+              ],
+              "value": "28 So you shall also present a contribution to the Lord from all your tithes, which you receive from the people of Israel. And from it you shall give the Lord ’s contribution to Aaron the priest."
+            },
+            {
+              "rowId": 202,
+              "keyParts": [
+                202,
+                "p4",
+                "verse",
+                "v29",
+                "label"
+              ],
+              "value": "29"
+            },
+            {
+              "rowId": 203,
+              "keyParts": [
+                203,
+                "p4",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "Out of all the gifts to you, you shall present every contribution due to the"
+            },
+            {
+              "rowId": 204,
+              "keyParts": [
+                204,
+                "p4",
+                "verse",
+                "v29",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 205,
+              "keyParts": [
+                205,
+                "p4",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "; from each its best part is to be dedicated.’"
+            },
+            {
+              "rowId": 206,
+              "keyParts": [
+                "v029_ESV_NUM_018",
+                206,
+                "p4",
+                "verse",
+                "v29",
+                "plain_text"
+              ],
+              "value": "29 Out of all the gifts to you, you shall present every contribution due to the Lord ; from each its best part is to be dedicated.’"
+            },
+            {
+              "rowId": 207,
+              "keyParts": [
+                207,
+                "p4",
+                "verse",
+                "v30",
+                "label"
+              ],
+              "value": "30"
+            },
+            {
+              "rowId": 208,
+              "keyParts": [
+                208,
+                "p4",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "Therefore you shall say to them, ‘When you have offered from it the best of it,"
+            },
+            {
+              "rowId": 209,
+              "keyParts": [
+                209,
+                "p4",
+                "verse",
+                "v30",
+                "note",
+                "x"
+              ],
+              "value": "#ver.27"
+            },
+            {
+              "rowId": 210,
+              "keyParts": [
+                210,
+                "p4",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "then the rest shall be counted to the Levites as produce of the threshing floor, and as produce of the winepress."
+            },
+            {
+              "rowId": 211,
+              "keyParts": [
+                "v030_ESV_NUM_018",
+                211,
+                "p4",
+                "verse",
+                "v30",
+                "plain_text"
+              ],
+              "value": "30 Therefore you shall say to them, ‘When you have offered from it the best of it, then the rest shall be counted to the Levites as produce of the threshing floor, and as produce of the winepress."
+            },
+            {
+              "rowId": 212,
+              "keyParts": [
+                212,
+                "p4",
+                "verse",
+                "v31",
+                "label"
+              ],
+              "value": "31"
+            },
+            {
+              "rowId": 213,
+              "keyParts": [
+                213,
+                "p4",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "And you may eat it in any place, you and your households, for it is"
+            },
+            {
+              "rowId": 214,
+              "keyParts": [
+                214,
+                "p4",
+                "verse",
+                "v31",
+                "note",
+                "x"
+              ],
+              "value": "#[Matt. 10:10;Luke 10:7;1 Tim. 5:17,18]; See1 Cor. 9:4-14"
+            },
+            {
+              "rowId": 215,
+              "keyParts": [
+                215,
+                "p4",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "your reward in return for your service in the tent of meeting."
+            },
+            {
+              "rowId": 216,
+              "keyParts": [
+                "v031_ESV_NUM_018",
+                216,
+                "p4",
+                "verse",
+                "v31",
+                "plain_text"
+              ],
+              "value": "31 And you may eat it in any place, you and your households, for it is your reward in return for your service in the tent of meeting."
+            },
+            {
+              "rowId": 217,
+              "keyParts": [
+                217,
+                "p4",
+                "verse",
+                "v32",
+                "label"
+              ],
+              "value": "32"
+            },
+            {
+              "rowId": 218,
+              "keyParts": [
+                218,
+                "p4",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "And you shall"
+            },
+            {
+              "rowId": 219,
+              "keyParts": [
+                219,
+                "p4",
+                "verse",
+                "v32",
+                "note",
+                "x"
+              ],
+              "value": "#Lev. 19:8;22:16"
+            },
+            {
+              "rowId": 220,
+              "keyParts": [
+                220,
+                "p4",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "bear no sin by reason of it, when you have contributed the best of it. But you shall not"
+            },
+            {
+              "rowId": 221,
+              "keyParts": [
+                221,
+                "p4",
+                "verse",
+                "v32",
+                "note",
+                "x"
+              ],
+              "value": "#Lev. 22:2,15"
+            },
+            {
+              "rowId": 222,
+              "keyParts": [
+                222,
+                "p4",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "profane the holy things of the people of Israel, lest you die.’”"
+            },
+            {
+              "rowId": 223,
+              "keyParts": [
+                "v032_ESV_NUM_018",
+                223,
+                "p4",
+                "verse",
+                "v32",
+                "plain_text"
+              ],
+              "value": "32 And you shall bear no sin by reason of it, when you have contributed the best of it. But you shall not profane the holy things of the people of Israel, lest you die.’”"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

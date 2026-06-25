@@ -1,0 +1,972 @@
+{
+  "translationId": "ESV",
+  "name": "English Standard Version",
+  "abbreviation": "ESV",
+  "language": "English",
+  "copyright": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.",
+  "books": [
+    {
+      "bookId": "GEN",
+      "testament": "OT",
+      "order": 1,
+      "title": "Genesis",
+      "abbreviation": "GEN",
+      "chapters": [
+        {
+          "chapter": 23,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "23"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Sarah’s Death and Burial"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "Sarah lived 127 years; these were the years of the life of Sarah."
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                "v001_ESV_GEN_023",
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 Sarah lived 127 years; these were the years of the life of Sarah."
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                7,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "And Sarah died at"
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#ch.35:27;Josh. 14:15;Judg. 1:10"
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                9,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "Kiriath-arba (that is,"
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#ver.19"
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                11,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "Hebron) in the land of Canaan, and Abraham went in to mourn for Sarah and to weep for her."
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                "v002_ESV_GEN_023",
+                12,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 And Sarah died at Kiriath-arba (that is, Hebron) in the land of Canaan, and Abraham went in to mourn for Sarah and to weep for her."
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                13,
+                "p1",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "And Abraham rose up from before his dead and said to the Hittites,"
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                15,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "f"
+              ],
+              "value": "#23:3Hebrewsons of Heth; also verses 5, 7, 10, 16, 18, 20"
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                "v003_ESV_GEN_023",
+                16,
+                "p1",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 And Abraham rose up from before his dead and said to the Hittites,"
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                17,
+                "p1",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#ch.17:8;1 Chr. 29:15;Ps. 105:12;Heb. 11:9,13"
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "“I am a sojourner and foreigner among you;"
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                20,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#Acts 7:5"
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "give me property among you for a burying place, that I may bury my dead out of my sight.”"
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                "v004_ESV_GEN_023",
+                22,
+                "p1",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 “I am a sojourner and foreigner among you; give me property among you for a burying place, that I may bury my dead out of my sight.”"
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "p1",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                24,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "The Hittites answered Abraham,"
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                "v005_ESV_GEN_023",
+                25,
+                "p1",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 The Hittites answered Abraham,"
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                26,
+                "p1",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                27,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "“Hear us, my lord; you are a prince of God"
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                28,
+                "p1",
+                "verse",
+                "v6",
+                "note",
+                "f"
+              ],
+              "value": "#23:6Ora mighty prince"
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                29,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "among us. Bury your dead in the choicest of our tombs. None of us will withhold from you his tomb to hinder you from burying your dead.”"
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                "v006_ESV_GEN_023",
+                30,
+                "p1",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 “Hear us, my lord; you are a prince of God among us. Bury your dead in the choicest of our tombs. None of us will withhold from you his tomb to hinder you from burying your dead.”"
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                31,
+                "p1",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "p1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "Abraham rose and bowed to the Hittites, the people of the land."
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                "v007_ESV_GEN_023",
+                33,
+                "p1",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 Abraham rose and bowed to the Hittites, the people of the land."
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                34,
+                "p1",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                35,
+                "p1",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "And he said to them, “If you are willing that I should bury my dead out of my sight, hear me and entreat for me Ephron the son of Zohar,"
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                "v008_ESV_GEN_023",
+                36,
+                "p1",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 And he said to them, “If you are willing that I should bury my dead out of my sight, hear me and entreat for me Ephron the son of Zohar,"
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                37,
+                "p1",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                38,
+                "p1",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "that he may give me the cave of Machpelah, which he owns; it is at the end of his field. For the full price let him give it to me in your presence as property for a burying place.”"
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                "v009_ESV_GEN_023",
+                39,
+                "p1",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 that he may give me the cave of Machpelah, which he owns; it is at the end of his field. For the full price let him give it to me in your presence as property for a burying place.”"
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                40,
+                "p2",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "Now Ephron was sitting among the Hittites, and Ephron the Hittite answered Abraham in the hearing of the Hittites, of all who"
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "p2",
+                "verse",
+                "v10",
+                "note",
+                "x"
+              ],
+              "value": "#ch.34:20,24;Ruth 4:1"
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                43,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "went in at the gate of his city,"
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                "v010_ESV_GEN_023",
+                44,
+                "p2",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 Now Ephron was sitting among the Hittites, and Ephron the Hittite answered Abraham in the hearing of the Hittites, of all who went in at the gate of his city,"
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                45,
+                "p2",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                46,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "“No, my lord, hear me: I give you the field, and I give you the cave that is in it. In the sight of the sons of my people I give it to you. Bury your dead.”"
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                "v011_ESV_GEN_023",
+                47,
+                "p2",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 “No, my lord, hear me: I give you the field, and I give you the cave that is in it. In the sight of the sons of my people I give it to you. Bury your dead.”"
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                48,
+                "p2",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                49,
+                "p2",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "Then Abraham bowed down before the people of the land."
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                "v012_ESV_GEN_023",
+                50,
+                "p2",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 Then Abraham bowed down before the people of the land."
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                51,
+                "p2",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                52,
+                "p2",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "And he said to Ephron in the hearing of the people of the land, “But if you will, hear me: I give the price of the field. Accept it from me, that I may bury my dead there.”"
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                "v013_ESV_GEN_023",
+                53,
+                "p2",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 And he said to Ephron in the hearing of the people of the land, “But if you will, hear me: I give the price of the field. Accept it from me, that I may bury my dead there.”"
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                54,
+                "p2",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                55,
+                "p2",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "Ephron answered Abraham,"
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                "v014_ESV_GEN_023",
+                56,
+                "p2",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 Ephron answered Abraham,"
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                57,
+                "p2",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                58,
+                "p2",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "“My lord, listen to me: a piece of land worth four hundred"
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                59,
+                "p2",
+                "verse",
+                "v15",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 30:13;Ezek. 45:12"
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                60,
+                "p2",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "shekels"
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                61,
+                "p2",
+                "verse",
+                "v15",
+                "note",
+                "f"
+              ],
+              "value": "#23:15Ashekelwas about 2/5 ounce or 11 grams"
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                62,
+                "p2",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "of silver, what is that between you and me? Bury your dead.”"
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                "v015_ESV_GEN_023",
+                63,
+                "p2",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 “My lord, listen to me: a piece of land worth four hundred shekels of silver, what is that between you and me? Bury your dead.”"
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                64,
+                "p2",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                65,
+                "p2",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "Abraham listened to Ephron, and Abraham"
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                66,
+                "p2",
+                "verse",
+                "v16",
+                "note",
+                "x"
+              ],
+              "value": "#1 Chr. 21:25;Jer. 32:9;Zech. 11:12"
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                67,
+                "p2",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "weighed out for Ephron the silver that he had named in the hearing of the Hittites, four hundred shekels of silver, according to the weights current among the merchants."
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                "v016_ESV_GEN_023",
+                68,
+                "p2",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 Abraham listened to Ephron, and Abraham weighed out for Ephron the silver that he had named in the hearing of the Hittites, four hundred shekels of silver, according to the weights current among the merchants."
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                69,
+                "p3",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                70,
+                "p3",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "So"
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                71,
+                "p3",
+                "verse",
+                "v17",
+                "note",
+                "x"
+              ],
+              "value": "#ch.25:9;49:29-32;50:13"
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                72,
+                "p3",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "the field of Ephron in Machpelah, which was to the east of Mamre, the field with the cave that was in it and all the trees that were in the field, throughout its whole area, was made over"
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                "v017_ESV_GEN_023",
+                73,
+                "p3",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 So the field of Ephron in Machpelah, which was to the east of Mamre, the field with the cave that was in it and all the trees that were in the field, throughout its whole area, was made over"
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                74,
+                "p3",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                75,
+                "p3",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "to Abraham as a possession in the presence of the Hittites, before all who went in at the gate of his city."
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                "v018_ESV_GEN_023",
+                76,
+                "p3",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 to Abraham as a possession in the presence of the Hittites, before all who went in at the gate of his city."
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                77,
+                "p3",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                78,
+                "p3",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "After this, Abraham buried Sarah his wife in the cave of the field of Machpelah east of Mamre (that is, Hebron) in the land of Canaan."
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                "v019_ESV_GEN_023",
+                79,
+                "p3",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 After this, Abraham buried Sarah his wife in the cave of the field of Machpelah east of Mamre (that is, Hebron) in the land of Canaan."
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                80,
+                "p3",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                81,
+                "p3",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "The field and the cave that is in it"
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                82,
+                "p3",
+                "verse",
+                "v20",
+                "note",
+                "x"
+              ],
+              "value": "#[Ruth 4:7-10;Jer. 32:10-14]"
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                83,
+                "p3",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "were made over to Abraham as property for a burying place by the Hittites."
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                "v020_ESV_GEN_023",
+                84,
+                "p3",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 The field and the cave that is in it were made over to Abraham as property for a burying place by the Hittites."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

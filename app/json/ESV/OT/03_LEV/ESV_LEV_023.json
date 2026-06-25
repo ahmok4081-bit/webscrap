@@ -1,0 +1,3398 @@
+{
+  "translationId": "ESV",
+  "name": "English Standard Version",
+  "abbreviation": "ESV",
+  "language": "English",
+  "copyright": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.",
+  "books": [
+    {
+      "bookId": "LEV",
+      "testament": "OT",
+      "order": 3,
+      "title": "Leviticus",
+      "abbreviation": "LEV",
+      "chapters": [
+        {
+          "chapter": 23,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "23"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Feasts of the"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "s1",
+                "nd",
+                "heading"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "The"
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                7,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "spoke to Moses, saying,"
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                "v001_ESV_LEV_023",
+                8,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 The Lord spoke to Moses, saying,"
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                9,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "“Speak to the people of Israel and say to them,"
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                11,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#ver.4, 37;Num. 29:39;SeeEx. 23:14-17"
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                12,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "These are the appointed feasts of the"
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                13,
+                "p1",
+                "verse",
+                "v2",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "that you shall"
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                15,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 10:10;Ps. 81:3;Joel 2:15"
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                16,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "proclaim as"
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                17,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 12:16"
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "holy convocations; they are my appointed feasts."
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "The Sabbath"
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                "v002_ESV_LEV_023",
+                20,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 “Speak to the people of Israel and say to them, These are the appointed feasts of the Lord that you shall proclaim as holy convocations; they are my appointed feasts."
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p2",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                22,
+                "p2",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#ch.19:3;Ex. 23:12;31:15;34:21;Luke 13:14;SeeEx. 20:8-11;Deut. 5:12-15"
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "p2",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "“Six days shall work be done, but on the seventh day is a Sabbath of solemn rest, a holy convocation. You shall do no work. It is a Sabbath to the"
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                24,
+                "p2",
+                "verse",
+                "v3",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "p2",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "in all your dwelling places."
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "The Passover"
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                "v003_ESV_LEV_023",
+                27,
+                "p2",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 “Six days shall work be done, but on the seventh day is a Sabbath of solemn rest, a holy convocation. You shall do no work. It is a Sabbath to the Lord in all your dwelling places."
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                28,
+                "p3",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                29,
+                "p3",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.2above]"
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                30,
+                "p3",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "“These are the appointed feasts of the"
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                31,
+                "p3",
+                "verse",
+                "v4",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "p3",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": ", the"
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                33,
+                "p3",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 12:16"
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                34,
+                "p3",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "holy convocations, which you shall proclaim at the time appointed for them."
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                "v004_ESV_LEV_023",
+                35,
+                "p3",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 “These are the appointed feasts of the Lord , the holy convocations, which you shall proclaim at the time appointed for them."
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "p3",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                37,
+                "p3",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 13:3,10;23:15;34:18;Num. 9:2,3;28:16,17;Josh. 5:10;2 Kgs. 23:21;Ezra 6:19;[Num. 9:10,11;2 Chr. 30:2,13,15]; See Ex. 12:2-14; Deut. 16:1-8"
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                38,
+                "p3",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "In the first month, on the fourteenth day of the month at twilight,"
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                39,
+                "p3",
+                "verse",
+                "v5",
+                "note",
+                "f"
+              ],
+              "value": "#23:5Hebrewbetween the two evenings"
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                40,
+                "p3",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "is the"
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p3",
+                "verse",
+                "v5",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "p3",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "’s Passover."
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                "v005_ESV_LEV_023",
+                43,
+                "p3",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 In the first month, on the fourteenth day of the month at twilight, is the Lord ’s Passover."
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                44,
+                "p3",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                45,
+                "p3",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "And on the fifteenth day of the same month is the Feast of Unleavened Bread to the"
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                46,
+                "p3",
+                "verse",
+                "v6",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                47,
+                "p3",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "; for seven days you shall eat unleavened bread."
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                "v006_ESV_LEV_023",
+                48,
+                "p3",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 And on the fifteenth day of the same month is the Feast of Unleavened Bread to the Lord ; for seven days you shall eat unleavened bread."
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                49,
+                "p3",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "p3",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 12:16;Num. 28:18,25"
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                51,
+                "p3",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "On the first day you shall have a holy convocation; you shall not do any ordinary work."
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                "v007_ESV_LEV_023",
+                52,
+                "p3",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 On the first day you shall have a holy convocation; you shall not do any ordinary work."
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                53,
+                "p3",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                54,
+                "p3",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "But you shall present a food offering to the"
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                55,
+                "p3",
+                "verse",
+                "v8",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                56,
+                "p3",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "for seven days. On the seventh day is a holy convocation; you shall not do any ordinary work.”"
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "The Feast of Firstfruits"
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                "v008_ESV_LEV_023",
+                58,
+                "p3",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 But you shall present a food offering to the Lord for seven days. On the seventh day is a holy convocation; you shall not do any ordinary work.”"
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                59,
+                "p4",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                60,
+                "p4",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "And the"
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                61,
+                "p4",
+                "verse",
+                "v9",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                62,
+                "p4",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "spoke to Moses, saying,"
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                "v009_ESV_LEV_023",
+                63,
+                "p4",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 And the Lord spoke to Moses, saying,"
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                64,
+                "p4",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                65,
+                "p4",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "“Speak to the people of Israel and say to them,"
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                66,
+                "p4",
+                "verse",
+                "v10",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 23:19;34:26;Num. 15:18,19;28:26;Deut. 26:1,2"
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                67,
+                "p4",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "When you come into the land that I give you and reap its harvest, you shall bring the sheaf of"
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                68,
+                "p4",
+                "verse",
+                "v10",
+                "note",
+                "x"
+              ],
+              "value": "#ver.17"
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                69,
+                "p4",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "the firstfruits of your harvest to the priest,"
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                "v010_ESV_LEV_023",
+                70,
+                "p4",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 “Speak to the people of Israel and say to them, When you come into the land that I give you and reap its harvest, you shall bring the sheaf of the firstfruits of your harvest to the priest,"
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                71,
+                "p4",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                72,
+                "p4",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "and he shall"
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                73,
+                "p4",
+                "verse",
+                "v11",
+                "note",
+                "x"
+              ],
+              "value": "#ver.15, 20;Ex. 29:24"
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                74,
+                "p4",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "wave the sheaf before the"
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                75,
+                "p4",
+                "verse",
+                "v11",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                76,
+                "p4",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": ", so that you may be accepted. On the day after the Sabbath the priest shall wave it."
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                "v011_ESV_LEV_023",
+                77,
+                "p4",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 and he shall wave the sheaf before the Lord , so that you may be accepted. On the day after the Sabbath the priest shall wave it."
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                78,
+                "p4",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                79,
+                "p4",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "And on the day when you"
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                80,
+                "p4",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.11above]"
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                81,
+                "p4",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "wave the sheaf, you shall offer a"
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                82,
+                "p4",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#ch.1:10"
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                83,
+                "p4",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "male lamb a year old without blemish as a burnt offering to the"
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                84,
+                "p4",
+                "verse",
+                "v12",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                85,
+                "p4",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "."
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                "v012_ESV_LEV_023",
+                86,
+                "p4",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 And on the day when you wave the sheaf, you shall offer a male lamb a year old without blemish as a burnt offering to the Lord ."
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                87,
+                "p4",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                88,
+                "p4",
+                "verse",
+                "v13",
+                "note",
+                "x"
+              ],
+              "value": "#ch.2:14-16"
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                89,
+                "p4",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "And the grain offering with it shall be two tenths of an ephah"
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                90,
+                "p4",
+                "verse",
+                "v13",
+                "note",
+                "f"
+              ],
+              "value": "#23:13Anephahwas about 3/5 bushel or 22 liters"
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                91,
+                "p4",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "of fine flour mixed with oil, a food offering to the"
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                92,
+                "p4",
+                "verse",
+                "v13",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                93,
+                "p4",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "with a pleasing aroma,"
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                94,
+                "p4",
+                "verse",
+                "v13",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 29:40"
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                95,
+                "p4",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "and the drink offering with it shall be of wine, a fourth of a hin."
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                96,
+                "p4",
+                "verse",
+                "v13",
+                "note",
+                "f"
+              ],
+              "value": "#23:13Ahinwas about 4 quarts or 3.5 liters"
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                "v013_ESV_LEV_023",
+                97,
+                "p4",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 And the grain offering with it shall be two tenths of an ephah of fine flour mixed with oil, a food offering to the Lord with a pleasing aroma, and the drink offering with it shall be of wine, a fourth of a hin."
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                98,
+                "p4",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                99,
+                "p4",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "And you shall eat neither bread nor grain"
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                100,
+                "p4",
+                "verse",
+                "v14",
+                "note",
+                "x"
+              ],
+              "value": "#[ch.2:14]"
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                101,
+                "p4",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "parched or"
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                102,
+                "p4",
+                "verse",
+                "v14",
+                "note",
+                "x"
+              ],
+              "value": "#[ch.2:14]"
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                103,
+                "p4",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "fresh until this same day, until you have brought the offering of your God: it is a statute forever throughout your generations in all your dwellings."
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "The Feast of Weeks"
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                "v014_ESV_LEV_023",
+                105,
+                "p4",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 And you shall eat neither bread nor grain parched or fresh until this same day, until you have brought the offering of your God: it is a statute forever throughout your generations in all your dwellings."
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                106,
+                "p5",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                107,
+                "p5",
+                "verse",
+                "v15",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 34:22;Deut. 16:9"
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                108,
+                "p5",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "“You shall count seven full weeks from the day after the Sabbath, from the day that you brought the sheaf of the"
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                109,
+                "p5",
+                "verse",
+                "v15",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.11above]"
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                110,
+                "p5",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "wave offering."
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                "v015_ESV_LEV_023",
+                111,
+                "p5",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 “You shall count seven full weeks from the day after the Sabbath, from the day that you brought the sheaf of the wave offering."
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                112,
+                "p5",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                113,
+                "p5",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "You shall count"
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                114,
+                "p5",
+                "verse",
+                "v16",
+                "note",
+                "x"
+              ],
+              "value": "#Acts 2:1(Gk.)"
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                115,
+                "p5",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "fifty days to the day after the seventh Sabbath. Then you shall present a grain offering of"
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                116,
+                "p5",
+                "verse",
+                "v16",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 28:26"
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                117,
+                "p5",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "new grain to the"
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                118,
+                "p5",
+                "verse",
+                "v16",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                119,
+                "p5",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "."
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                "v016_ESV_LEV_023",
+                120,
+                "p5",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 You shall count fifty days to the day after the seventh Sabbath. Then you shall present a grain offering of new grain to the Lord ."
+            },
+            {
+              "rowId": 121,
+              "keyParts": [
+                121,
+                "p5",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 122,
+              "keyParts": [
+                122,
+                "p5",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "You shall bring from your dwelling places two loaves of bread to be waved, made of two tenths of an ephah. They shall be of fine flour, and they shall be baked with leaven, as"
+            },
+            {
+              "rowId": 123,
+              "keyParts": [
+                123,
+                "p5",
+                "verse",
+                "v17",
+                "note",
+                "x"
+              ],
+              "value": "#Seever.10"
+            },
+            {
+              "rowId": 124,
+              "keyParts": [
+                124,
+                "p5",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "firstfruits to the"
+            },
+            {
+              "rowId": 125,
+              "keyParts": [
+                125,
+                "p5",
+                "verse",
+                "v17",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 126,
+              "keyParts": [
+                126,
+                "p5",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "."
+            },
+            {
+              "rowId": 127,
+              "keyParts": [
+                "v017_ESV_LEV_023",
+                127,
+                "p5",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 You shall bring from your dwelling places two loaves of bread to be waved, made of two tenths of an ephah. They shall be of fine flour, and they shall be baked with leaven, as firstfruits to the Lord ."
+            },
+            {
+              "rowId": 128,
+              "keyParts": [
+                128,
+                "p5",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 129,
+              "keyParts": [
+                129,
+                "p5",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "And you shall present with the bread seven lambs a year old without blemish, and one bull from the herd and two rams. They shall be a burnt offering to the"
+            },
+            {
+              "rowId": 130,
+              "keyParts": [
+                130,
+                "p5",
+                "verse",
+                "v18",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 131,
+              "keyParts": [
+                131,
+                "p5",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": ", with their grain offering and their drink offerings, a food offering with a pleasing aroma to the"
+            },
+            {
+              "rowId": 132,
+              "keyParts": [
+                132,
+                "p5",
+                "verse",
+                "v18",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 133,
+              "keyParts": [
+                133,
+                "p5",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "."
+            },
+            {
+              "rowId": 134,
+              "keyParts": [
+                "v018_ESV_LEV_023",
+                134,
+                "p5",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 And you shall present with the bread seven lambs a year old without blemish, and one bull from the herd and two rams. They shall be a burnt offering to the Lord , with their grain offering and their drink offerings, a food offering with a pleasing aroma to the Lord ."
+            },
+            {
+              "rowId": 135,
+              "keyParts": [
+                135,
+                "p5",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 136,
+              "keyParts": [
+                136,
+                "p5",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "And you shall offer one"
+            },
+            {
+              "rowId": 137,
+              "keyParts": [
+                137,
+                "p5",
+                "verse",
+                "v19",
+                "note",
+                "x"
+              ],
+              "value": "#ch.4:23,28;Num. 28:30"
+            },
+            {
+              "rowId": 138,
+              "keyParts": [
+                138,
+                "p5",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "male goat for a sin offering, and two male lambs a year old as a sacrifice of"
+            },
+            {
+              "rowId": 139,
+              "keyParts": [
+                139,
+                "p5",
+                "verse",
+                "v19",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.3:1"
+            },
+            {
+              "rowId": 140,
+              "keyParts": [
+                140,
+                "p5",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "peace offerings."
+            },
+            {
+              "rowId": 141,
+              "keyParts": [
+                "v019_ESV_LEV_023",
+                141,
+                "p5",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 And you shall offer one male goat for a sin offering, and two male lambs a year old as a sacrifice of peace offerings."
+            },
+            {
+              "rowId": 142,
+              "keyParts": [
+                142,
+                "p5",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 143,
+              "keyParts": [
+                143,
+                "p5",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "And the priest shall"
+            },
+            {
+              "rowId": 144,
+              "keyParts": [
+                144,
+                "p5",
+                "verse",
+                "v20",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.11above]"
+            },
+            {
+              "rowId": 145,
+              "keyParts": [
+                145,
+                "p5",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "wave them with the bread of the firstfruits as a wave offering before the"
+            },
+            {
+              "rowId": 146,
+              "keyParts": [
+                146,
+                "p5",
+                "verse",
+                "v20",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 147,
+              "keyParts": [
+                147,
+                "p5",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": ", with the two lambs."
+            },
+            {
+              "rowId": 148,
+              "keyParts": [
+                148,
+                "p5",
+                "verse",
+                "v20",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 18:12;Deut. 18:4"
+            },
+            {
+              "rowId": 149,
+              "keyParts": [
+                149,
+                "p5",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "They shall be holy to the"
+            },
+            {
+              "rowId": 150,
+              "keyParts": [
+                150,
+                "p5",
+                "verse",
+                "v20",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 151,
+              "keyParts": [
+                151,
+                "p5",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "for the priest."
+            },
+            {
+              "rowId": 152,
+              "keyParts": [
+                "v020_ESV_LEV_023",
+                152,
+                "p5",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 And the priest shall wave them with the bread of the firstfruits as a wave offering before the Lord , with the two lambs. They shall be holy to the Lord for the priest."
+            },
+            {
+              "rowId": 153,
+              "keyParts": [
+                153,
+                "p5",
+                "verse",
+                "v21",
+                "label"
+              ],
+              "value": "21"
+            },
+            {
+              "rowId": 154,
+              "keyParts": [
+                154,
+                "p5",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "And you shall make a proclamation on the same day. You shall hold a holy convocation. You shall not do any ordinary work. It is a statute forever in all your dwelling places throughout your generations."
+            },
+            {
+              "rowId": 155,
+              "keyParts": [
+                "v021_ESV_LEV_023",
+                155,
+                "p5",
+                "verse",
+                "v21",
+                "plain_text"
+              ],
+              "value": "21 And you shall make a proclamation on the same day. You shall hold a holy convocation. You shall not do any ordinary work. It is a statute forever in all your dwelling places throughout your generations."
+            },
+            {
+              "rowId": 156,
+              "keyParts": [
+                156,
+                "p6",
+                "verse",
+                "v22",
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 157,
+              "keyParts": [
+                157,
+                "p6",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "“And"
+            },
+            {
+              "rowId": 158,
+              "keyParts": [
+                158,
+                "p6",
+                "verse",
+                "v22",
+                "note",
+                "x"
+              ],
+              "value": "#ch.19:9,10;Deut. 24:19;[Ruth 2:2,3]"
+            },
+            {
+              "rowId": 159,
+              "keyParts": [
+                159,
+                "p6",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "when you reap the harvest of your land, you shall not reap your field right up to its edge, nor shall you gather the gleanings after your harvest. You shall leave them for the poor and for the sojourner: I am the"
+            },
+            {
+              "rowId": 160,
+              "keyParts": [
+                160,
+                "p6",
+                "verse",
+                "v22",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 161,
+              "keyParts": [
+                161,
+                "p6",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "your God.”"
+            },
+            {
+              "rowId": 162,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "The Feast of Trumpets"
+            },
+            {
+              "rowId": 163,
+              "keyParts": [
+                "v022_ESV_LEV_023",
+                163,
+                "p6",
+                "verse",
+                "v22",
+                "plain_text"
+              ],
+              "value": "22 “And when you reap the harvest of your land, you shall not reap your field right up to its edge, nor shall you gather the gleanings after your harvest. You shall leave them for the poor and for the sojourner: I am the Lord your God.”"
+            },
+            {
+              "rowId": 164,
+              "keyParts": [
+                164,
+                "p7",
+                "verse",
+                "v23",
+                "label"
+              ],
+              "value": "23"
+            },
+            {
+              "rowId": 165,
+              "keyParts": [
+                165,
+                "p7",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "And the"
+            },
+            {
+              "rowId": 166,
+              "keyParts": [
+                166,
+                "p7",
+                "verse",
+                "v23",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 167,
+              "keyParts": [
+                167,
+                "p7",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "spoke to Moses, saying,"
+            },
+            {
+              "rowId": 168,
+              "keyParts": [
+                "v023_ESV_LEV_023",
+                168,
+                "p7",
+                "verse",
+                "v23",
+                "plain_text"
+              ],
+              "value": "23 And the Lord spoke to Moses, saying,"
+            },
+            {
+              "rowId": 169,
+              "keyParts": [
+                169,
+                "p7",
+                "verse",
+                "v24",
+                "label"
+              ],
+              "value": "24"
+            },
+            {
+              "rowId": 170,
+              "keyParts": [
+                170,
+                "p7",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "“Speak to the people of Israel, saying, In"
+            },
+            {
+              "rowId": 171,
+              "keyParts": [
+                171,
+                "p7",
+                "verse",
+                "v24",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 29:1"
+            },
+            {
+              "rowId": 172,
+              "keyParts": [
+                172,
+                "p7",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "the seventh month, on the first day of the month, you shall observe a day of solemn rest,"
+            },
+            {
+              "rowId": 173,
+              "keyParts": [
+                173,
+                "p7",
+                "verse",
+                "v24",
+                "note",
+                "x"
+              ],
+              "value": "#ch.25:9"
+            },
+            {
+              "rowId": 174,
+              "keyParts": [
+                174,
+                "p7",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "a memorial proclaimed with blast of trumpets, a holy convocation."
+            },
+            {
+              "rowId": 175,
+              "keyParts": [
+                "v024_ESV_LEV_023",
+                175,
+                "p7",
+                "verse",
+                "v24",
+                "plain_text"
+              ],
+              "value": "24 “Speak to the people of Israel, saying, In the seventh month, on the first day of the month, you shall observe a day of solemn rest, a memorial proclaimed with blast of trumpets, a holy convocation."
+            },
+            {
+              "rowId": 176,
+              "keyParts": [
+                176,
+                "p7",
+                "verse",
+                "v25",
+                "label"
+              ],
+              "value": "25"
+            },
+            {
+              "rowId": 177,
+              "keyParts": [
+                177,
+                "p7",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "You shall not do any ordinary work, and you shall present a food offering to the"
+            },
+            {
+              "rowId": 178,
+              "keyParts": [
+                178,
+                "p7",
+                "verse",
+                "v25",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 179,
+              "keyParts": [
+                179,
+                "p7",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": ".”"
+            },
+            {
+              "rowId": 180,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "The Day of Atonement"
+            },
+            {
+              "rowId": 181,
+              "keyParts": [
+                "v025_ESV_LEV_023",
+                181,
+                "p7",
+                "verse",
+                "v25",
+                "plain_text"
+              ],
+              "value": "25 You shall not do any ordinary work, and you shall present a food offering to the Lord .”"
+            },
+            {
+              "rowId": 182,
+              "keyParts": [
+                182,
+                "p8",
+                "verse",
+                "v26",
+                "label"
+              ],
+              "value": "26"
+            },
+            {
+              "rowId": 183,
+              "keyParts": [
+                183,
+                "p8",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "And the"
+            },
+            {
+              "rowId": 184,
+              "keyParts": [
+                184,
+                "p8",
+                "verse",
+                "v26",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 185,
+              "keyParts": [
+                185,
+                "p8",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "spoke to Moses, saying,"
+            },
+            {
+              "rowId": 186,
+              "keyParts": [
+                "v026_ESV_LEV_023",
+                186,
+                "p8",
+                "verse",
+                "v26",
+                "plain_text"
+              ],
+              "value": "26 And the Lord spoke to Moses, saying,"
+            },
+            {
+              "rowId": 187,
+              "keyParts": [
+                187,
+                "p8",
+                "verse",
+                "v27",
+                "label"
+              ],
+              "value": "27"
+            },
+            {
+              "rowId": 188,
+              "keyParts": [
+                188,
+                "p8",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "“Now"
+            },
+            {
+              "rowId": 189,
+              "keyParts": [
+                189,
+                "p8",
+                "verse",
+                "v27",
+                "note",
+                "x"
+              ],
+              "value": "#ch.16:29,30;Num. 29:7"
+            },
+            {
+              "rowId": 190,
+              "keyParts": [
+                190,
+                "p8",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "on the tenth day of this seventh month is the Day of Atonement. It shall be for you a time of holy convocation, and you shall afflict yourselves"
+            },
+            {
+              "rowId": 191,
+              "keyParts": [
+                191,
+                "p8",
+                "verse",
+                "v27",
+                "note",
+                "f"
+              ],
+              "value": "#23:27Orshall fast; also verse 32"
+            },
+            {
+              "rowId": 192,
+              "keyParts": [
+                192,
+                "p8",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "and present a food offering to the"
+            },
+            {
+              "rowId": 193,
+              "keyParts": [
+                193,
+                "p8",
+                "verse",
+                "v27",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 194,
+              "keyParts": [
+                194,
+                "p8",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "."
+            },
+            {
+              "rowId": 195,
+              "keyParts": [
+                "v027_ESV_LEV_023",
+                195,
+                "p8",
+                "verse",
+                "v27",
+                "plain_text"
+              ],
+              "value": "27 “Now on the tenth day of this seventh month is the Day of Atonement. It shall be for you a time of holy convocation, and you shall afflict yourselves and present a food offering to the Lord ."
+            },
+            {
+              "rowId": 196,
+              "keyParts": [
+                196,
+                "p8",
+                "verse",
+                "v28",
+                "label"
+              ],
+              "value": "28"
+            },
+            {
+              "rowId": 197,
+              "keyParts": [
+                197,
+                "p8",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "And you shall not do any work on that very day, for it is a Day of Atonement, to make atonement for you before the"
+            },
+            {
+              "rowId": 198,
+              "keyParts": [
+                198,
+                "p8",
+                "verse",
+                "v28",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 199,
+              "keyParts": [
+                199,
+                "p8",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "your God."
+            },
+            {
+              "rowId": 200,
+              "keyParts": [
+                "v028_ESV_LEV_023",
+                200,
+                "p8",
+                "verse",
+                "v28",
+                "plain_text"
+              ],
+              "value": "28 And you shall not do any work on that very day, for it is a Day of Atonement, to make atonement for you before the Lord your God."
+            },
+            {
+              "rowId": 201,
+              "keyParts": [
+                201,
+                "p8",
+                "verse",
+                "v29",
+                "label"
+              ],
+              "value": "29"
+            },
+            {
+              "rowId": 202,
+              "keyParts": [
+                202,
+                "p8",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "For whoever is not afflicted"
+            },
+            {
+              "rowId": 203,
+              "keyParts": [
+                203,
+                "p8",
+                "verse",
+                "v29",
+                "note",
+                "f"
+              ],
+              "value": "#23:29Oris not fasting"
+            },
+            {
+              "rowId": 204,
+              "keyParts": [
+                204,
+                "p8",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "on that very day"
+            },
+            {
+              "rowId": 205,
+              "keyParts": [
+                205,
+                "p8",
+                "verse",
+                "v29",
+                "note",
+                "x"
+              ],
+              "value": "#SeeEx. 30:33"
+            },
+            {
+              "rowId": 206,
+              "keyParts": [
+                206,
+                "p8",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "shall be cut off from his people."
+            },
+            {
+              "rowId": 207,
+              "keyParts": [
+                "v029_ESV_LEV_023",
+                207,
+                "p8",
+                "verse",
+                "v29",
+                "plain_text"
+              ],
+              "value": "29 For whoever is not afflicted on that very day shall be cut off from his people."
+            },
+            {
+              "rowId": 208,
+              "keyParts": [
+                208,
+                "p8",
+                "verse",
+                "v30",
+                "label"
+              ],
+              "value": "30"
+            },
+            {
+              "rowId": 209,
+              "keyParts": [
+                209,
+                "p8",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "And whoever does any work on that very day, that person I will destroy from among his people."
+            },
+            {
+              "rowId": 210,
+              "keyParts": [
+                "v030_ESV_LEV_023",
+                210,
+                "p8",
+                "verse",
+                "v30",
+                "plain_text"
+              ],
+              "value": "30 And whoever does any work on that very day, that person I will destroy from among his people."
+            },
+            {
+              "rowId": 211,
+              "keyParts": [
+                211,
+                "p8",
+                "verse",
+                "v31",
+                "label"
+              ],
+              "value": "31"
+            },
+            {
+              "rowId": 212,
+              "keyParts": [
+                212,
+                "p8",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "You shall not do any work. It is a statute forever throughout your generations in all your dwelling places."
+            },
+            {
+              "rowId": 213,
+              "keyParts": [
+                "v031_ESV_LEV_023",
+                213,
+                "p8",
+                "verse",
+                "v31",
+                "plain_text"
+              ],
+              "value": "31 You shall not do any work. It is a statute forever throughout your generations in all your dwelling places."
+            },
+            {
+              "rowId": 214,
+              "keyParts": [
+                214,
+                "p8",
+                "verse",
+                "v32",
+                "label"
+              ],
+              "value": "32"
+            },
+            {
+              "rowId": 215,
+              "keyParts": [
+                215,
+                "p8",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "It shall be to you a Sabbath of solemn rest, and you shall afflict yourselves. On the ninth day of the month beginning at evening, from evening to evening shall you keep your Sabbath.”"
+            },
+            {
+              "rowId": 216,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "The Feast of Booths"
+            },
+            {
+              "rowId": 217,
+              "keyParts": [
+                "v032_ESV_LEV_023",
+                217,
+                "p8",
+                "verse",
+                "v32",
+                "plain_text"
+              ],
+              "value": "32 It shall be to you a Sabbath of solemn rest, and you shall afflict yourselves. On the ninth day of the month beginning at evening, from evening to evening shall you keep your Sabbath.”"
+            },
+            {
+              "rowId": 218,
+              "keyParts": [
+                218,
+                "p9",
+                "verse",
+                "v33",
+                "label"
+              ],
+              "value": "33"
+            },
+            {
+              "rowId": 219,
+              "keyParts": [
+                219,
+                "p9",
+                "verse",
+                "v33",
+                "content"
+              ],
+              "value": "And the"
+            },
+            {
+              "rowId": 220,
+              "keyParts": [
+                220,
+                "p9",
+                "verse",
+                "v33",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 221,
+              "keyParts": [
+                221,
+                "p9",
+                "verse",
+                "v33",
+                "content"
+              ],
+              "value": "spoke to Moses, saying,"
+            },
+            {
+              "rowId": 222,
+              "keyParts": [
+                "v033_ESV_LEV_023",
+                222,
+                "p9",
+                "verse",
+                "v33",
+                "plain_text"
+              ],
+              "value": "33 And the Lord spoke to Moses, saying,"
+            },
+            {
+              "rowId": 223,
+              "keyParts": [
+                223,
+                "p9",
+                "verse",
+                "v34",
+                "label"
+              ],
+              "value": "34"
+            },
+            {
+              "rowId": 224,
+              "keyParts": [
+                224,
+                "p9",
+                "verse",
+                "v34",
+                "content"
+              ],
+              "value": "“Speak to the people of Israel, saying,"
+            },
+            {
+              "rowId": 225,
+              "keyParts": [
+                225,
+                "p9",
+                "verse",
+                "v34",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 29:12;Deut. 16:13;Ezra 3:4;Neh. 8:14;Ezek. 45:25;Hos. 12:9;Zech. 14:16;John 7:2"
+            },
+            {
+              "rowId": 226,
+              "keyParts": [
+                226,
+                "p9",
+                "verse",
+                "v34",
+                "content"
+              ],
+              "value": "On the fifteenth day of this seventh month and for seven days is the Feast of Booths"
+            },
+            {
+              "rowId": 227,
+              "keyParts": [
+                227,
+                "p9",
+                "verse",
+                "v34",
+                "note",
+                "f"
+              ],
+              "value": "#23:34OrTabernacles"
+            },
+            {
+              "rowId": 228,
+              "keyParts": [
+                228,
+                "p9",
+                "verse",
+                "v34",
+                "content"
+              ],
+              "value": "to the"
+            },
+            {
+              "rowId": 229,
+              "keyParts": [
+                229,
+                "p9",
+                "verse",
+                "v34",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 230,
+              "keyParts": [
+                230,
+                "p9",
+                "verse",
+                "v34",
+                "content"
+              ],
+              "value": "."
+            },
+            {
+              "rowId": 231,
+              "keyParts": [
+                "v034_ESV_LEV_023",
+                231,
+                "p9",
+                "verse",
+                "v34",
+                "plain_text"
+              ],
+              "value": "34 “Speak to the people of Israel, saying, On the fifteenth day of this seventh month and for seven days is the Feast of Booths to the Lord ."
+            },
+            {
+              "rowId": 232,
+              "keyParts": [
+                232,
+                "p9",
+                "verse",
+                "v35",
+                "label"
+              ],
+              "value": "35"
+            },
+            {
+              "rowId": 233,
+              "keyParts": [
+                233,
+                "p9",
+                "verse",
+                "v35",
+                "content"
+              ],
+              "value": "On the first day shall be a holy convocation; you shall not do any ordinary work."
+            },
+            {
+              "rowId": 234,
+              "keyParts": [
+                "v035_ESV_LEV_023",
+                234,
+                "p9",
+                "verse",
+                "v35",
+                "plain_text"
+              ],
+              "value": "35 On the first day shall be a holy convocation; you shall not do any ordinary work."
+            },
+            {
+              "rowId": 235,
+              "keyParts": [
+                235,
+                "p9",
+                "verse",
+                "v36",
+                "label"
+              ],
+              "value": "36"
+            },
+            {
+              "rowId": 236,
+              "keyParts": [
+                236,
+                "p9",
+                "verse",
+                "v36",
+                "content"
+              ],
+              "value": "For seven days you shall present food offerings to the"
+            },
+            {
+              "rowId": 237,
+              "keyParts": [
+                237,
+                "p9",
+                "verse",
+                "v36",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 238,
+              "keyParts": [
+                238,
+                "p9",
+                "verse",
+                "v36",
+                "content"
+              ],
+              "value": "."
+            },
+            {
+              "rowId": 239,
+              "keyParts": [
+                239,
+                "p9",
+                "verse",
+                "v36",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 29:35;Neh. 8:18;John 7:37"
+            },
+            {
+              "rowId": 240,
+              "keyParts": [
+                240,
+                "p9",
+                "verse",
+                "v36",
+                "content"
+              ],
+              "value": "On the eighth day you shall hold a holy convocation and present a food offering to the"
+            },
+            {
+              "rowId": 241,
+              "keyParts": [
+                241,
+                "p9",
+                "verse",
+                "v36",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 242,
+              "keyParts": [
+                242,
+                "p9",
+                "verse",
+                "v36",
+                "content"
+              ],
+              "value": ". It is a"
+            },
+            {
+              "rowId": 243,
+              "keyParts": [
+                243,
+                "p9",
+                "verse",
+                "v36",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 29:35;Deut. 16:8;2 Kgs. 10:20;2 Chr. 7:9;Neh. 8:18;Isa. 1:13;Joel 1:14;2:15;Amos 5:21"
+            },
+            {
+              "rowId": 244,
+              "keyParts": [
+                244,
+                "p9",
+                "verse",
+                "v36",
+                "content"
+              ],
+              "value": "solemn assembly; you shall not do any ordinary work."
+            },
+            {
+              "rowId": 245,
+              "keyParts": [
+                "v036_ESV_LEV_023",
+                245,
+                "p9",
+                "verse",
+                "v36",
+                "plain_text"
+              ],
+              "value": "36 For seven days you shall present food offerings to the Lord . On the eighth day you shall hold a holy convocation and present a food offering to the Lord . It is a solemn assembly; you shall not do any ordinary work."
+            },
+            {
+              "rowId": 246,
+              "keyParts": [
+                246,
+                "p10",
+                "verse",
+                "v37",
+                "label"
+              ],
+              "value": "37"
+            },
+            {
+              "rowId": 247,
+              "keyParts": [
+                247,
+                "p10",
+                "verse",
+                "v37",
+                "note",
+                "x"
+              ],
+              "value": "#ver.2, 4"
+            },
+            {
+              "rowId": 248,
+              "keyParts": [
+                248,
+                "p10",
+                "verse",
+                "v37",
+                "content"
+              ],
+              "value": "“These are the appointed feasts of the"
+            },
+            {
+              "rowId": 249,
+              "keyParts": [
+                249,
+                "p10",
+                "verse",
+                "v37",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 250,
+              "keyParts": [
+                250,
+                "p10",
+                "verse",
+                "v37",
+                "content"
+              ],
+              "value": ", which you shall proclaim as times of holy convocation, for presenting to the"
+            },
+            {
+              "rowId": 251,
+              "keyParts": [
+                251,
+                "p10",
+                "verse",
+                "v37",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 252,
+              "keyParts": [
+                252,
+                "p10",
+                "verse",
+                "v37",
+                "content"
+              ],
+              "value": "food offerings, burnt offerings and grain offerings, sacrifices and drink offerings, each on its proper day,"
+            },
+            {
+              "rowId": 253,
+              "keyParts": [
+                "v037_ESV_LEV_023",
+                253,
+                "p10",
+                "verse",
+                "v37",
+                "plain_text"
+              ],
+              "value": "37 “These are the appointed feasts of the Lord , which you shall proclaim as times of holy convocation, for presenting to the Lord food offerings, burnt offerings and grain offerings, sacrifices and drink offerings, each on its proper day,"
+            },
+            {
+              "rowId": 254,
+              "keyParts": [
+                254,
+                "p10",
+                "verse",
+                "v38",
+                "label"
+              ],
+              "value": "38"
+            },
+            {
+              "rowId": 255,
+              "keyParts": [
+                255,
+                "p10",
+                "verse",
+                "v38",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 29:39"
+            },
+            {
+              "rowId": 256,
+              "keyParts": [
+                256,
+                "p10",
+                "verse",
+                "v38",
+                "content"
+              ],
+              "value": "besides the"
+            },
+            {
+              "rowId": 257,
+              "keyParts": [
+                257,
+                "p10",
+                "verse",
+                "v38",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 258,
+              "keyParts": [
+                258,
+                "p10",
+                "verse",
+                "v38",
+                "content"
+              ],
+              "value": "’s Sabbaths and besides your gifts and besides all your vow offerings and besides all your freewill offerings, which you give to the"
+            },
+            {
+              "rowId": 259,
+              "keyParts": [
+                259,
+                "p10",
+                "verse",
+                "v38",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 260,
+              "keyParts": [
+                260,
+                "p10",
+                "verse",
+                "v38",
+                "content"
+              ],
+              "value": "."
+            },
+            {
+              "rowId": 261,
+              "keyParts": [
+                "v038_ESV_LEV_023",
+                261,
+                "p10",
+                "verse",
+                "v38",
+                "plain_text"
+              ],
+              "value": "38 besides the Lord ’s Sabbaths and besides your gifts and besides all your vow offerings and besides all your freewill offerings, which you give to the Lord ."
+            },
+            {
+              "rowId": 262,
+              "keyParts": [
+                262,
+                "p11",
+                "verse",
+                "v39",
+                "label"
+              ],
+              "value": "39"
+            },
+            {
+              "rowId": 263,
+              "keyParts": [
+                263,
+                "p11",
+                "verse",
+                "v39",
+                "content"
+              ],
+              "value": "“On the fifteenth day of the seventh month, when you have"
+            },
+            {
+              "rowId": 264,
+              "keyParts": [
+                264,
+                "p11",
+                "verse",
+                "v39",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 23:16;Deut. 16:13"
+            },
+            {
+              "rowId": 265,
+              "keyParts": [
+                265,
+                "p11",
+                "verse",
+                "v39",
+                "content"
+              ],
+              "value": "gathered in the produce of the land, you shall celebrate the feast of the"
+            },
+            {
+              "rowId": 266,
+              "keyParts": [
+                266,
+                "p11",
+                "verse",
+                "v39",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 267,
+              "keyParts": [
+                267,
+                "p11",
+                "verse",
+                "v39",
+                "content"
+              ],
+              "value": "seven days. On the first day shall be a solemn rest, and on the eighth day shall be a solemn rest."
+            },
+            {
+              "rowId": 268,
+              "keyParts": [
+                "v039_ESV_LEV_023",
+                268,
+                "p11",
+                "verse",
+                "v39",
+                "plain_text"
+              ],
+              "value": "39 “On the fifteenth day of the seventh month, when you have gathered in the produce of the land, you shall celebrate the feast of the Lord seven days. On the first day shall be a solemn rest, and on the eighth day shall be a solemn rest."
+            },
+            {
+              "rowId": 269,
+              "keyParts": [
+                269,
+                "p11",
+                "verse",
+                "v40",
+                "label"
+              ],
+              "value": "40"
+            },
+            {
+              "rowId": 270,
+              "keyParts": [
+                270,
+                "p11",
+                "verse",
+                "v40",
+                "content"
+              ],
+              "value": "And"
+            },
+            {
+              "rowId": 271,
+              "keyParts": [
+                271,
+                "p11",
+                "verse",
+                "v40",
+                "note",
+                "x"
+              ],
+              "value": "#SeeNeh. 8:14-18"
+            },
+            {
+              "rowId": 272,
+              "keyParts": [
+                272,
+                "p11",
+                "verse",
+                "v40",
+                "content"
+              ],
+              "value": "you shall take on the first day the fruit of splendid trees, branches of palm trees and boughs of leafy trees and willows of the brook, and"
+            },
+            {
+              "rowId": 273,
+              "keyParts": [
+                273,
+                "p11",
+                "verse",
+                "v40",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 16:14,15"
+            },
+            {
+              "rowId": 274,
+              "keyParts": [
+                274,
+                "p11",
+                "verse",
+                "v40",
+                "content"
+              ],
+              "value": "you shall rejoice before the"
+            },
+            {
+              "rowId": 275,
+              "keyParts": [
+                275,
+                "p11",
+                "verse",
+                "v40",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 276,
+              "keyParts": [
+                276,
+                "p11",
+                "verse",
+                "v40",
+                "content"
+              ],
+              "value": "your God seven days."
+            },
+            {
+              "rowId": 277,
+              "keyParts": [
+                "v040_ESV_LEV_023",
+                277,
+                "p11",
+                "verse",
+                "v40",
+                "plain_text"
+              ],
+              "value": "40 And you shall take on the first day the fruit of splendid trees, branches of palm trees and boughs of leafy trees and willows of the brook, and you shall rejoice before the Lord your God seven days."
+            },
+            {
+              "rowId": 278,
+              "keyParts": [
+                278,
+                "p11",
+                "verse",
+                "v41",
+                "label"
+              ],
+              "value": "41"
+            },
+            {
+              "rowId": 279,
+              "keyParts": [
+                279,
+                "p11",
+                "verse",
+                "v41",
+                "note",
+                "x"
+              ],
+              "value": "#SeeNum. 29:12-38"
+            },
+            {
+              "rowId": 280,
+              "keyParts": [
+                280,
+                "p11",
+                "verse",
+                "v41",
+                "content"
+              ],
+              "value": "You shall celebrate it as a feast to the"
+            },
+            {
+              "rowId": 281,
+              "keyParts": [
+                281,
+                "p11",
+                "verse",
+                "v41",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 282,
+              "keyParts": [
+                282,
+                "p11",
+                "verse",
+                "v41",
+                "content"
+              ],
+              "value": "for seven days in the year. It is a statute forever throughout your generations; you shall celebrate it in the seventh month."
+            },
+            {
+              "rowId": 283,
+              "keyParts": [
+                "v041_ESV_LEV_023",
+                283,
+                "p11",
+                "verse",
+                "v41",
+                "plain_text"
+              ],
+              "value": "41 You shall celebrate it as a feast to the Lord for seven days in the year. It is a statute forever throughout your generations; you shall celebrate it in the seventh month."
+            },
+            {
+              "rowId": 284,
+              "keyParts": [
+                284,
+                "p11",
+                "verse",
+                "v42",
+                "label"
+              ],
+              "value": "42"
+            },
+            {
+              "rowId": 285,
+              "keyParts": [
+                285,
+                "p11",
+                "verse",
+                "v42",
+                "note",
+                "x"
+              ],
+              "value": "#SeeNeh. 8:14-18"
+            },
+            {
+              "rowId": 286,
+              "keyParts": [
+                286,
+                "p11",
+                "verse",
+                "v42",
+                "content"
+              ],
+              "value": "You shall dwell in booths for seven days. All native Israelites shall dwell in booths,"
+            },
+            {
+              "rowId": 287,
+              "keyParts": [
+                "v042_ESV_LEV_023",
+                287,
+                "p11",
+                "verse",
+                "v42",
+                "plain_text"
+              ],
+              "value": "42 You shall dwell in booths for seven days. All native Israelites shall dwell in booths,"
+            },
+            {
+              "rowId": 288,
+              "keyParts": [
+                288,
+                "p11",
+                "verse",
+                "v43",
+                "label"
+              ],
+              "value": "43"
+            },
+            {
+              "rowId": 289,
+              "keyParts": [
+                289,
+                "p11",
+                "verse",
+                "v43",
+                "content"
+              ],
+              "value": "that"
+            },
+            {
+              "rowId": 290,
+              "keyParts": [
+                290,
+                "p11",
+                "verse",
+                "v43",
+                "note",
+                "x"
+              ],
+              "value": "#SeeDeut. 31:10-13"
+            },
+            {
+              "rowId": 291,
+              "keyParts": [
+                291,
+                "p11",
+                "verse",
+                "v43",
+                "content"
+              ],
+              "value": "your generations may know that I made the people of Israel dwell in booths when I brought them out of the land of Egypt: I am the"
+            },
+            {
+              "rowId": 292,
+              "keyParts": [
+                292,
+                "p11",
+                "verse",
+                "v43",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 293,
+              "keyParts": [
+                293,
+                "p11",
+                "verse",
+                "v43",
+                "content"
+              ],
+              "value": "your God.”"
+            },
+            {
+              "rowId": 294,
+              "keyParts": [
+                "v043_ESV_LEV_023",
+                294,
+                "p11",
+                "verse",
+                "v43",
+                "plain_text"
+              ],
+              "value": "43 that your generations may know that I made the people of Israel dwell in booths when I brought them out of the land of Egypt: I am the Lord your God.”"
+            },
+            {
+              "rowId": 295,
+              "keyParts": [
+                295,
+                "p12",
+                "verse",
+                "v44",
+                "label"
+              ],
+              "value": "44"
+            },
+            {
+              "rowId": 296,
+              "keyParts": [
+                296,
+                "p12",
+                "verse",
+                "v44",
+                "content"
+              ],
+              "value": "Thus Moses"
+            },
+            {
+              "rowId": 297,
+              "keyParts": [
+                297,
+                "p12",
+                "verse",
+                "v44",
+                "note",
+                "x"
+              ],
+              "value": "#ver.2"
+            },
+            {
+              "rowId": 298,
+              "keyParts": [
+                298,
+                "p12",
+                "verse",
+                "v44",
+                "content"
+              ],
+              "value": "declared to the people of Israel the appointed feasts of the"
+            },
+            {
+              "rowId": 299,
+              "keyParts": [
+                299,
+                "p12",
+                "verse",
+                "v44",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 300,
+              "keyParts": [
+                300,
+                "p12",
+                "verse",
+                "v44",
+                "content"
+              ],
+              "value": "."
+            },
+            {
+              "rowId": 301,
+              "keyParts": [
+                "v044_ESV_LEV_023",
+                301,
+                "p12",
+                "verse",
+                "v44",
+                "plain_text"
+              ],
+              "value": "44 Thus Moses declared to the people of Israel the appointed feasts of the Lord ."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

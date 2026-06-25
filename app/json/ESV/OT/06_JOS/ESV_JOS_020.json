@@ -1,0 +1,619 @@
+{
+  "translationId": "ESV",
+  "name": "English Standard Version",
+  "abbreviation": "ESV",
+  "language": "English",
+  "copyright": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.",
+  "books": [
+    {
+      "bookId": "JOS",
+      "testament": "OT",
+      "order": 6,
+      "title": "Joshua",
+      "abbreviation": "JOS",
+      "chapters": [
+        {
+          "chapter": 20,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "The Cities of Refuge"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "Then the"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "said to Joshua,"
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                "v001_ESV_JOS_020",
+                7,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 Then the Lord said to Joshua,"
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                9,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "“Say to the people of Israel,"
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 21:13;SeeNum. 35:6,11-14;Deut. 4:41-43;19:2-9"
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                11,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "‘Appoint the cities of refuge, of which I spoke to you through Moses,"
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                "v002_ESV_JOS_020",
+                12,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 “Say to the people of Israel, ‘Appoint the cities of refuge, of which I spoke to you through Moses,"
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                13,
+                "p1",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "that the manslayer who strikes any person without intent or unknowingly may flee there. They shall be for you a refuge from the avenger of blood."
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                "v003_ESV_JOS_020",
+                15,
+                "p1",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 that the manslayer who strikes any person without intent or unknowingly may flee there. They shall be for you a refuge from the avenger of blood."
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                16,
+                "p1",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                17,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "He shall flee to one of these cities and shall stand"
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#[Deut. 21:19;Ruth 4:1,2;Ps. 127:5]"
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "at the entrance of the gate of the city and explain his case to the elders of that city. Then they shall take him into the city and give him a place, and he shall remain with them."
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                "v004_ESV_JOS_020",
+                20,
+                "p1",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 He shall flee to one of these cities and shall stand at the entrance of the gate of the city and explain his case to the elders of that city. Then they shall take him into the city and give him a place, and he shall remain with them."
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p1",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                22,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "And if the avenger of blood pursues him, they shall not give up the manslayer into his hand, because he struck his neighbor unknowingly, and did not hate him in the past."
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                "v005_ESV_JOS_020",
+                23,
+                "p1",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 And if the avenger of blood pursues him, they shall not give up the manslayer into his hand, because he struck his neighbor unknowingly, and did not hate him in the past."
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                24,
+                "p1",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "And he shall remain in that city"
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                26,
+                "p1",
+                "verse",
+                "v6",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 35:12,24,25"
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                27,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "until he has stood before the congregation for judgment, until the death of him who is high priest at the time. Then the manslayer may return to his own town and his own home, to the town from which he fled.’”"
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                "v006_ESV_JOS_020",
+                28,
+                "p1",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 And he shall remain in that city until he has stood before the congregation for judgment, until the death of him who is high priest at the time. Then the manslayer may return to his own town and his own home, to the town from which he fled.’”"
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                29,
+                "p2",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                30,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "So they set apart"
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                31,
+                "p2",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#ch.21:32;1 Chr. 6:76"
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "Kedesh in Galilee in the hill country of Naphtali, and"
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                33,
+                "p2",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#ch.21:21"
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                34,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "Shechem in the hill country of Ephraim, and"
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                35,
+                "p2",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#ch.21:11,13;See ch.14:13-15"
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "Kiriath-arba (that is, Hebron)"
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                37,
+                "p2",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#ch.21:11;Luke 1:39"
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                38,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "in the hill country of Judah."
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                "v007_ESV_JOS_020",
+                39,
+                "p2",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 So they set apart Kedesh in Galilee in the hill country of Naphtali, and Shechem in the hill country of Ephraim, and Kiriath-arba (that is, Hebron) in the hill country of Judah."
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                40,
+                "p2",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "And beyond the Jordan east of Jericho, they appointed"
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "p2",
+                "verse",
+                "v8",
+                "note",
+                "x"
+              ],
+              "value": "#ch.21:36;1 Chr. 6:78"
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                43,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "Bezer in the wilderness on the tableland, from the tribe of Reuben, and"
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                44,
+                "p2",
+                "verse",
+                "v8",
+                "note",
+                "x"
+              ],
+              "value": "#ch.21:38;[1 Kgs. 22:3]"
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                45,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "Ramoth in Gilead, from the tribe of Gad, and"
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                46,
+                "p2",
+                "verse",
+                "v8",
+                "note",
+                "x"
+              ],
+              "value": "#ch.21:27;1 Chr. 6:71"
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                47,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "Golan in Bashan, from the tribe of Manasseh."
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                "v008_ESV_JOS_020",
+                48,
+                "p2",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 And beyond the Jordan east of Jericho, they appointed Bezer in the wilderness on the tableland, from the tribe of Reuben, and Ramoth in Gilead, from the tribe of Gad, and Golan in Bashan, from the tribe of Manasseh."
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                49,
+                "p2",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "These were the cities designated for all the people of Israel and"
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                51,
+                "p2",
+                "verse",
+                "v9",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 35:15"
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                52,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "for the stranger sojourning among them, that anyone who killed a person without intent could flee there, so that he might not die by the hand of the avenger of blood, till he stood before the congregation."
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                "v009_ESV_JOS_020",
+                53,
+                "p2",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 These were the cities designated for all the people of Israel and for the stranger sojourning among them, that anyone who killed a person without intent could flee there, so that he might not die by the hand of the avenger of blood, till he stood before the congregation."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

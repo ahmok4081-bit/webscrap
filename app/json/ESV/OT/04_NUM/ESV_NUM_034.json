@@ -1,0 +1,1558 @@
+{
+  "translationId": "ESV",
+  "name": "English Standard Version",
+  "abbreviation": "ESV",
+  "language": "English",
+  "copyright": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.",
+  "books": [
+    {
+      "bookId": "NUM",
+      "testament": "OT",
+      "order": 4,
+      "title": "Numbers",
+      "abbreviation": "NUM",
+      "chapters": [
+        {
+          "chapter": 34,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "34"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Boundaries of the Land"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "The"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "spoke to Moses, saying,"
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                "v001_ESV_NUM_034",
+                7,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 The Lord spoke to Moses, saying,"
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                9,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "“Command the people of Israel, and say to them, When you enter"
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#Gen. 17:8;Ex. 3:8;Ps. 105:11"
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                11,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "the land of Canaan"
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                12,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#ver.13"
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                13,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "(this is the land that shall fall to you for an inheritance, the land of Canaan as defined by its borders),"
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                "v002_ESV_NUM_034",
+                14,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 “Command the people of Israel, and say to them, When you enter the land of Canaan (this is the land that shall fall to you for an inheritance, the land of Canaan as defined by its borders),"
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                15,
+                "p1",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                16,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#Josh. 15:1;SeeGen. 15:18-21;Ezek. 47:13-21"
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                17,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "your south side shall be from the wilderness of Zin alongside Edom, and your southern border shall run from the end of"
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#ver.12;Gen. 14:3;Josh. 15:2"
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "the Salt Sea on the east."
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                "v003_ESV_NUM_034",
+                20,
+                "p1",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 your south side shall be from the wilderness of Zin alongside Edom, and your southern border shall run from the end of the Salt Sea on the east."
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p1",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                22,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "And your border shall turn south of"
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#Josh. 15:3"
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                24,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "the ascent of Akrabbim, and cross to Zin, and its limit shall be south of Kadesh-barnea. Then it shall go on to"
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#Josh. 15:3"
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                26,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "Hazar-addar, and pass along to Azmon."
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                "v004_ESV_NUM_034",
+                27,
+                "p1",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 And your border shall turn south of the ascent of Akrabbim, and cross to Zin, and its limit shall be south of Kadesh-barnea. Then it shall go on to Hazar-addar, and pass along to Azmon."
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                28,
+                "p1",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                29,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "And the border shall turn"
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                30,
+                "p1",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#Josh. 15:4"
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                31,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "from Azmon to"
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "p1",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#Gen. 15:18;Josh. 15:4,47;1 Kgs. 8:65;2 Kgs. 24:7;1 Chr. 13:5;2 Chr. 7:8;Isa. 27:12"
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                33,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "the Brook of Egypt, and its limit shall be at the sea."
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                "v005_ESV_NUM_034",
+                34,
+                "p1",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 And the border shall turn from Azmon to the Brook of Egypt, and its limit shall be at the sea."
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                35,
+                "p2",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "p2",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "“For the western border, you shall have the Great Sea and its"
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                37,
+                "p2",
+                "verse",
+                "v6",
+                "note",
+                "f"
+              ],
+              "value": "#34:6Syriac; Hebrew lacksits"
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                38,
+                "p2",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "coast. This shall be your western border."
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                "v006_ESV_NUM_034",
+                39,
+                "p2",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 “For the western border, you shall have the Great Sea and its coast. This shall be your western border."
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                40,
+                "p3",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p3",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "“This shall be your northern border: from the Great Sea you shall draw a line to"
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "p3",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#ch.33:37"
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                43,
+                "p3",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "Mount Hor."
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                "v007_ESV_NUM_034",
+                44,
+                "p3",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 “This shall be your northern border: from the Great Sea you shall draw a line to Mount Hor."
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                45,
+                "p3",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                46,
+                "p3",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "From Mount Hor you shall draw a line"
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                47,
+                "p3",
+                "verse",
+                "v8",
+                "note",
+                "x"
+              ],
+              "value": "#ch.13:21;2 Kgs. 14:25;Ezek. 48:1"
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                48,
+                "p3",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "to Lebo-hamath, and the limit of the border shall be at"
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                49,
+                "p3",
+                "verse",
+                "v8",
+                "note",
+                "x"
+              ],
+              "value": "#Ezek. 47:15"
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "p3",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "Zedad."
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                "v008_ESV_NUM_034",
+                51,
+                "p3",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 From Mount Hor you shall draw a line to Lebo-hamath, and the limit of the border shall be at Zedad."
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                52,
+                "p3",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                53,
+                "p3",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "Then the border shall extend to Ziphron, and its limit shall be at"
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                54,
+                "p3",
+                "verse",
+                "v9",
+                "note",
+                "x"
+              ],
+              "value": "#Ezek. 47:17"
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                55,
+                "p3",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "Hazar-enan. This shall be your northern border."
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                "v009_ESV_NUM_034",
+                56,
+                "p3",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 Then the border shall extend to Ziphron, and its limit shall be at Hazar-enan. This shall be your northern border."
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                57,
+                "p4",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                58,
+                "p4",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "“You shall draw a line for your eastern border from Hazar-enan to Shepham."
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                "v010_ESV_NUM_034",
+                59,
+                "p4",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 “You shall draw a line for your eastern border from Hazar-enan to Shepham."
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                60,
+                "p4",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                61,
+                "p4",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "And the border shall go down from Shepham to"
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                62,
+                "p4",
+                "verse",
+                "v11",
+                "note",
+                "x"
+              ],
+              "value": "#2 Kgs. 23:33;Jer. 39:5"
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                63,
+                "p4",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "Riblah on the east side of Ain. And the border shall go down and reach to the shoulder of"
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                64,
+                "p4",
+                "verse",
+                "v11",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 3:17;Josh. 11:2;12:3;19:35;Matt. 4:18;Luke 5:1"
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                65,
+                "p4",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "the Sea of Chinnereth on the east."
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                "v011_ESV_NUM_034",
+                66,
+                "p4",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 And the border shall go down from Shepham to Riblah on the east side of Ain. And the border shall go down and reach to the shoulder of the Sea of Chinnereth on the east."
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                67,
+                "p4",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                68,
+                "p4",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "And the border shall go down to the Jordan, and its limit shall be at"
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                69,
+                "p4",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#ver.3"
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                70,
+                "p4",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "the Salt Sea. This shall be your land as defined by its borders all around.”"
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                "v012_ESV_NUM_034",
+                71,
+                "p4",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 And the border shall go down to the Jordan, and its limit shall be at the Salt Sea. This shall be your land as defined by its borders all around.”"
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                72,
+                "p5",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                73,
+                "p5",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "Moses commanded the people of Israel, saying,"
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                74,
+                "p5",
+                "verse",
+                "v13",
+                "note",
+                "x"
+              ],
+              "value": "#ver.2;Josh. 14:1,2"
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                75,
+                "p5",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "“This is the land that you shall inherit by lot, which the"
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                76,
+                "p5",
+                "verse",
+                "v13",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                77,
+                "p5",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "has commanded to give to the nine tribes and to the half-tribe."
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                "v013_ESV_NUM_034",
+                78,
+                "p5",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 Moses commanded the people of Israel, saying, “This is the land that you shall inherit by lot, which the Lord has commanded to give to the nine tribes and to the half-tribe."
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                79,
+                "p5",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                80,
+                "p5",
+                "verse",
+                "v14",
+                "note",
+                "x"
+              ],
+              "value": "#ch.32:33;Josh. 14:3"
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                81,
+                "p5",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "For the tribe of the people of Reuben by fathers’ houses and the tribe of the people of Gad by their fathers’ houses have received their inheritance, and also the half-tribe of Manasseh."
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                "v014_ESV_NUM_034",
+                82,
+                "p5",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 For the tribe of the people of Reuben by fathers’ houses and the tribe of the people of Gad by their fathers’ houses have received their inheritance, and also the half-tribe of Manasseh."
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                83,
+                "p5",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                84,
+                "p5",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "The two tribes and the half-tribe have received their inheritance beyond the Jordan east of Jericho, toward the sunrise.”"
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "List of Tribal Chiefs"
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                "v015_ESV_NUM_034",
+                86,
+                "p5",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 The two tribes and the half-tribe have received their inheritance beyond the Jordan east of Jericho, toward the sunrise.”"
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                87,
+                "p6",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                88,
+                "p6",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "The"
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                89,
+                "p6",
+                "verse",
+                "v16",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                90,
+                "p6",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "spoke to Moses, saying,"
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                "v016_ESV_NUM_034",
+                91,
+                "p6",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 The Lord spoke to Moses, saying,"
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                92,
+                "p6",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                93,
+                "p6",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "“These are the names of the men who shall divide the land to you for inheritance:"
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                94,
+                "p6",
+                "verse",
+                "v17",
+                "note",
+                "x"
+              ],
+              "value": "#Josh. 14:1;19:51"
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                95,
+                "p6",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "Eleazar the priest and Joshua the son of Nun."
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                "v017_ESV_NUM_034",
+                96,
+                "p6",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 “These are the names of the men who shall divide the land to you for inheritance: Eleazar the priest and Joshua the son of Nun."
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                97,
+                "p6",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                98,
+                "p6",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "You shall take one"
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                99,
+                "p6",
+                "verse",
+                "v18",
+                "note",
+                "x"
+              ],
+              "value": "#ch.1:4,16"
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                100,
+                "p6",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "chief from every tribe to divide the land for inheritance."
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                "v018_ESV_NUM_034",
+                101,
+                "p6",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 You shall take one chief from every tribe to divide the land for inheritance."
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                102,
+                "p6",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                103,
+                "p6",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "These are the names of the men: Of the tribe of Judah, Caleb the son of Jephunneh."
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                "v019_ESV_NUM_034",
+                104,
+                "p6",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 These are the names of the men: Of the tribe of Judah, Caleb the son of Jephunneh."
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                105,
+                "p6",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                106,
+                "p6",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "Of the tribe of the people of Simeon, Shemuel the son of Ammihud."
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                "v020_ESV_NUM_034",
+                107,
+                "p6",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 Of the tribe of the people of Simeon, Shemuel the son of Ammihud."
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                108,
+                "p6",
+                "verse",
+                "v21",
+                "label"
+              ],
+              "value": "21"
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                109,
+                "p6",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "Of the tribe of Benjamin, Elidad the son of Chislon."
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                "v021_ESV_NUM_034",
+                110,
+                "p6",
+                "verse",
+                "v21",
+                "plain_text"
+              ],
+              "value": "21 Of the tribe of Benjamin, Elidad the son of Chislon."
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                111,
+                "p6",
+                "verse",
+                "v22",
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                112,
+                "p6",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "Of the tribe of the people of Dan a chief, Bukki the son of Jogli."
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                "v022_ESV_NUM_034",
+                113,
+                "p6",
+                "verse",
+                "v22",
+                "plain_text"
+              ],
+              "value": "22 Of the tribe of the people of Dan a chief, Bukki the son of Jogli."
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                114,
+                "p6",
+                "verse",
+                "v23",
+                "label"
+              ],
+              "value": "23"
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                115,
+                "p6",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "Of the people of Joseph: of the tribe of the people of Manasseh a chief, Hanniel the son of Ephod."
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                "v023_ESV_NUM_034",
+                116,
+                "p6",
+                "verse",
+                "v23",
+                "plain_text"
+              ],
+              "value": "23 Of the people of Joseph: of the tribe of the people of Manasseh a chief, Hanniel the son of Ephod."
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                117,
+                "p6",
+                "verse",
+                "v24",
+                "label"
+              ],
+              "value": "24"
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                118,
+                "p6",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "And of the tribe of the people of Ephraim a chief, Kemuel the son of Shiphtan."
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                "v024_ESV_NUM_034",
+                119,
+                "p6",
+                "verse",
+                "v24",
+                "plain_text"
+              ],
+              "value": "24 And of the tribe of the people of Ephraim a chief, Kemuel the son of Shiphtan."
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                120,
+                "p6",
+                "verse",
+                "v25",
+                "label"
+              ],
+              "value": "25"
+            },
+            {
+              "rowId": 121,
+              "keyParts": [
+                121,
+                "p6",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "Of the tribe of the people of Zebulun a chief, Elizaphan the son of Parnach."
+            },
+            {
+              "rowId": 122,
+              "keyParts": [
+                "v025_ESV_NUM_034",
+                122,
+                "p6",
+                "verse",
+                "v25",
+                "plain_text"
+              ],
+              "value": "25 Of the tribe of the people of Zebulun a chief, Elizaphan the son of Parnach."
+            },
+            {
+              "rowId": 123,
+              "keyParts": [
+                123,
+                "p6",
+                "verse",
+                "v26",
+                "label"
+              ],
+              "value": "26"
+            },
+            {
+              "rowId": 124,
+              "keyParts": [
+                124,
+                "p6",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "Of the tribe of the people of Issachar a chief, Paltiel the son of Azzan."
+            },
+            {
+              "rowId": 125,
+              "keyParts": [
+                "v026_ESV_NUM_034",
+                125,
+                "p6",
+                "verse",
+                "v26",
+                "plain_text"
+              ],
+              "value": "26 Of the tribe of the people of Issachar a chief, Paltiel the son of Azzan."
+            },
+            {
+              "rowId": 126,
+              "keyParts": [
+                126,
+                "p6",
+                "verse",
+                "v27",
+                "label"
+              ],
+              "value": "27"
+            },
+            {
+              "rowId": 127,
+              "keyParts": [
+                127,
+                "p6",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "And of the tribe of the people of Asher a chief, Ahihud the son of Shelomi."
+            },
+            {
+              "rowId": 128,
+              "keyParts": [
+                "v027_ESV_NUM_034",
+                128,
+                "p6",
+                "verse",
+                "v27",
+                "plain_text"
+              ],
+              "value": "27 And of the tribe of the people of Asher a chief, Ahihud the son of Shelomi."
+            },
+            {
+              "rowId": 129,
+              "keyParts": [
+                129,
+                "p6",
+                "verse",
+                "v28",
+                "label"
+              ],
+              "value": "28"
+            },
+            {
+              "rowId": 130,
+              "keyParts": [
+                130,
+                "p6",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "Of the tribe of the people of Naphtali a chief, Pedahel the son of Ammihud.”"
+            },
+            {
+              "rowId": 131,
+              "keyParts": [
+                "v028_ESV_NUM_034",
+                131,
+                "p6",
+                "verse",
+                "v28",
+                "plain_text"
+              ],
+              "value": "28 Of the tribe of the people of Naphtali a chief, Pedahel the son of Ammihud.”"
+            },
+            {
+              "rowId": 132,
+              "keyParts": [
+                132,
+                "p6",
+                "verse",
+                "v29",
+                "label"
+              ],
+              "value": "29"
+            },
+            {
+              "rowId": 133,
+              "keyParts": [
+                133,
+                "p6",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "These are the men whom the"
+            },
+            {
+              "rowId": 134,
+              "keyParts": [
+                134,
+                "p6",
+                "verse",
+                "v29",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 135,
+              "keyParts": [
+                135,
+                "p6",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "commanded to divide the inheritance for the people of Israel in the land of Canaan."
+            },
+            {
+              "rowId": 136,
+              "keyParts": [
+                "v029_ESV_NUM_034",
+                136,
+                "p6",
+                "verse",
+                "v29",
+                "plain_text"
+              ],
+              "value": "29 These are the men whom the Lord commanded to divide the inheritance for the people of Israel in the land of Canaan."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

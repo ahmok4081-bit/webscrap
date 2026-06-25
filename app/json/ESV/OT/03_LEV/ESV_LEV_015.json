@@ -1,0 +1,1744 @@
+{
+  "translationId": "ESV",
+  "name": "English Standard Version",
+  "abbreviation": "ESV",
+  "language": "English",
+  "copyright": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.",
+  "books": [
+    {
+      "bookId": "LEV",
+      "testament": "OT",
+      "order": 3,
+      "title": "Leviticus",
+      "abbreviation": "LEV",
+      "chapters": [
+        {
+          "chapter": 15,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Laws About Bodily Discharges"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "The"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "spoke to Moses and Aaron, saying,"
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                "v001_ESV_LEV_015",
+                7,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 The Lord spoke to Moses and Aaron, saying,"
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                9,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "“Speak to the people of Israel and say to them,"
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#ch.22:4;Num. 5:2;2 Sam. 3:29"
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                11,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "When any man has a discharge from his body,"
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                12,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "f"
+              ],
+              "value": "#15:2Hebrewflesh; also verse 3"
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                13,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "his discharge is unclean."
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                "v002_ESV_LEV_015",
+                14,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 “Speak to the people of Israel and say to them, When any man has a discharge from his body, his discharge is unclean."
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                15,
+                "p1",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                16,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "And this is the law of his uncleanness for a discharge: whether his body runs with his discharge, or his body is blocked up by his discharge, it is his uncleanness."
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                "v003_ESV_LEV_015",
+                17,
+                "p1",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 And this is the law of his uncleanness for a discharge: whether his body runs with his discharge, or his body is blocked up by his discharge, it is his uncleanness."
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "p1",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "Every bed on which the one with the discharge lies shall be unclean, and everything on which he sits shall be unclean."
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                "v004_ESV_LEV_015",
+                20,
+                "p1",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 Every bed on which the one with the discharge lies shall be unclean, and everything on which he sits shall be unclean."
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p1",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                22,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "And anyone who touches his bed"
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "p1",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.11:25"
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                24,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "shall wash his clothes and"
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "p1",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#ch.16:26;17:15"
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                26,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "bathe himself in water and be unclean until the evening."
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                "v005_ESV_LEV_015",
+                27,
+                "p1",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 And anyone who touches his bed shall wash his clothes and bathe himself in water and be unclean until the evening."
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                28,
+                "p1",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                29,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "And whoever sits on anything on which the one with the discharge has sat shall wash his clothes and bathe himself in water and be unclean until the evening."
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                "v006_ESV_LEV_015",
+                30,
+                "p1",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 And whoever sits on anything on which the one with the discharge has sat shall wash his clothes and bathe himself in water and be unclean until the evening."
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                31,
+                "p1",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "p1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "And whoever touches the body of the one with the discharge shall wash his clothes and bathe himself in water and be unclean until the evening."
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                "v007_ESV_LEV_015",
+                33,
+                "p1",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 And whoever touches the body of the one with the discharge shall wash his clothes and bathe himself in water and be unclean until the evening."
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                34,
+                "p1",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                35,
+                "p1",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "And if the one with the discharge spits on someone who is clean, then he shall wash his clothes and bathe himself in water and be unclean until the evening."
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                "v008_ESV_LEV_015",
+                36,
+                "p1",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 And if the one with the discharge spits on someone who is clean, then he shall wash his clothes and bathe himself in water and be unclean until the evening."
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                37,
+                "p1",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                38,
+                "p1",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "And any saddle on which the one with the discharge rides shall be unclean."
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                "v009_ESV_LEV_015",
+                39,
+                "p1",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 And any saddle on which the one with the discharge rides shall be unclean."
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                40,
+                "p1",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p1",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "And whoever touches anything that was under him shall be unclean until the evening. And whoever carries such things shall wash his clothes and bathe himself in water and be unclean until the evening."
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                "v010_ESV_LEV_015",
+                42,
+                "p1",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 And whoever touches anything that was under him shall be unclean until the evening. And whoever carries such things shall wash his clothes and bathe himself in water and be unclean until the evening."
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                43,
+                "p1",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                44,
+                "p1",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "Anyone whom the one with the discharge touches without having rinsed his hands in water shall wash his clothes and bathe himself in water and be unclean until the evening."
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                "v011_ESV_LEV_015",
+                45,
+                "p1",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 Anyone whom the one with the discharge touches without having rinsed his hands in water shall wash his clothes and bathe himself in water and be unclean until the evening."
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                46,
+                "p1",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                47,
+                "p1",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "And an"
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                48,
+                "p1",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#ch.6:28;11:32,33"
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                49,
+                "p1",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "earthenware vessel that the one with the discharge touches shall be broken, and every vessel of wood shall be rinsed in water."
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                "v012_ESV_LEV_015",
+                50,
+                "p1",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 And an earthenware vessel that the one with the discharge touches shall be broken, and every vessel of wood shall be rinsed in water."
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                51,
+                "p2",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                52,
+                "p2",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "“And when the one with a discharge is cleansed of his discharge, then"
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                53,
+                "p2",
+                "verse",
+                "v13",
+                "note",
+                "x"
+              ],
+              "value": "#ver.28;[ch.14:8]"
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                54,
+                "p2",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "he shall count for himself seven days for his cleansing, and wash his clothes. And he shall bathe his body in fresh water and shall be clean."
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                "v013_ESV_LEV_015",
+                55,
+                "p2",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 “And when the one with a discharge is cleansed of his discharge, then he shall count for himself seven days for his cleansing, and wash his clothes. And he shall bathe his body in fresh water and shall be clean."
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                56,
+                "p2",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                57,
+                "p2",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "And on the eighth day he shall take two"
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                58,
+                "p2",
+                "verse",
+                "v14",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.12:8"
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                59,
+                "p2",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "turtledoves or two pigeons and come before the"
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                60,
+                "p2",
+                "verse",
+                "v14",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                61,
+                "p2",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "to the entrance of the tent of meeting and give them to the priest."
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                "v014_ESV_LEV_015",
+                62,
+                "p2",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 And on the eighth day he shall take two turtledoves or two pigeons and come before the Lord to the entrance of the tent of meeting and give them to the priest."
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                63,
+                "p2",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                64,
+                "p2",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "And the priest shall use them,"
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                65,
+                "p2",
+                "verse",
+                "v15",
+                "note",
+                "x"
+              ],
+              "value": "#ch.14:30,31"
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                66,
+                "p2",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "one for a sin offering and the other for a burnt offering."
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                67,
+                "p2",
+                "verse",
+                "v15",
+                "note",
+                "x"
+              ],
+              "value": "#ver.30;See ch.4:26"
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                68,
+                "p2",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "And the priest shall make atonement for him before the"
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                69,
+                "p2",
+                "verse",
+                "v15",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                70,
+                "p2",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "for his discharge."
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                "v015_ESV_LEV_015",
+                71,
+                "p2",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 And the priest shall use them, one for a sin offering and the other for a burnt offering. And the priest shall make atonement for him before the Lord for his discharge."
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                72,
+                "p3",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                73,
+                "p3",
+                "verse",
+                "v16",
+                "note",
+                "x"
+              ],
+              "value": "#ch.22:4;Deut. 23:10"
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                74,
+                "p3",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "“If a man has an emission of semen, he shall bathe his whole body in water and be unclean until the evening."
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                "v016_ESV_LEV_015",
+                75,
+                "p3",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 “If a man has an emission of semen, he shall bathe his whole body in water and be unclean until the evening."
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                76,
+                "p3",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                77,
+                "p3",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "And every garment and every skin on which the semen comes shall be washed with water and be unclean until the evening."
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                "v017_ESV_LEV_015",
+                78,
+                "p3",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 And every garment and every skin on which the semen comes shall be washed with water and be unclean until the evening."
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                79,
+                "p3",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                80,
+                "p3",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "If a man lies with a woman and has an emission of semen, both of them shall bathe themselves in water and"
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                81,
+                "p3",
+                "verse",
+                "v18",
+                "note",
+                "x"
+              ],
+              "value": "#[1 Sam. 21:4]"
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                82,
+                "p3",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "be unclean until the evening."
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                "v018_ESV_LEV_015",
+                83,
+                "p3",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 If a man lies with a woman and has an emission of semen, both of them shall bathe themselves in water and be unclean until the evening."
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                84,
+                "p4",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                85,
+                "p4",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "“When a woman has a discharge, and the discharge in her body is blood, she shall be in her menstrual impurity for seven days, and whoever touches her shall be unclean until the evening."
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                "v019_ESV_LEV_015",
+                86,
+                "p4",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 “When a woman has a discharge, and the discharge in her body is blood, she shall be in her menstrual impurity for seven days, and whoever touches her shall be unclean until the evening."
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                87,
+                "p4",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                88,
+                "p4",
+                "verse",
+                "v20",
+                "note",
+                "x"
+              ],
+              "value": "#Seever.4-10"
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                89,
+                "p4",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "And everything on which she lies during her menstrual impurity shall be unclean. Everything also on which she sits shall be unclean."
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                "v020_ESV_LEV_015",
+                90,
+                "p4",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 And everything on which she lies during her menstrual impurity shall be unclean. Everything also on which she sits shall be unclean."
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                91,
+                "p4",
+                "verse",
+                "v21",
+                "label"
+              ],
+              "value": "21"
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                92,
+                "p4",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "And whoever touches her bed shall wash his clothes and bathe himself in water and be unclean until the evening."
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                "v021_ESV_LEV_015",
+                93,
+                "p4",
+                "verse",
+                "v21",
+                "plain_text"
+              ],
+              "value": "21 And whoever touches her bed shall wash his clothes and bathe himself in water and be unclean until the evening."
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                94,
+                "p4",
+                "verse",
+                "v22",
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                95,
+                "p4",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "And whoever touches anything on which she sits shall wash his clothes and bathe himself in water and be unclean until the evening."
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                "v022_ESV_LEV_015",
+                96,
+                "p4",
+                "verse",
+                "v22",
+                "plain_text"
+              ],
+              "value": "22 And whoever touches anything on which she sits shall wash his clothes and bathe himself in water and be unclean until the evening."
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                97,
+                "p4",
+                "verse",
+                "v23",
+                "label"
+              ],
+              "value": "23"
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                98,
+                "p4",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "Whether it is the bed or anything on which she sits, when he touches it he shall be unclean until the evening."
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                "v023_ESV_LEV_015",
+                99,
+                "p4",
+                "verse",
+                "v23",
+                "plain_text"
+              ],
+              "value": "23 Whether it is the bed or anything on which she sits, when he touches it he shall be unclean until the evening."
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                100,
+                "p4",
+                "verse",
+                "v24",
+                "label"
+              ],
+              "value": "24"
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                101,
+                "p4",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "And"
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                102,
+                "p4",
+                "verse",
+                "v24",
+                "note",
+                "x"
+              ],
+              "value": "#ch.18:19;[ch.20:18]"
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                103,
+                "p4",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "if any man lies with her and her menstrual impurity comes upon him, he shall be unclean seven days, and every bed on which he lies shall be unclean."
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                "v024_ESV_LEV_015",
+                104,
+                "p4",
+                "verse",
+                "v24",
+                "plain_text"
+              ],
+              "value": "24 And if any man lies with her and her menstrual impurity comes upon him, he shall be unclean seven days, and every bed on which he lies shall be unclean."
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                105,
+                "p5",
+                "verse",
+                "v25",
+                "label"
+              ],
+              "value": "25"
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                106,
+                "p5",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "“If"
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                107,
+                "p5",
+                "verse",
+                "v25",
+                "note",
+                "x"
+              ],
+              "value": "#Matt. 9:20;Mark 5:25;Luke 8:43"
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                108,
+                "p5",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "a woman has a discharge of blood for many days, not at the time of her menstrual impurity, or if she has a discharge beyond the time of her impurity, all the days of the discharge she shall continue in uncleanness. As in the days of her impurity, she shall be unclean."
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                "v025_ESV_LEV_015",
+                109,
+                "p5",
+                "verse",
+                "v25",
+                "plain_text"
+              ],
+              "value": "25 “If a woman has a discharge of blood for many days, not at the time of her menstrual impurity, or if she has a discharge beyond the time of her impurity, all the days of the discharge she shall continue in uncleanness. As in the days of her impurity, she shall be unclean."
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                110,
+                "p5",
+                "verse",
+                "v26",
+                "label"
+              ],
+              "value": "26"
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                111,
+                "p5",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "Every bed on which she lies, all the days of her discharge, shall be to her as the bed of her impurity. And everything on which she sits shall be unclean, as in the uncleanness of her menstrual impurity."
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                "v026_ESV_LEV_015",
+                112,
+                "p5",
+                "verse",
+                "v26",
+                "plain_text"
+              ],
+              "value": "26 Every bed on which she lies, all the days of her discharge, shall be to her as the bed of her impurity. And everything on which she sits shall be unclean, as in the uncleanness of her menstrual impurity."
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                113,
+                "p5",
+                "verse",
+                "v27",
+                "label"
+              ],
+              "value": "27"
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                114,
+                "p5",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "And whoever touches these things shall be unclean, and shall wash his clothes and bathe himself in water and be unclean until the evening."
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                "v027_ESV_LEV_015",
+                115,
+                "p5",
+                "verse",
+                "v27",
+                "plain_text"
+              ],
+              "value": "27 And whoever touches these things shall be unclean, and shall wash his clothes and bathe himself in water and be unclean until the evening."
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                116,
+                "p5",
+                "verse",
+                "v28",
+                "label"
+              ],
+              "value": "28"
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                117,
+                "p5",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "But"
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                118,
+                "p5",
+                "verse",
+                "v28",
+                "note",
+                "x"
+              ],
+              "value": "#For ver.28-30,see ver.13-15"
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                119,
+                "p5",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "if she is cleansed of her discharge, she shall count for herself seven days, and after that she shall be clean."
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                "v028_ESV_LEV_015",
+                120,
+                "p5",
+                "verse",
+                "v28",
+                "plain_text"
+              ],
+              "value": "28 But if she is cleansed of her discharge, she shall count for herself seven days, and after that she shall be clean."
+            },
+            {
+              "rowId": 121,
+              "keyParts": [
+                121,
+                "p5",
+                "verse",
+                "v29",
+                "label"
+              ],
+              "value": "29"
+            },
+            {
+              "rowId": 122,
+              "keyParts": [
+                122,
+                "p5",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "And on the eighth day she shall take two"
+            },
+            {
+              "rowId": 123,
+              "keyParts": [
+                123,
+                "p5",
+                "verse",
+                "v29",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.12:8"
+            },
+            {
+              "rowId": 124,
+              "keyParts": [
+                124,
+                "p5",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "turtledoves or two pigeons and bring them to the priest, to the entrance of the tent of meeting."
+            },
+            {
+              "rowId": 125,
+              "keyParts": [
+                "v029_ESV_LEV_015",
+                125,
+                "p5",
+                "verse",
+                "v29",
+                "plain_text"
+              ],
+              "value": "29 And on the eighth day she shall take two turtledoves or two pigeons and bring them to the priest, to the entrance of the tent of meeting."
+            },
+            {
+              "rowId": 126,
+              "keyParts": [
+                126,
+                "p5",
+                "verse",
+                "v30",
+                "label"
+              ],
+              "value": "30"
+            },
+            {
+              "rowId": 127,
+              "keyParts": [
+                127,
+                "p5",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "And the priest shall use one for a sin offering and the other for a burnt offering. And the priest shall make atonement for her before the"
+            },
+            {
+              "rowId": 128,
+              "keyParts": [
+                128,
+                "p5",
+                "verse",
+                "v30",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 129,
+              "keyParts": [
+                129,
+                "p5",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "for her unclean discharge."
+            },
+            {
+              "rowId": 130,
+              "keyParts": [
+                "v030_ESV_LEV_015",
+                130,
+                "p5",
+                "verse",
+                "v30",
+                "plain_text"
+              ],
+              "value": "30 And the priest shall use one for a sin offering and the other for a burnt offering. And the priest shall make atonement for her before the Lord for her unclean discharge."
+            },
+            {
+              "rowId": 131,
+              "keyParts": [
+                131,
+                "p6",
+                "verse",
+                "v31",
+                "label"
+              ],
+              "value": "31"
+            },
+            {
+              "rowId": 132,
+              "keyParts": [
+                132,
+                "p6",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "“Thus you shall keep the people of Israel separate from their uncleanness, lest they die in their uncleanness by"
+            },
+            {
+              "rowId": 133,
+              "keyParts": [
+                133,
+                "p6",
+                "verse",
+                "v31",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 5:3;19:13,20;Ezek. 5:11;23:38"
+            },
+            {
+              "rowId": 134,
+              "keyParts": [
+                134,
+                "p6",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "defiling my tabernacle that is in their midst.”"
+            },
+            {
+              "rowId": 135,
+              "keyParts": [
+                "v031_ESV_LEV_015",
+                135,
+                "p6",
+                "verse",
+                "v31",
+                "plain_text"
+              ],
+              "value": "31 “Thus you shall keep the people of Israel separate from their uncleanness, lest they die in their uncleanness by defiling my tabernacle that is in their midst.”"
+            },
+            {
+              "rowId": 136,
+              "keyParts": [
+                136,
+                "p7",
+                "verse",
+                "v32",
+                "label"
+              ],
+              "value": "32"
+            },
+            {
+              "rowId": 137,
+              "keyParts": [
+                137,
+                "p7",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "This is the law"
+            },
+            {
+              "rowId": 138,
+              "keyParts": [
+                138,
+                "p7",
+                "verse",
+                "v32",
+                "note",
+                "x"
+              ],
+              "value": "#ver.2"
+            },
+            {
+              "rowId": 139,
+              "keyParts": [
+                139,
+                "p7",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "for him who has a discharge and"
+            },
+            {
+              "rowId": 140,
+              "keyParts": [
+                140,
+                "p7",
+                "verse",
+                "v32",
+                "note",
+                "x"
+              ],
+              "value": "#ver.16"
+            },
+            {
+              "rowId": 141,
+              "keyParts": [
+                141,
+                "p7",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "for him who has an emission of semen, becoming unclean thereby;"
+            },
+            {
+              "rowId": 142,
+              "keyParts": [
+                "v032_ESV_LEV_015",
+                142,
+                "p7",
+                "verse",
+                "v32",
+                "plain_text"
+              ],
+              "value": "32 This is the law for him who has a discharge and for him who has an emission of semen, becoming unclean thereby;"
+            },
+            {
+              "rowId": 143,
+              "keyParts": [
+                143,
+                "p7",
+                "verse",
+                "v33",
+                "label"
+              ],
+              "value": "33"
+            },
+            {
+              "rowId": 144,
+              "keyParts": [
+                144,
+                "p7",
+                "verse",
+                "v33",
+                "note",
+                "x"
+              ],
+              "value": "#ver.19"
+            },
+            {
+              "rowId": 145,
+              "keyParts": [
+                145,
+                "p7",
+                "verse",
+                "v33",
+                "content"
+              ],
+              "value": "also for her who is unwell with her menstrual impurity, that is, for anyone,"
+            },
+            {
+              "rowId": 146,
+              "keyParts": [
+                146,
+                "p7",
+                "verse",
+                "v33",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.32above]"
+            },
+            {
+              "rowId": 147,
+              "keyParts": [
+                147,
+                "p7",
+                "verse",
+                "v33",
+                "content"
+              ],
+              "value": "male or"
+            },
+            {
+              "rowId": 148,
+              "keyParts": [
+                148,
+                "p7",
+                "verse",
+                "v33",
+                "note",
+                "x"
+              ],
+              "value": "#ver.25"
+            },
+            {
+              "rowId": 149,
+              "keyParts": [
+                149,
+                "p7",
+                "verse",
+                "v33",
+                "content"
+              ],
+              "value": "female, who has a discharge, and for the"
+            },
+            {
+              "rowId": 150,
+              "keyParts": [
+                150,
+                "p7",
+                "verse",
+                "v33",
+                "note",
+                "x"
+              ],
+              "value": "#ver.24"
+            },
+            {
+              "rowId": 151,
+              "keyParts": [
+                151,
+                "p7",
+                "verse",
+                "v33",
+                "content"
+              ],
+              "value": "man who lies with a woman who is unclean."
+            },
+            {
+              "rowId": 152,
+              "keyParts": [
+                "v033_ESV_LEV_015",
+                152,
+                "p7",
+                "verse",
+                "v33",
+                "plain_text"
+              ],
+              "value": "33 also for her who is unwell with her menstrual impurity, that is, for anyone, male or female, who has a discharge, and for the man who lies with a woman who is unclean."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

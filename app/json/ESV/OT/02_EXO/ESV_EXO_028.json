@@ -1,0 +1,2382 @@
+{
+  "translationId": "ESV",
+  "name": "English Standard Version",
+  "abbreviation": "ESV",
+  "language": "English",
+  "copyright": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.",
+  "books": [
+    {
+      "bookId": "EXO",
+      "testament": "OT",
+      "order": 2,
+      "title": "Exodus",
+      "abbreviation": "EXO",
+      "chapters": [
+        {
+          "chapter": 28,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "28"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "The Priests’ Garments"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "“Then bring near to you"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 18:7;Heb. 5:4"
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "Aaron your brother, and his sons with him, from among the people of Israel, to serve me as priests—Aaron and Aaron’s sons,"
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                7,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.6:23"
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "Nadab and Abihu, Eleazar and Ithamar."
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                "v001_ESV_EXO_028",
+                9,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 “Then bring near to you Aaron your brother, and his sons with him, from among the people of Israel, to serve me as priests—Aaron and Aaron’s sons, Nadab and Abihu, Eleazar and Ithamar."
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                11,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#ver.40;ch.29:29;31:10;39:1,2;Lev. 8:7,30;Num. 20:26,28;See ch.29:5-9"
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                12,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "And you shall make holy garments for Aaron your brother, for glory and for beauty."
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                "v002_ESV_EXO_028",
+                13,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 And you shall make holy garments for Aaron your brother, for glory and for beauty."
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "p1",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                15,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "You shall speak to all the"
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                16,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#ch.31:6;35:10,25;36:1"
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                17,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "skillful, whom I have filled with a spirit of skill, that they make Aaron’s garments to consecrate him for my priesthood."
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                "v003_ESV_EXO_028",
+                18,
+                "p1",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 You shall speak to all the skillful, whom I have filled with a spirit of skill, that they make Aaron’s garments to consecrate him for my priesthood."
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p1",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                20,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "These are the garments that they shall make: a"
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#ver.15"
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                22,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "breastpiece, an"
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#ver.6"
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                24,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "ephod,"
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#ver.31"
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                26,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "a robe,"
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                27,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#ver.39;[Lev. 8:7]"
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                28,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "a coat of checker work,"
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                29,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#ver.39;[Lev. 8:7]"
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                30,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "a turban, and"
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                31,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#ver.39;[Lev. 8:7]"
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "a sash. They shall make holy garments for Aaron your brother and his sons to serve me as priests."
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                "v004_ESV_EXO_028",
+                33,
+                "p1",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 These are the garments that they shall make: a breastpiece, an ephod, a robe, a coat of checker work, a turban, and a sash. They shall make holy garments for Aaron your brother and his sons to serve me as priests."
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                34,
+                "p1",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                35,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "They shall receive"
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "p1",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#ch.25:3"
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                37,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "gold, blue and purple and scarlet yarns, and fine twined linen."
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                "v005_ESV_EXO_028",
+                38,
+                "p1",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 They shall receive gold, blue and purple and scarlet yarns, and fine twined linen."
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                39,
+                "p2",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                40,
+                "p2",
+                "verse",
+                "v6",
+                "note",
+                "x"
+              ],
+              "value": "#For ver. 6-12, see ch.39:2-7"
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p2",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "“And they shall make the ephod of gold, of blue and purple and scarlet yarns, and of fine twined linen, skillfully worked."
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                "v006_ESV_EXO_028",
+                42,
+                "p2",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 “And they shall make the ephod of gold, of blue and purple and scarlet yarns, and of fine twined linen, skillfully worked."
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                43,
+                "p2",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                44,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "It shall have two shoulder pieces attached to its two edges, so that it may be joined together."
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                "v007_ESV_EXO_028",
+                45,
+                "p2",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 It shall have two shoulder pieces attached to its two edges, so that it may be joined together."
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                46,
+                "p2",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                47,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "And the"
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                48,
+                "p2",
+                "verse",
+                "v8",
+                "note",
+                "x"
+              ],
+              "value": "#ver.27, 28;ch.29:5;39:5;Lev. 8:7"
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                49,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "skillfully woven band on it shall be made like it and be of one piece with it, of gold, blue and purple and scarlet yarns, and fine twined linen."
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                "v008_ESV_EXO_028",
+                50,
+                "p2",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 And the skillfully woven band on it shall be made like it and be of one piece with it, of gold, blue and purple and scarlet yarns, and fine twined linen."
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                51,
+                "p2",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                52,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "You shall take two onyx stones, and engrave on them the names of the sons of Israel,"
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                "v009_ESV_EXO_028",
+                53,
+                "p2",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 You shall take two onyx stones, and engrave on them the names of the sons of Israel,"
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                54,
+                "p2",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                55,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "six of their names on the one stone, and the names of the remaining six on the other stone, in the order of their birth."
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                "v010_ESV_EXO_028",
+                56,
+                "p2",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 six of their names on the one stone, and the names of the remaining six on the other stone, in the order of their birth."
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                57,
+                "p2",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                58,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "As a jeweler engraves signets, so shall you engrave the two stones with the names of the sons of Israel. You shall enclose them in settings of gold filigree."
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                "v011_ESV_EXO_028",
+                59,
+                "p2",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 As a jeweler engraves signets, so shall you engrave the two stones with the names of the sons of Israel. You shall enclose them in settings of gold filigree."
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                60,
+                "p2",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                61,
+                "p2",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "And you shall set the two stones on the shoulder pieces of the ephod, as stones of remembrance for the sons of Israel. And"
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                62,
+                "p2",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#ver.29, 30"
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                63,
+                "p2",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "Aaron shall bear their names before the"
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                64,
+                "p2",
+                "verse",
+                "v12",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                65,
+                "p2",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "on his two shoulders"
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                66,
+                "p2",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#[Num. 16:40;Josh. 4:7;Zech. 6:14]"
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                67,
+                "p2",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "for remembrance."
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                "v012_ESV_EXO_028",
+                68,
+                "p2",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 And you shall set the two stones on the shoulder pieces of the ephod, as stones of remembrance for the sons of Israel. And Aaron shall bear their names before the Lord on his two shoulders for remembrance."
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                69,
+                "p2",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                70,
+                "p2",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "You shall make settings of gold filigree,"
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                "v013_ESV_EXO_028",
+                71,
+                "p2",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 You shall make settings of gold filigree,"
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                72,
+                "p2",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                73,
+                "p2",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "and two chains of pure gold, twisted like cords; and you shall attach the corded chains to the settings."
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                "v014_ESV_EXO_028",
+                74,
+                "p2",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 and two chains of pure gold, twisted like cords; and you shall attach the corded chains to the settings."
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                75,
+                "p3",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                76,
+                "p3",
+                "verse",
+                "v15",
+                "note",
+                "x"
+              ],
+              "value": "#For ver. 15-28, see ch.39:8-21"
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                77,
+                "p3",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "“You shall make a breastpiece of judgment, in skilled work. In the style of the ephod you shall make it—of gold, blue and purple and scarlet yarns, and fine twined linen shall you make it."
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                "v015_ESV_EXO_028",
+                78,
+                "p3",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 “You shall make a breastpiece of judgment, in skilled work. In the style of the ephod you shall make it—of gold, blue and purple and scarlet yarns, and fine twined linen shall you make it."
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                79,
+                "p3",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                80,
+                "p3",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "It shall be square and doubled, a span"
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                81,
+                "p3",
+                "verse",
+                "v16",
+                "note",
+                "f"
+              ],
+              "value": "#28:16Aspanwas about 9 inches or 22 centimeters"
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                82,
+                "p3",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "its length and a span its breadth."
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                "v016_ESV_EXO_028",
+                83,
+                "p3",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 It shall be square and doubled, a span its length and a span its breadth."
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                84,
+                "p3",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                85,
+                "p3",
+                "verse",
+                "v17",
+                "note",
+                "x"
+              ],
+              "value": "#[Ezek. 28:13;Rev. 21:19,20]"
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                86,
+                "p3",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "You shall set in it four rows of stones. A row of sardius,"
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                87,
+                "p3",
+                "verse",
+                "v17",
+                "note",
+                "f"
+              ],
+              "value": "#28:17The identity of some of these stones is uncertain"
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                88,
+                "p3",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "topaz, and carbuncle shall be the first row;"
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                "v017_ESV_EXO_028",
+                89,
+                "p3",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 You shall set in it four rows of stones. A row of sardius, topaz, and carbuncle shall be the first row;"
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                90,
+                "p3",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                91,
+                "p3",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "and the second row an emerald, a sapphire, and a diamond;"
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                "v018_ESV_EXO_028",
+                92,
+                "p3",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 and the second row an emerald, a sapphire, and a diamond;"
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                93,
+                "p3",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                94,
+                "p3",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "and the third row a jacinth, an agate, and an amethyst;"
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                "v019_ESV_EXO_028",
+                95,
+                "p3",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 and the third row a jacinth, an agate, and an amethyst;"
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                96,
+                "p3",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                97,
+                "p3",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "and the fourth row a beryl, an onyx, and a jasper. They shall be set in gold filigree."
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                "v020_ESV_EXO_028",
+                98,
+                "p3",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 and the fourth row a beryl, an onyx, and a jasper. They shall be set in gold filigree."
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                99,
+                "p3",
+                "verse",
+                "v21",
+                "label"
+              ],
+              "value": "21"
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                100,
+                "p3",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "There shall be twelve stones with their names according to the names of the sons of Israel. They shall be like signets, each engraved with its name, for the twelve tribes."
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                "v021_ESV_EXO_028",
+                101,
+                "p3",
+                "verse",
+                "v21",
+                "plain_text"
+              ],
+              "value": "21 There shall be twelve stones with their names according to the names of the sons of Israel. They shall be like signets, each engraved with its name, for the twelve tribes."
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                102,
+                "p3",
+                "verse",
+                "v22",
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                103,
+                "p3",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "You shall make for the breastpiece twisted chains like cords, of pure gold."
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                "v022_ESV_EXO_028",
+                104,
+                "p3",
+                "verse",
+                "v22",
+                "plain_text"
+              ],
+              "value": "22 You shall make for the breastpiece twisted chains like cords, of pure gold."
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                105,
+                "p3",
+                "verse",
+                "v23",
+                "label"
+              ],
+              "value": "23"
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                106,
+                "p3",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "And you shall make for the breastpiece two rings of gold, and put the two rings on the two edges of the breastpiece."
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                "v023_ESV_EXO_028",
+                107,
+                "p3",
+                "verse",
+                "v23",
+                "plain_text"
+              ],
+              "value": "23 And you shall make for the breastpiece two rings of gold, and put the two rings on the two edges of the breastpiece."
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                108,
+                "p3",
+                "verse",
+                "v24",
+                "label"
+              ],
+              "value": "24"
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                109,
+                "p3",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "And you shall put the two cords of gold in the two rings at the edges of the breastpiece."
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                "v024_ESV_EXO_028",
+                110,
+                "p3",
+                "verse",
+                "v24",
+                "plain_text"
+              ],
+              "value": "24 And you shall put the two cords of gold in the two rings at the edges of the breastpiece."
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                111,
+                "p3",
+                "verse",
+                "v25",
+                "label"
+              ],
+              "value": "25"
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                112,
+                "p3",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "The two ends of the two cords you shall attach to the two settings of filigree, and so attach it in front to the shoulder pieces of the ephod."
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                "v025_ESV_EXO_028",
+                113,
+                "p3",
+                "verse",
+                "v25",
+                "plain_text"
+              ],
+              "value": "25 The two ends of the two cords you shall attach to the two settings of filigree, and so attach it in front to the shoulder pieces of the ephod."
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                114,
+                "p3",
+                "verse",
+                "v26",
+                "label"
+              ],
+              "value": "26"
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                115,
+                "p3",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "You shall make two rings of gold, and put them at the two ends of the breastpiece, on its inside edge next to the ephod."
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                "v026_ESV_EXO_028",
+                116,
+                "p3",
+                "verse",
+                "v26",
+                "plain_text"
+              ],
+              "value": "26 You shall make two rings of gold, and put them at the two ends of the breastpiece, on its inside edge next to the ephod."
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                117,
+                "p3",
+                "verse",
+                "v27",
+                "label"
+              ],
+              "value": "27"
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                118,
+                "p3",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "And you shall make two rings of gold, and attach them in front to the lower part of the two shoulder pieces of the ephod, at its seam above the"
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                119,
+                "p3",
+                "verse",
+                "v27",
+                "note",
+                "x"
+              ],
+              "value": "#ver.8"
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                120,
+                "p3",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "skillfully woven band of the ephod."
+            },
+            {
+              "rowId": 121,
+              "keyParts": [
+                "v027_ESV_EXO_028",
+                121,
+                "p3",
+                "verse",
+                "v27",
+                "plain_text"
+              ],
+              "value": "27 And you shall make two rings of gold, and attach them in front to the lower part of the two shoulder pieces of the ephod, at its seam above the skillfully woven band of the ephod."
+            },
+            {
+              "rowId": 122,
+              "keyParts": [
+                122,
+                "p3",
+                "verse",
+                "v28",
+                "label"
+              ],
+              "value": "28"
+            },
+            {
+              "rowId": 123,
+              "keyParts": [
+                123,
+                "p3",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "And they shall bind the breastpiece by its rings to the rings of the ephod with a lace of blue, so that it may lie on the skillfully woven band of the ephod, so that the breastpiece shall not come loose from the ephod."
+            },
+            {
+              "rowId": 124,
+              "keyParts": [
+                "v028_ESV_EXO_028",
+                124,
+                "p3",
+                "verse",
+                "v28",
+                "plain_text"
+              ],
+              "value": "28 And they shall bind the breastpiece by its rings to the rings of the ephod with a lace of blue, so that it may lie on the skillfully woven band of the ephod, so that the breastpiece shall not come loose from the ephod."
+            },
+            {
+              "rowId": 125,
+              "keyParts": [
+                125,
+                "p3",
+                "verse",
+                "v29",
+                "label"
+              ],
+              "value": "29"
+            },
+            {
+              "rowId": 126,
+              "keyParts": [
+                126,
+                "p3",
+                "verse",
+                "v29",
+                "note",
+                "x"
+              ],
+              "value": "#ver.12, 30"
+            },
+            {
+              "rowId": 127,
+              "keyParts": [
+                127,
+                "p3",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "So Aaron shall bear the names of the sons of Israel in the breastpiece of judgment on his heart, when he goes into the Holy Place, to bring them to regular"
+            },
+            {
+              "rowId": 128,
+              "keyParts": [
+                128,
+                "p3",
+                "verse",
+                "v29",
+                "note",
+                "x"
+              ],
+              "value": "#Seever.12"
+            },
+            {
+              "rowId": 129,
+              "keyParts": [
+                129,
+                "p3",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "remembrance before the"
+            },
+            {
+              "rowId": 130,
+              "keyParts": [
+                130,
+                "p3",
+                "verse",
+                "v29",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 131,
+              "keyParts": [
+                131,
+                "p3",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "."
+            },
+            {
+              "rowId": 132,
+              "keyParts": [
+                "v029_ESV_EXO_028",
+                132,
+                "p3",
+                "verse",
+                "v29",
+                "plain_text"
+              ],
+              "value": "29 So Aaron shall bear the names of the sons of Israel in the breastpiece of judgment on his heart, when he goes into the Holy Place, to bring them to regular remembrance before the Lord ."
+            },
+            {
+              "rowId": 133,
+              "keyParts": [
+                133,
+                "p3",
+                "verse",
+                "v30",
+                "label"
+              ],
+              "value": "30"
+            },
+            {
+              "rowId": 134,
+              "keyParts": [
+                134,
+                "p3",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "And in the breastpiece of judgment"
+            },
+            {
+              "rowId": 135,
+              "keyParts": [
+                135,
+                "p3",
+                "verse",
+                "v30",
+                "note",
+                "x"
+              ],
+              "value": "#Lev. 8:8;Num. 27:21;Deut. 33:8;1 Sam. 28:6;Ezra 2:63;Neh. 7:65;[1 Sam. 23:9;30:7,8]"
+            },
+            {
+              "rowId": 136,
+              "keyParts": [
+                136,
+                "p3",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "you shall put the Urim and the Thummim, and they shall be on Aaron’s heart, when he goes in before the"
+            },
+            {
+              "rowId": 137,
+              "keyParts": [
+                137,
+                "p3",
+                "verse",
+                "v30",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 138,
+              "keyParts": [
+                138,
+                "p3",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": ". Thus Aaron shall bear the judgment of the people of Israel on his heart before the"
+            },
+            {
+              "rowId": 139,
+              "keyParts": [
+                139,
+                "p3",
+                "verse",
+                "v30",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 140,
+              "keyParts": [
+                140,
+                "p3",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "regularly."
+            },
+            {
+              "rowId": 141,
+              "keyParts": [
+                "v030_ESV_EXO_028",
+                141,
+                "p3",
+                "verse",
+                "v30",
+                "plain_text"
+              ],
+              "value": "30 And in the breastpiece of judgment you shall put the Urim and the Thummim, and they shall be on Aaron’s heart, when he goes in before the Lord . Thus Aaron shall bear the judgment of the people of Israel on his heart before the Lord regularly."
+            },
+            {
+              "rowId": 142,
+              "keyParts": [
+                142,
+                "p4",
+                "verse",
+                "v31",
+                "label"
+              ],
+              "value": "31"
+            },
+            {
+              "rowId": 143,
+              "keyParts": [
+                143,
+                "p4",
+                "verse",
+                "v31",
+                "note",
+                "x"
+              ],
+              "value": "#For ver. 31-37, see ch.39:22-31"
+            },
+            {
+              "rowId": 144,
+              "keyParts": [
+                144,
+                "p4",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "“You shall make the robe of the ephod all of blue."
+            },
+            {
+              "rowId": 145,
+              "keyParts": [
+                "v031_ESV_EXO_028",
+                145,
+                "p4",
+                "verse",
+                "v31",
+                "plain_text"
+              ],
+              "value": "31 “You shall make the robe of the ephod all of blue."
+            },
+            {
+              "rowId": 146,
+              "keyParts": [
+                146,
+                "p4",
+                "verse",
+                "v32",
+                "label"
+              ],
+              "value": "32"
+            },
+            {
+              "rowId": 147,
+              "keyParts": [
+                147,
+                "p4",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "It shall have an opening for the head in the middle of it, with a woven binding around the opening, like the opening in a garment,"
+            },
+            {
+              "rowId": 148,
+              "keyParts": [
+                148,
+                "p4",
+                "verse",
+                "v32",
+                "note",
+                "f"
+              ],
+              "value": "#28:32The meaning of the Hebrew word is uncertain; possiblycoat of mail"
+            },
+            {
+              "rowId": 149,
+              "keyParts": [
+                149,
+                "p4",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "so that it may not tear."
+            },
+            {
+              "rowId": 150,
+              "keyParts": [
+                "v032_ESV_EXO_028",
+                150,
+                "p4",
+                "verse",
+                "v32",
+                "plain_text"
+              ],
+              "value": "32 It shall have an opening for the head in the middle of it, with a woven binding around the opening, like the opening in a garment, so that it may not tear."
+            },
+            {
+              "rowId": 151,
+              "keyParts": [
+                151,
+                "p4",
+                "verse",
+                "v33",
+                "label"
+              ],
+              "value": "33"
+            },
+            {
+              "rowId": 152,
+              "keyParts": [
+                152,
+                "p4",
+                "verse",
+                "v33",
+                "content"
+              ],
+              "value": "On its hem you shall make pomegranates of blue and purple and scarlet yarns, around its hem, with bells of gold between them,"
+            },
+            {
+              "rowId": 153,
+              "keyParts": [
+                "v033_ESV_EXO_028",
+                153,
+                "p4",
+                "verse",
+                "v33",
+                "plain_text"
+              ],
+              "value": "33 On its hem you shall make pomegranates of blue and purple and scarlet yarns, around its hem, with bells of gold between them,"
+            },
+            {
+              "rowId": 154,
+              "keyParts": [
+                154,
+                "p4",
+                "verse",
+                "v34",
+                "label"
+              ],
+              "value": "34"
+            },
+            {
+              "rowId": 155,
+              "keyParts": [
+                155,
+                "p4",
+                "verse",
+                "v34",
+                "content"
+              ],
+              "value": "a golden bell and a pomegranate, a golden bell and a pomegranate, around the hem of the robe."
+            },
+            {
+              "rowId": 156,
+              "keyParts": [
+                "v034_ESV_EXO_028",
+                156,
+                "p4",
+                "verse",
+                "v34",
+                "plain_text"
+              ],
+              "value": "34 a golden bell and a pomegranate, a golden bell and a pomegranate, around the hem of the robe."
+            },
+            {
+              "rowId": 157,
+              "keyParts": [
+                157,
+                "p4",
+                "verse",
+                "v35",
+                "label"
+              ],
+              "value": "35"
+            },
+            {
+              "rowId": 158,
+              "keyParts": [
+                158,
+                "p4",
+                "verse",
+                "v35",
+                "content"
+              ],
+              "value": "And it shall be on Aaron when he ministers, and its sound shall be heard when he goes into the Holy Place before the"
+            },
+            {
+              "rowId": 159,
+              "keyParts": [
+                159,
+                "p4",
+                "verse",
+                "v35",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 160,
+              "keyParts": [
+                160,
+                "p4",
+                "verse",
+                "v35",
+                "content"
+              ],
+              "value": ", and when he comes out, so that he does not die."
+            },
+            {
+              "rowId": 161,
+              "keyParts": [
+                "v035_ESV_EXO_028",
+                161,
+                "p4",
+                "verse",
+                "v35",
+                "plain_text"
+              ],
+              "value": "35 And it shall be on Aaron when he ministers, and its sound shall be heard when he goes into the Holy Place before the Lord , and when he comes out, so that he does not die."
+            },
+            {
+              "rowId": 162,
+              "keyParts": [
+                162,
+                "p5",
+                "verse",
+                "v36",
+                "label"
+              ],
+              "value": "36"
+            },
+            {
+              "rowId": 163,
+              "keyParts": [
+                163,
+                "p5",
+                "verse",
+                "v36",
+                "content"
+              ],
+              "value": "“You shall make"
+            },
+            {
+              "rowId": 164,
+              "keyParts": [
+                164,
+                "p5",
+                "verse",
+                "v36",
+                "note",
+                "x"
+              ],
+              "value": "#Lev. 8:9"
+            },
+            {
+              "rowId": 165,
+              "keyParts": [
+                165,
+                "p5",
+                "verse",
+                "v36",
+                "content"
+              ],
+              "value": "a plate of pure gold and engrave on it, like the engraving of a signet,"
+            },
+            {
+              "rowId": 166,
+              "keyParts": [
+                166,
+                "p5",
+                "verse",
+                "v36",
+                "note",
+                "x"
+              ],
+              "value": "#Zech. 14:20"
+            },
+            {
+              "rowId": 167,
+              "keyParts": [
+                167,
+                "p5",
+                "verse",
+                "v36",
+                "content"
+              ],
+              "value": "‘Holy to the"
+            },
+            {
+              "rowId": 168,
+              "keyParts": [
+                168,
+                "p5",
+                "verse",
+                "v36",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 169,
+              "keyParts": [
+                169,
+                "p5",
+                "verse",
+                "v36",
+                "content"
+              ],
+              "value": ".’"
+            },
+            {
+              "rowId": 170,
+              "keyParts": [
+                "v036_ESV_EXO_028",
+                170,
+                "p5",
+                "verse",
+                "v36",
+                "plain_text"
+              ],
+              "value": "36 “You shall make a plate of pure gold and engrave on it, like the engraving of a signet, ‘Holy to the Lord .’"
+            },
+            {
+              "rowId": 171,
+              "keyParts": [
+                171,
+                "p5",
+                "verse",
+                "v37",
+                "label"
+              ],
+              "value": "37"
+            },
+            {
+              "rowId": 172,
+              "keyParts": [
+                172,
+                "p5",
+                "verse",
+                "v37",
+                "content"
+              ],
+              "value": "And you shall fasten it on the turban by a cord of blue. It shall be on the front of the turban."
+            },
+            {
+              "rowId": 173,
+              "keyParts": [
+                "v037_ESV_EXO_028",
+                173,
+                "p5",
+                "verse",
+                "v37",
+                "plain_text"
+              ],
+              "value": "37 And you shall fasten it on the turban by a cord of blue. It shall be on the front of the turban."
+            },
+            {
+              "rowId": 174,
+              "keyParts": [
+                174,
+                "p5",
+                "verse",
+                "v38",
+                "label"
+              ],
+              "value": "38"
+            },
+            {
+              "rowId": 175,
+              "keyParts": [
+                175,
+                "p5",
+                "verse",
+                "v38",
+                "content"
+              ],
+              "value": "It shall be on Aaron’s forehead, and Aaron shall"
+            },
+            {
+              "rowId": 176,
+              "keyParts": [
+                176,
+                "p5",
+                "verse",
+                "v38",
+                "note",
+                "x"
+              ],
+              "value": "#Lev. 10:17;Num. 18:1;[Isa. 53:11;Ezek. 4:4-6;John 1:29;Heb. 9:28;1 Pet. 2:24]"
+            },
+            {
+              "rowId": 177,
+              "keyParts": [
+                177,
+                "p5",
+                "verse",
+                "v38",
+                "content"
+              ],
+              "value": "bear any guilt from the holy things that the people of Israel consecrate as their holy gifts. It shall regularly be on his forehead, that they may be accepted before the"
+            },
+            {
+              "rowId": 178,
+              "keyParts": [
+                178,
+                "p5",
+                "verse",
+                "v38",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 179,
+              "keyParts": [
+                179,
+                "p5",
+                "verse",
+                "v38",
+                "content"
+              ],
+              "value": "."
+            },
+            {
+              "rowId": 180,
+              "keyParts": [
+                "v038_ESV_EXO_028",
+                180,
+                "p5",
+                "verse",
+                "v38",
+                "plain_text"
+              ],
+              "value": "38 It shall be on Aaron’s forehead, and Aaron shall bear any guilt from the holy things that the people of Israel consecrate as their holy gifts. It shall regularly be on his forehead, that they may be accepted before the Lord ."
+            },
+            {
+              "rowId": 181,
+              "keyParts": [
+                181,
+                "p6",
+                "verse",
+                "v39",
+                "label"
+              ],
+              "value": "39"
+            },
+            {
+              "rowId": 182,
+              "keyParts": [
+                182,
+                "p6",
+                "verse",
+                "v39",
+                "content"
+              ],
+              "value": "“You shall weave the coat in checker work of fine linen, and you shall make a turban of fine linen, and you shall make a sash embroidered with needlework."
+            },
+            {
+              "rowId": 183,
+              "keyParts": [
+                "v039_ESV_EXO_028",
+                183,
+                "p6",
+                "verse",
+                "v39",
+                "plain_text"
+              ],
+              "value": "39 “You shall weave the coat in checker work of fine linen, and you shall make a turban of fine linen, and you shall make a sash embroidered with needlework."
+            },
+            {
+              "rowId": 184,
+              "keyParts": [
+                184,
+                "p7",
+                "verse",
+                "v40",
+                "label"
+              ],
+              "value": "40"
+            },
+            {
+              "rowId": 185,
+              "keyParts": [
+                185,
+                "p7",
+                "verse",
+                "v40",
+                "note",
+                "x"
+              ],
+              "value": "#ch.39:27-29,41;[Ezek. 44:17,18]"
+            },
+            {
+              "rowId": 186,
+              "keyParts": [
+                186,
+                "p7",
+                "verse",
+                "v40",
+                "content"
+              ],
+              "value": "“For Aaron’s sons you shall make coats and sashes and caps. You shall make them"
+            },
+            {
+              "rowId": 187,
+              "keyParts": [
+                187,
+                "p7",
+                "verse",
+                "v40",
+                "note",
+                "x"
+              ],
+              "value": "#ver.2"
+            },
+            {
+              "rowId": 188,
+              "keyParts": [
+                188,
+                "p7",
+                "verse",
+                "v40",
+                "content"
+              ],
+              "value": "for glory and beauty."
+            },
+            {
+              "rowId": 189,
+              "keyParts": [
+                "v040_ESV_EXO_028",
+                189,
+                "p7",
+                "verse",
+                "v40",
+                "plain_text"
+              ],
+              "value": "40 “For Aaron’s sons you shall make coats and sashes and caps. You shall make them for glory and beauty."
+            },
+            {
+              "rowId": 190,
+              "keyParts": [
+                190,
+                "p7",
+                "verse",
+                "v41",
+                "label"
+              ],
+              "value": "41"
+            },
+            {
+              "rowId": 191,
+              "keyParts": [
+                191,
+                "p7",
+                "verse",
+                "v41",
+                "content"
+              ],
+              "value": "And you shall put them on Aaron your brother, and on his sons with him, and shall"
+            },
+            {
+              "rowId": 192,
+              "keyParts": [
+                192,
+                "p7",
+                "verse",
+                "v41",
+                "note",
+                "x"
+              ],
+              "value": "#ch.29:7;30:30;40:13,15;Lev. 10:7"
+            },
+            {
+              "rowId": 193,
+              "keyParts": [
+                193,
+                "p7",
+                "verse",
+                "v41",
+                "content"
+              ],
+              "value": "anoint them and ordain them and"
+            },
+            {
+              "rowId": 194,
+              "keyParts": [
+                194,
+                "p7",
+                "verse",
+                "v41",
+                "note",
+                "x"
+              ],
+              "value": "#ch.29:9;Heb. 7:28;[Lev. 21:10]"
+            },
+            {
+              "rowId": 195,
+              "keyParts": [
+                195,
+                "p7",
+                "verse",
+                "v41",
+                "content"
+              ],
+              "value": "consecrate them, that they may serve me as priests."
+            },
+            {
+              "rowId": 196,
+              "keyParts": [
+                "v041_ESV_EXO_028",
+                196,
+                "p7",
+                "verse",
+                "v41",
+                "plain_text"
+              ],
+              "value": "41 And you shall put them on Aaron your brother, and on his sons with him, and shall anoint them and ordain them and consecrate them, that they may serve me as priests."
+            },
+            {
+              "rowId": 197,
+              "keyParts": [
+                197,
+                "p7",
+                "verse",
+                "v42",
+                "label"
+              ],
+              "value": "42"
+            },
+            {
+              "rowId": 198,
+              "keyParts": [
+                198,
+                "p7",
+                "verse",
+                "v42",
+                "content"
+              ],
+              "value": "You shall make for them"
+            },
+            {
+              "rowId": 199,
+              "keyParts": [
+                199,
+                "p7",
+                "verse",
+                "v42",
+                "note",
+                "x"
+              ],
+              "value": "#Lev. 6:10;16:4;[Ezek. 44:18]"
+            },
+            {
+              "rowId": 200,
+              "keyParts": [
+                200,
+                "p7",
+                "verse",
+                "v42",
+                "content"
+              ],
+              "value": "linen undergarments to cover their naked flesh. They shall reach from the hips to the thighs;"
+            },
+            {
+              "rowId": 201,
+              "keyParts": [
+                "v042_ESV_EXO_028",
+                201,
+                "p7",
+                "verse",
+                "v42",
+                "plain_text"
+              ],
+              "value": "42 You shall make for them linen undergarments to cover their naked flesh. They shall reach from the hips to the thighs;"
+            },
+            {
+              "rowId": 202,
+              "keyParts": [
+                202,
+                "p7",
+                "verse",
+                "v43",
+                "label"
+              ],
+              "value": "43"
+            },
+            {
+              "rowId": 203,
+              "keyParts": [
+                203,
+                "p7",
+                "verse",
+                "v43",
+                "content"
+              ],
+              "value": "and they shall be on Aaron and on his sons when they go into the tent of meeting or when they come near the altar to minister in the Holy Place, lest they"
+            },
+            {
+              "rowId": 204,
+              "keyParts": [
+                204,
+                "p7",
+                "verse",
+                "v43",
+                "note",
+                "x"
+              ],
+              "value": "#Lev. 5:1,17;20:19"
+            },
+            {
+              "rowId": 205,
+              "keyParts": [
+                205,
+                "p7",
+                "verse",
+                "v43",
+                "content"
+              ],
+              "value": "bear guilt and die."
+            },
+            {
+              "rowId": 206,
+              "keyParts": [
+                206,
+                "p7",
+                "verse",
+                "v43",
+                "note",
+                "x"
+              ],
+              "value": "#ch.27:21"
+            },
+            {
+              "rowId": 207,
+              "keyParts": [
+                207,
+                "p7",
+                "verse",
+                "v43",
+                "content"
+              ],
+              "value": "This shall be a statute forever for him and for his offspring after him."
+            },
+            {
+              "rowId": 208,
+              "keyParts": [
+                "v043_ESV_EXO_028",
+                208,
+                "p7",
+                "verse",
+                "v43",
+                "plain_text"
+              ],
+              "value": "43 and they shall be on Aaron and on his sons when they go into the tent of meeting or when they come near the altar to minister in the Holy Place, lest they bear guilt and die. This shall be a statute forever for him and for his offspring after him."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1250 @@
+{
+  "translationId": "ESV",
+  "name": "English Standard Version",
+  "abbreviation": "ESV",
+  "language": "English",
+  "copyright": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.",
+  "books": [
+    {
+      "bookId": "GEN",
+      "testament": "OT",
+      "order": 1,
+      "title": "Genesis",
+      "abbreviation": "GEN",
+      "chapters": [
+        {
+          "chapter": 12,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "The Call of Abram"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "Now"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#Acts 7:3;Heb. 11:8"
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "the"
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                7,
+                "p1",
+                "verse",
+                "v1",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "said"
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                9,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "f"
+              ],
+              "value": "#12:1Orhad said"
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "to Abram, “Go from your country"
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                11,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "f"
+              ],
+              "value": "#12:1Orland"
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                12,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "and your kindred and your father’s house to the land that I will show you."
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                "v001_ESV_GEN_012",
+                13,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 Now the Lord said to Abram, “Go from your country and your kindred and your father’s house to the land that I will show you."
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                15,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#ch.17:6;18:18;[Gal. 3:14]"
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                16,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "And I will make of you a great nation, and I will bless you and make your name great, so that you will be a blessing."
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                "v002_ESV_GEN_012",
+                17,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 And I will make of you a great nation, and I will bless you and make your name great, so that you will be a blessing."
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "p1",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#ch.27:29;Num. 24:9"
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                20,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "I will bless those who bless you, and him who dishonors you I will curse, and"
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#ch.18:18;22:18;26:4;28:14;Jer. 4:2;Acts 3:25;Gal. 3:16;CitedGal. 3:8"
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                22,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "in you all the families of the earth shall be blessed.”"
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "f"
+              ],
+              "value": "#12:3Orby you all the families of the earth shall bless themselves"
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                "v003_ESV_GEN_012",
+                24,
+                "p1",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 I will bless those who bless you, and him who dishonors you I will curse, and in you all the families of the earth shall be blessed.”"
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "p2",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                26,
+                "p2",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "So Abram went, as the"
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                27,
+                "p2",
+                "verse",
+                "v4",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                28,
+                "p2",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "had told him, and Lot went with him. Abram was seventy-five years old when he departed from"
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                29,
+                "p2",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#ch.11:31"
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                30,
+                "p2",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "Haran."
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                "v004_ESV_GEN_012",
+                31,
+                "p2",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 So Abram went, as the Lord had told him, and Lot went with him. Abram was seventy-five years old when he departed from Haran."
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "p2",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                33,
+                "p2",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "And Abram took Sarai his wife, and Lot his brother’s son, and all their possessions that they had gathered, and the people that they had acquired in Haran, and they set out to go to the land of Canaan. When they came to the land of Canaan,"
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                "v005_ESV_GEN_012",
+                34,
+                "p2",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 And Abram took Sarai his wife, and Lot his brother’s son, and all their possessions that they had gathered, and the people that they had acquired in Haran, and they set out to go to the land of Canaan. When they came to the land of Canaan,"
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                35,
+                "p2",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "p2",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "Abram"
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                37,
+                "p2",
+                "verse",
+                "v6",
+                "note",
+                "x"
+              ],
+              "value": "#[Heb. 11:9]"
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                38,
+                "p2",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "passed through the land to the place at Shechem, to"
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                39,
+                "p2",
+                "verse",
+                "v6",
+                "note",
+                "x"
+              ],
+              "value": "#ch.13:18"
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                40,
+                "p2",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "the oak"
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p2",
+                "verse",
+                "v6",
+                "note",
+                "f"
+              ],
+              "value": "#12:6Orterebinth"
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "p2",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "of"
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                43,
+                "p2",
+                "verse",
+                "v6",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 11:30;Judg. 7:1"
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                44,
+                "p2",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "Moreh. At that time"
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                45,
+                "p2",
+                "verse",
+                "v6",
+                "note",
+                "x"
+              ],
+              "value": "#ch.13:7"
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                46,
+                "p2",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "the Canaanites were in the land."
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                "v006_ESV_GEN_012",
+                47,
+                "p2",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 Abram passed through the land to the place at Shechem, to the oak of Moreh. At that time the Canaanites were in the land."
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                48,
+                "p2",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                49,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "Then the"
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "p2",
+                "verse",
+                "v7",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                51,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "appeared to Abram and said,"
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                52,
+                "p2",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#ch.13:15;17:8;Ex. 33:1;Ps. 105:9-12;[Num. 32:11]; Gal. 3:16"
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                53,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "“To your offspring I will give this land.” So he built there an altar to the"
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                54,
+                "p2",
+                "verse",
+                "v7",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                55,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": ", who had appeared to him."
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                "v007_ESV_GEN_012",
+                56,
+                "p2",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 Then the Lord appeared to Abram and said, “To your offspring I will give this land.” So he built there an altar to the Lord , who had appeared to him."
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                57,
+                "p2",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                58,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "From there he moved to the hill country on the east of"
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                59,
+                "p2",
+                "verse",
+                "v8",
+                "note",
+                "x"
+              ],
+              "value": "#ch.28:19"
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                60,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "Bethel and pitched his tent, with Bethel on the west and Ai on the east. And there he built an altar to the"
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                61,
+                "p2",
+                "verse",
+                "v8",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                62,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "and called upon the name of the"
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                63,
+                "p2",
+                "verse",
+                "v8",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                64,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "."
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                "v008_ESV_GEN_012",
+                65,
+                "p2",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 From there he moved to the hill country on the east of Bethel and pitched his tent, with Bethel on the west and Ai on the east. And there he built an altar to the Lord and called upon the name of the Lord ."
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                66,
+                "p2",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                67,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "And Abram journeyed on, still going toward the Negeb."
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Abram and Sarai in Egypt"
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                "v009_ESV_GEN_012",
+                69,
+                "p2",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 And Abram journeyed on, still going toward the Negeb."
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                70,
+                "p3",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                71,
+                "p3",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "Now"
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                72,
+                "p3",
+                "verse",
+                "v10",
+                "note",
+                "x"
+              ],
+              "value": "#ch.26:1;43:1"
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                73,
+                "p3",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "there was a famine in the land. So Abram went down to Egypt to sojourn there, for the famine was severe in the land."
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                "v010_ESV_GEN_012",
+                74,
+                "p3",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 Now there was a famine in the land. So Abram went down to Egypt to sojourn there, for the famine was severe in the land."
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                75,
+                "p3",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                76,
+                "p3",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "When he was about to enter Egypt, he said to Sarai his wife, “I know that you are a woman beautiful in appearance,"
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                "v011_ESV_GEN_012",
+                77,
+                "p3",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 When he was about to enter Egypt, he said to Sarai his wife, “I know that you are a woman beautiful in appearance,"
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                78,
+                "p3",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                79,
+                "p3",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "and when the Egyptians see you, they will say, ‘This is his wife.’ Then they"
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                80,
+                "p3",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.20:1-18;26:6-11"
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                81,
+                "p3",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "will kill me, but they will let you live."
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                "v012_ESV_GEN_012",
+                82,
+                "p3",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 and when the Egyptians see you, they will say, ‘This is his wife.’ Then they will kill me, but they will let you live."
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                83,
+                "p3",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                84,
+                "p3",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "Say you are my sister, that it may go well with me because of you, and that my life may be spared for your sake.”"
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                "v013_ESV_GEN_012",
+                85,
+                "p3",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 Say you are my sister, that it may go well with me because of you, and that my life may be spared for your sake.”"
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                86,
+                "p3",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                87,
+                "p3",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "When Abram entered Egypt, the Egyptians saw that the woman was very beautiful."
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                "v014_ESV_GEN_012",
+                88,
+                "p3",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 When Abram entered Egypt, the Egyptians saw that the woman was very beautiful."
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                89,
+                "p3",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                90,
+                "p3",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "And when the princes of Pharaoh saw her, they praised her to Pharaoh. And the woman was taken into Pharaoh’s house."
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                "v015_ESV_GEN_012",
+                91,
+                "p3",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 And when the princes of Pharaoh saw her, they praised her to Pharaoh. And the woman was taken into Pharaoh’s house."
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                92,
+                "p3",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                93,
+                "p3",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "And for her sake he dealt well with Abram; and he had sheep, oxen, male donkeys, male servants, female servants, female donkeys, and camels."
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                "v016_ESV_GEN_012",
+                94,
+                "p3",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 And for her sake he dealt well with Abram; and he had sheep, oxen, male donkeys, male servants, female servants, female donkeys, and camels."
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                95,
+                "p4",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                96,
+                "p4",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "But the"
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                97,
+                "p4",
+                "verse",
+                "v17",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                98,
+                "p4",
+                "verse",
+                "v17",
+                "note",
+                "x"
+              ],
+              "value": "#1 Chr. 16:21;Ps. 105:14"
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                99,
+                "p4",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "afflicted Pharaoh and his house with great plagues because of Sarai, Abram’s wife."
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                "v017_ESV_GEN_012",
+                100,
+                "p4",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 But the Lord afflicted Pharaoh and his house with great plagues because of Sarai, Abram’s wife."
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                101,
+                "p4",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                102,
+                "p4",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "So Pharaoh called Abram and said, “What is this you have done to me? Why did you not tell me that she was your wife?"
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                "v018_ESV_GEN_012",
+                103,
+                "p4",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 So Pharaoh called Abram and said, “What is this you have done to me? Why did you not tell me that she was your wife?"
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                104,
+                "p4",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                105,
+                "p4",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "Why did you say, ‘She is my sister,’ so that I took her for my wife? Now then, here is your wife; take her, and go.”"
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                "v019_ESV_GEN_012",
+                106,
+                "p4",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 Why did you say, ‘She is my sister,’ so that I took her for my wife? Now then, here is your wife; take her, and go.”"
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                107,
+                "p4",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                108,
+                "p4",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "And Pharaoh gave men orders concerning him, and they sent him away with his wife and all that he had."
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                "v020_ESV_GEN_012",
+                109,
+                "p4",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 And Pharaoh gave men orders concerning him, and they sent him away with his wife and all that he had."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

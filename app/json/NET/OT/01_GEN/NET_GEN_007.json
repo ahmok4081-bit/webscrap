@@ -1,0 +1,1743 @@
+{
+  "translationId": "NET",
+  "name": "New English Translation",
+  "abbreviation": "NET",
+  "language": "English",
+  "copyright": "1996 - 2007 by Biblical Studies Press, LLC",
+  "books": [
+    {
+      "bookId": "GEN",
+      "testament": "",
+      "order": 0,
+      "title": "Genesis",
+      "abbreviation": "GEN",
+      "chapters": [
+        {
+          "chapter": 7,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                2,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "The"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "said to Noah, “Come into the ark, you and all your household, for I consider you godly among this generation."
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “for you I see [as] godly before me in this generation.” The direct object (“you”) is placed first in the clause to give it prominence. The verb “to see” here signifies God’s evaluative discernment."
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                "v001_NET_GEN_007",
+                7,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 The Lord said to Noah, “Come into the ark, you and all your household, for I consider you godly among this generation."
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                9,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "You must take with you seven"
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "f"
+              ],
+              "value": "tn Or “seven pairs” (cf. NRSV)."
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                11,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "of every kind of clean animal,"
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                12,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "f"
+              ],
+              "value": "sn For a study of the Levitical terminology of “clean” and “unclean,” see L. E. Toombs, IDB 1:643."
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                13,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "the male and its mate,"
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “a male and his female” (also a second time at the end of this verse). The terms used here for male and female animals (אִישׁ, ’ish) and אִשָּׁה, ’ishah) normally refer to humans."
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                15,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "two of every kind of unclean animal, the male and its mate,"
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                "v002_NET_GEN_007",
+                16,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 You must take with you seven of every kind of clean animal, the male and its mate, two of every kind of unclean animal, the male and its mate,"
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                17,
+                "p1",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "and also seven"
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "f"
+              ],
+              "value": "tn Or “seven pairs” (cf. NRSV)."
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                20,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "of every kind of bird in the sky, male and female,"
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "f"
+              ],
+              "value": "tn Here (and in v. 9) the Hebrew text uses the normal generic terms for “male and female” (זָכָר וּנְקֵבָה, zakhar unÿqevah)."
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                22,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "to preserve their offspring"
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “to keep alive offspring.”"
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                24,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "on the face of the earth."
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                "v003_NET_GEN_007",
+                25,
+                "p1",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 and also seven of every kind of bird in the sky, male and female, to preserve their offspring on the face of the earth."
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                26,
+                "p1",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                27,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "For in seven days"
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                28,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “for seven days yet,” meaning “after [or “in”] seven days.”"
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                29,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "I will cause it to rain"
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                30,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "f"
+              ],
+              "value": "tn The Hiphil participle מַמְטִיר (mamtir, “cause to rain”) here expresses the certainty of the act in the imminent future."
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                31,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "on the earth for forty days and forty nights, and I will wipe from the face of the ground every living thing that I have made.”"
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                "v004_NET_GEN_007",
+                32,
+                "p1",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 For in seven days I will cause it to rain on the earth for forty days and forty nights, and I will wipe from the face of the ground every living thing that I have made.”"
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                33,
+                "p2",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                34,
+                "p2",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "And Noah did all"
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                35,
+                "p2",
+                "verse",
+                "v5",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “according to all.”"
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "p2",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "that the"
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                37,
+                "p2",
+                "verse",
+                "v5",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                38,
+                "p2",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "commanded him."
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                "v005_NET_GEN_007",
+                39,
+                "p2",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 And Noah did all that the Lord commanded him."
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                40,
+                "p3",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p3",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "Noah"
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "p3",
+                "verse",
+                "v6",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “Now Noah was.” The disjunctive clause (conjunction + subject + predicate nominative after implied “to be” verb) provides background information. The age of Noah receives prominence."
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                43,
+                "p3",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "was 600 years old when the floodwaters engulfed"
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                44,
+                "p3",
+                "verse",
+                "v6",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and the flood was water upon.” The disjunctive clause (conjunction + subject + verb) is circumstantial/temporal in relation to the preceding clause. The verb הָיָה (hayah) here carries the nuance “to come” (BDB 225 s.v. הָיָה). In this context the phrase “come upon” means “to engulf.”"
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                45,
+                "p3",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "the earth."
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                "v006_NET_GEN_007",
+                46,
+                "p3",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 Noah was 600 years old when the floodwaters engulfed the earth."
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                47,
+                "p3",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                48,
+                "p3",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "Noah entered the ark along with his sons, his wife, and his sons’ wives because"
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                49,
+                "p3",
+                "verse",
+                "v7",
+                "note",
+                "f"
+              ],
+              "value": "tn The preposition מִן (min) is causal here, explaining why Noah and his family entered the ark."
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "p3",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "of the floodwaters."
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                "v007_NET_GEN_007",
+                51,
+                "p3",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 Noah entered the ark along with his sons, his wife, and his sons’ wives because of the floodwaters."
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                52,
+                "p3",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                53,
+                "p3",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "Pairs"
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                54,
+                "p3",
+                "verse",
+                "v8",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “two two” meaning “in twos.”"
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                55,
+                "p3",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "of clean animals, of unclean animals, of birds, and of everything that creeps along the ground,"
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                "v008_NET_GEN_007",
+                56,
+                "p3",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 Pairs of clean animals, of unclean animals, of birds, and of everything that creeps along the ground,"
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                57,
+                "p3",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                58,
+                "p3",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "male and female, came into the ark to Noah,"
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                59,
+                "p3",
+                "verse",
+                "v9",
+                "note",
+                "f"
+              ],
+              "value": "tn The Hebrew text of vv. 8-9a reads, “From the clean animal[s] and from the animal[s] which are not clean and from the bird[s] and everything that creeps on the ground, two two they came to Noah to the ark, male and female.”"
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                60,
+                "p3",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "just as God had commanded him."
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                61,
+                "p3",
+                "verse",
+                "v9",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “Noah”; the pronoun has been used in the translation for stylistic reasons."
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                "v009_NET_GEN_007",
+                62,
+                "p3",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 male and female, came into the ark to Noah, just as God had commanded him."
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                63,
+                "p3",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                64,
+                "p3",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "And after seven days the floodwaters engulfed the earth."
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                65,
+                "p3",
+                "verse",
+                "v10",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “came upon.”"
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                "v010_NET_GEN_007",
+                66,
+                "p3",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 And after seven days the floodwaters engulfed the earth."
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                67,
+                "p4",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                68,
+                "p4",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "In the six hundredth year of Noah’s life, in the second month, on the seventeenth day of the month – on that day all the fountains of the great deep"
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                69,
+                "p4",
+                "verse",
+                "v11",
+                "note",
+                "f"
+              ],
+              "value": "tn The Hebrew term תְּהוֹם (tÿhom, “deep”) refers to the watery deep, the salty ocean – especially the primeval ocean that surrounds and underlies the earth (see Gen 1:2).\nsn The watery deep. The same Hebrew term used to describe the watery deep in Gen 1:2 (תְּהוֹם, tihom) appears here. The text seems to picture here subterranean waters coming from under the earth and contributing to the rapid rise of water. The significance seems to be, among other things, that in this judgment God was returning the world to its earlier condition of being enveloped with water – a judgment involving the reversal of creation. On Gen 7:11 see G. F. Hasel, “The Fountains of the Great Deep,” Origins 1 (1974): 67-72; idem, “The Biblical View of the Extent of the Flood,” Origins 2 (1975): 77-95."
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                70,
+                "p4",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "burst open and the floodgates of the heavens"
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                71,
+                "p4",
+                "verse",
+                "v11",
+                "note",
+                "f"
+              ],
+              "value": "sn On the prescientific view of the sky reflected here, see L. I. J. Stadelmann, The Hebrew Conception of the World (AnBib), 46."
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                72,
+                "p4",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "were opened."
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                "v011_NET_GEN_007",
+                73,
+                "p4",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 In the six hundredth year of Noah’s life, in the second month, on the seventeenth day of the month – on that day all the fountains of the great deep burst open and the floodgates of the heavens were opened."
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                74,
+                "p4",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                75,
+                "p4",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "And the rain fell"
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                76,
+                "p4",
+                "verse",
+                "v12",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “was.”"
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                77,
+                "p4",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "on the earth forty days and forty nights."
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                "v012_NET_GEN_007",
+                78,
+                "p4",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 And the rain fell on the earth forty days and forty nights."
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                79,
+                "p5",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                80,
+                "p5",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "On that very day Noah entered the ark, accompanied by his sons Shem, Ham, and Japheth, along with his wife and his sons’ three wives."
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                81,
+                "p5",
+                "verse",
+                "v13",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “On that very day Noah entered, and Shem and Ham and Japheth, the sons of Noah, and the wife of Noah, and the three wives of his sons with him into the ark.”"
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                "v013_NET_GEN_007",
+                82,
+                "p5",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 On that very day Noah entered the ark, accompanied by his sons Shem, Ham, and Japheth, along with his wife and his sons’ three wives."
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                83,
+                "p5",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                84,
+                "p5",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "They entered,"
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                85,
+                "p5",
+                "verse",
+                "v14",
+                "note",
+                "f"
+              ],
+              "value": "tn The verb “entered” is not in the Hebrew text, but is supplied in the translation for stylistic reasons."
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                86,
+                "p5",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "along with every living creature after its kind, every animal after its kind, every creeping thing that creeps on the earth after its kind, and every bird after its kind, everything with wings."
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                87,
+                "p5",
+                "verse",
+                "v14",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “every bird, every wing.”"
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                "v014_NET_GEN_007",
+                88,
+                "p5",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 They entered, along with every living creature after its kind, every animal after its kind, every creeping thing that creeps on the earth after its kind, and every bird after its kind, everything with wings."
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                89,
+                "p5",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                90,
+                "p5",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "Pairs"
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                91,
+                "p5",
+                "verse",
+                "v15",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “two two” meaning “in twos.”"
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                92,
+                "p5",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "of all creatures"
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                93,
+                "p5",
+                "verse",
+                "v15",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “flesh.”"
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                94,
+                "p5",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "that have the breath of life came into the ark to Noah."
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                "v015_NET_GEN_007",
+                95,
+                "p5",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 Pairs of all creatures that have the breath of life came into the ark to Noah."
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                96,
+                "p5",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                97,
+                "p5",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "Those that entered were male and female,"
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                98,
+                "p5",
+                "verse",
+                "v16",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “Those that went in, male and female from all flesh they went in.”"
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                99,
+                "p5",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "just as God commanded him. Then the"
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                100,
+                "p5",
+                "verse",
+                "v16",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                101,
+                "p5",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "shut him in."
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                "v016_NET_GEN_007",
+                102,
+                "p5",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 Those that entered were male and female, just as God commanded him. Then the Lord shut him in."
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                103,
+                "p6",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                104,
+                "p6",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "The flood engulfed the earth for forty days. As the waters increased, they lifted the ark and raised it above the earth."
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                "v017_NET_GEN_007",
+                105,
+                "p6",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 The flood engulfed the earth for forty days. As the waters increased, they lifted the ark and raised it above the earth."
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                106,
+                "p6",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                107,
+                "p6",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "The waters completely overwhelmed"
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                108,
+                "p6",
+                "verse",
+                "v18",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and the waters were great and multiplied exceedingly.” The first verb in the sequence is וַיִּגְבְּרוּ (vayyigbÿru, from גָּבַר, gavar), meaning “to become great, mighty.” The waters did not merely rise; they “prevailed” over the earth, overwhelming it."
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                109,
+                "p6",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "the earth, and the ark floated"
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                110,
+                "p6",
+                "verse",
+                "v18",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “went.”"
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                111,
+                "p6",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "on the surface of the waters."
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                "v018_NET_GEN_007",
+                112,
+                "p6",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 The waters completely overwhelmed the earth, and the ark floated on the surface of the waters."
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                113,
+                "p6",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                114,
+                "p6",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "The waters completely inundated"
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                115,
+                "p6",
+                "verse",
+                "v19",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and the waters were great exceedingly, exceedingly.” The repetition emphasizes the depth of the waters."
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                116,
+                "p6",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "the earth so that even"
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                117,
+                "p6",
+                "verse",
+                "v19",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and.”"
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                118,
+                "p6",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "all the high mountains under the entire sky were covered."
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                "v019_NET_GEN_007",
+                119,
+                "p6",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 The waters completely inundated the earth so that even all the high mountains under the entire sky were covered."
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                120,
+                "p6",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 121,
+              "keyParts": [
+                121,
+                "p6",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "The waters rose more than twenty feet"
+            },
+            {
+              "rowId": 122,
+              "keyParts": [
+                122,
+                "p6",
+                "verse",
+                "v20",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “rose fifteen cubits.” Since a cubit is considered by most authorities to be about eighteen inches, this would make the depth 22.5 feet. This figure might give the modern reader a false impression of exactness, however, so in the translation the phrase “fifteen cubits” has been rendered “more than twenty feet.”"
+            },
+            {
+              "rowId": 123,
+              "keyParts": [
+                123,
+                "p6",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "above the mountains."
+            },
+            {
+              "rowId": 124,
+              "keyParts": [
+                124,
+                "p6",
+                "verse",
+                "v20",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “the waters prevailed fifteen cubits upward and they covered the mountains.” Obviously, a flood of twenty feet did not cover the mountains; the statement must mean the flood rose about twenty feet above the highest mountain."
+            },
+            {
+              "rowId": 125,
+              "keyParts": [
+                "v020_NET_GEN_007",
+                125,
+                "p6",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 The waters rose more than twenty feet above the mountains."
+            },
+            {
+              "rowId": 126,
+              "keyParts": [
+                126,
+                "p6",
+                "verse",
+                "v21",
+                "label"
+              ],
+              "value": "21"
+            },
+            {
+              "rowId": 127,
+              "keyParts": [
+                127,
+                "p6",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "And all living things"
+            },
+            {
+              "rowId": 128,
+              "keyParts": [
+                128,
+                "p6",
+                "verse",
+                "v21",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “flesh.”"
+            },
+            {
+              "rowId": 129,
+              "keyParts": [
+                129,
+                "p6",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "that moved on the earth died, including the birds, domestic animals, wild animals, all the creatures that swarm over the earth, and all humankind."
+            },
+            {
+              "rowId": 130,
+              "keyParts": [
+                "v021_NET_GEN_007",
+                130,
+                "p6",
+                "verse",
+                "v21",
+                "plain_text"
+              ],
+              "value": "21 And all living things that moved on the earth died, including the birds, domestic animals, wild animals, all the creatures that swarm over the earth, and all humankind."
+            },
+            {
+              "rowId": 131,
+              "keyParts": [
+                131,
+                "p6",
+                "verse",
+                "v22",
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 132,
+              "keyParts": [
+                132,
+                "p6",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "Everything on dry land that had the breath of life"
+            },
+            {
+              "rowId": 133,
+              "keyParts": [
+                133,
+                "p6",
+                "verse",
+                "v22",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “everything which [has] the breath of the spirit of life in its nostrils from all which is in the dry land.”"
+            },
+            {
+              "rowId": 134,
+              "keyParts": [
+                134,
+                "p6",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "in its nostrils died."
+            },
+            {
+              "rowId": 135,
+              "keyParts": [
+                "v022_NET_GEN_007",
+                135,
+                "p6",
+                "verse",
+                "v22",
+                "plain_text"
+              ],
+              "value": "22 Everything on dry land that had the breath of life in its nostrils died."
+            },
+            {
+              "rowId": 136,
+              "keyParts": [
+                136,
+                "p6",
+                "verse",
+                "v23",
+                "label"
+              ],
+              "value": "23"
+            },
+            {
+              "rowId": 137,
+              "keyParts": [
+                137,
+                "p6",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "So the"
+            },
+            {
+              "rowId": 138,
+              "keyParts": [
+                138,
+                "p6",
+                "verse",
+                "v23",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 139,
+              "keyParts": [
+                139,
+                "p6",
+                "verse",
+                "v23",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and he”; the referent (the Lord) has been specified in the translation for clarity."
+            },
+            {
+              "rowId": 140,
+              "keyParts": [
+                140,
+                "p6",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "destroyed"
+            },
+            {
+              "rowId": 141,
+              "keyParts": [
+                141,
+                "p6",
+                "verse",
+                "v23",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “wiped away” (cf. NRSV “blotted out”)."
+            },
+            {
+              "rowId": 142,
+              "keyParts": [
+                142,
+                "p6",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "every living thing that was on the surface of the ground, including people, animals, creatures that creep along the ground, and birds of the sky."
+            },
+            {
+              "rowId": 143,
+              "keyParts": [
+                143,
+                "p6",
+                "verse",
+                "v23",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “from man to animal to creeping thing and to the bird of the sky.”"
+            },
+            {
+              "rowId": 144,
+              "keyParts": [
+                144,
+                "p6",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "They were wiped off the earth. Only Noah and those who were with him in the ark survived."
+            },
+            {
+              "rowId": 145,
+              "keyParts": [
+                145,
+                "p6",
+                "verse",
+                "v23",
+                "note",
+                "f"
+              ],
+              "value": "tn The Hebrew verb שָׁאָר (sha’ar) means “to be left over; to survive” in the Niphal verb stem. It is the word used in later biblical texts for the remnant that escapes judgment. See G. F. Hasel, “Semantic Values of Derivatives of the Hebrew Root só’r,” AUSS 11 (1973): 152-69."
+            },
+            {
+              "rowId": 146,
+              "keyParts": [
+                "v023_NET_GEN_007",
+                146,
+                "p6",
+                "verse",
+                "v23",
+                "plain_text"
+              ],
+              "value": "23 So the Lord destroyed every living thing that was on the surface of the ground, including people, animals, creatures that creep along the ground, and birds of the sky. They were wiped off the earth. Only Noah and those who were with him in the ark survived."
+            },
+            {
+              "rowId": 147,
+              "keyParts": [
+                147,
+                "p6",
+                "verse",
+                "v24",
+                "label"
+              ],
+              "value": "24"
+            },
+            {
+              "rowId": 148,
+              "keyParts": [
+                148,
+                "p6",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "The waters prevailed over"
+            },
+            {
+              "rowId": 149,
+              "keyParts": [
+                149,
+                "p6",
+                "verse",
+                "v24",
+                "note",
+                "f"
+              ],
+              "value": "sn The Hebrew verb translated “prevailed over” suggests that the waters were stronger than the earth. The earth and everything in it were no match for the return of the chaotic deep."
+            },
+            {
+              "rowId": 150,
+              "keyParts": [
+                150,
+                "p6",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "the earth for 150 days."
+            },
+            {
+              "rowId": 151,
+              "keyParts": [
+                "v024_NET_GEN_007",
+                151,
+                "p6",
+                "verse",
+                "v24",
+                "plain_text"
+              ],
+              "value": "24 The waters prevailed over the earth for 150 days."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

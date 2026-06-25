@@ -1,0 +1,2420 @@
+{
+  "translationId": "ESV",
+  "name": "English Standard Version",
+  "abbreviation": "ESV",
+  "language": "English",
+  "copyright": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.",
+  "books": [
+    {
+      "bookId": "EXO",
+      "testament": "OT",
+      "order": 2,
+      "title": "Exodus",
+      "abbreviation": "EXO",
+      "chapters": [
+        {
+          "chapter": 9,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "The Fifth Plague: Egyptian Livestock Die"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "Then the"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "said to Moses,"
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                7,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#ch.8:1,2"
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "“Go in to Pharaoh and say to him, ‘Thus says"
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                9,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.7:16"
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "the"
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                11,
+                "p1",
+                "verse",
+                "v1",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                12,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": ", the God of the Hebrews, “Let my people go, that they may serve me."
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                "v001_ESV_EXO_009",
+                13,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 Then the Lord said to Moses, “Go in to Pharaoh and say to him, ‘Thus says the Lord , the God of the Hebrews, “Let my people go, that they may serve me."
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                15,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "For if you refuse to let them go and still hold them,"
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                "v002_ESV_EXO_009",
+                16,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 For if you refuse to let them go and still hold them,"
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                17,
+                "p1",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "behold,"
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#ch.7:4"
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                20,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "the hand of the"
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p1",
+                "verse",
+                "v3",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                22,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "will fall with a very severe plague upon your livestock that are in the field, the horses, the donkeys, the camels, the herds, and the flocks."
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                "v003_ESV_EXO_009",
+                23,
+                "p1",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 behold, the hand of the Lord will fall with a very severe plague upon your livestock that are in the field, the horses, the donkeys, the camels, the herds, and the flocks."
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                24,
+                "p1",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#ch.8:22;11:7"
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                26,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "But the"
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                27,
+                "p1",
+                "verse",
+                "v4",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                28,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "will make a distinction between the livestock of Israel and the livestock of Egypt, so that nothing of all that belongs to the people of Israel shall die.”’”"
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                "v004_ESV_EXO_009",
+                29,
+                "p1",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 But the Lord will make a distinction between the livestock of Israel and the livestock of Egypt, so that nothing of all that belongs to the people of Israel shall die.”’”"
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                30,
+                "p1",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                31,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "And the"
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "p1",
+                "verse",
+                "v5",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                33,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "set a time, saying, “Tomorrow the"
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                34,
+                "p1",
+                "verse",
+                "v5",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                35,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "will do this thing in the land.”"
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                "v005_ESV_EXO_009",
+                36,
+                "p1",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 And the Lord set a time, saying, “Tomorrow the Lord will do this thing in the land.”"
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                37,
+                "p1",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                38,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "And the next day the"
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                39,
+                "p1",
+                "verse",
+                "v6",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                40,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "did this thing."
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p1",
+                "verse",
+                "v6",
+                "note",
+                "x"
+              ],
+              "value": "#[ver.19]"
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "All the livestock of the Egyptians died, but not one of the livestock of the people of Israel died."
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                "v006_ESV_EXO_009",
+                43,
+                "p1",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 And the next day the Lord did this thing. All the livestock of the Egyptians died, but not one of the livestock of the people of Israel died."
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                44,
+                "p1",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                45,
+                "p1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "And Pharaoh sent, and behold, not one of the livestock of Israel was dead. But"
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                46,
+                "p1",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#ch.7:14"
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                47,
+                "p1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "the heart of Pharaoh was hardened, and he did not let the people go."
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "The Sixth Plague: Boils"
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                "v007_ESV_EXO_009",
+                49,
+                "p1",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 And Pharaoh sent, and behold, not one of the livestock of Israel was dead. But the heart of Pharaoh was hardened, and he did not let the people go."
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "p2",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                51,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "And the"
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                52,
+                "p2",
+                "verse",
+                "v8",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                53,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "said to Moses and Aaron, “Take handfuls of soot from the kiln, and let Moses throw them in the air in the sight of Pharaoh."
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                "v008_ESV_EXO_009",
+                54,
+                "p2",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 And the Lord said to Moses and Aaron, “Take handfuls of soot from the kiln, and let Moses throw them in the air in the sight of Pharaoh."
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                55,
+                "p2",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                56,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "It shall become fine dust over all the land of Egypt, and become"
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                57,
+                "p2",
+                "verse",
+                "v9",
+                "note",
+                "x"
+              ],
+              "value": "#Lev. 13:18;Deut. 28:27;2 Kgs. 20:7;Job 2:7;Isa. 38:21;Rev. 16:2"
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                58,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "boils breaking out in sores on man and beast throughout all the land of Egypt.”"
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                "v009_ESV_EXO_009",
+                59,
+                "p2",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 It shall become fine dust over all the land of Egypt, and become boils breaking out in sores on man and beast throughout all the land of Egypt.”"
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                60,
+                "p2",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                61,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "So they took soot from the kiln and stood before Pharaoh. And Moses threw it in the air, and it became boils breaking out in sores on man and beast."
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                "v010_ESV_EXO_009",
+                62,
+                "p2",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 So they took soot from the kiln and stood before Pharaoh. And Moses threw it in the air, and it became boils breaking out in sores on man and beast."
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                63,
+                "p2",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                64,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "And"
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                65,
+                "p2",
+                "verse",
+                "v11",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.7:11;2 Tim. 3:9"
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                66,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "the magicians could not stand before Moses because of the boils, for the boils came upon the magicians and upon all the Egyptians."
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                "v011_ESV_EXO_009",
+                67,
+                "p2",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 And the magicians could not stand before Moses because of the boils, for the boils came upon the magicians and upon all the Egyptians."
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                68,
+                "p2",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                69,
+                "p2",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.4:21"
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                70,
+                "p2",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "But the"
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                71,
+                "p2",
+                "verse",
+                "v12",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                72,
+                "p2",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "hardened the heart of Pharaoh, and he did not listen to them, as"
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                73,
+                "p2",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#ch.4:21"
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                74,
+                "p2",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "the"
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                75,
+                "p2",
+                "verse",
+                "v12",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                76,
+                "p2",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "had spoken to Moses."
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "The Seventh Plague: Hail"
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                "v012_ESV_EXO_009",
+                78,
+                "p2",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 But the Lord hardened the heart of Pharaoh, and he did not listen to them, as the Lord had spoken to Moses."
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                79,
+                "p3",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                80,
+                "p3",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "Then the"
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                81,
+                "p3",
+                "verse",
+                "v13",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                82,
+                "p3",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "said to Moses,"
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                83,
+                "p3",
+                "verse",
+                "v13",
+                "note",
+                "x"
+              ],
+              "value": "#ch.7:15;8:20"
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                84,
+                "p3",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "“Rise up early in the morning and present yourself before Pharaoh and say to him, ‘Thus says the"
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                85,
+                "p3",
+                "verse",
+                "v13",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                86,
+                "p3",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": ", the God of the Hebrews, “Let my people go, that they may serve me."
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                "v013_ESV_EXO_009",
+                87,
+                "p3",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 Then the Lord said to Moses, “Rise up early in the morning and present yourself before Pharaoh and say to him, ‘Thus says the Lord , the God of the Hebrews, “Let my people go, that they may serve me."
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                88,
+                "p3",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                89,
+                "p3",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "For this time I will send all my plagues on you yourself,"
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                90,
+                "p3",
+                "verse",
+                "v14",
+                "note",
+                "f"
+              ],
+              "value": "#9:14Hebrewon your heart"
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                91,
+                "p3",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "and on your servants and your people, so"
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                92,
+                "p3",
+                "verse",
+                "v14",
+                "note",
+                "x"
+              ],
+              "value": "#ch.8:10"
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                93,
+                "p3",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "that you may know that there is none like me in all the earth."
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                "v014_ESV_EXO_009",
+                94,
+                "p3",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 For this time I will send all my plagues on you yourself, and on your servants and your people, so that you may know that there is none like me in all the earth."
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                95,
+                "p3",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                96,
+                "p3",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "For by now I could have put out my hand and struck you and your people with pestilence, and you would have been cut off from the earth."
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                "v015_ESV_EXO_009",
+                97,
+                "p3",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 For by now I could have put out my hand and struck you and your people with pestilence, and you would have been cut off from the earth."
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                98,
+                "p3",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                99,
+                "p3",
+                "verse",
+                "v16",
+                "note",
+                "x"
+              ],
+              "value": "#CitedRom. 9:17;[ch.10:1,2;11:9;14:17;Prov. 16:4]"
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                100,
+                "p3",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "But for this purpose I have raised you up, to show you my power, so"
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                101,
+                "p3",
+                "verse",
+                "v16",
+                "note",
+                "x"
+              ],
+              "value": "#[Ps. 83:18]; Isa. 63:12"
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                102,
+                "p3",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "that my name may be proclaimed in all the earth."
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                "v016_ESV_EXO_009",
+                103,
+                "p3",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 But for this purpose I have raised you up, to show you my power, so that my name may be proclaimed in all the earth."
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                104,
+                "p3",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                105,
+                "p3",
+                "verse",
+                "v17",
+                "note",
+                "x"
+              ],
+              "value": "#[Neh. 9:10]"
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                106,
+                "p3",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "You are still exalting yourself against my people and will not let them go."
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                "v017_ESV_EXO_009",
+                107,
+                "p3",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 You are still exalting yourself against my people and will not let them go."
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                108,
+                "p3",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                109,
+                "p3",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "Behold, about this time tomorrow I will cause very heavy hail to fall, such as never has been in Egypt from the day it was founded until now."
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                "v018_ESV_EXO_009",
+                110,
+                "p3",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 Behold, about this time tomorrow I will cause very heavy hail to fall, such as never has been in Egypt from the day it was founded until now."
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                111,
+                "p3",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                112,
+                "p3",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "Now therefore send,"
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                113,
+                "p3",
+                "verse",
+                "v19",
+                "note",
+                "x"
+              ],
+              "value": "#[ver.4]"
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                114,
+                "p3",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "get your livestock and all that you have in the field into safe shelter, for every man and beast that is in the field and is not brought home will die when the hail falls on them.”’”"
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                "v019_ESV_EXO_009",
+                115,
+                "p3",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 Now therefore send, get your livestock and all that you have in the field into safe shelter, for every man and beast that is in the field and is not brought home will die when the hail falls on them.”’”"
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                116,
+                "p3",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                117,
+                "p3",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "Then whoever feared the word of the"
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                118,
+                "p3",
+                "verse",
+                "v20",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                119,
+                "p3",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "among the servants of Pharaoh hurried his slaves and his livestock into the houses,"
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                "v020_ESV_EXO_009",
+                120,
+                "p3",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 Then whoever feared the word of the Lord among the servants of Pharaoh hurried his slaves and his livestock into the houses,"
+            },
+            {
+              "rowId": 121,
+              "keyParts": [
+                121,
+                "p3",
+                "verse",
+                "v21",
+                "label"
+              ],
+              "value": "21"
+            },
+            {
+              "rowId": 122,
+              "keyParts": [
+                122,
+                "p3",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "but whoever did not pay attention to the word of the"
+            },
+            {
+              "rowId": 123,
+              "keyParts": [
+                123,
+                "p3",
+                "verse",
+                "v21",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 124,
+              "keyParts": [
+                124,
+                "p3",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "left his slaves and his livestock in the field."
+            },
+            {
+              "rowId": 125,
+              "keyParts": [
+                "v021_ESV_EXO_009",
+                125,
+                "p3",
+                "verse",
+                "v21",
+                "plain_text"
+              ],
+              "value": "21 but whoever did not pay attention to the word of the Lord left his slaves and his livestock in the field."
+            },
+            {
+              "rowId": 126,
+              "keyParts": [
+                126,
+                "p4",
+                "verse",
+                "v22",
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 127,
+              "keyParts": [
+                127,
+                "p4",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "Then the"
+            },
+            {
+              "rowId": 128,
+              "keyParts": [
+                128,
+                "p4",
+                "verse",
+                "v22",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 129,
+              "keyParts": [
+                129,
+                "p4",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "said to Moses, “Stretch out your hand toward heaven, so that there may be"
+            },
+            {
+              "rowId": 130,
+              "keyParts": [
+                130,
+                "p4",
+                "verse",
+                "v22",
+                "note",
+                "x"
+              ],
+              "value": "#Rev. 16:21"
+            },
+            {
+              "rowId": 131,
+              "keyParts": [
+                131,
+                "p4",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "hail in all the land of Egypt, on man and beast and every plant of the field, in the land of Egypt.”"
+            },
+            {
+              "rowId": 132,
+              "keyParts": [
+                "v022_ESV_EXO_009",
+                132,
+                "p4",
+                "verse",
+                "v22",
+                "plain_text"
+              ],
+              "value": "22 Then the Lord said to Moses, “Stretch out your hand toward heaven, so that there may be hail in all the land of Egypt, on man and beast and every plant of the field, in the land of Egypt.”"
+            },
+            {
+              "rowId": 133,
+              "keyParts": [
+                133,
+                "p4",
+                "verse",
+                "v23",
+                "label"
+              ],
+              "value": "23"
+            },
+            {
+              "rowId": 134,
+              "keyParts": [
+                134,
+                "p4",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "Then Moses stretched out his staff toward heaven, and the"
+            },
+            {
+              "rowId": 135,
+              "keyParts": [
+                135,
+                "p4",
+                "verse",
+                "v23",
+                "note",
+                "x"
+              ],
+              "value": "#Ps. 78:47,48;105:32;[Josh. 10:11;1 Sam. 12:17;Ps. 18:13;148:8;Isa. 30:30;Ezek. 38:22;Rev. 8:7]"
+            },
+            {
+              "rowId": 136,
+              "keyParts": [
+                136,
+                "p4",
+                "verse",
+                "v23",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 137,
+              "keyParts": [
+                137,
+                "p4",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "sent thunder and hail, and fire ran down to the earth. And the"
+            },
+            {
+              "rowId": 138,
+              "keyParts": [
+                138,
+                "p4",
+                "verse",
+                "v23",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 139,
+              "keyParts": [
+                139,
+                "p4",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "rained hail upon the land of Egypt."
+            },
+            {
+              "rowId": 140,
+              "keyParts": [
+                "v023_ESV_EXO_009",
+                140,
+                "p4",
+                "verse",
+                "v23",
+                "plain_text"
+              ],
+              "value": "23 Then Moses stretched out his staff toward heaven, and the Lord sent thunder and hail, and fire ran down to the earth. And the Lord rained hail upon the land of Egypt."
+            },
+            {
+              "rowId": 141,
+              "keyParts": [
+                141,
+                "p4",
+                "verse",
+                "v24",
+                "label"
+              ],
+              "value": "24"
+            },
+            {
+              "rowId": 142,
+              "keyParts": [
+                142,
+                "p4",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "There was hail and fire flashing continually in the midst of the hail, very heavy hail, such as had never been in all the land of Egypt since it became a nation."
+            },
+            {
+              "rowId": 143,
+              "keyParts": [
+                "v024_ESV_EXO_009",
+                143,
+                "p4",
+                "verse",
+                "v24",
+                "plain_text"
+              ],
+              "value": "24 There was hail and fire flashing continually in the midst of the hail, very heavy hail, such as had never been in all the land of Egypt since it became a nation."
+            },
+            {
+              "rowId": 144,
+              "keyParts": [
+                144,
+                "p4",
+                "verse",
+                "v25",
+                "label"
+              ],
+              "value": "25"
+            },
+            {
+              "rowId": 145,
+              "keyParts": [
+                145,
+                "p4",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "The hail struck down everything that was in the field in all the land of Egypt, both man and beast. And the hail"
+            },
+            {
+              "rowId": 146,
+              "keyParts": [
+                146,
+                "p4",
+                "verse",
+                "v25",
+                "note",
+                "x"
+              ],
+              "value": "#Ps. 78:47;105:33"
+            },
+            {
+              "rowId": 147,
+              "keyParts": [
+                147,
+                "p4",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "struck down every plant of the field and broke every tree of the field."
+            },
+            {
+              "rowId": 148,
+              "keyParts": [
+                "v025_ESV_EXO_009",
+                148,
+                "p4",
+                "verse",
+                "v25",
+                "plain_text"
+              ],
+              "value": "25 The hail struck down everything that was in the field in all the land of Egypt, both man and beast. And the hail struck down every plant of the field and broke every tree of the field."
+            },
+            {
+              "rowId": 149,
+              "keyParts": [
+                149,
+                "p4",
+                "verse",
+                "v26",
+                "label"
+              ],
+              "value": "26"
+            },
+            {
+              "rowId": 150,
+              "keyParts": [
+                150,
+                "p4",
+                "verse",
+                "v26",
+                "note",
+                "x"
+              ],
+              "value": "#ver.4, 6;ch.8:22;10:23;11:7;12:13;[Isa. 32:18]"
+            },
+            {
+              "rowId": 151,
+              "keyParts": [
+                151,
+                "p4",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "Only in the land of Goshen, where the people of Israel were, was there no hail."
+            },
+            {
+              "rowId": 152,
+              "keyParts": [
+                "v026_ESV_EXO_009",
+                152,
+                "p4",
+                "verse",
+                "v26",
+                "plain_text"
+              ],
+              "value": "26 Only in the land of Goshen, where the people of Israel were, was there no hail."
+            },
+            {
+              "rowId": 153,
+              "keyParts": [
+                153,
+                "p5",
+                "verse",
+                "v27",
+                "label"
+              ],
+              "value": "27"
+            },
+            {
+              "rowId": 154,
+              "keyParts": [
+                154,
+                "p5",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "Then Pharaoh sent and called Moses and Aaron and said to them, “This time"
+            },
+            {
+              "rowId": 155,
+              "keyParts": [
+                155,
+                "p5",
+                "verse",
+                "v27",
+                "note",
+                "x"
+              ],
+              "value": "#ch.10:16"
+            },
+            {
+              "rowId": 156,
+              "keyParts": [
+                156,
+                "p5",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "I have sinned; the"
+            },
+            {
+              "rowId": 157,
+              "keyParts": [
+                157,
+                "p5",
+                "verse",
+                "v27",
+                "note",
+                "x"
+              ],
+              "value": "#2 Chr. 12:6;Ps. 129:4;145:17;Lam. 1:18;Dan. 9:14"
+            },
+            {
+              "rowId": 158,
+              "keyParts": [
+                158,
+                "p5",
+                "verse",
+                "v27",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 159,
+              "keyParts": [
+                159,
+                "p5",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "is in the right, and I and my people are in the wrong."
+            },
+            {
+              "rowId": 160,
+              "keyParts": [
+                "v027_ESV_EXO_009",
+                160,
+                "p5",
+                "verse",
+                "v27",
+                "plain_text"
+              ],
+              "value": "27 Then Pharaoh sent and called Moses and Aaron and said to them, “This time I have sinned; the Lord is in the right, and I and my people are in the wrong."
+            },
+            {
+              "rowId": 161,
+              "keyParts": [
+                161,
+                "p5",
+                "verse",
+                "v28",
+                "label"
+              ],
+              "value": "28"
+            },
+            {
+              "rowId": 162,
+              "keyParts": [
+                162,
+                "p5",
+                "verse",
+                "v28",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.8:8"
+            },
+            {
+              "rowId": 163,
+              "keyParts": [
+                163,
+                "p5",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "Plead with the"
+            },
+            {
+              "rowId": 164,
+              "keyParts": [
+                164,
+                "p5",
+                "verse",
+                "v28",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 165,
+              "keyParts": [
+                165,
+                "p5",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": ", for there has been enough of God’s thunder and hail. I will let you go, and you shall stay no longer.”"
+            },
+            {
+              "rowId": 166,
+              "keyParts": [
+                "v028_ESV_EXO_009",
+                166,
+                "p5",
+                "verse",
+                "v28",
+                "plain_text"
+              ],
+              "value": "28 Plead with the Lord , for there has been enough of God’s thunder and hail. I will let you go, and you shall stay no longer.”"
+            },
+            {
+              "rowId": 167,
+              "keyParts": [
+                167,
+                "p5",
+                "verse",
+                "v29",
+                "label"
+              ],
+              "value": "29"
+            },
+            {
+              "rowId": 168,
+              "keyParts": [
+                168,
+                "p5",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "Moses said to him, “As soon as I have gone out of the city,"
+            },
+            {
+              "rowId": 169,
+              "keyParts": [
+                169,
+                "p5",
+                "verse",
+                "v29",
+                "note",
+                "x"
+              ],
+              "value": "#1 Kgs. 8:22,38;Ps. 143:6;Isa. 1:15"
+            },
+            {
+              "rowId": 170,
+              "keyParts": [
+                170,
+                "p5",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "I will stretch out my hands to the"
+            },
+            {
+              "rowId": 171,
+              "keyParts": [
+                171,
+                "p5",
+                "verse",
+                "v29",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 172,
+              "keyParts": [
+                172,
+                "p5",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": ". The thunder will cease, and there will be no more hail, so that you may know that"
+            },
+            {
+              "rowId": 173,
+              "keyParts": [
+                173,
+                "p5",
+                "verse",
+                "v29",
+                "note",
+                "x"
+              ],
+              "value": "#Ps. 24:1;1 Cor. 10:26;[Deut. 10:14]"
+            },
+            {
+              "rowId": 174,
+              "keyParts": [
+                174,
+                "p5",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "the earth is the"
+            },
+            {
+              "rowId": 175,
+              "keyParts": [
+                175,
+                "p5",
+                "verse",
+                "v29",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 176,
+              "keyParts": [
+                176,
+                "p5",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "’s."
+            },
+            {
+              "rowId": 177,
+              "keyParts": [
+                "v029_ESV_EXO_009",
+                177,
+                "p5",
+                "verse",
+                "v29",
+                "plain_text"
+              ],
+              "value": "29 Moses said to him, “As soon as I have gone out of the city, I will stretch out my hands to the Lord . The thunder will cease, and there will be no more hail, so that you may know that the earth is the Lord ’s."
+            },
+            {
+              "rowId": 178,
+              "keyParts": [
+                178,
+                "p5",
+                "verse",
+                "v30",
+                "label"
+              ],
+              "value": "30"
+            },
+            {
+              "rowId": 179,
+              "keyParts": [
+                179,
+                "p5",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "But as for you and your servants,"
+            },
+            {
+              "rowId": 180,
+              "keyParts": [
+                180,
+                "p5",
+                "verse",
+                "v30",
+                "note",
+                "x"
+              ],
+              "value": "#Isa. 26:10"
+            },
+            {
+              "rowId": 181,
+              "keyParts": [
+                181,
+                "p5",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "I know that you do not yet fear the"
+            },
+            {
+              "rowId": 182,
+              "keyParts": [
+                182,
+                "p5",
+                "verse",
+                "v30",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 183,
+              "keyParts": [
+                183,
+                "p5",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "God.”"
+            },
+            {
+              "rowId": 184,
+              "keyParts": [
+                "v030_ESV_EXO_009",
+                184,
+                "p5",
+                "verse",
+                "v30",
+                "plain_text"
+              ],
+              "value": "30 But as for you and your servants, I know that you do not yet fear the Lord God.”"
+            },
+            {
+              "rowId": 185,
+              "keyParts": [
+                185,
+                "p5",
+                "verse",
+                "v31",
+                "label"
+              ],
+              "value": "31"
+            },
+            {
+              "rowId": 186,
+              "keyParts": [
+                186,
+                "p5",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "(The flax and the barley were struck down, for the barley was in the ear and the flax was in bud."
+            },
+            {
+              "rowId": 187,
+              "keyParts": [
+                "v031_ESV_EXO_009",
+                187,
+                "p5",
+                "verse",
+                "v31",
+                "plain_text"
+              ],
+              "value": "31 (The flax and the barley were struck down, for the barley was in the ear and the flax was in bud."
+            },
+            {
+              "rowId": 188,
+              "keyParts": [
+                188,
+                "p5",
+                "verse",
+                "v32",
+                "label"
+              ],
+              "value": "32"
+            },
+            {
+              "rowId": 189,
+              "keyParts": [
+                189,
+                "p5",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "But the wheat and the emmer"
+            },
+            {
+              "rowId": 190,
+              "keyParts": [
+                190,
+                "p5",
+                "verse",
+                "v32",
+                "note",
+                "f"
+              ],
+              "value": "#9:32A type of wheat"
+            },
+            {
+              "rowId": 191,
+              "keyParts": [
+                191,
+                "p5",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "were not struck down, for they are late in coming up.)"
+            },
+            {
+              "rowId": 192,
+              "keyParts": [
+                "v032_ESV_EXO_009",
+                192,
+                "p5",
+                "verse",
+                "v32",
+                "plain_text"
+              ],
+              "value": "32 But the wheat and the emmer were not struck down, for they are late in coming up.)"
+            },
+            {
+              "rowId": 193,
+              "keyParts": [
+                193,
+                "p5",
+                "verse",
+                "v33",
+                "label"
+              ],
+              "value": "33"
+            },
+            {
+              "rowId": 194,
+              "keyParts": [
+                194,
+                "p5",
+                "verse",
+                "v33",
+                "content"
+              ],
+              "value": "So Moses went out of the city from Pharaoh and"
+            },
+            {
+              "rowId": 195,
+              "keyParts": [
+                195,
+                "p5",
+                "verse",
+                "v33",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.29above]"
+            },
+            {
+              "rowId": 196,
+              "keyParts": [
+                196,
+                "p5",
+                "verse",
+                "v33",
+                "content"
+              ],
+              "value": "stretched out his hands to the"
+            },
+            {
+              "rowId": 197,
+              "keyParts": [
+                197,
+                "p5",
+                "verse",
+                "v33",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 198,
+              "keyParts": [
+                198,
+                "p5",
+                "verse",
+                "v33",
+                "content"
+              ],
+              "value": ", and the thunder and the hail ceased, and the rain no longer poured upon the earth."
+            },
+            {
+              "rowId": 199,
+              "keyParts": [
+                "v033_ESV_EXO_009",
+                199,
+                "p5",
+                "verse",
+                "v33",
+                "plain_text"
+              ],
+              "value": "33 So Moses went out of the city from Pharaoh and stretched out his hands to the Lord , and the thunder and the hail ceased, and the rain no longer poured upon the earth."
+            },
+            {
+              "rowId": 200,
+              "keyParts": [
+                200,
+                "p5",
+                "verse",
+                "v34",
+                "label"
+              ],
+              "value": "34"
+            },
+            {
+              "rowId": 201,
+              "keyParts": [
+                201,
+                "p5",
+                "verse",
+                "v34",
+                "content"
+              ],
+              "value": "But when Pharaoh saw that the rain and the hail and the thunder had ceased, he sinned yet again and"
+            },
+            {
+              "rowId": 202,
+              "keyParts": [
+                202,
+                "p5",
+                "verse",
+                "v34",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.7:14"
+            },
+            {
+              "rowId": 203,
+              "keyParts": [
+                203,
+                "p5",
+                "verse",
+                "v34",
+                "content"
+              ],
+              "value": "hardened his heart,"
+            },
+            {
+              "rowId": 204,
+              "keyParts": [
+                204,
+                "p5",
+                "verse",
+                "v34",
+                "note",
+                "x"
+              ],
+              "value": "#1 Sam. 6:6"
+            },
+            {
+              "rowId": 205,
+              "keyParts": [
+                205,
+                "p5",
+                "verse",
+                "v34",
+                "content"
+              ],
+              "value": "he and his servants."
+            },
+            {
+              "rowId": 206,
+              "keyParts": [
+                "v034_ESV_EXO_009",
+                206,
+                "p5",
+                "verse",
+                "v34",
+                "plain_text"
+              ],
+              "value": "34 But when Pharaoh saw that the rain and the hail and the thunder had ceased, he sinned yet again and hardened his heart, he and his servants."
+            },
+            {
+              "rowId": 207,
+              "keyParts": [
+                207,
+                "p5",
+                "verse",
+                "v35",
+                "label"
+              ],
+              "value": "35"
+            },
+            {
+              "rowId": 208,
+              "keyParts": [
+                208,
+                "p5",
+                "verse",
+                "v35",
+                "content"
+              ],
+              "value": "So"
+            },
+            {
+              "rowId": 209,
+              "keyParts": [
+                209,
+                "p5",
+                "verse",
+                "v35",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.4:21"
+            },
+            {
+              "rowId": 210,
+              "keyParts": [
+                210,
+                "p5",
+                "verse",
+                "v35",
+                "content"
+              ],
+              "value": "the heart of Pharaoh was hardened, and he did not let the people of Israel go, just as the"
+            },
+            {
+              "rowId": 211,
+              "keyParts": [
+                211,
+                "p5",
+                "verse",
+                "v35",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 212,
+              "keyParts": [
+                212,
+                "p5",
+                "verse",
+                "v35",
+                "content"
+              ],
+              "value": "had spoken through Moses."
+            },
+            {
+              "rowId": 213,
+              "keyParts": [
+                "v035_ESV_EXO_009",
+                213,
+                "p5",
+                "verse",
+                "v35",
+                "plain_text"
+              ],
+              "value": "35 So the heart of Pharaoh was hardened, and he did not let the people of Israel go, just as the Lord had spoken through Moses."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

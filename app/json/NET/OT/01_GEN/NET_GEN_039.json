@@ -1,0 +1,2095 @@
+{
+  "translationId": "NET",
+  "name": "New English Translation",
+  "abbreviation": "NET",
+  "language": "English",
+  "copyright": "1996 - 2007 by Biblical Studies Press, LLC",
+  "books": [
+    {
+      "bookId": "GEN",
+      "testament": "",
+      "order": 0,
+      "title": "Genesis",
+      "abbreviation": "GEN",
+      "chapters": [
+        {
+          "chapter": 39,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "39"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Joseph and Potiphar’s Wife"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "Now Joseph had been brought down to Egypt."
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "f"
+              ],
+              "value": "tn The disjunctive clause resumes the earlier narrative pertaining to Joseph by recapitulating the event described in 37:36. The perfect verbal form is given a past perfect translation to restore the sequence of the narrative for the reader."
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "An Egyptian named Potiphar, an official of Pharaoh and the captain of the guard,"
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                7,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "f"
+              ],
+              "value": "sn Captain of the guard. See the note on this phrase in Gen 37:36."
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "purchased him from"
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                9,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “from the hand of.”"
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "the Ishmaelites who had brought him there."
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                "v001_NET_GEN_039",
+                11,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 Now Joseph had been brought down to Egypt. An Egyptian named Potiphar, an official of Pharaoh and the captain of the guard, purchased him from the Ishmaelites who had brought him there."
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                12,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                13,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "The"
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "p1",
+                "verse",
+                "v2",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                15,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "was with Joseph. He was successful"
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                16,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and he was a prosperous man.” This does not mean that Joseph became wealthy, but that he was successful in what he was doing, or making progress in his situation (see 24:21)."
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                17,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "and lived"
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and he was.”"
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "in the household of his Egyptian master."
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                "v002_NET_GEN_039",
+                20,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 The Lord was with Joseph. He was successful and lived in the household of his Egyptian master."
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p1",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                22,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "His master observed that the"
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "p1",
+                "verse",
+                "v3",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                24,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "was with him and that the"
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "p1",
+                "verse",
+                "v3",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                26,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "made everything he was doing successful."
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                27,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "f"
+              ],
+              "value": "tn The Hebrew text adds “in his hand,” a phrase not included in the translation for stylistic reasons."
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                "v003_NET_GEN_039",
+                28,
+                "p1",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 His master observed that the Lord was with him and that the Lord made everything he was doing successful."
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                29,
+                "p1",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                30,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "So Joseph found favor in his sight and became his personal attendant."
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                31,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "f"
+              ],
+              "value": "sn The Hebrew verb translated became his personal attendant refers to higher domestic service, usually along the lines of a personal attendant. Here Joseph is made the household steward, a position well-attested in Egyptian literature."
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "Potiphar appointed Joseph"
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                33,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “him”; the referent (Joseph) has been specified in the translation for clarity."
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                34,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "overseer of his household and put him in charge"
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                35,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “put into his hand.”"
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "of everything he owned."
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                "v004_NET_GEN_039",
+                37,
+                "p1",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 So Joseph found favor in his sight and became his personal attendant. Potiphar appointed Joseph overseer of his household and put him in charge of everything he owned."
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                38,
+                "p1",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                39,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "From the time"
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                40,
+                "p1",
+                "verse",
+                "v5",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and it was from then.”"
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "Potiphar"
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "p1",
+                "verse",
+                "v5",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “he”; the referent (Potiphar) has been specified in the translation for clarity."
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                43,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "appointed him over his household and over all that he owned, the"
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                44,
+                "p1",
+                "verse",
+                "v5",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                45,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "blessed"
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                46,
+                "p1",
+                "verse",
+                "v5",
+                "note",
+                "f"
+              ],
+              "value": "sn The Hebrew word translated blessed carries the idea of enrichment, prosperity, success. It is the way believers describe success at the hand of God. The text illustrates the promise made to Abraham that whoever blesses his descendants will be blessed (Gen 12:1-3)."
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                47,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "the Egyptian’s household for Joseph’s sake. The blessing of the"
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                48,
+                "p1",
+                "verse",
+                "v5",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                49,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "was on everything that he had, both"
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "p1",
+                "verse",
+                "v5",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “in the house and in the field.” The word “both” has been supplied in the translation for stylistic reasons."
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                51,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "in his house and in his fields."
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                52,
+                "p1",
+                "verse",
+                "v5",
+                "note",
+                "f"
+              ],
+              "value": "sn The passage gives us a good picture of Joseph as a young man who was responsible and faithful, both to his master and to his God. This happened within a very short time of his being sold into Egypt. It undermines the view that Joseph was a liar, a tattletale, and an arrogant adolescent."
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                "v005_NET_GEN_039",
+                53,
+                "p1",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 From the time Potiphar appointed him over his household and over all that he owned, the Lord blessed the Egyptian’s household for Joseph’s sake. The blessing of the Lord was on everything that he had, both in his house and in his fields."
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                54,
+                "p1",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                55,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "So Potiphar"
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                56,
+                "p1",
+                "verse",
+                "v6",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “he”; the referent (Potiphar) has been specified in the translation for clarity."
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                57,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "left"
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                58,
+                "p1",
+                "verse",
+                "v6",
+                "note",
+                "f"
+              ],
+              "value": "sn The Hebrew verb translated left indicates he relinquished the care of it to Joseph. This is stronger than what was said earlier. Apparently Potiphar had come to trust Joseph so much that he knew it was in better care with Joseph than with anyone else."
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                59,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "everything he had in Joseph’s care;"
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                60,
+                "p1",
+                "verse",
+                "v6",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “hand.” This is a metonymy for being under the control or care of Joseph."
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                61,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "he gave no thought"
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                62,
+                "p1",
+                "verse",
+                "v6",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “did not know.”"
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                63,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "to anything except the food he ate."
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                64,
+                "p1",
+                "verse",
+                "v6",
+                "note",
+                "f"
+              ],
+              "value": "sn The expression except the food he ate probably refers to Potiphar’s private affairs and should not be limited literally to what he ate."
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                65,
+                "p2",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "Now Joseph was well built and good-looking."
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                66,
+                "p2",
+                "verse",
+                "v6",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “handsome of form and handsome of appearance.” The same Hebrew expressions were used in Gen 29:17 for Rachel."
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                "v006_NET_GEN_039",
+                67,
+                "p1",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 So Potiphar left everything he had in Joseph’s care; he gave no thought to anything except the food he ate. Now Joseph was well built and good-looking."
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                68,
+                "p2",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                69,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "Soon after these things, his master’s wife took notice of"
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                70,
+                "p2",
+                "verse",
+                "v7",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “she lifted up her eyes toward,” an expression that emphasizes her deliberate and careful scrutiny of him."
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                71,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "Joseph and said, “Have sex with me.”"
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                72,
+                "p2",
+                "verse",
+                "v7",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “lie with me.” Here the expression “lie with” is a euphemism for sexual intercourse.\nsn The story of Joseph and Potiphar’s wife has long been connected with the wisdom warnings about the strange woman who tries to seduce the young man with her boldness and directness (see Prov 5-7, especially 7:6-27). This is part of the literary background of the story of Joseph that gives it a wisdom flavor. See G. von Rad, God at Work in Israel, 19-35; and G. W. Coats, “The Joseph Story and Ancient Wisdom: A Reappraisal,” CBQ 35 (1973): 285-97."
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                "v007_NET_GEN_039",
+                73,
+                "p2",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 Soon after these things, his master’s wife took notice of Joseph and said, “Have sex with me.”"
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                74,
+                "p2",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                75,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "But he refused, saying"
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                76,
+                "p2",
+                "verse",
+                "v8",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and he said.”"
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                77,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "to his master’s wife, “Look, my master does not give any thought"
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                78,
+                "p2",
+                "verse",
+                "v8",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “know.”"
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                79,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "to his household with me here,"
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                80,
+                "p2",
+                "verse",
+                "v8",
+                "note",
+                "f"
+              ],
+              "value": "tn The word “here” has been supplied in the translation for stylistic reasons."
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                81,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "and everything that he owns he has put into my care."
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                82,
+                "p2",
+                "verse",
+                "v8",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “hand.” This is a metonymy for being under the control or care of Joseph."
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                "v008_NET_GEN_039",
+                83,
+                "p2",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 But he refused, saying to his master’s wife, “Look, my master does not give any thought to his household with me here, and everything that he owns he has put into my care."
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                84,
+                "p2",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                85,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "There is no one greater in this household than I am. He has withheld nothing from me except you because you are his wife. So how could I do"
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                86,
+                "p2",
+                "verse",
+                "v9",
+                "note",
+                "f"
+              ],
+              "value": "tn The nuance of potential imperfect fits this context."
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                87,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "such a great evil and sin against God?”"
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                "v009_NET_GEN_039",
+                88,
+                "p2",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 There is no one greater in this household than I am. He has withheld nothing from me except you because you are his wife. So how could I do such a great evil and sin against God?”"
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                89,
+                "p2",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                90,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "Even though she continued to speak"
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                91,
+                "p2",
+                "verse",
+                "v10",
+                "note",
+                "f"
+              ],
+              "value": "tn The verse begins with the temporal indicator, followed by the infinitive construct with the preposition כְּ (kÿ). This clause could therefore be taken as temporal."
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                92,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "to Joseph day after day, he did not respond"
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                93,
+                "p2",
+                "verse",
+                "v10",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “listen to.”"
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                94,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "to her invitation to have sex with her."
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                95,
+                "p2",
+                "verse",
+                "v10",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “to lie beside her to be with her.” Here the expression “to lie beside” is a euphemism for sexual intercourse."
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                "v010_NET_GEN_039",
+                96,
+                "p2",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 Even though she continued to speak to Joseph day after day, he did not respond to her invitation to have sex with her."
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                97,
+                "p3",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                98,
+                "p3",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "One day"
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                99,
+                "p3",
+                "verse",
+                "v11",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and it was about this day.”"
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                100,
+                "p3",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "he went into the house to do his work when none of the household servants"
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                101,
+                "p3",
+                "verse",
+                "v11",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “the men of the house.”"
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                102,
+                "p3",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "were there in the house."
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                "v011_NET_GEN_039",
+                103,
+                "p3",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 One day he went into the house to do his work when none of the household servants were there in the house."
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                104,
+                "p3",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                105,
+                "p3",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "She grabbed him by his outer garment, saying, “Have sex with me!” But he left his outer garment in her hand and ran"
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                106,
+                "p3",
+                "verse",
+                "v12",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “he fled and he went out.” The construction emphasizes the point that Joseph got out of there quickly."
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                107,
+                "p3",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "outside."
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                108,
+                "p3",
+                "verse",
+                "v12",
+                "note",
+                "f"
+              ],
+              "value": "sn For discussion of this episode, see A. M. Honeyman, “The Occasion of Joseph’s Temptation,” VT 2 (1952): 85-87."
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                "v012_NET_GEN_039",
+                109,
+                "p3",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 She grabbed him by his outer garment, saying, “Have sex with me!” But he left his outer garment in her hand and ran outside."
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                110,
+                "p3",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                111,
+                "p3",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "When she saw that he had left his outer garment in her hand and had run outside,"
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                "v013_NET_GEN_039",
+                112,
+                "p3",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 When she saw that he had left his outer garment in her hand and had run outside,"
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                113,
+                "p3",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                114,
+                "p3",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "she called for her household servants and said to them, “See, my husband brought"
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                115,
+                "p3",
+                "verse",
+                "v14",
+                "note",
+                "f"
+              ],
+              "value": "tn The verb has no expressed subject, and so it could be treated as a passive (“a Hebrew man was brought in”; cf. NIV). But it is clear from the context that her husband brought Joseph into the household, so Potiphar is the apparent referent here. Thus the translation supplies “my husband” as the referent of the unspecified pronominal subject of the verb (cf. NEB, NRSV)."
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                116,
+                "p3",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "in a Hebrew man"
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                117,
+                "p3",
+                "verse",
+                "v14",
+                "note",
+                "f"
+              ],
+              "value": "sn A Hebrew man. Potiphar’s wife raises the ethnic issue when talking to her servants about what their boss had done."
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                118,
+                "p3",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "to us to humiliate us."
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                119,
+                "p3",
+                "verse",
+                "v14",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “to make fun of us.” The verb translated “to humiliate us” here means to hold something up for ridicule, or to toy with something harmfully. Attempted rape would be such an activity, for it would hold the victim in contempt."
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                120,
+                "p3",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "He tried to have sex with me,"
+            },
+            {
+              "rowId": 121,
+              "keyParts": [
+                121,
+                "p3",
+                "verse",
+                "v14",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “he came to me to lie with me.” Here the expression “lie with” is a euphemism for sexual intercourse."
+            },
+            {
+              "rowId": 122,
+              "keyParts": [
+                122,
+                "p3",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "but I screamed loudly."
+            },
+            {
+              "rowId": 123,
+              "keyParts": [
+                123,
+                "p3",
+                "verse",
+                "v14",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and I cried out with a loud voice.”"
+            },
+            {
+              "rowId": 124,
+              "keyParts": [
+                "v014_NET_GEN_039",
+                124,
+                "p3",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 she called for her household servants and said to them, “See, my husband brought in a Hebrew man to us to humiliate us. He tried to have sex with me, but I screamed loudly."
+            },
+            {
+              "rowId": 125,
+              "keyParts": [
+                125,
+                "p3",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 126,
+              "keyParts": [
+                126,
+                "p3",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "When he heard me raise"
+            },
+            {
+              "rowId": 127,
+              "keyParts": [
+                127,
+                "p3",
+                "verse",
+                "v15",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “that I raised.”"
+            },
+            {
+              "rowId": 128,
+              "keyParts": [
+                128,
+                "p3",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "my voice and scream, he left his outer garment beside me and ran outside.”"
+            },
+            {
+              "rowId": 129,
+              "keyParts": [
+                "v015_NET_GEN_039",
+                129,
+                "p3",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 When he heard me raise my voice and scream, he left his outer garment beside me and ran outside.”"
+            },
+            {
+              "rowId": 130,
+              "keyParts": [
+                130,
+                "p4",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 131,
+              "keyParts": [
+                131,
+                "p4",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "So she laid his outer garment beside her until his master came home."
+            },
+            {
+              "rowId": 132,
+              "keyParts": [
+                "v016_NET_GEN_039",
+                132,
+                "p4",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 So she laid his outer garment beside her until his master came home."
+            },
+            {
+              "rowId": 133,
+              "keyParts": [
+                133,
+                "p4",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 134,
+              "keyParts": [
+                134,
+                "p4",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "This is what she said to him:"
+            },
+            {
+              "rowId": 135,
+              "keyParts": [
+                135,
+                "p4",
+                "verse",
+                "v17",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and she spoke to him according to these words, saying.”"
+            },
+            {
+              "rowId": 136,
+              "keyParts": [
+                136,
+                "p4",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "“That Hebrew slave"
+            },
+            {
+              "rowId": 137,
+              "keyParts": [
+                137,
+                "p4",
+                "verse",
+                "v17",
+                "note",
+                "f"
+              ],
+              "value": "sn That Hebrew slave. Now, when speaking to her husband, Potiphar’s wife refers to Joseph as a Hebrew slave, a very demeaning description."
+            },
+            {
+              "rowId": 138,
+              "keyParts": [
+                138,
+                "p4",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "you brought to us tried to humiliate me,"
+            },
+            {
+              "rowId": 139,
+              "keyParts": [
+                139,
+                "p4",
+                "verse",
+                "v17",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “came to me to make fun of me.” The statement needs no explanation because of the connotations of “came to me” and “to make fun of me.” See the note on the expression “humiliate us” in v. 14."
+            },
+            {
+              "rowId": 140,
+              "keyParts": [
+                "v017_NET_GEN_039",
+                140,
+                "p4",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 This is what she said to him: “That Hebrew slave you brought to us tried to humiliate me,"
+            },
+            {
+              "rowId": 141,
+              "keyParts": [
+                141,
+                "p4",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 142,
+              "keyParts": [
+                142,
+                "p4",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "but when I raised my voice and screamed, he left his outer garment and ran outside.”"
+            },
+            {
+              "rowId": 143,
+              "keyParts": [
+                "v018_NET_GEN_039",
+                143,
+                "p4",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 but when I raised my voice and screamed, he left his outer garment and ran outside.”"
+            },
+            {
+              "rowId": 144,
+              "keyParts": [
+                144,
+                "p5",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 145,
+              "keyParts": [
+                145,
+                "p5",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "When his master heard his wife say,"
+            },
+            {
+              "rowId": 146,
+              "keyParts": [
+                146,
+                "p5",
+                "verse",
+                "v19",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and when his master heard the words of his wife which she spoke to him, saying.”"
+            },
+            {
+              "rowId": 147,
+              "keyParts": [
+                147,
+                "p5",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "“This is the way"
+            },
+            {
+              "rowId": 148,
+              "keyParts": [
+                148,
+                "p5",
+                "verse",
+                "v19",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “according to these words.”"
+            },
+            {
+              "rowId": 149,
+              "keyParts": [
+                149,
+                "p5",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "your slave treated me,”"
+            },
+            {
+              "rowId": 150,
+              "keyParts": [
+                150,
+                "p5",
+                "verse",
+                "v19",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “did to me.”"
+            },
+            {
+              "rowId": 151,
+              "keyParts": [
+                151,
+                "p5",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "he became furious."
+            },
+            {
+              "rowId": 152,
+              "keyParts": [
+                152,
+                "p5",
+                "verse",
+                "v19",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “his anger burned.”"
+            },
+            {
+              "rowId": 153,
+              "keyParts": [
+                "v019_NET_GEN_039",
+                153,
+                "p5",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 When his master heard his wife say, “This is the way your slave treated me,” he became furious."
+            },
+            {
+              "rowId": 154,
+              "keyParts": [
+                154,
+                "p5",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 155,
+              "keyParts": [
+                155,
+                "p5",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "Joseph’s master took him and threw him into the prison,"
+            },
+            {
+              "rowId": 156,
+              "keyParts": [
+                156,
+                "p5",
+                "verse",
+                "v20",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “the house of roundness,” suggesting that the prison might have been a fortress or citadel."
+            },
+            {
+              "rowId": 157,
+              "keyParts": [
+                157,
+                "p5",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "the place where the king’s prisoners were confined. So he was there in the prison."
+            },
+            {
+              "rowId": 158,
+              "keyParts": [
+                158,
+                "p5",
+                "verse",
+                "v20",
+                "note",
+                "f"
+              ],
+              "value": "sn The story of Joseph is filled with cycles and repetition: He has two dreams (chap. 37), he interprets two dreams in prison (chap. 40) and the two dreams of Pharaoh (chap. 41), his brothers make two trips to see him (chaps. 42-43), and here, for the second time (see 37:24), he is imprisoned for no good reason, with only his coat being used as evidence. For further discussion see H. Jacobsen, “A Legal Note on Potiphar’s Wife,” HTR 69 (1976): 177."
+            },
+            {
+              "rowId": 159,
+              "keyParts": [
+                "v020_NET_GEN_039",
+                159,
+                "p5",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 Joseph’s master took him and threw him into the prison, the place where the king’s prisoners were confined. So he was there in the prison."
+            },
+            {
+              "rowId": 160,
+              "keyParts": [
+                160,
+                "p6",
+                "verse",
+                "v21",
+                "label"
+              ],
+              "value": "21"
+            },
+            {
+              "rowId": 161,
+              "keyParts": [
+                161,
+                "p6",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "But the"
+            },
+            {
+              "rowId": 162,
+              "keyParts": [
+                162,
+                "p6",
+                "verse",
+                "v21",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 163,
+              "keyParts": [
+                163,
+                "p6",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "was with Joseph and showed him kindness."
+            },
+            {
+              "rowId": 164,
+              "keyParts": [
+                164,
+                "p6",
+                "verse",
+                "v21",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and he extended to him loyal love.”"
+            },
+            {
+              "rowId": 165,
+              "keyParts": [
+                165,
+                "p6",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "He granted him favor in the sight of the prison warden."
+            },
+            {
+              "rowId": 166,
+              "keyParts": [
+                166,
+                "p6",
+                "verse",
+                "v21",
+                "note",
+                "f"
+              ],
+              "value": "tn Or “the chief jailer” (also in the following verses)."
+            },
+            {
+              "rowId": 167,
+              "keyParts": [
+                "v021_NET_GEN_039",
+                167,
+                "p6",
+                "verse",
+                "v21",
+                "plain_text"
+              ],
+              "value": "21 But the Lord was with Joseph and showed him kindness. He granted him favor in the sight of the prison warden."
+            },
+            {
+              "rowId": 168,
+              "keyParts": [
+                168,
+                "p6",
+                "verse",
+                "v22",
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 169,
+              "keyParts": [
+                169,
+                "p6",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "The warden put all the prisoners under Joseph’s care. He was in charge of whatever they were doing."
+            },
+            {
+              "rowId": 170,
+              "keyParts": [
+                170,
+                "p6",
+                "verse",
+                "v22",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “all which they were doing there, he was doing.” This probably means that Joseph was in charge of everything that went on in the prison."
+            },
+            {
+              "rowId": 171,
+              "keyParts": [
+                "v022_NET_GEN_039",
+                171,
+                "p6",
+                "verse",
+                "v22",
+                "plain_text"
+              ],
+              "value": "22 The warden put all the prisoners under Joseph’s care. He was in charge of whatever they were doing."
+            },
+            {
+              "rowId": 172,
+              "keyParts": [
+                172,
+                "p6",
+                "verse",
+                "v23",
+                "label"
+              ],
+              "value": "23"
+            },
+            {
+              "rowId": 173,
+              "keyParts": [
+                173,
+                "p6",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "The warden did not concern himself"
+            },
+            {
+              "rowId": 174,
+              "keyParts": [
+                174,
+                "p6",
+                "verse",
+                "v23",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “was not looking at anything.”"
+            },
+            {
+              "rowId": 175,
+              "keyParts": [
+                175,
+                "p6",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "with anything that was in Joseph’s"
+            },
+            {
+              "rowId": 176,
+              "keyParts": [
+                176,
+                "p6",
+                "verse",
+                "v23",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “his”; the referent (Joseph) has been specified in the translation for clarity."
+            },
+            {
+              "rowId": 177,
+              "keyParts": [
+                177,
+                "p6",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "care because the"
+            },
+            {
+              "rowId": 178,
+              "keyParts": [
+                178,
+                "p6",
+                "verse",
+                "v23",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 179,
+              "keyParts": [
+                179,
+                "p6",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "was with him and whatever he was doing the"
+            },
+            {
+              "rowId": 180,
+              "keyParts": [
+                180,
+                "p6",
+                "verse",
+                "v23",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 181,
+              "keyParts": [
+                181,
+                "p6",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "was making successful."
+            },
+            {
+              "rowId": 182,
+              "keyParts": [
+                "v023_NET_GEN_039",
+                182,
+                "p6",
+                "verse",
+                "v23",
+                "plain_text"
+              ],
+              "value": "23 The warden did not concern himself with anything that was in Joseph’s care because the Lord was with him and whatever he was doing the Lord was making successful."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

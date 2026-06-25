@@ -1,0 +1,1803 @@
+{
+  "translationId": "ESV",
+  "name": "English Standard Version",
+  "abbreviation": "ESV",
+  "language": "English",
+  "copyright": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.",
+  "books": [
+    {
+      "bookId": "EXO",
+      "testament": "OT",
+      "order": 2,
+      "title": "Exodus",
+      "abbreviation": "EXO",
+      "chapters": [
+        {
+          "chapter": 18,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Jethro’s Advice"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#[ch.2:18]"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "Jethro,"
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#ver.12;ch.2:16"
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                7,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "the priest of Midian, Moses’ father-in-law, heard of all that God had done for Moses and for Israel his people, how the"
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v1",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                9,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "had brought Israel out of Egypt."
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                "v001_ESV_EXO_018",
+                10,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 Jethro, the priest of Midian, Moses’ father-in-law, heard of all that God had done for Moses and for Israel his people, how the Lord had brought Israel out of Egypt."
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                11,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                12,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "Now Jethro, Moses’ father-in-law, had taken Zipporah, Moses’ wife, after he had sent her home,"
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                "v002_ESV_EXO_018",
+                13,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 Now Jethro, Moses’ father-in-law, had taken Zipporah, Moses’ wife, after he had sent her home,"
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "p1",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                15,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "along with her"
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                16,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#ch.4:20;Acts 7:29"
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                17,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "two sons. The name of the one was Gershom ("
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#ch.2:22"
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "for he said,"
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                20,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#Ps. 39:12;Heb. 11:13"
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "“I have been a sojourner"
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                22,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "f"
+              ],
+              "value": "#18:3Gershomsounds like the Hebrew forsojourner"
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "in a foreign land”),"
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                "v003_ESV_EXO_018",
+                24,
+                "p1",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 along with her two sons. The name of the one was Gershom ( for he said, “I have been a sojourner in a foreign land”),"
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "p1",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                26,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "and the name of the other, Eliezer"
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                27,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "f"
+              ],
+              "value": "#18:4EliezermeansMy God is help"
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                28,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "(for he said, “The God of my father was my help, and delivered me from the sword of Pharaoh”)."
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                "v004_ESV_EXO_018",
+                29,
+                "p1",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 and the name of the other, Eliezer (for he said, “The God of my father was my help, and delivered me from the sword of Pharaoh”)."
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                30,
+                "p1",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                31,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "Jethro, Moses’ father-in-law, came with his sons and his wife to Moses in the wilderness where he was encamped at the"
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "p1",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.3:1"
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                33,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "mountain of God."
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                "v005_ESV_EXO_018",
+                34,
+                "p1",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 Jethro, Moses’ father-in-law, came with his sons and his wife to Moses in the wilderness where he was encamped at the mountain of God."
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                35,
+                "p1",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "And when he sent word to Moses, “I,"
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                37,
+                "p1",
+                "verse",
+                "v6",
+                "note",
+                "f"
+              ],
+              "value": "#18:6Hebrew; Samaritan, Septuagint, Syriacbehold"
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                38,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "your father-in-law Jethro, am coming to you with your wife and her two sons with her,”"
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                "v006_ESV_EXO_018",
+                39,
+                "p1",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 And when he sent word to Moses, “I, your father-in-law Jethro, am coming to you with your wife and her two sons with her,”"
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                40,
+                "p1",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "Moses"
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "p1",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#Gen. 14:17;18:2;19:1;1 Kgs. 2:19"
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                43,
+                "p1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "went out to meet his father-in-law and bowed down and"
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                44,
+                "p1",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#[Gen. 29:13;33:4]; 2 Sam. 19:39"
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                45,
+                "p1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "kissed him. And they asked each other of their welfare and went into the tent."
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                "v007_ESV_EXO_018",
+                46,
+                "p1",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 Moses went out to meet his father-in-law and bowed down and kissed him. And they asked each other of their welfare and went into the tent."
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                47,
+                "p1",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                48,
+                "p1",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "Then Moses told his father-in-law"
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                49,
+                "p1",
+                "verse",
+                "v8",
+                "note",
+                "x"
+              ],
+              "value": "#SeeNeh. 9:9-15;Ps. 78:12-28,42-53;106:7-12"
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "p1",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "all that the"
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                51,
+                "p1",
+                "verse",
+                "v8",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                52,
+                "p1",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "had done to Pharaoh and to the Egyptians for Israel’s sake, all the hardship that had come upon them in the way, and how the"
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                53,
+                "p1",
+                "verse",
+                "v8",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                54,
+                "p1",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "had delivered them."
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                "v008_ESV_EXO_018",
+                55,
+                "p1",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 Then Moses told his father-in-law all that the Lord had done to Pharaoh and to the Egyptians for Israel’s sake, all the hardship that had come upon them in the way, and how the Lord had delivered them."
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                56,
+                "p1",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                57,
+                "p1",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "And Jethro rejoiced for all the good that the"
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                58,
+                "p1",
+                "verse",
+                "v9",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                59,
+                "p1",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "had done to Israel, in that he had delivered them out of the hand of the Egyptians."
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                "v009_ESV_EXO_018",
+                60,
+                "p1",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 And Jethro rejoiced for all the good that the Lord had done to Israel, in that he had delivered them out of the hand of the Egyptians."
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                61,
+                "p2",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                62,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "Jethro said,"
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                63,
+                "p2",
+                "verse",
+                "v10",
+                "note",
+                "x"
+              ],
+              "value": "#Gen. 14:20;2 Sam. 18:28;Luke 1:68"
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                64,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "“Blessed be the"
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                65,
+                "p2",
+                "verse",
+                "v10",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                66,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": ", who has delivered you out of the hand of the Egyptians and out of the hand of Pharaoh and has delivered the people from under the hand of the Egyptians."
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                "v010_ESV_EXO_018",
+                67,
+                "p2",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 Jethro said, “Blessed be the Lord , who has delivered you out of the hand of the Egyptians and out of the hand of Pharaoh and has delivered the people from under the hand of the Egyptians."
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                68,
+                "p2",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                69,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "Now I know that"
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                70,
+                "p2",
+                "verse",
+                "v11",
+                "note",
+                "x"
+              ],
+              "value": "#1 Chr. 16:25;2 Chr. 2:5;Ps. 95:3;97:9;135:5"
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                71,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "the"
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                72,
+                "p2",
+                "verse",
+                "v11",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                73,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "is greater than all gods, because in this affair they"
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                74,
+                "p2",
+                "verse",
+                "v11",
+                "note",
+                "x"
+              ],
+              "value": "#Neh. 9:10;[Ps. 119:21;Dan. 4:37;Luke 1:51]"
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                75,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "dealt arrogantly with the people.”"
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                76,
+                "p2",
+                "verse",
+                "v11",
+                "note",
+                "f"
+              ],
+              "value": "#18:11Hebrewwith them"
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                "v011_ESV_EXO_018",
+                77,
+                "p2",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 Now I know that the Lord is greater than all gods, because in this affair they dealt arrogantly with the people.”"
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                78,
+                "p2",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                79,
+                "p2",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "And Jethro, Moses’ father-in-law, brought a burnt offering and sacrifices to God; and Aaron came with all the elders of Israel to eat bread with Moses’ father-in-law"
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                80,
+                "p2",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 12:7;14:26;1 Chr. 29:22;[ch.24:11;Gen. 31:54]"
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                81,
+                "p2",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "before God."
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                "v012_ESV_EXO_018",
+                82,
+                "p2",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 And Jethro, Moses’ father-in-law, brought a burnt offering and sacrifices to God; and Aaron came with all the elders of Israel to eat bread with Moses’ father-in-law before God."
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                83,
+                "p3",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                84,
+                "p3",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "The next day Moses sat to judge the people, and the people stood around Moses from morning till evening."
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                "v013_ESV_EXO_018",
+                85,
+                "p3",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 The next day Moses sat to judge the people, and the people stood around Moses from morning till evening."
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                86,
+                "p3",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                87,
+                "p3",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "When Moses’ father-in-law saw all that he was doing for the people, he said, “What is this that you are doing for the people? Why do you sit alone, and all the people stand around you from morning till evening?”"
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                "v014_ESV_EXO_018",
+                88,
+                "p3",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 When Moses’ father-in-law saw all that he was doing for the people, he said, “What is this that you are doing for the people? Why do you sit alone, and all the people stand around you from morning till evening?”"
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                89,
+                "p3",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                90,
+                "p3",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "And Moses said to his father-in-law, “Because"
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                91,
+                "p3",
+                "verse",
+                "v15",
+                "note",
+                "x"
+              ],
+              "value": "#[Lev. 24:12;Num. 15:34]"
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                92,
+                "p3",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "the people come to me to inquire of God;"
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                "v015_ESV_EXO_018",
+                93,
+                "p3",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 And Moses said to his father-in-law, “Because the people come to me to inquire of God;"
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                94,
+                "p3",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                95,
+                "p3",
+                "verse",
+                "v16",
+                "note",
+                "x"
+              ],
+              "value": "#ch.24:14;Deut. 17:8;[2 Sam. 15:2,3;1 Cor. 6:1]"
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                96,
+                "p3",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "when they have a dispute, they come to me and I decide between one person and another, and I"
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                97,
+                "p3",
+                "verse",
+                "v16",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 4:5;5:1"
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                98,
+                "p3",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "make them know the statutes of God and his laws.”"
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                "v016_ESV_EXO_018",
+                99,
+                "p3",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 when they have a dispute, they come to me and I decide between one person and another, and I make them know the statutes of God and his laws.”"
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                100,
+                "p3",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                101,
+                "p3",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "Moses’ father-in-law said to him, “What you are doing is not good."
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                "v017_ESV_EXO_018",
+                102,
+                "p3",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 Moses’ father-in-law said to him, “What you are doing is not good."
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                103,
+                "p3",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                104,
+                "p3",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "You and the people with you will certainly wear yourselves out, for the thing is too heavy for you."
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                105,
+                "p3",
+                "verse",
+                "v18",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 11:14,17;Deut. 1:9,12"
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                106,
+                "p3",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "You are not able to do it alone."
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                "v018_ESV_EXO_018",
+                107,
+                "p3",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 You and the people with you will certainly wear yourselves out, for the thing is too heavy for you. You are not able to do it alone."
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                108,
+                "p3",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                109,
+                "p3",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "Now obey my voice; I will give you advice, and God be with you! You shall"
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                110,
+                "p3",
+                "verse",
+                "v19",
+                "note",
+                "x"
+              ],
+              "value": "#ch.4:16;[ch.20:19;Deut. 5:5]"
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                111,
+                "p3",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "represent the people before God and"
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                112,
+                "p3",
+                "verse",
+                "v19",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 27:5"
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                113,
+                "p3",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "bring their cases to God,"
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                "v019_ESV_EXO_018",
+                114,
+                "p3",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 Now obey my voice; I will give you advice, and God be with you! You shall represent the people before God and bring their cases to God,"
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                115,
+                "p3",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                116,
+                "p3",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "and you shall warn them about the statutes and the laws, and make them know"
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                117,
+                "p3",
+                "verse",
+                "v20",
+                "note",
+                "x"
+              ],
+              "value": "#Ps. 143:8"
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                118,
+                "p3",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "the way in which they must walk and"
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                119,
+                "p3",
+                "verse",
+                "v20",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 1:18"
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                120,
+                "p3",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "what they must do."
+            },
+            {
+              "rowId": 121,
+              "keyParts": [
+                "v020_ESV_EXO_018",
+                121,
+                "p3",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 and you shall warn them about the statutes and the laws, and make them know the way in which they must walk and what they must do."
+            },
+            {
+              "rowId": 122,
+              "keyParts": [
+                122,
+                "p3",
+                "verse",
+                "v21",
+                "label"
+              ],
+              "value": "21"
+            },
+            {
+              "rowId": 123,
+              "keyParts": [
+                123,
+                "p3",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "Moreover, look for"
+            },
+            {
+              "rowId": 124,
+              "keyParts": [
+                124,
+                "p3",
+                "verse",
+                "v21",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 1:15;16:18;See2 Chr. 19:5-10;[Acts 6:3]"
+            },
+            {
+              "rowId": 125,
+              "keyParts": [
+                125,
+                "p3",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "able men from all the people, men who fear God, who are trustworthy and hate a bribe, and place such men over the people as chiefs of thousands, of hundreds, of fifties, and of tens."
+            },
+            {
+              "rowId": 126,
+              "keyParts": [
+                "v021_ESV_EXO_018",
+                126,
+                "p3",
+                "verse",
+                "v21",
+                "plain_text"
+              ],
+              "value": "21 Moreover, look for able men from all the people, men who fear God, who are trustworthy and hate a bribe, and place such men over the people as chiefs of thousands, of hundreds, of fifties, and of tens."
+            },
+            {
+              "rowId": 127,
+              "keyParts": [
+                127,
+                "p3",
+                "verse",
+                "v22",
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 128,
+              "keyParts": [
+                128,
+                "p3",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "And"
+            },
+            {
+              "rowId": 129,
+              "keyParts": [
+                129,
+                "p3",
+                "verse",
+                "v22",
+                "note",
+                "x"
+              ],
+              "value": "#ver.26"
+            },
+            {
+              "rowId": 130,
+              "keyParts": [
+                130,
+                "p3",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "let them judge the people at all times."
+            },
+            {
+              "rowId": 131,
+              "keyParts": [
+                131,
+                "p3",
+                "verse",
+                "v22",
+                "note",
+                "x"
+              ],
+              "value": "#Lev. 24:11;Num. 15:33;27:2;36:1;Deut. 1:17;17:8"
+            },
+            {
+              "rowId": 132,
+              "keyParts": [
+                132,
+                "p3",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "Every great matter they shall bring to you, but any small matter they shall decide themselves. So it will be easier for you, and they will"
+            },
+            {
+              "rowId": 133,
+              "keyParts": [
+                133,
+                "p3",
+                "verse",
+                "v22",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 11:17"
+            },
+            {
+              "rowId": 134,
+              "keyParts": [
+                134,
+                "p3",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "bear the burden with you."
+            },
+            {
+              "rowId": 135,
+              "keyParts": [
+                "v022_ESV_EXO_018",
+                135,
+                "p3",
+                "verse",
+                "v22",
+                "plain_text"
+              ],
+              "value": "22 And let them judge the people at all times. Every great matter they shall bring to you, but any small matter they shall decide themselves. So it will be easier for you, and they will bear the burden with you."
+            },
+            {
+              "rowId": 136,
+              "keyParts": [
+                136,
+                "p3",
+                "verse",
+                "v23",
+                "label"
+              ],
+              "value": "23"
+            },
+            {
+              "rowId": 137,
+              "keyParts": [
+                137,
+                "p3",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "If you do this, God will direct you, you will be"
+            },
+            {
+              "rowId": 138,
+              "keyParts": [
+                138,
+                "p3",
+                "verse",
+                "v23",
+                "note",
+                "x"
+              ],
+              "value": "#ver.18"
+            },
+            {
+              "rowId": 139,
+              "keyParts": [
+                139,
+                "p3",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "able to endure, and all this people also will go to their place in peace.”"
+            },
+            {
+              "rowId": 140,
+              "keyParts": [
+                "v023_ESV_EXO_018",
+                140,
+                "p3",
+                "verse",
+                "v23",
+                "plain_text"
+              ],
+              "value": "23 If you do this, God will direct you, you will be able to endure, and all this people also will go to their place in peace.”"
+            },
+            {
+              "rowId": 141,
+              "keyParts": [
+                141,
+                "p4",
+                "verse",
+                "v24",
+                "label"
+              ],
+              "value": "24"
+            },
+            {
+              "rowId": 142,
+              "keyParts": [
+                142,
+                "p4",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "So Moses listened to the voice of his father-in-law and did all that he had said."
+            },
+            {
+              "rowId": 143,
+              "keyParts": [
+                "v024_ESV_EXO_018",
+                143,
+                "p4",
+                "verse",
+                "v24",
+                "plain_text"
+              ],
+              "value": "24 So Moses listened to the voice of his father-in-law and did all that he had said."
+            },
+            {
+              "rowId": 144,
+              "keyParts": [
+                144,
+                "p4",
+                "verse",
+                "v25",
+                "label"
+              ],
+              "value": "25"
+            },
+            {
+              "rowId": 145,
+              "keyParts": [
+                145,
+                "p4",
+                "verse",
+                "v25",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 1:15"
+            },
+            {
+              "rowId": 146,
+              "keyParts": [
+                146,
+                "p4",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "Moses chose able men out of all Israel and made them heads over the people, chiefs of thousands, of hundreds, of fifties, and of tens."
+            },
+            {
+              "rowId": 147,
+              "keyParts": [
+                "v025_ESV_EXO_018",
+                147,
+                "p4",
+                "verse",
+                "v25",
+                "plain_text"
+              ],
+              "value": "25 Moses chose able men out of all Israel and made them heads over the people, chiefs of thousands, of hundreds, of fifties, and of tens."
+            },
+            {
+              "rowId": 148,
+              "keyParts": [
+                148,
+                "p4",
+                "verse",
+                "v26",
+                "label"
+              ],
+              "value": "26"
+            },
+            {
+              "rowId": 149,
+              "keyParts": [
+                149,
+                "p4",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "And"
+            },
+            {
+              "rowId": 150,
+              "keyParts": [
+                150,
+                "p4",
+                "verse",
+                "v26",
+                "note",
+                "x"
+              ],
+              "value": "#ver.22"
+            },
+            {
+              "rowId": 151,
+              "keyParts": [
+                151,
+                "p4",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "they judged the people at all times. Any hard case they brought to Moses, but any small matter they decided themselves."
+            },
+            {
+              "rowId": 152,
+              "keyParts": [
+                "v026_ESV_EXO_018",
+                152,
+                "p4",
+                "verse",
+                "v26",
+                "plain_text"
+              ],
+              "value": "26 And they judged the people at all times. Any hard case they brought to Moses, but any small matter they decided themselves."
+            },
+            {
+              "rowId": 153,
+              "keyParts": [
+                153,
+                "p4",
+                "verse",
+                "v27",
+                "label"
+              ],
+              "value": "27"
+            },
+            {
+              "rowId": 154,
+              "keyParts": [
+                154,
+                "p4",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "Then Moses let his father-in-law depart, and"
+            },
+            {
+              "rowId": 155,
+              "keyParts": [
+                155,
+                "p4",
+                "verse",
+                "v27",
+                "note",
+                "x"
+              ],
+              "value": "#[Num. 10:29,30]"
+            },
+            {
+              "rowId": 156,
+              "keyParts": [
+                156,
+                "p4",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "he went away to his own country."
+            },
+            {
+              "rowId": 157,
+              "keyParts": [
+                "v027_ESV_EXO_018",
+                157,
+                "p4",
+                "verse",
+                "v27",
+                "plain_text"
+              ],
+              "value": "27 Then Moses let his father-in-law depart, and he went away to his own country."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

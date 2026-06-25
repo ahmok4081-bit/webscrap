@@ -1,0 +1,2010 @@
+{
+  "translationId": "ESV",
+  "name": "English Standard Version",
+  "abbreviation": "ESV",
+  "language": "English",
+  "copyright": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.",
+  "books": [
+    {
+      "bookId": "JOS",
+      "testament": "OT",
+      "order": 6,
+      "title": "Joshua",
+      "abbreviation": "JOS",
+      "chapters": [
+        {
+          "chapter": 7,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Israel Defeated at Ai"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "But the people of Israel broke faith in regard to the devoted things, for"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#ch.22:20;[1 Chr. 2:6,7]"
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "Achan the son of Carmi, son of Zabdi, son of Zerah, of the tribe of Judah, took some of the devoted things. And the anger of the"
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                7,
+                "p1",
+                "verse",
+                "v1",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "burned against the people of Israel."
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                "v001_ESV_JOS_007",
+                9,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 But the people of Israel broke faith in regard to the devoted things, for Achan the son of Carmi, son of Zabdi, son of Zerah, of the tribe of Judah, took some of the devoted things. And the anger of the Lord burned against the people of Israel."
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "p2",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                11,
+                "p2",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "Joshua sent men from Jericho to Ai, which is near"
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                12,
+                "p2",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#ch.18:12;1 Sam. 13:5;14:23;Hos. 4:15;5:8;10:5"
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                13,
+                "p2",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "Beth-aven, east of Bethel, and said to them, “Go up and spy out the land.” And the men went up and spied out Ai."
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                "v002_ESV_JOS_007",
+                14,
+                "p2",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 Joshua sent men from Jericho to Ai, which is near Beth-aven, east of Bethel, and said to them, “Go up and spy out the land.” And the men went up and spied out Ai."
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                15,
+                "p2",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                16,
+                "p2",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "And they returned to Joshua and said to him, “Do not have all the people go up, but let about two or three thousand men go up and attack Ai. Do not make the whole people toil up there, for they are few.”"
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                "v003_ESV_JOS_007",
+                17,
+                "p2",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 And they returned to Joshua and said to him, “Do not have all the people go up, but let about two or three thousand men go up and attack Ai. Do not make the whole people toil up there, for they are few.”"
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "p2",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p2",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "So about three thousand men went up there from the people. And"
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                20,
+                "p2",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#Lev. 26:17;Deut. 28:25"
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p2",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "they fled before the men of Ai,"
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                "v004_ESV_JOS_007",
+                22,
+                "p2",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 So about three thousand men went up there from the people. And they fled before the men of Ai,"
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "p2",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                24,
+                "p2",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "and the men of Ai killed about thirty-six of their men and chased them before the gate as far as Shebarim and struck them at the descent. And the hearts of the people"
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "p2",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#ch.2:9,11"
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                26,
+                "p2",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "melted and became as water."
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                "v005_ESV_JOS_007",
+                27,
+                "p2",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 and the men of Ai killed about thirty-six of their men and chased them before the gate as far as Shebarim and struck them at the descent. And the hearts of the people melted and became as water."
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                28,
+                "p3",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                29,
+                "p3",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "Then Joshua"
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                30,
+                "p3",
+                "verse",
+                "v6",
+                "note",
+                "x"
+              ],
+              "value": "#Gen. 37:29,34;Num. 14:6;2 Sam. 1:11;13:31"
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                31,
+                "p3",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "tore his clothes and"
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "p3",
+                "verse",
+                "v6",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 14:5"
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                33,
+                "p3",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "fell to the earth on his face before the ark of the"
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                34,
+                "p3",
+                "verse",
+                "v6",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                35,
+                "p3",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "until the evening, he and the elders of Israel. And they put"
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "p3",
+                "verse",
+                "v6",
+                "note",
+                "x"
+              ],
+              "value": "#1 Sam. 4:12"
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                37,
+                "p3",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "dust on their heads."
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                "v006_ESV_JOS_007",
+                38,
+                "p3",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 Then Joshua tore his clothes and fell to the earth on his face before the ark of the Lord until the evening, he and the elders of Israel. And they put dust on their heads."
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                39,
+                "p3",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                40,
+                "p3",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "And Joshua said, “Alas, O Lord"
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p3",
+                "verse",
+                "v7",
+                "nd"
+              ],
+              "value": "God"
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "p3",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": ","
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                43,
+                "p3",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 5:22;2 Kgs. 3:10"
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                44,
+                "p3",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "why have you brought this people over the Jordan at all, to give us into the hands of the Amorites, to destroy us? Would that we had been content to dwell beyond the Jordan!"
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                "v007_ESV_JOS_007",
+                45,
+                "p3",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 And Joshua said, “Alas, O Lord God , why have you brought this people over the Jordan at all, to give us into the hands of the Amorites, to destroy us? Would that we had been content to dwell beyond the Jordan!"
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                46,
+                "p3",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                47,
+                "p3",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "O Lord, what can I say, when Israel has turned their backs before their enemies!"
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                "v008_ESV_JOS_007",
+                48,
+                "p3",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 O Lord, what can I say, when Israel has turned their backs before their enemies!"
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                49,
+                "p3",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "p3",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "For the Canaanites and all the inhabitants of the land will hear of it and will surround us and"
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                51,
+                "p3",
+                "verse",
+                "v9",
+                "note",
+                "x"
+              ],
+              "value": "#Ps. 83:4"
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                52,
+                "p3",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "cut off our name from the earth. And what will you do for your great name?”"
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "The Sin of Achan"
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                "v009_ESV_JOS_007",
+                54,
+                "p3",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 For the Canaanites and all the inhabitants of the land will hear of it and will surround us and cut off our name from the earth. And what will you do for your great name?”"
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                55,
+                "p4",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                56,
+                "p4",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "The"
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                57,
+                "p4",
+                "verse",
+                "v10",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                58,
+                "p4",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "said to Joshua, “Get up! Why have you fallen on your face?"
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                "v010_ESV_JOS_007",
+                59,
+                "p4",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 The Lord said to Joshua, “Get up! Why have you fallen on your face?"
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                60,
+                "p4",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                61,
+                "p4",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "Israel has sinned; they have"
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                62,
+                "p4",
+                "verse",
+                "v11",
+                "note",
+                "x"
+              ],
+              "value": "#ver.15"
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                63,
+                "p4",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "transgressed my covenant that I commanded them; they have taken some of the"
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                64,
+                "p4",
+                "verse",
+                "v11",
+                "note",
+                "x"
+              ],
+              "value": "#ch.6:17,18"
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                65,
+                "p4",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "devoted things; they have stolen and lied and put them among their own belongings."
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                "v011_ESV_JOS_007",
+                66,
+                "p4",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 Israel has sinned; they have transgressed my covenant that I commanded them; they have taken some of the devoted things; they have stolen and lied and put them among their own belongings."
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                67,
+                "p4",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                68,
+                "p4",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 14:45;Judg. 2:14"
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                69,
+                "p4",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "Therefore the people of Israel cannot stand before their enemies. They"
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                70,
+                "p4",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#ver.8"
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                71,
+                "p4",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "turn their backs before their enemies, because they have become"
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                72,
+                "p4",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#ch.6:18"
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                73,
+                "p4",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "devoted for destruction."
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                74,
+                "p4",
+                "verse",
+                "v12",
+                "note",
+                "f"
+              ],
+              "value": "#7:12That is, set apart (devoted) as an offering to the Lord (for destruction)"
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                75,
+                "p4",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "I will be with you no more, unless you destroy"
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                76,
+                "p4",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#ver.11"
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                77,
+                "p4",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "the devoted things from among you."
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                "v012_ESV_JOS_007",
+                78,
+                "p4",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 Therefore the people of Israel cannot stand before their enemies. They turn their backs before their enemies, because they have become devoted for destruction. I will be with you no more, unless you destroy the devoted things from among you."
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                79,
+                "p4",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                80,
+                "p4",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "Get up! Consecrate the people and say,"
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                81,
+                "p4",
+                "verse",
+                "v13",
+                "note",
+                "x"
+              ],
+              "value": "#ch.3:5"
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                82,
+                "p4",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "‘Consecrate yourselves for tomorrow; for thus says the"
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                83,
+                "p4",
+                "verse",
+                "v13",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                84,
+                "p4",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": ", God of Israel, “There are devoted things in your midst, O Israel. You cannot stand before your enemies until you take away the devoted things from among you.”"
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                "v013_ESV_JOS_007",
+                85,
+                "p4",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 Get up! Consecrate the people and say, ‘Consecrate yourselves for tomorrow; for thus says the Lord , God of Israel, “There are devoted things in your midst, O Israel. You cannot stand before your enemies until you take away the devoted things from among you.”"
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                86,
+                "p4",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                87,
+                "p4",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "In the morning therefore you shall be brought near"
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                88,
+                "p4",
+                "verse",
+                "v14",
+                "note",
+                "x"
+              ],
+              "value": "#1 Sam. 10:19"
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                89,
+                "p4",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "by your tribes. And the tribe that the"
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                90,
+                "p4",
+                "verse",
+                "v14",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                91,
+                "p4",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "takes by lot shall come near by clans. And the clan that the"
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                92,
+                "p4",
+                "verse",
+                "v14",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                93,
+                "p4",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "takes shall come near by households. And the household that the"
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                94,
+                "p4",
+                "verse",
+                "v14",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                95,
+                "p4",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "takes shall come near man by man."
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                "v014_ESV_JOS_007",
+                96,
+                "p4",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 In the morning therefore you shall be brought near by your tribes. And the tribe that the Lord takes by lot shall come near by clans. And the clan that the Lord takes shall come near by households. And the household that the Lord takes shall come near man by man."
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                97,
+                "p4",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                98,
+                "p4",
+                "verse",
+                "v15",
+                "note",
+                "x"
+              ],
+              "value": "#1 Sam. 14:38,39"
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                99,
+                "p4",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "And he who is taken with the devoted things shall be burned with fire, he and all that he has, because he has"
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                100,
+                "p4",
+                "verse",
+                "v15",
+                "note",
+                "x"
+              ],
+              "value": "#ver.11"
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                101,
+                "p4",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "transgressed the covenant of the"
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                102,
+                "p4",
+                "verse",
+                "v15",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                103,
+                "p4",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": ", and because he has done"
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                104,
+                "p4",
+                "verse",
+                "v15",
+                "note",
+                "x"
+              ],
+              "value": "#Gen. 34:7;Judg. 20:6"
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                105,
+                "p4",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "an outrageous thing in Israel.’”"
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                "v015_ESV_JOS_007",
+                106,
+                "p4",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 And he who is taken with the devoted things shall be burned with fire, he and all that he has, because he has transgressed the covenant of the Lord , and because he has done an outrageous thing in Israel.’”"
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                107,
+                "p5",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                108,
+                "p5",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "So Joshua rose early in the morning and brought Israel near tribe by tribe, and the tribe of Judah was taken."
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                "v016_ESV_JOS_007",
+                109,
+                "p5",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 So Joshua rose early in the morning and brought Israel near tribe by tribe, and the tribe of Judah was taken."
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                110,
+                "p5",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                111,
+                "p5",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "And he brought near the clans of Judah, and the clan of the"
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                112,
+                "p5",
+                "verse",
+                "v17",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 26:20"
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                113,
+                "p5",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "Zerahites was taken. And he brought near the clan of the Zerahites man by man, and Zabdi was taken."
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                "v017_ESV_JOS_007",
+                114,
+                "p5",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 And he brought near the clans of Judah, and the clan of the Zerahites was taken. And he brought near the clan of the Zerahites man by man, and Zabdi was taken."
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                115,
+                "p5",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                116,
+                "p5",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "And he brought near his household man by man, and Achan the son of Carmi, son of Zabdi, son of Zerah, of the tribe of Judah, was taken."
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                "v018_ESV_JOS_007",
+                117,
+                "p5",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 And he brought near his household man by man, and Achan the son of Carmi, son of Zabdi, son of Zerah, of the tribe of Judah, was taken."
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                118,
+                "p5",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                119,
+                "p5",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "Then Joshua said to Achan, “My son,"
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                120,
+                "p5",
+                "verse",
+                "v19",
+                "note",
+                "x"
+              ],
+              "value": "#1 Sam. 6:5;Jer. 13:16;Mal. 2:2;John 9:24"
+            },
+            {
+              "rowId": 121,
+              "keyParts": [
+                121,
+                "p5",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "give glory to the"
+            },
+            {
+              "rowId": 122,
+              "keyParts": [
+                122,
+                "p5",
+                "verse",
+                "v19",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 123,
+              "keyParts": [
+                123,
+                "p5",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "God of Israel and"
+            },
+            {
+              "rowId": 124,
+              "keyParts": [
+                124,
+                "p5",
+                "verse",
+                "v19",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 5:6,7;2 Chr. 30:22;Ezra 10:11;Dan. 9:4"
+            },
+            {
+              "rowId": 125,
+              "keyParts": [
+                125,
+                "p5",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "give praise"
+            },
+            {
+              "rowId": 126,
+              "keyParts": [
+                126,
+                "p5",
+                "verse",
+                "v19",
+                "note",
+                "f"
+              ],
+              "value": "#7:19Orand make confession"
+            },
+            {
+              "rowId": 127,
+              "keyParts": [
+                127,
+                "p5",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "to him. And"
+            },
+            {
+              "rowId": 128,
+              "keyParts": [
+                128,
+                "p5",
+                "verse",
+                "v19",
+                "note",
+                "x"
+              ],
+              "value": "#1 Sam. 14:43"
+            },
+            {
+              "rowId": 129,
+              "keyParts": [
+                129,
+                "p5",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "tell me now what you have done; do not hide it from me.”"
+            },
+            {
+              "rowId": 130,
+              "keyParts": [
+                "v019_ESV_JOS_007",
+                130,
+                "p5",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 Then Joshua said to Achan, “My son, give glory to the Lord God of Israel and give praise to him. And tell me now what you have done; do not hide it from me.”"
+            },
+            {
+              "rowId": 131,
+              "keyParts": [
+                131,
+                "p5",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 132,
+              "keyParts": [
+                132,
+                "p5",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "And Achan answered Joshua, “Truly"
+            },
+            {
+              "rowId": 133,
+              "keyParts": [
+                133,
+                "p5",
+                "verse",
+                "v20",
+                "note",
+                "x"
+              ],
+              "value": "#2 Sam. 12:13"
+            },
+            {
+              "rowId": 134,
+              "keyParts": [
+                134,
+                "p5",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "I have sinned against the"
+            },
+            {
+              "rowId": 135,
+              "keyParts": [
+                135,
+                "p5",
+                "verse",
+                "v20",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 136,
+              "keyParts": [
+                136,
+                "p5",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "God of Israel, and this is what I did:"
+            },
+            {
+              "rowId": 137,
+              "keyParts": [
+                "v020_ESV_JOS_007",
+                137,
+                "p5",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 And Achan answered Joshua, “Truly I have sinned against the Lord God of Israel, and this is what I did:"
+            },
+            {
+              "rowId": 138,
+              "keyParts": [
+                138,
+                "p5",
+                "verse",
+                "v21",
+                "label"
+              ],
+              "value": "21"
+            },
+            {
+              "rowId": 139,
+              "keyParts": [
+                139,
+                "p5",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "when I saw among the spoil a beautiful cloak from Shinar, and 200 shekels of silver, and a bar of gold weighing 50 shekels,"
+            },
+            {
+              "rowId": 140,
+              "keyParts": [
+                140,
+                "p5",
+                "verse",
+                "v21",
+                "note",
+                "f"
+              ],
+              "value": "#7:21Ashekelwas about 2/5 ounce or 11 grams"
+            },
+            {
+              "rowId": 141,
+              "keyParts": [
+                141,
+                "p5",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "then I coveted them and took them. And see, they are hidden in the earth inside my tent, with the silver underneath.”"
+            },
+            {
+              "rowId": 142,
+              "keyParts": [
+                "v021_ESV_JOS_007",
+                142,
+                "p5",
+                "verse",
+                "v21",
+                "plain_text"
+              ],
+              "value": "21 when I saw among the spoil a beautiful cloak from Shinar, and 200 shekels of silver, and a bar of gold weighing 50 shekels, then I coveted them and took them. And see, they are hidden in the earth inside my tent, with the silver underneath.”"
+            },
+            {
+              "rowId": 143,
+              "keyParts": [
+                143,
+                "p6",
+                "verse",
+                "v22",
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 144,
+              "keyParts": [
+                144,
+                "p6",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "So Joshua sent messengers, and they ran to the tent; and behold, it was hidden in his tent with the silver underneath."
+            },
+            {
+              "rowId": 145,
+              "keyParts": [
+                "v022_ESV_JOS_007",
+                145,
+                "p6",
+                "verse",
+                "v22",
+                "plain_text"
+              ],
+              "value": "22 So Joshua sent messengers, and they ran to the tent; and behold, it was hidden in his tent with the silver underneath."
+            },
+            {
+              "rowId": 146,
+              "keyParts": [
+                146,
+                "p6",
+                "verse",
+                "v23",
+                "label"
+              ],
+              "value": "23"
+            },
+            {
+              "rowId": 147,
+              "keyParts": [
+                147,
+                "p6",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "And they took them out of the tent and brought them to Joshua and to all the people of Israel. And they laid them down before the"
+            },
+            {
+              "rowId": 148,
+              "keyParts": [
+                148,
+                "p6",
+                "verse",
+                "v23",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 149,
+              "keyParts": [
+                149,
+                "p6",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "."
+            },
+            {
+              "rowId": 150,
+              "keyParts": [
+                "v023_ESV_JOS_007",
+                150,
+                "p6",
+                "verse",
+                "v23",
+                "plain_text"
+              ],
+              "value": "23 And they took them out of the tent and brought them to Joshua and to all the people of Israel. And they laid them down before the Lord ."
+            },
+            {
+              "rowId": 151,
+              "keyParts": [
+                151,
+                "p6",
+                "verse",
+                "v24",
+                "label"
+              ],
+              "value": "24"
+            },
+            {
+              "rowId": 152,
+              "keyParts": [
+                152,
+                "p6",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "And Joshua and all Israel with him took Achan the son of Zerah, and the silver and the cloak and the bar of gold, and his sons and daughters and his oxen and donkeys and sheep and his tent and all that he had. And they brought them up to the"
+            },
+            {
+              "rowId": 153,
+              "keyParts": [
+                153,
+                "p6",
+                "verse",
+                "v24",
+                "note",
+                "x"
+              ],
+              "value": "#ver.26;ch.15:7;Isa. 65:10;Hos. 2:15"
+            },
+            {
+              "rowId": 154,
+              "keyParts": [
+                154,
+                "p6",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "Valley of Achor."
+            },
+            {
+              "rowId": 155,
+              "keyParts": [
+                "v024_ESV_JOS_007",
+                155,
+                "p6",
+                "verse",
+                "v24",
+                "plain_text"
+              ],
+              "value": "24 And Joshua and all Israel with him took Achan the son of Zerah, and the silver and the cloak and the bar of gold, and his sons and daughters and his oxen and donkeys and sheep and his tent and all that he had. And they brought them up to the Valley of Achor."
+            },
+            {
+              "rowId": 156,
+              "keyParts": [
+                156,
+                "p6",
+                "verse",
+                "v25",
+                "label"
+              ],
+              "value": "25"
+            },
+            {
+              "rowId": 157,
+              "keyParts": [
+                157,
+                "p6",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "And Joshua said, “Why did you"
+            },
+            {
+              "rowId": 158,
+              "keyParts": [
+                158,
+                "p6",
+                "verse",
+                "v25",
+                "note",
+                "x"
+              ],
+              "value": "#ch.6:18;1 Chr. 2:7"
+            },
+            {
+              "rowId": 159,
+              "keyParts": [
+                159,
+                "p6",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "bring trouble on us? The"
+            },
+            {
+              "rowId": 160,
+              "keyParts": [
+                160,
+                "p6",
+                "verse",
+                "v25",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 161,
+              "keyParts": [
+                161,
+                "p6",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "brings trouble on you today.” And all Israel"
+            },
+            {
+              "rowId": 162,
+              "keyParts": [
+                162,
+                "p6",
+                "verse",
+                "v25",
+                "note",
+                "x"
+              ],
+              "value": "#Lev. 20:2;24:14"
+            },
+            {
+              "rowId": 163,
+              "keyParts": [
+                163,
+                "p6",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "stoned him with stones."
+            },
+            {
+              "rowId": 164,
+              "keyParts": [
+                164,
+                "p6",
+                "verse",
+                "v25",
+                "note",
+                "x"
+              ],
+              "value": "#ch.22:20"
+            },
+            {
+              "rowId": 165,
+              "keyParts": [
+                165,
+                "p6",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "They burned them with fire and stoned them with stones."
+            },
+            {
+              "rowId": 166,
+              "keyParts": [
+                "v025_ESV_JOS_007",
+                166,
+                "p6",
+                "verse",
+                "v25",
+                "plain_text"
+              ],
+              "value": "25 And Joshua said, “Why did you bring trouble on us? The Lord brings trouble on you today.” And all Israel stoned him with stones. They burned them with fire and stoned them with stones."
+            },
+            {
+              "rowId": 167,
+              "keyParts": [
+                167,
+                "p6",
+                "verse",
+                "v26",
+                "label"
+              ],
+              "value": "26"
+            },
+            {
+              "rowId": 168,
+              "keyParts": [
+                168,
+                "p6",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "And they raised over him"
+            },
+            {
+              "rowId": 169,
+              "keyParts": [
+                169,
+                "p6",
+                "verse",
+                "v26",
+                "note",
+                "x"
+              ],
+              "value": "#ch.8:29;2 Sam. 18:17;[Lam. 3:53]"
+            },
+            {
+              "rowId": 170,
+              "keyParts": [
+                170,
+                "p6",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "a great heap of stones that remains to this day. Then"
+            },
+            {
+              "rowId": 171,
+              "keyParts": [
+                171,
+                "p6",
+                "verse",
+                "v26",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 13:17"
+            },
+            {
+              "rowId": 172,
+              "keyParts": [
+                172,
+                "p6",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "the"
+            },
+            {
+              "rowId": 173,
+              "keyParts": [
+                173,
+                "p6",
+                "verse",
+                "v26",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 174,
+              "keyParts": [
+                174,
+                "p6",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "turned from his burning anger. Therefore, to this day the name of that place is called the Valley of Achor."
+            },
+            {
+              "rowId": 175,
+              "keyParts": [
+                175,
+                "p6",
+                "verse",
+                "v26",
+                "note",
+                "f"
+              ],
+              "value": "#7:26Achormeanstrouble"
+            },
+            {
+              "rowId": 176,
+              "keyParts": [
+                "v026_ESV_JOS_007",
+                176,
+                "p6",
+                "verse",
+                "v26",
+                "plain_text"
+              ],
+              "value": "26 And they raised over him a great heap of stones that remains to this day. Then the Lord turned from his burning anger. Therefore, to this day the name of that place is called the Valley of Achor."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

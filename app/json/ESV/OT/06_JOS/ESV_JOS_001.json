@@ -1,0 +1,1375 @@
+{
+  "translationId": "ESV",
+  "name": "English Standard Version",
+  "abbreviation": "ESV",
+  "language": "English",
+  "copyright": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.",
+  "books": [
+    {
+      "bookId": "JOS",
+      "testament": "OT",
+      "order": 6,
+      "title": "Joshua",
+      "abbreviation": "JOS",
+      "chapters": [
+        {
+          "chapter": 1,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "God Commissions Joshua"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "After the death of Moses the"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#ver.13, 15;Ex. 14:31;Num. 12:7;Deut. 34:5"
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "servant of the"
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                7,
+                "p1",
+                "verse",
+                "v1",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": ", the"
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                9,
+                "p1",
+                "verse",
+                "v1",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "said to Joshua the son of Nun, Moses’"
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                11,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 1:38;[Ex. 24:13]"
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                12,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "assistant,"
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                "v001_ESV_JOS_001",
+                13,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 After the death of Moses the servant of the Lord , the Lord said to Joshua the son of Nun, Moses’ assistant,"
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                15,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "“Moses my servant is dead. Now therefore arise, go over this Jordan, you and all this people, into the land that I am giving to them, to the people of Israel."
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                "v002_ESV_JOS_001",
+                16,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 “Moses my servant is dead. Now therefore arise, go over this Jordan, you and all this people, into the land that I am giving to them, to the people of Israel."
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                17,
+                "p1",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 11:24;[ch.14:9]"
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "Every place that the sole of your foot will tread upon I have given to you, just as I promised to Moses."
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                "v003_ESV_JOS_001",
+                20,
+                "p1",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 Every place that the sole of your foot will tread upon I have given to you, just as I promised to Moses."
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p1",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                22,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#Gen. 15:18;Ex. 23:31;SeeNum. 34:3-12"
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "From the wilderness and this Lebanon as far as the great river, the river Euphrates, all the land of the Hittites to the Great Sea toward the going down of the sun shall be your territory."
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                "v004_ESV_JOS_001",
+                24,
+                "p1",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 From the wilderness and this Lebanon as far as the great river, the river Euphrates, all the land of the Hittites to the Great Sea toward the going down of the sun shall be your territory."
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "p1",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                26,
+                "p1",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 7:24"
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                27,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "No man shall be able to stand before you all the days of your life. Just"
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                28,
+                "p1",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#ver.17;Ex. 3:12"
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                29,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "as I was with Moses, so"
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                30,
+                "p1",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#ver.9, 17;ch.3:7;6:27;Deut. 31:8,23"
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                31,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "I will be with you."
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "p1",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#Gen. 28:15;Deut. 31:6,8;1 Chr. 28:20;CitedHeb. 13:5"
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                33,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "I will not leave you or forsake you."
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                "v005_ESV_JOS_001",
+                34,
+                "p1",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 No man shall be able to stand before you all the days of your life. Just as I was with Moses, so I will be with you. I will not leave you or forsake you."
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                35,
+                "p1",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "p1",
+                "verse",
+                "v6",
+                "note",
+                "x"
+              ],
+              "value": "#ver.7, 9, 18;Deut. 31:6,7"
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                37,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "Be strong and courageous, for you shall cause this people to inherit the land that I swore to their fathers to give them."
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                "v006_ESV_JOS_001",
+                38,
+                "p1",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 Be strong and courageous, for you shall cause this people to inherit the land that I swore to their fathers to give them."
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                39,
+                "p1",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                40,
+                "p1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "Only be strong and"
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p1",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#ch.23:6"
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "p1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "very courageous, being careful to do according to all the law"
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                43,
+                "p1",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#ch.11:15"
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                44,
+                "p1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "that Moses my servant commanded you."
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                45,
+                "p1",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 5:32;28:14"
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                46,
+                "p1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "Do not turn from it to the right hand or to the left, that you may have good success"
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                47,
+                "p1",
+                "verse",
+                "v7",
+                "note",
+                "f"
+              ],
+              "value": "#1:7Ormay act wisely"
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                48,
+                "p1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "wherever you go."
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                "v007_ESV_JOS_001",
+                49,
+                "p1",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 Only be strong and very courageous, being careful to do according to all the law that Moses my servant commanded you. Do not turn from it to the right hand or to the left, that you may have good success wherever you go."
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "p1",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                51,
+                "p1",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "This Book of the Law shall not depart from your mouth, but"
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                52,
+                "p1",
+                "verse",
+                "v8",
+                "note",
+                "x"
+              ],
+              "value": "#Ps. 1:2;119:15"
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                53,
+                "p1",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "you shall meditate on it day and night, so that you may be careful to do according to all that is written in it. For then you will make your way prosperous, and then you will have good success."
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                "v008_ESV_JOS_001",
+                54,
+                "p1",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 This Book of the Law shall not depart from your mouth, but you shall meditate on it day and night, so that you may be careful to do according to all that is written in it. For then you will make your way prosperous, and then you will have good success."
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                55,
+                "p1",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                56,
+                "p1",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "Have I not commanded you?"
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                57,
+                "p1",
+                "verse",
+                "v9",
+                "note",
+                "x"
+              ],
+              "value": "#ver.6, 7, 18"
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                58,
+                "p1",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "Be strong and courageous."
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                59,
+                "p1",
+                "verse",
+                "v9",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 1:29;7:21;20:3;31:6,8"
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                60,
+                "p1",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "Do not be frightened, and do not be dismayed, for the"
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                61,
+                "p1",
+                "verse",
+                "v9",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                62,
+                "p1",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "your God is with you wherever you go.”"
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Joshua Assumes Command"
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                "v009_ESV_JOS_001",
+                64,
+                "p1",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 Have I not commanded you? Be strong and courageous. Do not be frightened, and do not be dismayed, for the Lord your God is with you wherever you go.”"
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                65,
+                "p2",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                66,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "And Joshua commanded the"
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                67,
+                "p2",
+                "verse",
+                "v10",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 16:18"
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                68,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "officers of the people,"
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                "v010_ESV_JOS_001",
+                69,
+                "p2",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 And Joshua commanded the officers of the people,"
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                70,
+                "p2",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                71,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "“Pass through the midst of the camp and command the people, ‘Prepare your provisions, for"
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                72,
+                "p2",
+                "verse",
+                "v11",
+                "note",
+                "x"
+              ],
+              "value": "#ch.3:2"
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                73,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "within three days"
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                74,
+                "p2",
+                "verse",
+                "v11",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 9:1;11:31"
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                75,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "you are to pass over this Jordan to go in to take possession of the land that the"
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                76,
+                "p2",
+                "verse",
+                "v11",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                77,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "your God is giving you to possess.’”"
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                "v011_ESV_JOS_001",
+                78,
+                "p2",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 “Pass through the midst of the camp and command the people, ‘Prepare your provisions, for within three days you are to pass over this Jordan to go in to take possession of the land that the Lord your God is giving you to possess.’”"
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                79,
+                "p3",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                80,
+                "p3",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "And to the Reubenites, the Gadites, and the half-tribe of Manasseh Joshua said,"
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                "v012_ESV_JOS_001",
+                81,
+                "p3",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 And to the Reubenites, the Gadites, and the half-tribe of Manasseh Joshua said,"
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                82,
+                "p3",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                83,
+                "p3",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "“Remember the word that"
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                84,
+                "p3",
+                "verse",
+                "v13",
+                "note",
+                "x"
+              ],
+              "value": "#SeeNum. 32:20-28"
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                85,
+                "p3",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "Moses the servant of the"
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                86,
+                "p3",
+                "verse",
+                "v13",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                87,
+                "p3",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "commanded you, saying, ‘The"
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                88,
+                "p3",
+                "verse",
+                "v13",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                89,
+                "p3",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "your God is providing you a place of rest and will give you this land.’"
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                "v013_ESV_JOS_001",
+                90,
+                "p3",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 “Remember the word that Moses the servant of the Lord commanded you, saying, ‘The Lord your God is providing you a place of rest and will give you this land.’"
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                91,
+                "p3",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                92,
+                "p3",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "Your wives, your little ones, and your livestock shall remain in the land that Moses gave you beyond the Jordan, but all the men of valor among you shall pass over armed before your brothers and shall help them,"
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                "v014_ESV_JOS_001",
+                93,
+                "p3",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 Your wives, your little ones, and your livestock shall remain in the land that Moses gave you beyond the Jordan, but all the men of valor among you shall pass over armed before your brothers and shall help them,"
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                94,
+                "p3",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                95,
+                "p3",
+                "verse",
+                "v15",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 3:20"
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                96,
+                "p3",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "until the"
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                97,
+                "p3",
+                "verse",
+                "v15",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                98,
+                "p3",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "gives rest to your brothers as he has to you, and they also take possession of the land that the"
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                99,
+                "p3",
+                "verse",
+                "v15",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                100,
+                "p3",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "your God is giving them."
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                101,
+                "p3",
+                "verse",
+                "v15",
+                "note",
+                "x"
+              ],
+              "value": "#ch.22:4"
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                102,
+                "p3",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "Then you shall return to the land of your possession and shall possess it, the land that Moses the servant of the"
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                103,
+                "p3",
+                "verse",
+                "v15",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                104,
+                "p3",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "gave you beyond the Jordan toward the sunrise.”"
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                "v015_ESV_JOS_001",
+                105,
+                "p3",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 until the Lord gives rest to your brothers as he has to you, and they also take possession of the land that the Lord your God is giving them. Then you shall return to the land of your possession and shall possess it, the land that Moses the servant of the Lord gave you beyond the Jordan toward the sunrise.”"
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                106,
+                "p4",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                107,
+                "p4",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "And they answered Joshua, “All that you have commanded us we will do, and wherever you send us we will go."
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                "v016_ESV_JOS_001",
+                108,
+                "p4",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 And they answered Joshua, “All that you have commanded us we will do, and wherever you send us we will go."
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                109,
+                "p4",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                110,
+                "p4",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "Just as we obeyed Moses in all things, so we will obey you. Only may the"
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                111,
+                "p4",
+                "verse",
+                "v17",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                112,
+                "p4",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "your God"
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                113,
+                "p4",
+                "verse",
+                "v17",
+                "note",
+                "x"
+              ],
+              "value": "#ver.5"
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                114,
+                "p4",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "be with you, as he was with Moses!"
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                "v017_ESV_JOS_001",
+                115,
+                "p4",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 Just as we obeyed Moses in all things, so we will obey you. Only may the Lord your God be with you, as he was with Moses!"
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                116,
+                "p4",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                117,
+                "p4",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "Whoever rebels against your commandment and disobeys your words, whatever you command him, shall be put to death."
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                118,
+                "p4",
+                "verse",
+                "v18",
+                "note",
+                "x"
+              ],
+              "value": "#ver.6, 7, 9"
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                119,
+                "p4",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "Only be strong and courageous.”"
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                "v018_ESV_JOS_001",
+                120,
+                "p4",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 Whoever rebels against your commandment and disobeys your words, whatever you command him, shall be put to death. Only be strong and courageous.”"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

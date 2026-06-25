@@ -1,0 +1,1741 @@
+{
+  "translationId": "ESV",
+  "name": "English Standard Version",
+  "abbreviation": "ESV",
+  "language": "English",
+  "copyright": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.",
+  "books": [
+    {
+      "bookId": "DEU",
+      "testament": "OT",
+      "order": 5,
+      "title": "Deuteronomy",
+      "abbreviation": "DEU",
+      "chapters": [
+        {
+          "chapter": 15,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "The Sabbatical Year"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "“At the end of"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#ch.31:10;Neh. 10:31;[ver. 12;Ex. 23:10,11;Lev. 25:2-4]"
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "every seven years you shall grant a release."
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                "v001_ESV_DEU_015",
+                7,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 “At the end of every seven years you shall grant a release."
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                9,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "And this is the manner of the release: every creditor shall release what he has lent to his neighbor. He shall not exact it of his neighbor, his brother, because the"
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "p1",
+                "verse",
+                "v2",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                11,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "’s release has been proclaimed."
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                "v002_ESV_DEU_015",
+                12,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 And this is the manner of the release: every creditor shall release what he has lent to his neighbor. He shall not exact it of his neighbor, his brother, because the Lord ’s release has been proclaimed."
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                13,
+                "p1",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#[ch.23:20]"
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                15,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "Of a foreigner you may exact it, but whatever of yours is with your brother your hand shall release."
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                "v003_ESV_DEU_015",
+                16,
+                "p1",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 Of a foreigner you may exact it, but whatever of yours is with your brother your hand shall release."
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                17,
+                "p1",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#[ver.11]"
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "But there will be no poor among you;"
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                20,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#ch.28:8"
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "for the"
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                22,
+                "p1",
+                "verse",
+                "v4",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "will bless you in the land that the"
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                24,
+                "p1",
+                "verse",
+                "v4",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "your God is giving you for an inheritance to possess—"
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                "v004_ESV_DEU_015",
+                26,
+                "p1",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 But there will be no poor among you; for the Lord will bless you in the land that the Lord your God is giving you for an inheritance to possess—"
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                27,
+                "p1",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                28,
+                "p1",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#ch.28:1"
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                29,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "if only you will strictly obey the voice of the"
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                30,
+                "p1",
+                "verse",
+                "v5",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                31,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "your God, being careful to do all this commandment that I command you today."
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                "v005_ESV_DEU_015",
+                32,
+                "p1",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 if only you will strictly obey the voice of the Lord your God, being careful to do all this commandment that I command you today."
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                33,
+                "p1",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                34,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "For the"
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                35,
+                "p1",
+                "verse",
+                "v6",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "your God will bless you,"
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                37,
+                "p1",
+                "verse",
+                "v6",
+                "note",
+                "x"
+              ],
+              "value": "#ch.7:13;Ex. 23:25"
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                38,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "as he promised you, and"
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                39,
+                "p1",
+                "verse",
+                "v6",
+                "note",
+                "x"
+              ],
+              "value": "#ch.28:12,44"
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                40,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "you shall lend to many nations, but you shall not borrow, and"
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p1",
+                "verse",
+                "v6",
+                "note",
+                "x"
+              ],
+              "value": "#ch.28:13;1 Kgs. 4:21,24;Ezra 4:20;[Prov. 22:7]"
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "you shall rule over many nations, but they shall not rule over you."
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                "v006_ESV_DEU_015",
+                43,
+                "p1",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 For the Lord your God will bless you, as he promised you, and you shall lend to many nations, but you shall not borrow, and you shall rule over many nations, but they shall not rule over you."
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                44,
+                "p2",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                45,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "“If among you, one of your brothers should become poor, in any of your towns within your land that the"
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                46,
+                "p2",
+                "verse",
+                "v7",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                47,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "your God is giving you,"
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                48,
+                "p2",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#[1 John 3:17]"
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                49,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "you shall not harden your heart or shut your hand against your poor brother,"
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                "v007_ESV_DEU_015",
+                50,
+                "p2",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 “If among you, one of your brothers should become poor, in any of your towns within your land that the Lord your God is giving you, you shall not harden your heart or shut your hand against your poor brother,"
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                51,
+                "p2",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                52,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "but"
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                53,
+                "p2",
+                "verse",
+                "v8",
+                "note",
+                "x"
+              ],
+              "value": "#Lev. 25:35;[Matt. 5:42;Luke 6:34,35]"
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                54,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "you shall open your hand to him and lend him sufficient for his need, whatever it may be."
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                "v008_ESV_DEU_015",
+                55,
+                "p2",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 but you shall open your hand to him and lend him sufficient for his need, whatever it may be."
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                56,
+                "p2",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                57,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "Take care lest there be an unworthy thought in your heart and you say, ‘The seventh year, the year of release is near,’ and your"
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                58,
+                "p2",
+                "verse",
+                "v9",
+                "note",
+                "x"
+              ],
+              "value": "#ch.28:54,56;Prov. 23:6;28:22;Matt. 20:15"
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                59,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "eye look grudgingly"
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                60,
+                "p2",
+                "verse",
+                "v9",
+                "note",
+                "f"
+              ],
+              "value": "#15:9Orbe evil; also verse 10"
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                61,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "on your poor brother, and you give him nothing, and he"
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                62,
+                "p2",
+                "verse",
+                "v9",
+                "note",
+                "x"
+              ],
+              "value": "#ch.24:15"
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                63,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "cry to the"
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                64,
+                "p2",
+                "verse",
+                "v9",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                65,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "against you, and"
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                66,
+                "p2",
+                "verse",
+                "v9",
+                "note",
+                "x"
+              ],
+              "value": "#[Matt. 25:41,42]"
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                67,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "you be guilty of sin."
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                "v009_ESV_DEU_015",
+                68,
+                "p2",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 Take care lest there be an unworthy thought in your heart and you say, ‘The seventh year, the year of release is near,’ and your eye look grudgingly on your poor brother, and you give him nothing, and he cry to the Lord against you, and you be guilty of sin."
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                69,
+                "p2",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                70,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "You shall give to him freely, and"
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                71,
+                "p2",
+                "verse",
+                "v10",
+                "note",
+                "x"
+              ],
+              "value": "#[2 Cor. 9:7]"
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                72,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "your heart shall not be grudging when you give to him, because"
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                73,
+                "p2",
+                "verse",
+                "v10",
+                "note",
+                "x"
+              ],
+              "value": "#Prov. 28:27;See ch.14:29"
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                74,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "for this the"
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                75,
+                "p2",
+                "verse",
+                "v10",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                76,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "your God will bless you in all your work and in all that you undertake."
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                "v010_ESV_DEU_015",
+                77,
+                "p2",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 You shall give to him freely, and your heart shall not be grudging when you give to him, because for this the Lord your God will bless you in all your work and in all that you undertake."
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                78,
+                "p2",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                79,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "For"
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                80,
+                "p2",
+                "verse",
+                "v11",
+                "note",
+                "x"
+              ],
+              "value": "#[Matt. 26:11;Mark 14:7;John 12:8]"
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                81,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "there will never cease to be poor in the land. Therefore I command you,"
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                82,
+                "p2",
+                "verse",
+                "v11",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.8above]"
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                83,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "‘You shall open wide your hand to your brother, to the needy and to the poor, in your land.’"
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                "v011_ESV_DEU_015",
+                84,
+                "p2",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 For there will never cease to be poor in the land. Therefore I command you, ‘You shall open wide your hand to your brother, to the needy and to the poor, in your land.’"
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                85,
+                "p3",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                86,
+                "p3",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 21:2;Jer. 34:14;[Lev. 25:39-41]"
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                87,
+                "p3",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "“If your brother, a Hebrew man or a Hebrew woman, is sold"
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                88,
+                "p3",
+                "verse",
+                "v12",
+                "note",
+                "f"
+              ],
+              "value": "#15:12Orsells himself"
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                89,
+                "p3",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "to you, he shall serve you six years, and in the seventh year you shall let him go free from you."
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                "v012_ESV_DEU_015",
+                90,
+                "p3",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 “If your brother, a Hebrew man or a Hebrew woman, is sold to you, he shall serve you six years, and in the seventh year you shall let him go free from you."
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                91,
+                "p3",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                92,
+                "p3",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "And when you let him go free from you, you shall not let him go empty-handed."
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                "v013_ESV_DEU_015",
+                93,
+                "p3",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 And when you let him go free from you, you shall not let him go empty-handed."
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                94,
+                "p3",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                95,
+                "p3",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "You shall furnish him liberally out of your flock, out of your threshing floor, and out of your winepress."
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                96,
+                "p3",
+                "verse",
+                "v14",
+                "note",
+                "x"
+              ],
+              "value": "#ch.8:18;16:17"
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                97,
+                "p3",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "As the"
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                98,
+                "p3",
+                "verse",
+                "v14",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                99,
+                "p3",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "your God has blessed you, you shall give to him."
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                "v014_ESV_DEU_015",
+                100,
+                "p3",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 You shall furnish him liberally out of your flock, out of your threshing floor, and out of your winepress. As the Lord your God has blessed you, you shall give to him."
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                101,
+                "p3",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                102,
+                "p3",
+                "verse",
+                "v15",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.5:15"
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                103,
+                "p3",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "You shall remember that you were a slave in the land of Egypt, and the"
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                104,
+                "p3",
+                "verse",
+                "v15",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                105,
+                "p3",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "your God redeemed you; therefore I command you this today."
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                "v015_ESV_DEU_015",
+                106,
+                "p3",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 You shall remember that you were a slave in the land of Egypt, and the Lord your God redeemed you; therefore I command you this today."
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                107,
+                "p3",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                108,
+                "p3",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "But"
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                109,
+                "p3",
+                "verse",
+                "v16",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 21:5,6"
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                110,
+                "p3",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "if he says to you, ‘I will not go out from you,’ because he loves you and your household, since he is well-off with you,"
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                "v016_ESV_DEU_015",
+                111,
+                "p3",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 But if he says to you, ‘I will not go out from you,’ because he loves you and your household, since he is well-off with you,"
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                112,
+                "p3",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                113,
+                "p3",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "then you shall take an awl, and put it through his ear into the door, and he shall be your slave"
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                114,
+                "p3",
+                "verse",
+                "v17",
+                "note",
+                "f"
+              ],
+              "value": "#15:17Orservant; the Hebrew term‘ebeddesignates a range of social and economic roles (see Preface)"
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                115,
+                "p3",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "forever. And to your female slave"
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                116,
+                "p3",
+                "verse",
+                "v17",
+                "note",
+                "f"
+              ],
+              "value": "#15:17Orservant"
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                117,
+                "p3",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "you shall do the same."
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                "v017_ESV_DEU_015",
+                118,
+                "p3",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 then you shall take an awl, and put it through his ear into the door, and he shall be your slave forever. And to your female slave you shall do the same."
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                119,
+                "p3",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                120,
+                "p3",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "It shall not seem hard to you when you let him go free from you, for at half the cost of a hired worker he has served you six years. So the"
+            },
+            {
+              "rowId": 121,
+              "keyParts": [
+                121,
+                "p3",
+                "verse",
+                "v18",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 122,
+              "keyParts": [
+                122,
+                "p3",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "your God will bless you in all that you do."
+            },
+            {
+              "rowId": 123,
+              "keyParts": [
+                "v018_ESV_DEU_015",
+                123,
+                "p3",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 It shall not seem hard to you when you let him go free from you, for at half the cost of a hired worker he has served you six years. So the Lord your God will bless you in all that you do."
+            },
+            {
+              "rowId": 124,
+              "keyParts": [
+                124,
+                "p4",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 125,
+              "keyParts": [
+                125,
+                "p4",
+                "verse",
+                "v19",
+                "note",
+                "x"
+              ],
+              "value": "#SeeEx. 13:2"
+            },
+            {
+              "rowId": 126,
+              "keyParts": [
+                126,
+                "p4",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "“All the firstborn males that are born of your herd and flock you shall dedicate to the"
+            },
+            {
+              "rowId": 127,
+              "keyParts": [
+                127,
+                "p4",
+                "verse",
+                "v19",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 128,
+              "keyParts": [
+                128,
+                "p4",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "your God. You shall do no work with the firstborn of your herd, nor shear the firstborn of your flock."
+            },
+            {
+              "rowId": 129,
+              "keyParts": [
+                "v019_ESV_DEU_015",
+                129,
+                "p4",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 “All the firstborn males that are born of your herd and flock you shall dedicate to the Lord your God. You shall do no work with the firstborn of your herd, nor shear the firstborn of your flock."
+            },
+            {
+              "rowId": 130,
+              "keyParts": [
+                130,
+                "p4",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 131,
+              "keyParts": [
+                131,
+                "p4",
+                "verse",
+                "v20",
+                "note",
+                "x"
+              ],
+              "value": "#ch.12:7;14:23,26"
+            },
+            {
+              "rowId": 132,
+              "keyParts": [
+                132,
+                "p4",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "You shall eat it, you and your household, before the"
+            },
+            {
+              "rowId": 133,
+              "keyParts": [
+                133,
+                "p4",
+                "verse",
+                "v20",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 134,
+              "keyParts": [
+                134,
+                "p4",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "your God year by year at the place that the"
+            },
+            {
+              "rowId": 135,
+              "keyParts": [
+                135,
+                "p4",
+                "verse",
+                "v20",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 136,
+              "keyParts": [
+                136,
+                "p4",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "will choose."
+            },
+            {
+              "rowId": 137,
+              "keyParts": [
+                "v020_ESV_DEU_015",
+                137,
+                "p4",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 You shall eat it, you and your household, before the Lord your God year by year at the place that the Lord will choose."
+            },
+            {
+              "rowId": 138,
+              "keyParts": [
+                138,
+                "p4",
+                "verse",
+                "v21",
+                "label"
+              ],
+              "value": "21"
+            },
+            {
+              "rowId": 139,
+              "keyParts": [
+                139,
+                "p4",
+                "verse",
+                "v21",
+                "note",
+                "x"
+              ],
+              "value": "#SeeLev. 22:20"
+            },
+            {
+              "rowId": 140,
+              "keyParts": [
+                140,
+                "p4",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "But if it has any blemish, if it is lame or blind or has any serious blemish whatever, you shall not sacrifice it to the"
+            },
+            {
+              "rowId": 141,
+              "keyParts": [
+                141,
+                "p4",
+                "verse",
+                "v21",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 142,
+              "keyParts": [
+                142,
+                "p4",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "your God."
+            },
+            {
+              "rowId": 143,
+              "keyParts": [
+                "v021_ESV_DEU_015",
+                143,
+                "p4",
+                "verse",
+                "v21",
+                "plain_text"
+              ],
+              "value": "21 But if it has any blemish, if it is lame or blind or has any serious blemish whatever, you shall not sacrifice it to the Lord your God."
+            },
+            {
+              "rowId": 144,
+              "keyParts": [
+                144,
+                "p4",
+                "verse",
+                "v22",
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 145,
+              "keyParts": [
+                145,
+                "p4",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "You shall eat it within your towns."
+            },
+            {
+              "rowId": 146,
+              "keyParts": [
+                146,
+                "p4",
+                "verse",
+                "v22",
+                "note",
+                "x"
+              ],
+              "value": "#ch.12:15"
+            },
+            {
+              "rowId": 147,
+              "keyParts": [
+                147,
+                "p4",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "The unclean and the clean alike may eat it, as though it were a gazelle or a deer."
+            },
+            {
+              "rowId": 148,
+              "keyParts": [
+                "v022_ESV_DEU_015",
+                148,
+                "p4",
+                "verse",
+                "v22",
+                "plain_text"
+              ],
+              "value": "22 You shall eat it within your towns. The unclean and the clean alike may eat it, as though it were a gazelle or a deer."
+            },
+            {
+              "rowId": 149,
+              "keyParts": [
+                149,
+                "p4",
+                "verse",
+                "v23",
+                "label"
+              ],
+              "value": "23"
+            },
+            {
+              "rowId": 150,
+              "keyParts": [
+                150,
+                "p4",
+                "verse",
+                "v23",
+                "note",
+                "x"
+              ],
+              "value": "#SeeLev. 3:17"
+            },
+            {
+              "rowId": 151,
+              "keyParts": [
+                151,
+                "p4",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "Only you shall not eat its blood; you shall pour it out on the ground like water."
+            },
+            {
+              "rowId": 152,
+              "keyParts": [
+                "v023_ESV_DEU_015",
+                152,
+                "p4",
+                "verse",
+                "v23",
+                "plain_text"
+              ],
+              "value": "23 Only you shall not eat its blood; you shall pour it out on the ground like water."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

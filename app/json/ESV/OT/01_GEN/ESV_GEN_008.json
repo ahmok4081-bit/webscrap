@@ -1,0 +1,1183 @@
+{
+  "translationId": "ESV",
+  "name": "English Standard Version",
+  "abbreviation": "ESV",
+  "language": "English",
+  "copyright": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.",
+  "books": [
+    {
+      "bookId": "GEN",
+      "testament": "OT",
+      "order": 1,
+      "title": "Genesis",
+      "abbreviation": "GEN",
+      "chapters": [
+        {
+          "chapter": 8,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "The Flood Subsides"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "But God"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#ch.19:29;30:22;Ex. 2:24;1 Sam. 1:19"
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "remembered Noah and all the beasts and all the livestock that were with him in the ark. And"
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                7,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 14:21"
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "God made a wind blow over the earth, and the waters subsided."
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                "v001_ESV_GEN_008",
+                9,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 But God remembered Noah and all the beasts and all the livestock that were with him in the ark. And God made a wind blow over the earth, and the waters subsided."
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                11,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#ch.7:11"
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                12,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "The fountains of the deep and"
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                13,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#ch.7:11"
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "the windows of the heavens were closed, the rain from the heavens was restrained,"
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                "v002_ESV_GEN_008",
+                15,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 The fountains of the deep and the windows of the heavens were closed, the rain from the heavens was restrained,"
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                16,
+                "p1",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                17,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "and the waters receded from the earth continually. At the end"
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#ch.7:24"
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "of 150 days the waters had abated,"
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                "v003_ESV_GEN_008",
+                20,
+                "p1",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 and the waters receded from the earth continually. At the end of 150 days the waters had abated,"
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p1",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                22,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "and in the seventh month, on the seventeenth day of the month, the ark came to rest on the mountains of"
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#2 Kgs. 19:37;Isa. 37:38;Jer. 51:27"
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                24,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "Ararat."
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                "v004_ESV_GEN_008",
+                25,
+                "p1",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 and in the seventh month, on the seventeenth day of the month, the ark came to rest on the mountains of Ararat."
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                26,
+                "p1",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                27,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "And the waters continued to abate until the tenth month; in the tenth month, on the first day of the month, the tops of the mountains were seen."
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                "v005_ESV_GEN_008",
+                28,
+                "p1",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 And the waters continued to abate until the tenth month; in the tenth month, on the first day of the month, the tops of the mountains were seen."
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                29,
+                "p2",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                30,
+                "p2",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "At the end of forty days Noah opened the window of the ark that he had made"
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                "v006_ESV_GEN_008",
+                31,
+                "p2",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 At the end of forty days Noah opened the window of the ark that he had made"
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "p2",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                33,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "and sent forth a raven. It went to and fro until the waters were dried up from the earth."
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                "v007_ESV_GEN_008",
+                34,
+                "p2",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 and sent forth a raven. It went to and fro until the waters were dried up from the earth."
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                35,
+                "p2",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "Then he sent forth a dove from him, to see if the waters had subsided from the face of the ground."
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                "v008_ESV_GEN_008",
+                37,
+                "p2",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 Then he sent forth a dove from him, to see if the waters had subsided from the face of the ground."
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                38,
+                "p2",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                39,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "But the dove found no place to set her foot, and she returned to him to the ark, for the waters were still on the face of the whole earth. So he put out his hand and took her and brought her into the ark with him."
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                "v009_ESV_GEN_008",
+                40,
+                "p2",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 But the dove found no place to set her foot, and she returned to him to the ark, for the waters were still on the face of the whole earth. So he put out his hand and took her and brought her into the ark with him."
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p2",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "He waited another seven days, and again he sent forth the dove out of the ark."
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                "v010_ESV_GEN_008",
+                43,
+                "p2",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 He waited another seven days, and again he sent forth the dove out of the ark."
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                44,
+                "p2",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                45,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "And the dove came back to him in the evening, and behold, in her mouth was a freshly plucked olive leaf. So Noah knew that the waters had subsided from the earth."
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                "v011_ESV_GEN_008",
+                46,
+                "p2",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 And the dove came back to him in the evening, and behold, in her mouth was a freshly plucked olive leaf. So Noah knew that the waters had subsided from the earth."
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                47,
+                "p2",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                48,
+                "p2",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "Then he waited another seven days and sent forth the dove, and she did not return to him anymore."
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                "v012_ESV_GEN_008",
+                49,
+                "p2",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 Then he waited another seven days and sent forth the dove, and she did not return to him anymore."
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "p3",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                51,
+                "p3",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "In the six hundred and first year, in the first month, the first day of the month, the waters were dried from off the earth. And Noah removed the covering of the ark and looked, and behold, the face of the ground was dry."
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                "v013_ESV_GEN_008",
+                52,
+                "p3",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 In the six hundred and first year, in the first month, the first day of the month, the waters were dried from off the earth. And Noah removed the covering of the ark and looked, and behold, the face of the ground was dry."
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                53,
+                "p3",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                54,
+                "p3",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "In the second month, on the twenty-seventh day of the month, the earth had dried out."
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                "v014_ESV_GEN_008",
+                55,
+                "p3",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 In the second month, on the twenty-seventh day of the month, the earth had dried out."
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                56,
+                "p3",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                57,
+                "p3",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "Then God said to Noah,"
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                "v015_ESV_GEN_008",
+                58,
+                "p3",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 Then God said to Noah,"
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                59,
+                "p3",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                60,
+                "p3",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "“Go out from the ark,"
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                61,
+                "p3",
+                "verse",
+                "v16",
+                "note",
+                "x"
+              ],
+              "value": "#ch.7:13"
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                62,
+                "p3",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "you and your wife, and your sons and your sons’ wives with you."
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                "v016_ESV_GEN_008",
+                63,
+                "p3",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 “Go out from the ark, you and your wife, and your sons and your sons’ wives with you."
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                64,
+                "p3",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                65,
+                "p3",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "Bring out with you every living thing that is with you of all flesh—birds and animals and every creeping thing that creeps on the earth—that they may swarm on the earth, and"
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                66,
+                "p3",
+                "verse",
+                "v17",
+                "note",
+                "x"
+              ],
+              "value": "#ch.1:22,28;9:1"
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                67,
+                "p3",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "be fruitful and multiply on the earth.”"
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                "v017_ESV_GEN_008",
+                68,
+                "p3",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 Bring out with you every living thing that is with you of all flesh—birds and animals and every creeping thing that creeps on the earth—that they may swarm on the earth, and be fruitful and multiply on the earth.”"
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                69,
+                "p3",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                70,
+                "p3",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "So Noah went out, and his sons and his wife and his sons’ wives with him."
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                "v018_ESV_GEN_008",
+                71,
+                "p3",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 So Noah went out, and his sons and his wife and his sons’ wives with him."
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                72,
+                "p3",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                73,
+                "p3",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "Every beast, every creeping thing, and every bird, everything that moves on the earth, went out by families from the ark."
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "God’s Covenant with Noah"
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                "v019_ESV_GEN_008",
+                75,
+                "p3",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 Every beast, every creeping thing, and every bird, everything that moves on the earth, went out by families from the ark."
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                76,
+                "p4",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                77,
+                "p4",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "Then Noah built an altar to the"
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                78,
+                "p4",
+                "verse",
+                "v20",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                79,
+                "p4",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "and took some of every clean animal and some of every clean bird and offered burnt offerings on the altar."
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                "v020_ESV_GEN_008",
+                80,
+                "p4",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 Then Noah built an altar to the Lord and took some of every clean animal and some of every clean bird and offered burnt offerings on the altar."
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                81,
+                "p4",
+                "verse",
+                "v21",
+                "label"
+              ],
+              "value": "21"
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                82,
+                "p4",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "And when the"
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                83,
+                "p4",
+                "verse",
+                "v21",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                84,
+                "p4",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "smelled"
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                85,
+                "p4",
+                "verse",
+                "v21",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 29:18,25,41;Lev. 1:9,13,17;SeeEzek. 16:19;20:41;2 Cor. 2:15;Eph. 5:2;Phil. 4:18"
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                86,
+                "p4",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "the pleasing aroma, the"
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                87,
+                "p4",
+                "verse",
+                "v21",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                88,
+                "p4",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "said in his heart, “I will never again"
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                89,
+                "p4",
+                "verse",
+                "v21",
+                "note",
+                "x"
+              ],
+              "value": "#ch.3:17;6:17"
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                90,
+                "p4",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "curse"
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                91,
+                "p4",
+                "verse",
+                "v21",
+                "note",
+                "f"
+              ],
+              "value": "#8:21Ordishonor"
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                92,
+                "p4",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "the ground because of man, for"
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                93,
+                "p4",
+                "verse",
+                "v21",
+                "note",
+                "x"
+              ],
+              "value": "#ch.6:5;Ps. 58:3;Rom. 1:21;[Matt. 15:19]"
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                94,
+                "p4",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "the intention of man’s heart is evil from his youth."
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                95,
+                "p4",
+                "verse",
+                "v21",
+                "note",
+                "x"
+              ],
+              "value": "#ch.9:11,15;Isa. 54:9"
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                96,
+                "p4",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "Neither will I ever again strike down every living creature as I have done."
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                "v021_ESV_GEN_008",
+                97,
+                "p4",
+                "verse",
+                "v21",
+                "plain_text"
+              ],
+              "value": "21 And when the Lord smelled the pleasing aroma, the Lord said in his heart, “I will never again curse the ground because of man, for the intention of man’s heart is evil from his youth. Neither will I ever again strike down every living creature as I have done."
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                98,
+                "p4",
+                "verse",
+                "v22",
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                99,
+                "p4",
+                "verse",
+                "v22",
+                "note",
+                "x"
+              ],
+              "value": "#Jer. 5:24"
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                100,
+                "p4",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "While the earth remains, seedtime and harvest, cold and heat, summer and winter,"
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                101,
+                "p4",
+                "verse",
+                "v22",
+                "note",
+                "x"
+              ],
+              "value": "#Jer. 33:20,25"
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                102,
+                "p4",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "day and night, shall not cease.”"
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                "v022_ESV_GEN_008",
+                103,
+                "p4",
+                "verse",
+                "v22",
+                "plain_text"
+              ],
+              "value": "22 While the earth remains, seedtime and harvest, cold and heat, summer and winter, day and night, shall not cease.”"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

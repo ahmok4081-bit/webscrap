@@ -1,0 +1,1942 @@
+{
+  "translationId": "ESV",
+  "name": "English Standard Version",
+  "abbreviation": "ESV",
+  "language": "English",
+  "copyright": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.",
+  "books": [
+    {
+      "bookId": "GEN",
+      "testament": "OT",
+      "order": 1,
+      "title": "Genesis",
+      "abbreviation": "GEN",
+      "chapters": [
+        {
+          "chapter": 2,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "The Seventh Day, God Rests"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "Thus the heavens and the earth were finished, and"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 4:19;Ps. 33:6"
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "all the host of them."
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                "v001_ESV_GEN_002",
+                7,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 Thus the heavens and the earth were finished, and all the host of them."
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                9,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "And"
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 20:8-11;31:17;Deut. 5:12-14;Heb. 4:4"
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                11,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "on the seventh day God finished his work that he had done, and he rested on the seventh day from all his work that he had done."
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                "v002_ESV_GEN_002",
+                12,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 And on the seventh day God finished his work that he had done, and he rested on the seventh day from all his work that he had done."
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                13,
+                "p1",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "So God blessed the seventh day and made it holy, because on it God rested from all his work that he had done in creation."
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "The Creation of Man and Woman"
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                "v003_ESV_GEN_002",
+                16,
+                "p1",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 So God blessed the seventh day and made it holy, because on it God rested from all his work that he had done in creation."
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                17,
+                "q1_1",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "q1_1",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#ch.1:1"
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "q1_1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "These are the generations"
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                20,
+                "q1_2",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "of the heavens and the earth when they were created,"
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "q1_3",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "in the day that the"
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                22,
+                "q1_3",
+                "verse",
+                "v4",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "q1_3",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "God made the earth and the heavens."
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                "v004_ESV_GEN_002",
+                24,
+                "q1_1",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 These are the generations of the heavens and the earth when they were created, in the day that the Lord God made the earth and the heavens."
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "p2",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                26,
+                "p2",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "When no"
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                27,
+                "p2",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#[ch.1:11,12]"
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                28,
+                "p2",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "bush of the field"
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                29,
+                "p2",
+                "verse",
+                "v5",
+                "note",
+                "f"
+              ],
+              "value": "#2:5Oropen country"
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                30,
+                "p2",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "was yet in the land"
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                31,
+                "p2",
+                "verse",
+                "v5",
+                "note",
+                "f"
+              ],
+              "value": "#2:5Orearth; also verse 6"
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "p2",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "and no small plant of the field had yet sprung up—for the"
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                33,
+                "p2",
+                "verse",
+                "v5",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                34,
+                "p2",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "God had not caused it to rain on the land, and there was no man"
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                35,
+                "p2",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#ch.3:23"
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "p2",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "to work the ground,"
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                "v005_ESV_GEN_002",
+                37,
+                "p2",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 When no bush of the field was yet in the land and no small plant of the field had yet sprung up—for the Lord God had not caused it to rain on the land, and there was no man to work the ground,"
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                38,
+                "p2",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                39,
+                "p2",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "and a mist"
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                40,
+                "p2",
+                "verse",
+                "v6",
+                "note",
+                "f"
+              ],
+              "value": "#2:6Orspring"
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p2",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "was going up from the land and was watering the whole face of the ground—"
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                "v006_ESV_GEN_002",
+                42,
+                "p2",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 and a mist was going up from the land and was watering the whole face of the ground—"
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                43,
+                "p2",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                44,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "then the"
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                45,
+                "p2",
+                "verse",
+                "v7",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                46,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "God formed the man of"
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                47,
+                "p2",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#ch.3:19,23;18:27;Ps. 103:14;Eccles. 12:7;1 Cor. 15:47"
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                48,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "dust from the ground and"
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                49,
+                "p2",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#ch.7:22;Job 33:4;Isa. 2:22"
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "breathed into his"
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                51,
+                "p2",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#Job 27:3"
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                52,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "nostrils the breath of life, and"
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                53,
+                "p2",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#Cited1 Cor. 15:45"
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                54,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "the man became a living creature."
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                "v007_ESV_GEN_002",
+                55,
+                "p2",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 then the Lord God formed the man of dust from the ground and breathed into his nostrils the breath of life, and the man became a living creature."
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                56,
+                "p2",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                57,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "And the"
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                58,
+                "p2",
+                "verse",
+                "v8",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                59,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "God planted a"
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                60,
+                "p2",
+                "verse",
+                "v8",
+                "note",
+                "x"
+              ],
+              "value": "#ver.15;ch.13:10;Isa. 51:3;Ezek. 28:13;31:8;Joel 2:3"
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                61,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "garden in Eden, in the east, and there he put the man whom he had formed."
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                "v008_ESV_GEN_002",
+                62,
+                "p2",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 And the Lord God planted a garden in Eden, in the east, and there he put the man whom he had formed."
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                63,
+                "p2",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                64,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "And out of the ground the"
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                65,
+                "p2",
+                "verse",
+                "v9",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                66,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "God made to spring up every tree that is pleasant to the sight and good for food."
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                67,
+                "p2",
+                "verse",
+                "v9",
+                "note",
+                "x"
+              ],
+              "value": "#ch.3:22;Rev. 2:7;22:2,14"
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                68,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "The tree of life was in the midst of the garden,"
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                69,
+                "p2",
+                "verse",
+                "v9",
+                "note",
+                "x"
+              ],
+              "value": "#ver.17"
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                70,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "and the tree of the knowledge of good and evil."
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                "v009_ESV_GEN_002",
+                71,
+                "p2",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 And out of the ground the Lord God made to spring up every tree that is pleasant to the sight and good for food. The tree of life was in the midst of the garden, and the tree of the knowledge of good and evil."
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                72,
+                "p3",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                73,
+                "p3",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "A river flowed out of Eden to water the garden, and there it divided and became four rivers."
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                "v010_ESV_GEN_002",
+                74,
+                "p3",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 A river flowed out of Eden to water the garden, and there it divided and became four rivers."
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                75,
+                "p3",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                76,
+                "p3",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "The name of the first is the Pishon. It is the one that flowed around the whole land of"
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                77,
+                "p3",
+                "verse",
+                "v11",
+                "note",
+                "x"
+              ],
+              "value": "#ch.10:7,29;25:18;1 Sam. 15:7"
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                78,
+                "p3",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "Havilah, where there is gold."
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                "v011_ESV_GEN_002",
+                79,
+                "p3",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 The name of the first is the Pishon. It is the one that flowed around the whole land of Havilah, where there is gold."
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                80,
+                "p3",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                81,
+                "p3",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "And the gold of that land is good; bdellium and onyx stone are there."
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                "v012_ESV_GEN_002",
+                82,
+                "p3",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 And the gold of that land is good; bdellium and onyx stone are there."
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                83,
+                "p3",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                84,
+                "p3",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "The name of the second river is the Gihon. It is the one that flowed around the whole land of Cush."
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                "v013_ESV_GEN_002",
+                85,
+                "p3",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 The name of the second river is the Gihon. It is the one that flowed around the whole land of Cush."
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                86,
+                "p3",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                87,
+                "p3",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "And the name of the third river is the"
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                88,
+                "p3",
+                "verse",
+                "v14",
+                "note",
+                "x"
+              ],
+              "value": "#Dan. 10:4"
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                89,
+                "p3",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "Tigris, which flows east of Assyria."
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                90,
+                "p3",
+                "verse",
+                "v14",
+                "note",
+                "f"
+              ],
+              "value": "#2:14OrAsshur"
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                91,
+                "p3",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "And the fourth river is the Euphrates."
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                "v014_ESV_GEN_002",
+                92,
+                "p3",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 And the name of the third river is the Tigris, which flows east of Assyria. And the fourth river is the Euphrates."
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                93,
+                "p4",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                94,
+                "p4",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "The"
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                95,
+                "p4",
+                "verse",
+                "v15",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                96,
+                "p4",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "God took the man"
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                97,
+                "p4",
+                "verse",
+                "v15",
+                "note",
+                "x"
+              ],
+              "value": "#ver.8"
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                98,
+                "p4",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "and put him in the garden of Eden to work it and keep it."
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                "v015_ESV_GEN_002",
+                99,
+                "p4",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 The Lord God took the man and put him in the garden of Eden to work it and keep it."
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                100,
+                "p4",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                101,
+                "p4",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "And the"
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                102,
+                "p4",
+                "verse",
+                "v16",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                103,
+                "p4",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "God commanded the man, saying, “You may surely eat of every tree of the garden,"
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                "v016_ESV_GEN_002",
+                104,
+                "p4",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 And the Lord God commanded the man, saying, “You may surely eat of every tree of the garden,"
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                105,
+                "p4",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                106,
+                "p4",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "but of the tree of the knowledge of good and evil"
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                107,
+                "p4",
+                "verse",
+                "v17",
+                "note",
+                "x"
+              ],
+              "value": "#ch.3:1-3,11,17"
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                108,
+                "p4",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "you shall not eat, for in the day that you eat"
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                109,
+                "p4",
+                "verse",
+                "v17",
+                "note",
+                "f"
+              ],
+              "value": "#2:17Orwhen you eat"
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                110,
+                "p4",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "of it you"
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                111,
+                "p4",
+                "verse",
+                "v17",
+                "note",
+                "x"
+              ],
+              "value": "#Rom. 6:23;James 1:15"
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                112,
+                "p4",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "shall surely die.”"
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                "v017_ESV_GEN_002",
+                113,
+                "p4",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 but of the tree of the knowledge of good and evil you shall not eat, for in the day that you eat of it you shall surely die.”"
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                114,
+                "p5",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                115,
+                "p5",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "Then the"
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                116,
+                "p5",
+                "verse",
+                "v18",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                117,
+                "p5",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "God said, “It is not good that the man should be alone;"
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                118,
+                "p5",
+                "verse",
+                "v18",
+                "note",
+                "x"
+              ],
+              "value": "#1 Cor. 11:9;1 Tim. 2:13"
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                119,
+                "p5",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "I will make him a helper fit for"
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                120,
+                "p5",
+                "verse",
+                "v18",
+                "note",
+                "f"
+              ],
+              "value": "#2:18Orcorresponding to; also verse 20"
+            },
+            {
+              "rowId": 121,
+              "keyParts": [
+                121,
+                "p5",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "him.”"
+            },
+            {
+              "rowId": 122,
+              "keyParts": [
+                "v018_ESV_GEN_002",
+                122,
+                "p5",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 Then the Lord God said, “It is not good that the man should be alone; I will make him a helper fit for him.”"
+            },
+            {
+              "rowId": 123,
+              "keyParts": [
+                123,
+                "p5",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 124,
+              "keyParts": [
+                124,
+                "p5",
+                "verse",
+                "v19",
+                "note",
+                "x"
+              ],
+              "value": "#ch.1:20,24"
+            },
+            {
+              "rowId": 125,
+              "keyParts": [
+                125,
+                "p5",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "Now out of the ground the"
+            },
+            {
+              "rowId": 126,
+              "keyParts": [
+                126,
+                "p5",
+                "verse",
+                "v19",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 127,
+              "keyParts": [
+                127,
+                "p5",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "God had formed"
+            },
+            {
+              "rowId": 128,
+              "keyParts": [
+                128,
+                "p5",
+                "verse",
+                "v19",
+                "note",
+                "f"
+              ],
+              "value": "#2:19OrAnd out of the ground theLordGod formed"
+            },
+            {
+              "rowId": 129,
+              "keyParts": [
+                129,
+                "p5",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "every beast of the field and every bird of the heavens and"
+            },
+            {
+              "rowId": 130,
+              "keyParts": [
+                130,
+                "p5",
+                "verse",
+                "v19",
+                "note",
+                "x"
+              ],
+              "value": "#Ps. 8:6"
+            },
+            {
+              "rowId": 131,
+              "keyParts": [
+                131,
+                "p5",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "brought them to the man to see what he would call them. And whatever the man called every living creature, that was its name."
+            },
+            {
+              "rowId": 132,
+              "keyParts": [
+                "v019_ESV_GEN_002",
+                132,
+                "p5",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 Now out of the ground the Lord God had formed every beast of the field and every bird of the heavens and brought them to the man to see what he would call them. And whatever the man called every living creature, that was its name."
+            },
+            {
+              "rowId": 133,
+              "keyParts": [
+                133,
+                "p5",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 134,
+              "keyParts": [
+                134,
+                "p5",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "The man gave names to all livestock and to the birds of the heavens and to every beast of the field. But for Adam"
+            },
+            {
+              "rowId": 135,
+              "keyParts": [
+                135,
+                "p5",
+                "verse",
+                "v20",
+                "note",
+                "f"
+              ],
+              "value": "#2:20Orthe man"
+            },
+            {
+              "rowId": 136,
+              "keyParts": [
+                136,
+                "p5",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "there was not found a helper fit for him."
+            },
+            {
+              "rowId": 137,
+              "keyParts": [
+                "v020_ESV_GEN_002",
+                137,
+                "p5",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 The man gave names to all livestock and to the birds of the heavens and to every beast of the field. But for Adam there was not found a helper fit for him."
+            },
+            {
+              "rowId": 138,
+              "keyParts": [
+                138,
+                "p5",
+                "verse",
+                "v21",
+                "label"
+              ],
+              "value": "21"
+            },
+            {
+              "rowId": 139,
+              "keyParts": [
+                139,
+                "p5",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "So the"
+            },
+            {
+              "rowId": 140,
+              "keyParts": [
+                140,
+                "p5",
+                "verse",
+                "v21",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 141,
+              "keyParts": [
+                141,
+                "p5",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "God caused a"
+            },
+            {
+              "rowId": 142,
+              "keyParts": [
+                142,
+                "p5",
+                "verse",
+                "v21",
+                "note",
+                "x"
+              ],
+              "value": "#ch.15:12;1 Sam. 26:12"
+            },
+            {
+              "rowId": 143,
+              "keyParts": [
+                143,
+                "p5",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "deep sleep to fall upon the man, and while he slept took one of his ribs and closed up its place with flesh."
+            },
+            {
+              "rowId": 144,
+              "keyParts": [
+                "v021_ESV_GEN_002",
+                144,
+                "p5",
+                "verse",
+                "v21",
+                "plain_text"
+              ],
+              "value": "21 So the Lord God caused a deep sleep to fall upon the man, and while he slept took one of his ribs and closed up its place with flesh."
+            },
+            {
+              "rowId": 145,
+              "keyParts": [
+                145,
+                "p5",
+                "verse",
+                "v22",
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 146,
+              "keyParts": [
+                146,
+                "p5",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "And the rib that the"
+            },
+            {
+              "rowId": 147,
+              "keyParts": [
+                147,
+                "p5",
+                "verse",
+                "v22",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 148,
+              "keyParts": [
+                148,
+                "p5",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "God had taken from the man he made"
+            },
+            {
+              "rowId": 149,
+              "keyParts": [
+                149,
+                "p5",
+                "verse",
+                "v22",
+                "note",
+                "f"
+              ],
+              "value": "#2:22Hebrewbuilt"
+            },
+            {
+              "rowId": 150,
+              "keyParts": [
+                150,
+                "p5",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "into a woman and brought her to the man."
+            },
+            {
+              "rowId": 151,
+              "keyParts": [
+                "v022_ESV_GEN_002",
+                151,
+                "p5",
+                "verse",
+                "v22",
+                "plain_text"
+              ],
+              "value": "22 And the rib that the Lord God had taken from the man he made into a woman and brought her to the man."
+            },
+            {
+              "rowId": 152,
+              "keyParts": [
+                152,
+                "p5",
+                "verse",
+                "v23",
+                "label"
+              ],
+              "value": "23"
+            },
+            {
+              "rowId": 153,
+              "keyParts": [
+                153,
+                "p5",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "Then the man said,"
+            },
+            {
+              "rowId": 154,
+              "keyParts": [
+                154,
+                "q1_4",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "“This at last is"
+            },
+            {
+              "rowId": 155,
+              "keyParts": [
+                155,
+                "q1_4",
+                "verse",
+                "v23",
+                "note",
+                "x"
+              ],
+              "value": "#ch.29:14;Judg. 9:2;2 Sam. 5:1;19:13;[Eph. 5:28-30]"
+            },
+            {
+              "rowId": 156,
+              "keyParts": [
+                156,
+                "q1_4",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "bone of my bones"
+            },
+            {
+              "rowId": 157,
+              "keyParts": [
+                157,
+                "q2_1",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "and flesh of my flesh;"
+            },
+            {
+              "rowId": 158,
+              "keyParts": [
+                158,
+                "q1_5",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "she shall be called Woman,"
+            },
+            {
+              "rowId": 159,
+              "keyParts": [
+                159,
+                "q2_2",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "because she was"
+            },
+            {
+              "rowId": 160,
+              "keyParts": [
+                160,
+                "q2_2",
+                "verse",
+                "v23",
+                "note",
+                "x"
+              ],
+              "value": "#1 Cor. 11:8"
+            },
+            {
+              "rowId": 161,
+              "keyParts": [
+                161,
+                "q2_2",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "taken out of Man.”"
+            },
+            {
+              "rowId": 162,
+              "keyParts": [
+                162,
+                "q2_2",
+                "verse",
+                "v23",
+                "note",
+                "f"
+              ],
+              "value": "#2:23The Hebrew words forwoman(ishshah) andman(ish) sound alike"
+            },
+            {
+              "rowId": 163,
+              "keyParts": [
+                "v023_ESV_GEN_002",
+                163,
+                "p5",
+                "verse",
+                "v23",
+                "plain_text"
+              ],
+              "value": "23 Then the man said, “This at last is bone of my bones and flesh of my flesh; she shall be called Woman, because she was taken out of Man.”"
+            },
+            {
+              "rowId": 164,
+              "keyParts": [
+                164,
+                "m1",
+                "verse",
+                "v24",
+                "label"
+              ],
+              "value": "24"
+            },
+            {
+              "rowId": 165,
+              "keyParts": [
+                165,
+                "m1",
+                "verse",
+                "v24",
+                "note",
+                "x"
+              ],
+              "value": "#CitedMatt. 19:5;Mark 10:7;1 Cor. 6:16;Eph. 5:31;[Ps. 45:10;1 Cor. 7:10,11]"
+            },
+            {
+              "rowId": 166,
+              "keyParts": [
+                166,
+                "m1",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "Therefore a man shall leave his father and his mother and hold fast to his wife, and they shall become one flesh."
+            },
+            {
+              "rowId": 167,
+              "keyParts": [
+                "v024_ESV_GEN_002",
+                167,
+                "m1",
+                "verse",
+                "v24",
+                "plain_text"
+              ],
+              "value": "24 Therefore a man shall leave his father and his mother and hold fast to his wife, and they shall become one flesh."
+            },
+            {
+              "rowId": 168,
+              "keyParts": [
+                168,
+                "m1",
+                "verse",
+                "v25",
+                "label"
+              ],
+              "value": "25"
+            },
+            {
+              "rowId": 169,
+              "keyParts": [
+                169,
+                "m1",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "And the man and his wife were both naked and were not ashamed."
+            },
+            {
+              "rowId": 170,
+              "keyParts": [
+                "v025_ESV_GEN_002",
+                170,
+                "m1",
+                "verse",
+                "v25",
+                "plain_text"
+              ],
+              "value": "25 And the man and his wife were both naked and were not ashamed."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

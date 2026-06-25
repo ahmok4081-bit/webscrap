@@ -1,0 +1,1682 @@
+{
+  "translationId": "ESV",
+  "name": "English Standard Version",
+  "abbreviation": "ESV",
+  "language": "English",
+  "copyright": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.",
+  "books": [
+    {
+      "bookId": "JDG",
+      "testament": "OT",
+      "order": 7,
+      "title": "Judges",
+      "abbreviation": "JDG",
+      "chapters": [
+        {
+          "chapter": 7,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Gideon’s Three Hundred Men"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "Then"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#ch.6:32"
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "Jerubbaal (that is, Gideon) and all the people who were with him rose early and encamped beside"
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                7,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#[1 Sam. 29:1]"
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "the spring of Harod. And the camp of Midian was north of them,"
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                9,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#Gen. 12:6;Deut. 11:30"
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "by the hill of Moreh, in the valley."
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                "v001_ESV_JDG_007",
+                11,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 Then Jerubbaal (that is, Gideon) and all the people who were with him rose early and encamped beside the spring of Harod. And the camp of Midian was north of them, by the hill of Moreh, in the valley."
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                12,
+                "p2",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                13,
+                "p2",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "The"
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "p2",
+                "verse",
+                "v2",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                15,
+                "p2",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "said to Gideon, “The people with you are too many for me to give the Midianites into their hand,"
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                16,
+                "p2",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 8:17;[Isa. 10:13]"
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                17,
+                "p2",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "lest Israel boast over me, saying, ‘My own hand has saved me.’"
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                "v002_ESV_JDG_007",
+                18,
+                "p2",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 The Lord said to Gideon, “The people with you are too many for me to give the Midianites into their hand, lest Israel boast over me, saying, ‘My own hand has saved me.’"
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p2",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                20,
+                "p2",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "Now therefore proclaim in the ears of the people, saying,"
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p2",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 20:8"
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                22,
+                "p2",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "‘Whoever is fearful and trembling, let him return home and hurry away from Mount Gilead.’” Then 22,000 of the people returned, and 10,000 remained."
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                "v003_ESV_JDG_007",
+                23,
+                "p2",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 Now therefore proclaim in the ears of the people, saying, ‘Whoever is fearful and trembling, let him return home and hurry away from Mount Gilead.’” Then 22,000 of the people returned, and 10,000 remained."
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                24,
+                "p3",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "p3",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "And the"
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                26,
+                "p3",
+                "verse",
+                "v4",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                27,
+                "p3",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "said to Gideon, “The people are still too many. Take them down to the water, and I will test them for you there, and anyone of whom I say to you, ‘This one shall go with you,’ shall go with you, and anyone of whom I say to you, ‘This one shall not go with you,’ shall not go.”"
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                "v004_ESV_JDG_007",
+                28,
+                "p3",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 And the Lord said to Gideon, “The people are still too many. Take them down to the water, and I will test them for you there, and anyone of whom I say to you, ‘This one shall go with you,’ shall go with you, and anyone of whom I say to you, ‘This one shall not go with you,’ shall not go.”"
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                29,
+                "p3",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                30,
+                "p3",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "So he brought the people down to the water. And the"
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                31,
+                "p3",
+                "verse",
+                "v5",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "p3",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "said to Gideon, “Every one who laps the water with his tongue, as a dog laps, you shall set by himself. Likewise, every one who kneels down to drink.”"
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                "v005_ESV_JDG_007",
+                33,
+                "p3",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 So he brought the people down to the water. And the Lord said to Gideon, “Every one who laps the water with his tongue, as a dog laps, you shall set by himself. Likewise, every one who kneels down to drink.”"
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                34,
+                "p3",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                35,
+                "p3",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "And the number of those who lapped, putting their hands to their mouths, was 300 men, but all the rest of the people knelt down to drink water."
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                "v006_ESV_JDG_007",
+                36,
+                "p3",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 And the number of those who lapped, putting their hands to their mouths, was 300 men, but all the rest of the people knelt down to drink water."
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                37,
+                "p3",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                38,
+                "p3",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "And the"
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                39,
+                "p3",
+                "verse",
+                "v7",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                40,
+                "p3",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "said to Gideon,"
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p3",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#[1 Sam. 14:6;2 Chr. 14:11]"
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "p3",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "“With the 300 men who lapped I will save you and give the Midianites into your hand, and let all the others go every man to his home.”"
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                "v007_ESV_JDG_007",
+                43,
+                "p3",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 And the Lord said to Gideon, “With the 300 men who lapped I will save you and give the Midianites into your hand, and let all the others go every man to his home.”"
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                44,
+                "p3",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                45,
+                "p3",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "So the people took provisions in their hands, and their trumpets. And he sent all the rest of Israel every man to his tent, but retained the 300 men. And the camp of Midian was below him"
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                46,
+                "p3",
+                "verse",
+                "v8",
+                "note",
+                "x"
+              ],
+              "value": "#ver.1"
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                47,
+                "p3",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "in the valley."
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                "v008_ESV_JDG_007",
+                48,
+                "p3",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 So the people took provisions in their hands, and their trumpets. And he sent all the rest of Israel every man to his tent, but retained the 300 men. And the camp of Midian was below him in the valley."
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                49,
+                "p4",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "p4",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "That same"
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                51,
+                "p4",
+                "verse",
+                "v9",
+                "note",
+                "x"
+              ],
+              "value": "#Gen. 46:2,3;1 Kgs. 3:5"
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                52,
+                "p4",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "night the"
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                53,
+                "p4",
+                "verse",
+                "v9",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                54,
+                "p4",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "said to him, “Arise, go down against the camp,"
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                55,
+                "p4",
+                "verse",
+                "v9",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.3:28"
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                56,
+                "p4",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "for I have given it into your hand."
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                "v009_ESV_JDG_007",
+                57,
+                "p4",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 That same night the Lord said to him, “Arise, go down against the camp, for I have given it into your hand."
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                58,
+                "p4",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                59,
+                "p4",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "But if you are afraid to go down, go down to the camp with Purah your servant."
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                "v010_ESV_JDG_007",
+                60,
+                "p4",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 But if you are afraid to go down, go down to the camp with Purah your servant."
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                61,
+                "p4",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                62,
+                "p4",
+                "verse",
+                "v11",
+                "note",
+                "x"
+              ],
+              "value": "#Seever.13-15"
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                63,
+                "p4",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "And you shall hear what they say, and afterward your hands shall be strengthened to go down against the camp.”"
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                64,
+                "p4",
+                "verse",
+                "v11",
+                "note",
+                "x"
+              ],
+              "value": "#[1 Sam. 14:9,10]"
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                65,
+                "p4",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "Then he went down with Purah his servant to the outposts of the armed men who were in the camp."
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                "v011_ESV_JDG_007",
+                66,
+                "p4",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 And you shall hear what they say, and afterward your hands shall be strengthened to go down against the camp.” Then he went down with Purah his servant to the outposts of the armed men who were in the camp."
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                67,
+                "p4",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                68,
+                "p4",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "And the Midianites and the Amalekites and"
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                69,
+                "p4",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.6:3"
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                70,
+                "p4",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "all the people of the East lay along the valley like locusts in abundance, and their camels were without number,"
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                71,
+                "p4",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#Josh. 11:4"
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                72,
+                "p4",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "as the sand that is on the seashore in abundance."
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                "v012_ESV_JDG_007",
+                73,
+                "p4",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 And the Midianites and the Amalekites and all the people of the East lay along the valley like locusts in abundance, and their camels were without number, as the sand that is on the seashore in abundance."
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                74,
+                "p4",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                75,
+                "p4",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "When Gideon came, behold, a man was telling a dream to his comrade. And he said, “Behold, I dreamed a dream, and behold, a cake of barley bread tumbled into the camp of Midian and came to the tent and struck it so that it fell and turned it upside down, so that the tent lay flat.”"
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                "v013_ESV_JDG_007",
+                76,
+                "p4",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 When Gideon came, behold, a man was telling a dream to his comrade. And he said, “Behold, I dreamed a dream, and behold, a cake of barley bread tumbled into the camp of Midian and came to the tent and struck it so that it fell and turned it upside down, so that the tent lay flat.”"
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                77,
+                "p4",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                78,
+                "p4",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "And his comrade answered, “This is no other than the sword of Gideon the son of Joash, a man of Israel; God has given into his hand Midian and all the camp.”"
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                "v014_ESV_JDG_007",
+                79,
+                "p4",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 And his comrade answered, “This is no other than the sword of Gideon the son of Joash, a man of Israel; God has given into his hand Midian and all the camp.”"
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                80,
+                "p5",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                81,
+                "p5",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "As soon as Gideon heard the telling of the dream and its interpretation, he worshiped. And he returned to the camp of Israel and said, “Arise, for the"
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                82,
+                "p5",
+                "verse",
+                "v15",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                83,
+                "p5",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "has given the host of Midian into your hand.”"
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                "v015_ESV_JDG_007",
+                84,
+                "p5",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 As soon as Gideon heard the telling of the dream and its interpretation, he worshiped. And he returned to the camp of Israel and said, “Arise, for the Lord has given the host of Midian into your hand.”"
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                85,
+                "p5",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                86,
+                "p5",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "And he divided the 300 men into three companies and put trumpets into the hands of all of them and empty jars, with"
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                87,
+                "p5",
+                "verse",
+                "v16",
+                "note",
+                "x"
+              ],
+              "value": "#ch.15:4;Gen. 15:17"
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                88,
+                "p5",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "torches inside the jars."
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                "v016_ESV_JDG_007",
+                89,
+                "p5",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 And he divided the 300 men into three companies and put trumpets into the hands of all of them and empty jars, with torches inside the jars."
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                90,
+                "p5",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                91,
+                "p5",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "And he said to them, “Look at me, and do likewise. When I come to the outskirts of the camp, do as I do."
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                "v017_ESV_JDG_007",
+                92,
+                "p5",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 And he said to them, “Look at me, and do likewise. When I come to the outskirts of the camp, do as I do."
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                93,
+                "p5",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                94,
+                "p5",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "When I blow the trumpet, I and all who are with me, then blow the trumpets also on every side of all the camp and shout,"
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                95,
+                "p5",
+                "verse",
+                "v18",
+                "note",
+                "x"
+              ],
+              "value": "#[Ex. 14:13,14;2 Chr. 20:17]"
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                96,
+                "p5",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "‘For the"
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                97,
+                "p5",
+                "verse",
+                "v18",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                98,
+                "p5",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "and for Gideon.’”"
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Gideon Defeats Midian"
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                "v018_ESV_JDG_007",
+                100,
+                "p5",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 When I blow the trumpet, I and all who are with me, then blow the trumpets also on every side of all the camp and shout, ‘For the Lord and for Gideon.’”"
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                101,
+                "p6",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                102,
+                "p6",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "So Gideon and the hundred men who were with him came to the outskirts of the camp at the beginning of the middle watch, when they had just set the watch. And they blew the trumpets and smashed the jars that were in their hands."
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                "v019_ESV_JDG_007",
+                103,
+                "p6",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 So Gideon and the hundred men who were with him came to the outskirts of the camp at the beginning of the middle watch, when they had just set the watch. And they blew the trumpets and smashed the jars that were in their hands."
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                104,
+                "p6",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                105,
+                "p6",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "Then the three companies blew the trumpets and broke the jars. They held in their left hands the torches, and in their right hands the trumpets to blow."
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                106,
+                "p6",
+                "verse",
+                "v20",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.18above]"
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                107,
+                "p6",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "And they cried out, “A sword for the"
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                108,
+                "p6",
+                "verse",
+                "v20",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                109,
+                "p6",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "and for Gideon!”"
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                "v020_ESV_JDG_007",
+                110,
+                "p6",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 Then the three companies blew the trumpets and broke the jars. They held in their left hands the torches, and in their right hands the trumpets to blow. And they cried out, “A sword for the Lord and for Gideon!”"
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                111,
+                "p6",
+                "verse",
+                "v21",
+                "label"
+              ],
+              "value": "21"
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                112,
+                "p6",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "Every man stood in his place around the camp,"
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                113,
+                "p6",
+                "verse",
+                "v21",
+                "note",
+                "x"
+              ],
+              "value": "#[2 Kgs. 7:7]"
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                114,
+                "p6",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "and all the army ran. They cried out and fled."
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                "v021_ESV_JDG_007",
+                115,
+                "p6",
+                "verse",
+                "v21",
+                "plain_text"
+              ],
+              "value": "21 Every man stood in his place around the camp, and all the army ran. They cried out and fled."
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                116,
+                "p6",
+                "verse",
+                "v22",
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                117,
+                "p6",
+                "verse",
+                "v22",
+                "note",
+                "x"
+              ],
+              "value": "#[Josh. 6:4,16,20]"
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                118,
+                "p6",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "When they blew the 300 trumpets,"
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                119,
+                "p6",
+                "verse",
+                "v22",
+                "note",
+                "x"
+              ],
+              "value": "#[Ps. 83:9;Isa. 9:4]"
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                120,
+                "p6",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "the"
+            },
+            {
+              "rowId": 121,
+              "keyParts": [
+                121,
+                "p6",
+                "verse",
+                "v22",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 122,
+              "keyParts": [
+                122,
+                "p6",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "set"
+            },
+            {
+              "rowId": 123,
+              "keyParts": [
+                123,
+                "p6",
+                "verse",
+                "v22",
+                "note",
+                "x"
+              ],
+              "value": "#1 Sam. 14:20;[2 Chr. 20:23]"
+            },
+            {
+              "rowId": 124,
+              "keyParts": [
+                124,
+                "p6",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "every man’s sword against his comrade and against all the army. And the army fled as far as Beth-shittah toward Zererah,"
+            },
+            {
+              "rowId": 125,
+              "keyParts": [
+                125,
+                "p6",
+                "verse",
+                "v22",
+                "note",
+                "f"
+              ],
+              "value": "#7:22Some Hebrew manuscriptsZeredah"
+            },
+            {
+              "rowId": 126,
+              "keyParts": [
+                126,
+                "p6",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "as far as the border of Abel-meholah, by Tabbath."
+            },
+            {
+              "rowId": 127,
+              "keyParts": [
+                "v022_ESV_JDG_007",
+                127,
+                "p6",
+                "verse",
+                "v22",
+                "plain_text"
+              ],
+              "value": "22 When they blew the 300 trumpets, the Lord set every man’s sword against his comrade and against all the army. And the army fled as far as Beth-shittah toward Zererah, as far as the border of Abel-meholah, by Tabbath."
+            },
+            {
+              "rowId": 128,
+              "keyParts": [
+                128,
+                "p6",
+                "verse",
+                "v23",
+                "label"
+              ],
+              "value": "23"
+            },
+            {
+              "rowId": 129,
+              "keyParts": [
+                129,
+                "p6",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "And the men of Israel were called out from Naphtali and from Asher and from all Manasseh, and they pursued after Midian."
+            },
+            {
+              "rowId": 130,
+              "keyParts": [
+                "v023_ESV_JDG_007",
+                130,
+                "p6",
+                "verse",
+                "v23",
+                "plain_text"
+              ],
+              "value": "23 And the men of Israel were called out from Naphtali and from Asher and from all Manasseh, and they pursued after Midian."
+            },
+            {
+              "rowId": 131,
+              "keyParts": [
+                131,
+                "p7",
+                "verse",
+                "v24",
+                "label"
+              ],
+              "value": "24"
+            },
+            {
+              "rowId": 132,
+              "keyParts": [
+                132,
+                "p7",
+                "verse",
+                "v24",
+                "note",
+                "x"
+              ],
+              "value": "#ch.6:35"
+            },
+            {
+              "rowId": 133,
+              "keyParts": [
+                133,
+                "p7",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "Gideon sent messengers throughout"
+            },
+            {
+              "rowId": 134,
+              "keyParts": [
+                134,
+                "p7",
+                "verse",
+                "v24",
+                "note",
+                "x"
+              ],
+              "value": "#SeeJosh. 24:33"
+            },
+            {
+              "rowId": 135,
+              "keyParts": [
+                135,
+                "p7",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "all the hill country of Ephraim, saying, “Come down against the Midianites and capture the waters against them, as far as"
+            },
+            {
+              "rowId": 136,
+              "keyParts": [
+                136,
+                "p7",
+                "verse",
+                "v24",
+                "note",
+                "x"
+              ],
+              "value": "#[ch.3:28]"
+            },
+            {
+              "rowId": 137,
+              "keyParts": [
+                137,
+                "p7",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "Beth-barah, and also the Jordan.” So all the men of Ephraim were called out, and they captured the waters as far as Beth-barah, and also the Jordan."
+            },
+            {
+              "rowId": 138,
+              "keyParts": [
+                "v024_ESV_JDG_007",
+                138,
+                "p7",
+                "verse",
+                "v24",
+                "plain_text"
+              ],
+              "value": "24 Gideon sent messengers throughout all the hill country of Ephraim, saying, “Come down against the Midianites and capture the waters against them, as far as Beth-barah, and also the Jordan.” So all the men of Ephraim were called out, and they captured the waters as far as Beth-barah, and also the Jordan."
+            },
+            {
+              "rowId": 139,
+              "keyParts": [
+                139,
+                "p7",
+                "verse",
+                "v25",
+                "label"
+              ],
+              "value": "25"
+            },
+            {
+              "rowId": 140,
+              "keyParts": [
+                140,
+                "p7",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "And they captured"
+            },
+            {
+              "rowId": 141,
+              "keyParts": [
+                141,
+                "p7",
+                "verse",
+                "v25",
+                "note",
+                "x"
+              ],
+              "value": "#ch.8:3;Ps. 83:11"
+            },
+            {
+              "rowId": 142,
+              "keyParts": [
+                142,
+                "p7",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "the two princes of Midian, Oreb and Zeeb. They killed Oreb"
+            },
+            {
+              "rowId": 143,
+              "keyParts": [
+                143,
+                "p7",
+                "verse",
+                "v25",
+                "note",
+                "x"
+              ],
+              "value": "#Isa. 10:26"
+            },
+            {
+              "rowId": 144,
+              "keyParts": [
+                144,
+                "p7",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "at the rock of Oreb, and Zeeb they killed at the winepress of Zeeb. Then they pursued Midian, and they brought the heads of Oreb and Zeeb to Gideon"
+            },
+            {
+              "rowId": 145,
+              "keyParts": [
+                145,
+                "p7",
+                "verse",
+                "v25",
+                "note",
+                "x"
+              ],
+              "value": "#ch.8:4"
+            },
+            {
+              "rowId": 146,
+              "keyParts": [
+                146,
+                "p7",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "across the Jordan."
+            },
+            {
+              "rowId": 147,
+              "keyParts": [
+                "v025_ESV_JDG_007",
+                147,
+                "p7",
+                "verse",
+                "v25",
+                "plain_text"
+              ],
+              "value": "25 And they captured the two princes of Midian, Oreb and Zeeb. They killed Oreb at the rock of Oreb, and Zeeb they killed at the winepress of Zeeb. Then they pursued Midian, and they brought the heads of Oreb and Zeeb to Gideon across the Jordan."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

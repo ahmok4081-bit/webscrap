@@ -1,0 +1,1492 @@
+{
+  "translationId": "NET",
+  "name": "New English Translation",
+  "abbreviation": "NET",
+  "language": "English",
+  "copyright": "1996 - 2007 by Biblical Studies Press, LLC",
+  "books": [
+    {
+      "bookId": "GEN",
+      "testament": "",
+      "order": 0,
+      "title": "Genesis",
+      "abbreviation": "GEN",
+      "chapters": [
+        {
+          "chapter": 20,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Abraham and Abimelech"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "Abraham journeyed from there to the Negev"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "f"
+              ],
+              "value": "tn Or “the South [country]”; Heb “the land of the Negev.”\nsn Negev is the name for the southern desert region in the land of Canaan."
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "region and settled between Kadesh and Shur. While he lived as a temporary resident"
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                7,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and he sojourned.”"
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "in Gerar,"
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                "v001_NET_GEN_020",
+                9,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 Abraham journeyed from there to the Negev region and settled between Kadesh and Shur. While he lived as a temporary resident in Gerar,"
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                11,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "Abraham said about his wife Sarah, “She is my sister.” So Abimelech, king of Gerar, sent for Sarah and took her."
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                "v002_NET_GEN_020",
+                12,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 Abraham said about his wife Sarah, “She is my sister.” So Abimelech, king of Gerar, sent for Sarah and took her."
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                13,
+                "p2",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "p2",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "But God appeared"
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                15,
+                "p2",
+                "verse",
+                "v3",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “came.”"
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                16,
+                "p2",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "to Abimelech in a dream at night and said to him, “You are as good as dead"
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                17,
+                "p2",
+                "verse",
+                "v3",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “Look, you [are] dead.” The Hebrew construction uses the particle הִנֵּה (hinneh) with a second person pronominal particle הִנֵּה (hinneh) with by the participle. It is a highly rhetorical expression."
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "p2",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "because of the woman you have taken, for she is someone else’s wife.”"
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p2",
+                "verse",
+                "v3",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and she is owned by an owner.” The disjunctive clause is causal or explanatory in this case."
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                "v003_NET_GEN_020",
+                20,
+                "p2",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 But God appeared to Abimelech in a dream at night and said to him, “You are as good as dead because of the woman you have taken, for she is someone else’s wife.”"
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p3",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                22,
+                "p3",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "Now Abimelech had not gone near her. He said, “Lord,"
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "p3",
+                "verse",
+                "v4",
+                "note",
+                "f"
+              ],
+              "value": "tn The Hebrew term translated “Lord” here is אֲדֹנָי (’adonay)."
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                24,
+                "p3",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "would you really slaughter an innocent nation?"
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "p3",
+                "verse",
+                "v4",
+                "note",
+                "f"
+              ],
+              "value": "tn Apparently Abimelech assumes that God’s judgment will fall on his entire nation. Some, finding the reference to a nation problematic, prefer to emend the text and read, “Would you really kill someone who is innocent?” See E. A. Speiser, Genesis (AB), 149."
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                "v004_NET_GEN_020",
+                26,
+                "p3",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 Now Abimelech had not gone near her. He said, “Lord, would you really slaughter an innocent nation?"
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                27,
+                "p3",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                28,
+                "p3",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "Did Abraham"
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                29,
+                "p3",
+                "verse",
+                "v5",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “he”; the referent has been specified in the translation for clarity."
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                30,
+                "p3",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "not say to me, ‘She is my sister’? And she herself said,"
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                31,
+                "p3",
+                "verse",
+                "v5",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and she, even she.”"
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "p3",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "‘He is my brother.’ I have done this with a clear conscience"
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                33,
+                "p3",
+                "verse",
+                "v5",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “with the integrity of my heart.”"
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                34,
+                "p3",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "and with innocent hands!”"
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                "v005_NET_GEN_020",
+                35,
+                "p3",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 Did Abraham not say to me, ‘She is my sister’? And she herself said, ‘He is my brother.’ I have done this with a clear conscience and with innocent hands!”"
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "p4",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                37,
+                "p4",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "Then in the dream God replied to him, “Yes, I know that you have done this with a clear conscience."
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                38,
+                "p4",
+                "verse",
+                "v6",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “with the integrity of your heart.”"
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                39,
+                "p4",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "That is why I have kept you"
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                40,
+                "p4",
+                "verse",
+                "v6",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and I, even I, kept you.”"
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p4",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "from sinning against me and why"
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "p4",
+                "verse",
+                "v6",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “therefore.”"
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                43,
+                "p4",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "I did not allow you to touch her."
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                "v006_NET_GEN_020",
+                44,
+                "p4",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 Then in the dream God replied to him, “Yes, I know that you have done this with a clear conscience. That is why I have kept you from sinning against me and why I did not allow you to touch her."
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                45,
+                "p4",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                46,
+                "p4",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "But now give back the man’s wife. Indeed"
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                47,
+                "p4",
+                "verse",
+                "v7",
+                "note",
+                "f"
+              ],
+              "value": "tn Or “for,” if the particle is understood as causal (as many English translations do) rather than asseverative."
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                48,
+                "p4",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "he is a prophet"
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                49,
+                "p4",
+                "verse",
+                "v7",
+                "note",
+                "f"
+              ],
+              "value": "sn For a discussion of the term prophet see N. Walker, “What is a Nabhi?” ZAW 73 (1961): 99-100."
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "p4",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "and he will pray for you; thus you will live."
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                51,
+                "p4",
+                "verse",
+                "v7",
+                "note",
+                "f"
+              ],
+              "value": "tn After the preceding jussive (or imperfect), the imperative with vav conjunctive here indicates result.\nsn He will pray for you that you may live. Abraham was known as a man of God whose prayer would be effectual. Ironically and sadly, he was also known as a liar."
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                52,
+                "p4",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "But if you don’t give her back,"
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                53,
+                "p4",
+                "verse",
+                "v7",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “if there is not you returning.” The suffix on the particle becomes the subject of the negated clause."
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                54,
+                "p4",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "know that you will surely die"
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                55,
+                "p4",
+                "verse",
+                "v7",
+                "note",
+                "f"
+              ],
+              "value": "tn The imperfect is preceded by the infinitive absolute to make the warning emphatic."
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                56,
+                "p4",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "along with all who belong to you.”"
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                "v007_NET_GEN_020",
+                57,
+                "p4",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 But now give back the man’s wife. Indeed he is a prophet and he will pray for you; thus you will live. But if you don’t give her back, know that you will surely die along with all who belong to you.”"
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                58,
+                "p5",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                59,
+                "p5",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "Early in the morning"
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                60,
+                "p5",
+                "verse",
+                "v8",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “And Abimelech rose early in the morning and he summoned.”"
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                61,
+                "p5",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "Abimelech summoned"
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                62,
+                "p5",
+                "verse",
+                "v8",
+                "note",
+                "f"
+              ],
+              "value": "tn The verb קָרָא (qara’) followed by the preposition לְ (lamed) means “to summon.”"
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                63,
+                "p5",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "all his servants. When he told them about all these things,"
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                64,
+                "p5",
+                "verse",
+                "v8",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “And he spoke all these things in their ears.”"
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                65,
+                "p5",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "they"
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                66,
+                "p5",
+                "verse",
+                "v8",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “the men.” This has been replaced by the pronoun “they” in the translation for stylistic reasons."
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                67,
+                "p5",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "were terrified."
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                "v008_NET_GEN_020",
+                68,
+                "p5",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 Early in the morning Abimelech summoned all his servants. When he told them about all these things, they were terrified."
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                69,
+                "p5",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                70,
+                "p5",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "Abimelech summoned Abraham and said to him, “What have you done to us? What sin did I commit against you that would cause you to bring such great guilt on me and my kingdom?"
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                71,
+                "p5",
+                "verse",
+                "v9",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “How did I sin against you that you have brought on me and on my kingdom a great sin?” The expression “great sin” refers to adultery. For discussion of the cultural background of the passage, see J. J. Rabinowitz, “The Great Sin in Ancient Egyptian Marriage Contracts,” JNES 18 (1959): 73, and W. L. Moran, “The Scandal of the ‘Great Sin’ at Ugarit,” JNES 18 (1959): 280-81."
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                72,
+                "p5",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "You have done things to me that should not be done!”"
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                73,
+                "p5",
+                "verse",
+                "v9",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “Deeds which should not be done you have done to me.” The imperfect has an obligatory nuance here."
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                "v009_NET_GEN_020",
+                74,
+                "p5",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 Abimelech summoned Abraham and said to him, “What have you done to us? What sin did I commit against you that would cause you to bring such great guilt on me and my kingdom? You have done things to me that should not be done!”"
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                75,
+                "p5",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                76,
+                "p5",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "Then Abimelech asked"
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                77,
+                "p5",
+                "verse",
+                "v10",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “And Abimelech said to.”"
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                78,
+                "p5",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "Abraham, “What prompted you to do this thing?”"
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                79,
+                "p5",
+                "verse",
+                "v10",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “What did you see that you did this thing?” The question implies that Abraham had some motive for deceiving Abimelech."
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                "v010_NET_GEN_020",
+                80,
+                "p5",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 Then Abimelech asked Abraham, “What prompted you to do this thing?”"
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                81,
+                "p6",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                82,
+                "p6",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "Abraham replied, “Because I thought,"
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                83,
+                "p6",
+                "verse",
+                "v11",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “Because I said.”"
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                84,
+                "p6",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "‘Surely no one fears God in this place. They will kill me because of"
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                85,
+                "p6",
+                "verse",
+                "v11",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “over the matter of.”"
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                86,
+                "p6",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "my wife.’"
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                "v011_NET_GEN_020",
+                87,
+                "p6",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 Abraham replied, “Because I thought, ‘Surely no one fears God in this place. They will kill me because of my wife.’"
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                88,
+                "p6",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                89,
+                "p6",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "What’s more,"
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                90,
+                "p6",
+                "verse",
+                "v12",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “but also.”"
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                91,
+                "p6",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "she is indeed my sister, my father’s daughter, but not my mother’s daughter. She became my wife."
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                "v012_NET_GEN_020",
+                92,
+                "p6",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 What’s more, she is indeed my sister, my father’s daughter, but not my mother’s daughter. She became my wife."
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                93,
+                "p6",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                94,
+                "p6",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "When God made me wander"
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                95,
+                "p6",
+                "verse",
+                "v13",
+                "note",
+                "f"
+              ],
+              "value": "tn The Hebrew verb is plural. This may be a case of grammatical agreement with the name for God, which is plural in form. However, when this plural name refers to the one true God, accompanying predicates are usually singular in form. Perhaps Abraham is accommodating his speech to Abimelech’s polytheistic perspective. (See GKC 463 §145.i.) If so, one should translate, “when the gods made me wander.”"
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                96,
+                "p6",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "from my father’s house, I told her, ‘This is what you can do to show your loyalty to me:"
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                97,
+                "p6",
+                "verse",
+                "v13",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “This is your loyal deed which you can do for me.”"
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                98,
+                "p6",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "Every place we go, say about me, “He is my brother.”’”"
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                "v013_NET_GEN_020",
+                99,
+                "p6",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 When God made me wander from my father’s house, I told her, ‘This is what you can do to show your loyalty to me: Every place we go, say about me, “He is my brother.”’”"
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                100,
+                "p7",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                101,
+                "p7",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "So Abimelech gave"
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                102,
+                "p7",
+                "verse",
+                "v14",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “took and gave.”"
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                103,
+                "p7",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "sheep, cattle, and male and female servants to Abraham. He also gave his wife Sarah back to him."
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                "v014_NET_GEN_020",
+                104,
+                "p7",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 So Abimelech gave sheep, cattle, and male and female servants to Abraham. He also gave his wife Sarah back to him."
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                105,
+                "p7",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                106,
+                "p7",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "Then Abimelech said, “Look, my land is before you; live wherever you please.”"
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                107,
+                "p7",
+                "verse",
+                "v15",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “In the [place that is] good in your eyes live!”"
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                "v015_NET_GEN_020",
+                108,
+                "p7",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 Then Abimelech said, “Look, my land is before you; live wherever you please.”"
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                109,
+                "p8",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                110,
+                "p8",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "To Sarah he said, “Look, I have given a thousand pieces of silver"
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                111,
+                "p8",
+                "verse",
+                "v16",
+                "note",
+                "f"
+              ],
+              "value": "sn A thousand pieces [Heb “shekels”] of silver. The standards for weighing money varied considerably in the ancient Near East, but the generally accepted weight for the shekel is 11.5 grams (0.4 ounce). This makes the weight of silver here 11.5 kilograms, or 400 ounces (about 25 pounds)."
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                112,
+                "p8",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "to your ‘brother.’"
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                113,
+                "p8",
+                "verse",
+                "v16",
+                "note",
+                "f"
+              ],
+              "value": "sn To your ‘brother.’ Note the way that the king refers to Abraham. Was he being sarcastic? It was surely a rebuke to Sarah. What is amazing is how patient this king was. It is proof that the fear of God was in that place, contrary to what Abraham believed (see v. 11)."
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                114,
+                "p8",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "This is compensation for you so that you will stand vindicated before all who are with you.”"
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                115,
+                "p8",
+                "verse",
+                "v16",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “Look, it is for you a covering of the eyes, for all who are with you, and with all, and you are set right.” The exact meaning of the statement is unclear. Apparently it means that the gift of money somehow exonerates her in other people’s eyes. They will not look on her as compromised (see G. J. Wenham, Genesis [WBC], 2:74)."
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                "v016_NET_GEN_020",
+                116,
+                "p8",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 To Sarah he said, “Look, I have given a thousand pieces of silver to your ‘brother.’ This is compensation for you so that you will stand vindicated before all who are with you.”"
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                117,
+                "p9",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                118,
+                "p9",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "Abraham prayed to God, and God healed Abimelech, as well as his wife and female slaves so that they were able to have children."
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                "v017_NET_GEN_020",
+                119,
+                "p9",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 Abraham prayed to God, and God healed Abimelech, as well as his wife and female slaves so that they were able to have children."
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                120,
+                "p9",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 121,
+              "keyParts": [
+                121,
+                "p9",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "For the"
+            },
+            {
+              "rowId": 122,
+              "keyParts": [
+                122,
+                "p9",
+                "verse",
+                "v18",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 123,
+              "keyParts": [
+                123,
+                "p9",
+                "verse",
+                "v18",
+                "note",
+                "f"
+              ],
+              "value": "tn In the Hebrew text the clause begins with “because.”"
+            },
+            {
+              "rowId": 124,
+              "keyParts": [
+                124,
+                "p9",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "had caused infertility to strike every woman"
+            },
+            {
+              "rowId": 125,
+              "keyParts": [
+                125,
+                "p9",
+                "verse",
+                "v18",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb had completely closed up every womb.” In the Hebrew text infinitive absolute precedes the finite verb for emphasis.\nsn The Lord had closed up every womb. This fact indicates that Sarah was in Abimelech’s household for weeks or months before the dream revelation was given (20:6-7). No one in his household could have children after Sarah arrived on the scene."
+            },
+            {
+              "rowId": 126,
+              "keyParts": [
+                126,
+                "p9",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "in the household of Abimelech because he took"
+            },
+            {
+              "rowId": 127,
+              "keyParts": [
+                127,
+                "p9",
+                "verse",
+                "v18",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “because of.” The words “he took” are supplied in the translation for clarity."
+            },
+            {
+              "rowId": 128,
+              "keyParts": [
+                128,
+                "p9",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "Sarah, Abraham’s wife."
+            },
+            {
+              "rowId": 129,
+              "keyParts": [
+                "v018_NET_GEN_020",
+                129,
+                "p9",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 For the Lord had caused infertility to strike every woman in the household of Abimelech because he took Sarah, Abraham’s wife."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

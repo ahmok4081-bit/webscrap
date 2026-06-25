@@ -1,0 +1,1706 @@
+{
+  "translationId": "NET",
+  "name": "New English Translation",
+  "abbreviation": "NET",
+  "language": "English",
+  "copyright": "1996 - 2007 by Biblical Studies Press, LLC",
+  "books": [
+    {
+      "bookId": "GEN",
+      "testament": "",
+      "order": 0,
+      "title": "Genesis",
+      "abbreviation": "GEN",
+      "chapters": [
+        {
+          "chapter": 45,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "45"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "The Reconciliation of the Brothers"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "Joseph was no longer able to control himself before all his attendants,"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “all the ones standing beside him.”"
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "so he cried out, “Make everyone go out from my presence!” No one remained"
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                7,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “stood.”"
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "with Joseph when he made himself known to his brothers."
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                "v001_NET_GEN_045",
+                9,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 Joseph was no longer able to control himself before all his attendants, so he cried out, “Make everyone go out from my presence!” No one remained with Joseph when he made himself known to his brothers."
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                11,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "He wept loudly;"
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                12,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and he gave his voice in weeping,” meaning that Joseph could not restrain himself and wept out loud."
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                13,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "the Egyptians heard it and Pharaoh’s household heard about it."
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and the Egyptians heard and the household of Pharaoh heard.” Presumably in the latter case this was by means of a report."
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                "v002_NET_GEN_045",
+                15,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 He wept loudly; the Egyptians heard it and Pharaoh’s household heard about it."
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                16,
+                "p2",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                17,
+                "p2",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "Joseph said to his brothers, “I am Joseph! Is my father still alive?” His brothers could not answer him because they were dumbfounded before him."
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                "v003_NET_GEN_045",
+                18,
+                "p2",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 Joseph said to his brothers, “I am Joseph! Is my father still alive?” His brothers could not answer him because they were dumbfounded before him."
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p2",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                20,
+                "p2",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "Joseph said to his brothers, “Come closer to me,” so they came near. Then he said, “I am Joseph your brother, whom you sold into Egypt."
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                "v004_NET_GEN_045",
+                21,
+                "p2",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 Joseph said to his brothers, “Come closer to me,” so they came near. Then he said, “I am Joseph your brother, whom you sold into Egypt."
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                22,
+                "p2",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "p2",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "Now, do not be upset and do not be angry with yourselves because you sold me here,"
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                24,
+                "p2",
+                "verse",
+                "v5",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “let there not be anger in your eyes.”"
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "p2",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "for God sent me"
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                26,
+                "p2",
+                "verse",
+                "v5",
+                "note",
+                "f"
+              ],
+              "value": "sn You sold me here, for God sent me. The tension remains as to how the brothers’ wickedness and God’s intentions work together. Clearly God is able to transform the actions of wickedness to bring about some gracious end. But this is saying more than that; it is saying that from the beginning it was God who sent Joseph here. Although harmonization of these ideas remains humanly impossible, the divine intention is what should be the focus. Only that will enable reconciliation."
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                27,
+                "p2",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "ahead of you to preserve life!"
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                "v005_NET_GEN_045",
+                28,
+                "p2",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 Now, do not be upset and do not be angry with yourselves because you sold me here, for God sent me ahead of you to preserve life!"
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                29,
+                "p2",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                30,
+                "p2",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "For these past two years there has been famine in"
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                31,
+                "p2",
+                "verse",
+                "v6",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “the famine [has been] in the midst of.”"
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "p2",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "the land and for five more years there will be neither plowing nor harvesting."
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                "v006_NET_GEN_045",
+                33,
+                "p2",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 For these past two years there has been famine in the land and for five more years there will be neither plowing nor harvesting."
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                34,
+                "p2",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                35,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "God sent me"
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "p2",
+                "verse",
+                "v7",
+                "note",
+                "f"
+              ],
+              "value": "sn God sent me. The repetition of this theme that God sent Joseph is reminiscent of commission narratives in which the leader could announce that God sent him (e.g., Exod 3:15)."
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                37,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "ahead of you to preserve you"
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                38,
+                "p2",
+                "verse",
+                "v7",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “to make you a remnant.” The verb, followed here by the preposition לְ (lÿ), means “to make.”"
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                39,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "on the earth and to save your lives"
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                40,
+                "p2",
+                "verse",
+                "v7",
+                "note",
+                "f"
+              ],
+              "value": "tn The infinitive gives a second purpose for God’s action."
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "by a great deliverance."
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                "v007_NET_GEN_045",
+                42,
+                "p2",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 God sent me ahead of you to preserve you on the earth and to save your lives by a great deliverance."
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                43,
+                "p2",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                44,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "So now, it is not you who sent me here, but God. He has made me an adviser"
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                45,
+                "p2",
+                "verse",
+                "v8",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “a father.” The term is used here figuratively of one who gives advice, as a father would to his children."
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                46,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "to Pharaoh, lord over all his household, and ruler over all the land of Egypt."
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                "v008_NET_GEN_045",
+                47,
+                "p2",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 So now, it is not you who sent me here, but God. He has made me an adviser to Pharaoh, lord over all his household, and ruler over all the land of Egypt."
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                48,
+                "p2",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                49,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "Now go up to my father quickly"
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "p2",
+                "verse",
+                "v9",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “hurry and go up.”"
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                51,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "and tell him, ‘This is what your son Joseph says: “God has made me lord of all Egypt. Come down to me; do not delay!"
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                "v009_NET_GEN_045",
+                52,
+                "p2",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 Now go up to my father quickly and tell him, ‘This is what your son Joseph says: “God has made me lord of all Egypt. Come down to me; do not delay!"
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                53,
+                "p2",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                54,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "You will live"
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                55,
+                "p2",
+                "verse",
+                "v10",
+                "note",
+                "f"
+              ],
+              "value": "tn The perfect verbal form with vav consecutive here expresses instruction."
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                56,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "in the land of Goshen, and you will be near me – you, your children, your grandchildren, your flocks, your herds, and everything you have."
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                "v010_NET_GEN_045",
+                57,
+                "p2",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 You will live in the land of Goshen, and you will be near me – you, your children, your grandchildren, your flocks, your herds, and everything you have."
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                58,
+                "p2",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                59,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "I will provide you with food"
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                60,
+                "p2",
+                "verse",
+                "v11",
+                "note",
+                "f"
+              ],
+              "value": "tn The verb כּוּל (kul) in the Pilpel stem means “to nourish, to support, to sustain.” As in 1 Kgs 20:27, it here means “to supply with food.”"
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                61,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "there because there will be five more years of famine. Otherwise you would become poor – you, your household, and everyone who belongs to you.”’"
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                "v011_NET_GEN_045",
+                62,
+                "p2",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 I will provide you with food there because there will be five more years of famine. Otherwise you would become poor – you, your household, and everyone who belongs to you.”’"
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                63,
+                "p2",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                64,
+                "p2",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "You and my brother Benjamin can certainly see with your own eyes that I really am the one who speaks to you."
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                65,
+                "p2",
+                "verse",
+                "v12",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “And, look, your eyes see and the eyes of my brother Benjamin, that my mouth is the one speaking to you.”"
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                "v012_NET_GEN_045",
+                66,
+                "p2",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 You and my brother Benjamin can certainly see with your own eyes that I really am the one who speaks to you."
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                67,
+                "p2",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                68,
+                "p2",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "So tell"
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                69,
+                "p2",
+                "verse",
+                "v13",
+                "note",
+                "f"
+              ],
+              "value": "tn The perfect verbal form with the vav consecutive here expresses instruction."
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                70,
+                "p2",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "my father about all my honor in Egypt and about everything you have seen. But bring my father down here quickly!”"
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                71,
+                "p2",
+                "verse",
+                "v13",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and hurry and bring down my father to here.”"
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                "v013_NET_GEN_045",
+                72,
+                "p2",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 So tell my father about all my honor in Egypt and about everything you have seen. But bring my father down here quickly!”"
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                73,
+                "p3",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                74,
+                "p3",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "Then he threw himself on the neck of his brother Benjamin and wept, and Benjamin wept on his neck."
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                "v014_NET_GEN_045",
+                75,
+                "p3",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 Then he threw himself on the neck of his brother Benjamin and wept, and Benjamin wept on his neck."
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                76,
+                "p3",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                77,
+                "p3",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "He kissed all his brothers and wept over them. After this his brothers talked with him."
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                "v015_NET_GEN_045",
+                78,
+                "p3",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 He kissed all his brothers and wept over them. After this his brothers talked with him."
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                79,
+                "p4",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                80,
+                "p4",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "Now it was reported"
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                81,
+                "p4",
+                "verse",
+                "v16",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and the sound was heard.”"
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                82,
+                "p4",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "in the household of Pharaoh, “Joseph’s brothers have arrived.” It pleased"
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                83,
+                "p4",
+                "verse",
+                "v16",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “was good in the eyes of.”"
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                84,
+                "p4",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "Pharaoh and his servants."
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                "v016_NET_GEN_045",
+                85,
+                "p4",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 Now it was reported in the household of Pharaoh, “Joseph’s brothers have arrived.” It pleased Pharaoh and his servants."
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                86,
+                "p4",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                87,
+                "p4",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "Pharaoh said to Joseph, “Say to your brothers, ‘Do this: Load your animals and go"
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                88,
+                "p4",
+                "verse",
+                "v17",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and go! Enter!”"
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                89,
+                "p4",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "to the land of Canaan!"
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                "v017_NET_GEN_045",
+                90,
+                "p4",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 Pharaoh said to Joseph, “Say to your brothers, ‘Do this: Load your animals and go to the land of Canaan!"
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                91,
+                "p4",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                92,
+                "p4",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "Get your father and your households and come to me! Then I will give you"
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                93,
+                "p4",
+                "verse",
+                "v18",
+                "note",
+                "f"
+              ],
+              "value": "tn After the imperatives in vv. 17-18a, the cohortative with vav indicates result."
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                94,
+                "p4",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "the best land in Egypt and you will eat"
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                95,
+                "p4",
+                "verse",
+                "v18",
+                "note",
+                "f"
+              ],
+              "value": "tn After the cohortative the imperative with vav states the ultimate goal."
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                96,
+                "p4",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "the best"
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                97,
+                "p4",
+                "verse",
+                "v18",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “fat.”"
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                98,
+                "p4",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "of the land.’"
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                "v018_NET_GEN_045",
+                99,
+                "p4",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 Get your father and your households and come to me! Then I will give you the best land in Egypt and you will eat the best of the land.’"
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                100,
+                "p4",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                101,
+                "p4",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "You are also commanded to say,"
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                102,
+                "p4",
+                "verse",
+                "v19",
+                "note",
+                "f"
+              ],
+              "value": "tn The words “to say” have been supplied in the translation for stylistic reasons."
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                103,
+                "p4",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "‘Do this: Take for yourselves wagons from the land of Egypt for your little ones and for your wives. Bring your father and come."
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                "v019_NET_GEN_045",
+                104,
+                "p4",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 You are also commanded to say, ‘Do this: Take for yourselves wagons from the land of Egypt for your little ones and for your wives. Bring your father and come."
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                105,
+                "p4",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                106,
+                "p4",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "Don’t worry"
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                107,
+                "p4",
+                "verse",
+                "v20",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “let not your eye regard.”"
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                108,
+                "p4",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "about your belongings, for the best of all the land of Egypt will be yours.’”"
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                "v020_NET_GEN_045",
+                109,
+                "p4",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 Don’t worry about your belongings, for the best of all the land of Egypt will be yours.’”"
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                110,
+                "p5",
+                "verse",
+                "v21",
+                "label"
+              ],
+              "value": "21"
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                111,
+                "p5",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "So the sons of Israel did as he said."
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                112,
+                "p5",
+                "verse",
+                "v21",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and the sons of Israel did so.”"
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                113,
+                "p5",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "Joseph gave them wagons as Pharaoh had instructed,"
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                114,
+                "p5",
+                "verse",
+                "v21",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “according to the mouth of Pharaoh.”"
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                115,
+                "p5",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "and he gave them provisions for the journey."
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                "v021_NET_GEN_045",
+                116,
+                "p5",
+                "verse",
+                "v21",
+                "plain_text"
+              ],
+              "value": "21 So the sons of Israel did as he said. Joseph gave them wagons as Pharaoh had instructed, and he gave them provisions for the journey."
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                117,
+                "p5",
+                "verse",
+                "v22",
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                118,
+                "p5",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "He gave sets of clothes to each one of them,"
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                119,
+                "p5",
+                "verse",
+                "v22",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “to all of them he gave, to each one, changes of outer garments.”"
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                120,
+                "p5",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "but to Benjamin he gave three hundred pieces of silver and five sets of clothes."
+            },
+            {
+              "rowId": 121,
+              "keyParts": [
+                121,
+                "p5",
+                "verse",
+                "v22",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “changes of outer garments.”"
+            },
+            {
+              "rowId": 122,
+              "keyParts": [
+                "v022_NET_GEN_045",
+                122,
+                "p5",
+                "verse",
+                "v22",
+                "plain_text"
+              ],
+              "value": "22 He gave sets of clothes to each one of them, but to Benjamin he gave three hundred pieces of silver and five sets of clothes."
+            },
+            {
+              "rowId": 123,
+              "keyParts": [
+                123,
+                "p5",
+                "verse",
+                "v23",
+                "label"
+              ],
+              "value": "23"
+            },
+            {
+              "rowId": 124,
+              "keyParts": [
+                124,
+                "p5",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "To his father he sent the following:"
+            },
+            {
+              "rowId": 125,
+              "keyParts": [
+                125,
+                "p5",
+                "verse",
+                "v23",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “according to this.”"
+            },
+            {
+              "rowId": 126,
+              "keyParts": [
+                126,
+                "p5",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "ten donkeys loaded with the best products of Egypt and ten female donkeys loaded with grain, food, and provisions for his father’s journey."
+            },
+            {
+              "rowId": 127,
+              "keyParts": [
+                "v023_NET_GEN_045",
+                127,
+                "p5",
+                "verse",
+                "v23",
+                "plain_text"
+              ],
+              "value": "23 To his father he sent the following: ten donkeys loaded with the best products of Egypt and ten female donkeys loaded with grain, food, and provisions for his father’s journey."
+            },
+            {
+              "rowId": 128,
+              "keyParts": [
+                128,
+                "p5",
+                "verse",
+                "v24",
+                "label"
+              ],
+              "value": "24"
+            },
+            {
+              "rowId": 129,
+              "keyParts": [
+                129,
+                "p5",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "Then he sent his brothers on their way and they left. He said to them, “As you travel don’t be overcome with fear.”"
+            },
+            {
+              "rowId": 130,
+              "keyParts": [
+                130,
+                "p5",
+                "verse",
+                "v24",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “do not be stirred up in the way.” The verb means “stir up.” Some understand the Hebrew verb רָגָז (ragaz, “to stir up”) as a reference to quarreling (see Prov 29:9, where it has this connotation), but in Exod 15:14 and other passages it means “to fear.” This might refer to a fear of robbers, but more likely it is an assuring word that they need not be fearful about returning to Egypt. They might have thought that once Jacob was in Egypt, Joseph would take his revenge on them."
+            },
+            {
+              "rowId": 131,
+              "keyParts": [
+                "v024_NET_GEN_045",
+                131,
+                "p5",
+                "verse",
+                "v24",
+                "plain_text"
+              ],
+              "value": "24 Then he sent his brothers on their way and they left. He said to them, “As you travel don’t be overcome with fear.”"
+            },
+            {
+              "rowId": 132,
+              "keyParts": [
+                132,
+                "p6",
+                "verse",
+                "v25",
+                "label"
+              ],
+              "value": "25"
+            },
+            {
+              "rowId": 133,
+              "keyParts": [
+                133,
+                "p6",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "So they went up from Egypt and came to their father Jacob in the land of Canaan."
+            },
+            {
+              "rowId": 134,
+              "keyParts": [
+                134,
+                "p6",
+                "verse",
+                "v25",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and they entered the land of Canaan to their father.”"
+            },
+            {
+              "rowId": 135,
+              "keyParts": [
+                "v025_NET_GEN_045",
+                135,
+                "p6",
+                "verse",
+                "v25",
+                "plain_text"
+              ],
+              "value": "25 So they went up from Egypt and came to their father Jacob in the land of Canaan."
+            },
+            {
+              "rowId": 136,
+              "keyParts": [
+                136,
+                "p6",
+                "verse",
+                "v26",
+                "label"
+              ],
+              "value": "26"
+            },
+            {
+              "rowId": 137,
+              "keyParts": [
+                137,
+                "p6",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "They told him, “Joseph is still alive and he is ruler over all the land of Egypt!” Jacob was stunned,"
+            },
+            {
+              "rowId": 138,
+              "keyParts": [
+                138,
+                "p6",
+                "verse",
+                "v26",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and his heart was numb.” Jacob was stunned by the unbelievable news and was unable to respond."
+            },
+            {
+              "rowId": 139,
+              "keyParts": [
+                139,
+                "p6",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "for he did not believe them."
+            },
+            {
+              "rowId": 140,
+              "keyParts": [
+                "v026_NET_GEN_045",
+                140,
+                "p6",
+                "verse",
+                "v26",
+                "plain_text"
+              ],
+              "value": "26 They told him, “Joseph is still alive and he is ruler over all the land of Egypt!” Jacob was stunned, for he did not believe them."
+            },
+            {
+              "rowId": 141,
+              "keyParts": [
+                141,
+                "p6",
+                "verse",
+                "v27",
+                "label"
+              ],
+              "value": "27"
+            },
+            {
+              "rowId": 142,
+              "keyParts": [
+                142,
+                "p6",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "But when they related to him everything Joseph had said to them,"
+            },
+            {
+              "rowId": 143,
+              "keyParts": [
+                143,
+                "p6",
+                "verse",
+                "v27",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and they spoke to him all the words of Joseph which he had spoke to them.”"
+            },
+            {
+              "rowId": 144,
+              "keyParts": [
+                144,
+                "p6",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "and when he saw the wagons that Joseph had sent to transport him, their father Jacob’s spirit revived."
+            },
+            {
+              "rowId": 145,
+              "keyParts": [
+                "v027_NET_GEN_045",
+                145,
+                "p6",
+                "verse",
+                "v27",
+                "plain_text"
+              ],
+              "value": "27 But when they related to him everything Joseph had said to them, and when he saw the wagons that Joseph had sent to transport him, their father Jacob’s spirit revived."
+            },
+            {
+              "rowId": 146,
+              "keyParts": [
+                146,
+                "p6",
+                "verse",
+                "v28",
+                "label"
+              ],
+              "value": "28"
+            },
+            {
+              "rowId": 147,
+              "keyParts": [
+                147,
+                "p6",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "Then Israel said, “Enough! My son Joseph is still alive! I will go and see him before I die.”"
+            },
+            {
+              "rowId": 148,
+              "keyParts": [
+                "v028_NET_GEN_045",
+                148,
+                "p6",
+                "verse",
+                "v28",
+                "plain_text"
+              ],
+              "value": "28 Then Israel said, “Enough! My son Joseph is still alive! I will go and see him before I die.”"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

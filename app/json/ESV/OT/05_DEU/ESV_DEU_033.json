@@ -1,0 +1,3347 @@
+{
+  "translationId": "ESV",
+  "name": "English Standard Version",
+  "abbreviation": "ESV",
+  "language": "English",
+  "copyright": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.",
+  "books": [
+    {
+      "bookId": "DEU",
+      "testament": "OT",
+      "order": 5,
+      "title": "Deuteronomy",
+      "abbreviation": "DEU",
+      "chapters": [
+        {
+          "chapter": 33,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "33"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Moses’ Final Blessing on Israel"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "This is the blessing with which Moses"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#Josh. 14:6;1 Chr. 23:14;2 Chr. 30:16;Ezra 3:2"
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "the man of God blessed the people of Israel before his death."
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                "v001_ESV_DEU_033",
+                7,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 This is the blessing with which Moses the man of God blessed the people of Israel before his death."
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                9,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "He said,"
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "q1_1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#[Ex. 19:18,20;Judg. 5:4,5;Ps. 68:7,8;Hab. 3:3]"
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                11,
+                "q1_1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "“The"
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                12,
+                "q1_1",
+                "verse",
+                "v2",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                13,
+                "q1_1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "came from Sinai"
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "q2_1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "and dawned from Seir upon us;"
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                15,
+                "q2_1",
+                "verse",
+                "v2",
+                "note",
+                "f"
+              ],
+              "value": "#33:2Septuagint, Syriac, Vulgate; Hebrewthem"
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                16,
+                "q2_2",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "he shone forth from Mount Paran;"
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                17,
+                "q1_2",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "he came"
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "q1_2",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#[Ps. 68:17;Dan. 7:10;Acts 7:53;Gal. 3:19;Heb. 2:2;Jude 14;Rev. 5:11]"
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "q1_2",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "from the ten thousands of holy ones,"
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                20,
+                "q2_3",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "with flaming fire"
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "q2_3",
+                "verse",
+                "v2",
+                "note",
+                "f"
+              ],
+              "value": "#33:2The meaning of the Hebrew word is uncertain"
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                22,
+                "q2_3",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "at his right hand."
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                "v002_ESV_DEU_033",
+                23,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 He said, “The Lord came from Sinai and dawned from Seir upon us; he shone forth from Mount Paran; he came from the ten thousands of holy ones, with flaming fire at his right hand."
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                24,
+                "q1_3",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "q1_3",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "Yes,"
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                26,
+                "q1_3",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#ch.7:7,8;10:15;Hos. 11:1"
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                27,
+                "q1_3",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "he loved his people,"
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                28,
+                "q1_3",
+                "verse",
+                "v3",
+                "note",
+                "f"
+              ],
+              "value": "#33:3Septuagint; Hebrewpeoples"
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                29,
+                "q2_4",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#[John 10:27-29;Rom. 8:35,38,39]"
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                30,
+                "q2_4",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "all his holy ones were in his"
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                31,
+                "q2_4",
+                "verse",
+                "v3",
+                "note",
+                "f"
+              ],
+              "value": "#33:3Hebrewyour"
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "q2_4",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "hand;"
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                33,
+                "q1_4",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#[Luke 10:39;Acts 22:3]"
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                34,
+                "q1_4",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "so they followed"
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                35,
+                "q1_4",
+                "verse",
+                "v3",
+                "note",
+                "f"
+              ],
+              "value": "#33:3The meaning of the Hebrew word is uncertain"
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "q1_4",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "in your steps,"
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                37,
+                "q2_5",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "receiving direction from you,"
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                "v003_ESV_DEU_033",
+                38,
+                "q1_3",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 Yes, he loved his people, all his holy ones were in his hand; so they followed in your steps, receiving direction from you,"
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                39,
+                "q1_5",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                40,
+                "q1_5",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "when"
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "q1_5",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#John 1:17;7:19"
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "q1_5",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "Moses commanded us a law,"
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                43,
+                "q2_6",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "as a possession for the assembly of Jacob."
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                "v004_ESV_DEU_033",
+                44,
+                "q1_5",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 when Moses commanded us a law, as a possession for the assembly of Jacob."
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                45,
+                "q1_6",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                46,
+                "q1_6",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "Thus the"
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                47,
+                "q1_6",
+                "verse",
+                "v5",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                48,
+                "q1_6",
+                "verse",
+                "v5",
+                "note",
+                "f"
+              ],
+              "value": "#33:5HebrewThus he"
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                49,
+                "q1_6",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 23:21;[Judg. 8:23;Isa. 33:22]"
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "q1_6",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "became king in"
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                51,
+                "q1_6",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.32:15"
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                52,
+                "q1_6",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "Jeshurun,"
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                53,
+                "q2_7",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "when the heads of the people were gathered,"
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                54,
+                "q2_8",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "all the tribes of Israel together."
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                "v005_ESV_DEU_033",
+                55,
+                "q1_6",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 Thus the Lord became king in Jeshurun, when the heads of the people were gathered, all the tribes of Israel together."
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                56,
+                "q1_7",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                57,
+                "q1_7",
+                "verse",
+                "v6",
+                "note",
+                "x"
+              ],
+              "value": "#[Gen. 49:3,4]"
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                58,
+                "q1_7",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "“Let Reuben live, and not die,"
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                59,
+                "q2_9",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "but let his men be few.”"
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                "v006_ESV_DEU_033",
+                60,
+                "q1_7",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 “Let Reuben live, and not die, but let his men be few.”"
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                61,
+                "m1",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                62,
+                "m1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "And this he said of Judah:"
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                63,
+                "q1_8",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "“Hear, O"
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                64,
+                "q1_8",
+                "verse",
+                "v7",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                65,
+                "q1_8",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": ", the voice of Judah,"
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                66,
+                "q2_10",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "and bring him in to his people."
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                67,
+                "q1_9",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "With your hands contend"
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                68,
+                "q1_9",
+                "verse",
+                "v7",
+                "note",
+                "f"
+              ],
+              "value": "#33:7Probable reading; HebrewWith his hands he contended"
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                69,
+                "q1_9",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "for him,"
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                70,
+                "q2_11",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "and be a help against his adversaries.”"
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                "v007_ESV_DEU_033",
+                71,
+                "m1",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 And this he said of Judah: “Hear, O Lord , the voice of Judah, and bring him in to his people. With your hands contend for him, and be a help against his adversaries.”"
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                72,
+                "m2",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                73,
+                "m2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "And"
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                74,
+                "m2",
+                "verse",
+                "v8",
+                "note",
+                "x"
+              ],
+              "value": "#[Gen. 49:5]"
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                75,
+                "m2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "of Levi he said,"
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                76,
+                "q1_10",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "“Give to Levi"
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                77,
+                "q1_10",
+                "verse",
+                "v8",
+                "note",
+                "f"
+              ],
+              "value": "#33:8Dead Sea Scroll, Septuagint; Masoretic Text lacksGive to Levi"
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                78,
+                "q1_10",
+                "verse",
+                "v8",
+                "note",
+                "x"
+              ],
+              "value": "#SeeEx. 28:30"
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                79,
+                "q1_10",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "your Thummim,"
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                80,
+                "q2_12",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "and your Urim to your godly one,"
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                81,
+                "q1_11",
+                "verse",
+                "v8",
+                "note",
+                "x"
+              ],
+              "value": "#SeeEx. 17:7;Num. 20:13"
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                82,
+                "q1_11",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "whom you tested at Massah,"
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                83,
+                "q2_13",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "with whom you quarreled at the waters of Meribah;"
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                "v008_ESV_DEU_033",
+                84,
+                "m2",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 And of Levi he said, “Give to Levi your Thummim, and your Urim to your godly one, whom you tested at Massah, with whom you quarreled at the waters of Meribah;"
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                85,
+                "q1_12",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                86,
+                "q1_12",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "who said of his father and mother,"
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                87,
+                "q2_14",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "‘I regard them not’;"
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                88,
+                "q1_13",
+                "verse",
+                "v9",
+                "note",
+                "x"
+              ],
+              "value": "#SeeEx. 32:26-29"
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                89,
+                "q1_13",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "he disowned his brothers"
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                90,
+                "q2_15",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "and ignored his children."
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                91,
+                "q1_14",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "For"
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                92,
+                "q1_14",
+                "verse",
+                "v9",
+                "note",
+                "x"
+              ],
+              "value": "#Mal. 2:4-6"
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                93,
+                "q1_14",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "they observed your word"
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                94,
+                "q2_16",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "and kept your covenant."
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                "v009_ESV_DEU_033",
+                95,
+                "q1_12",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 who said of his father and mother, ‘I regard them not’; he disowned his brothers and ignored his children. For they observed your word and kept your covenant."
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                96,
+                "q1_15",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                97,
+                "q1_15",
+                "verse",
+                "v10",
+                "note",
+                "x"
+              ],
+              "value": "#ch.17:9-11;Ezek. 44:23;SeeLev. 10:11"
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                98,
+                "q1_15",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "They shall teach Jacob your rules"
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                99,
+                "q2_17",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "and Israel your law;"
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                100,
+                "q1_16",
+                "verse",
+                "v10",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 30:7,8;1 Sam. 2:28"
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                101,
+                "q1_16",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "they shall put incense before you"
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                102,
+                "q2_18",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "and"
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                103,
+                "q2_18",
+                "verse",
+                "v10",
+                "note",
+                "x"
+              ],
+              "value": "#Ps. 51:19;Ezek. 43:27"
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                104,
+                "q2_18",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "whole burnt offerings on your altar."
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                "v010_ESV_DEU_033",
+                105,
+                "q1_15",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 They shall teach Jacob your rules and Israel your law; they shall put incense before you and whole burnt offerings on your altar."
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                106,
+                "q1_17",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                107,
+                "q1_17",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "Bless, O"
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                108,
+                "q1_17",
+                "verse",
+                "v11",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                109,
+                "q1_17",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": ", his substance,"
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                110,
+                "q2_19",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "and"
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                111,
+                "q2_19",
+                "verse",
+                "v11",
+                "note",
+                "x"
+              ],
+              "value": "#Ezek. 20:40,41;43:27;[Amos 5:22]"
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                112,
+                "q2_19",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "accept the work of his hands;"
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                113,
+                "q1_18",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "crush the loins of his adversaries,"
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                114,
+                "q2_20",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "of those who hate him, that they rise not again.”"
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                "v011_ESV_DEU_033",
+                115,
+                "q1_17",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 Bless, O Lord , his substance, and accept the work of his hands; crush the loins of his adversaries, of those who hate him, that they rise not again.”"
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                116,
+                "m3",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                117,
+                "m3",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#[Gen. 49:27]"
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                118,
+                "m3",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "Of Benjamin he said,"
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                119,
+                "q1_19",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "“The beloved of the"
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                120,
+                "q1_19",
+                "verse",
+                "v12",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 121,
+              "keyParts": [
+                121,
+                "q1_19",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "dwells in safety."
+            },
+            {
+              "rowId": 122,
+              "keyParts": [
+                122,
+                "q1_20",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "The High God"
+            },
+            {
+              "rowId": 123,
+              "keyParts": [
+                123,
+                "q1_20",
+                "verse",
+                "v12",
+                "note",
+                "f"
+              ],
+              "value": "#33:12Septuagint; Hebrewdwells in safety by him. He"
+            },
+            {
+              "rowId": 124,
+              "keyParts": [
+                124,
+                "q1_20",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "surrounds him all day long,"
+            },
+            {
+              "rowId": 125,
+              "keyParts": [
+                125,
+                "q2_21",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "and dwells between his shoulders.”"
+            },
+            {
+              "rowId": 126,
+              "keyParts": [
+                "v012_ESV_DEU_033",
+                126,
+                "m3",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 Of Benjamin he said, “The beloved of the Lord dwells in safety. The High God surrounds him all day long, and dwells between his shoulders.”"
+            },
+            {
+              "rowId": 127,
+              "keyParts": [
+                127,
+                "m4",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 128,
+              "keyParts": [
+                128,
+                "m4",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "And"
+            },
+            {
+              "rowId": 129,
+              "keyParts": [
+                129,
+                "m4",
+                "verse",
+                "v13",
+                "note",
+                "x"
+              ],
+              "value": "#[Gen. 49:22]"
+            },
+            {
+              "rowId": 130,
+              "keyParts": [
+                130,
+                "m4",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "of Joseph he said,"
+            },
+            {
+              "rowId": 131,
+              "keyParts": [
+                131,
+                "q1_21",
+                "verse",
+                "v13",
+                "note",
+                "x"
+              ],
+              "value": "#Gen. 49:25"
+            },
+            {
+              "rowId": 132,
+              "keyParts": [
+                132,
+                "q1_21",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "“Blessed by the"
+            },
+            {
+              "rowId": 133,
+              "keyParts": [
+                133,
+                "q1_21",
+                "verse",
+                "v13",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 134,
+              "keyParts": [
+                134,
+                "q1_21",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "be his land,"
+            },
+            {
+              "rowId": 135,
+              "keyParts": [
+                135,
+                "q2_22",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "with the choicest gifts of heaven"
+            },
+            {
+              "rowId": 136,
+              "keyParts": [
+                136,
+                "q2_22",
+                "verse",
+                "v13",
+                "note",
+                "x"
+              ],
+              "value": "#ver.28;Gen. 27:28"
+            },
+            {
+              "rowId": 137,
+              "keyParts": [
+                137,
+                "q2_22",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "above,"
+            },
+            {
+              "rowId": 138,
+              "keyParts": [
+                138,
+                "q2_22",
+                "verse",
+                "v13",
+                "note",
+                "f"
+              ],
+              "value": "#33:13Two Hebrew manuscripts and Targum; Hebrewwith the dew"
+            },
+            {
+              "rowId": 139,
+              "keyParts": [
+                139,
+                "q2_23",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "and of the deep that crouches beneath,"
+            },
+            {
+              "rowId": 140,
+              "keyParts": [
+                "v013_ESV_DEU_033",
+                140,
+                "m4",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 And of Joseph he said, “Blessed by the Lord be his land, with the choicest gifts of heaven above, and of the deep that crouches beneath,"
+            },
+            {
+              "rowId": 141,
+              "keyParts": [
+                141,
+                "q1_22",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 142,
+              "keyParts": [
+                142,
+                "q1_22",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "with the choicest fruits of the sun"
+            },
+            {
+              "rowId": 143,
+              "keyParts": [
+                143,
+                "q2_24",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "and the rich yield of the months,"
+            },
+            {
+              "rowId": 144,
+              "keyParts": [
+                "v014_ESV_DEU_033",
+                144,
+                "q1_22",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 with the choicest fruits of the sun and the rich yield of the months,"
+            },
+            {
+              "rowId": 145,
+              "keyParts": [
+                145,
+                "q1_23",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 146,
+              "keyParts": [
+                146,
+                "q1_23",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "with the finest produce of the ancient mountains"
+            },
+            {
+              "rowId": 147,
+              "keyParts": [
+                147,
+                "q2_25",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "and the abundance of"
+            },
+            {
+              "rowId": 148,
+              "keyParts": [
+                148,
+                "q2_25",
+                "verse",
+                "v15",
+                "note",
+                "x"
+              ],
+              "value": "#Gen. 49:26;Hab. 3:6;[Ps. 90:2]"
+            },
+            {
+              "rowId": 149,
+              "keyParts": [
+                149,
+                "q2_25",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "the everlasting hills,"
+            },
+            {
+              "rowId": 150,
+              "keyParts": [
+                "v015_ESV_DEU_033",
+                150,
+                "q1_23",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 with the finest produce of the ancient mountains and the abundance of the everlasting hills,"
+            },
+            {
+              "rowId": 151,
+              "keyParts": [
+                151,
+                "q1_24",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 152,
+              "keyParts": [
+                152,
+                "q1_24",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "with the best gifts of the earth and"
+            },
+            {
+              "rowId": 153,
+              "keyParts": [
+                153,
+                "q1_24",
+                "verse",
+                "v16",
+                "note",
+                "x"
+              ],
+              "value": "#Ps. 24:1"
+            },
+            {
+              "rowId": 154,
+              "keyParts": [
+                154,
+                "q1_24",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "its fullness"
+            },
+            {
+              "rowId": 155,
+              "keyParts": [
+                155,
+                "q2_26",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "and the favor of"
+            },
+            {
+              "rowId": 156,
+              "keyParts": [
+                156,
+                "q2_26",
+                "verse",
+                "v16",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 3:2-4;Acts 7:30,35"
+            },
+            {
+              "rowId": 157,
+              "keyParts": [
+                157,
+                "q2_26",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "him who dwells in the bush."
+            },
+            {
+              "rowId": 158,
+              "keyParts": [
+                158,
+                "q1_25",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "May these rest on the head of Joseph,"
+            },
+            {
+              "rowId": 159,
+              "keyParts": [
+                159,
+                "q2_27",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "on the pate of him who is prince among his brothers."
+            },
+            {
+              "rowId": 160,
+              "keyParts": [
+                "v016_ESV_DEU_033",
+                160,
+                "q1_24",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 with the best gifts of the earth and its fullness and the favor of him who dwells in the bush. May these rest on the head of Joseph, on the pate of him who is prince among his brothers."
+            },
+            {
+              "rowId": 161,
+              "keyParts": [
+                161,
+                "q1_26",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 162,
+              "keyParts": [
+                162,
+                "q1_26",
+                "verse",
+                "v17",
+                "note",
+                "x"
+              ],
+              "value": "#[1 Chr. 5:1]"
+            },
+            {
+              "rowId": 163,
+              "keyParts": [
+                163,
+                "q1_26",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "A firstborn bull"
+            },
+            {
+              "rowId": 164,
+              "keyParts": [
+                164,
+                "q1_26",
+                "verse",
+                "v17",
+                "note",
+                "f"
+              ],
+              "value": "#33:17Dead Sea Scroll, Septuagint, Samaritan; Masoretic TextHis firstborn bull"
+            },
+            {
+              "rowId": 165,
+              "keyParts": [
+                165,
+                "q1_26",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "—he has majesty,"
+            },
+            {
+              "rowId": 166,
+              "keyParts": [
+                166,
+                "q2_28",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "and his horns are the horns of a"
+            },
+            {
+              "rowId": 167,
+              "keyParts": [
+                167,
+                "q2_28",
+                "verse",
+                "v17",
+                "note",
+                "x"
+              ],
+              "value": "#SeeNum. 23:22"
+            },
+            {
+              "rowId": 168,
+              "keyParts": [
+                168,
+                "q2_28",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "wild ox;"
+            },
+            {
+              "rowId": 169,
+              "keyParts": [
+                169,
+                "q1_27",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "with them"
+            },
+            {
+              "rowId": 170,
+              "keyParts": [
+                170,
+                "q1_27",
+                "verse",
+                "v17",
+                "note",
+                "x"
+              ],
+              "value": "#1 Kgs. 22:11;Ps. 44:5;Dan. 8:4"
+            },
+            {
+              "rowId": 171,
+              "keyParts": [
+                171,
+                "q1_27",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "he shall gore the peoples,"
+            },
+            {
+              "rowId": 172,
+              "keyParts": [
+                172,
+                "q2_29",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "all of them, to the ends of the earth;"
+            },
+            {
+              "rowId": 173,
+              "keyParts": [
+                173,
+                "q1_28",
+                "verse",
+                "v17",
+                "note",
+                "x"
+              ],
+              "value": "#[Gen. 48:19;Num. 1:33,35]"
+            },
+            {
+              "rowId": 174,
+              "keyParts": [
+                174,
+                "q1_28",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "they are the ten thousands of Ephraim,"
+            },
+            {
+              "rowId": 175,
+              "keyParts": [
+                175,
+                "q2_30",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "and they are the thousands of Manasseh.”"
+            },
+            {
+              "rowId": 176,
+              "keyParts": [
+                "v017_ESV_DEU_033",
+                176,
+                "q1_26",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 A firstborn bull —he has majesty, and his horns are the horns of a wild ox; with them he shall gore the peoples, all of them, to the ends of the earth; they are the ten thousands of Ephraim, and they are the thousands of Manasseh.”"
+            },
+            {
+              "rowId": 177,
+              "keyParts": [
+                177,
+                "m5",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 178,
+              "keyParts": [
+                178,
+                "m5",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "And of Zebulun he said,"
+            },
+            {
+              "rowId": 179,
+              "keyParts": [
+                179,
+                "q1_29",
+                "verse",
+                "v18",
+                "note",
+                "x"
+              ],
+              "value": "#[Gen. 49:13-15]"
+            },
+            {
+              "rowId": 180,
+              "keyParts": [
+                180,
+                "q1_29",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "“Rejoice, Zebulun, in your going out,"
+            },
+            {
+              "rowId": 181,
+              "keyParts": [
+                181,
+                "q2_31",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "and Issachar, in your tents."
+            },
+            {
+              "rowId": 182,
+              "keyParts": [
+                "v018_ESV_DEU_033",
+                182,
+                "m5",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 And of Zebulun he said, “Rejoice, Zebulun, in your going out, and Issachar, in your tents."
+            },
+            {
+              "rowId": 183,
+              "keyParts": [
+                183,
+                "q1_30",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 184,
+              "keyParts": [
+                184,
+                "q1_30",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "They shall call peoples"
+            },
+            {
+              "rowId": 185,
+              "keyParts": [
+                185,
+                "q1_30",
+                "verse",
+                "v19",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 15:17;Isa. 2:3"
+            },
+            {
+              "rowId": 186,
+              "keyParts": [
+                186,
+                "q1_30",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "to their mountain;"
+            },
+            {
+              "rowId": 187,
+              "keyParts": [
+                187,
+                "q2_32",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "there they offer"
+            },
+            {
+              "rowId": 188,
+              "keyParts": [
+                188,
+                "q2_32",
+                "verse",
+                "v19",
+                "note",
+                "x"
+              ],
+              "value": "#Ps. 4:5;51:19"
+            },
+            {
+              "rowId": 189,
+              "keyParts": [
+                189,
+                "q2_32",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "right sacrifices;"
+            },
+            {
+              "rowId": 190,
+              "keyParts": [
+                190,
+                "q1_31",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "for they draw from the abundance of the seas"
+            },
+            {
+              "rowId": 191,
+              "keyParts": [
+                191,
+                "q2_33",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "and the hidden treasures of the sand.”"
+            },
+            {
+              "rowId": 192,
+              "keyParts": [
+                "v019_ESV_DEU_033",
+                192,
+                "q1_30",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 They shall call peoples to their mountain; there they offer right sacrifices; for they draw from the abundance of the seas and the hidden treasures of the sand.”"
+            },
+            {
+              "rowId": 193,
+              "keyParts": [
+                193,
+                "m6",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 194,
+              "keyParts": [
+                194,
+                "m6",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "And"
+            },
+            {
+              "rowId": 195,
+              "keyParts": [
+                195,
+                "m6",
+                "verse",
+                "v20",
+                "note",
+                "x"
+              ],
+              "value": "#[Gen. 49:19]"
+            },
+            {
+              "rowId": 196,
+              "keyParts": [
+                196,
+                "m6",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "of Gad he said,"
+            },
+            {
+              "rowId": 197,
+              "keyParts": [
+                197,
+                "q1_32",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "“Blessed be he who enlarges Gad!"
+            },
+            {
+              "rowId": 198,
+              "keyParts": [
+                198,
+                "q2_34",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "Gad crouches"
+            },
+            {
+              "rowId": 199,
+              "keyParts": [
+                199,
+                "q2_34",
+                "verse",
+                "v20",
+                "note",
+                "x"
+              ],
+              "value": "#[1 Chr. 12:8]"
+            },
+            {
+              "rowId": 200,
+              "keyParts": [
+                200,
+                "q2_34",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "like a lion;"
+            },
+            {
+              "rowId": 201,
+              "keyParts": [
+                201,
+                "q2_35",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "he tears off arm and scalp."
+            },
+            {
+              "rowId": 202,
+              "keyParts": [
+                "v020_ESV_DEU_033",
+                202,
+                "m6",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 And of Gad he said, “Blessed be he who enlarges Gad! Gad crouches like a lion; he tears off arm and scalp."
+            },
+            {
+              "rowId": 203,
+              "keyParts": [
+                203,
+                "q1_33",
+                "verse",
+                "v21",
+                "label"
+              ],
+              "value": "21"
+            },
+            {
+              "rowId": 204,
+              "keyParts": [
+                204,
+                "q1_33",
+                "verse",
+                "v21",
+                "note",
+                "x"
+              ],
+              "value": "#SeeNum. 32:1-5,16-19"
+            },
+            {
+              "rowId": 205,
+              "keyParts": [
+                205,
+                "q1_33",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "He chose the best of the land for himself,"
+            },
+            {
+              "rowId": 206,
+              "keyParts": [
+                206,
+                "q2_36",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "for there a commander’s portion was reserved;"
+            },
+            {
+              "rowId": 207,
+              "keyParts": [
+                207,
+                "q1_34",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "and"
+            },
+            {
+              "rowId": 208,
+              "keyParts": [
+                208,
+                "q1_34",
+                "verse",
+                "v21",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 32:31,32;SeeJosh. 1:12-15;1 Chr. 5:18-22"
+            },
+            {
+              "rowId": 209,
+              "keyParts": [
+                209,
+                "q1_34",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "he came with the heads of the people,"
+            },
+            {
+              "rowId": 210,
+              "keyParts": [
+                210,
+                "q2_37",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "with Israel he executed the justice of the"
+            },
+            {
+              "rowId": 211,
+              "keyParts": [
+                211,
+                "q2_37",
+                "verse",
+                "v21",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 212,
+              "keyParts": [
+                212,
+                "q2_37",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": ","
+            },
+            {
+              "rowId": 213,
+              "keyParts": [
+                213,
+                "q2_38",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "and his judgments for Israel.”"
+            },
+            {
+              "rowId": 214,
+              "keyParts": [
+                "v021_ESV_DEU_033",
+                214,
+                "q1_33",
+                "verse",
+                "v21",
+                "plain_text"
+              ],
+              "value": "21 He chose the best of the land for himself, for there a commander’s portion was reserved; and he came with the heads of the people, with Israel he executed the justice of the Lord , and his judgments for Israel.”"
+            },
+            {
+              "rowId": 215,
+              "keyParts": [
+                215,
+                "m7",
+                "verse",
+                "v22",
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 216,
+              "keyParts": [
+                216,
+                "m7",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "And"
+            },
+            {
+              "rowId": 217,
+              "keyParts": [
+                217,
+                "m7",
+                "verse",
+                "v22",
+                "note",
+                "x"
+              ],
+              "value": "#[Gen. 49:16]"
+            },
+            {
+              "rowId": 218,
+              "keyParts": [
+                218,
+                "m7",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "of Dan he said,"
+            },
+            {
+              "rowId": 219,
+              "keyParts": [
+                219,
+                "q1_35",
+                "verse",
+                "v22",
+                "note",
+                "x"
+              ],
+              "value": "#[Gen. 49:9]"
+            },
+            {
+              "rowId": 220,
+              "keyParts": [
+                220,
+                "q1_35",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "“Dan is a lion’s cub"
+            },
+            {
+              "rowId": 221,
+              "keyParts": [
+                221,
+                "q2_39",
+                "verse",
+                "v22",
+                "note",
+                "x"
+              ],
+              "value": "#[Josh. 19:47;Judg. 18:27]"
+            },
+            {
+              "rowId": 222,
+              "keyParts": [
+                222,
+                "q2_39",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "that leaps from Bashan.”"
+            },
+            {
+              "rowId": 223,
+              "keyParts": [
+                "v022_ESV_DEU_033",
+                223,
+                "m7",
+                "verse",
+                "v22",
+                "plain_text"
+              ],
+              "value": "22 And of Dan he said, “Dan is a lion’s cub that leaps from Bashan.”"
+            },
+            {
+              "rowId": 224,
+              "keyParts": [
+                224,
+                "m8",
+                "verse",
+                "v23",
+                "label"
+              ],
+              "value": "23"
+            },
+            {
+              "rowId": 225,
+              "keyParts": [
+                225,
+                "m8",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "And"
+            },
+            {
+              "rowId": 226,
+              "keyParts": [
+                226,
+                "m8",
+                "verse",
+                "v23",
+                "note",
+                "x"
+              ],
+              "value": "#[Gen. 49:21]"
+            },
+            {
+              "rowId": 227,
+              "keyParts": [
+                227,
+                "m8",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "of Naphtali he said,"
+            },
+            {
+              "rowId": 228,
+              "keyParts": [
+                228,
+                "q1_36",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "“O Naphtali, sated with favor,"
+            },
+            {
+              "rowId": 229,
+              "keyParts": [
+                229,
+                "q2_40",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "and full of the blessing of the"
+            },
+            {
+              "rowId": 230,
+              "keyParts": [
+                230,
+                "q2_40",
+                "verse",
+                "v23",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 231,
+              "keyParts": [
+                231,
+                "q2_40",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": ","
+            },
+            {
+              "rowId": 232,
+              "keyParts": [
+                232,
+                "q2_41",
+                "verse",
+                "v23",
+                "note",
+                "x"
+              ],
+              "value": "#SeeJosh. 19:32-39"
+            },
+            {
+              "rowId": 233,
+              "keyParts": [
+                233,
+                "q2_41",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "possess the lake"
+            },
+            {
+              "rowId": 234,
+              "keyParts": [
+                234,
+                "q2_41",
+                "verse",
+                "v23",
+                "note",
+                "f"
+              ],
+              "value": "#33:23Orwest"
+            },
+            {
+              "rowId": 235,
+              "keyParts": [
+                235,
+                "q2_41",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "and the south.”"
+            },
+            {
+              "rowId": 236,
+              "keyParts": [
+                "v023_ESV_DEU_033",
+                236,
+                "m8",
+                "verse",
+                "v23",
+                "plain_text"
+              ],
+              "value": "23 And of Naphtali he said, “O Naphtali, sated with favor, and full of the blessing of the Lord , possess the lake and the south.”"
+            },
+            {
+              "rowId": 237,
+              "keyParts": [
+                237,
+                "m9",
+                "verse",
+                "v24",
+                "label"
+              ],
+              "value": "24"
+            },
+            {
+              "rowId": 238,
+              "keyParts": [
+                238,
+                "m9",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "And"
+            },
+            {
+              "rowId": 239,
+              "keyParts": [
+                239,
+                "m9",
+                "verse",
+                "v24",
+                "note",
+                "x"
+              ],
+              "value": "#[Gen. 49:20]"
+            },
+            {
+              "rowId": 240,
+              "keyParts": [
+                240,
+                "m9",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "of Asher he said,"
+            },
+            {
+              "rowId": 241,
+              "keyParts": [
+                241,
+                "q1_37",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "“Most blessed of sons be Asher;"
+            },
+            {
+              "rowId": 242,
+              "keyParts": [
+                242,
+                "q2_42",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "let him be the favorite of his brothers,"
+            },
+            {
+              "rowId": 243,
+              "keyParts": [
+                243,
+                "q2_43",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "and let him"
+            },
+            {
+              "rowId": 244,
+              "keyParts": [
+                244,
+                "q2_43",
+                "verse",
+                "v24",
+                "note",
+                "x"
+              ],
+              "value": "#[Job 29:6]"
+            },
+            {
+              "rowId": 245,
+              "keyParts": [
+                245,
+                "q2_43",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "dip his foot in oil."
+            },
+            {
+              "rowId": 246,
+              "keyParts": [
+                "v024_ESV_DEU_033",
+                246,
+                "m9",
+                "verse",
+                "v24",
+                "plain_text"
+              ],
+              "value": "24 And of Asher he said, “Most blessed of sons be Asher; let him be the favorite of his brothers, and let him dip his foot in oil."
+            },
+            {
+              "rowId": 247,
+              "keyParts": [
+                247,
+                "q1_38",
+                "verse",
+                "v25",
+                "label"
+              ],
+              "value": "25"
+            },
+            {
+              "rowId": 248,
+              "keyParts": [
+                248,
+                "q1_38",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "Your bars shall be iron and bronze,"
+            },
+            {
+              "rowId": 249,
+              "keyParts": [
+                249,
+                "q2_44",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "and as your days, so shall your strength be."
+            },
+            {
+              "rowId": 250,
+              "keyParts": [
+                "v025_ESV_DEU_033",
+                250,
+                "q1_38",
+                "verse",
+                "v25",
+                "plain_text"
+              ],
+              "value": "25 Your bars shall be iron and bronze, and as your days, so shall your strength be."
+            },
+            {
+              "rowId": 251,
+              "keyParts": [
+                251,
+                "q1_39",
+                "verse",
+                "v26",
+                "label"
+              ],
+              "value": "26"
+            },
+            {
+              "rowId": 252,
+              "keyParts": [
+                252,
+                "q1_39",
+                "verse",
+                "v26",
+                "note",
+                "x"
+              ],
+              "value": "#SeeEx. 15:11"
+            },
+            {
+              "rowId": 253,
+              "keyParts": [
+                253,
+                "q1_39",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "“There is none like God, O"
+            },
+            {
+              "rowId": 254,
+              "keyParts": [
+                254,
+                "q1_39",
+                "verse",
+                "v26",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.32:15"
+            },
+            {
+              "rowId": 255,
+              "keyParts": [
+                255,
+                "q1_39",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "Jeshurun,"
+            },
+            {
+              "rowId": 256,
+              "keyParts": [
+                256,
+                "q2_45",
+                "verse",
+                "v26",
+                "note",
+                "x"
+              ],
+              "value": "#Ps. 68:33,34;104:3;Isa. 19:1;Hab. 3:8"
+            },
+            {
+              "rowId": 257,
+              "keyParts": [
+                257,
+                "q2_45",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "who rides through the heavens to your help,"
+            },
+            {
+              "rowId": 258,
+              "keyParts": [
+                258,
+                "q2_46",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "through the skies in his majesty."
+            },
+            {
+              "rowId": 259,
+              "keyParts": [
+                "v026_ESV_DEU_033",
+                259,
+                "q1_39",
+                "verse",
+                "v26",
+                "plain_text"
+              ],
+              "value": "26 “There is none like God, O Jeshurun, who rides through the heavens to your help, through the skies in his majesty."
+            },
+            {
+              "rowId": 260,
+              "keyParts": [
+                260,
+                "q1_40",
+                "verse",
+                "v27",
+                "label"
+              ],
+              "value": "27"
+            },
+            {
+              "rowId": 261,
+              "keyParts": [
+                261,
+                "q1_40",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "The eternal God is your"
+            },
+            {
+              "rowId": 262,
+              "keyParts": [
+                262,
+                "q1_40",
+                "verse",
+                "v27",
+                "note",
+                "x"
+              ],
+              "value": "#Ps. 90:1;91:9"
+            },
+            {
+              "rowId": 263,
+              "keyParts": [
+                263,
+                "q1_40",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "dwelling place,"
+            },
+            {
+              "rowId": 264,
+              "keyParts": [
+                264,
+                "q1_40",
+                "verse",
+                "v27",
+                "note",
+                "f"
+              ],
+              "value": "#33:27Ora dwelling place"
+            },
+            {
+              "rowId": 265,
+              "keyParts": [
+                265,
+                "q2_47",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "and underneath are the everlasting arms."
+            },
+            {
+              "rowId": 266,
+              "keyParts": [
+                266,
+                "q2_47",
+                "verse",
+                "v27",
+                "note",
+                "f"
+              ],
+              "value": "#33:27Revocalization of verse 27 yieldsHe subdues the ancient gods, and shatters the forces of old"
+            },
+            {
+              "rowId": 267,
+              "keyParts": [
+                267,
+                "q1_41",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "And he thrust out the enemy before you"
+            },
+            {
+              "rowId": 268,
+              "keyParts": [
+                268,
+                "q2_48",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "and said, ‘Destroy.’"
+            },
+            {
+              "rowId": 269,
+              "keyParts": [
+                "v027_ESV_DEU_033",
+                269,
+                "q1_40",
+                "verse",
+                "v27",
+                "plain_text"
+              ],
+              "value": "27 The eternal God is your dwelling place, and underneath are the everlasting arms. And he thrust out the enemy before you and said, ‘Destroy.’"
+            },
+            {
+              "rowId": 270,
+              "keyParts": [
+                270,
+                "q1_42",
+                "verse",
+                "v28",
+                "label"
+              ],
+              "value": "28"
+            },
+            {
+              "rowId": 271,
+              "keyParts": [
+                271,
+                "q1_42",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "So Israel lived in safety,"
+            },
+            {
+              "rowId": 272,
+              "keyParts": [
+                272,
+                "q2_49",
+                "verse",
+                "v28",
+                "note",
+                "x"
+              ],
+              "value": "#[Ps. 68:26;Isa. 48:1]"
+            },
+            {
+              "rowId": 273,
+              "keyParts": [
+                273,
+                "q2_49",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "Jacob lived"
+            },
+            {
+              "rowId": 274,
+              "keyParts": [
+                274,
+                "q2_49",
+                "verse",
+                "v28",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 23:9"
+            },
+            {
+              "rowId": 275,
+              "keyParts": [
+                275,
+                "q2_49",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "alone,"
+            },
+            {
+              "rowId": 276,
+              "keyParts": [
+                276,
+                "q2_49",
+                "verse",
+                "v28",
+                "note",
+                "f"
+              ],
+              "value": "#33:28Hebrewthe abode of Jacob was alone"
+            },
+            {
+              "rowId": 277,
+              "keyParts": [
+                277,
+                "q1_43",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "in a land of grain and wine,"
+            },
+            {
+              "rowId": 278,
+              "keyParts": [
+                278,
+                "q2_50",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "whose heavens drop down dew."
+            },
+            {
+              "rowId": 279,
+              "keyParts": [
+                "v028_ESV_DEU_033",
+                279,
+                "q1_42",
+                "verse",
+                "v28",
+                "plain_text"
+              ],
+              "value": "28 So Israel lived in safety, Jacob lived alone, in a land of grain and wine, whose heavens drop down dew."
+            },
+            {
+              "rowId": 280,
+              "keyParts": [
+                280,
+                "q1_44",
+                "verse",
+                "v29",
+                "label"
+              ],
+              "value": "29"
+            },
+            {
+              "rowId": 281,
+              "keyParts": [
+                281,
+                "q1_44",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "Happy are you, O Israel!"
+            },
+            {
+              "rowId": 282,
+              "keyParts": [
+                282,
+                "q1_44",
+                "verse",
+                "v29",
+                "note",
+                "x"
+              ],
+              "value": "#[2 Sam. 7:23]"
+            },
+            {
+              "rowId": 283,
+              "keyParts": [
+                283,
+                "q1_44",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "Who is like you,"
+            },
+            {
+              "rowId": 284,
+              "keyParts": [
+                284,
+                "q2_51",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "a people"
+            },
+            {
+              "rowId": 285,
+              "keyParts": [
+                285,
+                "q2_51",
+                "verse",
+                "v29",
+                "note",
+                "x"
+              ],
+              "value": "#Isa. 45:17"
+            },
+            {
+              "rowId": 286,
+              "keyParts": [
+                286,
+                "q2_51",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "saved by the"
+            },
+            {
+              "rowId": 287,
+              "keyParts": [
+                287,
+                "q2_51",
+                "verse",
+                "v29",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 288,
+              "keyParts": [
+                288,
+                "q2_51",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": ","
+            },
+            {
+              "rowId": 289,
+              "keyParts": [
+                289,
+                "q1_45",
+                "verse",
+                "v29",
+                "note",
+                "x"
+              ],
+              "value": "#Ps. 33:20;115:9-11"
+            },
+            {
+              "rowId": 290,
+              "keyParts": [
+                290,
+                "q1_45",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "the shield of your help,"
+            },
+            {
+              "rowId": 291,
+              "keyParts": [
+                291,
+                "q2_52",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "and the sword of your triumph!"
+            },
+            {
+              "rowId": 292,
+              "keyParts": [
+                292,
+                "q1_46",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "Your enemies shall come fawning to you,"
+            },
+            {
+              "rowId": 293,
+              "keyParts": [
+                293,
+                "q2_53",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "and you shall tread upon their backs.”"
+            },
+            {
+              "rowId": 294,
+              "keyParts": [
+                "v029_ESV_DEU_033",
+                294,
+                "q1_44",
+                "verse",
+                "v29",
+                "plain_text"
+              ],
+              "value": "29 Happy are you, O Israel! Who is like you, a people saved by the Lord , the shield of your help, and the sword of your triumph! Your enemies shall come fawning to you, and you shall tread upon their backs.”"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

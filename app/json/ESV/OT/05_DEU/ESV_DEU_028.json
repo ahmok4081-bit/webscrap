@@ -1,0 +1,5273 @@
+{
+  "translationId": "ESV",
+  "name": "English Standard Version",
+  "abbreviation": "ESV",
+  "language": "English",
+  "copyright": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.",
+  "books": [
+    {
+      "bookId": "DEU",
+      "testament": "OT",
+      "order": 5,
+      "title": "Deuteronomy",
+      "abbreviation": "DEU",
+      "chapters": [
+        {
+          "chapter": 28,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "28"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Blessings for Obedience"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "“And"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#[Ex. 15:26;23:22;Lev. 26:3;Isa. 55:2]"
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "if you faithfully obey the voice of the"
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                7,
+                "p1",
+                "verse",
+                "v1",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "your God, being careful to do all his commandments that I command you today, the"
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                9,
+                "p1",
+                "verse",
+                "v1",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "your God will set you"
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                11,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#ch.26:19"
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                12,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "high above all the nations of the earth."
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                "v001_ESV_DEU_028",
+                13,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 “And if you faithfully obey the voice of the Lord your God, being careful to do all his commandments that I command you today, the Lord your God will set you high above all the nations of the earth."
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                15,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "And all these blessings shall come upon you and"
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                16,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#ver.15;Zech. 1:6"
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                17,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "overtake you, if you obey the voice of the"
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "p1",
+                "verse",
+                "v2",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "your God."
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                "v002_ESV_DEU_028",
+                20,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 And all these blessings shall come upon you and overtake you, if you obey the voice of the Lord your God."
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p1",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                22,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "Blessed shall you be in the city, and"
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#[Gen. 39:5]"
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                24,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "blessed shall you be in the field."
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                "v003_ESV_DEU_028",
+                25,
+                "p1",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 Blessed shall you be in the city, and blessed shall you be in the field."
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                26,
+                "p1",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                27,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "Blessed shall be"
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                28,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#ch.7:13;30:9;[Gen. 49:25;Ex. 23:26]"
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                29,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "the fruit of your womb and the fruit of your ground and the fruit of your cattle, the increase of your herds and the young of your flock."
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                "v004_ESV_DEU_028",
+                30,
+                "p1",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 Blessed shall be the fruit of your womb and the fruit of your ground and the fruit of your cattle, the increase of your herds and the young of your flock."
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                31,
+                "p1",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "Blessed shall be your basket and your"
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                33,
+                "p1",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#ver.17;[Ex. 8:3;12:34]"
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                34,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "kneading bowl."
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                "v005_ESV_DEU_028",
+                35,
+                "p1",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 Blessed shall be your basket and your kneading bowl."
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "p1",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                37,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "Blessed shall you be"
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                38,
+                "p1",
+                "verse",
+                "v6",
+                "note",
+                "x"
+              ],
+              "value": "#Ps. 121:8"
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                39,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "when you come in, and blessed shall you be when you go out."
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                "v006_ESV_DEU_028",
+                40,
+                "p1",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 Blessed shall you be when you come in, and blessed shall you be when you go out."
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p2",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "“The"
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                43,
+                "p2",
+                "verse",
+                "v7",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                44,
+                "p2",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 23:22,27;Lev. 26:7,8;[ver.25]; See2 Sam. 22:38-41;Ps. 18:37-40"
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                45,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "will cause your enemies who rise against you to be defeated before you. They shall come out against you one way and flee before you seven ways."
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                "v007_ESV_DEU_028",
+                46,
+                "p2",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 “The Lord will cause your enemies who rise against you to be defeated before you. They shall come out against you one way and flee before you seven ways."
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                47,
+                "p2",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                48,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "The"
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                49,
+                "p2",
+                "verse",
+                "v8",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "p2",
+                "verse",
+                "v8",
+                "note",
+                "x"
+              ],
+              "value": "#Lev. 25:21;Ps. 133:3"
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                51,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "will command the blessing on you in your barns and"
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                52,
+                "p2",
+                "verse",
+                "v8",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.12:7"
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                53,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "in all that you undertake."
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                54,
+                "p2",
+                "verse",
+                "v8",
+                "note",
+                "x"
+              ],
+              "value": "#ch.15:4"
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                55,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "And he will bless you in the land that the"
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                56,
+                "p2",
+                "verse",
+                "v8",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                57,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "your God is giving you."
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                "v008_ESV_DEU_028",
+                58,
+                "p2",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 The Lord will command the blessing on you in your barns and in all that you undertake. And he will bless you in the land that the Lord your God is giving you."
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                59,
+                "p2",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                60,
+                "p2",
+                "verse",
+                "v9",
+                "note",
+                "x"
+              ],
+              "value": "#ch.7:6;26:18,19;29:13;SeeEx. 19:5,6"
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                61,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "The"
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                62,
+                "p2",
+                "verse",
+                "v9",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                63,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "will establish you as a people holy to himself, as he has sworn to you, if you keep the commandments of the"
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                64,
+                "p2",
+                "verse",
+                "v9",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                65,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "your God and walk in his ways."
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                "v009_ESV_DEU_028",
+                66,
+                "p2",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 The Lord will establish you as a people holy to himself, as he has sworn to you, if you keep the commandments of the Lord your God and walk in his ways."
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                67,
+                "p2",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                68,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "And"
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                69,
+                "p2",
+                "verse",
+                "v10",
+                "note",
+                "x"
+              ],
+              "value": "#[Isa. 61:9]"
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                70,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "all the peoples of the earth shall see that you are"
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                71,
+                "p2",
+                "verse",
+                "v10",
+                "note",
+                "x"
+              ],
+              "value": "#SeeNum. 6:27"
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                72,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "called by the name of the"
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                73,
+                "p2",
+                "verse",
+                "v10",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                74,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": ", and they shall be"
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                75,
+                "p2",
+                "verse",
+                "v10",
+                "note",
+                "x"
+              ],
+              "value": "#ch.2:25;11:25"
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                76,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "afraid of you."
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                "v010_ESV_DEU_028",
+                77,
+                "p2",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 And all the peoples of the earth shall see that you are called by the name of the Lord , and they shall be afraid of you."
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                78,
+                "p2",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                79,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "And"
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                80,
+                "p2",
+                "verse",
+                "v11",
+                "note",
+                "x"
+              ],
+              "value": "#ch.30:9"
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                81,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "the"
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                82,
+                "p2",
+                "verse",
+                "v11",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                83,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "will make you abound in prosperity, in"
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                84,
+                "p2",
+                "verse",
+                "v11",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.4above]"
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                85,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "the fruit of your womb and in the fruit of your livestock and in the fruit of your ground, within the land that the"
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                86,
+                "p2",
+                "verse",
+                "v11",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                87,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "swore to your fathers to give you."
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                "v011_ESV_DEU_028",
+                88,
+                "p2",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 And the Lord will make you abound in prosperity, in the fruit of your womb and in the fruit of your livestock and in the fruit of your ground, within the land that the Lord swore to your fathers to give you."
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                89,
+                "p2",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                90,
+                "p2",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "The"
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                91,
+                "p2",
+                "verse",
+                "v12",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                92,
+                "p2",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "will open to you his good treasury, the heavens,"
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                93,
+                "p2",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#ch.11:14;Lev. 26:4"
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                94,
+                "p2",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "to give the rain to your land in its season and"
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                95,
+                "p2",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#ch.14:29"
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                96,
+                "p2",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "to bless all the work of your hands. And"
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                97,
+                "p2",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#ch.15:6;[ver. 44;Ps. 37:26]"
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                98,
+                "p2",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "you shall lend to many nations, but you shall not borrow."
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                "v012_ESV_DEU_028",
+                99,
+                "p2",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 The Lord will open to you his good treasury, the heavens, to give the rain to your land in its season and to bless all the work of your hands. And you shall lend to many nations, but you shall not borrow."
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                100,
+                "p2",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                101,
+                "p2",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "And the"
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                102,
+                "p2",
+                "verse",
+                "v13",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                103,
+                "p2",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "will make you"
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                104,
+                "p2",
+                "verse",
+                "v13",
+                "note",
+                "x"
+              ],
+              "value": "#Isa. 9:14,15;19:15"
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                105,
+                "p2",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "the head and not the tail, and you shall only go up and not down, if you obey the commandments of the"
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                106,
+                "p2",
+                "verse",
+                "v13",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                107,
+                "p2",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "your God, which I command you today, being careful to do them,"
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                "v013_ESV_DEU_028",
+                108,
+                "p2",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 And the Lord will make you the head and not the tail, and you shall only go up and not down, if you obey the commandments of the Lord your God, which I command you today, being careful to do them,"
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                109,
+                "p2",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                110,
+                "p2",
+                "verse",
+                "v14",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.5:32"
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                111,
+                "p2",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "and if you do not turn aside from any of the words that I command you today, to the right hand or to the left, to go after other gods to serve them."
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Curses for Disobedience"
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                "v014_ESV_DEU_028",
+                113,
+                "p2",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 and if you do not turn aside from any of the words that I command you today, to the right hand or to the left, to go after other gods to serve them."
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                114,
+                "p3",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                115,
+                "p3",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "“But"
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                116,
+                "p3",
+                "verse",
+                "v15",
+                "note",
+                "x"
+              ],
+              "value": "#Lev. 26:14;Lam. 2:17;Dan. 9:11,13;Mal. 2:2"
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                117,
+                "p3",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "if you will not obey the voice of the"
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                118,
+                "p3",
+                "verse",
+                "v15",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                119,
+                "p3",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "your God or be careful to do all his commandments and his statutes that I command you today, then all these curses shall come upon you and"
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                120,
+                "p3",
+                "verse",
+                "v15",
+                "note",
+                "x"
+              ],
+              "value": "#ver.2"
+            },
+            {
+              "rowId": 121,
+              "keyParts": [
+                121,
+                "p3",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "overtake you."
+            },
+            {
+              "rowId": 122,
+              "keyParts": [
+                "v015_ESV_DEU_028",
+                122,
+                "p3",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 “But if you will not obey the voice of the Lord your God or be careful to do all his commandments and his statutes that I command you today, then all these curses shall come upon you and overtake you."
+            },
+            {
+              "rowId": 123,
+              "keyParts": [
+                123,
+                "p3",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 124,
+              "keyParts": [
+                124,
+                "p3",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "Cursed shall you be"
+            },
+            {
+              "rowId": 125,
+              "keyParts": [
+                125,
+                "p3",
+                "verse",
+                "v16",
+                "note",
+                "x"
+              ],
+              "value": "#[ver.3-6]"
+            },
+            {
+              "rowId": 126,
+              "keyParts": [
+                126,
+                "p3",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "in the city, and cursed shall you be in the field."
+            },
+            {
+              "rowId": 127,
+              "keyParts": [
+                "v016_ESV_DEU_028",
+                127,
+                "p3",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 Cursed shall you be in the city, and cursed shall you be in the field."
+            },
+            {
+              "rowId": 128,
+              "keyParts": [
+                128,
+                "p3",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 129,
+              "keyParts": [
+                129,
+                "p3",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "Cursed shall be your basket and your kneading bowl."
+            },
+            {
+              "rowId": 130,
+              "keyParts": [
+                "v017_ESV_DEU_028",
+                130,
+                "p3",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 Cursed shall be your basket and your kneading bowl."
+            },
+            {
+              "rowId": 131,
+              "keyParts": [
+                131,
+                "p3",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 132,
+              "keyParts": [
+                132,
+                "p3",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "Cursed shall be the fruit of your womb and the fruit of your ground, the increase of your herds and the young of your flock."
+            },
+            {
+              "rowId": 133,
+              "keyParts": [
+                "v018_ESV_DEU_028",
+                133,
+                "p3",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 Cursed shall be the fruit of your womb and the fruit of your ground, the increase of your herds and the young of your flock."
+            },
+            {
+              "rowId": 134,
+              "keyParts": [
+                134,
+                "p3",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 135,
+              "keyParts": [
+                135,
+                "p3",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "Cursed shall you be when you come in, and cursed shall you be when you go out."
+            },
+            {
+              "rowId": 136,
+              "keyParts": [
+                "v019_ESV_DEU_028",
+                136,
+                "p3",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 Cursed shall you be when you come in, and cursed shall you be when you go out."
+            },
+            {
+              "rowId": 137,
+              "keyParts": [
+                137,
+                "p4",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 138,
+              "keyParts": [
+                138,
+                "p4",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "“The"
+            },
+            {
+              "rowId": 139,
+              "keyParts": [
+                139,
+                "p4",
+                "verse",
+                "v20",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 140,
+              "keyParts": [
+                140,
+                "p4",
+                "verse",
+                "v20",
+                "note",
+                "x"
+              ],
+              "value": "#Mal. 2:2"
+            },
+            {
+              "rowId": 141,
+              "keyParts": [
+                141,
+                "p4",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "will send on you curses, confusion, and"
+            },
+            {
+              "rowId": 142,
+              "keyParts": [
+                142,
+                "p4",
+                "verse",
+                "v20",
+                "note",
+                "x"
+              ],
+              "value": "#Ps. 80:16;Isa. 30:17;51:20;66:15"
+            },
+            {
+              "rowId": 143,
+              "keyParts": [
+                143,
+                "p4",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "frustration in all that you undertake to do,"
+            },
+            {
+              "rowId": 144,
+              "keyParts": [
+                144,
+                "p4",
+                "verse",
+                "v20",
+                "note",
+                "x"
+              ],
+              "value": "#Josh. 23:16"
+            },
+            {
+              "rowId": 145,
+              "keyParts": [
+                145,
+                "p4",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "until you are destroyed and perish quickly on account of the evil of your deeds, because you have forsaken me."
+            },
+            {
+              "rowId": 146,
+              "keyParts": [
+                "v020_ESV_DEU_028",
+                146,
+                "p4",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 “The Lord will send on you curses, confusion, and frustration in all that you undertake to do, until you are destroyed and perish quickly on account of the evil of your deeds, because you have forsaken me."
+            },
+            {
+              "rowId": 147,
+              "keyParts": [
+                147,
+                "p4",
+                "verse",
+                "v21",
+                "label"
+              ],
+              "value": "21"
+            },
+            {
+              "rowId": 148,
+              "keyParts": [
+                148,
+                "p4",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "The"
+            },
+            {
+              "rowId": 149,
+              "keyParts": [
+                149,
+                "p4",
+                "verse",
+                "v21",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 150,
+              "keyParts": [
+                150,
+                "p4",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "will make"
+            },
+            {
+              "rowId": 151,
+              "keyParts": [
+                151,
+                "p4",
+                "verse",
+                "v21",
+                "note",
+                "x"
+              ],
+              "value": "#SeeLev. 26:25"
+            },
+            {
+              "rowId": 152,
+              "keyParts": [
+                152,
+                "p4",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "the pestilence stick to you until he has consumed you off the land that you are entering to take possession of it."
+            },
+            {
+              "rowId": 153,
+              "keyParts": [
+                "v021_ESV_DEU_028",
+                153,
+                "p4",
+                "verse",
+                "v21",
+                "plain_text"
+              ],
+              "value": "21 The Lord will make the pestilence stick to you until he has consumed you off the land that you are entering to take possession of it."
+            },
+            {
+              "rowId": 154,
+              "keyParts": [
+                154,
+                "p4",
+                "verse",
+                "v22",
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 155,
+              "keyParts": [
+                155,
+                "p4",
+                "verse",
+                "v22",
+                "note",
+                "x"
+              ],
+              "value": "#Lev. 26:16"
+            },
+            {
+              "rowId": 156,
+              "keyParts": [
+                156,
+                "p4",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "The"
+            },
+            {
+              "rowId": 157,
+              "keyParts": [
+                157,
+                "p4",
+                "verse",
+                "v22",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 158,
+              "keyParts": [
+                158,
+                "p4",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "will strike you with wasting disease and with fever, inflammation and fiery heat, and with drought"
+            },
+            {
+              "rowId": 159,
+              "keyParts": [
+                159,
+                "p4",
+                "verse",
+                "v22",
+                "note",
+                "f"
+              ],
+              "value": "#28:22Orsword"
+            },
+            {
+              "rowId": 160,
+              "keyParts": [
+                160,
+                "p4",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "and with"
+            },
+            {
+              "rowId": 161,
+              "keyParts": [
+                161,
+                "p4",
+                "verse",
+                "v22",
+                "note",
+                "x"
+              ],
+              "value": "#1 Kgs. 8:37;2 Chr. 6:28;Amos 4:9;Hag. 2:17"
+            },
+            {
+              "rowId": 162,
+              "keyParts": [
+                162,
+                "p4",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "blight and with mildew. They shall pursue you until you perish."
+            },
+            {
+              "rowId": 163,
+              "keyParts": [
+                "v022_ESV_DEU_028",
+                163,
+                "p4",
+                "verse",
+                "v22",
+                "plain_text"
+              ],
+              "value": "22 The Lord will strike you with wasting disease and with fever, inflammation and fiery heat, and with drought and with blight and with mildew. They shall pursue you until you perish."
+            },
+            {
+              "rowId": 164,
+              "keyParts": [
+                164,
+                "p4",
+                "verse",
+                "v23",
+                "label"
+              ],
+              "value": "23"
+            },
+            {
+              "rowId": 165,
+              "keyParts": [
+                165,
+                "p4",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "And"
+            },
+            {
+              "rowId": 166,
+              "keyParts": [
+                166,
+                "p4",
+                "verse",
+                "v23",
+                "note",
+                "x"
+              ],
+              "value": "#Lev. 26:19"
+            },
+            {
+              "rowId": 167,
+              "keyParts": [
+                167,
+                "p4",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "the heavens over your head shall be bronze, and the earth under you shall be iron."
+            },
+            {
+              "rowId": 168,
+              "keyParts": [
+                "v023_ESV_DEU_028",
+                168,
+                "p4",
+                "verse",
+                "v23",
+                "plain_text"
+              ],
+              "value": "23 And the heavens over your head shall be bronze, and the earth under you shall be iron."
+            },
+            {
+              "rowId": 169,
+              "keyParts": [
+                169,
+                "p4",
+                "verse",
+                "v24",
+                "label"
+              ],
+              "value": "24"
+            },
+            {
+              "rowId": 170,
+              "keyParts": [
+                170,
+                "p4",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "The"
+            },
+            {
+              "rowId": 171,
+              "keyParts": [
+                171,
+                "p4",
+                "verse",
+                "v24",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 172,
+              "keyParts": [
+                172,
+                "p4",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "will make the rain of your land powder. From heaven dust shall come down on you until you are destroyed."
+            },
+            {
+              "rowId": 173,
+              "keyParts": [
+                "v024_ESV_DEU_028",
+                173,
+                "p4",
+                "verse",
+                "v24",
+                "plain_text"
+              ],
+              "value": "24 The Lord will make the rain of your land powder. From heaven dust shall come down on you until you are destroyed."
+            },
+            {
+              "rowId": 174,
+              "keyParts": [
+                174,
+                "p5",
+                "verse",
+                "v25",
+                "label"
+              ],
+              "value": "25"
+            },
+            {
+              "rowId": 175,
+              "keyParts": [
+                175,
+                "p5",
+                "verse",
+                "v25",
+                "note",
+                "x"
+              ],
+              "value": "#ch.32:30;Lev. 26:17,37;Isa. 30:17;[ver.7]"
+            },
+            {
+              "rowId": 176,
+              "keyParts": [
+                176,
+                "p5",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "“The"
+            },
+            {
+              "rowId": 177,
+              "keyParts": [
+                177,
+                "p5",
+                "verse",
+                "v25",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 178,
+              "keyParts": [
+                178,
+                "p5",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "will cause you to be defeated before your enemies. You shall go out one way against them and flee seven ways before them. And you"
+            },
+            {
+              "rowId": 179,
+              "keyParts": [
+                179,
+                "p5",
+                "verse",
+                "v25",
+                "note",
+                "x"
+              ],
+              "value": "#Ezek. 23:46"
+            },
+            {
+              "rowId": 180,
+              "keyParts": [
+                180,
+                "p5",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "shall be a horror to all the kingdoms of the earth."
+            },
+            {
+              "rowId": 181,
+              "keyParts": [
+                "v025_ESV_DEU_028",
+                181,
+                "p5",
+                "verse",
+                "v25",
+                "plain_text"
+              ],
+              "value": "25 “The Lord will cause you to be defeated before your enemies. You shall go out one way against them and flee seven ways before them. And you shall be a horror to all the kingdoms of the earth."
+            },
+            {
+              "rowId": 182,
+              "keyParts": [
+                182,
+                "p5",
+                "verse",
+                "v26",
+                "label"
+              ],
+              "value": "26"
+            },
+            {
+              "rowId": 183,
+              "keyParts": [
+                183,
+                "p5",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "And"
+            },
+            {
+              "rowId": 184,
+              "keyParts": [
+                184,
+                "p5",
+                "verse",
+                "v26",
+                "note",
+                "x"
+              ],
+              "value": "#[1 Sam. 17:44,46;Ps. 79:2;Jer. 16:4;19:7;34:20]"
+            },
+            {
+              "rowId": 185,
+              "keyParts": [
+                185,
+                "p5",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "your dead body shall be food for all birds of the air and for the beasts of the earth, and"
+            },
+            {
+              "rowId": 186,
+              "keyParts": [
+                186,
+                "p5",
+                "verse",
+                "v26",
+                "note",
+                "x"
+              ],
+              "value": "#Jer. 7:33"
+            },
+            {
+              "rowId": 187,
+              "keyParts": [
+                187,
+                "p5",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "there shall be no one to frighten them away."
+            },
+            {
+              "rowId": 188,
+              "keyParts": [
+                "v026_ESV_DEU_028",
+                188,
+                "p5",
+                "verse",
+                "v26",
+                "plain_text"
+              ],
+              "value": "26 And your dead body shall be food for all birds of the air and for the beasts of the earth, and there shall be no one to frighten them away."
+            },
+            {
+              "rowId": 189,
+              "keyParts": [
+                189,
+                "p5",
+                "verse",
+                "v27",
+                "label"
+              ],
+              "value": "27"
+            },
+            {
+              "rowId": 190,
+              "keyParts": [
+                190,
+                "p5",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "The"
+            },
+            {
+              "rowId": 191,
+              "keyParts": [
+                191,
+                "p5",
+                "verse",
+                "v27",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 192,
+              "keyParts": [
+                192,
+                "p5",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "will strike you"
+            },
+            {
+              "rowId": 193,
+              "keyParts": [
+                193,
+                "p5",
+                "verse",
+                "v27",
+                "note",
+                "x"
+              ],
+              "value": "#[ver.35]"
+            },
+            {
+              "rowId": 194,
+              "keyParts": [
+                194,
+                "p5",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "with the boils of Egypt, and with tumors and"
+            },
+            {
+              "rowId": 195,
+              "keyParts": [
+                195,
+                "p5",
+                "verse",
+                "v27",
+                "note",
+                "x"
+              ],
+              "value": "#Lev. 21:20;22:22"
+            },
+            {
+              "rowId": 196,
+              "keyParts": [
+                196,
+                "p5",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "scabs and itch, of which you cannot be healed."
+            },
+            {
+              "rowId": 197,
+              "keyParts": [
+                "v027_ESV_DEU_028",
+                197,
+                "p5",
+                "verse",
+                "v27",
+                "plain_text"
+              ],
+              "value": "27 The Lord will strike you with the boils of Egypt, and with tumors and scabs and itch, of which you cannot be healed."
+            },
+            {
+              "rowId": 198,
+              "keyParts": [
+                198,
+                "p5",
+                "verse",
+                "v28",
+                "label"
+              ],
+              "value": "28"
+            },
+            {
+              "rowId": 199,
+              "keyParts": [
+                199,
+                "p5",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "The"
+            },
+            {
+              "rowId": 200,
+              "keyParts": [
+                200,
+                "p5",
+                "verse",
+                "v28",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 201,
+              "keyParts": [
+                201,
+                "p5",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "will strike you with"
+            },
+            {
+              "rowId": 202,
+              "keyParts": [
+                202,
+                "p5",
+                "verse",
+                "v28",
+                "note",
+                "x"
+              ],
+              "value": "#[ver. 34;Zech. 12:4]"
+            },
+            {
+              "rowId": 203,
+              "keyParts": [
+                203,
+                "p5",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "madness and blindness and confusion of mind,"
+            },
+            {
+              "rowId": 204,
+              "keyParts": [
+                "v028_ESV_DEU_028",
+                204,
+                "p5",
+                "verse",
+                "v28",
+                "plain_text"
+              ],
+              "value": "28 The Lord will strike you with madness and blindness and confusion of mind,"
+            },
+            {
+              "rowId": 205,
+              "keyParts": [
+                205,
+                "p5",
+                "verse",
+                "v29",
+                "label"
+              ],
+              "value": "29"
+            },
+            {
+              "rowId": 206,
+              "keyParts": [
+                206,
+                "p5",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "and you shall"
+            },
+            {
+              "rowId": 207,
+              "keyParts": [
+                207,
+                "p5",
+                "verse",
+                "v29",
+                "note",
+                "x"
+              ],
+              "value": "#Job 5:14;Isa. 59:10"
+            },
+            {
+              "rowId": 208,
+              "keyParts": [
+                208,
+                "p5",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "grope at noonday, as the blind grope in darkness, and you shall not prosper in your ways."
+            },
+            {
+              "rowId": 209,
+              "keyParts": [
+                209,
+                "p5",
+                "verse",
+                "v29",
+                "note",
+                "f"
+              ],
+              "value": "#28:29Orshall not succeed in finding your ways"
+            },
+            {
+              "rowId": 210,
+              "keyParts": [
+                210,
+                "p5",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "And you shall be only oppressed and robbed continually, and there shall be no one to help you."
+            },
+            {
+              "rowId": 211,
+              "keyParts": [
+                "v029_ESV_DEU_028",
+                211,
+                "p5",
+                "verse",
+                "v29",
+                "plain_text"
+              ],
+              "value": "29 and you shall grope at noonday, as the blind grope in darkness, and you shall not prosper in your ways. And you shall be only oppressed and robbed continually, and there shall be no one to help you."
+            },
+            {
+              "rowId": 212,
+              "keyParts": [
+                212,
+                "p5",
+                "verse",
+                "v30",
+                "label"
+              ],
+              "value": "30"
+            },
+            {
+              "rowId": 213,
+              "keyParts": [
+                213,
+                "p5",
+                "verse",
+                "v30",
+                "note",
+                "x"
+              ],
+              "value": "#ch.20:5-7;Jer. 8:10"
+            },
+            {
+              "rowId": 214,
+              "keyParts": [
+                214,
+                "p5",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "You shall betroth a wife, but another man shall ravish her."
+            },
+            {
+              "rowId": 215,
+              "keyParts": [
+                215,
+                "p5",
+                "verse",
+                "v30",
+                "note",
+                "x"
+              ],
+              "value": "#Amos 5:11;Zeph. 1:13"
+            },
+            {
+              "rowId": 216,
+              "keyParts": [
+                216,
+                "p5",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "You shall build a house, but you shall not dwell in it."
+            },
+            {
+              "rowId": 217,
+              "keyParts": [
+                217,
+                "p5",
+                "verse",
+                "v30",
+                "note",
+                "x"
+              ],
+              "value": "#ch.20:6;Lev. 19:23-25;[Mic. 6:15]"
+            },
+            {
+              "rowId": 218,
+              "keyParts": [
+                218,
+                "p5",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "You shall plant a vineyard, but you shall not enjoy its fruit."
+            },
+            {
+              "rowId": 219,
+              "keyParts": [
+                "v030_ESV_DEU_028",
+                219,
+                "p5",
+                "verse",
+                "v30",
+                "plain_text"
+              ],
+              "value": "30 You shall betroth a wife, but another man shall ravish her. You shall build a house, but you shall not dwell in it. You shall plant a vineyard, but you shall not enjoy its fruit."
+            },
+            {
+              "rowId": 220,
+              "keyParts": [
+                220,
+                "p5",
+                "verse",
+                "v31",
+                "label"
+              ],
+              "value": "31"
+            },
+            {
+              "rowId": 221,
+              "keyParts": [
+                221,
+                "p5",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "Your ox shall be slaughtered before your eyes, but you shall not eat any of it. Your donkey shall be seized before your face, but shall not be restored to you. Your sheep shall be given to your enemies, but there shall be no one to help you."
+            },
+            {
+              "rowId": 222,
+              "keyParts": [
+                "v031_ESV_DEU_028",
+                222,
+                "p5",
+                "verse",
+                "v31",
+                "plain_text"
+              ],
+              "value": "31 Your ox shall be slaughtered before your eyes, but you shall not eat any of it. Your donkey shall be seized before your face, but shall not be restored to you. Your sheep shall be given to your enemies, but there shall be no one to help you."
+            },
+            {
+              "rowId": 223,
+              "keyParts": [
+                223,
+                "p5",
+                "verse",
+                "v32",
+                "label"
+              ],
+              "value": "32"
+            },
+            {
+              "rowId": 224,
+              "keyParts": [
+                224,
+                "p5",
+                "verse",
+                "v32",
+                "note",
+                "x"
+              ],
+              "value": "#[2 Chr. 29:9;Joel 3:6]"
+            },
+            {
+              "rowId": 225,
+              "keyParts": [
+                225,
+                "p5",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "Your sons and your daughters shall be given to another people, while your eyes look on and fail with longing for them all day long,"
+            },
+            {
+              "rowId": 226,
+              "keyParts": [
+                226,
+                "p5",
+                "verse",
+                "v32",
+                "note",
+                "x"
+              ],
+              "value": "#Neh. 5:5"
+            },
+            {
+              "rowId": 227,
+              "keyParts": [
+                227,
+                "p5",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "but you shall be helpless."
+            },
+            {
+              "rowId": 228,
+              "keyParts": [
+                "v032_ESV_DEU_028",
+                228,
+                "p5",
+                "verse",
+                "v32",
+                "plain_text"
+              ],
+              "value": "32 Your sons and your daughters shall be given to another people, while your eyes look on and fail with longing for them all day long, but you shall be helpless."
+            },
+            {
+              "rowId": 229,
+              "keyParts": [
+                229,
+                "p5",
+                "verse",
+                "v33",
+                "label"
+              ],
+              "value": "33"
+            },
+            {
+              "rowId": 230,
+              "keyParts": [
+                230,
+                "p5",
+                "verse",
+                "v33",
+                "content"
+              ],
+              "value": "A nation that you have not known shall eat up the fruit of your ground and of all your labors, and you shall be only oppressed and crushed continually,"
+            },
+            {
+              "rowId": 231,
+              "keyParts": [
+                "v033_ESV_DEU_028",
+                231,
+                "p5",
+                "verse",
+                "v33",
+                "plain_text"
+              ],
+              "value": "33 A nation that you have not known shall eat up the fruit of your ground and of all your labors, and you shall be only oppressed and crushed continually,"
+            },
+            {
+              "rowId": 232,
+              "keyParts": [
+                232,
+                "p5",
+                "verse",
+                "v34",
+                "label"
+              ],
+              "value": "34"
+            },
+            {
+              "rowId": 233,
+              "keyParts": [
+                233,
+                "p5",
+                "verse",
+                "v34",
+                "content"
+              ],
+              "value": "so that you are driven mad"
+            },
+            {
+              "rowId": 234,
+              "keyParts": [
+                234,
+                "p5",
+                "verse",
+                "v34",
+                "note",
+                "x"
+              ],
+              "value": "#ver.67"
+            },
+            {
+              "rowId": 235,
+              "keyParts": [
+                235,
+                "p5",
+                "verse",
+                "v34",
+                "content"
+              ],
+              "value": "by the sights that your eyes see."
+            },
+            {
+              "rowId": 236,
+              "keyParts": [
+                "v034_ESV_DEU_028",
+                236,
+                "p5",
+                "verse",
+                "v34",
+                "plain_text"
+              ],
+              "value": "34 so that you are driven mad by the sights that your eyes see."
+            },
+            {
+              "rowId": 237,
+              "keyParts": [
+                237,
+                "p5",
+                "verse",
+                "v35",
+                "label"
+              ],
+              "value": "35"
+            },
+            {
+              "rowId": 238,
+              "keyParts": [
+                238,
+                "p5",
+                "verse",
+                "v35",
+                "content"
+              ],
+              "value": "The"
+            },
+            {
+              "rowId": 239,
+              "keyParts": [
+                239,
+                "p5",
+                "verse",
+                "v35",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 240,
+              "keyParts": [
+                240,
+                "p5",
+                "verse",
+                "v35",
+                "content"
+              ],
+              "value": "will strike you on the knees and on the legs"
+            },
+            {
+              "rowId": 241,
+              "keyParts": [
+                241,
+                "p5",
+                "verse",
+                "v35",
+                "note",
+                "x"
+              ],
+              "value": "#[ver.27]"
+            },
+            {
+              "rowId": 242,
+              "keyParts": [
+                242,
+                "p5",
+                "verse",
+                "v35",
+                "content"
+              ],
+              "value": "with grievous boils of which you cannot be healed, from the sole of your foot to the crown of your head."
+            },
+            {
+              "rowId": 243,
+              "keyParts": [
+                "v035_ESV_DEU_028",
+                243,
+                "p5",
+                "verse",
+                "v35",
+                "plain_text"
+              ],
+              "value": "35 The Lord will strike you on the knees and on the legs with grievous boils of which you cannot be healed, from the sole of your foot to the crown of your head."
+            },
+            {
+              "rowId": 244,
+              "keyParts": [
+                244,
+                "p6",
+                "verse",
+                "v36",
+                "label"
+              ],
+              "value": "36"
+            },
+            {
+              "rowId": 245,
+              "keyParts": [
+                245,
+                "p6",
+                "verse",
+                "v36",
+                "content"
+              ],
+              "value": "“The"
+            },
+            {
+              "rowId": 246,
+              "keyParts": [
+                246,
+                "p6",
+                "verse",
+                "v36",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 247,
+              "keyParts": [
+                247,
+                "p6",
+                "verse",
+                "v36",
+                "content"
+              ],
+              "value": "will"
+            },
+            {
+              "rowId": 248,
+              "keyParts": [
+                248,
+                "p6",
+                "verse",
+                "v36",
+                "note",
+                "x"
+              ],
+              "value": "#2 Kgs. 17:4,6;24:12,14;25:7,11;2 Chr. 33:11;36:6,20"
+            },
+            {
+              "rowId": 249,
+              "keyParts": [
+                249,
+                "p6",
+                "verse",
+                "v36",
+                "content"
+              ],
+              "value": "bring you and your king whom you set over you to a nation that neither you"
+            },
+            {
+              "rowId": 250,
+              "keyParts": [
+                250,
+                "p6",
+                "verse",
+                "v36",
+                "note",
+                "x"
+              ],
+              "value": "#Jer. 9:16;16:13"
+            },
+            {
+              "rowId": 251,
+              "keyParts": [
+                251,
+                "p6",
+                "verse",
+                "v36",
+                "content"
+              ],
+              "value": "nor your fathers have known. And"
+            },
+            {
+              "rowId": 252,
+              "keyParts": [
+                252,
+                "p6",
+                "verse",
+                "v36",
+                "note",
+                "x"
+              ],
+              "value": "#ver.64;ch.4:28"
+            },
+            {
+              "rowId": 253,
+              "keyParts": [
+                253,
+                "p6",
+                "verse",
+                "v36",
+                "content"
+              ],
+              "value": "there you shall serve other gods of wood and stone."
+            },
+            {
+              "rowId": 254,
+              "keyParts": [
+                "v036_ESV_DEU_028",
+                254,
+                "p6",
+                "verse",
+                "v36",
+                "plain_text"
+              ],
+              "value": "36 “The Lord will bring you and your king whom you set over you to a nation that neither you nor your fathers have known. And there you shall serve other gods of wood and stone."
+            },
+            {
+              "rowId": 255,
+              "keyParts": [
+                255,
+                "p6",
+                "verse",
+                "v37",
+                "label"
+              ],
+              "value": "37"
+            },
+            {
+              "rowId": 256,
+              "keyParts": [
+                256,
+                "p6",
+                "verse",
+                "v37",
+                "content"
+              ],
+              "value": "And you shall become"
+            },
+            {
+              "rowId": 257,
+              "keyParts": [
+                257,
+                "p6",
+                "verse",
+                "v37",
+                "note",
+                "x"
+              ],
+              "value": "#1 Kgs. 9:7,8;2 Chr. 7:20;Jer. 24:9;25:9;[Ezek. 14:8]"
+            },
+            {
+              "rowId": 258,
+              "keyParts": [
+                258,
+                "p6",
+                "verse",
+                "v37",
+                "content"
+              ],
+              "value": "a horror, a proverb, and a byword among all the peoples where the"
+            },
+            {
+              "rowId": 259,
+              "keyParts": [
+                259,
+                "p6",
+                "verse",
+                "v37",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 260,
+              "keyParts": [
+                260,
+                "p6",
+                "verse",
+                "v37",
+                "content"
+              ],
+              "value": "will lead you away."
+            },
+            {
+              "rowId": 261,
+              "keyParts": [
+                "v037_ESV_DEU_028",
+                261,
+                "p6",
+                "verse",
+                "v37",
+                "plain_text"
+              ],
+              "value": "37 And you shall become a horror, a proverb, and a byword among all the peoples where the Lord will lead you away."
+            },
+            {
+              "rowId": 262,
+              "keyParts": [
+                262,
+                "p6",
+                "verse",
+                "v38",
+                "label"
+              ],
+              "value": "38"
+            },
+            {
+              "rowId": 263,
+              "keyParts": [
+                263,
+                "p6",
+                "verse",
+                "v38",
+                "note",
+                "x"
+              ],
+              "value": "#Mic. 6:15;Hag. 1:6"
+            },
+            {
+              "rowId": 264,
+              "keyParts": [
+                264,
+                "p6",
+                "verse",
+                "v38",
+                "content"
+              ],
+              "value": "You shall carry much seed into the field and shall gather in little, for"
+            },
+            {
+              "rowId": 265,
+              "keyParts": [
+                265,
+                "p6",
+                "verse",
+                "v38",
+                "note",
+                "x"
+              ],
+              "value": "#Joel 1:4;2:25"
+            },
+            {
+              "rowId": 266,
+              "keyParts": [
+                266,
+                "p6",
+                "verse",
+                "v38",
+                "content"
+              ],
+              "value": "the locust shall consume it."
+            },
+            {
+              "rowId": 267,
+              "keyParts": [
+                "v038_ESV_DEU_028",
+                267,
+                "p6",
+                "verse",
+                "v38",
+                "plain_text"
+              ],
+              "value": "38 You shall carry much seed into the field and shall gather in little, for the locust shall consume it."
+            },
+            {
+              "rowId": 268,
+              "keyParts": [
+                268,
+                "p6",
+                "verse",
+                "v39",
+                "label"
+              ],
+              "value": "39"
+            },
+            {
+              "rowId": 269,
+              "keyParts": [
+                269,
+                "p6",
+                "verse",
+                "v39",
+                "note",
+                "x"
+              ],
+              "value": "#Zeph. 1:13"
+            },
+            {
+              "rowId": 270,
+              "keyParts": [
+                270,
+                "p6",
+                "verse",
+                "v39",
+                "content"
+              ],
+              "value": "You shall plant vineyards and dress them, but you shall neither drink of the wine nor gather the grapes, for the worm shall eat them."
+            },
+            {
+              "rowId": 271,
+              "keyParts": [
+                "v039_ESV_DEU_028",
+                271,
+                "p6",
+                "verse",
+                "v39",
+                "plain_text"
+              ],
+              "value": "39 You shall plant vineyards and dress them, but you shall neither drink of the wine nor gather the grapes, for the worm shall eat them."
+            },
+            {
+              "rowId": 272,
+              "keyParts": [
+                272,
+                "p6",
+                "verse",
+                "v40",
+                "label"
+              ],
+              "value": "40"
+            },
+            {
+              "rowId": 273,
+              "keyParts": [
+                273,
+                "p6",
+                "verse",
+                "v40",
+                "content"
+              ],
+              "value": "You shall have olive trees throughout all your territory, but you"
+            },
+            {
+              "rowId": 274,
+              "keyParts": [
+                274,
+                "p6",
+                "verse",
+                "v40",
+                "note",
+                "x"
+              ],
+              "value": "#Mic. 6:15"
+            },
+            {
+              "rowId": 275,
+              "keyParts": [
+                275,
+                "p6",
+                "verse",
+                "v40",
+                "content"
+              ],
+              "value": "shall not anoint yourself with the oil, for your olives shall drop off."
+            },
+            {
+              "rowId": 276,
+              "keyParts": [
+                "v040_ESV_DEU_028",
+                276,
+                "p6",
+                "verse",
+                "v40",
+                "plain_text"
+              ],
+              "value": "40 You shall have olive trees throughout all your territory, but you shall not anoint yourself with the oil, for your olives shall drop off."
+            },
+            {
+              "rowId": 277,
+              "keyParts": [
+                277,
+                "p6",
+                "verse",
+                "v41",
+                "label"
+              ],
+              "value": "41"
+            },
+            {
+              "rowId": 278,
+              "keyParts": [
+                278,
+                "p6",
+                "verse",
+                "v41",
+                "content"
+              ],
+              "value": "You shall father sons and daughters, but they shall not be yours, for"
+            },
+            {
+              "rowId": 279,
+              "keyParts": [
+                279,
+                "p6",
+                "verse",
+                "v41",
+                "note",
+                "x"
+              ],
+              "value": "#Lam. 1:5"
+            },
+            {
+              "rowId": 280,
+              "keyParts": [
+                280,
+                "p6",
+                "verse",
+                "v41",
+                "content"
+              ],
+              "value": "they shall go into captivity."
+            },
+            {
+              "rowId": 281,
+              "keyParts": [
+                "v041_ESV_DEU_028",
+                281,
+                "p6",
+                "verse",
+                "v41",
+                "plain_text"
+              ],
+              "value": "41 You shall father sons and daughters, but they shall not be yours, for they shall go into captivity."
+            },
+            {
+              "rowId": 282,
+              "keyParts": [
+                282,
+                "p6",
+                "verse",
+                "v42",
+                "label"
+              ],
+              "value": "42"
+            },
+            {
+              "rowId": 283,
+              "keyParts": [
+                283,
+                "p6",
+                "verse",
+                "v42",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.38above]"
+            },
+            {
+              "rowId": 284,
+              "keyParts": [
+                284,
+                "p6",
+                "verse",
+                "v42",
+                "content"
+              ],
+              "value": "The cricket"
+            },
+            {
+              "rowId": 285,
+              "keyParts": [
+                285,
+                "p6",
+                "verse",
+                "v42",
+                "note",
+                "f"
+              ],
+              "value": "#28:42Identity uncertain"
+            },
+            {
+              "rowId": 286,
+              "keyParts": [
+                286,
+                "p6",
+                "verse",
+                "v42",
+                "content"
+              ],
+              "value": "shall possess all your trees and the fruit of your ground."
+            },
+            {
+              "rowId": 287,
+              "keyParts": [
+                "v042_ESV_DEU_028",
+                287,
+                "p6",
+                "verse",
+                "v42",
+                "plain_text"
+              ],
+              "value": "42 The cricket shall possess all your trees and the fruit of your ground."
+            },
+            {
+              "rowId": 288,
+              "keyParts": [
+                288,
+                "p6",
+                "verse",
+                "v43",
+                "label"
+              ],
+              "value": "43"
+            },
+            {
+              "rowId": 289,
+              "keyParts": [
+                289,
+                "p6",
+                "verse",
+                "v43",
+                "note",
+                "x"
+              ],
+              "value": "#[ver.13]"
+            },
+            {
+              "rowId": 290,
+              "keyParts": [
+                290,
+                "p6",
+                "verse",
+                "v43",
+                "content"
+              ],
+              "value": "The sojourner who is among you shall rise higher and higher above you, and you shall come down lower and lower."
+            },
+            {
+              "rowId": 291,
+              "keyParts": [
+                "v043_ESV_DEU_028",
+                291,
+                "p6",
+                "verse",
+                "v43",
+                "plain_text"
+              ],
+              "value": "43 The sojourner who is among you shall rise higher and higher above you, and you shall come down lower and lower."
+            },
+            {
+              "rowId": 292,
+              "keyParts": [
+                292,
+                "p6",
+                "verse",
+                "v44",
+                "label"
+              ],
+              "value": "44"
+            },
+            {
+              "rowId": 293,
+              "keyParts": [
+                293,
+                "p6",
+                "verse",
+                "v44",
+                "note",
+                "x"
+              ],
+              "value": "#[ver.12]"
+            },
+            {
+              "rowId": 294,
+              "keyParts": [
+                294,
+                "p6",
+                "verse",
+                "v44",
+                "content"
+              ],
+              "value": "He shall lend to you, and you shall not lend to him."
+            },
+            {
+              "rowId": 295,
+              "keyParts": [
+                295,
+                "p6",
+                "verse",
+                "v44",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.43above]"
+            },
+            {
+              "rowId": 296,
+              "keyParts": [
+                296,
+                "p6",
+                "verse",
+                "v44",
+                "content"
+              ],
+              "value": "He shall be the head, and you shall be the tail."
+            },
+            {
+              "rowId": 297,
+              "keyParts": [
+                "v044_ESV_DEU_028",
+                297,
+                "p6",
+                "verse",
+                "v44",
+                "plain_text"
+              ],
+              "value": "44 He shall lend to you, and you shall not lend to him. He shall be the head, and you shall be the tail."
+            },
+            {
+              "rowId": 298,
+              "keyParts": [
+                298,
+                "p7",
+                "verse",
+                "v45",
+                "label"
+              ],
+              "value": "45"
+            },
+            {
+              "rowId": 299,
+              "keyParts": [
+                299,
+                "p7",
+                "verse",
+                "v45",
+                "note",
+                "x"
+              ],
+              "value": "#ver.15"
+            },
+            {
+              "rowId": 300,
+              "keyParts": [
+                300,
+                "p7",
+                "verse",
+                "v45",
+                "content"
+              ],
+              "value": "“All these curses shall come upon you and pursue you and overtake you till you are destroyed, because you did not obey the voice of the"
+            },
+            {
+              "rowId": 301,
+              "keyParts": [
+                301,
+                "p7",
+                "verse",
+                "v45",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 302,
+              "keyParts": [
+                302,
+                "p7",
+                "verse",
+                "v45",
+                "content"
+              ],
+              "value": "your God, to keep his commandments and his statutes that he commanded you."
+            },
+            {
+              "rowId": 303,
+              "keyParts": [
+                "v045_ESV_DEU_028",
+                303,
+                "p7",
+                "verse",
+                "v45",
+                "plain_text"
+              ],
+              "value": "45 “All these curses shall come upon you and pursue you and overtake you till you are destroyed, because you did not obey the voice of the Lord your God, to keep his commandments and his statutes that he commanded you."
+            },
+            {
+              "rowId": 304,
+              "keyParts": [
+                304,
+                "p7",
+                "verse",
+                "v46",
+                "label"
+              ],
+              "value": "46"
+            },
+            {
+              "rowId": 305,
+              "keyParts": [
+                305,
+                "p7",
+                "verse",
+                "v46",
+                "content"
+              ],
+              "value": "They shall be"
+            },
+            {
+              "rowId": 306,
+              "keyParts": [
+                306,
+                "p7",
+                "verse",
+                "v46",
+                "note",
+                "x"
+              ],
+              "value": "#[Isa. 8:18]"
+            },
+            {
+              "rowId": 307,
+              "keyParts": [
+                307,
+                "p7",
+                "verse",
+                "v46",
+                "content"
+              ],
+              "value": "a sign and a wonder against you and your offspring forever."
+            },
+            {
+              "rowId": 308,
+              "keyParts": [
+                "v046_ESV_DEU_028",
+                308,
+                "p7",
+                "verse",
+                "v46",
+                "plain_text"
+              ],
+              "value": "46 They shall be a sign and a wonder against you and your offspring forever."
+            },
+            {
+              "rowId": 309,
+              "keyParts": [
+                309,
+                "p7",
+                "verse",
+                "v47",
+                "label"
+              ],
+              "value": "47"
+            },
+            {
+              "rowId": 310,
+              "keyParts": [
+                310,
+                "p7",
+                "verse",
+                "v47",
+                "note",
+                "x"
+              ],
+              "value": "#Neh. 9:35-37"
+            },
+            {
+              "rowId": 311,
+              "keyParts": [
+                311,
+                "p7",
+                "verse",
+                "v47",
+                "content"
+              ],
+              "value": "Because you did not serve the"
+            },
+            {
+              "rowId": 312,
+              "keyParts": [
+                312,
+                "p7",
+                "verse",
+                "v47",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 313,
+              "keyParts": [
+                313,
+                "p7",
+                "verse",
+                "v47",
+                "content"
+              ],
+              "value": "your God with joyfulness and gladness of heart, because of the abundance of all things,"
+            },
+            {
+              "rowId": 314,
+              "keyParts": [
+                "v047_ESV_DEU_028",
+                314,
+                "p7",
+                "verse",
+                "v47",
+                "plain_text"
+              ],
+              "value": "47 Because you did not serve the Lord your God with joyfulness and gladness of heart, because of the abundance of all things,"
+            },
+            {
+              "rowId": 315,
+              "keyParts": [
+                315,
+                "p7",
+                "verse",
+                "v48",
+                "label"
+              ],
+              "value": "48"
+            },
+            {
+              "rowId": 316,
+              "keyParts": [
+                316,
+                "p7",
+                "verse",
+                "v48",
+                "content"
+              ],
+              "value": "therefore you shall serve your enemies whom the"
+            },
+            {
+              "rowId": 317,
+              "keyParts": [
+                317,
+                "p7",
+                "verse",
+                "v48",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 318,
+              "keyParts": [
+                318,
+                "p7",
+                "verse",
+                "v48",
+                "content"
+              ],
+              "value": "will send against you, in hunger and thirst, in nakedness, and lacking everything. And he"
+            },
+            {
+              "rowId": 319,
+              "keyParts": [
+                319,
+                "p7",
+                "verse",
+                "v48",
+                "note",
+                "x"
+              ],
+              "value": "#Jer. 28:14"
+            },
+            {
+              "rowId": 320,
+              "keyParts": [
+                320,
+                "p7",
+                "verse",
+                "v48",
+                "content"
+              ],
+              "value": "will put a yoke of iron on your neck until he has destroyed you."
+            },
+            {
+              "rowId": 321,
+              "keyParts": [
+                "v048_ESV_DEU_028",
+                321,
+                "p7",
+                "verse",
+                "v48",
+                "plain_text"
+              ],
+              "value": "48 therefore you shall serve your enemies whom the Lord will send against you, in hunger and thirst, in nakedness, and lacking everything. And he will put a yoke of iron on your neck until he has destroyed you."
+            },
+            {
+              "rowId": 322,
+              "keyParts": [
+                322,
+                "p7",
+                "verse",
+                "v49",
+                "label"
+              ],
+              "value": "49"
+            },
+            {
+              "rowId": 323,
+              "keyParts": [
+                323,
+                "p7",
+                "verse",
+                "v49",
+                "note",
+                "x"
+              ],
+              "value": "#[Jer. 5:15-17;6:22,23]; See Isa. 5:26-30"
+            },
+            {
+              "rowId": 324,
+              "keyParts": [
+                324,
+                "p7",
+                "verse",
+                "v49",
+                "content"
+              ],
+              "value": "The"
+            },
+            {
+              "rowId": 325,
+              "keyParts": [
+                325,
+                "p7",
+                "verse",
+                "v49",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 326,
+              "keyParts": [
+                326,
+                "p7",
+                "verse",
+                "v49",
+                "content"
+              ],
+              "value": "will bring a nation against you from far away, from the end of the earth,"
+            },
+            {
+              "rowId": 327,
+              "keyParts": [
+                327,
+                "p7",
+                "verse",
+                "v49",
+                "note",
+                "x"
+              ],
+              "value": "#Jer. 48:40;49:22;Lam. 4:19;Hos. 8:1;Hab. 1:8;[Ezek. 17:3,12]"
+            },
+            {
+              "rowId": 328,
+              "keyParts": [
+                328,
+                "p7",
+                "verse",
+                "v49",
+                "content"
+              ],
+              "value": "swooping down like the eagle, a nation"
+            },
+            {
+              "rowId": 329,
+              "keyParts": [
+                329,
+                "p7",
+                "verse",
+                "v49",
+                "note",
+                "x"
+              ],
+              "value": "#Isa. 28:11;33:19;Jer. 5:15"
+            },
+            {
+              "rowId": 330,
+              "keyParts": [
+                330,
+                "p7",
+                "verse",
+                "v49",
+                "content"
+              ],
+              "value": "whose language you do not understand,"
+            },
+            {
+              "rowId": 331,
+              "keyParts": [
+                "v049_ESV_DEU_028",
+                331,
+                "p7",
+                "verse",
+                "v49",
+                "plain_text"
+              ],
+              "value": "49 The Lord will bring a nation against you from far away, from the end of the earth, swooping down like the eagle, a nation whose language you do not understand,"
+            },
+            {
+              "rowId": 332,
+              "keyParts": [
+                332,
+                "p7",
+                "verse",
+                "v50",
+                "label"
+              ],
+              "value": "50"
+            },
+            {
+              "rowId": 333,
+              "keyParts": [
+                333,
+                "p7",
+                "verse",
+                "v50",
+                "content"
+              ],
+              "value": "a hard-faced nation"
+            },
+            {
+              "rowId": 334,
+              "keyParts": [
+                334,
+                "p7",
+                "verse",
+                "v50",
+                "note",
+                "x"
+              ],
+              "value": "#[2 Chr. 36:17;Isa. 47:6]"
+            },
+            {
+              "rowId": 335,
+              "keyParts": [
+                335,
+                "p7",
+                "verse",
+                "v50",
+                "content"
+              ],
+              "value": "who shall not respect the old or show mercy to the young."
+            },
+            {
+              "rowId": 336,
+              "keyParts": [
+                "v050_ESV_DEU_028",
+                336,
+                "p7",
+                "verse",
+                "v50",
+                "plain_text"
+              ],
+              "value": "50 a hard-faced nation who shall not respect the old or show mercy to the young."
+            },
+            {
+              "rowId": 337,
+              "keyParts": [
+                337,
+                "p7",
+                "verse",
+                "v51",
+                "label"
+              ],
+              "value": "51"
+            },
+            {
+              "rowId": 338,
+              "keyParts": [
+                338,
+                "p7",
+                "verse",
+                "v51",
+                "content"
+              ],
+              "value": "It shall"
+            },
+            {
+              "rowId": 339,
+              "keyParts": [
+                339,
+                "p7",
+                "verse",
+                "v51",
+                "note",
+                "x"
+              ],
+              "value": "#ver.33;Jer. 5:17;[Isa. 62:8,9]"
+            },
+            {
+              "rowId": 340,
+              "keyParts": [
+                340,
+                "p7",
+                "verse",
+                "v51",
+                "content"
+              ],
+              "value": "eat the offspring of your cattle and the fruit of your ground, until you are destroyed; it also shall not leave you grain, wine, or oil, the increase of your herds or the young of your flock, until they have caused you to perish."
+            },
+            {
+              "rowId": 341,
+              "keyParts": [
+                "v051_ESV_DEU_028",
+                341,
+                "p7",
+                "verse",
+                "v51",
+                "plain_text"
+              ],
+              "value": "51 It shall eat the offspring of your cattle and the fruit of your ground, until you are destroyed; it also shall not leave you grain, wine, or oil, the increase of your herds or the young of your flock, until they have caused you to perish."
+            },
+            {
+              "rowId": 342,
+              "keyParts": [
+                342,
+                "p8",
+                "verse",
+                "v52",
+                "label"
+              ],
+              "value": "52"
+            },
+            {
+              "rowId": 343,
+              "keyParts": [
+                343,
+                "p8",
+                "verse",
+                "v52",
+                "content"
+              ],
+              "value": "“They shall"
+            },
+            {
+              "rowId": 344,
+              "keyParts": [
+                344,
+                "p8",
+                "verse",
+                "v52",
+                "note",
+                "x"
+              ],
+              "value": "#[2 Kgs. 17:5;25:1,2,4]"
+            },
+            {
+              "rowId": 345,
+              "keyParts": [
+                345,
+                "p8",
+                "verse",
+                "v52",
+                "content"
+              ],
+              "value": "besiege you in all your towns, until your high and fortified walls, in which you trusted, come down throughout all your land. And they shall besiege you in all your towns throughout all your land, which the"
+            },
+            {
+              "rowId": 346,
+              "keyParts": [
+                346,
+                "p8",
+                "verse",
+                "v52",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 347,
+              "keyParts": [
+                347,
+                "p8",
+                "verse",
+                "v52",
+                "content"
+              ],
+              "value": "your God has given you."
+            },
+            {
+              "rowId": 348,
+              "keyParts": [
+                "v052_ESV_DEU_028",
+                348,
+                "p8",
+                "verse",
+                "v52",
+                "plain_text"
+              ],
+              "value": "52 “They shall besiege you in all your towns, until your high and fortified walls, in which you trusted, come down throughout all your land. And they shall besiege you in all your towns throughout all your land, which the Lord your God has given you."
+            },
+            {
+              "rowId": 349,
+              "keyParts": [
+                349,
+                "p8",
+                "verse",
+                "v53",
+                "label"
+              ],
+              "value": "53"
+            },
+            {
+              "rowId": 350,
+              "keyParts": [
+                350,
+                "p8",
+                "verse",
+                "v53",
+                "content"
+              ],
+              "value": "And"
+            },
+            {
+              "rowId": 351,
+              "keyParts": [
+                351,
+                "p8",
+                "verse",
+                "v53",
+                "note",
+                "x"
+              ],
+              "value": "#ver.57;Lev. 26:29;Jer. 19:9;Ezek. 5:10;[2 Kgs. 6:28,29;Lam. 2:20;4:10]"
+            },
+            {
+              "rowId": 352,
+              "keyParts": [
+                352,
+                "p8",
+                "verse",
+                "v53",
+                "content"
+              ],
+              "value": "you shall eat the fruit of your womb, the flesh of your sons and daughters, whom the"
+            },
+            {
+              "rowId": 353,
+              "keyParts": [
+                353,
+                "p8",
+                "verse",
+                "v53",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 354,
+              "keyParts": [
+                354,
+                "p8",
+                "verse",
+                "v53",
+                "content"
+              ],
+              "value": "your God has given you,"
+            },
+            {
+              "rowId": 355,
+              "keyParts": [
+                355,
+                "p8",
+                "verse",
+                "v53",
+                "note",
+                "x"
+              ],
+              "value": "#ver.55, 57"
+            },
+            {
+              "rowId": 356,
+              "keyParts": [
+                356,
+                "p8",
+                "verse",
+                "v53",
+                "content"
+              ],
+              "value": "in the siege and in the distress with which your enemies shall distress you."
+            },
+            {
+              "rowId": 357,
+              "keyParts": [
+                "v053_ESV_DEU_028",
+                357,
+                "p8",
+                "verse",
+                "v53",
+                "plain_text"
+              ],
+              "value": "53 And you shall eat the fruit of your womb, the flesh of your sons and daughters, whom the Lord your God has given you, in the siege and in the distress with which your enemies shall distress you."
+            },
+            {
+              "rowId": 358,
+              "keyParts": [
+                358,
+                "p8",
+                "verse",
+                "v54",
+                "label"
+              ],
+              "value": "54"
+            },
+            {
+              "rowId": 359,
+              "keyParts": [
+                359,
+                "p8",
+                "verse",
+                "v54",
+                "content"
+              ],
+              "value": "The man who is the most tender and refined among you will"
+            },
+            {
+              "rowId": 360,
+              "keyParts": [
+                360,
+                "p8",
+                "verse",
+                "v54",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.15:9"
+            },
+            {
+              "rowId": 361,
+              "keyParts": [
+                361,
+                "p8",
+                "verse",
+                "v54",
+                "content"
+              ],
+              "value": "begrudge food to his brother, to"
+            },
+            {
+              "rowId": 362,
+              "keyParts": [
+                362,
+                "p8",
+                "verse",
+                "v54",
+                "note",
+                "x"
+              ],
+              "value": "#ch.13:6"
+            },
+            {
+              "rowId": 363,
+              "keyParts": [
+                363,
+                "p8",
+                "verse",
+                "v54",
+                "content"
+              ],
+              "value": "the wife he embraces,"
+            },
+            {
+              "rowId": 364,
+              "keyParts": [
+                364,
+                "p8",
+                "verse",
+                "v54",
+                "note",
+                "f"
+              ],
+              "value": "#28:54Hebrewthe wife of his bosom"
+            },
+            {
+              "rowId": 365,
+              "keyParts": [
+                365,
+                "p8",
+                "verse",
+                "v54",
+                "content"
+              ],
+              "value": "and to the last of the children whom he has left,"
+            },
+            {
+              "rowId": 366,
+              "keyParts": [
+                "v054_ESV_DEU_028",
+                366,
+                "p8",
+                "verse",
+                "v54",
+                "plain_text"
+              ],
+              "value": "54 The man who is the most tender and refined among you will begrudge food to his brother, to the wife he embraces, and to the last of the children whom he has left,"
+            },
+            {
+              "rowId": 367,
+              "keyParts": [
+                367,
+                "p8",
+                "verse",
+                "v55",
+                "label"
+              ],
+              "value": "55"
+            },
+            {
+              "rowId": 368,
+              "keyParts": [
+                368,
+                "p8",
+                "verse",
+                "v55",
+                "content"
+              ],
+              "value": "so that he will not give to any of them any of the flesh of his children whom he is eating, because he has nothing else left,"
+            },
+            {
+              "rowId": 369,
+              "keyParts": [
+                369,
+                "p8",
+                "verse",
+                "v55",
+                "note",
+                "x"
+              ],
+              "value": "#ver.53"
+            },
+            {
+              "rowId": 370,
+              "keyParts": [
+                370,
+                "p8",
+                "verse",
+                "v55",
+                "content"
+              ],
+              "value": "in the siege and in the distress with which your enemy shall distress you in all your towns."
+            },
+            {
+              "rowId": 371,
+              "keyParts": [
+                "v055_ESV_DEU_028",
+                371,
+                "p8",
+                "verse",
+                "v55",
+                "plain_text"
+              ],
+              "value": "55 so that he will not give to any of them any of the flesh of his children whom he is eating, because he has nothing else left, in the siege and in the distress with which your enemy shall distress you in all your towns."
+            },
+            {
+              "rowId": 372,
+              "keyParts": [
+                372,
+                "p8",
+                "verse",
+                "v56",
+                "label"
+              ],
+              "value": "56"
+            },
+            {
+              "rowId": 373,
+              "keyParts": [
+                373,
+                "p8",
+                "verse",
+                "v56",
+                "note",
+                "x"
+              ],
+              "value": "#ver.54;Isa. 47:1"
+            },
+            {
+              "rowId": 374,
+              "keyParts": [
+                374,
+                "p8",
+                "verse",
+                "v56",
+                "content"
+              ],
+              "value": "The most tender and refined woman among you, who would not venture to set the sole of her foot on the ground because she is so delicate and tender, will begrudge to the husband she embraces,"
+            },
+            {
+              "rowId": 375,
+              "keyParts": [
+                375,
+                "p8",
+                "verse",
+                "v56",
+                "note",
+                "f"
+              ],
+              "value": "#28:56Hebrewthe husband of her bosom"
+            },
+            {
+              "rowId": 376,
+              "keyParts": [
+                376,
+                "p8",
+                "verse",
+                "v56",
+                "content"
+              ],
+              "value": "to her son and to her daughter,"
+            },
+            {
+              "rowId": 377,
+              "keyParts": [
+                "v056_ESV_DEU_028",
+                377,
+                "p8",
+                "verse",
+                "v56",
+                "plain_text"
+              ],
+              "value": "56 The most tender and refined woman among you, who would not venture to set the sole of her foot on the ground because she is so delicate and tender, will begrudge to the husband she embraces, to her son and to her daughter,"
+            },
+            {
+              "rowId": 378,
+              "keyParts": [
+                378,
+                "p8",
+                "verse",
+                "v57",
+                "label"
+              ],
+              "value": "57"
+            },
+            {
+              "rowId": 379,
+              "keyParts": [
+                379,
+                "p8",
+                "verse",
+                "v57",
+                "content"
+              ],
+              "value": "her afterbirth that comes out from between her feet and her children whom she bears, because lacking everything she will eat them secretly,"
+            },
+            {
+              "rowId": 380,
+              "keyParts": [
+                380,
+                "p8",
+                "verse",
+                "v57",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.55above]"
+            },
+            {
+              "rowId": 381,
+              "keyParts": [
+                381,
+                "p8",
+                "verse",
+                "v57",
+                "content"
+              ],
+              "value": "in the siege and in the distress with which your enemy shall distress you in your towns."
+            },
+            {
+              "rowId": 382,
+              "keyParts": [
+                "v057_ESV_DEU_028",
+                382,
+                "p8",
+                "verse",
+                "v57",
+                "plain_text"
+              ],
+              "value": "57 her afterbirth that comes out from between her feet and her children whom she bears, because lacking everything she will eat them secretly, in the siege and in the distress with which your enemy shall distress you in your towns."
+            },
+            {
+              "rowId": 383,
+              "keyParts": [
+                383,
+                "p9",
+                "verse",
+                "v58",
+                "label"
+              ],
+              "value": "58"
+            },
+            {
+              "rowId": 384,
+              "keyParts": [
+                384,
+                "p9",
+                "verse",
+                "v58",
+                "content"
+              ],
+              "value": "“If you are not careful to do all the words of this law that are written in this book, that you may fear this glorious and awesome name,"
+            },
+            {
+              "rowId": 385,
+              "keyParts": [
+                385,
+                "p9",
+                "verse",
+                "v58",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 6:3"
+            },
+            {
+              "rowId": 386,
+              "keyParts": [
+                386,
+                "p9",
+                "verse",
+                "v58",
+                "content"
+              ],
+              "value": "the"
+            },
+            {
+              "rowId": 387,
+              "keyParts": [
+                387,
+                "p9",
+                "verse",
+                "v58",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 388,
+              "keyParts": [
+                388,
+                "p9",
+                "verse",
+                "v58",
+                "content"
+              ],
+              "value": "your God,"
+            },
+            {
+              "rowId": 389,
+              "keyParts": [
+                "v058_ESV_DEU_028",
+                389,
+                "p9",
+                "verse",
+                "v58",
+                "plain_text"
+              ],
+              "value": "58 “If you are not careful to do all the words of this law that are written in this book, that you may fear this glorious and awesome name, the Lord your God,"
+            },
+            {
+              "rowId": 390,
+              "keyParts": [
+                390,
+                "p9",
+                "verse",
+                "v59",
+                "label"
+              ],
+              "value": "59"
+            },
+            {
+              "rowId": 391,
+              "keyParts": [
+                391,
+                "p9",
+                "verse",
+                "v59",
+                "content"
+              ],
+              "value": "then the"
+            },
+            {
+              "rowId": 392,
+              "keyParts": [
+                392,
+                "p9",
+                "verse",
+                "v59",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 393,
+              "keyParts": [
+                393,
+                "p9",
+                "verse",
+                "v59",
+                "content"
+              ],
+              "value": "will bring on you and your offspring extraordinary afflictions, afflictions severe and lasting, and sicknesses grievous and lasting."
+            },
+            {
+              "rowId": 394,
+              "keyParts": [
+                "v059_ESV_DEU_028",
+                394,
+                "p9",
+                "verse",
+                "v59",
+                "plain_text"
+              ],
+              "value": "59 then the Lord will bring on you and your offspring extraordinary afflictions, afflictions severe and lasting, and sicknesses grievous and lasting."
+            },
+            {
+              "rowId": 395,
+              "keyParts": [
+                395,
+                "p9",
+                "verse",
+                "v60",
+                "label"
+              ],
+              "value": "60"
+            },
+            {
+              "rowId": 396,
+              "keyParts": [
+                396,
+                "p9",
+                "verse",
+                "v60",
+                "content"
+              ],
+              "value": "And he will bring upon you again all"
+            },
+            {
+              "rowId": 397,
+              "keyParts": [
+                397,
+                "p9",
+                "verse",
+                "v60",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.7:15"
+            },
+            {
+              "rowId": 398,
+              "keyParts": [
+                398,
+                "p9",
+                "verse",
+                "v60",
+                "content"
+              ],
+              "value": "the diseases of Egypt, of which you were afraid, and they shall cling to you."
+            },
+            {
+              "rowId": 399,
+              "keyParts": [
+                "v060_ESV_DEU_028",
+                399,
+                "p9",
+                "verse",
+                "v60",
+                "plain_text"
+              ],
+              "value": "60 And he will bring upon you again all the diseases of Egypt, of which you were afraid, and they shall cling to you."
+            },
+            {
+              "rowId": 400,
+              "keyParts": [
+                400,
+                "p9",
+                "verse",
+                "v61",
+                "label"
+              ],
+              "value": "61"
+            },
+            {
+              "rowId": 401,
+              "keyParts": [
+                401,
+                "p9",
+                "verse",
+                "v61",
+                "content"
+              ],
+              "value": "Every sickness also and every affliction that is not recorded in the book of this law, the"
+            },
+            {
+              "rowId": 402,
+              "keyParts": [
+                402,
+                "p9",
+                "verse",
+                "v61",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 403,
+              "keyParts": [
+                403,
+                "p9",
+                "verse",
+                "v61",
+                "content"
+              ],
+              "value": "will bring upon you, until you are destroyed."
+            },
+            {
+              "rowId": 404,
+              "keyParts": [
+                "v061_ESV_DEU_028",
+                404,
+                "p9",
+                "verse",
+                "v61",
+                "plain_text"
+              ],
+              "value": "61 Every sickness also and every affliction that is not recorded in the book of this law, the Lord will bring upon you, until you are destroyed."
+            },
+            {
+              "rowId": 405,
+              "keyParts": [
+                405,
+                "p9",
+                "verse",
+                "v62",
+                "label"
+              ],
+              "value": "62"
+            },
+            {
+              "rowId": 406,
+              "keyParts": [
+                406,
+                "p9",
+                "verse",
+                "v62",
+                "content"
+              ],
+              "value": "Whereas"
+            },
+            {
+              "rowId": 407,
+              "keyParts": [
+                407,
+                "p9",
+                "verse",
+                "v62",
+                "note",
+                "x"
+              ],
+              "value": "#ch.4:27;[2 Kgs. 24:14;Neh. 7:4;Jer. 42:2]"
+            },
+            {
+              "rowId": 408,
+              "keyParts": [
+                408,
+                "p9",
+                "verse",
+                "v62",
+                "content"
+              ],
+              "value": "you were as numerous"
+            },
+            {
+              "rowId": 409,
+              "keyParts": [
+                409,
+                "p9",
+                "verse",
+                "v62",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.10:22"
+            },
+            {
+              "rowId": 410,
+              "keyParts": [
+                410,
+                "p9",
+                "verse",
+                "v62",
+                "content"
+              ],
+              "value": "as the stars of heaven, you shall be left few in number, because you did not obey the voice of the"
+            },
+            {
+              "rowId": 411,
+              "keyParts": [
+                411,
+                "p9",
+                "verse",
+                "v62",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 412,
+              "keyParts": [
+                412,
+                "p9",
+                "verse",
+                "v62",
+                "content"
+              ],
+              "value": "your God."
+            },
+            {
+              "rowId": 413,
+              "keyParts": [
+                "v062_ESV_DEU_028",
+                413,
+                "p9",
+                "verse",
+                "v62",
+                "plain_text"
+              ],
+              "value": "62 Whereas you were as numerous as the stars of heaven, you shall be left few in number, because you did not obey the voice of the Lord your God."
+            },
+            {
+              "rowId": 414,
+              "keyParts": [
+                414,
+                "p9",
+                "verse",
+                "v63",
+                "label"
+              ],
+              "value": "63"
+            },
+            {
+              "rowId": 415,
+              "keyParts": [
+                415,
+                "p9",
+                "verse",
+                "v63",
+                "content"
+              ],
+              "value": "And as the"
+            },
+            {
+              "rowId": 416,
+              "keyParts": [
+                416,
+                "p9",
+                "verse",
+                "v63",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 417,
+              "keyParts": [
+                417,
+                "p9",
+                "verse",
+                "v63",
+                "note",
+                "x"
+              ],
+              "value": "#ch.30:9;Jer. 32:41;Zeph. 3:17"
+            },
+            {
+              "rowId": 418,
+              "keyParts": [
+                418,
+                "p9",
+                "verse",
+                "v63",
+                "content"
+              ],
+              "value": "took delight in doing you good and multiplying you, so the"
+            },
+            {
+              "rowId": 419,
+              "keyParts": [
+                419,
+                "p9",
+                "verse",
+                "v63",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 420,
+              "keyParts": [
+                420,
+                "p9",
+                "verse",
+                "v63",
+                "content"
+              ],
+              "value": "will"
+            },
+            {
+              "rowId": 421,
+              "keyParts": [
+                421,
+                "p9",
+                "verse",
+                "v63",
+                "note",
+                "x"
+              ],
+              "value": "#[Prov. 1:26;Isa. 1:24;Ezek. 5:13]"
+            },
+            {
+              "rowId": 422,
+              "keyParts": [
+                422,
+                "p9",
+                "verse",
+                "v63",
+                "content"
+              ],
+              "value": "take delight in bringing ruin upon you and destroying you. And you shall be plucked off the land that you are entering to take possession of it."
+            },
+            {
+              "rowId": 423,
+              "keyParts": [
+                "v063_ESV_DEU_028",
+                423,
+                "p9",
+                "verse",
+                "v63",
+                "plain_text"
+              ],
+              "value": "63 And as the Lord took delight in doing you good and multiplying you, so the Lord will take delight in bringing ruin upon you and destroying you. And you shall be plucked off the land that you are entering to take possession of it."
+            },
+            {
+              "rowId": 424,
+              "keyParts": [
+                424,
+                "p10",
+                "verse",
+                "v64",
+                "label"
+              ],
+              "value": "64"
+            },
+            {
+              "rowId": 425,
+              "keyParts": [
+                425,
+                "p10",
+                "verse",
+                "v64",
+                "content"
+              ],
+              "value": "“And the"
+            },
+            {
+              "rowId": 426,
+              "keyParts": [
+                426,
+                "p10",
+                "verse",
+                "v64",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 427,
+              "keyParts": [
+                427,
+                "p10",
+                "verse",
+                "v64",
+                "note",
+                "x"
+              ],
+              "value": "#SeeLev. 26:33"
+            },
+            {
+              "rowId": 428,
+              "keyParts": [
+                428,
+                "p10",
+                "verse",
+                "v64",
+                "content"
+              ],
+              "value": "will scatter you among all peoples, from one end of the earth to the other, and"
+            },
+            {
+              "rowId": 429,
+              "keyParts": [
+                429,
+                "p10",
+                "verse",
+                "v64",
+                "note",
+                "x"
+              ],
+              "value": "#ver.36"
+            },
+            {
+              "rowId": 430,
+              "keyParts": [
+                430,
+                "p10",
+                "verse",
+                "v64",
+                "content"
+              ],
+              "value": "there you shall serve other gods"
+            },
+            {
+              "rowId": 431,
+              "keyParts": [
+                431,
+                "p10",
+                "verse",
+                "v64",
+                "note",
+                "x"
+              ],
+              "value": "#ch.4:28"
+            },
+            {
+              "rowId": 432,
+              "keyParts": [
+                432,
+                "p10",
+                "verse",
+                "v64",
+                "content"
+              ],
+              "value": "of wood and stone,"
+            },
+            {
+              "rowId": 433,
+              "keyParts": [
+                433,
+                "p10",
+                "verse",
+                "v64",
+                "note",
+                "x"
+              ],
+              "value": "#ch.13:6;Jer. 19:4;44:3"
+            },
+            {
+              "rowId": 434,
+              "keyParts": [
+                434,
+                "p10",
+                "verse",
+                "v64",
+                "content"
+              ],
+              "value": "which neither you nor your fathers have known."
+            },
+            {
+              "rowId": 435,
+              "keyParts": [
+                "v064_ESV_DEU_028",
+                435,
+                "p10",
+                "verse",
+                "v64",
+                "plain_text"
+              ],
+              "value": "64 “And the Lord will scatter you among all peoples, from one end of the earth to the other, and there you shall serve other gods of wood and stone, which neither you nor your fathers have known."
+            },
+            {
+              "rowId": 436,
+              "keyParts": [
+                436,
+                "p10",
+                "verse",
+                "v65",
+                "label"
+              ],
+              "value": "65"
+            },
+            {
+              "rowId": 437,
+              "keyParts": [
+                437,
+                "p10",
+                "verse",
+                "v65",
+                "content"
+              ],
+              "value": "And"
+            },
+            {
+              "rowId": 438,
+              "keyParts": [
+                438,
+                "p10",
+                "verse",
+                "v65",
+                "note",
+                "x"
+              ],
+              "value": "#[Amos 9:4]"
+            },
+            {
+              "rowId": 439,
+              "keyParts": [
+                439,
+                "p10",
+                "verse",
+                "v65",
+                "content"
+              ],
+              "value": "among these nations you shall find no respite, and there shall be no resting place for the sole of your foot, but"
+            },
+            {
+              "rowId": 440,
+              "keyParts": [
+                440,
+                "p10",
+                "verse",
+                "v65",
+                "note",
+                "x"
+              ],
+              "value": "#[Lev. 26:36]"
+            },
+            {
+              "rowId": 441,
+              "keyParts": [
+                441,
+                "p10",
+                "verse",
+                "v65",
+                "content"
+              ],
+              "value": "the"
+            },
+            {
+              "rowId": 442,
+              "keyParts": [
+                442,
+                "p10",
+                "verse",
+                "v65",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 443,
+              "keyParts": [
+                443,
+                "p10",
+                "verse",
+                "v65",
+                "content"
+              ],
+              "value": "will give you there a trembling heart and failing eyes and"
+            },
+            {
+              "rowId": 444,
+              "keyParts": [
+                444,
+                "p10",
+                "verse",
+                "v65",
+                "note",
+                "x"
+              ],
+              "value": "#Lev. 26:16"
+            },
+            {
+              "rowId": 445,
+              "keyParts": [
+                445,
+                "p10",
+                "verse",
+                "v65",
+                "content"
+              ],
+              "value": "a languishing soul."
+            },
+            {
+              "rowId": 446,
+              "keyParts": [
+                "v065_ESV_DEU_028",
+                446,
+                "p10",
+                "verse",
+                "v65",
+                "plain_text"
+              ],
+              "value": "65 And among these nations you shall find no respite, and there shall be no resting place for the sole of your foot, but the Lord will give you there a trembling heart and failing eyes and a languishing soul."
+            },
+            {
+              "rowId": 447,
+              "keyParts": [
+                447,
+                "p10",
+                "verse",
+                "v66",
+                "label"
+              ],
+              "value": "66"
+            },
+            {
+              "rowId": 448,
+              "keyParts": [
+                448,
+                "p10",
+                "verse",
+                "v66",
+                "content"
+              ],
+              "value": "Your life shall hang in doubt before you. Night and day you shall be in dread and have no assurance of your life."
+            },
+            {
+              "rowId": 449,
+              "keyParts": [
+                "v066_ESV_DEU_028",
+                449,
+                "p10",
+                "verse",
+                "v66",
+                "plain_text"
+              ],
+              "value": "66 Your life shall hang in doubt before you. Night and day you shall be in dread and have no assurance of your life."
+            },
+            {
+              "rowId": 450,
+              "keyParts": [
+                450,
+                "p10",
+                "verse",
+                "v67",
+                "label"
+              ],
+              "value": "67"
+            },
+            {
+              "rowId": 451,
+              "keyParts": [
+                451,
+                "p10",
+                "verse",
+                "v67",
+                "note",
+                "x"
+              ],
+              "value": "#Job 7:3,4"
+            },
+            {
+              "rowId": 452,
+              "keyParts": [
+                452,
+                "p10",
+                "verse",
+                "v67",
+                "content"
+              ],
+              "value": "In the morning you shall say, ‘If only it were evening!’ and at evening you shall say, ‘If only it were morning!’ because of the dread that your heart shall feel, and"
+            },
+            {
+              "rowId": 453,
+              "keyParts": [
+                453,
+                "p10",
+                "verse",
+                "v67",
+                "note",
+                "x"
+              ],
+              "value": "#ver.34"
+            },
+            {
+              "rowId": 454,
+              "keyParts": [
+                454,
+                "p10",
+                "verse",
+                "v67",
+                "content"
+              ],
+              "value": "the sights that your eyes shall see."
+            },
+            {
+              "rowId": 455,
+              "keyParts": [
+                "v067_ESV_DEU_028",
+                455,
+                "p10",
+                "verse",
+                "v67",
+                "plain_text"
+              ],
+              "value": "67 In the morning you shall say, ‘If only it were evening!’ and at evening you shall say, ‘If only it were morning!’ because of the dread that your heart shall feel, and the sights that your eyes shall see."
+            },
+            {
+              "rowId": 456,
+              "keyParts": [
+                456,
+                "p10",
+                "verse",
+                "v68",
+                "label"
+              ],
+              "value": "68"
+            },
+            {
+              "rowId": 457,
+              "keyParts": [
+                457,
+                "p10",
+                "verse",
+                "v68",
+                "content"
+              ],
+              "value": "And the"
+            },
+            {
+              "rowId": 458,
+              "keyParts": [
+                458,
+                "p10",
+                "verse",
+                "v68",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 459,
+              "keyParts": [
+                459,
+                "p10",
+                "verse",
+                "v68",
+                "note",
+                "x"
+              ],
+              "value": "#Hos. 8:13;9:3;[Jer. 43:7]"
+            },
+            {
+              "rowId": 460,
+              "keyParts": [
+                460,
+                "p10",
+                "verse",
+                "v68",
+                "content"
+              ],
+              "value": "will bring you back in ships to Egypt, a journey that I promised that"
+            },
+            {
+              "rowId": 461,
+              "keyParts": [
+                461,
+                "p10",
+                "verse",
+                "v68",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.17:16"
+            },
+            {
+              "rowId": 462,
+              "keyParts": [
+                462,
+                "p10",
+                "verse",
+                "v68",
+                "content"
+              ],
+              "value": "you should never make again; and there you shall offer yourselves for sale to your enemies as male and female slaves, but there will be no buyer.”"
+            },
+            {
+              "rowId": 463,
+              "keyParts": [
+                "v068_ESV_DEU_028",
+                463,
+                "p10",
+                "verse",
+                "v68",
+                "plain_text"
+              ],
+              "value": "68 And the Lord will bring you back in ships to Egypt, a journey that I promised that you should never make again; and there you shall offer yourselves for sale to your enemies as male and female slaves, but there will be no buyer.”"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

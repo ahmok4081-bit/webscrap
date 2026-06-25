@@ -1,0 +1,2664 @@
+{
+  "translationId": "ESV",
+  "name": "English Standard Version",
+  "abbreviation": "ESV",
+  "language": "English",
+  "copyright": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.",
+  "books": [
+    {
+      "bookId": "GEN",
+      "testament": "OT",
+      "order": 1,
+      "title": "Genesis",
+      "abbreviation": "GEN",
+      "chapters": [
+        {
+          "chapter": 27,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "27"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Isaac Blesses Jacob"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "When Isaac was old and"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#ch.48:10;1 Sam. 3:2"
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "his eyes were dim so that he could not see, he called Esau his older son and said to him, “My son”; and he answered, “Here I am.”"
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                "v001_ESV_GEN_027",
+                7,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 When Isaac was old and his eyes were dim so that he could not see, he called Esau his older son and said to him, “My son”; and he answered, “Here I am.”"
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                9,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "He said, “Behold, I am old; I do not know the day of my death."
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                "v002_ESV_GEN_027",
+                10,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 He said, “Behold, I am old; I do not know the day of my death."
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                11,
+                "p1",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                12,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#ch.25:27,28"
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                13,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "Now then, take your weapons, your quiver and your bow, and go out to the field and hunt game for me,"
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                "v003_ESV_GEN_027",
+                14,
+                "p1",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 Now then, take your weapons, your quiver and your bow, and go out to the field and hunt game for me,"
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                15,
+                "p1",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                16,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "and prepare for me delicious food, such as I love, and bring it to me so that I may eat, that my soul"
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                17,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#ch.10:25;48:9,15;49:28;Deut. 33:1"
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "may bless you before I die.”"
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                "v004_ESV_GEN_027",
+                19,
+                "p1",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 and prepare for me delicious food, such as I love, and bring it to me so that I may eat, that my soul may bless you before I die.”"
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                20,
+                "p2",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p2",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "Now Rebekah was listening when Isaac spoke to his son Esau. So when Esau went to the field to hunt for game and bring it,"
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                "v005_ESV_GEN_027",
+                22,
+                "p2",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 Now Rebekah was listening when Isaac spoke to his son Esau. So when Esau went to the field to hunt for game and bring it,"
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "p2",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                24,
+                "p2",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "Rebekah said to her son Jacob, “I heard your father speak to your brother Esau,"
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                "v006_ESV_GEN_027",
+                25,
+                "p2",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 Rebekah said to her son Jacob, “I heard your father speak to your brother Esau,"
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                26,
+                "p2",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                27,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "‘Bring me game and prepare for me delicious food, that I may eat it and bless you before the"
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                28,
+                "p2",
+                "verse",
+                "v7",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                29,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "before I die.’"
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                "v007_ESV_GEN_027",
+                30,
+                "p2",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 ‘Bring me game and prepare for me delicious food, that I may eat it and bless you before the Lord before I die.’"
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                31,
+                "p2",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "Now therefore, my son,"
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                33,
+                "p2",
+                "verse",
+                "v8",
+                "note",
+                "x"
+              ],
+              "value": "#ver.13"
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                34,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "obey my voice as I command you."
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                "v008_ESV_GEN_027",
+                35,
+                "p2",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 Now therefore, my son, obey my voice as I command you."
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "p2",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                37,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "Go to the flock and bring me two good young goats, so that I may prepare from them delicious food for your father, such as he loves."
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                "v009_ESV_GEN_027",
+                38,
+                "p2",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 Go to the flock and bring me two good young goats, so that I may prepare from them delicious food for your father, such as he loves."
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                39,
+                "p2",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                40,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "And you shall bring it to your father to eat,"
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p2",
+                "verse",
+                "v10",
+                "note",
+                "x"
+              ],
+              "value": "#ver.4"
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "so that he may bless you before he dies.”"
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                "v010_ESV_GEN_027",
+                43,
+                "p2",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 And you shall bring it to your father to eat, so that he may bless you before he dies.”"
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                44,
+                "p2",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                45,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "But Jacob said to Rebekah his mother, “Behold,"
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                46,
+                "p2",
+                "verse",
+                "v11",
+                "note",
+                "x"
+              ],
+              "value": "#ch.25:25"
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                47,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "my brother Esau is a hairy man, and I am a smooth man."
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                "v011_ESV_GEN_027",
+                48,
+                "p2",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 But Jacob said to Rebekah his mother, “Behold, my brother Esau is a hairy man, and I am a smooth man."
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                49,
+                "p2",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "p2",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "Perhaps my father"
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                51,
+                "p2",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#ver.21, 22"
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                52,
+                "p2",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "will feel me, and I shall seem to be mocking him and bring"
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                53,
+                "p2",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#[Deut. 27:18]"
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                54,
+                "p2",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "a curse upon myself and not a blessing.”"
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                "v012_ESV_GEN_027",
+                55,
+                "p2",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 Perhaps my father will feel me, and I shall seem to be mocking him and bring a curse upon myself and not a blessing.”"
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                56,
+                "p2",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                57,
+                "p2",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "His mother said to him,"
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                58,
+                "p2",
+                "verse",
+                "v13",
+                "note",
+                "x"
+              ],
+              "value": "#[1 Sam. 25:24;2 Sam. 14:9;Matt. 27:25]"
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                59,
+                "p2",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "“Let your curse be on me, my son; only obey my voice, and go, bring them to me.”"
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                "v013_ESV_GEN_027",
+                60,
+                "p2",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 His mother said to him, “Let your curse be on me, my son; only obey my voice, and go, bring them to me.”"
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                61,
+                "p3",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                62,
+                "p3",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "So he went and took them and brought them to his mother, and his mother prepared delicious food, such as his father loved."
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                "v014_ESV_GEN_027",
+                63,
+                "p3",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 So he went and took them and brought them to his mother, and his mother prepared delicious food, such as his father loved."
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                64,
+                "p3",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                65,
+                "p3",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "Then Rebekah took the"
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                66,
+                "p3",
+                "verse",
+                "v15",
+                "note",
+                "x"
+              ],
+              "value": "#ver.27"
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                67,
+                "p3",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "best garments of Esau her older son, which were with her in the house, and put them on Jacob her younger son."
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                "v015_ESV_GEN_027",
+                68,
+                "p3",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 Then Rebekah took the best garments of Esau her older son, which were with her in the house, and put them on Jacob her younger son."
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                69,
+                "p3",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                70,
+                "p3",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "And the skins of the young goats she put on his hands and on the smooth part of his neck."
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                "v016_ESV_GEN_027",
+                71,
+                "p3",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 And the skins of the young goats she put on his hands and on the smooth part of his neck."
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                72,
+                "p3",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                73,
+                "p3",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "And she put the delicious food and the bread, which she had prepared, into the hand of her son Jacob."
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                "v017_ESV_GEN_027",
+                74,
+                "p3",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 And she put the delicious food and the bread, which she had prepared, into the hand of her son Jacob."
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                75,
+                "p4",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                76,
+                "p4",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "So he went in to his father and said, “My father.” And he said, “Here I am. Who are you, my son?”"
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                "v018_ESV_GEN_027",
+                77,
+                "p4",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 So he went in to his father and said, “My father.” And he said, “Here I am. Who are you, my son?”"
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                78,
+                "p4",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                79,
+                "p4",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "Jacob said to his father, “I am Esau your firstborn. I have done as you told me; now sit up and eat of my game, that your soul may bless me.”"
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                "v019_ESV_GEN_027",
+                80,
+                "p4",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 Jacob said to his father, “I am Esau your firstborn. I have done as you told me; now sit up and eat of my game, that your soul may bless me.”"
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                81,
+                "p4",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                82,
+                "p4",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "But Isaac said to his son, “How is it that you have found it so quickly, my son?” He answered, “Because the"
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                83,
+                "p4",
+                "verse",
+                "v20",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                84,
+                "p4",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "your God granted me success.”"
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                "v020_ESV_GEN_027",
+                85,
+                "p4",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 But Isaac said to his son, “How is it that you have found it so quickly, my son?” He answered, “Because the Lord your God granted me success.”"
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                86,
+                "p4",
+                "verse",
+                "v21",
+                "label"
+              ],
+              "value": "21"
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                87,
+                "p4",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "Then Isaac said to Jacob, “Please come near, that I"
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                88,
+                "p4",
+                "verse",
+                "v21",
+                "note",
+                "x"
+              ],
+              "value": "#ver.12"
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                89,
+                "p4",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "may feel you, my son, to know whether you are really my son Esau or not.”"
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                "v021_ESV_GEN_027",
+                90,
+                "p4",
+                "verse",
+                "v21",
+                "plain_text"
+              ],
+              "value": "21 Then Isaac said to Jacob, “Please come near, that I may feel you, my son, to know whether you are really my son Esau or not.”"
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                91,
+                "p4",
+                "verse",
+                "v22",
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                92,
+                "p4",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "So Jacob went near to Isaac his father, who felt him and said, “The voice is Jacob’s voice, but the hands are the hands of Esau.”"
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                "v022_ESV_GEN_027",
+                93,
+                "p4",
+                "verse",
+                "v22",
+                "plain_text"
+              ],
+              "value": "22 So Jacob went near to Isaac his father, who felt him and said, “The voice is Jacob’s voice, but the hands are the hands of Esau.”"
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                94,
+                "p4",
+                "verse",
+                "v23",
+                "label"
+              ],
+              "value": "23"
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                95,
+                "p4",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "And he did not recognize him, because"
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                96,
+                "p4",
+                "verse",
+                "v23",
+                "note",
+                "x"
+              ],
+              "value": "#ver.16"
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                97,
+                "p4",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "his hands were hairy like his brother Esau’s hands."
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                98,
+                "p4",
+                "verse",
+                "v23",
+                "note",
+                "x"
+              ],
+              "value": "#Heb. 11:20"
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                99,
+                "p4",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "So he blessed him."
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                "v023_ESV_GEN_027",
+                100,
+                "p4",
+                "verse",
+                "v23",
+                "plain_text"
+              ],
+              "value": "23 And he did not recognize him, because his hands were hairy like his brother Esau’s hands. So he blessed him."
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                101,
+                "p4",
+                "verse",
+                "v24",
+                "label"
+              ],
+              "value": "24"
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                102,
+                "p4",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "He said, “Are you really my son Esau?” He answered, “I am.”"
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                "v024_ESV_GEN_027",
+                103,
+                "p4",
+                "verse",
+                "v24",
+                "plain_text"
+              ],
+              "value": "24 He said, “Are you really my son Esau?” He answered, “I am.”"
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                104,
+                "p4",
+                "verse",
+                "v25",
+                "label"
+              ],
+              "value": "25"
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                105,
+                "p4",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "Then he said, “Bring it near to me,"
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                106,
+                "p4",
+                "verse",
+                "v25",
+                "note",
+                "x"
+              ],
+              "value": "#ver.10"
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                107,
+                "p4",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "that I may eat of my son’s game and bless you.” So he brought it near to him, and he ate; and he brought him wine, and he drank."
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                "v025_ESV_GEN_027",
+                108,
+                "p4",
+                "verse",
+                "v25",
+                "plain_text"
+              ],
+              "value": "25 Then he said, “Bring it near to me, that I may eat of my son’s game and bless you.” So he brought it near to him, and he ate; and he brought him wine, and he drank."
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                109,
+                "p5",
+                "verse",
+                "v26",
+                "label"
+              ],
+              "value": "26"
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                110,
+                "p5",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "Then his father Isaac said to him, “Come near and kiss me, my son.”"
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                "v026_ESV_GEN_027",
+                111,
+                "p5",
+                "verse",
+                "v26",
+                "plain_text"
+              ],
+              "value": "26 Then his father Isaac said to him, “Come near and kiss me, my son.”"
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                112,
+                "p5",
+                "verse",
+                "v27",
+                "label"
+              ],
+              "value": "27"
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                113,
+                "p5",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "So he came near and kissed him. And Isaac smelled the smell of his garments"
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                114,
+                "p5",
+                "verse",
+                "v27",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.23above]"
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                115,
+                "p5",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "and blessed him and said,"
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                116,
+                "q1_1",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "“See,"
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                117,
+                "q1_1",
+                "verse",
+                "v27",
+                "note",
+                "x"
+              ],
+              "value": "#[Hos. 14:6]"
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                118,
+                "q1_1",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "the smell of my son"
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                119,
+                "q2_1",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "is as the smell of a field that the"
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                120,
+                "q2_1",
+                "verse",
+                "v27",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 121,
+              "keyParts": [
+                121,
+                "q2_1",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "has blessed!"
+            },
+            {
+              "rowId": 122,
+              "keyParts": [
+                "v027_ESV_GEN_027",
+                122,
+                "p5",
+                "verse",
+                "v27",
+                "plain_text"
+              ],
+              "value": "27 So he came near and kissed him. And Isaac smelled the smell of his garments and blessed him and said, “See, the smell of my son is as the smell of a field that the Lord has blessed!"
+            },
+            {
+              "rowId": 123,
+              "keyParts": [
+                123,
+                "q1_2",
+                "verse",
+                "v28",
+                "label"
+              ],
+              "value": "28"
+            },
+            {
+              "rowId": 124,
+              "keyParts": [
+                124,
+                "q1_2",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "May God give you of"
+            },
+            {
+              "rowId": 125,
+              "keyParts": [
+                125,
+                "q1_2",
+                "verse",
+                "v28",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 33:13;Zech. 8:12;[ch.49:25;2 Sam. 1:21]"
+            },
+            {
+              "rowId": 126,
+              "keyParts": [
+                126,
+                "q1_2",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "the dew of heaven"
+            },
+            {
+              "rowId": 127,
+              "keyParts": [
+                127,
+                "q2_2",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "and of the fatness of the earth"
+            },
+            {
+              "rowId": 128,
+              "keyParts": [
+                128,
+                "q2_3",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "and"
+            },
+            {
+              "rowId": 129,
+              "keyParts": [
+                129,
+                "q2_3",
+                "verse",
+                "v28",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 7:13;33:28;Joel 2:19"
+            },
+            {
+              "rowId": 130,
+              "keyParts": [
+                130,
+                "q2_3",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "plenty of grain and wine."
+            },
+            {
+              "rowId": 131,
+              "keyParts": [
+                "v028_ESV_GEN_027",
+                131,
+                "q1_2",
+                "verse",
+                "v28",
+                "plain_text"
+              ],
+              "value": "28 May God give you of the dew of heaven and of the fatness of the earth and plenty of grain and wine."
+            },
+            {
+              "rowId": 132,
+              "keyParts": [
+                132,
+                "q1_3",
+                "verse",
+                "v29",
+                "label"
+              ],
+              "value": "29"
+            },
+            {
+              "rowId": 133,
+              "keyParts": [
+                133,
+                "q1_3",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "Let peoples serve you,"
+            },
+            {
+              "rowId": 134,
+              "keyParts": [
+                134,
+                "q2_4",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "and nations"
+            },
+            {
+              "rowId": 135,
+              "keyParts": [
+                135,
+                "q2_4",
+                "verse",
+                "v29",
+                "note",
+                "x"
+              ],
+              "value": "#[ch.49:8]"
+            },
+            {
+              "rowId": 136,
+              "keyParts": [
+                136,
+                "q2_4",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "bow down to you."
+            },
+            {
+              "rowId": 137,
+              "keyParts": [
+                137,
+                "q1_4",
+                "verse",
+                "v29",
+                "note",
+                "x"
+              ],
+              "value": "#[2 Sam. 8:14]"
+            },
+            {
+              "rowId": 138,
+              "keyParts": [
+                138,
+                "q1_4",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "Be lord over your brothers,"
+            },
+            {
+              "rowId": 139,
+              "keyParts": [
+                139,
+                "q2_5",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "and may your mother’s sons bow down to you."
+            },
+            {
+              "rowId": 140,
+              "keyParts": [
+                140,
+                "q1_5",
+                "verse",
+                "v29",
+                "note",
+                "x"
+              ],
+              "value": "#ch.12:3;Num. 24:9"
+            },
+            {
+              "rowId": 141,
+              "keyParts": [
+                141,
+                "q1_5",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "Cursed be everyone who curses you,"
+            },
+            {
+              "rowId": 142,
+              "keyParts": [
+                142,
+                "q2_6",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "and blessed be everyone who blesses you!”"
+            },
+            {
+              "rowId": 143,
+              "keyParts": [
+                "v029_ESV_GEN_027",
+                143,
+                "q1_3",
+                "verse",
+                "v29",
+                "plain_text"
+              ],
+              "value": "29 Let peoples serve you, and nations bow down to you. Be lord over your brothers, and may your mother’s sons bow down to you. Cursed be everyone who curses you, and blessed be everyone who blesses you!”"
+            },
+            {
+              "rowId": 144,
+              "keyParts": [
+                144,
+                "p6",
+                "verse",
+                "v30",
+                "label"
+              ],
+              "value": "30"
+            },
+            {
+              "rowId": 145,
+              "keyParts": [
+                145,
+                "p6",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "As soon as Isaac had finished blessing Jacob, when Jacob had scarcely gone out from the presence of Isaac his father, Esau his brother came in from his hunting."
+            },
+            {
+              "rowId": 146,
+              "keyParts": [
+                "v030_ESV_GEN_027",
+                146,
+                "p6",
+                "verse",
+                "v30",
+                "plain_text"
+              ],
+              "value": "30 As soon as Isaac had finished blessing Jacob, when Jacob had scarcely gone out from the presence of Isaac his father, Esau his brother came in from his hunting."
+            },
+            {
+              "rowId": 147,
+              "keyParts": [
+                147,
+                "p6",
+                "verse",
+                "v31",
+                "label"
+              ],
+              "value": "31"
+            },
+            {
+              "rowId": 148,
+              "keyParts": [
+                148,
+                "p6",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "He also prepared delicious food and brought it to his father. And he said to his father, “Let my father arise and eat of his son’s game, that you may bless me.”"
+            },
+            {
+              "rowId": 149,
+              "keyParts": [
+                "v031_ESV_GEN_027",
+                149,
+                "p6",
+                "verse",
+                "v31",
+                "plain_text"
+              ],
+              "value": "31 He also prepared delicious food and brought it to his father. And he said to his father, “Let my father arise and eat of his son’s game, that you may bless me.”"
+            },
+            {
+              "rowId": 150,
+              "keyParts": [
+                150,
+                "p6",
+                "verse",
+                "v32",
+                "label"
+              ],
+              "value": "32"
+            },
+            {
+              "rowId": 151,
+              "keyParts": [
+                151,
+                "p6",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "His father Isaac said to him, “Who are you?” He answered, “I am your son, your firstborn, Esau.”"
+            },
+            {
+              "rowId": 152,
+              "keyParts": [
+                "v032_ESV_GEN_027",
+                152,
+                "p6",
+                "verse",
+                "v32",
+                "plain_text"
+              ],
+              "value": "32 His father Isaac said to him, “Who are you?” He answered, “I am your son, your firstborn, Esau.”"
+            },
+            {
+              "rowId": 153,
+              "keyParts": [
+                153,
+                "p6",
+                "verse",
+                "v33",
+                "label"
+              ],
+              "value": "33"
+            },
+            {
+              "rowId": 154,
+              "keyParts": [
+                154,
+                "p6",
+                "verse",
+                "v33",
+                "content"
+              ],
+              "value": "Then Isaac trembled very violently and said, “Who was it then that hunted game and brought it to me, and I ate it all before you came, and I have blessed him? Yes, and he shall be blessed.”"
+            },
+            {
+              "rowId": 155,
+              "keyParts": [
+                "v033_ESV_GEN_027",
+                155,
+                "p6",
+                "verse",
+                "v33",
+                "plain_text"
+              ],
+              "value": "33 Then Isaac trembled very violently and said, “Who was it then that hunted game and brought it to me, and I ate it all before you came, and I have blessed him? Yes, and he shall be blessed.”"
+            },
+            {
+              "rowId": 156,
+              "keyParts": [
+                156,
+                "p6",
+                "verse",
+                "v34",
+                "label"
+              ],
+              "value": "34"
+            },
+            {
+              "rowId": 157,
+              "keyParts": [
+                157,
+                "p6",
+                "verse",
+                "v34",
+                "content"
+              ],
+              "value": "As soon as Esau heard the words of his father,"
+            },
+            {
+              "rowId": 158,
+              "keyParts": [
+                158,
+                "p6",
+                "verse",
+                "v34",
+                "note",
+                "x"
+              ],
+              "value": "#Heb. 12:17"
+            },
+            {
+              "rowId": 159,
+              "keyParts": [
+                159,
+                "p6",
+                "verse",
+                "v34",
+                "content"
+              ],
+              "value": "he cried out with an exceedingly great and bitter cry and said to his father, “Bless me, even me also, O my father!”"
+            },
+            {
+              "rowId": 160,
+              "keyParts": [
+                "v034_ESV_GEN_027",
+                160,
+                "p6",
+                "verse",
+                "v34",
+                "plain_text"
+              ],
+              "value": "34 As soon as Esau heard the words of his father, he cried out with an exceedingly great and bitter cry and said to his father, “Bless me, even me also, O my father!”"
+            },
+            {
+              "rowId": 161,
+              "keyParts": [
+                161,
+                "p6",
+                "verse",
+                "v35",
+                "label"
+              ],
+              "value": "35"
+            },
+            {
+              "rowId": 162,
+              "keyParts": [
+                162,
+                "p6",
+                "verse",
+                "v35",
+                "content"
+              ],
+              "value": "But he said, “Your brother came deceitfully, and he has taken away your blessing.”"
+            },
+            {
+              "rowId": 163,
+              "keyParts": [
+                "v035_ESV_GEN_027",
+                163,
+                "p6",
+                "verse",
+                "v35",
+                "plain_text"
+              ],
+              "value": "35 But he said, “Your brother came deceitfully, and he has taken away your blessing.”"
+            },
+            {
+              "rowId": 164,
+              "keyParts": [
+                164,
+                "p6",
+                "verse",
+                "v36",
+                "label"
+              ],
+              "value": "36"
+            },
+            {
+              "rowId": 165,
+              "keyParts": [
+                165,
+                "p6",
+                "verse",
+                "v36",
+                "content"
+              ],
+              "value": "Esau said,"
+            },
+            {
+              "rowId": 166,
+              "keyParts": [
+                166,
+                "p6",
+                "verse",
+                "v36",
+                "note",
+                "x"
+              ],
+              "value": "#ch.25:26"
+            },
+            {
+              "rowId": 167,
+              "keyParts": [
+                167,
+                "p6",
+                "verse",
+                "v36",
+                "content"
+              ],
+              "value": "“Is he not rightly named Jacob?"
+            },
+            {
+              "rowId": 168,
+              "keyParts": [
+                168,
+                "p6",
+                "verse",
+                "v36",
+                "note",
+                "f"
+              ],
+              "value": "#27:36JacobmeansHe takes by the heel, orHe cheats"
+            },
+            {
+              "rowId": 169,
+              "keyParts": [
+                169,
+                "p6",
+                "verse",
+                "v36",
+                "content"
+              ],
+              "value": "For he has cheated me these two times."
+            },
+            {
+              "rowId": 170,
+              "keyParts": [
+                170,
+                "p6",
+                "verse",
+                "v36",
+                "note",
+                "x"
+              ],
+              "value": "#ch.25:33"
+            },
+            {
+              "rowId": 171,
+              "keyParts": [
+                171,
+                "p6",
+                "verse",
+                "v36",
+                "content"
+              ],
+              "value": "He took away my birthright, and behold, now he has taken away my blessing.” Then he said, “Have you not reserved a blessing for me?”"
+            },
+            {
+              "rowId": 172,
+              "keyParts": [
+                "v036_ESV_GEN_027",
+                172,
+                "p6",
+                "verse",
+                "v36",
+                "plain_text"
+              ],
+              "value": "36 Esau said, “Is he not rightly named Jacob? For he has cheated me these two times. He took away my birthright, and behold, now he has taken away my blessing.” Then he said, “Have you not reserved a blessing for me?”"
+            },
+            {
+              "rowId": 173,
+              "keyParts": [
+                173,
+                "p6",
+                "verse",
+                "v37",
+                "label"
+              ],
+              "value": "37"
+            },
+            {
+              "rowId": 174,
+              "keyParts": [
+                174,
+                "p6",
+                "verse",
+                "v37",
+                "content"
+              ],
+              "value": "Isaac answered and said to Esau, “Behold,"
+            },
+            {
+              "rowId": 175,
+              "keyParts": [
+                175,
+                "p6",
+                "verse",
+                "v37",
+                "note",
+                "x"
+              ],
+              "value": "#ver.29;[2 Sam. 8:14]"
+            },
+            {
+              "rowId": 176,
+              "keyParts": [
+                176,
+                "p6",
+                "verse",
+                "v37",
+                "content"
+              ],
+              "value": "I have made him lord over you, and all his brothers I have given to him for servants, and"
+            },
+            {
+              "rowId": 177,
+              "keyParts": [
+                177,
+                "p6",
+                "verse",
+                "v37",
+                "note",
+                "x"
+              ],
+              "value": "#ver.28"
+            },
+            {
+              "rowId": 178,
+              "keyParts": [
+                178,
+                "p6",
+                "verse",
+                "v37",
+                "content"
+              ],
+              "value": "with grain and wine I have sustained him. What then can I do for you, my son?”"
+            },
+            {
+              "rowId": 179,
+              "keyParts": [
+                "v037_ESV_GEN_027",
+                179,
+                "p6",
+                "verse",
+                "v37",
+                "plain_text"
+              ],
+              "value": "37 Isaac answered and said to Esau, “Behold, I have made him lord over you, and all his brothers I have given to him for servants, and with grain and wine I have sustained him. What then can I do for you, my son?”"
+            },
+            {
+              "rowId": 180,
+              "keyParts": [
+                180,
+                "p6",
+                "verse",
+                "v38",
+                "label"
+              ],
+              "value": "38"
+            },
+            {
+              "rowId": 181,
+              "keyParts": [
+                181,
+                "p6",
+                "verse",
+                "v38",
+                "content"
+              ],
+              "value": "Esau said to his father, “Have you but one blessing, my father? Bless me, even me also, O my father.” And"
+            },
+            {
+              "rowId": 182,
+              "keyParts": [
+                182,
+                "p6",
+                "verse",
+                "v38",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.34above]"
+            },
+            {
+              "rowId": 183,
+              "keyParts": [
+                183,
+                "p6",
+                "verse",
+                "v38",
+                "content"
+              ],
+              "value": "Esau lifted up his voice and wept."
+            },
+            {
+              "rowId": 184,
+              "keyParts": [
+                "v038_ESV_GEN_027",
+                184,
+                "p6",
+                "verse",
+                "v38",
+                "plain_text"
+              ],
+              "value": "38 Esau said to his father, “Have you but one blessing, my father? Bless me, even me also, O my father.” And Esau lifted up his voice and wept."
+            },
+            {
+              "rowId": 185,
+              "keyParts": [
+                185,
+                "p7",
+                "verse",
+                "v39",
+                "label"
+              ],
+              "value": "39"
+            },
+            {
+              "rowId": 186,
+              "keyParts": [
+                186,
+                "p7",
+                "verse",
+                "v39",
+                "content"
+              ],
+              "value": "Then Isaac his father answered and said to him:"
+            },
+            {
+              "rowId": 187,
+              "keyParts": [
+                187,
+                "q1_6",
+                "verse",
+                "v39",
+                "content"
+              ],
+              "value": "“Behold,"
+            },
+            {
+              "rowId": 188,
+              "keyParts": [
+                188,
+                "q1_6",
+                "verse",
+                "v39",
+                "note",
+                "x"
+              ],
+              "value": "#ver.28;ch.36:6,7"
+            },
+            {
+              "rowId": 189,
+              "keyParts": [
+                189,
+                "q1_6",
+                "verse",
+                "v39",
+                "content"
+              ],
+              "value": "away from"
+            },
+            {
+              "rowId": 190,
+              "keyParts": [
+                190,
+                "q1_6",
+                "verse",
+                "v39",
+                "note",
+                "f"
+              ],
+              "value": "#27:39OrBehold, of"
+            },
+            {
+              "rowId": 191,
+              "keyParts": [
+                191,
+                "q1_6",
+                "verse",
+                "v39",
+                "content"
+              ],
+              "value": "the fatness of the earth shall your dwelling be,"
+            },
+            {
+              "rowId": 192,
+              "keyParts": [
+                192,
+                "q2_7",
+                "verse",
+                "v39",
+                "content"
+              ],
+              "value": "and away from"
+            },
+            {
+              "rowId": 193,
+              "keyParts": [
+                193,
+                "q2_7",
+                "verse",
+                "v39",
+                "note",
+                "f"
+              ],
+              "value": "#27:39Orand of"
+            },
+            {
+              "rowId": 194,
+              "keyParts": [
+                194,
+                "q2_7",
+                "verse",
+                "v39",
+                "content"
+              ],
+              "value": "the dew of heaven on high."
+            },
+            {
+              "rowId": 195,
+              "keyParts": [
+                "v039_ESV_GEN_027",
+                195,
+                "p7",
+                "verse",
+                "v39",
+                "plain_text"
+              ],
+              "value": "39 Then Isaac his father answered and said to him: “Behold, away from the fatness of the earth shall your dwelling be, and away from the dew of heaven on high."
+            },
+            {
+              "rowId": 196,
+              "keyParts": [
+                196,
+                "q1_7",
+                "verse",
+                "v40",
+                "label"
+              ],
+              "value": "40"
+            },
+            {
+              "rowId": 197,
+              "keyParts": [
+                197,
+                "q1_7",
+                "verse",
+                "v40",
+                "content"
+              ],
+              "value": "By your sword you shall live,"
+            },
+            {
+              "rowId": 198,
+              "keyParts": [
+                198,
+                "q2_8",
+                "verse",
+                "v40",
+                "content"
+              ],
+              "value": "and you"
+            },
+            {
+              "rowId": 199,
+              "keyParts": [
+                199,
+                "q2_8",
+                "verse",
+                "v40",
+                "note",
+                "x"
+              ],
+              "value": "#ch.25:23;[2 Sam. 8:14]; See Obad. 18-21"
+            },
+            {
+              "rowId": 200,
+              "keyParts": [
+                200,
+                "q2_8",
+                "verse",
+                "v40",
+                "content"
+              ],
+              "value": "shall serve your brother;"
+            },
+            {
+              "rowId": 201,
+              "keyParts": [
+                201,
+                "q1_8",
+                "verse",
+                "v40",
+                "content"
+              ],
+              "value": "but when you grow restless"
+            },
+            {
+              "rowId": 202,
+              "keyParts": [
+                202,
+                "q2_9",
+                "verse",
+                "v40",
+                "note",
+                "x"
+              ],
+              "value": "#[2 Kgs. 8:20-22]"
+            },
+            {
+              "rowId": 203,
+              "keyParts": [
+                203,
+                "q2_9",
+                "verse",
+                "v40",
+                "content"
+              ],
+              "value": "you shall break his yoke from your neck.”"
+            },
+            {
+              "rowId": 204,
+              "keyParts": [
+                "v040_ESV_GEN_027",
+                204,
+                "q1_7",
+                "verse",
+                "v40",
+                "plain_text"
+              ],
+              "value": "40 By your sword you shall live, and you shall serve your brother; but when you grow restless you shall break his yoke from your neck.”"
+            },
+            {
+              "rowId": 205,
+              "keyParts": [
+                205,
+                "p8",
+                "verse",
+                "v41",
+                "label"
+              ],
+              "value": "41"
+            },
+            {
+              "rowId": 206,
+              "keyParts": [
+                206,
+                "p8",
+                "verse",
+                "v41",
+                "content"
+              ],
+              "value": "Now Esau"
+            },
+            {
+              "rowId": 207,
+              "keyParts": [
+                207,
+                "p8",
+                "verse",
+                "v41",
+                "note",
+                "x"
+              ],
+              "value": "#[ch.37:4]"
+            },
+            {
+              "rowId": 208,
+              "keyParts": [
+                208,
+                "p8",
+                "verse",
+                "v41",
+                "content"
+              ],
+              "value": "hated Jacob because of the blessing with which his father had blessed him, and Esau said to himself,"
+            },
+            {
+              "rowId": 209,
+              "keyParts": [
+                209,
+                "p8",
+                "verse",
+                "v41",
+                "note",
+                "x"
+              ],
+              "value": "#ch.50:3,4,10"
+            },
+            {
+              "rowId": 210,
+              "keyParts": [
+                210,
+                "p8",
+                "verse",
+                "v41",
+                "content"
+              ],
+              "value": "“The days of mourning for my father are approaching;"
+            },
+            {
+              "rowId": 211,
+              "keyParts": [
+                211,
+                "p8",
+                "verse",
+                "v41",
+                "note",
+                "x"
+              ],
+              "value": "#[Amos 1:11;Obad. 10]"
+            },
+            {
+              "rowId": 212,
+              "keyParts": [
+                212,
+                "p8",
+                "verse",
+                "v41",
+                "content"
+              ],
+              "value": "then I will kill my brother Jacob.”"
+            },
+            {
+              "rowId": 213,
+              "keyParts": [
+                "v041_ESV_GEN_027",
+                213,
+                "p8",
+                "verse",
+                "v41",
+                "plain_text"
+              ],
+              "value": "41 Now Esau hated Jacob because of the blessing with which his father had blessed him, and Esau said to himself, “The days of mourning for my father are approaching; then I will kill my brother Jacob.”"
+            },
+            {
+              "rowId": 214,
+              "keyParts": [
+                214,
+                "p8",
+                "verse",
+                "v42",
+                "label"
+              ],
+              "value": "42"
+            },
+            {
+              "rowId": 215,
+              "keyParts": [
+                215,
+                "p8",
+                "verse",
+                "v42",
+                "content"
+              ],
+              "value": "But the words of Esau her older son were told to Rebekah. So she sent and called Jacob her younger son and said to him, “Behold, your brother Esau comforts himself about you by planning to kill you."
+            },
+            {
+              "rowId": 216,
+              "keyParts": [
+                "v042_ESV_GEN_027",
+                216,
+                "p8",
+                "verse",
+                "v42",
+                "plain_text"
+              ],
+              "value": "42 But the words of Esau her older son were told to Rebekah. So she sent and called Jacob her younger son and said to him, “Behold, your brother Esau comforts himself about you by planning to kill you."
+            },
+            {
+              "rowId": 217,
+              "keyParts": [
+                217,
+                "p8",
+                "verse",
+                "v43",
+                "label"
+              ],
+              "value": "43"
+            },
+            {
+              "rowId": 218,
+              "keyParts": [
+                218,
+                "p8",
+                "verse",
+                "v43",
+                "content"
+              ],
+              "value": "Now therefore, my son, obey my voice. Arise, flee to Laban my brother in Haran"
+            },
+            {
+              "rowId": 219,
+              "keyParts": [
+                "v043_ESV_GEN_027",
+                219,
+                "p8",
+                "verse",
+                "v43",
+                "plain_text"
+              ],
+              "value": "43 Now therefore, my son, obey my voice. Arise, flee to Laban my brother in Haran"
+            },
+            {
+              "rowId": 220,
+              "keyParts": [
+                220,
+                "p8",
+                "verse",
+                "v44",
+                "label"
+              ],
+              "value": "44"
+            },
+            {
+              "rowId": 221,
+              "keyParts": [
+                221,
+                "p8",
+                "verse",
+                "v44",
+                "content"
+              ],
+              "value": "and stay with him a while, until your brother’s fury turns away—"
+            },
+            {
+              "rowId": 222,
+              "keyParts": [
+                "v044_ESV_GEN_027",
+                222,
+                "p8",
+                "verse",
+                "v44",
+                "plain_text"
+              ],
+              "value": "44 and stay with him a while, until your brother’s fury turns away—"
+            },
+            {
+              "rowId": 223,
+              "keyParts": [
+                223,
+                "p8",
+                "verse",
+                "v45",
+                "label"
+              ],
+              "value": "45"
+            },
+            {
+              "rowId": 224,
+              "keyParts": [
+                224,
+                "p8",
+                "verse",
+                "v45",
+                "content"
+              ],
+              "value": "until your brother’s anger turns away from you, and he forgets what you have done to him. Then I will send and bring you from there. Why should I be bereft of you both in one day?”"
+            },
+            {
+              "rowId": 225,
+              "keyParts": [
+                "v045_ESV_GEN_027",
+                225,
+                "p8",
+                "verse",
+                "v45",
+                "plain_text"
+              ],
+              "value": "45 until your brother’s anger turns away from you, and he forgets what you have done to him. Then I will send and bring you from there. Why should I be bereft of you both in one day?”"
+            },
+            {
+              "rowId": 226,
+              "keyParts": [
+                226,
+                "p9",
+                "verse",
+                "v46",
+                "label"
+              ],
+              "value": "46"
+            },
+            {
+              "rowId": 227,
+              "keyParts": [
+                227,
+                "p9",
+                "verse",
+                "v46",
+                "content"
+              ],
+              "value": "Then Rebekah said to Isaac,"
+            },
+            {
+              "rowId": 228,
+              "keyParts": [
+                228,
+                "p9",
+                "verse",
+                "v46",
+                "note",
+                "x"
+              ],
+              "value": "#ch.26:34,35;28:8"
+            },
+            {
+              "rowId": 229,
+              "keyParts": [
+                229,
+                "p9",
+                "verse",
+                "v46",
+                "content"
+              ],
+              "value": "“I loathe my life because of the Hittite women."
+            },
+            {
+              "rowId": 230,
+              "keyParts": [
+                230,
+                "p9",
+                "verse",
+                "v46",
+                "note",
+                "f"
+              ],
+              "value": "#27:46Hebrewdaughters of Heth"
+            },
+            {
+              "rowId": 231,
+              "keyParts": [
+                231,
+                "p9",
+                "verse",
+                "v46",
+                "note",
+                "x"
+              ],
+              "value": "#ch.24:3"
+            },
+            {
+              "rowId": 232,
+              "keyParts": [
+                232,
+                "p9",
+                "verse",
+                "v46",
+                "content"
+              ],
+              "value": "If Jacob marries one of the Hittite women like these, one of the women of the land, what good will my life be to me?”"
+            },
+            {
+              "rowId": 233,
+              "keyParts": [
+                "v046_ESV_GEN_027",
+                233,
+                "p9",
+                "verse",
+                "v46",
+                "plain_text"
+              ],
+              "value": "46 Then Rebekah said to Isaac, “I loathe my life because of the Hittite women. If Jacob marries one of the Hittite women like these, one of the women of the land, what good will my life be to me?”"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

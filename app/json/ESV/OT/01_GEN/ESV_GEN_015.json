@@ -1,0 +1,1549 @@
+{
+  "translationId": "ESV",
+  "name": "English Standard Version",
+  "abbreviation": "ESV",
+  "language": "English",
+  "copyright": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.",
+  "books": [
+    {
+      "bookId": "GEN",
+      "testament": "OT",
+      "order": 1,
+      "title": "Genesis",
+      "abbreviation": "GEN",
+      "chapters": [
+        {
+          "chapter": 15,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "God’s Covenant with Abram"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "After these things the word of the"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "came to Abram in a vision:"
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                7,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#ch.26:24;Dan. 10:12;Luke 1:13,30"
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "“Fear not, Abram, I am"
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                9,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#Ps. 3:3;18:2;84:11;119:114"
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "your shield; your reward shall be very great.”"
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                "v001_ESV_GEN_015",
+                11,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 After these things the word of the Lord came to Abram in a vision: “Fear not, Abram, I am your shield; your reward shall be very great.”"
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                12,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                13,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "But Abram said, “O Lord"
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "p1",
+                "verse",
+                "v2",
+                "nd"
+              ],
+              "value": "God"
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                15,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": ", what will you give me, for I continue"
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                16,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "f"
+              ],
+              "value": "#15:2OrI shall die"
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                17,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "childless, and the heir of my house is Eliezer of Damascus?”"
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                "v002_ESV_GEN_015",
+                18,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 But Abram said, “O Lord God , what will you give me, for I continue childless, and the heir of my house is Eliezer of Damascus?”"
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p1",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                20,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "And Abram said, “Behold, you have given me no offspring, and"
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#ch.14:14"
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                22,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "a member of my household will be my heir.”"
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                "v003_ESV_GEN_015",
+                23,
+                "p1",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 And Abram said, “Behold, you have given me no offspring, and a member of my household will be my heir.”"
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                24,
+                "p1",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "And behold, the word of the"
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                26,
+                "p1",
+                "verse",
+                "v4",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                27,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "came to him: “This man shall not be your heir;"
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                28,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#ch.17:16"
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                29,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "your very own son"
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                30,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "f"
+              ],
+              "value": "#15:4Hebrewwhat will come out of your own loins"
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                31,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "shall be your heir.”"
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                "v004_ESV_GEN_015",
+                32,
+                "p1",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 And behold, the word of the Lord came to him: “This man shall not be your heir; your very own son shall be your heir.”"
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                33,
+                "p1",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                34,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "And he brought him outside and said, “Look toward heaven, and"
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                35,
+                "p1",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#Ps. 147:4"
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "number the stars, if you are able to number them.” Then he said to him,"
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                37,
+                "p1",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#ch.22:17;26:4;Ex. 32:13;Deut. 1:10;10:22;1 Chr. 27:23;Heb. 11:12;CitedRom. 4:18"
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                38,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "“So shall your offspring be.”"
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                "v005_ESV_GEN_015",
+                39,
+                "p1",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 And he brought him outside and said, “Look toward heaven, and number the stars, if you are able to number them.” Then he said to him, “So shall your offspring be.”"
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                40,
+                "p1",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "And"
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "p1",
+                "verse",
+                "v6",
+                "note",
+                "x"
+              ],
+              "value": "#Rom. 4:9,22;Gal. 3:6;James 2:23"
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                43,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "he believed the"
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                44,
+                "p1",
+                "verse",
+                "v6",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                45,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": ", and"
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                46,
+                "p1",
+                "verse",
+                "v6",
+                "note",
+                "x"
+              ],
+              "value": "#CitedRom. 4:3;[Ps. 106:31]"
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                47,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "he counted it to him as righteousness."
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                "v006_ESV_GEN_015",
+                48,
+                "p1",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 And he believed the Lord , and he counted it to him as righteousness."
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                49,
+                "p2",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "And he said to him, “I am the"
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                51,
+                "p2",
+                "verse",
+                "v7",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                52,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "who"
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                53,
+                "p2",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#ch.11:31;12:1;Neh. 9:7,8;Acts 7:2-4"
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                54,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "brought you out from Ur of the Chaldeans"
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                55,
+                "p2",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#Ps. 105:42,44"
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                56,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "to give you this land to possess.”"
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                "v007_ESV_GEN_015",
+                57,
+                "p2",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 And he said to him, “I am the Lord who brought you out from Ur of the Chaldeans to give you this land to possess.”"
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                58,
+                "p2",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                59,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "But he said, “O Lord"
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                60,
+                "p2",
+                "verse",
+                "v8",
+                "nd"
+              ],
+              "value": "God"
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                61,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": ","
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                62,
+                "p2",
+                "verse",
+                "v8",
+                "note",
+                "x"
+              ],
+              "value": "#[Judg. 6:17;2 Kgs. 20:8;Ps. 86:17;Isa. 7:11-13;Luke 1:18]"
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                63,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "how am I to know that I shall possess it?”"
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                "v008_ESV_GEN_015",
+                64,
+                "p2",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 But he said, “O Lord God , how am I to know that I shall possess it?”"
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                65,
+                "p2",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                66,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "He said to him, “Bring me a heifer three years old, a female goat three years old, a ram three years old, a turtledove, and a young pigeon.”"
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                "v009_ESV_GEN_015",
+                67,
+                "p2",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 He said to him, “Bring me a heifer three years old, a female goat three years old, a ram three years old, a turtledove, and a young pigeon.”"
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                68,
+                "p2",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                69,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "And he brought him all these,"
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                70,
+                "p2",
+                "verse",
+                "v10",
+                "note",
+                "x"
+              ],
+              "value": "#Jer. 34:18,19"
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                71,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "cut them in half, and laid each half over against the other. But"
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                72,
+                "p2",
+                "verse",
+                "v10",
+                "note",
+                "x"
+              ],
+              "value": "#Lev. 1:17"
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                73,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "he did not cut the birds in half."
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                "v010_ESV_GEN_015",
+                74,
+                "p2",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 And he brought him all these, cut them in half, and laid each half over against the other. But he did not cut the birds in half."
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                75,
+                "p2",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                76,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "And when birds of prey came down on the carcasses, Abram drove them away."
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                "v011_ESV_GEN_015",
+                77,
+                "p2",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 And when birds of prey came down on the carcasses, Abram drove them away."
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                78,
+                "p3",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                79,
+                "p3",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "As the sun was going down, a"
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                80,
+                "p3",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#ch.2:21"
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                81,
+                "p3",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "deep sleep fell on Abram. And behold, dreadful and great darkness fell upon him."
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                "v012_ESV_GEN_015",
+                82,
+                "p3",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 As the sun was going down, a deep sleep fell on Abram. And behold, dreadful and great darkness fell upon him."
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                83,
+                "p3",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                84,
+                "p3",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "Then the"
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                85,
+                "p3",
+                "verse",
+                "v13",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                86,
+                "p3",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "said to Abram, “Know for certain"
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                87,
+                "p3",
+                "verse",
+                "v13",
+                "note",
+                "x"
+              ],
+              "value": "#Acts 7:6,7"
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                88,
+                "p3",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "that your offspring will be sojourners in a land that is not theirs and will be servants there, and"
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                89,
+                "p3",
+                "verse",
+                "v13",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 1:11,12;3:7"
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                90,
+                "p3",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "they will be afflicted for"
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                91,
+                "p3",
+                "verse",
+                "v13",
+                "note",
+                "x"
+              ],
+              "value": "#Acts 7:6;[Ex. 12:40,41;Gal. 3:17]"
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                92,
+                "p3",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "four hundred years."
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                "v013_ESV_GEN_015",
+                93,
+                "p3",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 Then the Lord said to Abram, “Know for certain that your offspring will be sojourners in a land that is not theirs and will be servants there, and they will be afflicted for four hundred years."
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                94,
+                "p3",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                95,
+                "p3",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "But"
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                96,
+                "p3",
+                "verse",
+                "v14",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 6:6"
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                97,
+                "p3",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "I will bring judgment on the nation that they serve, and afterward"
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                98,
+                "p3",
+                "verse",
+                "v14",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 12:36;Ps. 105:37"
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                99,
+                "p3",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "they shall come out with great possessions."
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                "v014_ESV_GEN_015",
+                100,
+                "p3",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 But I will bring judgment on the nation that they serve, and afterward they shall come out with great possessions."
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                101,
+                "p3",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                102,
+                "p3",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "As for you, you shall go to your fathers in peace;"
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                103,
+                "p3",
+                "verse",
+                "v15",
+                "note",
+                "x"
+              ],
+              "value": "#ch.25:8"
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                104,
+                "p3",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "you shall be buried in a good old age."
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                "v015_ESV_GEN_015",
+                105,
+                "p3",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 As for you, you shall go to your fathers in peace; you shall be buried in a good old age."
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                106,
+                "p3",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                107,
+                "p3",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "And they shall come back here in the fourth generation, for"
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                108,
+                "p3",
+                "verse",
+                "v16",
+                "note",
+                "x"
+              ],
+              "value": "#1 Kgs. 21:26;Amos 2:9"
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                109,
+                "p3",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "the iniquity of the Amorites"
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                110,
+                "p3",
+                "verse",
+                "v16",
+                "note",
+                "x"
+              ],
+              "value": "#[Dan. 8:23;Matt. 23:32;1 Thess. 2:16]"
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                111,
+                "p3",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "is not yet complete.”"
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                "v016_ESV_GEN_015",
+                112,
+                "p3",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 And they shall come back here in the fourth generation, for the iniquity of the Amorites is not yet complete.”"
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                113,
+                "p4",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                114,
+                "p4",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "When the sun had gone down and it was dark, behold, a smoking fire pot and a flaming torch passed between these pieces."
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                "v017_ESV_GEN_015",
+                115,
+                "p4",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 When the sun had gone down and it was dark, behold, a smoking fire pot and a flaming torch passed between these pieces."
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                116,
+                "p4",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                117,
+                "p4",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "On that day the"
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                118,
+                "p4",
+                "verse",
+                "v18",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                119,
+                "p4",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "made a covenant with Abram, saying,"
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                120,
+                "p4",
+                "verse",
+                "v18",
+                "note",
+                "x"
+              ],
+              "value": "#ch.12:7;13:15;24:7;26:4;Num. 34:2;Deut. 34:4;Neh. 9:8"
+            },
+            {
+              "rowId": 121,
+              "keyParts": [
+                121,
+                "p4",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "“To your offspring I give"
+            },
+            {
+              "rowId": 122,
+              "keyParts": [
+                122,
+                "p4",
+                "verse",
+                "v18",
+                "note",
+                "f"
+              ],
+              "value": "#15:18Orhave given"
+            },
+            {
+              "rowId": 123,
+              "keyParts": [
+                123,
+                "p4",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "this land, from"
+            },
+            {
+              "rowId": 124,
+              "keyParts": [
+                124,
+                "p4",
+                "verse",
+                "v18",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 23:31;Deut. 1:7;Josh. 1:4"
+            },
+            {
+              "rowId": 125,
+              "keyParts": [
+                125,
+                "p4",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "the river of Egypt to the great river, the river Euphrates,"
+            },
+            {
+              "rowId": 126,
+              "keyParts": [
+                "v018_ESV_GEN_015",
+                126,
+                "p4",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 On that day the Lord made a covenant with Abram, saying, “To your offspring I give this land, from the river of Egypt to the great river, the river Euphrates,"
+            },
+            {
+              "rowId": 127,
+              "keyParts": [
+                127,
+                "p4",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 128,
+              "keyParts": [
+                128,
+                "p4",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "the land of the Kenites, the Kenizzites, the Kadmonites,"
+            },
+            {
+              "rowId": 129,
+              "keyParts": [
+                "v019_ESV_GEN_015",
+                129,
+                "p4",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 the land of the Kenites, the Kenizzites, the Kadmonites,"
+            },
+            {
+              "rowId": 130,
+              "keyParts": [
+                130,
+                "p4",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 131,
+              "keyParts": [
+                131,
+                "p4",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "the Hittites, the Perizzites, the Rephaim,"
+            },
+            {
+              "rowId": 132,
+              "keyParts": [
+                "v020_ESV_GEN_015",
+                132,
+                "p4",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 the Hittites, the Perizzites, the Rephaim,"
+            },
+            {
+              "rowId": 133,
+              "keyParts": [
+                133,
+                "p4",
+                "verse",
+                "v21",
+                "label"
+              ],
+              "value": "21"
+            },
+            {
+              "rowId": 134,
+              "keyParts": [
+                134,
+                "p4",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "the Amorites, the Canaanites, the Girgashites and the Jebusites.”"
+            },
+            {
+              "rowId": 135,
+              "keyParts": [
+                "v021_ESV_GEN_015",
+                135,
+                "p4",
+                "verse",
+                "v21",
+                "plain_text"
+              ],
+              "value": "21 the Amorites, the Canaanites, the Girgashites and the Jebusites.”"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

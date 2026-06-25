@@ -7,6 +7,8 @@
   "books": [
     {
       "bookId": "GEN",
+      "testament": "",
+      "order": 0,
       "title": "Genesis",
       "abbreviation": "GEN",
       "chapters": [
@@ -225,6 +227,7 @@
             {
               "rowId": 20,
               "keyParts": [
+                "v001_NET_GEN_003",
                 20,
                 "p1",
                 "verse",
@@ -281,6 +284,7 @@
             {
               "rowId": 25,
               "keyParts": [
+                "v002_NET_GEN_003",
                 25,
                 "p1",
                 "verse",
@@ -349,6 +353,7 @@
             {
               "rowId": 31,
               "keyParts": [
+                "v003_NET_GEN_003",
                 31,
                 "p1",
                 "verse",
@@ -394,6 +399,7 @@
             {
               "rowId": 35,
               "keyParts": [
+                "v004_NET_GEN_003",
                 35,
                 "p1",
                 "verse",
@@ -485,6 +491,7 @@
             {
               "rowId": 43,
               "keyParts": [
+                "v005_NET_GEN_003",
                 43,
                 "p1",
                 "verse",
@@ -645,6 +652,7 @@
             {
               "rowId": 57,
               "keyParts": [
+                "v006_NET_GEN_003",
                 57,
                 "p2",
                 "verse",
@@ -678,21 +686,22 @@
             {
               "rowId": 60,
               "keyParts": [
-                60,
+                "s1",
+                "heading"
+              ],
+              "value": "The Judgment Oracles of God at the Fall"
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                "v007_NET_GEN_003",
+                61,
                 "p2",
                 "verse",
                 "v7",
                 "plain_text"
               ],
               "value": "7 Then the eyes of both of them opened, and they knew they were naked; so they sewed fig leaves together and made coverings for themselves."
-            },
-            {
-              "rowId": 61,
-              "keyParts": [
-                "s1",
-                "heading"
-              ],
-              "value": "The Judgment Oracles of God at the Fall"
             },
             {
               "rowId": 62,
@@ -832,6 +841,7 @@
             {
               "rowId": 74,
               "keyParts": [
+                "v008_NET_GEN_003",
                 74,
                 "p3",
                 "verse",
@@ -922,6 +932,7 @@
             {
               "rowId": 82,
               "keyParts": [
+                "v009_NET_GEN_003",
                 82,
                 "p3",
                 "verse",
@@ -1001,6 +1012,7 @@
             {
               "rowId": 89,
               "keyParts": [
+                "v010_NET_GEN_003",
                 89,
                 "p3",
                 "verse",
@@ -1114,6 +1126,7 @@
             {
               "rowId": 99,
               "keyParts": [
+                "v011_NET_GEN_003",
                 99,
                 "p3",
                 "verse",
@@ -1193,6 +1206,7 @@
             {
               "rowId": 106,
               "keyParts": [
+                "v012_NET_GEN_003",
                 106,
                 "p3",
                 "verse",
@@ -1317,6 +1331,7 @@
             {
               "rowId": 117,
               "keyParts": [
+                "v013_NET_GEN_003",
                 117,
                 "p3",
                 "verse",
@@ -1385,17 +1400,6 @@
               "rowId": 123,
               "keyParts": [
                 123,
-                "p4",
-                "verse",
-                "v14",
-                "plain_text"
-              ],
-              "value": "14 The Lord God said to the serpent,"
-            },
-            {
-              "rowId": 124,
-              "keyParts": [
-                124,
                 "p5",
                 "verse",
                 "v14",
@@ -1404,9 +1408,9 @@
               "value": "“Because you have done this,"
             },
             {
-              "rowId": 125,
+              "rowId": 124,
               "keyParts": [
-                125,
+                124,
                 "p6",
                 "verse",
                 "v14",
@@ -1415,9 +1419,9 @@
               "value": "cursed"
             },
             {
-              "rowId": 126,
+              "rowId": 125,
               "keyParts": [
-                126,
+                125,
                 "p6",
                 "verse",
                 "v14",
@@ -1427,9 +1431,9 @@
               "value": "tn The Hebrew word translated “cursed,” a passive participle from אָרָר (’arar), either means “punished” or “banished,” depending on how one interprets the following preposition. If the preposition is taken as comparative, then the idea is “cursed [i.e., punished] are you above [i.e., more than] all the wild beasts.” In this case the comparative preposition reflects the earlier comparison: The serpent was more shrewd than all others, and so more cursed than all others. If the preposition is taken as separative (see the note on the word “ground” in 4:11), then the idea is “cursed and banished from all the wild beasts.” In this case the serpent is condemned to isolation from all the other animals."
             },
             {
-              "rowId": 127,
+              "rowId": 126,
               "keyParts": [
-                127,
+                126,
                 "p6",
                 "verse",
                 "v14",
@@ -1438,9 +1442,9 @@
               "value": "are you above all the wild beasts"
             },
             {
-              "rowId": 128,
+              "rowId": 127,
               "keyParts": [
-                128,
+                127,
                 "p7",
                 "verse",
                 "v14",
@@ -1449,9 +1453,9 @@
               "value": "and all the living creatures of the field!"
             },
             {
-              "rowId": 129,
+              "rowId": 128,
               "keyParts": [
-                129,
+                128,
                 "p8",
                 "verse",
                 "v14",
@@ -1460,9 +1464,9 @@
               "value": "On your belly you will crawl"
             },
             {
-              "rowId": 130,
+              "rowId": 129,
               "keyParts": [
-                130,
+                129,
                 "p8",
                 "verse",
                 "v14",
@@ -1472,9 +1476,9 @@
               "value": "tn Heb “go”; “walk,” but in English “crawl” or “slither” better describes a serpent’s movement."
             },
             {
-              "rowId": 131,
+              "rowId": 130,
               "keyParts": [
-                131,
+                130,
                 "p9",
                 "verse",
                 "v14",
@@ -1483,9 +1487,9 @@
               "value": "and dust you will eat"
             },
             {
-              "rowId": 132,
+              "rowId": 131,
               "keyParts": [
-                132,
+                131,
                 "p9",
                 "verse",
                 "v14",
@@ -1495,15 +1499,27 @@
               "value": "sn Dust you will eat. Being restricted to crawling on the ground would necessarily involve “eating dust,” although that is not the diet of the serpent. The idea of being brought low, of “eating dust” as it were, is a symbol of humiliation."
             },
             {
-              "rowId": 133,
+              "rowId": 132,
               "keyParts": [
-                133,
+                132,
                 "p9",
                 "verse",
                 "v14",
                 "content"
               ],
               "value": "all the days of your life."
+            },
+            {
+              "rowId": 133,
+              "keyParts": [
+                "v014_NET_GEN_003",
+                133,
+                "p4",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 The Lord God said to the serpent, “Because you have done this, cursed are you above all the wild beasts and all the living creatures of the field! On your belly you will crawl and dust you will eat all the days of your life."
             },
             {
               "rowId": 134,
@@ -1577,17 +1593,6 @@
               "rowId": 140,
               "keyParts": [
                 140,
-                "p10",
-                "verse",
-                "v15",
-                "plain_text"
-              ],
-              "value": "15 And I will put hostility between you and the woman and between your offspring and her offspring;"
-            },
-            {
-              "rowId": 141,
-              "keyParts": [
-                141,
                 "p12",
                 "verse",
                 "v15",
@@ -1596,9 +1601,9 @@
               "value": "her offspring will attack"
             },
             {
-              "rowId": 142,
+              "rowId": 141,
               "keyParts": [
-                142,
+                141,
                 "p12",
                 "verse",
                 "v15",
@@ -1608,9 +1613,9 @@
               "value": "tn Heb “he will attack [or “bruise”] you [on] the head.” The singular pronoun and verb agree grammatically with the collective singular noun “offspring.” For other examples of singular verb and pronominal forms being used with the collective singular “offspring,” see Gen 16:10; 22:17; 24:60. The word “head” is an adverbial accusative, locating the blow. A crushing blow to the head would be potentially fatal."
             },
             {
-              "rowId": 143,
+              "rowId": 142,
               "keyParts": [
-                143,
+                142,
                 "p12",
                 "verse",
                 "v15",
@@ -1619,9 +1624,9 @@
               "value": "your head,"
             },
             {
-              "rowId": 144,
+              "rowId": 143,
               "keyParts": [
-                144,
+                143,
                 "p13",
                 "verse",
                 "v15",
@@ -1630,9 +1635,9 @@
               "value": "and"
             },
             {
-              "rowId": 145,
+              "rowId": 144,
               "keyParts": [
-                145,
+                144,
                 "p13",
                 "verse",
                 "v15",
@@ -1642,9 +1647,9 @@
               "value": "tn Or “but you will…”; or “as they attack your head, you will attack their heel.” The disjunctive clause (conjunction + subject + verb) is understood as contrastive. Both clauses place the subject before the verb, a construction that is sometimes used to indicate synchronic action (see Judg 15:14)."
             },
             {
-              "rowId": 146,
+              "rowId": 145,
               "keyParts": [
-                146,
+                145,
                 "p13",
                 "verse",
                 "v15",
@@ -1653,9 +1658,9 @@
               "value": "you"
             },
             {
-              "rowId": 147,
+              "rowId": 146,
               "keyParts": [
-                147,
+                146,
                 "p13",
                 "verse",
                 "v15",
@@ -1665,9 +1670,9 @@
               "value": "sn You will attack her offspring’s heel. Though the conflict will actually involve the serpent’s offspring (snakes) and the woman’s offspring (human beings), v. 15b for rhetorical effect depicts the conflict as being between the serpent and the woman’s offspring, as if the serpent will outlive the woman. The statement is personalized for the sake of the addressee (the serpent) and reflects the ancient Semitic concept of corporate solidarity, which emphasizes the close relationship between a progenitor and his offspring. Note Gen 28:14, where the Lord says to Jacob, “Your offspring will be like the dust of the earth, and you [second masculine singular] will spread out in all directions.” Jacob will “spread out” in all directions through his offspring, but the text states the matter as if this will happen to him personally."
             },
             {
-              "rowId": 148,
+              "rowId": 147,
               "keyParts": [
-                148,
+                147,
                 "p13",
                 "verse",
                 "v15",
@@ -1676,9 +1681,9 @@
               "value": "will attack her offspring’s heel.”"
             },
             {
-              "rowId": 149,
+              "rowId": 148,
               "keyParts": [
-                149,
+                148,
                 "p13",
                 "verse",
                 "v15",
@@ -1686,6 +1691,18 @@
                 "f"
               ],
               "value": "tn Heb “you will attack him [on] the heel.” The verb (translated “attack”) is repeated here, a fact that is obscured by some translations (e.g., NIV “crush…strike”). The singular pronoun agrees grammatically with the collective singular noun “offspring.” For other examples of singular verb and pronominal forms being used with the collective singular “offspring,” see Gen 16:10; 22:17; 24:60. The word “heel” is an adverbial accusative, locating the blow. A bite on the heel from a poisonous serpent is potentially fatal.\nsn The etiological nature of v. 15 is apparent, though its relevance for modern western man is perhaps lost because we rarely come face to face with poisonous snakes. Ancient Israelites, who often encountered snakes in their daily activities (see, for example, Eccl 10:8; Amos 5:19), would find the statement quite meaningful as an explanation for the hostility between snakes and humans. (In the broader ancient Near Eastern context, compare the Mesopotamian serpent omens. See H. W. F. Saggs, The Greatness That Was Babylon, 309.) This ongoing struggle, when interpreted in light of v. 15, is a tangible reminder of the conflict introduced into the world by the first humans’ rebellion against God. Many Christian theologians (going back to Irenaeus) understand v. 15 as the so-called protevangelium, supposedly prophesying Christ’s victory over Satan (see W. Witfall, “Genesis 3:15 – a Protevangelium?” CBQ 36 [1974]: 361-65; and R. A. Martin, “The Earliest Messianic Interpretation of Genesis 3:15,” JBL 84 [1965]: 425-27). In this allegorical approach, the woman’s offspring is initially Cain, then the whole human race, and ultimately Jesus Christ, the offspring (Heb “seed”) of the woman (see Gal 4:4). The offspring of the serpent includes the evil powers and demons of the spirit world, as well as those humans who are in the kingdom of darkness (see John 8:44). According to this view, the passage gives the first hint of the gospel. Satan delivers a crippling blow to the Seed of the woman (Jesus), who in turn delivers a fatal blow to the Serpent (first defeating him through the death and resurrection [1 Cor 15:55-57] and then destroying him in the judgment [Rev 12:7-9; 20:7-10]). However, the grammatical structure of Gen 3:15b does not suggest this view. The repetition of the verb “attack,” as well as the word order, suggests mutual hostility is being depicted, not the defeat of the serpent. If the serpent’s defeat were being portrayed, it is odd that the alleged description of his death comes first in the sentence. If he has already been crushed by the woman’s “Seed,” how can he bruise his heel? To sustain the allegorical view, v. 15b must be translated in one of the following ways: “he will crush your head, even though you attack his heel” (in which case the second clause is concessive) or “he will crush your head as you attack his heel” (the clauses, both of which place the subject before the verb, may indicate synchronic action)."
+            },
+            {
+              "rowId": 149,
+              "keyParts": [
+                "v015_NET_GEN_003",
+                149,
+                "p10",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 And I will put hostility between you and the woman and between your offspring and her offspring; her offspring will attack your head, and you will attack her offspring’s heel.”"
             },
             {
               "rowId": 150,
@@ -1826,6 +1843,7 @@
             {
               "rowId": 162,
               "keyParts": [
+                "v016_NET_GEN_003",
                 162,
                 "p14",
                 "verse",
@@ -1985,17 +2003,6 @@
               "rowId": 176,
               "keyParts": [
                 176,
-                "p19",
-                "verse",
-                "v17",
-                "plain_text"
-              ],
-              "value": "17 But to Adam he said, “Because you obeyed your wife and ate from the tree about which I commanded you, ‘You must not eat from it,’ cursed is the ground thanks to you;"
-            },
-            {
-              "rowId": 177,
-              "keyParts": [
-                177,
                 "p24",
                 "verse",
                 "v17",
@@ -2004,9 +2011,9 @@
               "value": "in painful toil you will eat"
             },
             {
-              "rowId": 178,
+              "rowId": 177,
               "keyParts": [
-                178,
+                177,
                 "p24",
                 "verse",
                 "v17",
@@ -2016,15 +2023,27 @@
               "value": "sn In painful toil you will eat. The theme of eating is prominent throughout Gen 3. The prohibition was against eating from the tree of knowledge. The sin was in eating. The interrogation concerned the eating from the tree of knowledge. The serpent is condemned to eat the dust of the ground. The curse focuses on eating in a “measure for measure” justice. Because the man and the woman sinned by eating the forbidden fruit, God will forbid the ground to cooperate, and so it will be through painful toil that they will eat."
             },
             {
-              "rowId": 179,
+              "rowId": 178,
               "keyParts": [
-                179,
+                178,
                 "p24",
                 "verse",
                 "v17",
                 "content"
               ],
               "value": "of it all the days of your life."
+            },
+            {
+              "rowId": 179,
+              "keyParts": [
+                "v017_NET_GEN_003",
+                179,
+                "p19",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 But to Adam he said, “Because you obeyed your wife and ate from the tree about which I commanded you, ‘You must not eat from it,’ cursed is the ground thanks to you; in painful toil you will eat of it all the days of your life."
             },
             {
               "rowId": 180,
@@ -2085,6 +2104,7 @@
             {
               "rowId": 185,
               "keyParts": [
+                "v018_NET_GEN_003",
                 185,
                 "p25",
                 "verse",
@@ -2165,17 +2185,6 @@
               "rowId": 192,
               "keyParts": [
                 192,
-                "p27",
-                "verse",
-                "v19",
-                "plain_text"
-              ],
-              "value": "19 By the sweat of your brow you will eat food until you return to the ground,"
-            },
-            {
-              "rowId": 193,
-              "keyParts": [
-                193,
                 "p29",
                 "verse",
                 "v19",
@@ -2184,9 +2193,9 @@
               "value": "for out of it you were taken;"
             },
             {
-              "rowId": 194,
+              "rowId": 193,
               "keyParts": [
-                194,
+                193,
                 "p30",
                 "verse",
                 "v19",
@@ -2195,9 +2204,9 @@
               "value": "for you are dust, and to dust you will return.”"
             },
             {
-              "rowId": 195,
+              "rowId": 194,
               "keyParts": [
-                195,
+                194,
                 "p30",
                 "verse",
                 "v19",
@@ -2205,6 +2214,18 @@
                 "f"
               ],
               "value": "sn In general, the themes of the curse oracles are important in the NT teaching that Jesus became the cursed one hanging on the tree. In his suffering and death, all the motifs are drawn together: the tree, the sweat, the thorns, and the dust of death (see Ps 22:15). Jesus experienced it all, to have victory over it through the resurrection."
+            },
+            {
+              "rowId": 195,
+              "keyParts": [
+                "v019_NET_GEN_003",
+                195,
+                "p27",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 By the sweat of your brow you will eat food until you return to the ground, for out of it you were taken; for you are dust, and to dust you will return.”"
             },
             {
               "rowId": 196,
@@ -2312,6 +2333,7 @@
             {
               "rowId": 205,
               "keyParts": [
+                "v020_NET_GEN_003",
                 205,
                 "p31",
                 "verse",
@@ -2390,6 +2412,7 @@
             {
               "rowId": 212,
               "keyParts": [
+                "v021_NET_GEN_003",
                 212,
                 "p31",
                 "verse",
@@ -2537,6 +2560,7 @@
             {
               "rowId": 225,
               "keyParts": [
+                "v022_NET_GEN_003",
                 225,
                 "p31",
                 "verse",
@@ -2615,6 +2639,7 @@
             {
               "rowId": 232,
               "keyParts": [
+                "v023_NET_GEN_003",
                 232,
                 "p31",
                 "verse",
@@ -2740,6 +2765,7 @@
             {
               "rowId": 243,
               "keyParts": [
+                "v024_NET_GEN_003",
                 243,
                 "p31",
                 "verse",

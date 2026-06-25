@@ -1,0 +1,926 @@
+{
+  "translationId": "ESV",
+  "name": "English Standard Version",
+  "abbreviation": "ESV",
+  "language": "English",
+  "copyright": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.",
+  "books": [
+    {
+      "bookId": "JDG",
+      "testament": "OT",
+      "order": 7,
+      "title": "Judges",
+      "abbreviation": "JDG",
+      "chapters": [
+        {
+          "chapter": 17,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Micah and the Levite"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "There was a man of"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#ver.8;ch.18:2;SeeJosh. 24:33"
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "the hill country of Ephraim, whose name was Micah."
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                "v001_ESV_JDG_017",
+                7,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 There was a man of the hill country of Ephraim, whose name was Micah."
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                9,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "And he said to his mother, “The 1,100 pieces of silver that were taken from you, about which you uttered a curse, and also spoke it in my ears, behold, the silver is with me; I took it.” And his mother said,"
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#Ruth 3:10;1 Sam. 15:13"
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                11,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "“Blessed be my son by the"
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                12,
+                "p1",
+                "verse",
+                "v2",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                13,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": ".”"
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                "v002_ESV_JDG_017",
+                14,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 And he said to his mother, “The 1,100 pieces of silver that were taken from you, about which you uttered a curse, and also spoke it in my ears, behold, the silver is with me; I took it.” And his mother said, “Blessed be my son by the Lord .”"
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                15,
+                "p1",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                16,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "And he restored the 1,100 pieces of silver to his mother. And his mother said, “I dedicate the silver to the"
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                17,
+                "p1",
+                "verse",
+                "v3",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "from my hand for my son, to make"
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#[Ex. 20:4]"
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                20,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "a carved image and"
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#[Lev. 19:4]"
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                22,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "a metal image. Now therefore I will restore it to you.”"
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                "v003_ESV_JDG_017",
+                23,
+                "p1",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 And he restored the 1,100 pieces of silver to his mother. And his mother said, “I dedicate the silver to the Lord from my hand for my son, to make a carved image and a metal image. Now therefore I will restore it to you.”"
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                24,
+                "p1",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "So when he restored the money to his mother, his mother"
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                26,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#[Isa. 46:6]"
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                27,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "took 200 pieces of silver and gave it to the silversmith, who made it into a carved image and a metal image. And it was in the house of Micah."
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                "v004_ESV_JDG_017",
+                28,
+                "p1",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 So when he restored the money to his mother, his mother took 200 pieces of silver and gave it to the silversmith, who made it into a carved image and a metal image. And it was in the house of Micah."
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                29,
+                "p1",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                30,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "And the man Micah had a shrine, and he made"
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                31,
+                "p1",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#ch.8:27;18:14,17;SeeEx. 28:6-35"
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "an ephod and"
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                33,
+                "p1",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#[Gen. 31:19;Hos. 3:4]"
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                34,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "household gods, and"
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                35,
+                "p1",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#ver.12;[1 Kgs. 13:33]"
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "ordained"
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                37,
+                "p1",
+                "verse",
+                "v5",
+                "note",
+                "f"
+              ],
+              "value": "#17:5Hebrewfilled the hand of; also verse 12"
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                38,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "one of his sons, who became his priest."
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                "v005_ESV_JDG_017",
+                39,
+                "p1",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 And the man Micah had a shrine, and he made an ephod and household gods, and ordained one of his sons, who became his priest."
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                40,
+                "p1",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p1",
+                "verse",
+                "v6",
+                "note",
+                "x"
+              ],
+              "value": "#ch.18:1;19:1;21:25"
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "In those days there was no king in Israel."
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                43,
+                "p1",
+                "verse",
+                "v6",
+                "note",
+                "x"
+              ],
+              "value": "#[Deut. 12:8]"
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                44,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "Everyone did what was right in his own eyes."
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                "v006_ESV_JDG_017",
+                45,
+                "p1",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 In those days there was no king in Israel. Everyone did what was right in his own eyes."
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                46,
+                "p2",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                47,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "Now there was a young man of"
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                48,
+                "p2",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#ch.19:1;Ruth 1:1,2;Mic. 5:2;Matt. 2:1,5,6"
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                49,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "Bethlehem in Judah, of the family of Judah, who was a Levite, and he sojourned there."
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                "v007_ESV_JDG_017",
+                50,
+                "p2",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 Now there was a young man of Bethlehem in Judah, of the family of Judah, who was a Levite, and he sojourned there."
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                51,
+                "p2",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                52,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "And the man departed from the town of Bethlehem in Judah to sojourn where he could find a place. And as he journeyed, he came to"
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                53,
+                "p2",
+                "verse",
+                "v8",
+                "note",
+                "x"
+              ],
+              "value": "#SeeJosh. 24:33"
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                54,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "the hill country of Ephraim to the house of Micah."
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                "v008_ESV_JDG_017",
+                55,
+                "p2",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 And the man departed from the town of Bethlehem in Judah to sojourn where he could find a place. And as he journeyed, he came to the hill country of Ephraim to the house of Micah."
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                56,
+                "p2",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                57,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "And Micah said to him, “Where do you come from?” And he said to him, “I am a Levite of Bethlehem in Judah, and I am going to sojourn where I may find a place.”"
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                "v009_ESV_JDG_017",
+                58,
+                "p2",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 And Micah said to him, “Where do you come from?” And he said to him, “I am a Levite of Bethlehem in Judah, and I am going to sojourn where I may find a place.”"
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                59,
+                "p2",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                60,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "And Micah said to him, “Stay with me, and be to me"
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                61,
+                "p2",
+                "verse",
+                "v10",
+                "note",
+                "x"
+              ],
+              "value": "#ch.18:19"
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                62,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "a father and a priest, and I will give you ten pieces of silver a year and a suit of clothes and your living.” And the Levite went in."
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                "v010_ESV_JDG_017",
+                63,
+                "p2",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 And Micah said to him, “Stay with me, and be to me a father and a priest, and I will give you ten pieces of silver a year and a suit of clothes and your living.” And the Levite went in."
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                64,
+                "p2",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                65,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "And the Levite"
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                66,
+                "p2",
+                "verse",
+                "v11",
+                "note",
+                "x"
+              ],
+              "value": "#[Ex. 2:21]"
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                67,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "was content to dwell with the man, and the young man became to him like one of his sons."
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                "v011_ESV_JDG_017",
+                68,
+                "p2",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 And the Levite was content to dwell with the man, and the young man became to him like one of his sons."
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                69,
+                "p2",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                70,
+                "p2",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "And Micah"
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                71,
+                "p2",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#ver.5"
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                72,
+                "p2",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "ordained the Levite, and the young man"
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                73,
+                "p2",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#[ch.18:30]"
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                74,
+                "p2",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "became his priest, and was in the house of Micah."
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                "v012_ESV_JDG_017",
+                75,
+                "p2",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 And Micah ordained the Levite, and the young man became his priest, and was in the house of Micah."
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                76,
+                "p2",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                77,
+                "p2",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "Then Micah said, “Now I know that the"
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                78,
+                "p2",
+                "verse",
+                "v13",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                79,
+                "p2",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "will prosper me, because I have a Levite as priest.”"
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                "v013_ESV_JDG_017",
+                80,
+                "p2",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 Then Micah said, “Now I know that the Lord will prosper me, because I have a Levite as priest.”"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

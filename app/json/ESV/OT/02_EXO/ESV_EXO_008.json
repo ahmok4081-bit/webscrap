@@ -1,0 +1,2410 @@
+{
+  "translationId": "ESV",
+  "name": "English Standard Version",
+  "abbreviation": "ESV",
+  "language": "English",
+  "copyright": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.",
+  "books": [
+    {
+      "bookId": "EXO",
+      "testament": "OT",
+      "order": 2,
+      "title": "Exodus",
+      "abbreviation": "EXO",
+      "chapters": [
+        {
+          "chapter": 8,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "The Second Plague: Frogs"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "f"
+              ],
+              "value": "#8:1Ch 7:26 in Hebrew"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "Then the"
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                7,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "said to Moses, “Go in to Pharaoh and say to him, ‘Thus says the"
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v1",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                9,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": ", “Let my people go, that"
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#ver.20;ch.3:12,18"
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                11,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "they may serve me."
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                "v001_ESV_EXO_008",
+                12,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 Then the Lord said to Moses, “Go in to Pharaoh and say to him, ‘Thus says the Lord , “Let my people go, that they may serve me."
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                13,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "But if you"
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                15,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#ch.7:14;9:2"
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                16,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "refuse to let them go, behold, I will plague all your country with"
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                17,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#[Rev. 16:13]"
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "frogs."
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                "v002_ESV_EXO_008",
+                19,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 But if you refuse to let them go, behold, I will plague all your country with frogs."
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                20,
+                "p1",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "The Nile shall swarm with frogs that shall come up into your house and into"
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                22,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#Ps. 105:30"
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "your bedroom and on your bed and into the houses of your servants and your people,"
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                24,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "f"
+              ],
+              "value": "#8:3Oramong your people"
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "and into your ovens and your kneading bowls."
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                "v003_ESV_EXO_008",
+                26,
+                "p1",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 The Nile shall swarm with frogs that shall come up into your house and into your bedroom and on your bed and into the houses of your servants and your people, and into your ovens and your kneading bowls."
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                27,
+                "p1",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                28,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "The frogs shall come up on you and on your people and on all your servants.”’”"
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                "v004_ESV_EXO_008",
+                29,
+                "p1",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 The frogs shall come up on you and on your people and on all your servants.”’”"
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                30,
+                "p1",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                31,
+                "p1",
+                "verse",
+                "v5",
+                "note",
+                "f"
+              ],
+              "value": "#8:5Ch 8:1 in Hebrew"
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "And the"
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                33,
+                "p1",
+                "verse",
+                "v5",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                34,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "said to Moses, “Say to Aaron,"
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                35,
+                "p1",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.7:19"
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "‘Stretch out your hand with your staff over the rivers, over the canals and over the pools, and make frogs come up on the land of Egypt!’”"
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                "v005_ESV_EXO_008",
+                37,
+                "p1",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 And the Lord said to Moses, “Say to Aaron, ‘Stretch out your hand with your staff over the rivers, over the canals and over the pools, and make frogs come up on the land of Egypt!’”"
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                38,
+                "p1",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                39,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "So Aaron stretched out his hand over the waters of Egypt, and"
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                40,
+                "p1",
+                "verse",
+                "v6",
+                "note",
+                "x"
+              ],
+              "value": "#Ps. 78:45;105:30"
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "the frogs came up and covered the land of Egypt."
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                "v006_ESV_EXO_008",
+                42,
+                "p1",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 So Aaron stretched out his hand over the waters of Egypt, and the frogs came up and covered the land of Egypt."
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                43,
+                "p1",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                44,
+                "p1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "But"
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                45,
+                "p1",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.7:11"
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                46,
+                "p1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "the magicians did the same by their secret arts and made frogs come up on the land of Egypt."
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                "v007_ESV_EXO_008",
+                47,
+                "p1",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 But the magicians did the same by their secret arts and made frogs come up on the land of Egypt."
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                48,
+                "p2",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                49,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "Then Pharaoh called Moses and Aaron and said,"
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "p2",
+                "verse",
+                "v8",
+                "note",
+                "x"
+              ],
+              "value": "#ver.28, 30;ch.9:28;10:17,18;[Num. 21:7;1 Kgs. 13:6;Acts 8:24]"
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                51,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "“Plead with the"
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                52,
+                "p2",
+                "verse",
+                "v8",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                53,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "to take away the frogs from me and from my people, and"
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                54,
+                "p2",
+                "verse",
+                "v8",
+                "note",
+                "x"
+              ],
+              "value": "#ver.25-28;ch.10:8,24;12:31,32"
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                55,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "I will let the people go to sacrifice to the"
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                56,
+                "p2",
+                "verse",
+                "v8",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                57,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": ".”"
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                "v008_ESV_EXO_008",
+                58,
+                "p2",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 Then Pharaoh called Moses and Aaron and said, “Plead with the Lord to take away the frogs from me and from my people, and I will let the people go to sacrifice to the Lord .”"
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                59,
+                "p2",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                60,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "Moses said to Pharaoh, “Be pleased to command me when"
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                61,
+                "p2",
+                "verse",
+                "v9",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.8above]"
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                62,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "I am to plead for you and for your servants and for your people, that the frogs be cut off from you and your houses and be left only in the Nile.”"
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                "v009_ESV_EXO_008",
+                63,
+                "p2",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 Moses said to Pharaoh, “Be pleased to command me when I am to plead for you and for your servants and for your people, that the frogs be cut off from you and your houses and be left only in the Nile.”"
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                64,
+                "p2",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                65,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "And he said, “Tomorrow.” Moses said, “Be it as you say, so"
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                66,
+                "p2",
+                "verse",
+                "v10",
+                "note",
+                "x"
+              ],
+              "value": "#ver.22;ch.7:17"
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                67,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "that you may know that"
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                68,
+                "p2",
+                "verse",
+                "v10",
+                "note",
+                "x"
+              ],
+              "value": "#ch.9:14;Deut. 33:26;2 Sam. 7:22;1 Chr. 17:20;Ps. 86:8;Isa. 46:9;Jer. 10:6,7"
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                69,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "there is no one like the"
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                70,
+                "p2",
+                "verse",
+                "v10",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                71,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "our God."
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                "v010_ESV_EXO_008",
+                72,
+                "p2",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 And he said, “Tomorrow.” Moses said, “Be it as you say, so that you may know that there is no one like the Lord our God."
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                73,
+                "p2",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                74,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "The frogs shall go away from you and your houses and your servants and your people. They shall be left only in the Nile.”"
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                "v011_ESV_EXO_008",
+                75,
+                "p2",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 The frogs shall go away from you and your houses and your servants and your people. They shall be left only in the Nile.”"
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                76,
+                "p2",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                77,
+                "p2",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "So Moses and Aaron went out from Pharaoh, and Moses cried to the"
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                78,
+                "p2",
+                "verse",
+                "v12",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                79,
+                "p2",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "about the frogs, as he had agreed with Pharaoh."
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                80,
+                "p2",
+                "verse",
+                "v12",
+                "note",
+                "f"
+              ],
+              "value": "#8:12Orwhich he had brought upon Pharaoh"
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                "v012_ESV_EXO_008",
+                81,
+                "p2",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 So Moses and Aaron went out from Pharaoh, and Moses cried to the Lord about the frogs, as he had agreed with Pharaoh."
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                82,
+                "p2",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                83,
+                "p2",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "And the"
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                84,
+                "p2",
+                "verse",
+                "v13",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                85,
+                "p2",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "did according to the word of Moses. The frogs died out in the houses, the courtyards, and the fields."
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                "v013_ESV_EXO_008",
+                86,
+                "p2",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 And the Lord did according to the word of Moses. The frogs died out in the houses, the courtyards, and the fields."
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                87,
+                "p2",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                88,
+                "p2",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "And they gathered them together in heaps, and the land stank."
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                "v014_ESV_EXO_008",
+                89,
+                "p2",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 And they gathered them together in heaps, and the land stank."
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                90,
+                "p2",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                91,
+                "p2",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "But when Pharaoh saw that there was a"
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                92,
+                "p2",
+                "verse",
+                "v15",
+                "note",
+                "x"
+              ],
+              "value": "#[Eccles. 8:11]"
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                93,
+                "p2",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "respite, he"
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                94,
+                "p2",
+                "verse",
+                "v15",
+                "note",
+                "x"
+              ],
+              "value": "#ver.32;ch.7:14;9:7,34;10:1"
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                95,
+                "p2",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "hardened his heart and would not listen to them, as the"
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                96,
+                "p2",
+                "verse",
+                "v15",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                97,
+                "p2",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "had said."
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "The Third Plague: Gnats"
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                "v015_ESV_EXO_008",
+                99,
+                "p2",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 But when Pharaoh saw that there was a respite, he hardened his heart and would not listen to them, as the Lord had said."
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                100,
+                "p3",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                101,
+                "p3",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "Then the"
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                102,
+                "p3",
+                "verse",
+                "v16",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                103,
+                "p3",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "said to Moses, “Say to Aaron,"
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                104,
+                "p3",
+                "verse",
+                "v16",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.7:19"
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                105,
+                "p3",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "‘Stretch out your staff and strike the dust of the earth, so that it may become gnats in all the land of Egypt.’”"
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                "v016_ESV_EXO_008",
+                106,
+                "p3",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 Then the Lord said to Moses, “Say to Aaron, ‘Stretch out your staff and strike the dust of the earth, so that it may become gnats in all the land of Egypt.’”"
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                107,
+                "p3",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                108,
+                "p3",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "And they did so. Aaron stretched out his hand with his staff and struck the dust of the earth, and"
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                109,
+                "p3",
+                "verse",
+                "v17",
+                "note",
+                "x"
+              ],
+              "value": "#Ps. 105:31"
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                110,
+                "p3",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "there were gnats on man and beast. All the dust of the earth became gnats in all the land of Egypt."
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                "v017_ESV_EXO_008",
+                111,
+                "p3",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 And they did so. Aaron stretched out his hand with his staff and struck the dust of the earth, and there were gnats on man and beast. All the dust of the earth became gnats in all the land of Egypt."
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                112,
+                "p3",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                113,
+                "p3",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "The"
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                114,
+                "p3",
+                "verse",
+                "v18",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.7:11"
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                115,
+                "p3",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "magicians tried by their secret arts to produce gnats, but they could not. So there were gnats on man and beast."
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                "v018_ESV_EXO_008",
+                116,
+                "p3",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 The magicians tried by their secret arts to produce gnats, but they could not. So there were gnats on man and beast."
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                117,
+                "p3",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                118,
+                "p3",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "Then the magicians said to Pharaoh, “This is"
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                119,
+                "p3",
+                "verse",
+                "v19",
+                "note",
+                "x"
+              ],
+              "value": "#ch.31:18;Ps. 8:3;Luke 11:20"
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                120,
+                "p3",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "the finger of God.” But Pharaoh’s heart was hardened, and he would not listen to them, as the"
+            },
+            {
+              "rowId": 121,
+              "keyParts": [
+                121,
+                "p3",
+                "verse",
+                "v19",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 122,
+              "keyParts": [
+                122,
+                "p3",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "had said."
+            },
+            {
+              "rowId": 123,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "The Fourth Plague: Flies"
+            },
+            {
+              "rowId": 124,
+              "keyParts": [
+                "v019_ESV_EXO_008",
+                124,
+                "p3",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 Then the magicians said to Pharaoh, “This is the finger of God.” But Pharaoh’s heart was hardened, and he would not listen to them, as the Lord had said."
+            },
+            {
+              "rowId": 125,
+              "keyParts": [
+                125,
+                "p4",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 126,
+              "keyParts": [
+                126,
+                "p4",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "Then the"
+            },
+            {
+              "rowId": 127,
+              "keyParts": [
+                127,
+                "p4",
+                "verse",
+                "v20",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 128,
+              "keyParts": [
+                128,
+                "p4",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "said to Moses,"
+            },
+            {
+              "rowId": 129,
+              "keyParts": [
+                129,
+                "p4",
+                "verse",
+                "v20",
+                "note",
+                "x"
+              ],
+              "value": "#ch.7:15;9:13"
+            },
+            {
+              "rowId": 130,
+              "keyParts": [
+                130,
+                "p4",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "“Rise up early in the morning and present yourself to Pharaoh, as he goes out to the water, and say to him, ‘Thus says the"
+            },
+            {
+              "rowId": 131,
+              "keyParts": [
+                131,
+                "p4",
+                "verse",
+                "v20",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 132,
+              "keyParts": [
+                132,
+                "p4",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": ","
+            },
+            {
+              "rowId": 133,
+              "keyParts": [
+                133,
+                "p4",
+                "verse",
+                "v20",
+                "note",
+                "x"
+              ],
+              "value": "#ver.1"
+            },
+            {
+              "rowId": 134,
+              "keyParts": [
+                134,
+                "p4",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "“Let my people go, that they may serve me."
+            },
+            {
+              "rowId": 135,
+              "keyParts": [
+                "v020_ESV_EXO_008",
+                135,
+                "p4",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 Then the Lord said to Moses, “Rise up early in the morning and present yourself to Pharaoh, as he goes out to the water, and say to him, ‘Thus says the Lord , “Let my people go, that they may serve me."
+            },
+            {
+              "rowId": 136,
+              "keyParts": [
+                136,
+                "p4",
+                "verse",
+                "v21",
+                "label"
+              ],
+              "value": "21"
+            },
+            {
+              "rowId": 137,
+              "keyParts": [
+                137,
+                "p4",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "Or else, if you will not let my people go, behold, I will send swarms of flies on you and your servants and your people, and into your houses. And the houses of the Egyptians shall be filled with swarms of flies, and also the ground on which they stand."
+            },
+            {
+              "rowId": 138,
+              "keyParts": [
+                "v021_ESV_EXO_008",
+                138,
+                "p4",
+                "verse",
+                "v21",
+                "plain_text"
+              ],
+              "value": "21 Or else, if you will not let my people go, behold, I will send swarms of flies on you and your servants and your people, and into your houses. And the houses of the Egyptians shall be filled with swarms of flies, and also the ground on which they stand."
+            },
+            {
+              "rowId": 139,
+              "keyParts": [
+                139,
+                "p4",
+                "verse",
+                "v22",
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 140,
+              "keyParts": [
+                140,
+                "p4",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "But on that day"
+            },
+            {
+              "rowId": 141,
+              "keyParts": [
+                141,
+                "p4",
+                "verse",
+                "v22",
+                "note",
+                "x"
+              ],
+              "value": "#ch.9:4;11:7;[Mal. 3:18]"
+            },
+            {
+              "rowId": 142,
+              "keyParts": [
+                142,
+                "p4",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "I will set apart the land of Goshen, where my people dwell, so that no swarms of flies shall be there,"
+            },
+            {
+              "rowId": 143,
+              "keyParts": [
+                143,
+                "p4",
+                "verse",
+                "v22",
+                "note",
+                "x"
+              ],
+              "value": "#ver.10;ch.7:17"
+            },
+            {
+              "rowId": 144,
+              "keyParts": [
+                144,
+                "p4",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "that you may know that I am the"
+            },
+            {
+              "rowId": 145,
+              "keyParts": [
+                145,
+                "p4",
+                "verse",
+                "v22",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 146,
+              "keyParts": [
+                146,
+                "p4",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "in the midst of the earth."
+            },
+            {
+              "rowId": 147,
+              "keyParts": [
+                147,
+                "p4",
+                "verse",
+                "v22",
+                "note",
+                "f"
+              ],
+              "value": "#8:22Orthat I theLordam in the land"
+            },
+            {
+              "rowId": 148,
+              "keyParts": [
+                "v022_ESV_EXO_008",
+                148,
+                "p4",
+                "verse",
+                "v22",
+                "plain_text"
+              ],
+              "value": "22 But on that day I will set apart the land of Goshen, where my people dwell, so that no swarms of flies shall be there, that you may know that I am the Lord in the midst of the earth."
+            },
+            {
+              "rowId": 149,
+              "keyParts": [
+                149,
+                "p4",
+                "verse",
+                "v23",
+                "label"
+              ],
+              "value": "23"
+            },
+            {
+              "rowId": 150,
+              "keyParts": [
+                150,
+                "p4",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "Thus I will put a division"
+            },
+            {
+              "rowId": 151,
+              "keyParts": [
+                151,
+                "p4",
+                "verse",
+                "v23",
+                "note",
+                "f"
+              ],
+              "value": "#8:23Septuagint, Vulgate; Hebrewset redemption"
+            },
+            {
+              "rowId": 152,
+              "keyParts": [
+                152,
+                "p4",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "between my people and your people. Tomorrow this sign shall happen.”’”"
+            },
+            {
+              "rowId": 153,
+              "keyParts": [
+                "v023_ESV_EXO_008",
+                153,
+                "p4",
+                "verse",
+                "v23",
+                "plain_text"
+              ],
+              "value": "23 Thus I will put a division between my people and your people. Tomorrow this sign shall happen.”’”"
+            },
+            {
+              "rowId": 154,
+              "keyParts": [
+                154,
+                "p4",
+                "verse",
+                "v24",
+                "label"
+              ],
+              "value": "24"
+            },
+            {
+              "rowId": 155,
+              "keyParts": [
+                155,
+                "p4",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "And the"
+            },
+            {
+              "rowId": 156,
+              "keyParts": [
+                156,
+                "p4",
+                "verse",
+                "v24",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 157,
+              "keyParts": [
+                157,
+                "p4",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "did so."
+            },
+            {
+              "rowId": 158,
+              "keyParts": [
+                158,
+                "p4",
+                "verse",
+                "v24",
+                "note",
+                "x"
+              ],
+              "value": "#Ps. 78:45;105:31;[Isa. 7:18]"
+            },
+            {
+              "rowId": 159,
+              "keyParts": [
+                159,
+                "p4",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "There came great swarms of flies into the house of Pharaoh and into his servants’ houses. Throughout all the land of Egypt the land was ruined by the swarms of flies."
+            },
+            {
+              "rowId": 160,
+              "keyParts": [
+                "v024_ESV_EXO_008",
+                160,
+                "p4",
+                "verse",
+                "v24",
+                "plain_text"
+              ],
+              "value": "24 And the Lord did so. There came great swarms of flies into the house of Pharaoh and into his servants’ houses. Throughout all the land of Egypt the land was ruined by the swarms of flies."
+            },
+            {
+              "rowId": 161,
+              "keyParts": [
+                161,
+                "p5",
+                "verse",
+                "v25",
+                "label"
+              ],
+              "value": "25"
+            },
+            {
+              "rowId": 162,
+              "keyParts": [
+                162,
+                "p5",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "Then Pharaoh called Moses and Aaron and said, “Go, sacrifice to your God within the land.”"
+            },
+            {
+              "rowId": 163,
+              "keyParts": [
+                "v025_ESV_EXO_008",
+                163,
+                "p5",
+                "verse",
+                "v25",
+                "plain_text"
+              ],
+              "value": "25 Then Pharaoh called Moses and Aaron and said, “Go, sacrifice to your God within the land.”"
+            },
+            {
+              "rowId": 164,
+              "keyParts": [
+                164,
+                "p5",
+                "verse",
+                "v26",
+                "label"
+              ],
+              "value": "26"
+            },
+            {
+              "rowId": 165,
+              "keyParts": [
+                165,
+                "p5",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "But Moses said, “It would not be right to do so, for the offerings we shall sacrifice to the"
+            },
+            {
+              "rowId": 166,
+              "keyParts": [
+                166,
+                "p5",
+                "verse",
+                "v26",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 167,
+              "keyParts": [
+                167,
+                "p5",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "our God are an"
+            },
+            {
+              "rowId": 168,
+              "keyParts": [
+                168,
+                "p5",
+                "verse",
+                "v26",
+                "note",
+                "x"
+              ],
+              "value": "#[Gen. 43:32;46:34]"
+            },
+            {
+              "rowId": 169,
+              "keyParts": [
+                169,
+                "p5",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "abomination to the Egyptians. If we sacrifice offerings"
+            },
+            {
+              "rowId": 170,
+              "keyParts": [
+                170,
+                "p5",
+                "verse",
+                "v26",
+                "note",
+                "x"
+              ],
+              "value": "#[Gen. 43:32;46:34]"
+            },
+            {
+              "rowId": 171,
+              "keyParts": [
+                171,
+                "p5",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "abominable to the Egyptians before their eyes, will they not stone us?"
+            },
+            {
+              "rowId": 172,
+              "keyParts": [
+                "v026_ESV_EXO_008",
+                172,
+                "p5",
+                "verse",
+                "v26",
+                "plain_text"
+              ],
+              "value": "26 But Moses said, “It would not be right to do so, for the offerings we shall sacrifice to the Lord our God are an abomination to the Egyptians. If we sacrifice offerings abominable to the Egyptians before their eyes, will they not stone us?"
+            },
+            {
+              "rowId": 173,
+              "keyParts": [
+                173,
+                "p5",
+                "verse",
+                "v27",
+                "label"
+              ],
+              "value": "27"
+            },
+            {
+              "rowId": 174,
+              "keyParts": [
+                174,
+                "p5",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "We must go"
+            },
+            {
+              "rowId": 175,
+              "keyParts": [
+                175,
+                "p5",
+                "verse",
+                "v27",
+                "note",
+                "x"
+              ],
+              "value": "#ch.3:18"
+            },
+            {
+              "rowId": 176,
+              "keyParts": [
+                176,
+                "p5",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "three days’ journey into the wilderness and sacrifice to the"
+            },
+            {
+              "rowId": 177,
+              "keyParts": [
+                177,
+                "p5",
+                "verse",
+                "v27",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 178,
+              "keyParts": [
+                178,
+                "p5",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "our God"
+            },
+            {
+              "rowId": 179,
+              "keyParts": [
+                179,
+                "p5",
+                "verse",
+                "v27",
+                "note",
+                "x"
+              ],
+              "value": "#ch.3:12"
+            },
+            {
+              "rowId": 180,
+              "keyParts": [
+                180,
+                "p5",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "as he tells us.”"
+            },
+            {
+              "rowId": 181,
+              "keyParts": [
+                "v027_ESV_EXO_008",
+                181,
+                "p5",
+                "verse",
+                "v27",
+                "plain_text"
+              ],
+              "value": "27 We must go three days’ journey into the wilderness and sacrifice to the Lord our God as he tells us.”"
+            },
+            {
+              "rowId": 182,
+              "keyParts": [
+                182,
+                "p5",
+                "verse",
+                "v28",
+                "label"
+              ],
+              "value": "28"
+            },
+            {
+              "rowId": 183,
+              "keyParts": [
+                183,
+                "p5",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "So Pharaoh said, “I will let you go to sacrifice to the"
+            },
+            {
+              "rowId": 184,
+              "keyParts": [
+                184,
+                "p5",
+                "verse",
+                "v28",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 185,
+              "keyParts": [
+                185,
+                "p5",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "your God in the wilderness; only you must not go very far away."
+            },
+            {
+              "rowId": 186,
+              "keyParts": [
+                186,
+                "p5",
+                "verse",
+                "v28",
+                "note",
+                "x"
+              ],
+              "value": "#Seever.8"
+            },
+            {
+              "rowId": 187,
+              "keyParts": [
+                187,
+                "p5",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "Plead for me.”"
+            },
+            {
+              "rowId": 188,
+              "keyParts": [
+                "v028_ESV_EXO_008",
+                188,
+                "p5",
+                "verse",
+                "v28",
+                "plain_text"
+              ],
+              "value": "28 So Pharaoh said, “I will let you go to sacrifice to the Lord your God in the wilderness; only you must not go very far away. Plead for me.”"
+            },
+            {
+              "rowId": 189,
+              "keyParts": [
+                189,
+                "p5",
+                "verse",
+                "v29",
+                "label"
+              ],
+              "value": "29"
+            },
+            {
+              "rowId": 190,
+              "keyParts": [
+                190,
+                "p5",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "Then Moses said, “Behold, I am going out from you and I will plead with the"
+            },
+            {
+              "rowId": 191,
+              "keyParts": [
+                191,
+                "p5",
+                "verse",
+                "v29",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 192,
+              "keyParts": [
+                192,
+                "p5",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "that the swarms of flies may depart from Pharaoh, from his servants, and from his people, tomorrow. Only let not Pharaoh"
+            },
+            {
+              "rowId": 193,
+              "keyParts": [
+                193,
+                "p5",
+                "verse",
+                "v29",
+                "note",
+                "x"
+              ],
+              "value": "#ver.15;[Jer. 42:20,21]"
+            },
+            {
+              "rowId": 194,
+              "keyParts": [
+                194,
+                "p5",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "cheat again by not letting the people go to sacrifice to the"
+            },
+            {
+              "rowId": 195,
+              "keyParts": [
+                195,
+                "p5",
+                "verse",
+                "v29",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 196,
+              "keyParts": [
+                196,
+                "p5",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": ".”"
+            },
+            {
+              "rowId": 197,
+              "keyParts": [
+                "v029_ESV_EXO_008",
+                197,
+                "p5",
+                "verse",
+                "v29",
+                "plain_text"
+              ],
+              "value": "29 Then Moses said, “Behold, I am going out from you and I will plead with the Lord that the swarms of flies may depart from Pharaoh, from his servants, and from his people, tomorrow. Only let not Pharaoh cheat again by not letting the people go to sacrifice to the Lord .”"
+            },
+            {
+              "rowId": 198,
+              "keyParts": [
+                198,
+                "p5",
+                "verse",
+                "v30",
+                "label"
+              ],
+              "value": "30"
+            },
+            {
+              "rowId": 199,
+              "keyParts": [
+                199,
+                "p5",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "So Moses went out from Pharaoh and prayed to the"
+            },
+            {
+              "rowId": 200,
+              "keyParts": [
+                200,
+                "p5",
+                "verse",
+                "v30",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 201,
+              "keyParts": [
+                201,
+                "p5",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "."
+            },
+            {
+              "rowId": 202,
+              "keyParts": [
+                "v030_ESV_EXO_008",
+                202,
+                "p5",
+                "verse",
+                "v30",
+                "plain_text"
+              ],
+              "value": "30 So Moses went out from Pharaoh and prayed to the Lord ."
+            },
+            {
+              "rowId": 203,
+              "keyParts": [
+                203,
+                "p5",
+                "verse",
+                "v31",
+                "label"
+              ],
+              "value": "31"
+            },
+            {
+              "rowId": 204,
+              "keyParts": [
+                204,
+                "p5",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "And the"
+            },
+            {
+              "rowId": 205,
+              "keyParts": [
+                205,
+                "p5",
+                "verse",
+                "v31",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 206,
+              "keyParts": [
+                206,
+                "p5",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "did as Moses asked, and removed the swarms of flies from Pharaoh, from his servants, and from his people; not one remained."
+            },
+            {
+              "rowId": 207,
+              "keyParts": [
+                "v031_ESV_EXO_008",
+                207,
+                "p5",
+                "verse",
+                "v31",
+                "plain_text"
+              ],
+              "value": "31 And the Lord did as Moses asked, and removed the swarms of flies from Pharaoh, from his servants, and from his people; not one remained."
+            },
+            {
+              "rowId": 208,
+              "keyParts": [
+                208,
+                "p5",
+                "verse",
+                "v32",
+                "label"
+              ],
+              "value": "32"
+            },
+            {
+              "rowId": 209,
+              "keyParts": [
+                209,
+                "p5",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "But Pharaoh"
+            },
+            {
+              "rowId": 210,
+              "keyParts": [
+                210,
+                "p5",
+                "verse",
+                "v32",
+                "note",
+                "x"
+              ],
+              "value": "#ver.15"
+            },
+            {
+              "rowId": 211,
+              "keyParts": [
+                211,
+                "p5",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "hardened his heart this time also, and did not let the people go."
+            },
+            {
+              "rowId": 212,
+              "keyParts": [
+                "v032_ESV_EXO_008",
+                212,
+                "p5",
+                "verse",
+                "v32",
+                "plain_text"
+              ],
+              "value": "32 But Pharaoh hardened his heart this time also, and did not let the people go."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

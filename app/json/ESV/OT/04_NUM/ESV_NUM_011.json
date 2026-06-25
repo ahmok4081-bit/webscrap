@@ -1,0 +1,2770 @@
+{
+  "translationId": "ESV",
+  "name": "English Standard Version",
+  "abbreviation": "ESV",
+  "language": "English",
+  "copyright": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.",
+  "books": [
+    {
+      "bookId": "NUM",
+      "testament": "OT",
+      "order": 4,
+      "title": "Numbers",
+      "abbreviation": "NUM",
+      "chapters": [
+        {
+          "chapter": 11,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "The People Complain"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "And"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 9:22"
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "the people complained in the hearing of the"
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                7,
+                "p1",
+                "verse",
+                "v1",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "about their misfortunes, and when the"
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                9,
+                "p1",
+                "verse",
+                "v1",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "heard it,"
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                11,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#Ps. 78:21"
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                12,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "his anger was kindled, and"
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                13,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#[ch.16:35;Lev. 10:2;2 Kgs. 1:12;Ps. 106:18;Rev. 13:13]"
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "the fire of the"
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                15,
+                "p1",
+                "verse",
+                "v1",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                16,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "burned among them and consumed some outlying parts of the camp."
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                "v001_ESV_NUM_011",
+                17,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 And the people complained in the hearing of the Lord about their misfortunes, and when the Lord heard it, his anger was kindled, and the fire of the Lord burned among them and consumed some outlying parts of the camp."
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "Then"
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                20,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#[ch.21:7]"
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "the people cried out to Moses,"
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                22,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#[James 5:16];See ch.16:45-48"
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "and Moses prayed to the"
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                24,
+                "p1",
+                "verse",
+                "v2",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": ", and the fire died down."
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                "v002_ESV_NUM_011",
+                26,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 Then the people cried out to Moses, and Moses prayed to the Lord , and the fire died down."
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                27,
+                "p1",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                28,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "So the name of that place was called"
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                29,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 9:22"
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                30,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "Taberah,"
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                31,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "f"
+              ],
+              "value": "#11:3Taberahmeansburning"
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "because the fire of the"
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                33,
+                "p1",
+                "verse",
+                "v3",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                34,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "burned among them."
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                "v003_ESV_NUM_011",
+                35,
+                "p1",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 So the name of that place was called Taberah, because the fire of the Lord burned among them."
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "p2",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                37,
+                "p2",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "Now the"
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                38,
+                "p2",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#SeeEx. 12:38"
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                39,
+                "p2",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "rabble that was among them had a strong craving. And the people of Israel also"
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                40,
+                "p2",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#ch.14:1"
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p2",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "wept again and said,"
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "p2",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#Ps. 78:18;106:14;1 Cor. 10:6"
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                43,
+                "p2",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "“Oh that we had meat to eat!"
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                "v004_ESV_NUM_011",
+                44,
+                "p2",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 Now the rabble that was among them had a strong craving. And the people of Israel also wept again and said, “Oh that we had meat to eat!"
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                45,
+                "p2",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                46,
+                "p2",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#[ch.21:5;Ex. 16:3;Acts 7:39]"
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                47,
+                "p2",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "We remember the fish we ate in Egypt that cost nothing, the cucumbers, the melons, the leeks, the onions, and the garlic."
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                "v005_ESV_NUM_011",
+                48,
+                "p2",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 We remember the fish we ate in Egypt that cost nothing, the cucumbers, the melons, the leeks, the onions, and the garlic."
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                49,
+                "p2",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "p2",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "But now our strength is dried up, and there is nothing at all but this manna to look at.”"
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                "v006_ESV_NUM_011",
+                51,
+                "p2",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 But now our strength is dried up, and there is nothing at all but this manna to look at.”"
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                52,
+                "p3",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                53,
+                "p3",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "Now"
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                54,
+                "p3",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 16:14,31"
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                55,
+                "p3",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "the manna was like coriander seed, and its appearance like that of bdellium."
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                "v007_ESV_NUM_011",
+                56,
+                "p3",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 Now the manna was like coriander seed, and its appearance like that of bdellium."
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                57,
+                "p3",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                58,
+                "p3",
+                "verse",
+                "v8",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 16:16-18"
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                59,
+                "p3",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "The people went about and gathered it and ground it in handmills or beat it in mortars and boiled it in pots and made cakes of it."
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                60,
+                "p3",
+                "verse",
+                "v8",
+                "note",
+                "x"
+              ],
+              "value": "#[Ex. 16:31]"
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                61,
+                "p3",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "And the taste of it was like the taste of cakes baked with oil."
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                "v008_ESV_NUM_011",
+                62,
+                "p3",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 The people went about and gathered it and ground it in handmills or beat it in mortars and boiled it in pots and made cakes of it. And the taste of it was like the taste of cakes baked with oil."
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                63,
+                "p3",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                64,
+                "p3",
+                "verse",
+                "v9",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 16:13,14"
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                65,
+                "p3",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "When the dew fell upon the camp in the night, the manna fell with it."
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                "v009_ESV_NUM_011",
+                66,
+                "p3",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 When the dew fell upon the camp in the night, the manna fell with it."
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                67,
+                "p4",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                68,
+                "p4",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "Moses heard the people"
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                69,
+                "p4",
+                "verse",
+                "v10",
+                "note",
+                "x"
+              ],
+              "value": "#[Zech. 12:12-14]"
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                70,
+                "p4",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "weeping throughout their clans, everyone at the door of his tent. And the anger of the"
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                71,
+                "p4",
+                "verse",
+                "v10",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                72,
+                "p4",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "blazed hotly, and Moses was displeased."
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                "v010_ESV_NUM_011",
+                73,
+                "p4",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 Moses heard the people weeping throughout their clans, everyone at the door of his tent. And the anger of the Lord blazed hotly, and Moses was displeased."
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                74,
+                "p4",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                75,
+                "p4",
+                "verse",
+                "v11",
+                "note",
+                "x"
+              ],
+              "value": "#[1 Kgs. 19:4;Jonah 4:1-4,9]"
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                76,
+                "p4",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "Moses said to the"
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                77,
+                "p4",
+                "verse",
+                "v11",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                78,
+                "p4",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": ", “Why have you dealt ill with your servant? And why have I not found favor in your sight, that you lay the burden of all this people on me?"
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                "v011_ESV_NUM_011",
+                79,
+                "p4",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 Moses said to the Lord , “Why have you dealt ill with your servant? And why have I not found favor in your sight, that you lay the burden of all this people on me?"
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                80,
+                "p4",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                81,
+                "p4",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "Did I conceive all this people? Did I give them birth, that you should say to me,"
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                82,
+                "p4",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#Isa. 40:11;[Deut. 1:31]"
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                83,
+                "p4",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "‘Carry them in your bosom, as a"
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                84,
+                "p4",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#[Isa. 49:23;1 Thess. 2:7]"
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                85,
+                "p4",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "nurse carries a nursing child,’ to the land"
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                86,
+                "p4",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#Gen. 50:24;Ex. 13:5"
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                87,
+                "p4",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "that you swore to give their fathers?"
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                "v012_ESV_NUM_011",
+                88,
+                "p4",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 Did I conceive all this people? Did I give them birth, that you should say to me, ‘Carry them in your bosom, as a nurse carries a nursing child,’ to the land that you swore to give their fathers?"
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                89,
+                "p4",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                90,
+                "p4",
+                "verse",
+                "v13",
+                "note",
+                "x"
+              ],
+              "value": "#[2 Kgs. 7:2;Matt. 15:33;Mark 8:4;John 6:7,9]"
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                91,
+                "p4",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "Where am I to get meat to give to all this people? For they weep before me and say, ‘Give us meat, that we may eat.’"
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                "v013_ESV_NUM_011",
+                92,
+                "p4",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 Where am I to get meat to give to all this people? For they weep before me and say, ‘Give us meat, that we may eat.’"
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                93,
+                "p4",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                94,
+                "p4",
+                "verse",
+                "v14",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 18:18;Deut. 1:9,12"
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                95,
+                "p4",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "I am not able to carry all this people alone; the burden is too heavy for me."
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                "v014_ESV_NUM_011",
+                96,
+                "p4",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 I am not able to carry all this people alone; the burden is too heavy for me."
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                97,
+                "p4",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                98,
+                "p4",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "If you will treat me like this, kill me at once, if I find favor in your sight, that I may not see my wretchedness.”"
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Elders Appointed to Aid Moses"
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                "v015_ESV_NUM_011",
+                100,
+                "p4",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 If you will treat me like this, kill me at once, if I find favor in your sight, that I may not see my wretchedness.”"
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                101,
+                "p5",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                102,
+                "p5",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "Then the"
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                103,
+                "p5",
+                "verse",
+                "v16",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                104,
+                "p5",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "said to Moses, “Gather for me"
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                105,
+                "p5",
+                "verse",
+                "v16",
+                "note",
+                "x"
+              ],
+              "value": "#[Ex. 24:1,9]"
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                106,
+                "p5",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "seventy men of the elders of Israel, whom you know to be the elders of the people and"
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                107,
+                "p5",
+                "verse",
+                "v16",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 1:15;16:18"
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                108,
+                "p5",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "officers over them, and bring them to the tent of meeting, and let them take their stand there with you."
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                "v016_ESV_NUM_011",
+                109,
+                "p5",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 Then the Lord said to Moses, “Gather for me seventy men of the elders of Israel, whom you know to be the elders of the people and officers over them, and bring them to the tent of meeting, and let them take their stand there with you."
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                110,
+                "p5",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                111,
+                "p5",
+                "verse",
+                "v17",
+                "note",
+                "x"
+              ],
+              "value": "#ver.25;ch.12:5;Gen. 11:5;18:21;Ex. 19:20"
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                112,
+                "p5",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "And I will come down and talk with you there. And"
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                113,
+                "p5",
+                "verse",
+                "v17",
+                "note",
+                "x"
+              ],
+              "value": "#[2 Kgs. 2:9,15;Neh. 9:20]"
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                114,
+                "p5",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "I will take some of the Spirit that is on you and put it on them, and"
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                115,
+                "p5",
+                "verse",
+                "v17",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 18:22"
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                116,
+                "p5",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "they shall bear the burden of the people with you, so that you may not bear it yourself alone."
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                "v017_ESV_NUM_011",
+                117,
+                "p5",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 And I will come down and talk with you there. And I will take some of the Spirit that is on you and put it on them, and they shall bear the burden of the people with you, so that you may not bear it yourself alone."
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                118,
+                "p5",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                119,
+                "p5",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "And say to the people,"
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                120,
+                "p5",
+                "verse",
+                "v18",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 19:10"
+            },
+            {
+              "rowId": 121,
+              "keyParts": [
+                121,
+                "p5",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "‘Consecrate yourselves for tomorrow, and you shall eat meat, for you have wept in the hearing of the"
+            },
+            {
+              "rowId": 122,
+              "keyParts": [
+                122,
+                "p5",
+                "verse",
+                "v18",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 123,
+              "keyParts": [
+                123,
+                "p5",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": ", saying, “Who will give us meat to eat?"
+            },
+            {
+              "rowId": 124,
+              "keyParts": [
+                124,
+                "p5",
+                "verse",
+                "v18",
+                "note",
+                "x"
+              ],
+              "value": "#Seever.5"
+            },
+            {
+              "rowId": 125,
+              "keyParts": [
+                125,
+                "p5",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "For it was better for us in Egypt.” Therefore the"
+            },
+            {
+              "rowId": 126,
+              "keyParts": [
+                126,
+                "p5",
+                "verse",
+                "v18",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 127,
+              "keyParts": [
+                127,
+                "p5",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "will give you meat, and you shall eat."
+            },
+            {
+              "rowId": 128,
+              "keyParts": [
+                "v018_ESV_NUM_011",
+                128,
+                "p5",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 And say to the people, ‘Consecrate yourselves for tomorrow, and you shall eat meat, for you have wept in the hearing of the Lord , saying, “Who will give us meat to eat? For it was better for us in Egypt.” Therefore the Lord will give you meat, and you shall eat."
+            },
+            {
+              "rowId": 129,
+              "keyParts": [
+                129,
+                "p5",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 130,
+              "keyParts": [
+                130,
+                "p5",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "You shall not eat just one day, or two days, or five days, or ten days, or twenty days,"
+            },
+            {
+              "rowId": 131,
+              "keyParts": [
+                "v019_ESV_NUM_011",
+                131,
+                "p5",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 You shall not eat just one day, or two days, or five days, or ten days, or twenty days,"
+            },
+            {
+              "rowId": 132,
+              "keyParts": [
+                132,
+                "p5",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 133,
+              "keyParts": [
+                133,
+                "p5",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "but a whole month,"
+            },
+            {
+              "rowId": 134,
+              "keyParts": [
+                134,
+                "p5",
+                "verse",
+                "v20",
+                "note",
+                "x"
+              ],
+              "value": "#[Ps. 78:29;106:15]"
+            },
+            {
+              "rowId": 135,
+              "keyParts": [
+                135,
+                "p5",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "until it comes out at your nostrils and becomes loathsome to you, because you have rejected the"
+            },
+            {
+              "rowId": 136,
+              "keyParts": [
+                136,
+                "p5",
+                "verse",
+                "v20",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 137,
+              "keyParts": [
+                137,
+                "p5",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "who is among you and have wept before him, saying,"
+            },
+            {
+              "rowId": 138,
+              "keyParts": [
+                138,
+                "p5",
+                "verse",
+                "v20",
+                "note",
+                "x"
+              ],
+              "value": "#ch.21:5"
+            },
+            {
+              "rowId": 139,
+              "keyParts": [
+                139,
+                "p5",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "“Why did we come out of Egypt?”’”"
+            },
+            {
+              "rowId": 140,
+              "keyParts": [
+                "v020_ESV_NUM_011",
+                140,
+                "p5",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 but a whole month, until it comes out at your nostrils and becomes loathsome to you, because you have rejected the Lord who is among you and have wept before him, saying, “Why did we come out of Egypt?”’”"
+            },
+            {
+              "rowId": 141,
+              "keyParts": [
+                141,
+                "p5",
+                "verse",
+                "v21",
+                "label"
+              ],
+              "value": "21"
+            },
+            {
+              "rowId": 142,
+              "keyParts": [
+                142,
+                "p5",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "But Moses said,"
+            },
+            {
+              "rowId": 143,
+              "keyParts": [
+                143,
+                "p5",
+                "verse",
+                "v21",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 12:37;[ch. 1:46;Ex. 38:26]"
+            },
+            {
+              "rowId": 144,
+              "keyParts": [
+                144,
+                "p5",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "“The people among whom I am number six hundred thousand on foot, and you have said, ‘I will give them meat, that they may eat a whole month!’"
+            },
+            {
+              "rowId": 145,
+              "keyParts": [
+                "v021_ESV_NUM_011",
+                145,
+                "p5",
+                "verse",
+                "v21",
+                "plain_text"
+              ],
+              "value": "21 But Moses said, “The people among whom I am number six hundred thousand on foot, and you have said, ‘I will give them meat, that they may eat a whole month!’"
+            },
+            {
+              "rowId": 146,
+              "keyParts": [
+                146,
+                "p5",
+                "verse",
+                "v22",
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 147,
+              "keyParts": [
+                147,
+                "p5",
+                "verse",
+                "v22",
+                "note",
+                "x"
+              ],
+              "value": "#[ver.13]"
+            },
+            {
+              "rowId": 148,
+              "keyParts": [
+                148,
+                "p5",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "Shall flocks and herds be slaughtered for them, and be enough for them? Or shall all the fish of the sea be gathered together for them, and be enough for them?”"
+            },
+            {
+              "rowId": 149,
+              "keyParts": [
+                "v022_ESV_NUM_011",
+                149,
+                "p5",
+                "verse",
+                "v22",
+                "plain_text"
+              ],
+              "value": "22 Shall flocks and herds be slaughtered for them, and be enough for them? Or shall all the fish of the sea be gathered together for them, and be enough for them?”"
+            },
+            {
+              "rowId": 150,
+              "keyParts": [
+                150,
+                "p5",
+                "verse",
+                "v23",
+                "label"
+              ],
+              "value": "23"
+            },
+            {
+              "rowId": 151,
+              "keyParts": [
+                151,
+                "p5",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "And the"
+            },
+            {
+              "rowId": 152,
+              "keyParts": [
+                152,
+                "p5",
+                "verse",
+                "v23",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 153,
+              "keyParts": [
+                153,
+                "p5",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "said to Moses,"
+            },
+            {
+              "rowId": 154,
+              "keyParts": [
+                154,
+                "p5",
+                "verse",
+                "v23",
+                "note",
+                "x"
+              ],
+              "value": "#Isa. 50:2;59:1"
+            },
+            {
+              "rowId": 155,
+              "keyParts": [
+                155,
+                "p5",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "“Is the"
+            },
+            {
+              "rowId": 156,
+              "keyParts": [
+                156,
+                "p5",
+                "verse",
+                "v23",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 157,
+              "keyParts": [
+                157,
+                "p5",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "’s hand shortened? Now you shall see whether"
+            },
+            {
+              "rowId": 158,
+              "keyParts": [
+                158,
+                "p5",
+                "verse",
+                "v23",
+                "note",
+                "x"
+              ],
+              "value": "#ch.23:19;Ezek. 12:25;24:14"
+            },
+            {
+              "rowId": 159,
+              "keyParts": [
+                159,
+                "p5",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "my word will come true for you or not.”"
+            },
+            {
+              "rowId": 160,
+              "keyParts": [
+                "v023_ESV_NUM_011",
+                160,
+                "p5",
+                "verse",
+                "v23",
+                "plain_text"
+              ],
+              "value": "23 And the Lord said to Moses, “Is the Lord ’s hand shortened? Now you shall see whether my word will come true for you or not.”"
+            },
+            {
+              "rowId": 161,
+              "keyParts": [
+                161,
+                "p6",
+                "verse",
+                "v24",
+                "label"
+              ],
+              "value": "24"
+            },
+            {
+              "rowId": 162,
+              "keyParts": [
+                162,
+                "p6",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "So Moses went out and told the people the words of the"
+            },
+            {
+              "rowId": 163,
+              "keyParts": [
+                163,
+                "p6",
+                "verse",
+                "v24",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 164,
+              "keyParts": [
+                164,
+                "p6",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "."
+            },
+            {
+              "rowId": 165,
+              "keyParts": [
+                165,
+                "p6",
+                "verse",
+                "v24",
+                "note",
+                "x"
+              ],
+              "value": "#ver.16"
+            },
+            {
+              "rowId": 166,
+              "keyParts": [
+                166,
+                "p6",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "And he gathered seventy men of the elders of the people and placed them around the tent."
+            },
+            {
+              "rowId": 167,
+              "keyParts": [
+                "v024_ESV_NUM_011",
+                167,
+                "p6",
+                "verse",
+                "v24",
+                "plain_text"
+              ],
+              "value": "24 So Moses went out and told the people the words of the Lord . And he gathered seventy men of the elders of the people and placed them around the tent."
+            },
+            {
+              "rowId": 168,
+              "keyParts": [
+                168,
+                "p6",
+                "verse",
+                "v25",
+                "label"
+              ],
+              "value": "25"
+            },
+            {
+              "rowId": 169,
+              "keyParts": [
+                169,
+                "p6",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "Then"
+            },
+            {
+              "rowId": 170,
+              "keyParts": [
+                170,
+                "p6",
+                "verse",
+                "v25",
+                "note",
+                "x"
+              ],
+              "value": "#ver.17"
+            },
+            {
+              "rowId": 171,
+              "keyParts": [
+                171,
+                "p6",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "the"
+            },
+            {
+              "rowId": 172,
+              "keyParts": [
+                172,
+                "p6",
+                "verse",
+                "v25",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 173,
+              "keyParts": [
+                173,
+                "p6",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "came down in the cloud and spoke to him, and took some of the Spirit that was on him and put it on the seventy elders. And as soon as the Spirit rested on them, they prophesied. But they did not continue doing it."
+            },
+            {
+              "rowId": 174,
+              "keyParts": [
+                "v025_ESV_NUM_011",
+                174,
+                "p6",
+                "verse",
+                "v25",
+                "plain_text"
+              ],
+              "value": "25 Then the Lord came down in the cloud and spoke to him, and took some of the Spirit that was on him and put it on the seventy elders. And as soon as the Spirit rested on them, they prophesied. But they did not continue doing it."
+            },
+            {
+              "rowId": 175,
+              "keyParts": [
+                175,
+                "p7",
+                "verse",
+                "v26",
+                "label"
+              ],
+              "value": "26"
+            },
+            {
+              "rowId": 176,
+              "keyParts": [
+                176,
+                "p7",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "Now two men remained in the camp, one named Eldad, and the other named Medad, and the Spirit rested on them. They were among those registered, but they"
+            },
+            {
+              "rowId": 177,
+              "keyParts": [
+                177,
+                "p7",
+                "verse",
+                "v26",
+                "note",
+                "x"
+              ],
+              "value": "#[1 Sam. 20:26;Jer. 36:5]"
+            },
+            {
+              "rowId": 178,
+              "keyParts": [
+                178,
+                "p7",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "had not gone out to the tent, and so they prophesied in the camp."
+            },
+            {
+              "rowId": 179,
+              "keyParts": [
+                "v026_ESV_NUM_011",
+                179,
+                "p7",
+                "verse",
+                "v26",
+                "plain_text"
+              ],
+              "value": "26 Now two men remained in the camp, one named Eldad, and the other named Medad, and the Spirit rested on them. They were among those registered, but they had not gone out to the tent, and so they prophesied in the camp."
+            },
+            {
+              "rowId": 180,
+              "keyParts": [
+                180,
+                "p7",
+                "verse",
+                "v27",
+                "label"
+              ],
+              "value": "27"
+            },
+            {
+              "rowId": 181,
+              "keyParts": [
+                181,
+                "p7",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "And a young man ran and told Moses, “Eldad and Medad are prophesying in the camp.”"
+            },
+            {
+              "rowId": 182,
+              "keyParts": [
+                "v027_ESV_NUM_011",
+                182,
+                "p7",
+                "verse",
+                "v27",
+                "plain_text"
+              ],
+              "value": "27 And a young man ran and told Moses, “Eldad and Medad are prophesying in the camp.”"
+            },
+            {
+              "rowId": 183,
+              "keyParts": [
+                183,
+                "p7",
+                "verse",
+                "v28",
+                "label"
+              ],
+              "value": "28"
+            },
+            {
+              "rowId": 184,
+              "keyParts": [
+                184,
+                "p7",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "And"
+            },
+            {
+              "rowId": 185,
+              "keyParts": [
+                185,
+                "p7",
+                "verse",
+                "v28",
+                "note",
+                "x"
+              ],
+              "value": "#ch.26:65;Ex. 24:13;[ch.13:8];See ch.13:16"
+            },
+            {
+              "rowId": 186,
+              "keyParts": [
+                186,
+                "p7",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "Joshua the son of Nun, the assistant of Moses from his youth, said, “My lord Moses,"
+            },
+            {
+              "rowId": 187,
+              "keyParts": [
+                187,
+                "p7",
+                "verse",
+                "v28",
+                "note",
+                "x"
+              ],
+              "value": "#[Mark 9:38;Luke 9:49]"
+            },
+            {
+              "rowId": 188,
+              "keyParts": [
+                188,
+                "p7",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "stop them.”"
+            },
+            {
+              "rowId": 189,
+              "keyParts": [
+                "v028_ESV_NUM_011",
+                189,
+                "p7",
+                "verse",
+                "v28",
+                "plain_text"
+              ],
+              "value": "28 And Joshua the son of Nun, the assistant of Moses from his youth, said, “My lord Moses, stop them.”"
+            },
+            {
+              "rowId": 190,
+              "keyParts": [
+                190,
+                "p7",
+                "verse",
+                "v29",
+                "label"
+              ],
+              "value": "29"
+            },
+            {
+              "rowId": 191,
+              "keyParts": [
+                191,
+                "p7",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "But Moses said to him, “Are you jealous for my sake?"
+            },
+            {
+              "rowId": 192,
+              "keyParts": [
+                192,
+                "p7",
+                "verse",
+                "v29",
+                "note",
+                "x"
+              ],
+              "value": "#[1 Cor. 14:5]"
+            },
+            {
+              "rowId": 193,
+              "keyParts": [
+                193,
+                "p7",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "Would that all the"
+            },
+            {
+              "rowId": 194,
+              "keyParts": [
+                194,
+                "p7",
+                "verse",
+                "v29",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 195,
+              "keyParts": [
+                195,
+                "p7",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "’s people were prophets, that the"
+            },
+            {
+              "rowId": 196,
+              "keyParts": [
+                196,
+                "p7",
+                "verse",
+                "v29",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 197,
+              "keyParts": [
+                197,
+                "p7",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "would put his Spirit on them!”"
+            },
+            {
+              "rowId": 198,
+              "keyParts": [
+                "v029_ESV_NUM_011",
+                198,
+                "p7",
+                "verse",
+                "v29",
+                "plain_text"
+              ],
+              "value": "29 But Moses said to him, “Are you jealous for my sake? Would that all the Lord ’s people were prophets, that the Lord would put his Spirit on them!”"
+            },
+            {
+              "rowId": 199,
+              "keyParts": [
+                199,
+                "p7",
+                "verse",
+                "v30",
+                "label"
+              ],
+              "value": "30"
+            },
+            {
+              "rowId": 200,
+              "keyParts": [
+                200,
+                "p7",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "And Moses and the elders of Israel returned to the camp."
+            },
+            {
+              "rowId": 201,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Quail and a Plague"
+            },
+            {
+              "rowId": 202,
+              "keyParts": [
+                "v030_ESV_NUM_011",
+                202,
+                "p7",
+                "verse",
+                "v30",
+                "plain_text"
+              ],
+              "value": "30 And Moses and the elders of Israel returned to the camp."
+            },
+            {
+              "rowId": 203,
+              "keyParts": [
+                203,
+                "p8",
+                "verse",
+                "v31",
+                "label"
+              ],
+              "value": "31"
+            },
+            {
+              "rowId": 204,
+              "keyParts": [
+                204,
+                "p8",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "Then a"
+            },
+            {
+              "rowId": 205,
+              "keyParts": [
+                205,
+                "p8",
+                "verse",
+                "v31",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 16:13;Ps. 78:26-28;105:40"
+            },
+            {
+              "rowId": 206,
+              "keyParts": [
+                206,
+                "p8",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "wind from the"
+            },
+            {
+              "rowId": 207,
+              "keyParts": [
+                207,
+                "p8",
+                "verse",
+                "v31",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 208,
+              "keyParts": [
+                208,
+                "p8",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "sprang up, and it brought quail from the sea and let them fall beside the camp, about a day’s journey on this side and a day’s journey on the other side, around the camp, and about two cubits"
+            },
+            {
+              "rowId": 209,
+              "keyParts": [
+                209,
+                "p8",
+                "verse",
+                "v31",
+                "note",
+                "f"
+              ],
+              "value": "#11:31Acubitwas about 18 inches or 45 centimeters"
+            },
+            {
+              "rowId": 210,
+              "keyParts": [
+                210,
+                "p8",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "above the ground."
+            },
+            {
+              "rowId": 211,
+              "keyParts": [
+                "v031_ESV_NUM_011",
+                211,
+                "p8",
+                "verse",
+                "v31",
+                "plain_text"
+              ],
+              "value": "31 Then a wind from the Lord sprang up, and it brought quail from the sea and let them fall beside the camp, about a day’s journey on this side and a day’s journey on the other side, around the camp, and about two cubits above the ground."
+            },
+            {
+              "rowId": 212,
+              "keyParts": [
+                212,
+                "p8",
+                "verse",
+                "v32",
+                "label"
+              ],
+              "value": "32"
+            },
+            {
+              "rowId": 213,
+              "keyParts": [
+                213,
+                "p8",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "And the people rose all that day and all night and all the next day, and gathered the quail. Those who gathered least gathered ten"
+            },
+            {
+              "rowId": 214,
+              "keyParts": [
+                214,
+                "p8",
+                "verse",
+                "v32",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 16:36;[Ezek. 45:11]"
+            },
+            {
+              "rowId": 215,
+              "keyParts": [
+                215,
+                "p8",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "homers."
+            },
+            {
+              "rowId": 216,
+              "keyParts": [
+                216,
+                "p8",
+                "verse",
+                "v32",
+                "note",
+                "f"
+              ],
+              "value": "#11:32Ahomerwas about 6 bushels or 220 liters"
+            },
+            {
+              "rowId": 217,
+              "keyParts": [
+                217,
+                "p8",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "And they spread them out for themselves all around the camp."
+            },
+            {
+              "rowId": 218,
+              "keyParts": [
+                "v032_ESV_NUM_011",
+                218,
+                "p8",
+                "verse",
+                "v32",
+                "plain_text"
+              ],
+              "value": "32 And the people rose all that day and all night and all the next day, and gathered the quail. Those who gathered least gathered ten homers. And they spread them out for themselves all around the camp."
+            },
+            {
+              "rowId": 219,
+              "keyParts": [
+                219,
+                "p8",
+                "verse",
+                "v33",
+                "label"
+              ],
+              "value": "33"
+            },
+            {
+              "rowId": 220,
+              "keyParts": [
+                220,
+                "p8",
+                "verse",
+                "v33",
+                "note",
+                "x"
+              ],
+              "value": "#Ps. 78:30,31"
+            },
+            {
+              "rowId": 221,
+              "keyParts": [
+                221,
+                "p8",
+                "verse",
+                "v33",
+                "content"
+              ],
+              "value": "While the meat was yet between their teeth, before it was consumed, the anger of the"
+            },
+            {
+              "rowId": 222,
+              "keyParts": [
+                222,
+                "p8",
+                "verse",
+                "v33",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 223,
+              "keyParts": [
+                223,
+                "p8",
+                "verse",
+                "v33",
+                "content"
+              ],
+              "value": "was kindled against the people, and"
+            },
+            {
+              "rowId": 224,
+              "keyParts": [
+                224,
+                "p8",
+                "verse",
+                "v33",
+                "note",
+                "x"
+              ],
+              "value": "#[ch.16:49]"
+            },
+            {
+              "rowId": 225,
+              "keyParts": [
+                225,
+                "p8",
+                "verse",
+                "v33",
+                "content"
+              ],
+              "value": "the"
+            },
+            {
+              "rowId": 226,
+              "keyParts": [
+                226,
+                "p8",
+                "verse",
+                "v33",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 227,
+              "keyParts": [
+                227,
+                "p8",
+                "verse",
+                "v33",
+                "content"
+              ],
+              "value": "struck down the people with a very great plague."
+            },
+            {
+              "rowId": 228,
+              "keyParts": [
+                "v033_ESV_NUM_011",
+                228,
+                "p8",
+                "verse",
+                "v33",
+                "plain_text"
+              ],
+              "value": "33 While the meat was yet between their teeth, before it was consumed, the anger of the Lord was kindled against the people, and the Lord struck down the people with a very great plague."
+            },
+            {
+              "rowId": 229,
+              "keyParts": [
+                229,
+                "p8",
+                "verse",
+                "v34",
+                "label"
+              ],
+              "value": "34"
+            },
+            {
+              "rowId": 230,
+              "keyParts": [
+                230,
+                "p8",
+                "verse",
+                "v34",
+                "content"
+              ],
+              "value": "Therefore the name of that place was called"
+            },
+            {
+              "rowId": 231,
+              "keyParts": [
+                231,
+                "p8",
+                "verse",
+                "v34",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 9:22"
+            },
+            {
+              "rowId": 232,
+              "keyParts": [
+                232,
+                "p8",
+                "verse",
+                "v34",
+                "content"
+              ],
+              "value": "Kibroth-hattaavah,"
+            },
+            {
+              "rowId": 233,
+              "keyParts": [
+                233,
+                "p8",
+                "verse",
+                "v34",
+                "note",
+                "f"
+              ],
+              "value": "#11:34Kibroth-hattaavahmeansgraves of craving"
+            },
+            {
+              "rowId": 234,
+              "keyParts": [
+                234,
+                "p8",
+                "verse",
+                "v34",
+                "content"
+              ],
+              "value": "because there they buried the people who had the craving."
+            },
+            {
+              "rowId": 235,
+              "keyParts": [
+                "v034_ESV_NUM_011",
+                235,
+                "p8",
+                "verse",
+                "v34",
+                "plain_text"
+              ],
+              "value": "34 Therefore the name of that place was called Kibroth-hattaavah, because there they buried the people who had the craving."
+            },
+            {
+              "rowId": 236,
+              "keyParts": [
+                236,
+                "p8",
+                "verse",
+                "v35",
+                "label"
+              ],
+              "value": "35"
+            },
+            {
+              "rowId": 237,
+              "keyParts": [
+                237,
+                "p8",
+                "verse",
+                "v35",
+                "note",
+                "x"
+              ],
+              "value": "#ch.33:17"
+            },
+            {
+              "rowId": 238,
+              "keyParts": [
+                238,
+                "p8",
+                "verse",
+                "v35",
+                "content"
+              ],
+              "value": "From Kibroth-hattaavah the people journeyed to"
+            },
+            {
+              "rowId": 239,
+              "keyParts": [
+                239,
+                "p8",
+                "verse",
+                "v35",
+                "note",
+                "x"
+              ],
+              "value": "#ch.12:16;33:17,18"
+            },
+            {
+              "rowId": 240,
+              "keyParts": [
+                240,
+                "p8",
+                "verse",
+                "v35",
+                "content"
+              ],
+              "value": "Hazeroth, and they remained at"
+            },
+            {
+              "rowId": 241,
+              "keyParts": [
+                241,
+                "p8",
+                "verse",
+                "v35",
+                "note",
+                "x"
+              ],
+              "value": "#ch.12:16;33:17,18"
+            },
+            {
+              "rowId": 242,
+              "keyParts": [
+                242,
+                "p8",
+                "verse",
+                "v35",
+                "content"
+              ],
+              "value": "Hazeroth."
+            },
+            {
+              "rowId": 243,
+              "keyParts": [
+                "v035_ESV_NUM_011",
+                243,
+                "p8",
+                "verse",
+                "v35",
+                "plain_text"
+              ],
+              "value": "35 From Kibroth-hattaavah the people journeyed to Hazeroth, and they remained at Hazeroth."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

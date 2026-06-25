@@ -1,0 +1,1967 @@
+{
+  "translationId": "NET",
+  "name": "New English Translation",
+  "abbreviation": "NET",
+  "language": "English",
+  "copyright": "1996 - 2007 by Biblical Studies Press, LLC",
+  "books": [
+    {
+      "bookId": "GEN",
+      "testament": "",
+      "order": 0,
+      "title": "Genesis",
+      "abbreviation": "GEN",
+      "chapters": [
+        {
+          "chapter": 11,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "The Dispersion of the Nations at Babel"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "The whole earth"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "f"
+              ],
+              "value": "sn The whole earth. Here “earth” is a metonymy of subject, referring to the people who lived in the earth. Genesis 11 begins with everyone speaking a common language, but chap. 10 has the nations arranged by languages. It is part of the narrative art of Genesis to give the explanation of the event after the narration of the event. On this passage see A. P. Ross, “The Dispersion of the Nations in Genesis 11:1-9,” BSac 138 (1981): 119-38."
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "had a common language and a common vocabulary."
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                7,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “one lip and one [set of] words.” The term “lip” is a metonymy of cause, putting the instrument for the intended effect. They had one language. The term “words” refers to the content of their speech. They had the same vocabulary."
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                "v001_NET_GEN_011",
+                8,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 The whole earth had a common language and a common vocabulary."
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                9,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "When the people"
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                11,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “they”; the referent (the people) has been specified in the translation for clarity."
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                12,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "moved eastward,"
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                13,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "f"
+              ],
+              "value": "tn Or perhaps “from the east” (NRSV) or “in the east.”"
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "they found a plain in Shinar"
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                15,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “in the land of Shinar.”\nsn Shinar is the region of Babylonia."
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                16,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "and settled there."
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                "v002_NET_GEN_011",
+                17,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 When the people moved eastward, they found a plain in Shinar and settled there."
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "p1",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "Then they said to one another,"
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                20,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “a man to his neighbor.” The Hebrew idiom may be translated “to each other” or “one to another.”"
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "“Come, let’s make bricks and bake them thoroughly.”"
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                22,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "f"
+              ],
+              "value": "tn The speech contains two cohortatives of exhortation followed by their respective cognate accusatives: “let us brick bricks” (נִלְבְּנָה לְבֵנִים, nilbbÿnah lÿvenim) and “burn for burning” (נִשְׂרְפָה לִשְׂרֵפָה, nisrÿfah lisrefah). This stresses the intensity of the undertaking; it also reflects the Akkadian text which uses similar constructions (see E. A. Speiser, Genesis [AB], 75-76)."
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "(They had brick instead of stone and tar"
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                24,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "f"
+              ],
+              "value": "tn Or “bitumen” (cf. NEB, NRSV)."
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "instead of mortar.)"
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                26,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "f"
+              ],
+              "value": "tn The disjunctive clause gives information parenthetical to the narrative."
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                "v003_NET_GEN_011",
+                27,
+                "p1",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 Then they said to one another, “Come, let’s make bricks and bake them thoroughly.” (They had brick instead of stone and tar instead of mortar.)"
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                28,
+                "p1",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                29,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "Then they said, “Come, let’s build ourselves a city and a tower with its top in the heavens"
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                30,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "f"
+              ],
+              "value": "tn A translation of “heavens” for שָׁמַיִם (shamayim) fits this context because the Babylonian ziggurats had temples at the top, suggesting they reached to the heavens, the dwelling place of the gods."
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                31,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "so that"
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "f"
+              ],
+              "value": "tn The form וְנַעֲשֶׂה (vÿna’aseh, from the verb עשׂה, “do, make”) could be either the imperfect or the cohortative with a vav (ו) conjunction (“and let us make…”). Coming after the previous cohortative, this form expresses purpose."
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                33,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "we may make a name for ourselves. Otherwise"
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                34,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "f"
+              ],
+              "value": "tn The Hebrew particle פֶּן (pen) expresses a negative purpose; it means “that we be not scattered.”"
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                35,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "we will be scattered"
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "f"
+              ],
+              "value": "sn The Hebrew verb פָּוָץ (pavats, translated “scatter”) is a key term in this passage. The focal point of the account is the dispersion (“scattering”) of the nations rather than the Tower of Babel. But the passage also forms a polemic against Babylon, the pride of the east and a cosmopolitan center with a huge ziggurat. To the Hebrews it was a monument to the judgment of God on pride."
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                37,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "across the face of the entire earth.”"
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                "v004_NET_GEN_011",
+                38,
+                "p1",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 Then they said, “Come, let’s build ourselves a city and a tower with its top in the heavens so that we may make a name for ourselves. Otherwise we will be scattered across the face of the entire earth.”"
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                39,
+                "p2",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                40,
+                "p2",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "But the"
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p2",
+                "verse",
+                "v5",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "p2",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "came down to see the city and the tower that the people"
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                43,
+                "p2",
+                "verse",
+                "v5",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “the sons of man.” The phrase is intended in this polemic to portray the builders as mere mortals, not the lesser deities that the Babylonians claimed built the city."
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                44,
+                "p2",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "had started"
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                45,
+                "p2",
+                "verse",
+                "v5",
+                "note",
+                "f"
+              ],
+              "value": "tn The Hebrew text simply has בָּנוּ (banu), but since v. 8 says they left off building the city, an ingressive idea (“had started building”) should be understood here."
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                46,
+                "p2",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "building."
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                "v005_NET_GEN_011",
+                47,
+                "p2",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 But the Lord came down to see the city and the tower that the people had started building."
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                48,
+                "p2",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                49,
+                "p2",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "And the"
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "p2",
+                "verse",
+                "v6",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                51,
+                "p2",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "said, “If as one people all sharing a common language"
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                52,
+                "p2",
+                "verse",
+                "v6",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and one lip to all of them.”"
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                53,
+                "p2",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "they have begun to do this, then"
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                54,
+                "p2",
+                "verse",
+                "v6",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and now.” The foundational clause beginning with הֵן (hen) expresses the condition, and the second clause the result. It could be rendered “If this…then now.”"
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                55,
+                "p2",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "nothing they plan to do will be beyond them."
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                56,
+                "p2",
+                "verse",
+                "v6",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “all that they purpose to do will not be withheld from them.”"
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                "v006_NET_GEN_011",
+                57,
+                "p2",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 And the Lord said, “If as one people all sharing a common language they have begun to do this, then nothing they plan to do will be beyond them."
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                58,
+                "p2",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                59,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "Come, let’s go down and confuse"
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                60,
+                "p2",
+                "verse",
+                "v7",
+                "note",
+                "f"
+              ],
+              "value": "tn The cohortatives mirror the cohortatives of the people. They build to ascend the heavens; God comes down to destroy their language. God speaks here to his angelic assembly. See the notes on the word “make” in 1:26 and “know” in 3:5, as well as Jub. 10:22-23, where an angel recounts this incident and says “And the Lord our God said to us…. And the Lord went down and we went down with him. And we saw the city and the tower which the sons of men built.” On the chiastic structure of the story, see G. J. Wenham, Genesis (WBC), 1:235."
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                61,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "their language so they won’t be able to understand each other.”"
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                62,
+                "p2",
+                "verse",
+                "v7",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “they will not hear, a man the lip of his neighbor.”"
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                "v007_NET_GEN_011",
+                63,
+                "p2",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 Come, let’s go down and confuse their language so they won’t be able to understand each other.”"
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                64,
+                "p3",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                65,
+                "p3",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "So the"
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                66,
+                "p3",
+                "verse",
+                "v8",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                67,
+                "p3",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "scattered them from there across the face of the entire earth, and they stopped building"
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                68,
+                "p3",
+                "verse",
+                "v8",
+                "note",
+                "f"
+              ],
+              "value": "tn The infinitive construct לִבְנֹת (livnot, “building”) here serves as the object of the verb “they ceased, stopped,” answering the question of what they stopped doing."
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                69,
+                "p3",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "the city."
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                "v008_NET_GEN_011",
+                70,
+                "p3",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 So the Lord scattered them from there across the face of the entire earth, and they stopped building the city."
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                71,
+                "p3",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                72,
+                "p3",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "That is why its name was called"
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                73,
+                "p3",
+                "verse",
+                "v9",
+                "note",
+                "f"
+              ],
+              "value": "tn The verb has no expressed subject and so can be rendered as a passive in the translation."
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                74,
+                "p3",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "Babel"
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                75,
+                "p3",
+                "verse",
+                "v9",
+                "note",
+                "f"
+              ],
+              "value": "sn Babel. Here is the climax of the account, a parody on the pride of Babylon. In the Babylonian literature the name bab-ili meant “the gate of God,” but in Hebrew it sounds like the word for “confusion,” and so retained that connotation. The name “Babel” (בָּבֶל, bavel) and the verb translated “confused” (בָּלַל, balal) form a paronomasia (sound play). For the many wordplays and other rhetorical devices in Genesis, see J. P. Fokkelman, Narrative Art in Genesis (SSN)."
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                76,
+                "p3",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "– because there the"
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                77,
+                "p3",
+                "verse",
+                "v9",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                78,
+                "p3",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "confused the language of the entire world, and from there the"
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                79,
+                "p3",
+                "verse",
+                "v9",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                80,
+                "p3",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "scattered them across the face of the entire earth."
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "The Genealogy of Shem"
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                "v009_NET_GEN_011",
+                82,
+                "p3",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 That is why its name was called Babel – because there the Lord confused the language of the entire world, and from there the Lord scattered them across the face of the entire earth."
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                83,
+                "p4",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                84,
+                "p4",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "This is the account of Shem."
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                85,
+                "p5",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "Shem was 100 old when he became the father of Arphaxad, two years after the flood."
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                "v010_NET_GEN_011",
+                86,
+                "p4",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 This is the account of Shem. Shem was 100 old when he became the father of Arphaxad, two years after the flood."
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                87,
+                "p5",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                88,
+                "p5",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "And after becoming the father of Arphaxad, Shem lived 500 years and had other"
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                89,
+                "p5",
+                "verse",
+                "v11",
+                "note",
+                "f"
+              ],
+              "value": "tn The word “other” is not in the Hebrew text, but is supplied for stylistic reasons."
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                90,
+                "p5",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "sons and daughters."
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                "v011_NET_GEN_011",
+                91,
+                "p5",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 And after becoming the father of Arphaxad, Shem lived 500 years and had other sons and daughters."
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                92,
+                "p6",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                93,
+                "p6",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "When Arphaxad had lived 35 years, he became the father of Shelah."
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                "v012_NET_GEN_011",
+                94,
+                "p6",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 When Arphaxad had lived 35 years, he became the father of Shelah."
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                95,
+                "p6",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                96,
+                "p6",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "And after he became the father of Shelah, Arphaxad lived 403 years and had other"
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                97,
+                "p6",
+                "verse",
+                "v13",
+                "note",
+                "f"
+              ],
+              "value": "tn The word “other” is not in the Hebrew text, but is supplied for stylistic reasons."
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                98,
+                "p6",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "sons and daughters."
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                99,
+                "p6",
+                "verse",
+                "v13",
+                "note",
+                "f"
+              ],
+              "value": "tc The reading of the MT is followed in vv. 11-12; the LXX reads, “And [= when] Arphaxad had lived thirty-five years, [and] he fathered [= became the father of] Cainan. And after he fathered [= became the father of] Cainan, Arphaxad lived four hundred and thirty years and fathered [= had] [other] sons and daughters, and [then] he died. And [= when] Cainan had lived one hundred and thirty years, [and] he fathered [= became the father of] Sala [= Shelah]. And after he fathered [= became the father of] Sala [= Shelah], Cainan lived three hundred and thirty years and fathered [= had] [other] sons and daughters, and [then] he died.” See also the note on “Shelah” in Gen 10:24; the LXX reading also appears to lie behind Luke 3:35-36."
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                "v013_NET_GEN_011",
+                100,
+                "p6",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 And after he became the father of Shelah, Arphaxad lived 403 years and had other sons and daughters."
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                101,
+                "p7",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                102,
+                "p7",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "When Shelah had lived 30 years, he became the father of Eber."
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                "v014_NET_GEN_011",
+                103,
+                "p7",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 When Shelah had lived 30 years, he became the father of Eber."
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                104,
+                "p7",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                105,
+                "p7",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "And after he became the father of Eber, Shelah lived 403 years and had other"
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                106,
+                "p7",
+                "verse",
+                "v15",
+                "note",
+                "f"
+              ],
+              "value": "tn Here and in vv. 16, 19, 21, 23, 25 the word “other” is not in the Hebrew text, but is supplied for stylistic reasons."
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                107,
+                "p7",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "sons and daughters."
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                "v015_NET_GEN_011",
+                108,
+                "p7",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 And after he became the father of Eber, Shelah lived 403 years and had other sons and daughters."
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                109,
+                "p8",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                110,
+                "p8",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "When Eber had lived 34 years, he became the father of Peleg."
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                "v016_NET_GEN_011",
+                111,
+                "p8",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 When Eber had lived 34 years, he became the father of Peleg."
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                112,
+                "p8",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                113,
+                "p8",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "And after he became the father of Peleg, Eber lived 430 years and had other sons and daughters."
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                "v017_NET_GEN_011",
+                114,
+                "p8",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 And after he became the father of Peleg, Eber lived 430 years and had other sons and daughters."
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                115,
+                "p9",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                116,
+                "p9",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "When Peleg had lived 30 years, he became the father of Reu."
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                "v018_NET_GEN_011",
+                117,
+                "p9",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 When Peleg had lived 30 years, he became the father of Reu."
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                118,
+                "p9",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                119,
+                "p9",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "And after he became the father of Reu, Peleg lived 209 years and had other sons and daughters."
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                "v019_NET_GEN_011",
+                120,
+                "p9",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 And after he became the father of Reu, Peleg lived 209 years and had other sons and daughters."
+            },
+            {
+              "rowId": 121,
+              "keyParts": [
+                121,
+                "p10",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 122,
+              "keyParts": [
+                122,
+                "p10",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "When Reu had lived 32 years, he became the father of Serug."
+            },
+            {
+              "rowId": 123,
+              "keyParts": [
+                "v020_NET_GEN_011",
+                123,
+                "p10",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 When Reu had lived 32 years, he became the father of Serug."
+            },
+            {
+              "rowId": 124,
+              "keyParts": [
+                124,
+                "p10",
+                "verse",
+                "v21",
+                "label"
+              ],
+              "value": "21"
+            },
+            {
+              "rowId": 125,
+              "keyParts": [
+                125,
+                "p10",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "And after he became the father of Serug, Reu lived 207 years and had other sons and daughters."
+            },
+            {
+              "rowId": 126,
+              "keyParts": [
+                "v021_NET_GEN_011",
+                126,
+                "p10",
+                "verse",
+                "v21",
+                "plain_text"
+              ],
+              "value": "21 And after he became the father of Serug, Reu lived 207 years and had other sons and daughters."
+            },
+            {
+              "rowId": 127,
+              "keyParts": [
+                127,
+                "p11",
+                "verse",
+                "v22",
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 128,
+              "keyParts": [
+                128,
+                "p11",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "When Serug had lived 30 years, he became the father of Nahor."
+            },
+            {
+              "rowId": 129,
+              "keyParts": [
+                "v022_NET_GEN_011",
+                129,
+                "p11",
+                "verse",
+                "v22",
+                "plain_text"
+              ],
+              "value": "22 When Serug had lived 30 years, he became the father of Nahor."
+            },
+            {
+              "rowId": 130,
+              "keyParts": [
+                130,
+                "p11",
+                "verse",
+                "v23",
+                "label"
+              ],
+              "value": "23"
+            },
+            {
+              "rowId": 131,
+              "keyParts": [
+                131,
+                "p11",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "And after he became the father of Nahor, Serug lived 200 years and had other sons and daughters."
+            },
+            {
+              "rowId": 132,
+              "keyParts": [
+                "v023_NET_GEN_011",
+                132,
+                "p11",
+                "verse",
+                "v23",
+                "plain_text"
+              ],
+              "value": "23 And after he became the father of Nahor, Serug lived 200 years and had other sons and daughters."
+            },
+            {
+              "rowId": 133,
+              "keyParts": [
+                133,
+                "p12",
+                "verse",
+                "v24",
+                "label"
+              ],
+              "value": "24"
+            },
+            {
+              "rowId": 134,
+              "keyParts": [
+                134,
+                "p12",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "When Nahor had lived 29 years, he became the father of Terah."
+            },
+            {
+              "rowId": 135,
+              "keyParts": [
+                "v024_NET_GEN_011",
+                135,
+                "p12",
+                "verse",
+                "v24",
+                "plain_text"
+              ],
+              "value": "24 When Nahor had lived 29 years, he became the father of Terah."
+            },
+            {
+              "rowId": 136,
+              "keyParts": [
+                136,
+                "p12",
+                "verse",
+                "v25",
+                "label"
+              ],
+              "value": "25"
+            },
+            {
+              "rowId": 137,
+              "keyParts": [
+                137,
+                "p12",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "And after he became the father of Terah, Nahor lived 119 years and had other sons and daughters."
+            },
+            {
+              "rowId": 138,
+              "keyParts": [
+                "v025_NET_GEN_011",
+                138,
+                "p12",
+                "verse",
+                "v25",
+                "plain_text"
+              ],
+              "value": "25 And after he became the father of Terah, Nahor lived 119 years and had other sons and daughters."
+            },
+            {
+              "rowId": 139,
+              "keyParts": [
+                139,
+                "p13",
+                "verse",
+                "v26",
+                "label"
+              ],
+              "value": "26"
+            },
+            {
+              "rowId": 140,
+              "keyParts": [
+                140,
+                "p13",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "When Terah had lived 70 years, he became the father of Abram, Nahor, and Haran."
+            },
+            {
+              "rowId": 141,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "The Record of Terah"
+            },
+            {
+              "rowId": 142,
+              "keyParts": [
+                "v026_NET_GEN_011",
+                142,
+                "p13",
+                "verse",
+                "v26",
+                "plain_text"
+              ],
+              "value": "26 When Terah had lived 70 years, he became the father of Abram, Nahor, and Haran."
+            },
+            {
+              "rowId": 143,
+              "keyParts": [
+                143,
+                "p14",
+                "verse",
+                "v27",
+                "label"
+              ],
+              "value": "27"
+            },
+            {
+              "rowId": 144,
+              "keyParts": [
+                144,
+                "p14",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "This is the account of Terah."
+            },
+            {
+              "rowId": 145,
+              "keyParts": [
+                145,
+                "p15",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "Terah became the father of Abram, Nahor, and Haran. And Haran became the father of Lot."
+            },
+            {
+              "rowId": 146,
+              "keyParts": [
+                "v027_NET_GEN_011",
+                146,
+                "p14",
+                "verse",
+                "v27",
+                "plain_text"
+              ],
+              "value": "27 This is the account of Terah. Terah became the father of Abram, Nahor, and Haran. And Haran became the father of Lot."
+            },
+            {
+              "rowId": 147,
+              "keyParts": [
+                147,
+                "p15",
+                "verse",
+                "v28",
+                "label"
+              ],
+              "value": "28"
+            },
+            {
+              "rowId": 148,
+              "keyParts": [
+                148,
+                "p15",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "Haran died in the land of his birth, in Ur of the Chaldeans,"
+            },
+            {
+              "rowId": 149,
+              "keyParts": [
+                149,
+                "p15",
+                "verse",
+                "v28",
+                "note",
+                "f"
+              ],
+              "value": "sn The phrase of the Chaldeans is a later editorial clarification for the readers, designating the location of Ur. From all evidence there would have been no Chaldeans in existence at this early date; they are known in the time of the neo-Babylonian empire in the first millennium b.c."
+            },
+            {
+              "rowId": 150,
+              "keyParts": [
+                150,
+                "p15",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "while his father Terah was still alive."
+            },
+            {
+              "rowId": 151,
+              "keyParts": [
+                151,
+                "p15",
+                "verse",
+                "v28",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “upon the face of Terah his father.”"
+            },
+            {
+              "rowId": 152,
+              "keyParts": [
+                "v028_NET_GEN_011",
+                152,
+                "p15",
+                "verse",
+                "v28",
+                "plain_text"
+              ],
+              "value": "28 Haran died in the land of his birth, in Ur of the Chaldeans, while his father Terah was still alive."
+            },
+            {
+              "rowId": 153,
+              "keyParts": [
+                153,
+                "p15",
+                "verse",
+                "v29",
+                "label"
+              ],
+              "value": "29"
+            },
+            {
+              "rowId": 154,
+              "keyParts": [
+                154,
+                "p15",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "And Abram and Nahor took wives for themselves. The name of Abram’s wife was Sarai,"
+            },
+            {
+              "rowId": 155,
+              "keyParts": [
+                155,
+                "p15",
+                "verse",
+                "v29",
+                "note",
+                "f"
+              ],
+              "value": "sn The name Sarai (a variant spelling of “Sarah”) means “princess” (or “lady”). Sharratu was the name of the wife of the moon god Sin. The original name may reflect the culture out of which the patriarch was called, for the family did worship other gods in Mesopotamia."
+            },
+            {
+              "rowId": 156,
+              "keyParts": [
+                156,
+                "p15",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "and the name of Nahor’s wife was Milcah;"
+            },
+            {
+              "rowId": 157,
+              "keyParts": [
+                157,
+                "p15",
+                "verse",
+                "v29",
+                "note",
+                "f"
+              ],
+              "value": "sn The name Milcah means “Queen.” But more to the point here is the fact that Malkatu was a title for Ishtar, the daughter of the moon god. If the women were named after such titles (and there is no evidence that this was the motivation for naming the girls “Princess” or “Queen”), that would not necessarily imply anything about the faith of the two women themselves."
+            },
+            {
+              "rowId": 158,
+              "keyParts": [
+                158,
+                "p15",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "she was the daughter of Haran, the father of both Milcah and Iscah."
+            },
+            {
+              "rowId": 159,
+              "keyParts": [
+                "v029_NET_GEN_011",
+                159,
+                "p15",
+                "verse",
+                "v29",
+                "plain_text"
+              ],
+              "value": "29 And Abram and Nahor took wives for themselves. The name of Abram’s wife was Sarai, and the name of Nahor’s wife was Milcah; she was the daughter of Haran, the father of both Milcah and Iscah."
+            },
+            {
+              "rowId": 160,
+              "keyParts": [
+                160,
+                "p15",
+                "verse",
+                "v30",
+                "label"
+              ],
+              "value": "30"
+            },
+            {
+              "rowId": 161,
+              "keyParts": [
+                161,
+                "p15",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "But Sarai was barren; she had no children."
+            },
+            {
+              "rowId": 162,
+              "keyParts": [
+                "v030_NET_GEN_011",
+                162,
+                "p15",
+                "verse",
+                "v30",
+                "plain_text"
+              ],
+              "value": "30 But Sarai was barren; she had no children."
+            },
+            {
+              "rowId": 163,
+              "keyParts": [
+                163,
+                "p16",
+                "verse",
+                "v31",
+                "label"
+              ],
+              "value": "31"
+            },
+            {
+              "rowId": 164,
+              "keyParts": [
+                164,
+                "p16",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "Terah took his son Abram, his grandson Lot (the son of Haran), and his daughter-in-law Sarai, his son Abram’s wife, and with them he set out from Ur of the Chaldeans to go to Canaan. When they came to Haran, they settled there."
+            },
+            {
+              "rowId": 165,
+              "keyParts": [
+                "v031_NET_GEN_011",
+                165,
+                "p16",
+                "verse",
+                "v31",
+                "plain_text"
+              ],
+              "value": "31 Terah took his son Abram, his grandson Lot (the son of Haran), and his daughter-in-law Sarai, his son Abram’s wife, and with them he set out from Ur of the Chaldeans to go to Canaan. When they came to Haran, they settled there."
+            },
+            {
+              "rowId": 166,
+              "keyParts": [
+                166,
+                "p16",
+                "verse",
+                "v32",
+                "label"
+              ],
+              "value": "32"
+            },
+            {
+              "rowId": 167,
+              "keyParts": [
+                167,
+                "p16",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "The lifetime"
+            },
+            {
+              "rowId": 168,
+              "keyParts": [
+                168,
+                "p16",
+                "verse",
+                "v32",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “And the days of Terah were.”"
+            },
+            {
+              "rowId": 169,
+              "keyParts": [
+                169,
+                "p16",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "of Terah was 205 years, and he"
+            },
+            {
+              "rowId": 170,
+              "keyParts": [
+                170,
+                "p16",
+                "verse",
+                "v32",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “Terah”; the pronoun has been substituted for the proper name in the translation for stylistic reasons."
+            },
+            {
+              "rowId": 171,
+              "keyParts": [
+                171,
+                "p16",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "died in Haran."
+            },
+            {
+              "rowId": 172,
+              "keyParts": [
+                "v032_NET_GEN_011",
+                172,
+                "p16",
+                "verse",
+                "v32",
+                "plain_text"
+              ],
+              "value": "32 The lifetime of Terah was 205 years, and he died in Haran."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

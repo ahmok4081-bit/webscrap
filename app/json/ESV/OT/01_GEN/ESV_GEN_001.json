@@ -1,0 +1,1782 @@
+{
+  "translationId": "ESV",
+  "name": "English Standard Version",
+  "abbreviation": "ESV",
+  "language": "English",
+  "copyright": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.",
+  "books": [
+    {
+      "bookId": "GEN",
+      "testament": "OT",
+      "order": 1,
+      "title": "Genesis",
+      "abbreviation": "GEN",
+      "chapters": [
+        {
+          "chapter": 1,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "The Creation of the World"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "In the"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#Job 38:4-7;Ps. 33:6;136:5;Isa. 42:5;45:18;John 1:1-3;Acts 14:15;17:24;Col. 1:16,17;Heb. 1:10;11:3;Rev. 4:11"
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "beginning, God created the heavens and the earth."
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                "v001_ESV_GEN_001",
+                7,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 In the beginning, God created the heavens and the earth."
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                9,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "The earth was"
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#Jer. 4:23"
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                11,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "without form and void, and darkness was over the face of the deep. And the Spirit of God was hovering over the face of the waters."
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                "v002_ESV_GEN_001",
+                12,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 The earth was without form and void, and darkness was over the face of the deep. And the Spirit of God was hovering over the face of the waters."
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                13,
+                "p2",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "p2",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "And God said,"
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                15,
+                "p2",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#2 Cor. 4:6"
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                16,
+                "p2",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "“Let there be light,” and there was light."
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                "v003_ESV_GEN_001",
+                17,
+                "p2",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 And God said, “Let there be light,” and there was light."
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "p2",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p2",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "And God saw that the light was good. And God separated the light from the darkness."
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                "v004_ESV_GEN_001",
+                20,
+                "p2",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 And God saw that the light was good. And God separated the light from the darkness."
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p2",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                22,
+                "p2",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "God called the light Day, and the darkness he called Night. And there was evening and there was morning, the first day."
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                "v005_ESV_GEN_001",
+                23,
+                "p2",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 God called the light Day, and the darkness he called Night. And there was evening and there was morning, the first day."
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                24,
+                "p3",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "p3",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "And God said,"
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                26,
+                "p3",
+                "verse",
+                "v6",
+                "note",
+                "x"
+              ],
+              "value": "#Job 37:18;Ps. 136:5;Jer. 10:12;51:15"
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                27,
+                "p3",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "“Let there be an expanse"
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                28,
+                "p3",
+                "verse",
+                "v6",
+                "note",
+                "f"
+              ],
+              "value": "#1:6Ora canopy; also verses 7, 8, 14, 15, 17, 20"
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                29,
+                "p3",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "in the midst of the waters, and let it separate the waters from the waters.”"
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                "v006_ESV_GEN_001",
+                30,
+                "p3",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 And God said, “Let there be an expanse in the midst of the waters, and let it separate the waters from the waters.”"
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                31,
+                "p3",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "p3",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "And God made"
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                33,
+                "p3",
+                "verse",
+                "v7",
+                "note",
+                "f"
+              ],
+              "value": "#1:7Orfashioned; also verse 16"
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                34,
+                "p3",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "the expanse and"
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                35,
+                "p3",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#Prov. 8:27-29"
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "p3",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "separated the waters that were under the expanse from the waters that were"
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                37,
+                "p3",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#Ps. 148:4"
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                38,
+                "p3",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "above the expanse. And it was so."
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                "v007_ESV_GEN_001",
+                39,
+                "p3",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 And God made the expanse and separated the waters that were under the expanse from the waters that were above the expanse. And it was so."
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                40,
+                "p3",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p3",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "And God called the expanse Heaven."
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "p3",
+                "verse",
+                "v8",
+                "note",
+                "f"
+              ],
+              "value": "#1:8OrSky; also verses 9, 14, 15, 17, 20, 26, 28, 30; 2:1"
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                43,
+                "p3",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "And there was evening and there was morning, the second day."
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                "v008_ESV_GEN_001",
+                44,
+                "p3",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 And God called the expanse Heaven. And there was evening and there was morning, the second day."
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                45,
+                "p4",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                46,
+                "p4",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "And God said,"
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                47,
+                "p4",
+                "verse",
+                "v9",
+                "note",
+                "x"
+              ],
+              "value": "#Job 38:8-11;Ps. 33:7;136:6;Jer. 5:22;2 Pet. 3:5"
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                48,
+                "p4",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "“Let the waters under the heavens be gathered together into one place, and let the dry land appear.” And it was so."
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                "v009_ESV_GEN_001",
+                49,
+                "p4",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 And God said, “Let the waters under the heavens be gathered together into one place, and let the dry land appear.” And it was so."
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "p4",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                51,
+                "p4",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "God called the dry land Earth,"
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                52,
+                "p4",
+                "verse",
+                "v10",
+                "note",
+                "f"
+              ],
+              "value": "#1:10OrLand; also verses 11, 12, 22, 24, 25, 26, 28, 30; 2:1"
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                53,
+                "p4",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "and the waters that were gathered together he called Seas. And God saw that it was good."
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                "v010_ESV_GEN_001",
+                54,
+                "p4",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 God called the dry land Earth, and the waters that were gathered together he called Seas. And God saw that it was good."
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                55,
+                "p5",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                56,
+                "p5",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "And God said,"
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                57,
+                "p5",
+                "verse",
+                "v11",
+                "note",
+                "x"
+              ],
+              "value": "#Ps. 104:14"
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                58,
+                "p5",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "“Let the earth sprout vegetation, plants"
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                59,
+                "p5",
+                "verse",
+                "v11",
+                "note",
+                "f"
+              ],
+              "value": "#1:11Orsmall plants; also verses 12, 29"
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                60,
+                "p5",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "yielding seed, and fruit trees bearing fruit in which is their seed, each according to its kind, on the earth.” And it was so."
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                "v011_ESV_GEN_001",
+                61,
+                "p5",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 And God said, “Let the earth sprout vegetation, plants yielding seed, and fruit trees bearing fruit in which is their seed, each according to its kind, on the earth.” And it was so."
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                62,
+                "p5",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                63,
+                "p5",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "The earth brought forth vegetation, plants yielding seed according to their own kinds, and trees bearing fruit in which is their seed, each according to its kind. And God saw that it was good."
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                "v012_ESV_GEN_001",
+                64,
+                "p5",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 The earth brought forth vegetation, plants yielding seed according to their own kinds, and trees bearing fruit in which is their seed, each according to its kind. And God saw that it was good."
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                65,
+                "p5",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                66,
+                "p5",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "And there was evening and there was morning, the third day."
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                "v013_ESV_GEN_001",
+                67,
+                "p5",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 And there was evening and there was morning, the third day."
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                68,
+                "p6",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                69,
+                "p6",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "And God said, “Let there be lights in the expanse of the heavens to separate the day from the night. And let them be for"
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                70,
+                "p6",
+                "verse",
+                "v14",
+                "note",
+                "x"
+              ],
+              "value": "#Jer. 10:2;Ezek. 32:7,8;Joel 2:30,31;3:15;Matt. 24:29;Luke 21:25"
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                71,
+                "p6",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "signs and for"
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                72,
+                "p6",
+                "verse",
+                "v14",
+                "note",
+                "x"
+              ],
+              "value": "#Ps. 104:19"
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                73,
+                "p6",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "seasons,"
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                74,
+                "p6",
+                "verse",
+                "v14",
+                "note",
+                "f"
+              ],
+              "value": "#1:14Orappointed times"
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                75,
+                "p6",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "and for days and years,"
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                "v014_ESV_GEN_001",
+                76,
+                "p6",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 And God said, “Let there be lights in the expanse of the heavens to separate the day from the night. And let them be for signs and for seasons, and for days and years,"
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                77,
+                "p6",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                78,
+                "p6",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "and let them be lights in the expanse of the heavens to give light upon the earth.” And it was so."
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                "v015_ESV_GEN_001",
+                79,
+                "p6",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 and let them be lights in the expanse of the heavens to give light upon the earth.” And it was so."
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                80,
+                "p6",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                81,
+                "p6",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "And God"
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                82,
+                "p6",
+                "verse",
+                "v16",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 4:19;Ps. 136:7-9"
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                83,
+                "p6",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "made the two great lights—the greater light to rule the day and the lesser light to rule the night—and the stars."
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                "v016_ESV_GEN_001",
+                84,
+                "p6",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 And God made the two great lights—the greater light to rule the day and the lesser light to rule the night—and the stars."
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                85,
+                "p6",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                86,
+                "p6",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "And God set them in the expanse of the heavens to give light on the earth,"
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                "v017_ESV_GEN_001",
+                87,
+                "p6",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 And God set them in the expanse of the heavens to give light on the earth,"
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                88,
+                "p6",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                89,
+                "p6",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "to"
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                90,
+                "p6",
+                "verse",
+                "v18",
+                "note",
+                "x"
+              ],
+              "value": "#Jer. 31:35"
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                91,
+                "p6",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "rule over the day and over the night, and to separate the light from the darkness. And God saw that it was good."
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                "v018_ESV_GEN_001",
+                92,
+                "p6",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 to rule over the day and over the night, and to separate the light from the darkness. And God saw that it was good."
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                93,
+                "p6",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                94,
+                "p6",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "And there was evening and there was morning, the fourth day."
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                "v019_ESV_GEN_001",
+                95,
+                "p6",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 And there was evening and there was morning, the fourth day."
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                96,
+                "p7",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                97,
+                "p7",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "And God said, “Let the waters swarm with swarms of living creatures, and let birds"
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                98,
+                "p7",
+                "verse",
+                "v20",
+                "note",
+                "f"
+              ],
+              "value": "#1:20Orflying things; see Leviticus 11:19–20"
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                99,
+                "p7",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "fly above the earth across the expanse of the heavens.”"
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                "v020_ESV_GEN_001",
+                100,
+                "p7",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 And God said, “Let the waters swarm with swarms of living creatures, and let birds fly above the earth across the expanse of the heavens.”"
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                101,
+                "p7",
+                "verse",
+                "v21",
+                "label"
+              ],
+              "value": "21"
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                102,
+                "p7",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "So"
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                103,
+                "p7",
+                "verse",
+                "v21",
+                "note",
+                "x"
+              ],
+              "value": "#Ps. 104:25,26"
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                104,
+                "p7",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "God created the great sea creatures and every living creature that moves, with which the waters swarm, according to their kinds, and every winged bird according to its kind. And God saw that it was good."
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                "v021_ESV_GEN_001",
+                105,
+                "p7",
+                "verse",
+                "v21",
+                "plain_text"
+              ],
+              "value": "21 So God created the great sea creatures and every living creature that moves, with which the waters swarm, according to their kinds, and every winged bird according to its kind. And God saw that it was good."
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                106,
+                "p7",
+                "verse",
+                "v22",
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                107,
+                "p7",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "And God blessed them, saying,"
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                108,
+                "p7",
+                "verse",
+                "v22",
+                "note",
+                "x"
+              ],
+              "value": "#ch.8:17;9:1"
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                109,
+                "p7",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "“Be fruitful and multiply and fill the waters in the seas, and let birds multiply on the earth.”"
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                "v022_ESV_GEN_001",
+                110,
+                "p7",
+                "verse",
+                "v22",
+                "plain_text"
+              ],
+              "value": "22 And God blessed them, saying, “Be fruitful and multiply and fill the waters in the seas, and let birds multiply on the earth.”"
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                111,
+                "p7",
+                "verse",
+                "v23",
+                "label"
+              ],
+              "value": "23"
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                112,
+                "p7",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "And there was evening and there was morning, the fifth day."
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                "v023_ESV_GEN_001",
+                113,
+                "p7",
+                "verse",
+                "v23",
+                "plain_text"
+              ],
+              "value": "23 And there was evening and there was morning, the fifth day."
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                114,
+                "p8",
+                "verse",
+                "v24",
+                "label"
+              ],
+              "value": "24"
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                115,
+                "p8",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "And God said, “Let the earth bring forth living creatures according to their kinds—livestock and creeping things and beasts of the earth according to their kinds.” And it was so."
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                "v024_ESV_GEN_001",
+                116,
+                "p8",
+                "verse",
+                "v24",
+                "plain_text"
+              ],
+              "value": "24 And God said, “Let the earth bring forth living creatures according to their kinds—livestock and creeping things and beasts of the earth according to their kinds.” And it was so."
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                117,
+                "p8",
+                "verse",
+                "v25",
+                "label"
+              ],
+              "value": "25"
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                118,
+                "p8",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "And God made the beasts of the earth according to their kinds and the livestock according to their kinds, and everything that creeps on the ground according to its kind. And God saw that it was good."
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                "v025_ESV_GEN_001",
+                119,
+                "p8",
+                "verse",
+                "v25",
+                "plain_text"
+              ],
+              "value": "25 And God made the beasts of the earth according to their kinds and the livestock according to their kinds, and everything that creeps on the ground according to its kind. And God saw that it was good."
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                120,
+                "p9",
+                "verse",
+                "v26",
+                "label"
+              ],
+              "value": "26"
+            },
+            {
+              "rowId": 121,
+              "keyParts": [
+                121,
+                "p9",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "Then God said,"
+            },
+            {
+              "rowId": 122,
+              "keyParts": [
+                122,
+                "p9",
+                "verse",
+                "v26",
+                "note",
+                "x"
+              ],
+              "value": "#ch.3:22;11:7;Isa. 6:8"
+            },
+            {
+              "rowId": 123,
+              "keyParts": [
+                123,
+                "p9",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "“Let us make man"
+            },
+            {
+              "rowId": 124,
+              "keyParts": [
+                124,
+                "p9",
+                "verse",
+                "v26",
+                "note",
+                "f"
+              ],
+              "value": "#1:26The Hebrew word forman(adam) is the generic term for mankind and becomes the proper nameAdam"
+            },
+            {
+              "rowId": 125,
+              "keyParts": [
+                125,
+                "p9",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "in our image,"
+            },
+            {
+              "rowId": 126,
+              "keyParts": [
+                126,
+                "p9",
+                "verse",
+                "v26",
+                "note",
+                "x"
+              ],
+              "value": "#ch.5:1;9:6;1 Cor. 11:7;Eph. 4:24;Col. 3:10;James 3:9"
+            },
+            {
+              "rowId": 127,
+              "keyParts": [
+                127,
+                "p9",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "after our likeness. And"
+            },
+            {
+              "rowId": 128,
+              "keyParts": [
+                128,
+                "p9",
+                "verse",
+                "v26",
+                "note",
+                "x"
+              ],
+              "value": "#ch.9:2;Ps. 8:6-8;James 3:7"
+            },
+            {
+              "rowId": 129,
+              "keyParts": [
+                129,
+                "p9",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "let them have dominion over the fish of the sea and over the birds of the heavens and over the livestock and over all the earth and over every creeping thing that creeps on the earth.”"
+            },
+            {
+              "rowId": 130,
+              "keyParts": [
+                "v026_ESV_GEN_001",
+                130,
+                "p9",
+                "verse",
+                "v26",
+                "plain_text"
+              ],
+              "value": "26 Then God said, “Let us make man in our image, after our likeness. And let them have dominion over the fish of the sea and over the birds of the heavens and over the livestock and over all the earth and over every creeping thing that creeps on the earth.”"
+            },
+            {
+              "rowId": 131,
+              "keyParts": [
+                131,
+                "q1_1",
+                "verse",
+                "v27",
+                "label"
+              ],
+              "value": "27"
+            },
+            {
+              "rowId": 132,
+              "keyParts": [
+                132,
+                "q1_1",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "So God created man in his own image,"
+            },
+            {
+              "rowId": 133,
+              "keyParts": [
+                133,
+                "q2_1",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "in the image of God he created him;"
+            },
+            {
+              "rowId": 134,
+              "keyParts": [
+                134,
+                "q2_2",
+                "verse",
+                "v27",
+                "note",
+                "x"
+              ],
+              "value": "#ch.2:18,21-23;5:2;Mal. 2:15;Matt. 19:4;Mark 10:6"
+            },
+            {
+              "rowId": 135,
+              "keyParts": [
+                135,
+                "q2_2",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "male and female he created them."
+            },
+            {
+              "rowId": 136,
+              "keyParts": [
+                "v027_ESV_GEN_001",
+                136,
+                "q1_1",
+                "verse",
+                "v27",
+                "plain_text"
+              ],
+              "value": "27 So God created man in his own image, in the image of God he created him; male and female he created them."
+            },
+            {
+              "rowId": 137,
+              "keyParts": [
+                137,
+                "p10",
+                "verse",
+                "v28",
+                "label"
+              ],
+              "value": "28"
+            },
+            {
+              "rowId": 138,
+              "keyParts": [
+                138,
+                "p10",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "And God blessed them. And God said to them,"
+            },
+            {
+              "rowId": 139,
+              "keyParts": [
+                139,
+                "p10",
+                "verse",
+                "v28",
+                "note",
+                "x"
+              ],
+              "value": "#ch.9:1,7"
+            },
+            {
+              "rowId": 140,
+              "keyParts": [
+                140,
+                "p10",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "“Be fruitful and multiply and fill the earth and subdue it, and have dominion over the fish of the sea and over the birds of the heavens and over every living thing that moves on the earth.”"
+            },
+            {
+              "rowId": 141,
+              "keyParts": [
+                "v028_ESV_GEN_001",
+                141,
+                "p10",
+                "verse",
+                "v28",
+                "plain_text"
+              ],
+              "value": "28 And God blessed them. And God said to them, “Be fruitful and multiply and fill the earth and subdue it, and have dominion over the fish of the sea and over the birds of the heavens and over every living thing that moves on the earth.”"
+            },
+            {
+              "rowId": 142,
+              "keyParts": [
+                142,
+                "p10",
+                "verse",
+                "v29",
+                "label"
+              ],
+              "value": "29"
+            },
+            {
+              "rowId": 143,
+              "keyParts": [
+                143,
+                "p10",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "And God said, “Behold, I have given you every plant yielding seed that is on the face of all the earth, and every tree with seed in its fruit."
+            },
+            {
+              "rowId": 144,
+              "keyParts": [
+                144,
+                "p10",
+                "verse",
+                "v29",
+                "note",
+                "x"
+              ],
+              "value": "#ch.9:3;Ps. 104:14,15;145:15,16"
+            },
+            {
+              "rowId": 145,
+              "keyParts": [
+                145,
+                "p10",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "You shall have them for food."
+            },
+            {
+              "rowId": 146,
+              "keyParts": [
+                "v029_ESV_GEN_001",
+                146,
+                "p10",
+                "verse",
+                "v29",
+                "plain_text"
+              ],
+              "value": "29 And God said, “Behold, I have given you every plant yielding seed that is on the face of all the earth, and every tree with seed in its fruit. You shall have them for food."
+            },
+            {
+              "rowId": 147,
+              "keyParts": [
+                147,
+                "p10",
+                "verse",
+                "v30",
+                "label"
+              ],
+              "value": "30"
+            },
+            {
+              "rowId": 148,
+              "keyParts": [
+                148,
+                "p10",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "And"
+            },
+            {
+              "rowId": 149,
+              "keyParts": [
+                149,
+                "p10",
+                "verse",
+                "v30",
+                "note",
+                "x"
+              ],
+              "value": "#Ps. 147:9"
+            },
+            {
+              "rowId": 150,
+              "keyParts": [
+                150,
+                "p10",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "to every beast of the earth and to every bird of the heavens and to everything that creeps on the earth, everything that has the breath of life, I have given every green plant for food.” And it was so."
+            },
+            {
+              "rowId": 151,
+              "keyParts": [
+                "v030_ESV_GEN_001",
+                151,
+                "p10",
+                "verse",
+                "v30",
+                "plain_text"
+              ],
+              "value": "30 And to every beast of the earth and to every bird of the heavens and to everything that creeps on the earth, everything that has the breath of life, I have given every green plant for food.” And it was so."
+            },
+            {
+              "rowId": 152,
+              "keyParts": [
+                152,
+                "p10",
+                "verse",
+                "v31",
+                "label"
+              ],
+              "value": "31"
+            },
+            {
+              "rowId": 153,
+              "keyParts": [
+                153,
+                "p10",
+                "verse",
+                "v31",
+                "note",
+                "x"
+              ],
+              "value": "#Eccles. 7:29;1 Tim. 4:4"
+            },
+            {
+              "rowId": 154,
+              "keyParts": [
+                154,
+                "p10",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "And God saw everything that he had made, and behold, it was very good. And there was evening and there was morning, the sixth day."
+            },
+            {
+              "rowId": 155,
+              "keyParts": [
+                "v031_ESV_GEN_001",
+                155,
+                "p10",
+                "verse",
+                "v31",
+                "plain_text"
+              ],
+              "value": "31 And God saw everything that he had made, and behold, it was very good. And there was evening and there was morning, the sixth day."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

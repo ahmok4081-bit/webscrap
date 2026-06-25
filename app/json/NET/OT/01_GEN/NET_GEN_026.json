@@ -1,0 +1,3184 @@
+{
+  "translationId": "NET",
+  "name": "New English Translation",
+  "abbreviation": "NET",
+  "language": "English",
+  "copyright": "1996 - 2007 by Biblical Studies Press, LLC",
+  "books": [
+    {
+      "bookId": "GEN",
+      "testament": "",
+      "order": 0,
+      "title": "Genesis",
+      "abbreviation": "GEN",
+      "chapters": [
+        {
+          "chapter": 26,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "26"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Isaac and Abimelech"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "There was a famine in the land, subsequent to the earlier famine that occurred"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “in addition to the first famine which was.”"
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "in the days of Abraham."
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                7,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "f"
+              ],
+              "value": "sn This account is parallel to two similar stories about Abraham (see Gen 12:10-20; 20:1-18). Many scholars do not believe there were three similar incidents, only one that got borrowed and duplicated. Many regard the account about Isaac as the original, which then was attached to the more important person, Abraham, with supernatural elements being added. For a critique of such an approach, see R. Alter, The Art of Biblical Narrative, 47-62. It is more likely that the story illustrates the proverb “like father, like son” (see T. W. Mann, The Book of the Torah, 53). In typical human fashion the son follows his father’s example of lying to avoid problems. The appearance of similar events reported in a similar way underscores the fact that the blessing has now passed to Isaac, even if he fails as his father did."
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "Isaac went to Abimelech king of the Philistines at Gerar."
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                "v001_NET_GEN_026",
+                9,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 There was a famine in the land, subsequent to the earlier famine that occurred in the days of Abraham. Isaac went to Abimelech king of the Philistines at Gerar."
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                11,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "The"
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                12,
+                "p1",
+                "verse",
+                "v2",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                13,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "appeared to Isaac and said, “Do not go down to Egypt;"
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "f"
+              ],
+              "value": "sn Do not go down to Egypt. The words echo Gen 12:10, which reports that “Abram went down to Egypt,” but state the opposite."
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                15,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "settle down in the land that I will point out to you."
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                16,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “say to you.”"
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                "v002_NET_GEN_026",
+                17,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 The Lord appeared to Isaac and said, “Do not go down to Egypt; settle down in the land that I will point out to you."
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "p1",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "Stay"
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                20,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "f"
+              ],
+              "value": "tn The Hebrew verb גּוּר (gur) means “to live temporarily without ownership of land.” Abraham’s family will not actually possess the land of Canaan until the Israelite conquest hundreds of years later."
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "in this land. Then I will be with you and will bless you,"
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                22,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "f"
+              ],
+              "value": "tn After the imperative “stay” the two prefixed verb forms with prefixed conjunction here indicate consequence.\nsn I will be with you and I will bless you. The promise of divine presence is a promise to intervene to protect and to bless."
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "for I will give all these lands to you and to your descendants,"
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                24,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "f"
+              ],
+              "value": "tn The Hebrew term זֶרַע (zera’) occurring here and in v. 18 may mean “seed” (for planting), “offspring” (occasionally of animals, but usually of people), or “descendants” depending on the context.\nsn To you and to your descendants. The Abrahamic blessing will pass to Isaac. Everything included in that blessing will now belong to the son, and in turn will be passed on to his sons. But there is a contingency involved: If they are to enjoy the full blessings, they will have to obey the word of the Lord. And so obedience is enjoined here with the example of how well Abraham obeyed."
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "and I will fulfill"
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                26,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "f"
+              ],
+              "value": "tn The Hiphil stem of the verb קוּם (qum) here means “to fulfill, to bring to realization.” For other examples of this use of this verb form, see Lev 26:9; Num 23:19; Deut 8:18; 9:5; 1 Sam 1:23; 1 Kgs 6:12; Jer 11:5."
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                27,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "the solemn promise I made"
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                28,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “the oath which I swore.”\nsn The solemn promise I made. See Gen 15:18-20; 22:16-18."
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                29,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "to your father Abraham."
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                "v003_NET_GEN_026",
+                30,
+                "p1",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 Stay in this land. Then I will be with you and will bless you, for I will give all these lands to you and to your descendants, and I will fulfill the solemn promise I made to your father Abraham."
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                31,
+                "p1",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "I will multiply your descendants so they will be as numerous as the stars in the sky, and I will give them"
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                33,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “your descendants.”"
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                34,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "all these lands. All the nations of the earth will pronounce blessings on one another using the name of your descendants."
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                35,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "f"
+              ],
+              "value": "tn Traditionally the verb is taken as passive (“will be blessed”) here, as if Abraham’s descendants were going to be a channel or source of blessing to the nations. But the Hitpael is better understood here as reflexive/reciprocal, “will bless [i.e., pronounce blessings on] themselves/one another” (see also Gen 22:18). Elsewhere the Hitpael of the verb “to bless” is used with a reflexive/reciprocal sense in Deut 29:18; Ps 72:17; Isa 65:16; Jer 4:2. Gen 12:2 predicts that Abram will be held up as a paradigm of divine blessing and that people will use his name in their blessing formulae. For examples of blessing formulae utilizing an individual as an example of blessing see Gen 48:20 and Ruth 4:11. Earlier formulations of this promise (see Gen 12:2; 18:18) use the Niphal stem. (See also Gen 28:14.)"
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                "v004_NET_GEN_026",
+                36,
+                "p1",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 I will multiply your descendants so they will be as numerous as the stars in the sky, and I will give them all these lands. All the nations of the earth will pronounce blessings on one another using the name of your descendants."
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                37,
+                "p1",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                38,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "All this will come to pass"
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                39,
+                "p1",
+                "verse",
+                "v5",
+                "note",
+                "f"
+              ],
+              "value": "tn The words “All this will come to pass” are not in the Hebrew text, but are supplied for stylistic reasons."
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                40,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "because Abraham obeyed me"
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p1",
+                "verse",
+                "v5",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “listened to my voice.”"
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "and kept my charge, my commandments, my statutes, and my laws.”"
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                43,
+                "p1",
+                "verse",
+                "v5",
+                "note",
+                "f"
+              ],
+              "value": "sn My charge, my commandments, my statutes, and my laws. The language of this verse is clearly interpretive, for Abraham did not have all these laws. The terms are legal designations for sections of the Mosaic law and presuppose the existence of the law. Some Rabbinic views actually conclude that Abraham had fulfilled the whole law before it was given (see m. Qiddushin 4:14). Some scholars argue that this story could only have been written after the law was given (C. Westermann, Genesis, 2:424-25). But the simplest explanation is that the narrator (traditionally taken to be Moses the Lawgiver) elaborated on the simple report of Abraham’s obedience by using terms with which the Israelites were familiar. In this way he depicts Abraham as the model of obedience to God’s commands, whose example Israel should follow."
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                "v005_NET_GEN_026",
+                44,
+                "p1",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 All this will come to pass because Abraham obeyed me and kept my charge, my commandments, my statutes, and my laws.”"
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                45,
+                "p1",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                46,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "So Isaac settled in Gerar."
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                "v006_NET_GEN_026",
+                47,
+                "p1",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 So Isaac settled in Gerar."
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                48,
+                "p2",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                49,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "When the men of that place asked him about his wife, he replied, “She is my sister.”"
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "p2",
+                "verse",
+                "v7",
+                "note",
+                "f"
+              ],
+              "value": "sn Rebekah, unlike Sarah, was not actually her husband’s sister."
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                51,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "He was afraid to say, “She is my wife,” for he thought to himself,"
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                52,
+                "p2",
+                "verse",
+                "v7",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “lest.” The words “for he thought to himself” are supplied because the next clause is written with a first person pronoun, showing that Isaac was saying or thinking this."
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                53,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "“The men of this place will kill me to get"
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                54,
+                "p2",
+                "verse",
+                "v7",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “kill me on account of.”"
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                55,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "Rebekah because she is very beautiful.”"
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                "v007_NET_GEN_026",
+                56,
+                "p2",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 When the men of that place asked him about his wife, he replied, “She is my sister.” He was afraid to say, “She is my wife,” for he thought to himself, “The men of this place will kill me to get Rebekah because she is very beautiful.”"
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                57,
+                "p3",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                58,
+                "p3",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "After Isaac"
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                59,
+                "p3",
+                "verse",
+                "v8",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and he”; the referent (Isaac) has been specified in the translation for clarity."
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                60,
+                "p3",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "had been there a long time,"
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                61,
+                "p3",
+                "verse",
+                "v8",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and it happened when the days were long to him there.”"
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                62,
+                "p3",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "Abimelech king of the Philistines happened to look out a window and observed"
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                63,
+                "p3",
+                "verse",
+                "v8",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “look, Isaac.” By the use of the particle הִנֵּה (hinneh, “look”), the narrator invites the audience to view the scene through Abimelech’s eyes."
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                64,
+                "p3",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "Isaac caressing"
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                65,
+                "p3",
+                "verse",
+                "v8",
+                "note",
+                "f"
+              ],
+              "value": "tn Or “fondling.”\nsn The Hebrew word מְצַחֵק (mÿtsakheq), from the root צָחַק (tsakhaq, “laugh”), forms a sound play with the name “Isaac” right before it. Here it depicts an action, probably caressing or fondling, that indicated immediately that Rebekah was Isaac’s wife, not his sister. Isaac’s deception made a mockery of God’s covenantal promise. Ignoring God’s promise to protect and bless him, Isaac lied to protect himself and acted in bad faith to the men of Gerar."
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                66,
+                "p3",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "his wife Rebekah."
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                "v008_NET_GEN_026",
+                67,
+                "p3",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 After Isaac had been there a long time, Abimelech king of the Philistines happened to look out a window and observed Isaac caressing his wife Rebekah."
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                68,
+                "p3",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                69,
+                "p3",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "So Abimelech summoned Isaac and said, “She is really"
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                70,
+                "p3",
+                "verse",
+                "v9",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “Surely, look!” See N. H. Snaith, “The meaning of Hebrew ‘ak,” VT 14 (1964): 221-25."
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                71,
+                "p3",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "your wife! Why did you say, ‘She is my sister’?” Isaac replied, “Because I thought someone might kill me to get her.”"
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                72,
+                "p3",
+                "verse",
+                "v9",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “Because I said, ‘Lest I die on account of her.’” Since the verb “said” probably means “said to myself” (i.e., “thought”) here, the direct discourse in the Hebrew statement has been converted to indirect discourse in the translation. In addition the simple prepositional phrase “on account of her” has been clarified in the translation as “to get her” (cf. v. 7)."
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                "v009_NET_GEN_026",
+                73,
+                "p3",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 So Abimelech summoned Isaac and said, “She is really your wife! Why did you say, ‘She is my sister’?” Isaac replied, “Because I thought someone might kill me to get her.”"
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                74,
+                "p4",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                75,
+                "p4",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "Then Abimelech exclaimed, “What in the world have you done to us?"
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                76,
+                "p4",
+                "verse",
+                "v10",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “What is this you have done to us?” The Hebrew demonstrative pronoun “this” adds emphasis: “What in the world have you done to us?” (R. J. Williams, Hebrew Syntax, 24, §118)."
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                77,
+                "p4",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "One of the men"
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                78,
+                "p4",
+                "verse",
+                "v10",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “people.”"
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                79,
+                "p4",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "might easily have had sexual relations with"
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                80,
+                "p4",
+                "verse",
+                "v10",
+                "note",
+                "f"
+              ],
+              "value": "tn The Hebrew verb means “to lie down.” Here the expression “lie with” or “sleep with” is euphemistic for “have sexual relations with.”"
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                81,
+                "p4",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "your wife, and you would have brought guilt on us!”"
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                "v010_NET_GEN_026",
+                82,
+                "p4",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 Then Abimelech exclaimed, “What in the world have you done to us? One of the men might easily have had sexual relations with your wife, and you would have brought guilt on us!”"
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                83,
+                "p4",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                84,
+                "p4",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "So Abimelech commanded all the people, “Whoever touches"
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                85,
+                "p4",
+                "verse",
+                "v11",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “strikes.” Here the verb has the nuance “to harm in any way.” It would include assaulting the woman or killing the man."
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                86,
+                "p4",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "this man or his wife will surely be put to death.”"
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                87,
+                "p4",
+                "verse",
+                "v11",
+                "note",
+                "f"
+              ],
+              "value": "tn The use of the infinitive absolute before the imperfect makes the construction emphatic."
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                "v011_NET_GEN_026",
+                88,
+                "p4",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 So Abimelech commanded all the people, “Whoever touches this man or his wife will surely be put to death.”"
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                89,
+                "p5",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                90,
+                "p5",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "When Isaac planted in that land, he reaped in the same year a hundred times what he had sown,"
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                91,
+                "p5",
+                "verse",
+                "v12",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “a hundredfold.”"
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                92,
+                "p5",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "because the"
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                93,
+                "p5",
+                "verse",
+                "v12",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                94,
+                "p5",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "blessed him."
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                95,
+                "p5",
+                "verse",
+                "v12",
+                "note",
+                "f"
+              ],
+              "value": "tn This final clause explains why Isaac had such a bountiful harvest."
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                "v012_NET_GEN_026",
+                96,
+                "p5",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 When Isaac planted in that land, he reaped in the same year a hundred times what he had sown, because the Lord blessed him."
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                97,
+                "p5",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                98,
+                "p5",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "The man became wealthy."
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                99,
+                "p5",
+                "verse",
+                "v13",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “great.” In this context the statement refers primarily to Isaac’s material wealth, although reputation and influence are included."
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                100,
+                "p5",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "His influence continued to grow"
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                101,
+                "p5",
+                "verse",
+                "v13",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and he went, going and becoming great.” The construction stresses that his growth in possessions and power continued steadily."
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                102,
+                "p5",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "until he became very prominent."
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                "v013_NET_GEN_026",
+                103,
+                "p5",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 The man became wealthy. His influence continued to grow until he became very prominent."
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                104,
+                "p5",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                105,
+                "p5",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "He had"
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                106,
+                "p5",
+                "verse",
+                "v14",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and there was to him.”"
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                107,
+                "p5",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "so many sheep"
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                108,
+                "p5",
+                "verse",
+                "v14",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “possessions of sheep.”"
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                109,
+                "p5",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "and cattle"
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                110,
+                "p5",
+                "verse",
+                "v14",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “possessions of cattle.”"
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                111,
+                "p5",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "and such a great household of servants that the Philistines became jealous"
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                112,
+                "p5",
+                "verse",
+                "v14",
+                "note",
+                "f"
+              ],
+              "value": "tn The Hebrew verb translated “became jealous” refers here to intense jealousy or envy that leads to hostile action (see v. 15)."
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                113,
+                "p5",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "of him."
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                "v014_NET_GEN_026",
+                114,
+                "p5",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 He had so many sheep and cattle and such a great household of servants that the Philistines became jealous of him."
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                115,
+                "p5",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                116,
+                "p5",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "So the Philistines took dirt and filled up"
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                117,
+                "p5",
+                "verse",
+                "v15",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and the Philistines stopped them up and filled them with dirt.”"
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                118,
+                "p5",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "all the wells that his father’s servants had dug back in the days of his father Abraham."
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                "v015_NET_GEN_026",
+                119,
+                "p5",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 So the Philistines took dirt and filled up all the wells that his father’s servants had dug back in the days of his father Abraham."
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                120,
+                "p6",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 121,
+              "keyParts": [
+                121,
+                "p6",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "Then Abimelech said to Isaac, “Leave us and go elsewhere,"
+            },
+            {
+              "rowId": 122,
+              "keyParts": [
+                122,
+                "p6",
+                "verse",
+                "v16",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “Go away from us.”"
+            },
+            {
+              "rowId": 123,
+              "keyParts": [
+                123,
+                "p6",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "for you have become much more powerful"
+            },
+            {
+              "rowId": 124,
+              "keyParts": [
+                124,
+                "p6",
+                "verse",
+                "v16",
+                "note",
+                "f"
+              ],
+              "value": "sn You have become much more powerful. This explanation for the expulsion of Isaac from Philistine territory foreshadows the words used later by the Egyptians to justify their oppression of Israel (see Exod 1:9)."
+            },
+            {
+              "rowId": 125,
+              "keyParts": [
+                125,
+                "p6",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "than we are.”"
+            },
+            {
+              "rowId": 126,
+              "keyParts": [
+                "v016_NET_GEN_026",
+                126,
+                "p6",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 Then Abimelech said to Isaac, “Leave us and go elsewhere, for you have become much more powerful than we are.”"
+            },
+            {
+              "rowId": 127,
+              "keyParts": [
+                127,
+                "p6",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 128,
+              "keyParts": [
+                128,
+                "p6",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "So Isaac left there and settled in the Gerar Valley."
+            },
+            {
+              "rowId": 129,
+              "keyParts": [
+                129,
+                "p6",
+                "verse",
+                "v17",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and he camped in the valley of Gerar and he lived there.”\nsn This valley was actually a wadi (a dry river bed where the water would flow in the rainy season, but this would have been rare in the Negev). The water table under it would have been higher than in the desert because of water soaking in during the torrents, making it easier to find water when digging wells. However, this does not minimize the blessing of the Lord, for the men of the region knew this too, but did not have the same results."
+            },
+            {
+              "rowId": 130,
+              "keyParts": [
+                "v017_NET_GEN_026",
+                130,
+                "p6",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 So Isaac left there and settled in the Gerar Valley."
+            },
+            {
+              "rowId": 131,
+              "keyParts": [
+                131,
+                "p6",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 132,
+              "keyParts": [
+                132,
+                "p6",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "Isaac reopened"
+            },
+            {
+              "rowId": 133,
+              "keyParts": [
+                133,
+                "p6",
+                "verse",
+                "v18",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “he returned and dug,” meaning “he dug again” or “he reopened.”"
+            },
+            {
+              "rowId": 134,
+              "keyParts": [
+                134,
+                "p6",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "the wells that had been dug"
+            },
+            {
+              "rowId": 135,
+              "keyParts": [
+                135,
+                "p6",
+                "verse",
+                "v18",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “that they dug.” Since the subject is indefinite, the verb is translated as passive."
+            },
+            {
+              "rowId": 136,
+              "keyParts": [
+                136,
+                "p6",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "back in the days of his father Abraham, for the Philistines had stopped them up"
+            },
+            {
+              "rowId": 137,
+              "keyParts": [
+                137,
+                "p6",
+                "verse",
+                "v18",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and the Philistines had stopped them up.” This clause explains why Isaac had to reopen them."
+            },
+            {
+              "rowId": 138,
+              "keyParts": [
+                138,
+                "p6",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "after Abraham died. Isaac"
+            },
+            {
+              "rowId": 139,
+              "keyParts": [
+                139,
+                "p6",
+                "verse",
+                "v18",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and he”; the referent (Isaac) has been specified in the translation for clarity."
+            },
+            {
+              "rowId": 140,
+              "keyParts": [
+                140,
+                "p6",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "gave these wells"
+            },
+            {
+              "rowId": 141,
+              "keyParts": [
+                141,
+                "p6",
+                "verse",
+                "v18",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “them”; the referent (the wells) has been specified in the translation for clarity."
+            },
+            {
+              "rowId": 142,
+              "keyParts": [
+                142,
+                "p6",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "the same names his father had given them."
+            },
+            {
+              "rowId": 143,
+              "keyParts": [
+                143,
+                "p6",
+                "verse",
+                "v18",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “called names to them according to the names that his father called them.”"
+            },
+            {
+              "rowId": 144,
+              "keyParts": [
+                "v018_NET_GEN_026",
+                144,
+                "p6",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 Isaac reopened the wells that had been dug back in the days of his father Abraham, for the Philistines had stopped them up after Abraham died. Isaac gave these wells the same names his father had given them."
+            },
+            {
+              "rowId": 145,
+              "keyParts": [
+                145,
+                "p7",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 146,
+              "keyParts": [
+                146,
+                "p7",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "When Isaac’s servants dug in the valley and discovered a well with fresh flowing"
+            },
+            {
+              "rowId": 147,
+              "keyParts": [
+                147,
+                "p7",
+                "verse",
+                "v19",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “living.” This expression refers to a well supplied by subterranean streams (see Song 4:15)."
+            },
+            {
+              "rowId": 148,
+              "keyParts": [
+                148,
+                "p7",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "water there,"
+            },
+            {
+              "rowId": 149,
+              "keyParts": [
+                "v019_NET_GEN_026",
+                149,
+                "p7",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 When Isaac’s servants dug in the valley and discovered a well with fresh flowing water there,"
+            },
+            {
+              "rowId": 150,
+              "keyParts": [
+                150,
+                "p7",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 151,
+              "keyParts": [
+                151,
+                "p7",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "the herdsmen of Gerar quarreled"
+            },
+            {
+              "rowId": 152,
+              "keyParts": [
+                152,
+                "p7",
+                "verse",
+                "v20",
+                "note",
+                "f"
+              ],
+              "value": "tn The Hebrew verb translated “quarreled” describes a conflict that often has legal ramifications."
+            },
+            {
+              "rowId": 153,
+              "keyParts": [
+                153,
+                "p7",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "with Isaac’s herdsmen, saying, “The water belongs to us!” So Isaac"
+            },
+            {
+              "rowId": 154,
+              "keyParts": [
+                154,
+                "p7",
+                "verse",
+                "v20",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and he”; the referent (Isaac) has been specified in the translation for clarity."
+            },
+            {
+              "rowId": 155,
+              "keyParts": [
+                155,
+                "p7",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "named the well"
+            },
+            {
+              "rowId": 156,
+              "keyParts": [
+                156,
+                "p7",
+                "verse",
+                "v20",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and he called the name of the well.”"
+            },
+            {
+              "rowId": 157,
+              "keyParts": [
+                157,
+                "p7",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "Esek"
+            },
+            {
+              "rowId": 158,
+              "keyParts": [
+                158,
+                "p7",
+                "verse",
+                "v20",
+                "note",
+                "f"
+              ],
+              "value": "sn The name Esek means “argument” in Hebrew. The following causal clause explains that Isaac gave the well this name as a reminder of the conflict its discovery had created. In the Hebrew text there is a wordplay, for the name is derived from the verb translated “argued.”"
+            },
+            {
+              "rowId": 159,
+              "keyParts": [
+                159,
+                "p7",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "because they argued with him about it."
+            },
+            {
+              "rowId": 160,
+              "keyParts": [
+                160,
+                "p7",
+                "verse",
+                "v20",
+                "note",
+                "f"
+              ],
+              "value": "tn The words “about it” are supplied in the translation for stylistic reasons."
+            },
+            {
+              "rowId": 161,
+              "keyParts": [
+                "v020_NET_GEN_026",
+                161,
+                "p7",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 the herdsmen of Gerar quarreled with Isaac’s herdsmen, saying, “The water belongs to us!” So Isaac named the well Esek because they argued with him about it."
+            },
+            {
+              "rowId": 162,
+              "keyParts": [
+                162,
+                "p7",
+                "verse",
+                "v21",
+                "label"
+              ],
+              "value": "21"
+            },
+            {
+              "rowId": 163,
+              "keyParts": [
+                163,
+                "p7",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "His servants"
+            },
+            {
+              "rowId": 164,
+              "keyParts": [
+                164,
+                "p7",
+                "verse",
+                "v21",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “they”; the referent (Isaac’s servants) has been specified in the translation for clarity."
+            },
+            {
+              "rowId": 165,
+              "keyParts": [
+                165,
+                "p7",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "dug another well, but they quarreled over it too, so Isaac named it"
+            },
+            {
+              "rowId": 166,
+              "keyParts": [
+                166,
+                "p7",
+                "verse",
+                "v21",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and he called its name.” The referent (Isaac) has been specified in the translation for clarity."
+            },
+            {
+              "rowId": 167,
+              "keyParts": [
+                167,
+                "p7",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "Sitnah."
+            },
+            {
+              "rowId": 168,
+              "keyParts": [
+                168,
+                "p7",
+                "verse",
+                "v21",
+                "note",
+                "f"
+              ],
+              "value": "sn The name Sitnah (שִׂטְנָה, sitnah) is derived from a Hebrew verbal root meaning “to oppose; to be an adversary” (cf. Job 1:6). The name was a reminder that the digging of this well caused “opposition” from the Philistines."
+            },
+            {
+              "rowId": 169,
+              "keyParts": [
+                "v021_NET_GEN_026",
+                169,
+                "p7",
+                "verse",
+                "v21",
+                "plain_text"
+              ],
+              "value": "21 His servants dug another well, but they quarreled over it too, so Isaac named it Sitnah."
+            },
+            {
+              "rowId": 170,
+              "keyParts": [
+                170,
+                "p7",
+                "verse",
+                "v22",
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 171,
+              "keyParts": [
+                171,
+                "p7",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "Then he moved away from there and dug another well. They did not quarrel over it, so Isaac"
+            },
+            {
+              "rowId": 172,
+              "keyParts": [
+                172,
+                "p7",
+                "verse",
+                "v22",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and he”; the referent (Isaac) has been specified in the translation for clarity."
+            },
+            {
+              "rowId": 173,
+              "keyParts": [
+                173,
+                "p7",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "named it"
+            },
+            {
+              "rowId": 174,
+              "keyParts": [
+                174,
+                "p7",
+                "verse",
+                "v22",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and he called its name.”"
+            },
+            {
+              "rowId": 175,
+              "keyParts": [
+                175,
+                "p7",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "Rehoboth,"
+            },
+            {
+              "rowId": 176,
+              "keyParts": [
+                176,
+                "p7",
+                "verse",
+                "v22",
+                "note",
+                "f"
+              ],
+              "value": "sn The name Rehoboth (רְהֹבוֹת, rehovot) is derived from a verbal root meaning “to make room.” The name was a reminder that God had made room for them. The story shows Isaac’s patience with the opposition; it also shows how God’s blessing outdistanced the men of Gerar. They could not stop it or seize it any longer."
+            },
+            {
+              "rowId": 177,
+              "keyParts": [
+                177,
+                "p7",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "saying, “For now the"
+            },
+            {
+              "rowId": 178,
+              "keyParts": [
+                178,
+                "p7",
+                "verse",
+                "v22",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 179,
+              "keyParts": [
+                179,
+                "p7",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "has made room for us, and we will prosper in the land.”"
+            },
+            {
+              "rowId": 180,
+              "keyParts": [
+                "v022_NET_GEN_026",
+                180,
+                "p7",
+                "verse",
+                "v22",
+                "plain_text"
+              ],
+              "value": "22 Then he moved away from there and dug another well. They did not quarrel over it, so Isaac named it Rehoboth, saying, “For now the Lord has made room for us, and we will prosper in the land.”"
+            },
+            {
+              "rowId": 181,
+              "keyParts": [
+                181,
+                "p8",
+                "verse",
+                "v23",
+                "label"
+              ],
+              "value": "23"
+            },
+            {
+              "rowId": 182,
+              "keyParts": [
+                182,
+                "p8",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "From there Isaac"
+            },
+            {
+              "rowId": 183,
+              "keyParts": [
+                183,
+                "p8",
+                "verse",
+                "v23",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and he went up from there”; the referent (Isaac) has been specified in the translation for clarity."
+            },
+            {
+              "rowId": 184,
+              "keyParts": [
+                184,
+                "p8",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "went up to Beer Sheba."
+            },
+            {
+              "rowId": 185,
+              "keyParts": [
+                "v023_NET_GEN_026",
+                185,
+                "p8",
+                "verse",
+                "v23",
+                "plain_text"
+              ],
+              "value": "23 From there Isaac went up to Beer Sheba."
+            },
+            {
+              "rowId": 186,
+              "keyParts": [
+                186,
+                "p8",
+                "verse",
+                "v24",
+                "label"
+              ],
+              "value": "24"
+            },
+            {
+              "rowId": 187,
+              "keyParts": [
+                187,
+                "p8",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "The"
+            },
+            {
+              "rowId": 188,
+              "keyParts": [
+                188,
+                "p8",
+                "verse",
+                "v24",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 189,
+              "keyParts": [
+                189,
+                "p8",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "appeared to him that night and said, “I am the God of your father Abraham. Do not be afraid, for I am with you. I will bless you and multiply your descendants for the sake of my servant Abraham.”"
+            },
+            {
+              "rowId": 190,
+              "keyParts": [
+                "v024_NET_GEN_026",
+                190,
+                "p8",
+                "verse",
+                "v24",
+                "plain_text"
+              ],
+              "value": "24 The Lord appeared to him that night and said, “I am the God of your father Abraham. Do not be afraid, for I am with you. I will bless you and multiply your descendants for the sake of my servant Abraham.”"
+            },
+            {
+              "rowId": 191,
+              "keyParts": [
+                191,
+                "p8",
+                "verse",
+                "v25",
+                "label"
+              ],
+              "value": "25"
+            },
+            {
+              "rowId": 192,
+              "keyParts": [
+                192,
+                "p8",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "Then Isaac built an altar there and worshiped"
+            },
+            {
+              "rowId": 193,
+              "keyParts": [
+                193,
+                "p8",
+                "verse",
+                "v25",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “called in the name of.” The expression refers to worshiping the Lord through prayer and sacrifice (see Gen 4:26; 12:8; 13:4; 21:33). See G. J. Wenham, Genesis (WBC), 1:116."
+            },
+            {
+              "rowId": 194,
+              "keyParts": [
+                194,
+                "p8",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "the"
+            },
+            {
+              "rowId": 195,
+              "keyParts": [
+                195,
+                "p8",
+                "verse",
+                "v25",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 196,
+              "keyParts": [
+                196,
+                "p8",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": ". He pitched his tent there, and his servants dug a well."
+            },
+            {
+              "rowId": 197,
+              "keyParts": [
+                197,
+                "p8",
+                "verse",
+                "v25",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and they dug there, the servants of Isaac, a well.”"
+            },
+            {
+              "rowId": 198,
+              "keyParts": [
+                "v025_NET_GEN_026",
+                198,
+                "p8",
+                "verse",
+                "v25",
+                "plain_text"
+              ],
+              "value": "25 Then Isaac built an altar there and worshiped the Lord . He pitched his tent there, and his servants dug a well."
+            },
+            {
+              "rowId": 199,
+              "keyParts": [
+                199,
+                "p9",
+                "verse",
+                "v26",
+                "label"
+              ],
+              "value": "26"
+            },
+            {
+              "rowId": 200,
+              "keyParts": [
+                200,
+                "p9",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "Now Abimelech had come"
+            },
+            {
+              "rowId": 201,
+              "keyParts": [
+                201,
+                "p9",
+                "verse",
+                "v26",
+                "note",
+                "f"
+              ],
+              "value": "tn The disjunctive clause supplies pertinent supplemental information. The past perfect is used because the following narrative records the treaty at Beer Sheba. Prior to this we are told that Isaac settled in Beer Sheba; presumably this treaty would have allowed him to do that. However, it may be that he settled there and then made the treaty by which he renamed the place Beer Sheba. In this case one may translate “Now Abimelech came to him.”"
+            },
+            {
+              "rowId": 202,
+              "keyParts": [
+                202,
+                "p9",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "to him from Gerar along with"
+            },
+            {
+              "rowId": 203,
+              "keyParts": [
+                203,
+                "p9",
+                "verse",
+                "v26",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and.”"
+            },
+            {
+              "rowId": 204,
+              "keyParts": [
+                204,
+                "p9",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "Ahuzzah his friend"
+            },
+            {
+              "rowId": 205,
+              "keyParts": [
+                205,
+                "p9",
+                "verse",
+                "v26",
+                "note",
+                "f"
+              ],
+              "value": "tn Many modern translations render the Hebrew term מֵרֵעַ (merea’) as “councillor” or “adviser,” but the term may not designate an official position but simply a close personal friend."
+            },
+            {
+              "rowId": 206,
+              "keyParts": [
+                206,
+                "p9",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "and Phicol the commander of his army."
+            },
+            {
+              "rowId": 207,
+              "keyParts": [
+                "v026_NET_GEN_026",
+                207,
+                "p9",
+                "verse",
+                "v26",
+                "plain_text"
+              ],
+              "value": "26 Now Abimelech had come to him from Gerar along with Ahuzzah his friend and Phicol the commander of his army."
+            },
+            {
+              "rowId": 208,
+              "keyParts": [
+                208,
+                "p9",
+                "verse",
+                "v27",
+                "label"
+              ],
+              "value": "27"
+            },
+            {
+              "rowId": 209,
+              "keyParts": [
+                209,
+                "p9",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "Isaac asked them, “Why have you come to me? You hate me"
+            },
+            {
+              "rowId": 210,
+              "keyParts": [
+                210,
+                "p9",
+                "verse",
+                "v27",
+                "note",
+                "f"
+              ],
+              "value": "tn The disjunctive clause is circumstantial, expressing the reason for his question."
+            },
+            {
+              "rowId": 211,
+              "keyParts": [
+                211,
+                "p9",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "and sent me away from you.”"
+            },
+            {
+              "rowId": 212,
+              "keyParts": [
+                "v027_NET_GEN_026",
+                212,
+                "p9",
+                "verse",
+                "v27",
+                "plain_text"
+              ],
+              "value": "27 Isaac asked them, “Why have you come to me? You hate me and sent me away from you.”"
+            },
+            {
+              "rowId": 213,
+              "keyParts": [
+                213,
+                "p9",
+                "verse",
+                "v28",
+                "label"
+              ],
+              "value": "28"
+            },
+            {
+              "rowId": 214,
+              "keyParts": [
+                214,
+                "p9",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "They replied, “We could plainly see"
+            },
+            {
+              "rowId": 215,
+              "keyParts": [
+                215,
+                "p9",
+                "verse",
+                "v28",
+                "note",
+                "f"
+              ],
+              "value": "tn The infinitive absolute before the verb emphasizes the clarity of their perception."
+            },
+            {
+              "rowId": 216,
+              "keyParts": [
+                216,
+                "p9",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "that the"
+            },
+            {
+              "rowId": 217,
+              "keyParts": [
+                217,
+                "p9",
+                "verse",
+                "v28",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 218,
+              "keyParts": [
+                218,
+                "p9",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "is with you. So we decided there should be"
+            },
+            {
+              "rowId": 219,
+              "keyParts": [
+                219,
+                "p9",
+                "verse",
+                "v28",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “And we said, ‘Let there be.’” The direct discourse in the Hebrew text has been rendered as indirect discourse in the translation for stylistic reasons."
+            },
+            {
+              "rowId": 220,
+              "keyParts": [
+                220,
+                "p9",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "a pact between us"
+            },
+            {
+              "rowId": 221,
+              "keyParts": [
+                221,
+                "p9",
+                "verse",
+                "v28",
+                "note",
+                "f"
+              ],
+              "value": "tn The pronoun “us” here is inclusive – it refers to the Philistine contingent on the one hand and Isaac on the other."
+            },
+            {
+              "rowId": 222,
+              "keyParts": [
+                222,
+                "p9",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "– between us"
+            },
+            {
+              "rowId": 223,
+              "keyParts": [
+                223,
+                "p9",
+                "verse",
+                "v28",
+                "note",
+                "f"
+              ],
+              "value": "tn The pronoun “us” here is exclusive – it refers to just the Philistine contingent (the following “you” refers to Isaac)."
+            },
+            {
+              "rowId": 224,
+              "keyParts": [
+                224,
+                "p9",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "and you. Allow us to make"
+            },
+            {
+              "rowId": 225,
+              "keyParts": [
+                225,
+                "p9",
+                "verse",
+                "v28",
+                "note",
+                "f"
+              ],
+              "value": "tn The translation assumes that the cohortative expresses their request. Another option is to understand the cohortative as indicating resolve: “We want to make.’”"
+            },
+            {
+              "rowId": 226,
+              "keyParts": [
+                226,
+                "p9",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "a treaty with you"
+            },
+            {
+              "rowId": 227,
+              "keyParts": [
+                "v028_NET_GEN_026",
+                227,
+                "p9",
+                "verse",
+                "v28",
+                "plain_text"
+              ],
+              "value": "28 They replied, “We could plainly see that the Lord is with you. So we decided there should be a pact between us – between us and you. Allow us to make a treaty with you"
+            },
+            {
+              "rowId": 228,
+              "keyParts": [
+                228,
+                "p9",
+                "verse",
+                "v29",
+                "label"
+              ],
+              "value": "29"
+            },
+            {
+              "rowId": 229,
+              "keyParts": [
+                229,
+                "p9",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "so that"
+            },
+            {
+              "rowId": 230,
+              "keyParts": [
+                230,
+                "p9",
+                "verse",
+                "v29",
+                "note",
+                "f"
+              ],
+              "value": "tn The oath formula is used: “if you do us harm” means “so that you will not do.”"
+            },
+            {
+              "rowId": 231,
+              "keyParts": [
+                231,
+                "p9",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "you will not do us any harm, just as we have not harmed"
+            },
+            {
+              "rowId": 232,
+              "keyParts": [
+                232,
+                "p9",
+                "verse",
+                "v29",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “touched.”"
+            },
+            {
+              "rowId": 233,
+              "keyParts": [
+                233,
+                "p9",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "you, but have always treated you well"
+            },
+            {
+              "rowId": 234,
+              "keyParts": [
+                234,
+                "p9",
+                "verse",
+                "v29",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and just as we have done only good with you.”"
+            },
+            {
+              "rowId": 235,
+              "keyParts": [
+                235,
+                "p9",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "before sending you away"
+            },
+            {
+              "rowId": 236,
+              "keyParts": [
+                236,
+                "p9",
+                "verse",
+                "v29",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and we sent you away.”"
+            },
+            {
+              "rowId": 237,
+              "keyParts": [
+                237,
+                "p9",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "in peace. Now you are blessed by the"
+            },
+            {
+              "rowId": 238,
+              "keyParts": [
+                238,
+                "p9",
+                "verse",
+                "v29",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 239,
+              "keyParts": [
+                239,
+                "p9",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": ".”"
+            },
+            {
+              "rowId": 240,
+              "keyParts": [
+                240,
+                "p9",
+                "verse",
+                "v29",
+                "note",
+                "f"
+              ],
+              "value": "tn The Philistine leaders are making an observation, not pronouncing a blessing, so the translation reads “you are blessed” rather than “may you be blessed” (cf. NAB)."
+            },
+            {
+              "rowId": 241,
+              "keyParts": [
+                "v029_NET_GEN_026",
+                241,
+                "p9",
+                "verse",
+                "v29",
+                "plain_text"
+              ],
+              "value": "29 so that you will not do us any harm, just as we have not harmed you, but have always treated you well before sending you away in peace. Now you are blessed by the Lord .”"
+            },
+            {
+              "rowId": 242,
+              "keyParts": [
+                242,
+                "p10",
+                "verse",
+                "v30",
+                "label"
+              ],
+              "value": "30"
+            },
+            {
+              "rowId": 243,
+              "keyParts": [
+                243,
+                "p10",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "So Isaac"
+            },
+            {
+              "rowId": 244,
+              "keyParts": [
+                244,
+                "p10",
+                "verse",
+                "v30",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and he”; the referent (Isaac) has been specified in the translation for clarity."
+            },
+            {
+              "rowId": 245,
+              "keyParts": [
+                245,
+                "p10",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "held a feast for them and they celebrated."
+            },
+            {
+              "rowId": 246,
+              "keyParts": [
+                246,
+                "p10",
+                "verse",
+                "v30",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and they ate and drank.”"
+            },
+            {
+              "rowId": 247,
+              "keyParts": [
+                "v030_NET_GEN_026",
+                247,
+                "p10",
+                "verse",
+                "v30",
+                "plain_text"
+              ],
+              "value": "30 So Isaac held a feast for them and they celebrated."
+            },
+            {
+              "rowId": 248,
+              "keyParts": [
+                248,
+                "p10",
+                "verse",
+                "v31",
+                "label"
+              ],
+              "value": "31"
+            },
+            {
+              "rowId": 249,
+              "keyParts": [
+                249,
+                "p10",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "Early in the morning the men made a treaty with each other."
+            },
+            {
+              "rowId": 250,
+              "keyParts": [
+                250,
+                "p10",
+                "verse",
+                "v31",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and they got up early and they swore an oath, a man to his brother.”"
+            },
+            {
+              "rowId": 251,
+              "keyParts": [
+                251,
+                "p10",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "Isaac sent them off; they separated on good terms."
+            },
+            {
+              "rowId": 252,
+              "keyParts": [
+                252,
+                "p10",
+                "verse",
+                "v31",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and they went from him in peace.”"
+            },
+            {
+              "rowId": 253,
+              "keyParts": [
+                "v031_NET_GEN_026",
+                253,
+                "p10",
+                "verse",
+                "v31",
+                "plain_text"
+              ],
+              "value": "31 Early in the morning the men made a treaty with each other. Isaac sent them off; they separated on good terms."
+            },
+            {
+              "rowId": 254,
+              "keyParts": [
+                254,
+                "p11",
+                "verse",
+                "v32",
+                "label"
+              ],
+              "value": "32"
+            },
+            {
+              "rowId": 255,
+              "keyParts": [
+                255,
+                "p11",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "That day Isaac’s servants came and told him about the well they had dug. “We’ve found water,” they reported."
+            },
+            {
+              "rowId": 256,
+              "keyParts": [
+                256,
+                "p11",
+                "verse",
+                "v32",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and they said to him, ‘We have found water.’” The order of the introductory clause and the direct discourse has been rearranged in the translation for stylistic reasons."
+            },
+            {
+              "rowId": 257,
+              "keyParts": [
+                "v032_NET_GEN_026",
+                257,
+                "p11",
+                "verse",
+                "v32",
+                "plain_text"
+              ],
+              "value": "32 That day Isaac’s servants came and told him about the well they had dug. “We’ve found water,” they reported."
+            },
+            {
+              "rowId": 258,
+              "keyParts": [
+                258,
+                "p11",
+                "verse",
+                "v33",
+                "label"
+              ],
+              "value": "33"
+            },
+            {
+              "rowId": 259,
+              "keyParts": [
+                259,
+                "p11",
+                "verse",
+                "v33",
+                "content"
+              ],
+              "value": "So he named it Shibah;"
+            },
+            {
+              "rowId": 260,
+              "keyParts": [
+                260,
+                "p11",
+                "verse",
+                "v33",
+                "note",
+                "f"
+              ],
+              "value": "sn The name Shibah (שִׁבְעָה, shiv’ah) means (or at least sounds like) the word meaning “oath.” The name was a reminder of the oath sworn by Isaac and the Philistines to solidify their treaty."
+            },
+            {
+              "rowId": 261,
+              "keyParts": [
+                261,
+                "p11",
+                "verse",
+                "v33",
+                "content"
+              ],
+              "value": "that is why the name of the city has been Beer Sheba"
+            },
+            {
+              "rowId": 262,
+              "keyParts": [
+                262,
+                "p11",
+                "verse",
+                "v33",
+                "note",
+                "f"
+              ],
+              "value": "sn The name Beer Sheba (בְּאֵר שָׁבַע, bÿ’er shava’) means “well of an oath” or “well of seven.” According to Gen 21:31 Abraham gave Beer Sheba its name when he made a treaty with the Philistines. Because of the parallels between this earlier story and the account in 26:26-33, some scholars see chaps. 21 and 26 as two versions (or doublets) of one original story. However, if one takes the text as it stands, it appears that Isaac made a later treaty agreement with the people of the land that was similar to his father’s. Abraham dug a well at the site and named the place Beer Sheba; Isaac dug another well there and named the well Shibah. Later generations then associated the name Beer Sheba with Isaac, even though Abraham gave the place its name at an earlier time."
+            },
+            {
+              "rowId": 263,
+              "keyParts": [
+                263,
+                "p11",
+                "verse",
+                "v33",
+                "content"
+              ],
+              "value": "to this day."
+            },
+            {
+              "rowId": 264,
+              "keyParts": [
+                "v033_NET_GEN_026",
+                264,
+                "p11",
+                "verse",
+                "v33",
+                "plain_text"
+              ],
+              "value": "33 So he named it Shibah; that is why the name of the city has been Beer Sheba to this day."
+            },
+            {
+              "rowId": 265,
+              "keyParts": [
+                265,
+                "p12",
+                "verse",
+                "v34",
+                "label"
+              ],
+              "value": "34"
+            },
+            {
+              "rowId": 266,
+              "keyParts": [
+                266,
+                "p12",
+                "verse",
+                "v34",
+                "content"
+              ],
+              "value": "When"
+            },
+            {
+              "rowId": 267,
+              "keyParts": [
+                267,
+                "p12",
+                "verse",
+                "v34",
+                "note",
+                "f"
+              ],
+              "value": "tn The sentence begins with the temporal indicator (“and it happened”), making this clause subordinate to the next."
+            },
+            {
+              "rowId": 268,
+              "keyParts": [
+                268,
+                "p12",
+                "verse",
+                "v34",
+                "content"
+              ],
+              "value": "Esau was forty years old,"
+            },
+            {
+              "rowId": 269,
+              "keyParts": [
+                269,
+                "p12",
+                "verse",
+                "v34",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “the son of forty years.”"
+            },
+            {
+              "rowId": 270,
+              "keyParts": [
+                270,
+                "p12",
+                "verse",
+                "v34",
+                "content"
+              ],
+              "value": "he married"
+            },
+            {
+              "rowId": 271,
+              "keyParts": [
+                271,
+                "p12",
+                "verse",
+                "v34",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “took as a wife.”"
+            },
+            {
+              "rowId": 272,
+              "keyParts": [
+                272,
+                "p12",
+                "verse",
+                "v34",
+                "content"
+              ],
+              "value": "Judith the daughter of Beeri the Hittite, as well as Basemath the daughter of Elon the Hittite."
+            },
+            {
+              "rowId": 273,
+              "keyParts": [
+                "v034_NET_GEN_026",
+                273,
+                "p12",
+                "verse",
+                "v34",
+                "plain_text"
+              ],
+              "value": "34 When Esau was forty years old, he married Judith the daughter of Beeri the Hittite, as well as Basemath the daughter of Elon the Hittite."
+            },
+            {
+              "rowId": 274,
+              "keyParts": [
+                274,
+                "p12",
+                "verse",
+                "v35",
+                "label"
+              ],
+              "value": "35"
+            },
+            {
+              "rowId": 275,
+              "keyParts": [
+                275,
+                "p12",
+                "verse",
+                "v35",
+                "content"
+              ],
+              "value": "They caused Isaac and Rebekah great anxiety."
+            },
+            {
+              "rowId": 276,
+              "keyParts": [
+                276,
+                "p12",
+                "verse",
+                "v35",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “And they were [a source of ] bitterness in spirit to Isaac and to Rebekah.”"
+            },
+            {
+              "rowId": 277,
+              "keyParts": [
+                "v035_NET_GEN_026",
+                277,
+                "p12",
+                "verse",
+                "v35",
+                "plain_text"
+              ],
+              "value": "35 They caused Isaac and Rebekah great anxiety."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

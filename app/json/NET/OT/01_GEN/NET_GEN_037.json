@@ -1,0 +1,2890 @@
+{
+  "translationId": "NET",
+  "name": "New English Translation",
+  "abbreviation": "NET",
+  "language": "English",
+  "copyright": "1996 - 2007 by Biblical Studies Press, LLC",
+  "books": [
+    {
+      "bookId": "GEN",
+      "testament": "",
+      "order": 0,
+      "title": "Genesis",
+      "abbreviation": "GEN",
+      "chapters": [
+        {
+          "chapter": 37,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "37"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Joseph’s Dreams"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "But Jacob lived in the land where his father had stayed,"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “the land of the sojournings of his father.”"
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "in the land of Canaan."
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                7,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "f"
+              ],
+              "value": "sn The next section begins with the heading This is the account of Jacob in Gen 37:2, so this verse actually forms part of the preceding section as a concluding contrast with Esau and his people. In contrast to all the settled and expanded population of Esau, Jacob was still moving about in the land without a permanent residence and without kings. Even if the Edomite king list was added later (as the reference to kings in Israel suggests), its placement here in contrast to Jacob and his descendants is important. Certainly the text deals with Esau before dealing with Jacob – that is the pattern. But the detail is so great in chap. 36 that the contrast cannot be missed."
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                "v001_NET_GEN_037",
+                8,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 But Jacob lived in the land where his father had stayed, in the land of Canaan."
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                9,
+                "p2",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "p2",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "This is the account of Jacob."
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                11,
+                "p3",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "Joseph, his seventeen-year-old son,"
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                12,
+                "p3",
+                "verse",
+                "v2",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “a son of seventeen years.” The word “son” is in apposition to the name “Joseph.”"
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                13,
+                "p3",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "was taking care of"
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "p3",
+                "verse",
+                "v2",
+                "note",
+                "f"
+              ],
+              "value": "tn Or “tending”; Heb “shepherding” or “feeding.”"
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                15,
+                "p3",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "the flocks with his brothers. Now he was a youngster"
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                16,
+                "p3",
+                "verse",
+                "v2",
+                "note",
+                "f"
+              ],
+              "value": "tn Or perhaps “a helper.” The significance of this statement is unclear. It may mean “now the lad was with,” or it may suggest Joseph was like a servant to them."
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                17,
+                "p3",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "working with the sons of Bilhah and Zilpah, his father’s wives."
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "p3",
+                "verse",
+                "v2",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and he [was] a young man with the sons of Bilhah and with the sons of Zilpah, the wives of his father.”"
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p3",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "Joseph brought back a bad report about them"
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                20,
+                "p3",
+                "verse",
+                "v2",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “their bad report.” The pronoun is an objective genitive, specifying that the bad or damaging report was about the brothers.\nsn Some interpreters portray Joseph as a tattletale for bringing back a bad report about them [i.e., his brothers], but the entire Joseph story has some of the characteristics of wisdom literature. Joseph is presented in a good light – not because he was perfect, but because the narrative is showing how wisdom rules. In light of that, this section portrays Joseph as faithful to his father in little things, even though unpopular – and so he will eventually be given authority over greater things."
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p3",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "to their father."
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                "v002_NET_GEN_037",
+                22,
+                "p2",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 This is the account of Jacob. Joseph, his seventeen-year-old son, was taking care of the flocks with his brothers. Now he was a youngster working with the sons of Bilhah and Zilpah, his father’s wives. Joseph brought back a bad report about them to their father."
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "p4",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                24,
+                "p4",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "Now Israel loved Joseph more than all his sons"
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "p4",
+                "verse",
+                "v3",
+                "note",
+                "f"
+              ],
+              "value": "tn The disjunctive clause provides supplemental information vital to the story. It explains in part the brothers’ animosity toward Joseph.\nsn The statement Israel loved Joseph more than all his sons brings forward a motif that played an important role in the family of Isaac – parental favoritism. Jacob surely knew what that had done to him and his brother Esau, and to his own family. But now he showers affection on Rachel’s son Joseph."
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                26,
+                "p4",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "because he was a son born to him late in life,"
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                27,
+                "p4",
+                "verse",
+                "v3",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “a son of old age was he to him.” This expression means “a son born to him when he [i.e., Jacob] was old.”"
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                28,
+                "p4",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "and he made a special"
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                29,
+                "p4",
+                "verse",
+                "v3",
+                "note",
+                "f"
+              ],
+              "value": "tn It is not clear what this tunic was like, because the meaning of the Hebrew word that describes it is uncertain. The idea that it was a coat of many colors comes from the Greek translation of the OT. An examination of cognate terms in Semitic suggests it was either a coat or tunic with long sleeves (cf. NEB, NRSV), or a tunic that was richly embroidered (cf. NIV). It set Joseph apart as the favored one."
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                30,
+                "p4",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "tunic for him."
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                "v003_NET_GEN_037",
+                31,
+                "p4",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 Now Israel loved Joseph more than all his sons because he was a son born to him late in life, and he made a special tunic for him."
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "p4",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                33,
+                "p4",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "When Joseph’s"
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                34,
+                "p4",
+                "verse",
+                "v4",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “his”; the referent (Joseph) has been specified in the translation for clarity."
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                35,
+                "p4",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "brothers saw that their father loved him more than any of them,"
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "p4",
+                "verse",
+                "v4",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “of his brothers.” This is redundant in contemporary English and has been replaced in the translation by the pronoun “them.”"
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                37,
+                "p4",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "they hated Joseph"
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                38,
+                "p4",
+                "verse",
+                "v4",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “him”; the referent (Joseph) has been specified in the translation for clarity."
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                39,
+                "p4",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "and were not able to speak to him kindly."
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                40,
+                "p4",
+                "verse",
+                "v4",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “speak to him for peace.”"
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                "v004_NET_GEN_037",
+                41,
+                "p4",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 When Joseph’s brothers saw that their father loved him more than any of them, they hated Joseph and were not able to speak to him kindly."
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "p5",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                43,
+                "p5",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "Joseph"
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                44,
+                "p5",
+                "verse",
+                "v5",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and he”; the referent (Joseph) has been specified in the translation for clarity."
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                45,
+                "p5",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "had a dream,"
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                46,
+                "p5",
+                "verse",
+                "v5",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “dreamed a dream.”"
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                47,
+                "p5",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "and when he told his brothers about it,"
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                48,
+                "p5",
+                "verse",
+                "v5",
+                "note",
+                "f"
+              ],
+              "value": "sn Some interpreters see Joseph as gloating over his brothers, but the text simply says he told his brothers about it (i.e., the dream). The text gives no warrant for interpreting his manner as arrogant or condescending. It seems normal that he would share a dream with the family."
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                49,
+                "p5",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "they hated him even more."
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "p5",
+                "verse",
+                "v5",
+                "note",
+                "f"
+              ],
+              "value": "tn The construction uses a hendiadys, “they added to hate,” meaning they hated him even more."
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                "v005_NET_GEN_037",
+                51,
+                "p5",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 Joseph had a dream, and when he told his brothers about it, they hated him even more."
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                52,
+                "p5",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                53,
+                "p5",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "He said to them, “Listen to this dream I had:"
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                54,
+                "p5",
+                "verse",
+                "v6",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “hear this dream which I dreamed.”"
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                "v006_NET_GEN_037",
+                55,
+                "p5",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 He said to them, “Listen to this dream I had:"
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                56,
+                "p5",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                57,
+                "p5",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "There we were,"
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                58,
+                "p5",
+                "verse",
+                "v7",
+                "note",
+                "f"
+              ],
+              "value": "tn All three clauses in this dream report begin with וְהִנֵּה (vÿhinneh, “and look”), which lends vividness to the report. This is represented in the translation by the expression “there we were.”"
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                59,
+                "p5",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "binding sheaves of grain in the middle of the field. Suddenly my sheaf rose up and stood upright and your sheaves surrounded my sheaf and bowed down"
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                60,
+                "p5",
+                "verse",
+                "v7",
+                "note",
+                "f"
+              ],
+              "value": "tn The verb means “to bow down to the ground.” It is used to describe worship and obeisance to masters."
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                61,
+                "p5",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "to it!”"
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                "v007_NET_GEN_037",
+                62,
+                "p5",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 There we were, binding sheaves of grain in the middle of the field. Suddenly my sheaf rose up and stood upright and your sheaves surrounded my sheaf and bowed down to it!”"
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                63,
+                "p5",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                64,
+                "p5",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "Then his brothers asked him, “Do you really think you will rule over us or have dominion over us?”"
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                65,
+                "p5",
+                "verse",
+                "v8",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “Ruling, will you rule over us, or reigning, will you reign over us?” The statement has a poetic style, with the two questions being in synonymous parallelism. Both verbs in this statement are preceded by the infinitive absolute, which lends emphasis. It is as if Joseph’s brothers said, “You don’t really think you will rule over us, do you? You don’t really think you will have dominion over us, do you?”"
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                66,
+                "p5",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "They hated him even more"
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                67,
+                "p5",
+                "verse",
+                "v8",
+                "note",
+                "f"
+              ],
+              "value": "tn This construction is identical to the one in Gen 37:5."
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                68,
+                "p5",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "because of his dream and because of what he said."
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                69,
+                "p5",
+                "verse",
+                "v8",
+                "note",
+                "f"
+              ],
+              "value": "sn The response of Joseph’s brothers is understandable, given what has already been going on in the family. But here there is a hint of uneasiness – they hated him because of his dream and because of his words. The dream bothered them, as well as his telling them. And their words in the rhetorical question are ironic, for this is exactly what would happen. The dream was God’s way of revealing it."
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                "v008_NET_GEN_037",
+                70,
+                "p5",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 Then his brothers asked him, “Do you really think you will rule over us or have dominion over us?” They hated him even more because of his dream and because of what he said."
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                71,
+                "p6",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                72,
+                "p6",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "Then he had another dream,"
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                73,
+                "p6",
+                "verse",
+                "v9",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “And he dreamed yet another dream.”"
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                74,
+                "p6",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "and told it to his brothers. “Look,”"
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                75,
+                "p6",
+                "verse",
+                "v9",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and he said, ‘Look.’” The order of the introductory clause and the direct discourse have been rearranged in the translation for stylistic reasons. Both clauses of the dream report begin with הִנֵּה (hinneh, “look”), which lends vividness to the report."
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                76,
+                "p6",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "he said. “I had another dream. The sun, the moon, and eleven stars were bowing down to me.”"
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                "v009_NET_GEN_037",
+                77,
+                "p6",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 Then he had another dream, and told it to his brothers. “Look,” he said. “I had another dream. The sun, the moon, and eleven stars were bowing down to me.”"
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                78,
+                "p6",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                79,
+                "p6",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "When he told his father and his brothers, his father rebuked him, saying, “What is this dream that you had?"
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                80,
+                "p6",
+                "verse",
+                "v10",
+                "note",
+                "f"
+              ],
+              "value": "sn The question What is this dream that you had? expresses Jacob’s dismay at what he perceives to be Joseph’s audacity."
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                81,
+                "p6",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "Will I, your mother, and your brothers really come and bow down to you?”"
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                82,
+                "p6",
+                "verse",
+                "v10",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “Coming, will we come, I and your mother and your brothers, to bow down to you to the ground?” The verb “come” is preceded by the infinitive absolute, which lends emphasis. It is as if Jacob said, “You don’t really think we will come…to bow down…do you?”"
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                "v010_NET_GEN_037",
+                83,
+                "p6",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 When he told his father and his brothers, his father rebuked him, saying, “What is this dream that you had? Will I, your mother, and your brothers really come and bow down to you?”"
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                84,
+                "p6",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                85,
+                "p6",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "His brothers were jealous"
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                86,
+                "p6",
+                "verse",
+                "v11",
+                "note",
+                "f"
+              ],
+              "value": "sn Joseph’s brothers were already jealous of him, but this made it even worse. Such jealousy easily leads to action, as the next episode in the story shows. Yet dreams were considered a form of revelation, and their jealousy was not only of the favoritism of their father, but of the dreams. This is why Jacob kept the matter in mind."
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                87,
+                "p6",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "of him, but his father kept in mind what Joseph said."
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                88,
+                "p6",
+                "verse",
+                "v11",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “kept the word.” The referent of the Hebrew term “word” has been specified as “what Joseph said” in the translation for clarity, and the words “in mind” have been supplied for stylistic reasons."
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                "v011_NET_GEN_037",
+                89,
+                "p6",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 His brothers were jealous of him, but his father kept in mind what Joseph said."
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                90,
+                "p7",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                91,
+                "p7",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "When his brothers had gone to graze their father’s flocks near Shechem,"
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                "v012_NET_GEN_037",
+                92,
+                "p7",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 When his brothers had gone to graze their father’s flocks near Shechem,"
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                93,
+                "p7",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                94,
+                "p7",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "Israel said to Joseph, “Your brothers"
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                95,
+                "p7",
+                "verse",
+                "v13",
+                "note",
+                "f"
+              ],
+              "value": "tn The text uses an interrogative clause: “Are not your brothers,” which means “your brothers are.”"
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                96,
+                "p7",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "are grazing the flocks near Shechem. Come, I will send you to them.” “I’m ready,”"
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                97,
+                "p7",
+                "verse",
+                "v13",
+                "note",
+                "f"
+              ],
+              "value": "sn With these words Joseph is depicted here as an obedient son who is ready to do what his father commands."
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                98,
+                "p7",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "Joseph replied."
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                99,
+                "p7",
+                "verse",
+                "v13",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and he said, ‘Here I am.’” The referent of the pronoun “he” (Joseph) has been specified in the translation for clarity, and the order of the introductory clause and the direct discourse has been rearranged for stylistic reasons."
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                "v013_NET_GEN_037",
+                100,
+                "p7",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 Israel said to Joseph, “Your brothers are grazing the flocks near Shechem. Come, I will send you to them.” “I’m ready,” Joseph replied."
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                101,
+                "p7",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                102,
+                "p7",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "So Jacob"
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                103,
+                "p7",
+                "verse",
+                "v14",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “he”; the referent (Jacob) has been specified in the translation for clarity."
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                104,
+                "p7",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "said to him, “Go now and check on"
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                105,
+                "p7",
+                "verse",
+                "v14",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “see.”"
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                106,
+                "p7",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "the welfare"
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                107,
+                "p7",
+                "verse",
+                "v14",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “peace.”"
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                108,
+                "p7",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "of your brothers and of the flocks, and bring me word.” So Jacob"
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                109,
+                "p7",
+                "verse",
+                "v14",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “he”; the referent (Jacob) has been specified in the translation for clarity."
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                110,
+                "p7",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "sent him from the valley of Hebron."
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                "v014_NET_GEN_037",
+                111,
+                "p7",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 So Jacob said to him, “Go now and check on the welfare of your brothers and of the flocks, and bring me word.” So Jacob sent him from the valley of Hebron."
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                112,
+                "p8",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                113,
+                "p8",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "When Joseph reached Shechem,"
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                114,
+                "p8",
+                "verse",
+                "v15",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and he [i.e., Joseph] went to Shechem.” The referent (Joseph) has been specified in the translation for clarity."
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                115,
+                "p8",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "a man found him wandering"
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                116,
+                "p8",
+                "verse",
+                "v15",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and a man found him and look, he was wandering in the field.” By the use of וְהִנֵּה (vÿhinneh, “and look”), the narrator invites the reader to see the action through this unnamed man’s eyes."
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                117,
+                "p8",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "in the field, so the man asked him, “What are you looking for?”"
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                "v015_NET_GEN_037",
+                118,
+                "p8",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 When Joseph reached Shechem, a man found him wandering in the field, so the man asked him, “What are you looking for?”"
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                119,
+                "p8",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                120,
+                "p8",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "He replied, “I’m looking for my brothers. Please tell"
+            },
+            {
+              "rowId": 121,
+              "keyParts": [
+                121,
+                "p8",
+                "verse",
+                "v16",
+                "note",
+                "f"
+              ],
+              "value": "tn The imperative in this sentence has more of the nuance of a request than a command."
+            },
+            {
+              "rowId": 122,
+              "keyParts": [
+                122,
+                "p8",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "me where they are grazing their flocks.”"
+            },
+            {
+              "rowId": 123,
+              "keyParts": [
+                "v016_NET_GEN_037",
+                123,
+                "p8",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 He replied, “I’m looking for my brothers. Please tell me where they are grazing their flocks.”"
+            },
+            {
+              "rowId": 124,
+              "keyParts": [
+                124,
+                "p8",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 125,
+              "keyParts": [
+                125,
+                "p8",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "The man said, “They left this area,"
+            },
+            {
+              "rowId": 126,
+              "keyParts": [
+                126,
+                "p8",
+                "verse",
+                "v17",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “they traveled from this place.”"
+            },
+            {
+              "rowId": 127,
+              "keyParts": [
+                127,
+                "p8",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "for I heard them say, ‘Let’s go to Dothan.’” So Joseph went after his brothers and found them at Dothan."
+            },
+            {
+              "rowId": 128,
+              "keyParts": [
+                "v017_NET_GEN_037",
+                128,
+                "p8",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 The man said, “They left this area, for I heard them say, ‘Let’s go to Dothan.’” So Joseph went after his brothers and found them at Dothan."
+            },
+            {
+              "rowId": 129,
+              "keyParts": [
+                129,
+                "p9",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 130,
+              "keyParts": [
+                130,
+                "p9",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "Now Joseph’s brothers"
+            },
+            {
+              "rowId": 131,
+              "keyParts": [
+                131,
+                "p9",
+                "verse",
+                "v18",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and they”; the referent (Joseph’s brothers) has been specified in the translation for clarity."
+            },
+            {
+              "rowId": 132,
+              "keyParts": [
+                132,
+                "p9",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "saw him from a distance, and before he reached them, they plotted to kill him."
+            },
+            {
+              "rowId": 133,
+              "keyParts": [
+                "v018_NET_GEN_037",
+                133,
+                "p9",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 Now Joseph’s brothers saw him from a distance, and before he reached them, they plotted to kill him."
+            },
+            {
+              "rowId": 134,
+              "keyParts": [
+                134,
+                "p9",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 135,
+              "keyParts": [
+                135,
+                "p9",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "They said to one another, “Here comes this master of dreams!"
+            },
+            {
+              "rowId": 136,
+              "keyParts": [
+                136,
+                "p9",
+                "verse",
+                "v19",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “Look, this master of dreams is coming.” The brothers’ words have a sarcastic note and indicate that they resent his dreams."
+            },
+            {
+              "rowId": 137,
+              "keyParts": [
+                "v019_NET_GEN_037",
+                137,
+                "p9",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 They said to one another, “Here comes this master of dreams!"
+            },
+            {
+              "rowId": 138,
+              "keyParts": [
+                138,
+                "p9",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 139,
+              "keyParts": [
+                139,
+                "p9",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "Come now, let’s kill him, throw him into one of the cisterns, and then say that a wild"
+            },
+            {
+              "rowId": 140,
+              "keyParts": [
+                140,
+                "p9",
+                "verse",
+                "v20",
+                "note",
+                "f"
+              ],
+              "value": "tn The Hebrew word can sometimes carry the nuance “evil,” but when used of an animal it refers to a dangerous wild animal."
+            },
+            {
+              "rowId": 141,
+              "keyParts": [
+                141,
+                "p9",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "animal ate him. Then we’ll see how his dreams turn out!”"
+            },
+            {
+              "rowId": 142,
+              "keyParts": [
+                142,
+                "p9",
+                "verse",
+                "v20",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “what his dreams will be.”"
+            },
+            {
+              "rowId": 143,
+              "keyParts": [
+                "v020_NET_GEN_037",
+                143,
+                "p9",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 Come now, let’s kill him, throw him into one of the cisterns, and then say that a wild animal ate him. Then we’ll see how his dreams turn out!”"
+            },
+            {
+              "rowId": 144,
+              "keyParts": [
+                144,
+                "p10",
+                "verse",
+                "v21",
+                "label"
+              ],
+              "value": "21"
+            },
+            {
+              "rowId": 145,
+              "keyParts": [
+                145,
+                "p10",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "When Reuben heard this, he rescued Joseph"
+            },
+            {
+              "rowId": 146,
+              "keyParts": [
+                146,
+                "p10",
+                "verse",
+                "v21",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “him”; the referent (Joseph) has been specified in the translation for clarity."
+            },
+            {
+              "rowId": 147,
+              "keyParts": [
+                147,
+                "p10",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "from their hands,"
+            },
+            {
+              "rowId": 148,
+              "keyParts": [
+                148,
+                "p10",
+                "verse",
+                "v21",
+                "note",
+                "f"
+              ],
+              "value": "sn From their hands. The instigators of this plot may have been the sons of Bilhah and Zilpah (see v. 2)."
+            },
+            {
+              "rowId": 149,
+              "keyParts": [
+                149,
+                "p10",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "saying,"
+            },
+            {
+              "rowId": 150,
+              "keyParts": [
+                150,
+                "p10",
+                "verse",
+                "v21",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and he said.”"
+            },
+            {
+              "rowId": 151,
+              "keyParts": [
+                151,
+                "p10",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "“Let’s not take his life!”"
+            },
+            {
+              "rowId": 152,
+              "keyParts": [
+                152,
+                "p10",
+                "verse",
+                "v21",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “we must not strike him down [with respect to] life.”"
+            },
+            {
+              "rowId": 153,
+              "keyParts": [
+                "v021_NET_GEN_037",
+                153,
+                "p10",
+                "verse",
+                "v21",
+                "plain_text"
+              ],
+              "value": "21 When Reuben heard this, he rescued Joseph from their hands, saying, “Let’s not take his life!”"
+            },
+            {
+              "rowId": 154,
+              "keyParts": [
+                154,
+                "p10",
+                "verse",
+                "v22",
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 155,
+              "keyParts": [
+                155,
+                "p10",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "Reuben continued,"
+            },
+            {
+              "rowId": 156,
+              "keyParts": [
+                156,
+                "p10",
+                "verse",
+                "v22",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and Reuben said to them.”"
+            },
+            {
+              "rowId": 157,
+              "keyParts": [
+                157,
+                "p10",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "“Don’t shed blood! Throw him into this cistern that is here in the wilderness, but don’t lay a hand on him.”"
+            },
+            {
+              "rowId": 158,
+              "keyParts": [
+                158,
+                "p10",
+                "verse",
+                "v22",
+                "note",
+                "f"
+              ],
+              "value": "sn The verbs translated shed, throw, and lay sound alike in Hebrew; the repetition of similar sounds draws attention to Reuben’s words."
+            },
+            {
+              "rowId": 159,
+              "keyParts": [
+                159,
+                "p10",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "(Reuben said this"
+            },
+            {
+              "rowId": 160,
+              "keyParts": [
+                160,
+                "p10",
+                "verse",
+                "v22",
+                "note",
+                "f"
+              ],
+              "value": "tn The words “Reuben said this” are not in the Hebrew text, but have been supplied in the translation for stylistic reasons."
+            },
+            {
+              "rowId": 161,
+              "keyParts": [
+                161,
+                "p10",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "so he could rescue Joseph"
+            },
+            {
+              "rowId": 162,
+              "keyParts": [
+                162,
+                "p10",
+                "verse",
+                "v22",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “him”; the referent (Joseph) has been specified in the translation for clarity."
+            },
+            {
+              "rowId": 163,
+              "keyParts": [
+                163,
+                "p10",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "from them"
+            },
+            {
+              "rowId": 164,
+              "keyParts": [
+                164,
+                "p10",
+                "verse",
+                "v22",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “from their hands” (cf. v. 21). This expression has been translated as “them” here for stylistic reasons."
+            },
+            {
+              "rowId": 165,
+              "keyParts": [
+                165,
+                "p10",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "and take him back to his father.)"
+            },
+            {
+              "rowId": 166,
+              "keyParts": [
+                "v022_NET_GEN_037",
+                166,
+                "p10",
+                "verse",
+                "v22",
+                "plain_text"
+              ],
+              "value": "22 Reuben continued, “Don’t shed blood! Throw him into this cistern that is here in the wilderness, but don’t lay a hand on him.” (Reuben said this so he could rescue Joseph from them and take him back to his father.)"
+            },
+            {
+              "rowId": 167,
+              "keyParts": [
+                167,
+                "p11",
+                "verse",
+                "v23",
+                "label"
+              ],
+              "value": "23"
+            },
+            {
+              "rowId": 168,
+              "keyParts": [
+                168,
+                "p11",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "When Joseph reached his brothers, they stripped him"
+            },
+            {
+              "rowId": 169,
+              "keyParts": [
+                169,
+                "p11",
+                "verse",
+                "v23",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “Joseph”; the proper name has been replaced by the pronoun (“him”) in the translation for stylistic reasons."
+            },
+            {
+              "rowId": 170,
+              "keyParts": [
+                170,
+                "p11",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "of his tunic, the special tunic that he wore."
+            },
+            {
+              "rowId": 171,
+              "keyParts": [
+                "v023_NET_GEN_037",
+                171,
+                "p11",
+                "verse",
+                "v23",
+                "plain_text"
+              ],
+              "value": "23 When Joseph reached his brothers, they stripped him of his tunic, the special tunic that he wore."
+            },
+            {
+              "rowId": 172,
+              "keyParts": [
+                172,
+                "p11",
+                "verse",
+                "v24",
+                "label"
+              ],
+              "value": "24"
+            },
+            {
+              "rowId": 173,
+              "keyParts": [
+                173,
+                "p11",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "Then they took him and threw him into the cistern. (Now the cistern was empty;"
+            },
+            {
+              "rowId": 174,
+              "keyParts": [
+                174,
+                "p11",
+                "verse",
+                "v24",
+                "note",
+                "f"
+              ],
+              "value": "tn The disjunctive clause gives supplemental information that helps the reader or hearer to picture what happened."
+            },
+            {
+              "rowId": 175,
+              "keyParts": [
+                175,
+                "p11",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "there was no water in it.)"
+            },
+            {
+              "rowId": 176,
+              "keyParts": [
+                "v024_NET_GEN_037",
+                176,
+                "p11",
+                "verse",
+                "v24",
+                "plain_text"
+              ],
+              "value": "24 Then they took him and threw him into the cistern. (Now the cistern was empty; there was no water in it.)"
+            },
+            {
+              "rowId": 177,
+              "keyParts": [
+                177,
+                "p12",
+                "verse",
+                "v25",
+                "label"
+              ],
+              "value": "25"
+            },
+            {
+              "rowId": 178,
+              "keyParts": [
+                178,
+                "p12",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "When they sat down to eat their food, they looked up"
+            },
+            {
+              "rowId": 179,
+              "keyParts": [
+                179,
+                "p12",
+                "verse",
+                "v25",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “lifted up their eyes.”"
+            },
+            {
+              "rowId": 180,
+              "keyParts": [
+                180,
+                "p12",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "and saw"
+            },
+            {
+              "rowId": 181,
+              "keyParts": [
+                181,
+                "p12",
+                "verse",
+                "v25",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and they saw and look.” By the use of וְהִנֵּה (vÿhinneh, “and look”), the narrator invites the reader to see the event through the eyes of the brothers."
+            },
+            {
+              "rowId": 182,
+              "keyParts": [
+                182,
+                "p12",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "a caravan of Ishmaelites coming from Gilead. Their camels were carrying spices, balm, and myrrh down to Egypt."
+            },
+            {
+              "rowId": 183,
+              "keyParts": [
+                183,
+                "p12",
+                "verse",
+                "v25",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and their camels were carrying spices, balm, and myrrh, going to go down to Egypt.”"
+            },
+            {
+              "rowId": 184,
+              "keyParts": [
+                "v025_NET_GEN_037",
+                184,
+                "p12",
+                "verse",
+                "v25",
+                "plain_text"
+              ],
+              "value": "25 When they sat down to eat their food, they looked up and saw a caravan of Ishmaelites coming from Gilead. Their camels were carrying spices, balm, and myrrh down to Egypt."
+            },
+            {
+              "rowId": 185,
+              "keyParts": [
+                185,
+                "p12",
+                "verse",
+                "v26",
+                "label"
+              ],
+              "value": "26"
+            },
+            {
+              "rowId": 186,
+              "keyParts": [
+                186,
+                "p12",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "Then Judah said to his brothers, “What profit is there if we kill our brother and cover up his blood?"
+            },
+            {
+              "rowId": 187,
+              "keyParts": [
+                "v026_NET_GEN_037",
+                187,
+                "p12",
+                "verse",
+                "v26",
+                "plain_text"
+              ],
+              "value": "26 Then Judah said to his brothers, “What profit is there if we kill our brother and cover up his blood?"
+            },
+            {
+              "rowId": 188,
+              "keyParts": [
+                188,
+                "p12",
+                "verse",
+                "v27",
+                "label"
+              ],
+              "value": "27"
+            },
+            {
+              "rowId": 189,
+              "keyParts": [
+                189,
+                "p12",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "Come, let’s sell him to the Ishmaelites, but let’s not lay a hand on him,"
+            },
+            {
+              "rowId": 190,
+              "keyParts": [
+                190,
+                "p12",
+                "verse",
+                "v27",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “let not our hand be upon him.”"
+            },
+            {
+              "rowId": 191,
+              "keyParts": [
+                191,
+                "p12",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "for after all, he is our brother, our own flesh.” His brothers agreed."
+            },
+            {
+              "rowId": 192,
+              "keyParts": [
+                192,
+                "p12",
+                "verse",
+                "v27",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “listened.”"
+            },
+            {
+              "rowId": 193,
+              "keyParts": [
+                "v027_NET_GEN_037",
+                193,
+                "p12",
+                "verse",
+                "v27",
+                "plain_text"
+              ],
+              "value": "27 Come, let’s sell him to the Ishmaelites, but let’s not lay a hand on him, for after all, he is our brother, our own flesh.” His brothers agreed."
+            },
+            {
+              "rowId": 194,
+              "keyParts": [
+                194,
+                "p12",
+                "verse",
+                "v28",
+                "label"
+              ],
+              "value": "28"
+            },
+            {
+              "rowId": 195,
+              "keyParts": [
+                195,
+                "p12",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "So when the Midianite"
+            },
+            {
+              "rowId": 196,
+              "keyParts": [
+                196,
+                "p12",
+                "verse",
+                "v28",
+                "note",
+                "f"
+              ],
+              "value": "sn On the close relationship between Ishmaelites (v. 25) and Midianites, see Judg 8:24."
+            },
+            {
+              "rowId": 197,
+              "keyParts": [
+                197,
+                "p12",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "merchants passed by, Joseph’s brothers pulled"
+            },
+            {
+              "rowId": 198,
+              "keyParts": [
+                198,
+                "p12",
+                "verse",
+                "v28",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “they drew and they lifted up.” The referent (Joseph’s brothers) has been specified in the translation for clarity; otherwise the reader might assume the Midianites had pulled Joseph from the cistern (but cf. NAB)."
+            },
+            {
+              "rowId": 199,
+              "keyParts": [
+                199,
+                "p12",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "him"
+            },
+            {
+              "rowId": 200,
+              "keyParts": [
+                200,
+                "p12",
+                "verse",
+                "v28",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “Joseph” (both here and in the following clause); the proper name has been replaced both times by the pronoun “him” in the translation for stylistic reasons."
+            },
+            {
+              "rowId": 201,
+              "keyParts": [
+                201,
+                "p12",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "out of the cistern and sold him to the Ishmaelites for twenty pieces of silver. The Ishmaelites"
+            },
+            {
+              "rowId": 202,
+              "keyParts": [
+                202,
+                "p12",
+                "verse",
+                "v28",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “they”; the referent (the Ishmaelites) has been specified in the translation for clarity."
+            },
+            {
+              "rowId": 203,
+              "keyParts": [
+                203,
+                "p12",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "then took Joseph to Egypt."
+            },
+            {
+              "rowId": 204,
+              "keyParts": [
+                "v028_NET_GEN_037",
+                204,
+                "p12",
+                "verse",
+                "v28",
+                "plain_text"
+              ],
+              "value": "28 So when the Midianite merchants passed by, Joseph’s brothers pulled him out of the cistern and sold him to the Ishmaelites for twenty pieces of silver. The Ishmaelites then took Joseph to Egypt."
+            },
+            {
+              "rowId": 205,
+              "keyParts": [
+                205,
+                "p13",
+                "verse",
+                "v29",
+                "label"
+              ],
+              "value": "29"
+            },
+            {
+              "rowId": 206,
+              "keyParts": [
+                206,
+                "p13",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "Later Reuben returned to the cistern to find that Joseph was not in it!"
+            },
+            {
+              "rowId": 207,
+              "keyParts": [
+                207,
+                "p13",
+                "verse",
+                "v29",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and look, Joseph was not in the cistern.” By the use of וְהִנֵּה (vÿhinneh, “and look”), the narrator invites the reader to see the situation through Reuben’s eyes."
+            },
+            {
+              "rowId": 208,
+              "keyParts": [
+                208,
+                "p13",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "He tore his clothes,"
+            },
+            {
+              "rowId": 209,
+              "keyParts": [
+                "v029_NET_GEN_037",
+                209,
+                "p13",
+                "verse",
+                "v29",
+                "plain_text"
+              ],
+              "value": "29 Later Reuben returned to the cistern to find that Joseph was not in it! He tore his clothes,"
+            },
+            {
+              "rowId": 210,
+              "keyParts": [
+                210,
+                "p13",
+                "verse",
+                "v30",
+                "label"
+              ],
+              "value": "30"
+            },
+            {
+              "rowId": 211,
+              "keyParts": [
+                211,
+                "p13",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "returned to his brothers, and said, “The boy isn’t there! And I, where can I go?”"
+            },
+            {
+              "rowId": 212,
+              "keyParts": [
+                "v030_NET_GEN_037",
+                212,
+                "p13",
+                "verse",
+                "v30",
+                "plain_text"
+              ],
+              "value": "30 returned to his brothers, and said, “The boy isn’t there! And I, where can I go?”"
+            },
+            {
+              "rowId": 213,
+              "keyParts": [
+                213,
+                "p13",
+                "verse",
+                "v31",
+                "label"
+              ],
+              "value": "31"
+            },
+            {
+              "rowId": 214,
+              "keyParts": [
+                214,
+                "p13",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "So they took Joseph’s tunic, killed a young goat,"
+            },
+            {
+              "rowId": 215,
+              "keyParts": [
+                215,
+                "p13",
+                "verse",
+                "v31",
+                "note",
+                "f"
+              ],
+              "value": "sn It was with two young goats that Jacob deceived his father (Gen 27:9); now with a young goat his sons continue the deception that dominates this family."
+            },
+            {
+              "rowId": 216,
+              "keyParts": [
+                216,
+                "p13",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "and dipped the tunic in the blood."
+            },
+            {
+              "rowId": 217,
+              "keyParts": [
+                "v031_NET_GEN_037",
+                217,
+                "p13",
+                "verse",
+                "v31",
+                "plain_text"
+              ],
+              "value": "31 So they took Joseph’s tunic, killed a young goat, and dipped the tunic in the blood."
+            },
+            {
+              "rowId": 218,
+              "keyParts": [
+                218,
+                "p13",
+                "verse",
+                "v32",
+                "label"
+              ],
+              "value": "32"
+            },
+            {
+              "rowId": 219,
+              "keyParts": [
+                219,
+                "p13",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "Then they brought the special tunic to their father"
+            },
+            {
+              "rowId": 220,
+              "keyParts": [
+                220,
+                "p13",
+                "verse",
+                "v32",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and they sent the special tunic and they brought [it] to their father.” The text as it stands is problematic. It sounds as if they sent the tunic on ahead and then came and brought it to their father. Some emend the second verb to a Qal form and read “and they came.” In this case, they sent the tunic on ahead."
+            },
+            {
+              "rowId": 221,
+              "keyParts": [
+                221,
+                "p13",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "and said, “We found this. Determine now whether it is your son’s tunic or not.”"
+            },
+            {
+              "rowId": 222,
+              "keyParts": [
+                "v032_NET_GEN_037",
+                222,
+                "p13",
+                "verse",
+                "v32",
+                "plain_text"
+              ],
+              "value": "32 Then they brought the special tunic to their father and said, “We found this. Determine now whether it is your son’s tunic or not.”"
+            },
+            {
+              "rowId": 223,
+              "keyParts": [
+                223,
+                "p14",
+                "verse",
+                "v33",
+                "label"
+              ],
+              "value": "33"
+            },
+            {
+              "rowId": 224,
+              "keyParts": [
+                224,
+                "p14",
+                "verse",
+                "v33",
+                "content"
+              ],
+              "value": "He recognized it and exclaimed, “It is my son’s tunic! A wild animal has eaten him!"
+            },
+            {
+              "rowId": 225,
+              "keyParts": [
+                225,
+                "p14",
+                "verse",
+                "v33",
+                "note",
+                "f"
+              ],
+              "value": "sn A wild animal has eaten him. Jacob draws this conclusion on his own without his sons actually having to lie with their words (see v. 20). Dipping the tunic in the goat’s blood was the only deception needed."
+            },
+            {
+              "rowId": 226,
+              "keyParts": [
+                226,
+                "p14",
+                "verse",
+                "v33",
+                "content"
+              ],
+              "value": "Joseph has surely been torn to pieces!”"
+            },
+            {
+              "rowId": 227,
+              "keyParts": [
+                "v033_NET_GEN_037",
+                227,
+                "p14",
+                "verse",
+                "v33",
+                "plain_text"
+              ],
+              "value": "33 He recognized it and exclaimed, “It is my son’s tunic! A wild animal has eaten him! Joseph has surely been torn to pieces!”"
+            },
+            {
+              "rowId": 228,
+              "keyParts": [
+                228,
+                "p14",
+                "verse",
+                "v34",
+                "label"
+              ],
+              "value": "34"
+            },
+            {
+              "rowId": 229,
+              "keyParts": [
+                229,
+                "p14",
+                "verse",
+                "v34",
+                "content"
+              ],
+              "value": "Then Jacob tore his clothes, put on sackcloth,"
+            },
+            {
+              "rowId": 230,
+              "keyParts": [
+                230,
+                "p14",
+                "verse",
+                "v34",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and put sackcloth on his loins.”"
+            },
+            {
+              "rowId": 231,
+              "keyParts": [
+                231,
+                "p14",
+                "verse",
+                "v34",
+                "content"
+              ],
+              "value": "and mourned for his son many days."
+            },
+            {
+              "rowId": 232,
+              "keyParts": [
+                "v034_NET_GEN_037",
+                232,
+                "p14",
+                "verse",
+                "v34",
+                "plain_text"
+              ],
+              "value": "34 Then Jacob tore his clothes, put on sackcloth, and mourned for his son many days."
+            },
+            {
+              "rowId": 233,
+              "keyParts": [
+                233,
+                "p14",
+                "verse",
+                "v35",
+                "label"
+              ],
+              "value": "35"
+            },
+            {
+              "rowId": 234,
+              "keyParts": [
+                234,
+                "p14",
+                "verse",
+                "v35",
+                "content"
+              ],
+              "value": "All his sons and daughters stood by"
+            },
+            {
+              "rowId": 235,
+              "keyParts": [
+                235,
+                "p14",
+                "verse",
+                "v35",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “arose, stood”; which here suggests that they stood by him in his time of grief."
+            },
+            {
+              "rowId": 236,
+              "keyParts": [
+                236,
+                "p14",
+                "verse",
+                "v35",
+                "content"
+              ],
+              "value": "him to console him, but he refused to be consoled. “No,” he said, “I will go to the grave mourning my son.”"
+            },
+            {
+              "rowId": 237,
+              "keyParts": [
+                237,
+                "p14",
+                "verse",
+                "v35",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and he said, ‘Indeed I will go down to my son mourning to Sheol.’” Sheol was viewed as the place where departed spirits went after death."
+            },
+            {
+              "rowId": 238,
+              "keyParts": [
+                238,
+                "p14",
+                "verse",
+                "v35",
+                "content"
+              ],
+              "value": "So Joseph’s"
+            },
+            {
+              "rowId": 239,
+              "keyParts": [
+                239,
+                "p14",
+                "verse",
+                "v35",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “his”; the referent (Joseph) has been specified in the translation for clarity."
+            },
+            {
+              "rowId": 240,
+              "keyParts": [
+                240,
+                "p14",
+                "verse",
+                "v35",
+                "content"
+              ],
+              "value": "father wept for him."
+            },
+            {
+              "rowId": 241,
+              "keyParts": [
+                "v035_NET_GEN_037",
+                241,
+                "p14",
+                "verse",
+                "v35",
+                "plain_text"
+              ],
+              "value": "35 All his sons and daughters stood by him to console him, but he refused to be consoled. “No,” he said, “I will go to the grave mourning my son.” So Joseph’s father wept for him."
+            },
+            {
+              "rowId": 242,
+              "keyParts": [
+                242,
+                "p15",
+                "verse",
+                "v36",
+                "label"
+              ],
+              "value": "36"
+            },
+            {
+              "rowId": 243,
+              "keyParts": [
+                243,
+                "p15",
+                "verse",
+                "v36",
+                "content"
+              ],
+              "value": "Now"
+            },
+            {
+              "rowId": 244,
+              "keyParts": [
+                244,
+                "p15",
+                "verse",
+                "v36",
+                "note",
+                "f"
+              ],
+              "value": "tn The disjunctive clause formally signals closure for this episode of Joseph’s story, which will be resumed in Gen 39."
+            },
+            {
+              "rowId": 245,
+              "keyParts": [
+                245,
+                "p15",
+                "verse",
+                "v36",
+                "content"
+              ],
+              "value": "in Egypt the Midianites"
+            },
+            {
+              "rowId": 246,
+              "keyParts": [
+                246,
+                "p15",
+                "verse",
+                "v36",
+                "note",
+                "f"
+              ],
+              "value": "tc The MT spells the name of the merchants as מְדָנִים (mÿdanim, “Medanites”) rather than מִדְיָנִים (midyanim, “Midianites”) as in v. 28. It is likely that the MT is corrupt at this point, with the letter yod (י) being accidentally omitted. The LXX, Vulgate, Samaritan Pentateuch, and Syriac read “Midianites” here. Some prefer to read “Medanites” both here and in v. 28, but Judg 8:24, which identifies the Midianites and Ishmaelites, favors the reading “Midianites.”"
+            },
+            {
+              "rowId": 247,
+              "keyParts": [
+                247,
+                "p15",
+                "verse",
+                "v36",
+                "content"
+              ],
+              "value": "sold Joseph"
+            },
+            {
+              "rowId": 248,
+              "keyParts": [
+                248,
+                "p15",
+                "verse",
+                "v36",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “him”; the referent (Joseph) has been specified in the translation for clarity."
+            },
+            {
+              "rowId": 249,
+              "keyParts": [
+                249,
+                "p15",
+                "verse",
+                "v36",
+                "content"
+              ],
+              "value": "to Potiphar, one of Pharaoh’s officials, the captain of the guard."
+            },
+            {
+              "rowId": 250,
+              "keyParts": [
+                250,
+                "p15",
+                "verse",
+                "v36",
+                "note",
+                "f"
+              ],
+              "value": "sn The expression captain of the guard might indicate that Potiphar was the chief executioner."
+            },
+            {
+              "rowId": 251,
+              "keyParts": [
+                "v036_NET_GEN_037",
+                251,
+                "p15",
+                "verse",
+                "v36",
+                "plain_text"
+              ],
+              "value": "36 Now in Egypt the Midianites sold Joseph to Potiphar, one of Pharaoh’s officials, the captain of the guard."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

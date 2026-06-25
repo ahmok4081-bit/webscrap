@@ -1,0 +1,3421 @@
+{
+  "translationId": "ESV",
+  "name": "English Standard Version",
+  "abbreviation": "ESV",
+  "language": "English",
+  "copyright": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.",
+  "books": [
+    {
+      "bookId": "NUM",
+      "testament": "OT",
+      "order": 4,
+      "title": "Numbers",
+      "abbreviation": "NUM",
+      "chapters": [
+        {
+          "chapter": 26,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "26"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Census of the New Generation"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#ch.25:9"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "After the plague, the"
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                7,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "said to Moses and to Eleazar the son of Aaron, the priest,"
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                "v001_ESV_NUM_026",
+                8,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 After the plague, the Lord said to Moses and to Eleazar the son of Aaron, the priest,"
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                9,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#ch.1:2,3;Ex. 30:12;38:25,26"
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                11,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "“Take a census of all the congregation of the people of Israel, from twenty years old and upward, by their fathers’ houses, all in Israel who are able to go to war.”"
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                "v002_ESV_NUM_026",
+                12,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 “Take a census of all the congregation of the people of Israel, from twenty years old and upward, by their fathers’ houses, all in Israel who are able to go to war.”"
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                13,
+                "p1",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "And Moses and Eleazar the priest spoke with them"
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                15,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#ver.63;See ch.22:1"
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                16,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "in the plains of Moab by the Jordan at Jericho, saying,"
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                "v003_ESV_NUM_026",
+                17,
+                "p1",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 And Moses and Eleazar the priest spoke with them in the plains of Moab by the Jordan at Jericho, saying,"
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "p1",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "“Take a census of the people,"
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                20,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "f"
+              ],
+              "value": "#26:4Take a census of the peopleis implied (compare verse 2)"
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "from twenty years old and upward,” as the"
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                22,
+                "p1",
+                "verse",
+                "v4",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#ch.1:1"
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                24,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "commanded Moses. The people of Israel who came out of the land of Egypt were:"
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                "v004_ESV_NUM_026",
+                25,
+                "p1",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 “Take a census of the people, from twenty years old and upward,” as the Lord commanded Moses. The people of Israel who came out of the land of Egypt were:"
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                26,
+                "p2",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                27,
+                "p2",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#Gen. 46:8,9;Ex. 6:14;1 Chr. 5:1-3"
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                28,
+                "p2",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "Reuben, the firstborn of Israel; the sons of Reuben: of Hanoch, the clan of the Hanochites; of Pallu, the clan of the Palluites;"
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                "v005_ESV_NUM_026",
+                29,
+                "p2",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 Reuben, the firstborn of Israel; the sons of Reuben: of Hanoch, the clan of the Hanochites; of Pallu, the clan of the Palluites;"
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                30,
+                "p2",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                31,
+                "p2",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "of Hezron, the clan of the Hezronites; of Carmi, the clan of the Carmites."
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                "v006_ESV_NUM_026",
+                32,
+                "p2",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 of Hezron, the clan of the Hezronites; of Carmi, the clan of the Carmites."
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                33,
+                "p2",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                34,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "These are the clans of the Reubenites, and those listed were"
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                35,
+                "p2",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#[ch.1:21]"
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "43,730."
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                "v007_ESV_NUM_026",
+                37,
+                "p2",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 These are the clans of the Reubenites, and those listed were 43,730."
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                38,
+                "p2",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                39,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "And the sons of Pallu: Eliab."
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                "v008_ESV_NUM_026",
+                40,
+                "p2",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 And the sons of Pallu: Eliab."
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p2",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "The sons of Eliab: Nemuel, Dathan, and Abiram. These are the Dathan and Abiram,"
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                43,
+                "p2",
+                "verse",
+                "v9",
+                "note",
+                "x"
+              ],
+              "value": "#ch.1:16;16:2"
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                44,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "chosen from the congregation, who contended against Moses and Aaron in the company of Korah, when they contended against the"
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                45,
+                "p2",
+                "verse",
+                "v9",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                "v009_ESV_NUM_026",
+                46,
+                "p2",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 The sons of Eliab: Nemuel, Dathan, and Abiram. These are the Dathan and Abiram, chosen from the congregation, who contended against Moses and Aaron in the company of Korah, when they contended against the Lord"
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                47,
+                "p2",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                48,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "and"
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                49,
+                "p2",
+                "verse",
+                "v10",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.16:31-35"
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "the earth opened its mouth and swallowed them up together with Korah, when that company died, when the fire devoured 250 men, and"
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                51,
+                "p2",
+                "verse",
+                "v10",
+                "note",
+                "x"
+              ],
+              "value": "#ch.16:38;[1 Cor. 10:6;2 Pet. 2:6]"
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                52,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "they became a warning."
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                "v010_ESV_NUM_026",
+                53,
+                "p2",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 and the earth opened its mouth and swallowed them up together with Korah, when that company died, when the fire devoured 250 men, and they became a warning."
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                54,
+                "p2",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                55,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "But"
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                56,
+                "p2",
+                "verse",
+                "v11",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 6:24;1 Chr. 6:22;[ch.16:32]"
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                57,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "the sons of Korah did not die."
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                "v011_ESV_NUM_026",
+                58,
+                "p2",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 But the sons of Korah did not die."
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                59,
+                "p3",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                60,
+                "p3",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "The sons of"
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                61,
+                "p3",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#Gen. 46:10;Ex. 6:15;1 Chr. 4:24"
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                62,
+                "p3",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "Simeon according to their clans: of Nemuel, the clan of the Nemuelites; of Jamin, the clan of the Jaminites; of Jachin, the clan of the Jachinites;"
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                "v012_ESV_NUM_026",
+                63,
+                "p3",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 The sons of Simeon according to their clans: of Nemuel, the clan of the Nemuelites; of Jamin, the clan of the Jaminites; of Jachin, the clan of the Jachinites;"
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                64,
+                "p3",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                65,
+                "p3",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "of Zerah, the clan of the Zerahites; of Shaul, the clan of the Shaulites."
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                "v013_ESV_NUM_026",
+                66,
+                "p3",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 of Zerah, the clan of the Zerahites; of Shaul, the clan of the Shaulites."
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                67,
+                "p3",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                68,
+                "p3",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "These are the clans of the Simeonites,"
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                69,
+                "p3",
+                "verse",
+                "v14",
+                "note",
+                "x"
+              ],
+              "value": "#[ch.1:23]"
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                70,
+                "p3",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "22,200."
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                "v014_ESV_NUM_026",
+                71,
+                "p3",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 These are the clans of the Simeonites, 22,200."
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                72,
+                "p4",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                73,
+                "p4",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "The sons of"
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                74,
+                "p4",
+                "verse",
+                "v15",
+                "note",
+                "x"
+              ],
+              "value": "#Gen. 46:16"
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                75,
+                "p4",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "Gad according to their clans: of Zephon, the clan of the Zephonites; of Haggi, the clan of the Haggites; of Shuni, the clan of the Shunites;"
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                "v015_ESV_NUM_026",
+                76,
+                "p4",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 The sons of Gad according to their clans: of Zephon, the clan of the Zephonites; of Haggi, the clan of the Haggites; of Shuni, the clan of the Shunites;"
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                77,
+                "p4",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                78,
+                "p4",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "of Ozni, the clan of the Oznites; of Eri, the clan of the Erites;"
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                "v016_ESV_NUM_026",
+                79,
+                "p4",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 of Ozni, the clan of the Oznites; of Eri, the clan of the Erites;"
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                80,
+                "p4",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                81,
+                "p4",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "of Arod, the clan of the Arodites; of Areli, the clan of the Arelites."
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                "v017_ESV_NUM_026",
+                82,
+                "p4",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 of Arod, the clan of the Arodites; of Areli, the clan of the Arelites."
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                83,
+                "p4",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                84,
+                "p4",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "These are the clans of the sons of Gad as they were listed,"
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                85,
+                "p4",
+                "verse",
+                "v18",
+                "note",
+                "x"
+              ],
+              "value": "#[ch.1:25]"
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                86,
+                "p4",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "40,500."
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                "v018_ESV_NUM_026",
+                87,
+                "p4",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 These are the clans of the sons of Gad as they were listed, 40,500."
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                88,
+                "p5",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                89,
+                "p5",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "The sons of"
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                90,
+                "p5",
+                "verse",
+                "v19",
+                "note",
+                "x"
+              ],
+              "value": "#Gen. 46:12;1 Chr. 2:3-5;SeeGen. 38:3-10"
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                91,
+                "p5",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "Judah were Er and Onan; and Er and Onan died in the land of Canaan."
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                "v019_ESV_NUM_026",
+                92,
+                "p5",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 The sons of Judah were Er and Onan; and Er and Onan died in the land of Canaan."
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                93,
+                "p5",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                94,
+                "p5",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "And the sons of Judah according to their clans were: of Shelah, the clan of the Shelanites; of Perez, the clan of the Perezites; of Zerah, the clan of the Zerahites."
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                "v020_ESV_NUM_026",
+                95,
+                "p5",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 And the sons of Judah according to their clans were: of Shelah, the clan of the Shelanites; of Perez, the clan of the Perezites; of Zerah, the clan of the Zerahites."
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                96,
+                "p5",
+                "verse",
+                "v21",
+                "label"
+              ],
+              "value": "21"
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                97,
+                "p5",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "And the sons of Perez were: of Hezron, the clan of the Hezronites; of Hamul, the clan of the Hamulites."
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                "v021_ESV_NUM_026",
+                98,
+                "p5",
+                "verse",
+                "v21",
+                "plain_text"
+              ],
+              "value": "21 And the sons of Perez were: of Hezron, the clan of the Hezronites; of Hamul, the clan of the Hamulites."
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                99,
+                "p5",
+                "verse",
+                "v22",
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                100,
+                "p5",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "These are the clans of Judah as they were listed,"
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                101,
+                "p5",
+                "verse",
+                "v22",
+                "note",
+                "x"
+              ],
+              "value": "#[ch.1:27]"
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                102,
+                "p5",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "76,500."
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                "v022_ESV_NUM_026",
+                103,
+                "p5",
+                "verse",
+                "v22",
+                "plain_text"
+              ],
+              "value": "22 These are the clans of Judah as they were listed, 76,500."
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                104,
+                "p6",
+                "verse",
+                "v23",
+                "label"
+              ],
+              "value": "23"
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                105,
+                "p6",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "The sons of"
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                106,
+                "p6",
+                "verse",
+                "v23",
+                "note",
+                "x"
+              ],
+              "value": "#Gen. 46:13;1 Chr. 7:1"
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                107,
+                "p6",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "Issachar according to their clans: of Tola, the clan of the Tolaites; of Puvah, the clan of the Punites;"
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                "v023_ESV_NUM_026",
+                108,
+                "p6",
+                "verse",
+                "v23",
+                "plain_text"
+              ],
+              "value": "23 The sons of Issachar according to their clans: of Tola, the clan of the Tolaites; of Puvah, the clan of the Punites;"
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                109,
+                "p6",
+                "verse",
+                "v24",
+                "label"
+              ],
+              "value": "24"
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                110,
+                "p6",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "of Jashub, the clan of the Jashubites; of Shimron, the clan of the Shimronites."
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                "v024_ESV_NUM_026",
+                111,
+                "p6",
+                "verse",
+                "v24",
+                "plain_text"
+              ],
+              "value": "24 of Jashub, the clan of the Jashubites; of Shimron, the clan of the Shimronites."
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                112,
+                "p6",
+                "verse",
+                "v25",
+                "label"
+              ],
+              "value": "25"
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                113,
+                "p6",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "These are the clans of Issachar as they were listed,"
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                114,
+                "p6",
+                "verse",
+                "v25",
+                "note",
+                "x"
+              ],
+              "value": "#[ch.1:29]"
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                115,
+                "p6",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "64,300."
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                "v025_ESV_NUM_026",
+                116,
+                "p6",
+                "verse",
+                "v25",
+                "plain_text"
+              ],
+              "value": "25 These are the clans of Issachar as they were listed, 64,300."
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                117,
+                "p7",
+                "verse",
+                "v26",
+                "label"
+              ],
+              "value": "26"
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                118,
+                "p7",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "The sons of"
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                119,
+                "p7",
+                "verse",
+                "v26",
+                "note",
+                "x"
+              ],
+              "value": "#Gen. 46:14"
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                120,
+                "p7",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "Zebulun, according to their clans: of Sered, the clan of the Seredites; of Elon, the clan of the Elonites; of Jahleel, the clan of the Jahleelites."
+            },
+            {
+              "rowId": 121,
+              "keyParts": [
+                "v026_ESV_NUM_026",
+                121,
+                "p7",
+                "verse",
+                "v26",
+                "plain_text"
+              ],
+              "value": "26 The sons of Zebulun, according to their clans: of Sered, the clan of the Seredites; of Elon, the clan of the Elonites; of Jahleel, the clan of the Jahleelites."
+            },
+            {
+              "rowId": 122,
+              "keyParts": [
+                122,
+                "p7",
+                "verse",
+                "v27",
+                "label"
+              ],
+              "value": "27"
+            },
+            {
+              "rowId": 123,
+              "keyParts": [
+                123,
+                "p7",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "These are the clans of the Zebulunites as they were listed,"
+            },
+            {
+              "rowId": 124,
+              "keyParts": [
+                124,
+                "p7",
+                "verse",
+                "v27",
+                "note",
+                "x"
+              ],
+              "value": "#[ch.1:31]"
+            },
+            {
+              "rowId": 125,
+              "keyParts": [
+                125,
+                "p7",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "60,500."
+            },
+            {
+              "rowId": 126,
+              "keyParts": [
+                "v027_ESV_NUM_026",
+                126,
+                "p7",
+                "verse",
+                "v27",
+                "plain_text"
+              ],
+              "value": "27 These are the clans of the Zebulunites as they were listed, 60,500."
+            },
+            {
+              "rowId": 127,
+              "keyParts": [
+                127,
+                "p8",
+                "verse",
+                "v28",
+                "label"
+              ],
+              "value": "28"
+            },
+            {
+              "rowId": 128,
+              "keyParts": [
+                128,
+                "p8",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "The sons of"
+            },
+            {
+              "rowId": 129,
+              "keyParts": [
+                129,
+                "p8",
+                "verse",
+                "v28",
+                "note",
+                "x"
+              ],
+              "value": "#Gen. 46:20"
+            },
+            {
+              "rowId": 130,
+              "keyParts": [
+                130,
+                "p8",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "Joseph according to their clans: Manasseh and Ephraim."
+            },
+            {
+              "rowId": 131,
+              "keyParts": [
+                "v028_ESV_NUM_026",
+                131,
+                "p8",
+                "verse",
+                "v28",
+                "plain_text"
+              ],
+              "value": "28 The sons of Joseph according to their clans: Manasseh and Ephraim."
+            },
+            {
+              "rowId": 132,
+              "keyParts": [
+                132,
+                "p8",
+                "verse",
+                "v29",
+                "label"
+              ],
+              "value": "29"
+            },
+            {
+              "rowId": 133,
+              "keyParts": [
+                133,
+                "p8",
+                "verse",
+                "v29",
+                "note",
+                "x"
+              ],
+              "value": "#For ver. 29-37, see1 Chr. 7:14-20"
+            },
+            {
+              "rowId": 134,
+              "keyParts": [
+                134,
+                "p8",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "The sons of Manasseh: of"
+            },
+            {
+              "rowId": 135,
+              "keyParts": [
+                135,
+                "p8",
+                "verse",
+                "v29",
+                "note",
+                "x"
+              ],
+              "value": "#Josh. 17:1"
+            },
+            {
+              "rowId": 136,
+              "keyParts": [
+                136,
+                "p8",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "Machir, the clan of the Machirites; and Machir was the father of Gilead;"
+            },
+            {
+              "rowId": 137,
+              "keyParts": [
+                137,
+                "p8",
+                "verse",
+                "v29",
+                "note",
+                "x"
+              ],
+              "value": "#ch.36:1"
+            },
+            {
+              "rowId": 138,
+              "keyParts": [
+                138,
+                "p8",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "of Gilead, the clan of the Gileadites."
+            },
+            {
+              "rowId": 139,
+              "keyParts": [
+                "v029_ESV_NUM_026",
+                139,
+                "p8",
+                "verse",
+                "v29",
+                "plain_text"
+              ],
+              "value": "29 The sons of Manasseh: of Machir, the clan of the Machirites; and Machir was the father of Gilead; of Gilead, the clan of the Gileadites."
+            },
+            {
+              "rowId": 140,
+              "keyParts": [
+                140,
+                "p8",
+                "verse",
+                "v30",
+                "label"
+              ],
+              "value": "30"
+            },
+            {
+              "rowId": 141,
+              "keyParts": [
+                141,
+                "p8",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "These are the sons of Gilead: of Iezer, the clan of the Iezerites; of Helek, the clan of the Helekites;"
+            },
+            {
+              "rowId": 142,
+              "keyParts": [
+                "v030_ESV_NUM_026",
+                142,
+                "p8",
+                "verse",
+                "v30",
+                "plain_text"
+              ],
+              "value": "30 These are the sons of Gilead: of Iezer, the clan of the Iezerites; of Helek, the clan of the Helekites;"
+            },
+            {
+              "rowId": 143,
+              "keyParts": [
+                143,
+                "p8",
+                "verse",
+                "v31",
+                "label"
+              ],
+              "value": "31"
+            },
+            {
+              "rowId": 144,
+              "keyParts": [
+                144,
+                "p8",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "and of Asriel, the clan of the Asrielites; and of Shechem, the clan of the Shechemites;"
+            },
+            {
+              "rowId": 145,
+              "keyParts": [
+                "v031_ESV_NUM_026",
+                145,
+                "p8",
+                "verse",
+                "v31",
+                "plain_text"
+              ],
+              "value": "31 and of Asriel, the clan of the Asrielites; and of Shechem, the clan of the Shechemites;"
+            },
+            {
+              "rowId": 146,
+              "keyParts": [
+                146,
+                "p8",
+                "verse",
+                "v32",
+                "label"
+              ],
+              "value": "32"
+            },
+            {
+              "rowId": 147,
+              "keyParts": [
+                147,
+                "p8",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "and of Shemida, the clan of the Shemidaites; and of Hepher, the clan of the Hepherites."
+            },
+            {
+              "rowId": 148,
+              "keyParts": [
+                "v032_ESV_NUM_026",
+                148,
+                "p8",
+                "verse",
+                "v32",
+                "plain_text"
+              ],
+              "value": "32 and of Shemida, the clan of the Shemidaites; and of Hepher, the clan of the Hepherites."
+            },
+            {
+              "rowId": 149,
+              "keyParts": [
+                149,
+                "p8",
+                "verse",
+                "v33",
+                "label"
+              ],
+              "value": "33"
+            },
+            {
+              "rowId": 150,
+              "keyParts": [
+                150,
+                "p8",
+                "verse",
+                "v33",
+                "content"
+              ],
+              "value": "Now"
+            },
+            {
+              "rowId": 151,
+              "keyParts": [
+                151,
+                "p8",
+                "verse",
+                "v33",
+                "note",
+                "x"
+              ],
+              "value": "#ch.27:1;36:11;Josh. 17:3"
+            },
+            {
+              "rowId": 152,
+              "keyParts": [
+                152,
+                "p8",
+                "verse",
+                "v33",
+                "content"
+              ],
+              "value": "Zelophehad the son of Hepher had no sons, but daughters. And the names of the daughters of Zelophehad were Mahlah, Noah, Hoglah, Milcah, and Tirzah."
+            },
+            {
+              "rowId": 153,
+              "keyParts": [
+                "v033_ESV_NUM_026",
+                153,
+                "p8",
+                "verse",
+                "v33",
+                "plain_text"
+              ],
+              "value": "33 Now Zelophehad the son of Hepher had no sons, but daughters. And the names of the daughters of Zelophehad were Mahlah, Noah, Hoglah, Milcah, and Tirzah."
+            },
+            {
+              "rowId": 154,
+              "keyParts": [
+                154,
+                "p8",
+                "verse",
+                "v34",
+                "label"
+              ],
+              "value": "34"
+            },
+            {
+              "rowId": 155,
+              "keyParts": [
+                155,
+                "p8",
+                "verse",
+                "v34",
+                "content"
+              ],
+              "value": "These are the clans of Manasseh, and those listed were"
+            },
+            {
+              "rowId": 156,
+              "keyParts": [
+                156,
+                "p8",
+                "verse",
+                "v34",
+                "note",
+                "x"
+              ],
+              "value": "#[ch.1:35]"
+            },
+            {
+              "rowId": 157,
+              "keyParts": [
+                157,
+                "p8",
+                "verse",
+                "v34",
+                "content"
+              ],
+              "value": "52,700."
+            },
+            {
+              "rowId": 158,
+              "keyParts": [
+                "v034_ESV_NUM_026",
+                158,
+                "p8",
+                "verse",
+                "v34",
+                "plain_text"
+              ],
+              "value": "34 These are the clans of Manasseh, and those listed were 52,700."
+            },
+            {
+              "rowId": 159,
+              "keyParts": [
+                159,
+                "p9",
+                "verse",
+                "v35",
+                "label"
+              ],
+              "value": "35"
+            },
+            {
+              "rowId": 160,
+              "keyParts": [
+                160,
+                "p9",
+                "verse",
+                "v35",
+                "content"
+              ],
+              "value": "These are the sons of Ephraim according to their clans: of Shuthelah, the clan of the Shuthelahites; of Becher, the clan of the Becherites; of Tahan, the clan of the Tahanites."
+            },
+            {
+              "rowId": 161,
+              "keyParts": [
+                "v035_ESV_NUM_026",
+                161,
+                "p9",
+                "verse",
+                "v35",
+                "plain_text"
+              ],
+              "value": "35 These are the sons of Ephraim according to their clans: of Shuthelah, the clan of the Shuthelahites; of Becher, the clan of the Becherites; of Tahan, the clan of the Tahanites."
+            },
+            {
+              "rowId": 162,
+              "keyParts": [
+                162,
+                "p9",
+                "verse",
+                "v36",
+                "label"
+              ],
+              "value": "36"
+            },
+            {
+              "rowId": 163,
+              "keyParts": [
+                163,
+                "p9",
+                "verse",
+                "v36",
+                "content"
+              ],
+              "value": "And these are the sons of Shuthelah: of Eran, the clan of the Eranites."
+            },
+            {
+              "rowId": 164,
+              "keyParts": [
+                "v036_ESV_NUM_026",
+                164,
+                "p9",
+                "verse",
+                "v36",
+                "plain_text"
+              ],
+              "value": "36 And these are the sons of Shuthelah: of Eran, the clan of the Eranites."
+            },
+            {
+              "rowId": 165,
+              "keyParts": [
+                165,
+                "p9",
+                "verse",
+                "v37",
+                "label"
+              ],
+              "value": "37"
+            },
+            {
+              "rowId": 166,
+              "keyParts": [
+                166,
+                "p9",
+                "verse",
+                "v37",
+                "content"
+              ],
+              "value": "These are the clans of the sons of Ephraim as they were listed,"
+            },
+            {
+              "rowId": 167,
+              "keyParts": [
+                167,
+                "p9",
+                "verse",
+                "v37",
+                "note",
+                "x"
+              ],
+              "value": "#[ch.1:33]"
+            },
+            {
+              "rowId": 168,
+              "keyParts": [
+                168,
+                "p9",
+                "verse",
+                "v37",
+                "content"
+              ],
+              "value": "32,500. These are the sons of Joseph according to their clans."
+            },
+            {
+              "rowId": 169,
+              "keyParts": [
+                "v037_ESV_NUM_026",
+                169,
+                "p9",
+                "verse",
+                "v37",
+                "plain_text"
+              ],
+              "value": "37 These are the clans of the sons of Ephraim as they were listed, 32,500. These are the sons of Joseph according to their clans."
+            },
+            {
+              "rowId": 170,
+              "keyParts": [
+                170,
+                "p10",
+                "verse",
+                "v38",
+                "label"
+              ],
+              "value": "38"
+            },
+            {
+              "rowId": 171,
+              "keyParts": [
+                171,
+                "p10",
+                "verse",
+                "v38",
+                "content"
+              ],
+              "value": "The sons of"
+            },
+            {
+              "rowId": 172,
+              "keyParts": [
+                172,
+                "p10",
+                "verse",
+                "v38",
+                "note",
+                "x"
+              ],
+              "value": "#Gen. 46:21;1 Chr. 7:6;See1 Chr. 8:1-5"
+            },
+            {
+              "rowId": 173,
+              "keyParts": [
+                173,
+                "p10",
+                "verse",
+                "v38",
+                "content"
+              ],
+              "value": "Benjamin according to their clans: of Bela, the clan of the Belaites; of Ashbel, the clan of the Ashbelites; of Ahiram, the clan of the Ahiramites;"
+            },
+            {
+              "rowId": 174,
+              "keyParts": [
+                "v038_ESV_NUM_026",
+                174,
+                "p10",
+                "verse",
+                "v38",
+                "plain_text"
+              ],
+              "value": "38 The sons of Benjamin according to their clans: of Bela, the clan of the Belaites; of Ashbel, the clan of the Ashbelites; of Ahiram, the clan of the Ahiramites;"
+            },
+            {
+              "rowId": 175,
+              "keyParts": [
+                175,
+                "p10",
+                "verse",
+                "v39",
+                "label"
+              ],
+              "value": "39"
+            },
+            {
+              "rowId": 176,
+              "keyParts": [
+                176,
+                "p10",
+                "verse",
+                "v39",
+                "content"
+              ],
+              "value": "of Shephupham, the clan of the Shuphamites; of Hupham, the clan of the Huphamites."
+            },
+            {
+              "rowId": 177,
+              "keyParts": [
+                "v039_ESV_NUM_026",
+                177,
+                "p10",
+                "verse",
+                "v39",
+                "plain_text"
+              ],
+              "value": "39 of Shephupham, the clan of the Shuphamites; of Hupham, the clan of the Huphamites."
+            },
+            {
+              "rowId": 178,
+              "keyParts": [
+                178,
+                "p10",
+                "verse",
+                "v40",
+                "label"
+              ],
+              "value": "40"
+            },
+            {
+              "rowId": 179,
+              "keyParts": [
+                179,
+                "p10",
+                "verse",
+                "v40",
+                "content"
+              ],
+              "value": "And the sons of Bela were Ard and Naaman: of Ard, the clan of the Ardites; of Naaman, the clan of the Naamites."
+            },
+            {
+              "rowId": 180,
+              "keyParts": [
+                "v040_ESV_NUM_026",
+                180,
+                "p10",
+                "verse",
+                "v40",
+                "plain_text"
+              ],
+              "value": "40 And the sons of Bela were Ard and Naaman: of Ard, the clan of the Ardites; of Naaman, the clan of the Naamites."
+            },
+            {
+              "rowId": 181,
+              "keyParts": [
+                181,
+                "p10",
+                "verse",
+                "v41",
+                "label"
+              ],
+              "value": "41"
+            },
+            {
+              "rowId": 182,
+              "keyParts": [
+                182,
+                "p10",
+                "verse",
+                "v41",
+                "content"
+              ],
+              "value": "These are the sons of Benjamin according to their clans, and those listed were"
+            },
+            {
+              "rowId": 183,
+              "keyParts": [
+                183,
+                "p10",
+                "verse",
+                "v41",
+                "note",
+                "x"
+              ],
+              "value": "#[ch.1:37]"
+            },
+            {
+              "rowId": 184,
+              "keyParts": [
+                184,
+                "p10",
+                "verse",
+                "v41",
+                "content"
+              ],
+              "value": "45,600."
+            },
+            {
+              "rowId": 185,
+              "keyParts": [
+                "v041_ESV_NUM_026",
+                185,
+                "p10",
+                "verse",
+                "v41",
+                "plain_text"
+              ],
+              "value": "41 These are the sons of Benjamin according to their clans, and those listed were 45,600."
+            },
+            {
+              "rowId": 186,
+              "keyParts": [
+                186,
+                "p11",
+                "verse",
+                "v42",
+                "label"
+              ],
+              "value": "42"
+            },
+            {
+              "rowId": 187,
+              "keyParts": [
+                187,
+                "p11",
+                "verse",
+                "v42",
+                "content"
+              ],
+              "value": "These are the sons of"
+            },
+            {
+              "rowId": 188,
+              "keyParts": [
+                188,
+                "p11",
+                "verse",
+                "v42",
+                "note",
+                "x"
+              ],
+              "value": "#Gen. 46:23"
+            },
+            {
+              "rowId": 189,
+              "keyParts": [
+                189,
+                "p11",
+                "verse",
+                "v42",
+                "content"
+              ],
+              "value": "Dan according to their clans: of Shuham, the clan of the Shuhamites. These are the clans of Dan according to their clans."
+            },
+            {
+              "rowId": 190,
+              "keyParts": [
+                "v042_ESV_NUM_026",
+                190,
+                "p11",
+                "verse",
+                "v42",
+                "plain_text"
+              ],
+              "value": "42 These are the sons of Dan according to their clans: of Shuham, the clan of the Shuhamites. These are the clans of Dan according to their clans."
+            },
+            {
+              "rowId": 191,
+              "keyParts": [
+                191,
+                "p11",
+                "verse",
+                "v43",
+                "label"
+              ],
+              "value": "43"
+            },
+            {
+              "rowId": 192,
+              "keyParts": [
+                192,
+                "p11",
+                "verse",
+                "v43",
+                "content"
+              ],
+              "value": "All the clans of the Shuhamites, as they were listed, were"
+            },
+            {
+              "rowId": 193,
+              "keyParts": [
+                193,
+                "p11",
+                "verse",
+                "v43",
+                "note",
+                "x"
+              ],
+              "value": "#[ch.1:39]"
+            },
+            {
+              "rowId": 194,
+              "keyParts": [
+                194,
+                "p11",
+                "verse",
+                "v43",
+                "content"
+              ],
+              "value": "64,400."
+            },
+            {
+              "rowId": 195,
+              "keyParts": [
+                "v043_ESV_NUM_026",
+                195,
+                "p11",
+                "verse",
+                "v43",
+                "plain_text"
+              ],
+              "value": "43 All the clans of the Shuhamites, as they were listed, were 64,400."
+            },
+            {
+              "rowId": 196,
+              "keyParts": [
+                196,
+                "p12",
+                "verse",
+                "v44",
+                "label"
+              ],
+              "value": "44"
+            },
+            {
+              "rowId": 197,
+              "keyParts": [
+                197,
+                "p12",
+                "verse",
+                "v44",
+                "content"
+              ],
+              "value": "The sons of"
+            },
+            {
+              "rowId": 198,
+              "keyParts": [
+                198,
+                "p12",
+                "verse",
+                "v44",
+                "note",
+                "x"
+              ],
+              "value": "#Gen. 46:17;1 Chr. 7:30,31"
+            },
+            {
+              "rowId": 199,
+              "keyParts": [
+                199,
+                "p12",
+                "verse",
+                "v44",
+                "content"
+              ],
+              "value": "Asher according to their clans: of Imnah, the clan of the Imnites; of Ishvi, the clan of the Ishvites; of Beriah, the clan of the Beriites."
+            },
+            {
+              "rowId": 200,
+              "keyParts": [
+                "v044_ESV_NUM_026",
+                200,
+                "p12",
+                "verse",
+                "v44",
+                "plain_text"
+              ],
+              "value": "44 The sons of Asher according to their clans: of Imnah, the clan of the Imnites; of Ishvi, the clan of the Ishvites; of Beriah, the clan of the Beriites."
+            },
+            {
+              "rowId": 201,
+              "keyParts": [
+                201,
+                "p12",
+                "verse",
+                "v45",
+                "label"
+              ],
+              "value": "45"
+            },
+            {
+              "rowId": 202,
+              "keyParts": [
+                202,
+                "p12",
+                "verse",
+                "v45",
+                "content"
+              ],
+              "value": "Of the sons of Beriah: of Heber, the clan of the Heberites; of Malchiel, the clan of the Malchielites."
+            },
+            {
+              "rowId": 203,
+              "keyParts": [
+                "v045_ESV_NUM_026",
+                203,
+                "p12",
+                "verse",
+                "v45",
+                "plain_text"
+              ],
+              "value": "45 Of the sons of Beriah: of Heber, the clan of the Heberites; of Malchiel, the clan of the Malchielites."
+            },
+            {
+              "rowId": 204,
+              "keyParts": [
+                204,
+                "p12",
+                "verse",
+                "v46",
+                "label"
+              ],
+              "value": "46"
+            },
+            {
+              "rowId": 205,
+              "keyParts": [
+                205,
+                "p12",
+                "verse",
+                "v46",
+                "content"
+              ],
+              "value": "And the name of the daughter of Asher was Serah."
+            },
+            {
+              "rowId": 206,
+              "keyParts": [
+                "v046_ESV_NUM_026",
+                206,
+                "p12",
+                "verse",
+                "v46",
+                "plain_text"
+              ],
+              "value": "46 And the name of the daughter of Asher was Serah."
+            },
+            {
+              "rowId": 207,
+              "keyParts": [
+                207,
+                "p12",
+                "verse",
+                "v47",
+                "label"
+              ],
+              "value": "47"
+            },
+            {
+              "rowId": 208,
+              "keyParts": [
+                208,
+                "p12",
+                "verse",
+                "v47",
+                "content"
+              ],
+              "value": "These are the clans of the sons of Asher as they were listed,"
+            },
+            {
+              "rowId": 209,
+              "keyParts": [
+                209,
+                "p12",
+                "verse",
+                "v47",
+                "note",
+                "x"
+              ],
+              "value": "#[ch.1:41]"
+            },
+            {
+              "rowId": 210,
+              "keyParts": [
+                210,
+                "p12",
+                "verse",
+                "v47",
+                "content"
+              ],
+              "value": "53,400."
+            },
+            {
+              "rowId": 211,
+              "keyParts": [
+                "v047_ESV_NUM_026",
+                211,
+                "p12",
+                "verse",
+                "v47",
+                "plain_text"
+              ],
+              "value": "47 These are the clans of the sons of Asher as they were listed, 53,400."
+            },
+            {
+              "rowId": 212,
+              "keyParts": [
+                212,
+                "p13",
+                "verse",
+                "v48",
+                "label"
+              ],
+              "value": "48"
+            },
+            {
+              "rowId": 213,
+              "keyParts": [
+                213,
+                "p13",
+                "verse",
+                "v48",
+                "content"
+              ],
+              "value": "The sons of"
+            },
+            {
+              "rowId": 214,
+              "keyParts": [
+                214,
+                "p13",
+                "verse",
+                "v48",
+                "note",
+                "x"
+              ],
+              "value": "#Gen. 46:24;1 Chr. 7:13"
+            },
+            {
+              "rowId": 215,
+              "keyParts": [
+                215,
+                "p13",
+                "verse",
+                "v48",
+                "content"
+              ],
+              "value": "Naphtali according to their clans: of Jahzeel, the clan of the Jahzeelites; of Guni, the clan of the Gunites;"
+            },
+            {
+              "rowId": 216,
+              "keyParts": [
+                "v048_ESV_NUM_026",
+                216,
+                "p13",
+                "verse",
+                "v48",
+                "plain_text"
+              ],
+              "value": "48 The sons of Naphtali according to their clans: of Jahzeel, the clan of the Jahzeelites; of Guni, the clan of the Gunites;"
+            },
+            {
+              "rowId": 217,
+              "keyParts": [
+                217,
+                "p13",
+                "verse",
+                "v49",
+                "label"
+              ],
+              "value": "49"
+            },
+            {
+              "rowId": 218,
+              "keyParts": [
+                218,
+                "p13",
+                "verse",
+                "v49",
+                "content"
+              ],
+              "value": "of Jezer, the clan of the Jezerites; of Shillem, the clan of the Shillemites."
+            },
+            {
+              "rowId": 219,
+              "keyParts": [
+                "v049_ESV_NUM_026",
+                219,
+                "p13",
+                "verse",
+                "v49",
+                "plain_text"
+              ],
+              "value": "49 of Jezer, the clan of the Jezerites; of Shillem, the clan of the Shillemites."
+            },
+            {
+              "rowId": 220,
+              "keyParts": [
+                220,
+                "p13",
+                "verse",
+                "v50",
+                "label"
+              ],
+              "value": "50"
+            },
+            {
+              "rowId": 221,
+              "keyParts": [
+                221,
+                "p13",
+                "verse",
+                "v50",
+                "content"
+              ],
+              "value": "These are the clans of Naphtali according to their clans, and those listed were"
+            },
+            {
+              "rowId": 222,
+              "keyParts": [
+                222,
+                "p13",
+                "verse",
+                "v50",
+                "note",
+                "x"
+              ],
+              "value": "#[ch.1:43]"
+            },
+            {
+              "rowId": 223,
+              "keyParts": [
+                223,
+                "p13",
+                "verse",
+                "v50",
+                "content"
+              ],
+              "value": "45,400."
+            },
+            {
+              "rowId": 224,
+              "keyParts": [
+                "v050_ESV_NUM_026",
+                224,
+                "p13",
+                "verse",
+                "v50",
+                "plain_text"
+              ],
+              "value": "50 These are the clans of Naphtali according to their clans, and those listed were 45,400."
+            },
+            {
+              "rowId": 225,
+              "keyParts": [
+                225,
+                "p14",
+                "verse",
+                "v51",
+                "label"
+              ],
+              "value": "51"
+            },
+            {
+              "rowId": 226,
+              "keyParts": [
+                226,
+                "p14",
+                "verse",
+                "v51",
+                "content"
+              ],
+              "value": "This was the list of the people of Israel,"
+            },
+            {
+              "rowId": 227,
+              "keyParts": [
+                227,
+                "p14",
+                "verse",
+                "v51",
+                "note",
+                "x"
+              ],
+              "value": "#[ch.1:46]"
+            },
+            {
+              "rowId": 228,
+              "keyParts": [
+                228,
+                "p14",
+                "verse",
+                "v51",
+                "content"
+              ],
+              "value": "601,730."
+            },
+            {
+              "rowId": 229,
+              "keyParts": [
+                "v051_ESV_NUM_026",
+                229,
+                "p14",
+                "verse",
+                "v51",
+                "plain_text"
+              ],
+              "value": "51 This was the list of the people of Israel, 601,730."
+            },
+            {
+              "rowId": 230,
+              "keyParts": [
+                230,
+                "p15",
+                "verse",
+                "v52",
+                "label"
+              ],
+              "value": "52"
+            },
+            {
+              "rowId": 231,
+              "keyParts": [
+                231,
+                "p15",
+                "verse",
+                "v52",
+                "content"
+              ],
+              "value": "The"
+            },
+            {
+              "rowId": 232,
+              "keyParts": [
+                232,
+                "p15",
+                "verse",
+                "v52",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 233,
+              "keyParts": [
+                233,
+                "p15",
+                "verse",
+                "v52",
+                "content"
+              ],
+              "value": "spoke to Moses, saying,"
+            },
+            {
+              "rowId": 234,
+              "keyParts": [
+                "v052_ESV_NUM_026",
+                234,
+                "p15",
+                "verse",
+                "v52",
+                "plain_text"
+              ],
+              "value": "52 The Lord spoke to Moses, saying,"
+            },
+            {
+              "rowId": 235,
+              "keyParts": [
+                235,
+                "p15",
+                "verse",
+                "v53",
+                "label"
+              ],
+              "value": "53"
+            },
+            {
+              "rowId": 236,
+              "keyParts": [
+                236,
+                "p15",
+                "verse",
+                "v53",
+                "note",
+                "x"
+              ],
+              "value": "#Josh. 11:23;14:1,2;Ps. 105:44"
+            },
+            {
+              "rowId": 237,
+              "keyParts": [
+                237,
+                "p15",
+                "verse",
+                "v53",
+                "content"
+              ],
+              "value": "“Among these the land shall be divided for inheritance according to the number of names."
+            },
+            {
+              "rowId": 238,
+              "keyParts": [
+                "v053_ESV_NUM_026",
+                238,
+                "p15",
+                "verse",
+                "v53",
+                "plain_text"
+              ],
+              "value": "53 “Among these the land shall be divided for inheritance according to the number of names."
+            },
+            {
+              "rowId": 239,
+              "keyParts": [
+                239,
+                "p15",
+                "verse",
+                "v54",
+                "label"
+              ],
+              "value": "54"
+            },
+            {
+              "rowId": 240,
+              "keyParts": [
+                240,
+                "p15",
+                "verse",
+                "v54",
+                "note",
+                "x"
+              ],
+              "value": "#ch.33:54;35:8"
+            },
+            {
+              "rowId": 241,
+              "keyParts": [
+                241,
+                "p15",
+                "verse",
+                "v54",
+                "content"
+              ],
+              "value": "To a large tribe you shall give a large inheritance, and to a small tribe you shall give a small inheritance; every tribe shall be given its inheritance in proportion to its list."
+            },
+            {
+              "rowId": 242,
+              "keyParts": [
+                "v054_ESV_NUM_026",
+                242,
+                "p15",
+                "verse",
+                "v54",
+                "plain_text"
+              ],
+              "value": "54 To a large tribe you shall give a large inheritance, and to a small tribe you shall give a small inheritance; every tribe shall be given its inheritance in proportion to its list."
+            },
+            {
+              "rowId": 243,
+              "keyParts": [
+                243,
+                "p15",
+                "verse",
+                "v55",
+                "label"
+              ],
+              "value": "55"
+            },
+            {
+              "rowId": 244,
+              "keyParts": [
+                244,
+                "p15",
+                "verse",
+                "v55",
+                "content"
+              ],
+              "value": "But the land shall be"
+            },
+            {
+              "rowId": 245,
+              "keyParts": [
+                245,
+                "p15",
+                "verse",
+                "v55",
+                "note",
+                "x"
+              ],
+              "value": "#ch.33:54;34:13;Josh. 11:23;14:2"
+            },
+            {
+              "rowId": 246,
+              "keyParts": [
+                246,
+                "p15",
+                "verse",
+                "v55",
+                "content"
+              ],
+              "value": "divided by lot. According to the names of the tribes of their fathers they shall inherit."
+            },
+            {
+              "rowId": 247,
+              "keyParts": [
+                "v055_ESV_NUM_026",
+                247,
+                "p15",
+                "verse",
+                "v55",
+                "plain_text"
+              ],
+              "value": "55 But the land shall be divided by lot. According to the names of the tribes of their fathers they shall inherit."
+            },
+            {
+              "rowId": 248,
+              "keyParts": [
+                248,
+                "p15",
+                "verse",
+                "v56",
+                "label"
+              ],
+              "value": "56"
+            },
+            {
+              "rowId": 249,
+              "keyParts": [
+                249,
+                "p15",
+                "verse",
+                "v56",
+                "content"
+              ],
+              "value": "Their inheritance shall be divided according to lot between the larger and the smaller.”"
+            },
+            {
+              "rowId": 250,
+              "keyParts": [
+                "v056_ESV_NUM_026",
+                250,
+                "p15",
+                "verse",
+                "v56",
+                "plain_text"
+              ],
+              "value": "56 Their inheritance shall be divided according to lot between the larger and the smaller.”"
+            },
+            {
+              "rowId": 251,
+              "keyParts": [
+                251,
+                "p16",
+                "verse",
+                "v57",
+                "label"
+              ],
+              "value": "57"
+            },
+            {
+              "rowId": 252,
+              "keyParts": [
+                252,
+                "p16",
+                "verse",
+                "v57",
+                "note",
+                "x"
+              ],
+              "value": "#Gen. 46:11;SeeEx. 6:16-19;1 Chr. 6:1,16-30"
+            },
+            {
+              "rowId": 253,
+              "keyParts": [
+                253,
+                "p16",
+                "verse",
+                "v57",
+                "content"
+              ],
+              "value": "This was the list of the Levites according to their clans: of Gershon, the clan of the Gershonites; of Kohath, the clan of the Kohathites; of Merari, the clan of the Merarites."
+            },
+            {
+              "rowId": 254,
+              "keyParts": [
+                "v057_ESV_NUM_026",
+                254,
+                "p16",
+                "verse",
+                "v57",
+                "plain_text"
+              ],
+              "value": "57 This was the list of the Levites according to their clans: of Gershon, the clan of the Gershonites; of Kohath, the clan of the Kohathites; of Merari, the clan of the Merarites."
+            },
+            {
+              "rowId": 255,
+              "keyParts": [
+                255,
+                "p16",
+                "verse",
+                "v58",
+                "label"
+              ],
+              "value": "58"
+            },
+            {
+              "rowId": 256,
+              "keyParts": [
+                256,
+                "p16",
+                "verse",
+                "v58",
+                "content"
+              ],
+              "value": "These are the clans of Levi: the clan of the Libnites, the clan of the Hebronites, the clan of the Mahlites, the clan of the Mushites, the clan of the Korahites. And Kohath was the father of Amram."
+            },
+            {
+              "rowId": 257,
+              "keyParts": [
+                "v058_ESV_NUM_026",
+                257,
+                "p16",
+                "verse",
+                "v58",
+                "plain_text"
+              ],
+              "value": "58 These are the clans of Levi: the clan of the Libnites, the clan of the Hebronites, the clan of the Mahlites, the clan of the Mushites, the clan of the Korahites. And Kohath was the father of Amram."
+            },
+            {
+              "rowId": 258,
+              "keyParts": [
+                258,
+                "p16",
+                "verse",
+                "v59",
+                "label"
+              ],
+              "value": "59"
+            },
+            {
+              "rowId": 259,
+              "keyParts": [
+                259,
+                "p16",
+                "verse",
+                "v59",
+                "content"
+              ],
+              "value": "The name of Amram’s wife was"
+            },
+            {
+              "rowId": 260,
+              "keyParts": [
+                260,
+                "p16",
+                "verse",
+                "v59",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 2:1,2,4;6:20"
+            },
+            {
+              "rowId": 261,
+              "keyParts": [
+                261,
+                "p16",
+                "verse",
+                "v59",
+                "content"
+              ],
+              "value": "Jochebed the daughter of Levi, who was born to Levi in Egypt. And she bore to Amram Aaron and Moses and Miriam their sister."
+            },
+            {
+              "rowId": 262,
+              "keyParts": [
+                "v059_ESV_NUM_026",
+                262,
+                "p16",
+                "verse",
+                "v59",
+                "plain_text"
+              ],
+              "value": "59 The name of Amram’s wife was Jochebed the daughter of Levi, who was born to Levi in Egypt. And she bore to Amram Aaron and Moses and Miriam their sister."
+            },
+            {
+              "rowId": 263,
+              "keyParts": [
+                263,
+                "p16",
+                "verse",
+                "v60",
+                "label"
+              ],
+              "value": "60"
+            },
+            {
+              "rowId": 264,
+              "keyParts": [
+                264,
+                "p16",
+                "verse",
+                "v60",
+                "note",
+                "x"
+              ],
+              "value": "#ch.3:2;1 Chr. 24:1"
+            },
+            {
+              "rowId": 265,
+              "keyParts": [
+                265,
+                "p16",
+                "verse",
+                "v60",
+                "content"
+              ],
+              "value": "And to Aaron were born Nadab, Abihu, Eleazar, and Ithamar."
+            },
+            {
+              "rowId": 266,
+              "keyParts": [
+                "v060_ESV_NUM_026",
+                266,
+                "p16",
+                "verse",
+                "v60",
+                "plain_text"
+              ],
+              "value": "60 And to Aaron were born Nadab, Abihu, Eleazar, and Ithamar."
+            },
+            {
+              "rowId": 267,
+              "keyParts": [
+                267,
+                "p16",
+                "verse",
+                "v61",
+                "label"
+              ],
+              "value": "61"
+            },
+            {
+              "rowId": 268,
+              "keyParts": [
+                268,
+                "p16",
+                "verse",
+                "v61",
+                "note",
+                "x"
+              ],
+              "value": "#ch.3:4;Lev. 10:1,2;1 Chr. 24:2"
+            },
+            {
+              "rowId": 269,
+              "keyParts": [
+                269,
+                "p16",
+                "verse",
+                "v61",
+                "content"
+              ],
+              "value": "But Nadab and Abihu died when they offered unauthorized fire before the"
+            },
+            {
+              "rowId": 270,
+              "keyParts": [
+                270,
+                "p16",
+                "verse",
+                "v61",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 271,
+              "keyParts": [
+                271,
+                "p16",
+                "verse",
+                "v61",
+                "content"
+              ],
+              "value": "."
+            },
+            {
+              "rowId": 272,
+              "keyParts": [
+                "v061_ESV_NUM_026",
+                272,
+                "p16",
+                "verse",
+                "v61",
+                "plain_text"
+              ],
+              "value": "61 But Nadab and Abihu died when they offered unauthorized fire before the Lord ."
+            },
+            {
+              "rowId": 273,
+              "keyParts": [
+                273,
+                "p16",
+                "verse",
+                "v62",
+                "label"
+              ],
+              "value": "62"
+            },
+            {
+              "rowId": 274,
+              "keyParts": [
+                274,
+                "p16",
+                "verse",
+                "v62",
+                "content"
+              ],
+              "value": "And those listed were"
+            },
+            {
+              "rowId": 275,
+              "keyParts": [
+                275,
+                "p16",
+                "verse",
+                "v62",
+                "note",
+                "x"
+              ],
+              "value": "#[ch.3:39]"
+            },
+            {
+              "rowId": 276,
+              "keyParts": [
+                276,
+                "p16",
+                "verse",
+                "v62",
+                "content"
+              ],
+              "value": "23,000, every male from a month old and upward. For"
+            },
+            {
+              "rowId": 277,
+              "keyParts": [
+                277,
+                "p16",
+                "verse",
+                "v62",
+                "note",
+                "x"
+              ],
+              "value": "#ch.1:49"
+            },
+            {
+              "rowId": 278,
+              "keyParts": [
+                278,
+                "p16",
+                "verse",
+                "v62",
+                "content"
+              ],
+              "value": "they were not listed among the people of Israel, because"
+            },
+            {
+              "rowId": 279,
+              "keyParts": [
+                279,
+                "p16",
+                "verse",
+                "v62",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.18:20"
+            },
+            {
+              "rowId": 280,
+              "keyParts": [
+                280,
+                "p16",
+                "verse",
+                "v62",
+                "content"
+              ],
+              "value": "there was no inheritance given to them among the people of Israel."
+            },
+            {
+              "rowId": 281,
+              "keyParts": [
+                "v062_ESV_NUM_026",
+                281,
+                "p16",
+                "verse",
+                "v62",
+                "plain_text"
+              ],
+              "value": "62 And those listed were 23,000, every male from a month old and upward. For they were not listed among the people of Israel, because there was no inheritance given to them among the people of Israel."
+            },
+            {
+              "rowId": 282,
+              "keyParts": [
+                282,
+                "p17",
+                "verse",
+                "v63",
+                "label"
+              ],
+              "value": "63"
+            },
+            {
+              "rowId": 283,
+              "keyParts": [
+                283,
+                "p17",
+                "verse",
+                "v63",
+                "content"
+              ],
+              "value": "These were those listed by Moses and Eleazar the priest, who listed the people of Israel"
+            },
+            {
+              "rowId": 284,
+              "keyParts": [
+                284,
+                "p17",
+                "verse",
+                "v63",
+                "note",
+                "x"
+              ],
+              "value": "#ver.3;See ch.22:1"
+            },
+            {
+              "rowId": 285,
+              "keyParts": [
+                285,
+                "p17",
+                "verse",
+                "v63",
+                "content"
+              ],
+              "value": "in the plains of Moab by the Jordan at Jericho."
+            },
+            {
+              "rowId": 286,
+              "keyParts": [
+                "v063_ESV_NUM_026",
+                286,
+                "p17",
+                "verse",
+                "v63",
+                "plain_text"
+              ],
+              "value": "63 These were those listed by Moses and Eleazar the priest, who listed the people of Israel in the plains of Moab by the Jordan at Jericho."
+            },
+            {
+              "rowId": 287,
+              "keyParts": [
+                287,
+                "p17",
+                "verse",
+                "v64",
+                "label"
+              ],
+              "value": "64"
+            },
+            {
+              "rowId": 288,
+              "keyParts": [
+                288,
+                "p17",
+                "verse",
+                "v64",
+                "note",
+                "x"
+              ],
+              "value": "#[ch.1:44;Deut. 2:14,15]"
+            },
+            {
+              "rowId": 289,
+              "keyParts": [
+                289,
+                "p17",
+                "verse",
+                "v64",
+                "content"
+              ],
+              "value": "But among these there was not one of those listed by Moses and Aaron the priest, who had listed the people of Israel in the wilderness of Sinai."
+            },
+            {
+              "rowId": 290,
+              "keyParts": [
+                "v064_ESV_NUM_026",
+                290,
+                "p17",
+                "verse",
+                "v64",
+                "plain_text"
+              ],
+              "value": "64 But among these there was not one of those listed by Moses and Aaron the priest, who had listed the people of Israel in the wilderness of Sinai."
+            },
+            {
+              "rowId": 291,
+              "keyParts": [
+                291,
+                "p17",
+                "verse",
+                "v65",
+                "label"
+              ],
+              "value": "65"
+            },
+            {
+              "rowId": 292,
+              "keyParts": [
+                292,
+                "p17",
+                "verse",
+                "v65",
+                "content"
+              ],
+              "value": "For the"
+            },
+            {
+              "rowId": 293,
+              "keyParts": [
+                293,
+                "p17",
+                "verse",
+                "v65",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 294,
+              "keyParts": [
+                294,
+                "p17",
+                "verse",
+                "v65",
+                "content"
+              ],
+              "value": "had said of them,"
+            },
+            {
+              "rowId": 295,
+              "keyParts": [
+                295,
+                "p17",
+                "verse",
+                "v65",
+                "note",
+                "x"
+              ],
+              "value": "#ch.14:28,29;1 Cor. 10:5"
+            },
+            {
+              "rowId": 296,
+              "keyParts": [
+                296,
+                "p17",
+                "verse",
+                "v65",
+                "content"
+              ],
+              "value": "“They shall die in the wilderness.” Not one of them was left,"
+            },
+            {
+              "rowId": 297,
+              "keyParts": [
+                297,
+                "p17",
+                "verse",
+                "v65",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.13:6"
+            },
+            {
+              "rowId": 298,
+              "keyParts": [
+                298,
+                "p17",
+                "verse",
+                "v65",
+                "content"
+              ],
+              "value": "except Caleb the son of Jephunneh and Joshua the son of Nun."
+            },
+            {
+              "rowId": 299,
+              "keyParts": [
+                "v065_ESV_NUM_026",
+                299,
+                "p17",
+                "verse",
+                "v65",
+                "plain_text"
+              ],
+              "value": "65 For the Lord had said of them, “They shall die in the wilderness.” Not one of them was left, except Caleb the son of Jephunneh and Joshua the son of Nun."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1214 @@
+{
+  "translationId": "ESV",
+  "name": "English Standard Version",
+  "abbreviation": "ESV",
+  "language": "English",
+  "copyright": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.",
+  "books": [
+    {
+      "bookId": "GEN",
+      "testament": "OT",
+      "order": 1,
+      "title": "Genesis",
+      "abbreviation": "GEN",
+      "chapters": [
+        {
+          "chapter": 33,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "33"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Jacob Meets Esau"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "And Jacob lifted up his eyes and looked, and behold,"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#ch.32:6"
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "Esau was coming, and four hundred men with him. So he divided the children among Leah and Rachel and the two female servants."
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                "v001_ESV_GEN_033",
+                7,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 And Jacob lifted up his eyes and looked, and behold, Esau was coming, and four hundred men with him. So he divided the children among Leah and Rachel and the two female servants."
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                9,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "And he put the servants with their children in front, then Leah with her children, and Rachel and Joseph last of all."
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                "v002_ESV_GEN_033",
+                10,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 And he put the servants with their children in front, then Leah with her children, and Rachel and Joseph last of all."
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                11,
+                "p1",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                12,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "He himself went on before them,"
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                13,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#ch.18:2;42:6;43:26"
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "bowing himself to the ground seven times, until he came near to his brother."
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                "v003_ESV_GEN_033",
+                15,
+                "p1",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 He himself went on before them, bowing himself to the ground seven times, until he came near to his brother."
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                16,
+                "p2",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                17,
+                "p2",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#ch.32:28"
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "p2",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "But Esau ran to meet him and embraced him"
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p2",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#ch.45:14"
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                20,
+                "p2",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "and fell on his neck and kissed him, and they wept."
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                "v004_ESV_GEN_033",
+                21,
+                "p2",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 But Esau ran to meet him and embraced him and fell on his neck and kissed him, and they wept."
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                22,
+                "p2",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "p2",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "And when Esau lifted up his eyes and saw the women and children, he said, “Who are these with you?” Jacob said,"
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                24,
+                "p2",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#ch.48:9;Ps. 127:3;Isa. 8:18"
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "p2",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "“The children whom God has graciously given your servant.”"
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                "v005_ESV_GEN_033",
+                26,
+                "p2",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 And when Esau lifted up his eyes and saw the women and children, he said, “Who are these with you?” Jacob said, “The children whom God has graciously given your servant.”"
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                27,
+                "p2",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                28,
+                "p2",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "Then the servants drew near, they and their children, and bowed down."
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                "v006_ESV_GEN_033",
+                29,
+                "p2",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 Then the servants drew near, they and their children, and bowed down."
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                30,
+                "p2",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                31,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "Leah likewise and her children drew near and bowed down. And last Joseph and Rachel drew near, and they bowed down."
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                "v007_ESV_GEN_033",
+                32,
+                "p2",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 Leah likewise and her children drew near and bowed down. And last Joseph and Rachel drew near, and they bowed down."
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                33,
+                "p2",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                34,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "Esau said, “What do you mean by"
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                35,
+                "p2",
+                "verse",
+                "v8",
+                "note",
+                "x"
+              ],
+              "value": "#ch.32:16"
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "all this company"
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                37,
+                "p2",
+                "verse",
+                "v8",
+                "note",
+                "f"
+              ],
+              "value": "#33:8Hebrewcamp"
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                38,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "that I met?” Jacob answered,"
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                39,
+                "p2",
+                "verse",
+                "v8",
+                "note",
+                "x"
+              ],
+              "value": "#ver.15;ch.32:5"
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                40,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "“To find favor in the sight of my lord.”"
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                "v008_ESV_GEN_033",
+                41,
+                "p2",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 Esau said, “What do you mean by all this company that I met?” Jacob answered, “To find favor in the sight of my lord.”"
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "p2",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                43,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "But Esau said, “I have enough, my brother; keep what you have for yourself.”"
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                "v009_ESV_GEN_033",
+                44,
+                "p2",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 But Esau said, “I have enough, my brother; keep what you have for yourself.”"
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                45,
+                "p2",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                46,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "Jacob said, “No, please, if I have found favor in your sight, then accept my present from my hand."
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                47,
+                "p2",
+                "verse",
+                "v10",
+                "note",
+                "x"
+              ],
+              "value": "#ch.18:1;19:1"
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                48,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "For I have seen your face, which is like seeing the face of God, and you have accepted me."
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                "v010_ESV_GEN_033",
+                49,
+                "p2",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 Jacob said, “No, please, if I have found favor in your sight, then accept my present from my hand. For I have seen your face, which is like seeing the face of God, and you have accepted me."
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "p2",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                51,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "Please accept my"
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                52,
+                "p2",
+                "verse",
+                "v11",
+                "note",
+                "x"
+              ],
+              "value": "#2 Kgs. 5:15"
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                53,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "blessing that is brought to you, because God has dealt graciously with me, and because I have enough.” Thus he"
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                54,
+                "p2",
+                "verse",
+                "v11",
+                "note",
+                "x"
+              ],
+              "value": "#[2 Sam. 13:25,27;2 Kgs. 5:23]"
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                55,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "urged him, and he took it."
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                "v011_ESV_GEN_033",
+                56,
+                "p2",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 Please accept my blessing that is brought to you, because God has dealt graciously with me, and because I have enough.” Thus he urged him, and he took it."
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                57,
+                "p3",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                58,
+                "p3",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "Then Esau said, “Let us journey on our way, and I will go ahead of"
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                59,
+                "p3",
+                "verse",
+                "v12",
+                "note",
+                "f"
+              ],
+              "value": "#33:12Oralong with"
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                60,
+                "p3",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "you.”"
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                "v012_ESV_GEN_033",
+                61,
+                "p3",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 Then Esau said, “Let us journey on our way, and I will go ahead of you.”"
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                62,
+                "p3",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                63,
+                "p3",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "But Jacob said to him, “My lord knows that the children are frail, and that the nursing flocks and herds are a care to me. If they are driven hard for one day, all the flocks will die."
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                "v013_ESV_GEN_033",
+                64,
+                "p3",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 But Jacob said to him, “My lord knows that the children are frail, and that the nursing flocks and herds are a care to me. If they are driven hard for one day, all the flocks will die."
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                65,
+                "p3",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                66,
+                "p3",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "Let my lord pass on ahead of his servant, and I will lead on slowly, at the pace of the livestock that are ahead of me and at the pace of the children, until I come to my lord"
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                67,
+                "p3",
+                "verse",
+                "v14",
+                "note",
+                "x"
+              ],
+              "value": "#ch.32:3"
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                68,
+                "p3",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "in Seir.”"
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                "v014_ESV_GEN_033",
+                69,
+                "p3",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 Let my lord pass on ahead of his servant, and I will lead on slowly, at the pace of the livestock that are ahead of me and at the pace of the children, until I come to my lord in Seir.”"
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                70,
+                "p4",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                71,
+                "p4",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "So Esau said, “Let me leave with you some of the people who are with me.” But he said, “What need is there?"
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                72,
+                "p4",
+                "verse",
+                "v15",
+                "note",
+                "x"
+              ],
+              "value": "#ver.8;ch.34:11;47:25;Ruth 2:13"
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                73,
+                "p4",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "Let me find favor in the sight of my lord.”"
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                "v015_ESV_GEN_033",
+                74,
+                "p4",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 So Esau said, “Let me leave with you some of the people who are with me.” But he said, “What need is there? Let me find favor in the sight of my lord.”"
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                75,
+                "p4",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                76,
+                "p4",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "So Esau returned that day on his way to"
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                77,
+                "p4",
+                "verse",
+                "v16",
+                "note",
+                "x"
+              ],
+              "value": "#ch.32:3"
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                78,
+                "p4",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "Seir."
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                "v016_ESV_GEN_033",
+                79,
+                "p4",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 So Esau returned that day on his way to Seir."
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                80,
+                "p4",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                81,
+                "p4",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "But Jacob journeyed to"
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                82,
+                "p4",
+                "verse",
+                "v17",
+                "note",
+                "x"
+              ],
+              "value": "#Josh. 13:27;Judg. 8:5;Ps. 60:6"
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                83,
+                "p4",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "Succoth, and built himself a house and made booths for his livestock. Therefore the name of the place is called Succoth."
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                84,
+                "p4",
+                "verse",
+                "v17",
+                "note",
+                "f"
+              ],
+              "value": "#33:17Succothmeansbooths"
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                "v017_ESV_GEN_033",
+                85,
+                "p4",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 But Jacob journeyed to Succoth, and built himself a house and made booths for his livestock. Therefore the name of the place is called Succoth."
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                86,
+                "p5",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                87,
+                "p5",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "And Jacob came safely"
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                88,
+                "p5",
+                "verse",
+                "v18",
+                "note",
+                "f"
+              ],
+              "value": "#33:18Orpeacefully"
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                89,
+                "p5",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "to the city of"
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                90,
+                "p5",
+                "verse",
+                "v18",
+                "note",
+                "x"
+              ],
+              "value": "#Josh. 24:1;Judg. 9:1;Ps. 60:6;Acts 7:16"
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                91,
+                "p5",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "Shechem, which is in the land of Canaan, on his way from Paddan-aram, and he camped before the city."
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                "v018_ESV_GEN_033",
+                92,
+                "p5",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 And Jacob came safely to the city of Shechem, which is in the land of Canaan, on his way from Paddan-aram, and he camped before the city."
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                93,
+                "p5",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                94,
+                "p5",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "And from the sons of"
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                95,
+                "p5",
+                "verse",
+                "v19",
+                "note",
+                "x"
+              ],
+              "value": "#Acts 7:16"
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                96,
+                "p5",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "Hamor, Shechem’s father,"
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                97,
+                "p5",
+                "verse",
+                "v19",
+                "note",
+                "x"
+              ],
+              "value": "#Josh. 24:32;John 4:5"
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                98,
+                "p5",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "he bought for a hundred pieces of money"
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                99,
+                "p5",
+                "verse",
+                "v19",
+                "note",
+                "f"
+              ],
+              "value": "#33:19Hebrewa hundred qesitah; a unit of money of uncertain value"
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                100,
+                "p5",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "the piece of land on which he had pitched his tent."
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                "v019_ESV_GEN_033",
+                101,
+                "p5",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 And from the sons of Hamor, Shechem’s father, he bought for a hundred pieces of money the piece of land on which he had pitched his tent."
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                102,
+                "p5",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                103,
+                "p5",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "There he erected an altar and called it El-Elohe-Israel."
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                104,
+                "p5",
+                "verse",
+                "v20",
+                "note",
+                "f"
+              ],
+              "value": "#33:20El-Elohe-IsraelmeansGod, the God of Israel"
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                "v020_ESV_GEN_033",
+                105,
+                "p5",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 There he erected an altar and called it El-Elohe-Israel."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

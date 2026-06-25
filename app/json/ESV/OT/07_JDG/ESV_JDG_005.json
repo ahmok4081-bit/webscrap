@@ -1,0 +1,3042 @@
+{
+  "translationId": "ESV",
+  "name": "English Standard Version",
+  "abbreviation": "ESV",
+  "language": "English",
+  "copyright": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.",
+  "books": [
+    {
+      "bookId": "JDG",
+      "testament": "OT",
+      "order": 7,
+      "title": "Judges",
+      "abbreviation": "JDG",
+      "chapters": [
+        {
+          "chapter": 5,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "The Song of Deborah and Barak"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#[Ex. 15:1]"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "Then sang Deborah and Barak the son of Abinoam on that day:"
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                "v001_ESV_JDG_005",
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 Then sang Deborah and Barak the son of Abinoam on that day:"
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                7,
+                "q1_1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "q1_1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "“That the leaders took the lead in Israel,"
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                9,
+                "q2_1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "that"
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "q2_1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#ver.9;[2 Chr. 17:16]"
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                11,
+                "q2_1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "the people offered themselves willingly,"
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                12,
+                "q2_2",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "bless the"
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                13,
+                "q2_2",
+                "verse",
+                "v2",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "q2_2",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "!"
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                "v002_ESV_JDG_005",
+                15,
+                "q1_1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 “That the leaders took the lead in Israel, that the people offered themselves willingly, bless the Lord !"
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                16,
+                "q1_2",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                17,
+                "q1_2",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "“Hear, O kings; give ear, O princes;"
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "q2_3",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "to the"
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "q2_3",
+                "verse",
+                "v3",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                20,
+                "q2_3",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "I will sing;"
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "q2_4",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "I will make melody to the"
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                22,
+                "q2_4",
+                "verse",
+                "v3",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "q2_4",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": ", the God of Israel."
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                "v003_ESV_JDG_005",
+                24,
+                "q1_2",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 “Hear, O kings; give ear, O princes; to the Lord I will sing; I will make melody to the Lord , the God of Israel."
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "q1_3",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                26,
+                "q1_3",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "“"
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                27,
+                "q1_3",
+                "verse",
+                "v4",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                28,
+                "q1_3",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": ","
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                29,
+                "q1_3",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 33:2;[Ps. 68:7]"
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                30,
+                "q1_3",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "when you went out from Seir,"
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                31,
+                "q2_5",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "when you marched from the region of Edom,"
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "q1_4",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#2 Sam. 22:8;Ps. 18:7;68:8;77:18;Nah. 1:5;Hab. 3:10"
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                33,
+                "q1_4",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "the earth trembled"
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                34,
+                "q2_6",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "and the heavens dropped,"
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                35,
+                "q2_7",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "yes, the clouds dropped water."
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                "v004_ESV_JDG_005",
+                36,
+                "q1_3",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 “ Lord , when you went out from Seir, when you marched from the region of Edom, the earth trembled and the heavens dropped, yes, the clouds dropped water."
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                37,
+                "q1_5",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                38,
+                "q1_5",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "The mountains"
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                39,
+                "q1_5",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#Isa. 64:1,3"
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                40,
+                "q1_5",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "quaked before the"
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "q1_5",
+                "verse",
+                "v5",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "q1_5",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": ","
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                43,
+                "q2_8",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#[Ex. 19:18;Deut. 4:11]"
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                44,
+                "q2_8",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "even Sinai before the"
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                45,
+                "q2_8",
+                "verse",
+                "v5",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                46,
+                "q2_8",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": ","
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                47,
+                "q2_8",
+                "verse",
+                "v5",
+                "note",
+                "f"
+              ],
+              "value": "#5:5Orbefore theLord, the One of Sinai, before theLord"
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                48,
+                "q2_8",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "the God of Israel."
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                "v005_ESV_JDG_005",
+                49,
+                "q1_5",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 The mountains quaked before the Lord , even Sinai before the Lord , the God of Israel."
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "q1_6",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                51,
+                "q1_6",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "“In the days of"
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                52,
+                "q1_6",
+                "verse",
+                "v6",
+                "note",
+                "x"
+              ],
+              "value": "#ch.3:31"
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                53,
+                "q1_6",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "Shamgar, son of Anath,"
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                54,
+                "q2_9",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "in the days of"
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                55,
+                "q2_9",
+                "verse",
+                "v6",
+                "note",
+                "x"
+              ],
+              "value": "#ch.4:17"
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                56,
+                "q2_9",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "Jael,"
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                57,
+                "q2_9",
+                "verse",
+                "v6",
+                "note",
+                "x"
+              ],
+              "value": "#Lev. 26:22;Isa. 33:8;Lam. 1:4"
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                58,
+                "q2_9",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "the highways were abandoned,"
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                59,
+                "q2_10",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "and travelers kept to the byways."
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                "v006_ESV_JDG_005",
+                60,
+                "q1_6",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 “In the days of Shamgar, son of Anath, in the days of Jael, the highways were abandoned, and travelers kept to the byways."
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                61,
+                "q1_7",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                62,
+                "q1_7",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "The villagers ceased in Israel;"
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                63,
+                "q2_11",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "they ceased to be until I arose;"
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                64,
+                "q2_12",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "I, Deborah, arose as a mother in Israel."
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                "v007_ESV_JDG_005",
+                65,
+                "q1_7",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 The villagers ceased in Israel; they ceased to be until I arose; I, Deborah, arose as a mother in Israel."
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                66,
+                "q1_8",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                67,
+                "q1_8",
+                "verse",
+                "v8",
+                "note",
+                "x"
+              ],
+              "value": "#ch.2:12,17;Deut. 32:16"
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                68,
+                "q1_8",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "When new gods were chosen,"
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                69,
+                "q2_13",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "then war was in the gates."
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                70,
+                "q1_9",
+                "verse",
+                "v8",
+                "note",
+                "x"
+              ],
+              "value": "#[1 Sam. 13:19,22]"
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                71,
+                "q1_9",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "Was shield or spear to be seen"
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                72,
+                "q2_14",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "among forty thousand in Israel?"
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                "v008_ESV_JDG_005",
+                73,
+                "q1_8",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 When new gods were chosen, then war was in the gates. Was shield or spear to be seen among forty thousand in Israel?"
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                74,
+                "q1_10",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                75,
+                "q1_10",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "My heart goes out to the commanders of Israel"
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                76,
+                "q2_15",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "who"
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                77,
+                "q2_15",
+                "verse",
+                "v9",
+                "note",
+                "x"
+              ],
+              "value": "#ver.2"
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                78,
+                "q2_15",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "offered themselves willingly among the people."
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                79,
+                "q2_16",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "Bless the"
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                80,
+                "q2_16",
+                "verse",
+                "v9",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                81,
+                "q2_16",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "."
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                "v009_ESV_JDG_005",
+                82,
+                "q1_10",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 My heart goes out to the commanders of Israel who offered themselves willingly among the people. Bless the Lord ."
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                83,
+                "q1_11",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                84,
+                "q1_11",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "“Tell of it,"
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                85,
+                "q1_11",
+                "verse",
+                "v10",
+                "note",
+                "x"
+              ],
+              "value": "#[ch.10:4;12:14;Zech. 9:9]"
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                86,
+                "q1_11",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "you who ride on white donkeys,"
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                87,
+                "q2_17",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "you who sit on rich carpets"
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                88,
+                "q2_17",
+                "verse",
+                "v10",
+                "note",
+                "f"
+              ],
+              "value": "#5:10The meaning of the Hebrew word is uncertain; it may connotesaddle blankets"
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                89,
+                "q2_18",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "and you who walk by the way."
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                "v010_ESV_JDG_005",
+                90,
+                "q1_11",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 “Tell of it, you who ride on white donkeys, you who sit on rich carpets and you who walk by the way."
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                91,
+                "q1_12",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                92,
+                "q1_12",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "To the sound of musicians"
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                93,
+                "q1_12",
+                "verse",
+                "v11",
+                "note",
+                "f"
+              ],
+              "value": "#5:11Orarchers; the meaning of the Hebrew word is uncertain"
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                94,
+                "q1_12",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "at the watering places,"
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                95,
+                "q2_19",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "there they repeat the righteous triumphs of the"
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                96,
+                "q2_19",
+                "verse",
+                "v11",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                97,
+                "q2_19",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": ","
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                98,
+                "q2_20",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "the righteous triumphs of his villagers in Israel."
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                99,
+                "q1_13",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "“Then down to the gates marched the people of the"
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                100,
+                "q1_13",
+                "verse",
+                "v11",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                101,
+                "q1_13",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "."
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                "v011_ESV_JDG_005",
+                102,
+                "q1_12",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 To the sound of musicians at the watering places, there they repeat the righteous triumphs of the Lord , the righteous triumphs of his villagers in Israel. “Then down to the gates marched the people of the Lord ."
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                103,
+                "q1_14",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                104,
+                "q1_14",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#Ps. 57:8"
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                105,
+                "q1_14",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "“Awake, awake, Deborah!"
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                106,
+                "q2_21",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "Awake, awake, break out in a song!"
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                107,
+                "q1_15",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "Arise, Barak,"
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                108,
+                "q1_15",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#Ps. 68:18;Eph. 4:8"
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                109,
+                "q1_15",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "lead away your captives,"
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                110,
+                "q2_22",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "O son of Abinoam."
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                "v012_ESV_JDG_005",
+                111,
+                "q1_14",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 “Awake, awake, Deborah! Awake, awake, break out in a song! Arise, Barak, lead away your captives, O son of Abinoam."
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                112,
+                "q1_16",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                113,
+                "q1_16",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "Then down marched the remnant of the noble;"
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                114,
+                "q2_23",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "the people of the"
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                115,
+                "q2_23",
+                "verse",
+                "v13",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                116,
+                "q2_23",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "marched down for me against the mighty."
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                "v013_ESV_JDG_005",
+                117,
+                "q1_16",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 Then down marched the remnant of the noble; the people of the Lord marched down for me against the mighty."
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                118,
+                "q1_17",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                119,
+                "q1_17",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "From"
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                120,
+                "q1_17",
+                "verse",
+                "v14",
+                "note",
+                "x"
+              ],
+              "value": "#ch.3:27;12:15"
+            },
+            {
+              "rowId": 121,
+              "keyParts": [
+                121,
+                "q1_17",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "Ephraim their root"
+            },
+            {
+              "rowId": 122,
+              "keyParts": [
+                122,
+                "q1_17",
+                "verse",
+                "v14",
+                "note",
+                "x"
+              ],
+              "value": "#[ch.12:15]"
+            },
+            {
+              "rowId": 123,
+              "keyParts": [
+                123,
+                "q1_17",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "they marched down into the valley,"
+            },
+            {
+              "rowId": 124,
+              "keyParts": [
+                124,
+                "q1_17",
+                "verse",
+                "v14",
+                "note",
+                "f"
+              ],
+              "value": "#5:14Septuagint; Hebrewin Amalek"
+            },
+            {
+              "rowId": 125,
+              "keyParts": [
+                125,
+                "q2_24",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "following you, Benjamin, with your kinsmen;"
+            },
+            {
+              "rowId": 126,
+              "keyParts": [
+                126,
+                "q1_18",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "from"
+            },
+            {
+              "rowId": 127,
+              "keyParts": [
+                127,
+                "q1_18",
+                "verse",
+                "v14",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 32:39,40"
+            },
+            {
+              "rowId": 128,
+              "keyParts": [
+                128,
+                "q1_18",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "Machir marched down the commanders,"
+            },
+            {
+              "rowId": 129,
+              "keyParts": [
+                129,
+                "q2_25",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "and from Zebulun those who bear the lieutenant’s"
+            },
+            {
+              "rowId": 130,
+              "keyParts": [
+                130,
+                "q2_25",
+                "verse",
+                "v14",
+                "note",
+                "f"
+              ],
+              "value": "#5:14Hebrewcommander’s"
+            },
+            {
+              "rowId": 131,
+              "keyParts": [
+                131,
+                "q2_25",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "staff;"
+            },
+            {
+              "rowId": 132,
+              "keyParts": [
+                "v014_ESV_JDG_005",
+                132,
+                "q1_17",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 From Ephraim their root they marched down into the valley, following you, Benjamin, with your kinsmen; from Machir marched down the commanders, and from Zebulun those who bear the lieutenant’s staff;"
+            },
+            {
+              "rowId": 133,
+              "keyParts": [
+                133,
+                "q1_19",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 134,
+              "keyParts": [
+                134,
+                "q1_19",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "the princes of Issachar came with Deborah,"
+            },
+            {
+              "rowId": 135,
+              "keyParts": [
+                135,
+                "q2_26",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "and Issachar faithful to"
+            },
+            {
+              "rowId": 136,
+              "keyParts": [
+                136,
+                "q2_26",
+                "verse",
+                "v15",
+                "note",
+                "x"
+              ],
+              "value": "#ch.4:14"
+            },
+            {
+              "rowId": 137,
+              "keyParts": [
+                137,
+                "q2_26",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "Barak;"
+            },
+            {
+              "rowId": 138,
+              "keyParts": [
+                138,
+                "q2_27",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "into the valley they rushed at his heels."
+            },
+            {
+              "rowId": 139,
+              "keyParts": [
+                139,
+                "q1_20",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "Among the clans of Reuben"
+            },
+            {
+              "rowId": 140,
+              "keyParts": [
+                140,
+                "q2_28",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "there were great searchings of heart."
+            },
+            {
+              "rowId": 141,
+              "keyParts": [
+                "v015_ESV_JDG_005",
+                141,
+                "q1_19",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 the princes of Issachar came with Deborah, and Issachar faithful to Barak; into the valley they rushed at his heels. Among the clans of Reuben there were great searchings of heart."
+            },
+            {
+              "rowId": 142,
+              "keyParts": [
+                142,
+                "q1_21",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 143,
+              "keyParts": [
+                143,
+                "q1_21",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "Why did you sit still"
+            },
+            {
+              "rowId": 144,
+              "keyParts": [
+                144,
+                "q1_21",
+                "verse",
+                "v16",
+                "note",
+                "x"
+              ],
+              "value": "#Gen. 49:14;Ps. 68:13;[Num. 32:1]"
+            },
+            {
+              "rowId": 145,
+              "keyParts": [
+                145,
+                "q1_21",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "among the sheepfolds,"
+            },
+            {
+              "rowId": 146,
+              "keyParts": [
+                146,
+                "q2_29",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "to hear the whistling for the flocks?"
+            },
+            {
+              "rowId": 147,
+              "keyParts": [
+                147,
+                "q1_22",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "Among the clans of Reuben"
+            },
+            {
+              "rowId": 148,
+              "keyParts": [
+                148,
+                "q2_30",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "there were great searchings of heart."
+            },
+            {
+              "rowId": 149,
+              "keyParts": [
+                "v016_ESV_JDG_005",
+                149,
+                "q1_21",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 Why did you sit still among the sheepfolds, to hear the whistling for the flocks? Among the clans of Reuben there were great searchings of heart."
+            },
+            {
+              "rowId": 150,
+              "keyParts": [
+                150,
+                "q1_23",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 151,
+              "keyParts": [
+                151,
+                "q1_23",
+                "verse",
+                "v17",
+                "note",
+                "x"
+              ],
+              "value": "#SeeJosh. 13:24-28"
+            },
+            {
+              "rowId": 152,
+              "keyParts": [
+                152,
+                "q1_23",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "Gilead stayed beyond the Jordan;"
+            },
+            {
+              "rowId": 153,
+              "keyParts": [
+                153,
+                "q2_31",
+                "verse",
+                "v17",
+                "note",
+                "x"
+              ],
+              "value": "#[Josh. 19:46]"
+            },
+            {
+              "rowId": 154,
+              "keyParts": [
+                154,
+                "q2_31",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "and Dan, why did he stay with the ships?"
+            },
+            {
+              "rowId": 155,
+              "keyParts": [
+                155,
+                "q1_24",
+                "verse",
+                "v17",
+                "note",
+                "x"
+              ],
+              "value": "#[Josh. 19:29,31]"
+            },
+            {
+              "rowId": 156,
+              "keyParts": [
+                156,
+                "q1_24",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "Asher sat still"
+            },
+            {
+              "rowId": 157,
+              "keyParts": [
+                157,
+                "q1_24",
+                "verse",
+                "v17",
+                "note",
+                "x"
+              ],
+              "value": "#Gen. 49:13"
+            },
+            {
+              "rowId": 158,
+              "keyParts": [
+                158,
+                "q1_24",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "at the coast of the sea,"
+            },
+            {
+              "rowId": 159,
+              "keyParts": [
+                159,
+                "q2_32",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "staying by his landings."
+            },
+            {
+              "rowId": 160,
+              "keyParts": [
+                "v017_ESV_JDG_005",
+                160,
+                "q1_23",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 Gilead stayed beyond the Jordan; and Dan, why did he stay with the ships? Asher sat still at the coast of the sea, staying by his landings."
+            },
+            {
+              "rowId": 161,
+              "keyParts": [
+                161,
+                "q1_25",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 162,
+              "keyParts": [
+                162,
+                "q1_25",
+                "verse",
+                "v18",
+                "note",
+                "x"
+              ],
+              "value": "#ch.4:10"
+            },
+            {
+              "rowId": 163,
+              "keyParts": [
+                163,
+                "q1_25",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "Zebulun is a people who risked their lives to the death;"
+            },
+            {
+              "rowId": 164,
+              "keyParts": [
+                164,
+                "q2_33",
+                "verse",
+                "v18",
+                "note",
+                "x"
+              ],
+              "value": "#ch.4:10"
+            },
+            {
+              "rowId": 165,
+              "keyParts": [
+                165,
+                "q2_33",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "Naphtali, too, on the heights of the field."
+            },
+            {
+              "rowId": 166,
+              "keyParts": [
+                "v018_ESV_JDG_005",
+                166,
+                "q1_25",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 Zebulun is a people who risked their lives to the death; Naphtali, too, on the heights of the field."
+            },
+            {
+              "rowId": 167,
+              "keyParts": [
+                167,
+                "q1_26",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 168,
+              "keyParts": [
+                168,
+                "q1_26",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "“The kings came, they fought;"
+            },
+            {
+              "rowId": 169,
+              "keyParts": [
+                169,
+                "q2_34",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "then fought the kings of Canaan,"
+            },
+            {
+              "rowId": 170,
+              "keyParts": [
+                170,
+                "q1_27",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "at"
+            },
+            {
+              "rowId": 171,
+              "keyParts": [
+                171,
+                "q1_27",
+                "verse",
+                "v19",
+                "note",
+                "x"
+              ],
+              "value": "#ch.1:27;Josh. 17:11;1 Kgs. 4:12"
+            },
+            {
+              "rowId": 172,
+              "keyParts": [
+                172,
+                "q1_27",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "Taanach, by the waters of"
+            },
+            {
+              "rowId": 173,
+              "keyParts": [
+                173,
+                "q1_27",
+                "verse",
+                "v19",
+                "note",
+                "x"
+              ],
+              "value": "#2 Kgs. 9:27;23:29,30;2 Chr. 35:22"
+            },
+            {
+              "rowId": 174,
+              "keyParts": [
+                174,
+                "q1_27",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "Megiddo;"
+            },
+            {
+              "rowId": 175,
+              "keyParts": [
+                175,
+                "q2_35",
+                "verse",
+                "v19",
+                "note",
+                "x"
+              ],
+              "value": "#[ver.30]"
+            },
+            {
+              "rowId": 176,
+              "keyParts": [
+                176,
+                "q2_35",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "they got no spoils of silver."
+            },
+            {
+              "rowId": 177,
+              "keyParts": [
+                "v019_ESV_JDG_005",
+                177,
+                "q1_26",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 “The kings came, they fought; then fought the kings of Canaan, at Taanach, by the waters of Megiddo; they got no spoils of silver."
+            },
+            {
+              "rowId": 178,
+              "keyParts": [
+                178,
+                "q1_28",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 179,
+              "keyParts": [
+                179,
+                "q1_28",
+                "verse",
+                "v20",
+                "note",
+                "x"
+              ],
+              "value": "#Josh. 10:11"
+            },
+            {
+              "rowId": 180,
+              "keyParts": [
+                180,
+                "q1_28",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "From heaven the stars fought,"
+            },
+            {
+              "rowId": 181,
+              "keyParts": [
+                181,
+                "q2_36",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "from their courses they fought against Sisera."
+            },
+            {
+              "rowId": 182,
+              "keyParts": [
+                "v020_ESV_JDG_005",
+                182,
+                "q1_28",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 From heaven the stars fought, from their courses they fought against Sisera."
+            },
+            {
+              "rowId": 183,
+              "keyParts": [
+                183,
+                "q1_29",
+                "verse",
+                "v21",
+                "label"
+              ],
+              "value": "21"
+            },
+            {
+              "rowId": 184,
+              "keyParts": [
+                184,
+                "q1_29",
+                "verse",
+                "v21",
+                "note",
+                "x"
+              ],
+              "value": "#ch.4:7"
+            },
+            {
+              "rowId": 185,
+              "keyParts": [
+                185,
+                "q1_29",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "The torrent Kishon swept them away,"
+            },
+            {
+              "rowId": 186,
+              "keyParts": [
+                186,
+                "q2_37",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "the ancient torrent, the torrent Kishon."
+            },
+            {
+              "rowId": 187,
+              "keyParts": [
+                187,
+                "q2_38",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "March on, my soul, with might!"
+            },
+            {
+              "rowId": 188,
+              "keyParts": [
+                "v021_ESV_JDG_005",
+                188,
+                "q1_29",
+                "verse",
+                "v21",
+                "plain_text"
+              ],
+              "value": "21 The torrent Kishon swept them away, the ancient torrent, the torrent Kishon. March on, my soul, with might!"
+            },
+            {
+              "rowId": 189,
+              "keyParts": [
+                189,
+                "q1_30",
+                "verse",
+                "v22",
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 190,
+              "keyParts": [
+                190,
+                "q1_30",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "“Then loud beat the horses’ hoofs"
+            },
+            {
+              "rowId": 191,
+              "keyParts": [
+                191,
+                "q2_39",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "with the galloping, galloping of his steeds."
+            },
+            {
+              "rowId": 192,
+              "keyParts": [
+                "v022_ESV_JDG_005",
+                192,
+                "q1_30",
+                "verse",
+                "v22",
+                "plain_text"
+              ],
+              "value": "22 “Then loud beat the horses’ hoofs with the galloping, galloping of his steeds."
+            },
+            {
+              "rowId": 193,
+              "keyParts": [
+                193,
+                "q1_31",
+                "verse",
+                "v23",
+                "label"
+              ],
+              "value": "23"
+            },
+            {
+              "rowId": 194,
+              "keyParts": [
+                194,
+                "q1_31",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "“Curse Meroz, says the angel of the"
+            },
+            {
+              "rowId": 195,
+              "keyParts": [
+                195,
+                "q1_31",
+                "verse",
+                "v23",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 196,
+              "keyParts": [
+                196,
+                "q1_31",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": ","
+            },
+            {
+              "rowId": 197,
+              "keyParts": [
+                197,
+                "q2_40",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "curse its inhabitants thoroughly,"
+            },
+            {
+              "rowId": 198,
+              "keyParts": [
+                198,
+                "q1_32",
+                "verse",
+                "v23",
+                "note",
+                "x"
+              ],
+              "value": "#[ch.21:9,10]"
+            },
+            {
+              "rowId": 199,
+              "keyParts": [
+                199,
+                "q1_32",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "because they did not come to the help of the"
+            },
+            {
+              "rowId": 200,
+              "keyParts": [
+                200,
+                "q1_32",
+                "verse",
+                "v23",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 201,
+              "keyParts": [
+                201,
+                "q1_32",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": ","
+            },
+            {
+              "rowId": 202,
+              "keyParts": [
+                202,
+                "q2_41",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "to the help of the"
+            },
+            {
+              "rowId": 203,
+              "keyParts": [
+                203,
+                "q2_41",
+                "verse",
+                "v23",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 204,
+              "keyParts": [
+                204,
+                "q2_41",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "against the mighty."
+            },
+            {
+              "rowId": 205,
+              "keyParts": [
+                "v023_ESV_JDG_005",
+                205,
+                "q1_31",
+                "verse",
+                "v23",
+                "plain_text"
+              ],
+              "value": "23 “Curse Meroz, says the angel of the Lord , curse its inhabitants thoroughly, because they did not come to the help of the Lord , to the help of the Lord against the mighty."
+            },
+            {
+              "rowId": 206,
+              "keyParts": [
+                206,
+                "q1_33",
+                "verse",
+                "v24",
+                "label"
+              ],
+              "value": "24"
+            },
+            {
+              "rowId": 207,
+              "keyParts": [
+                207,
+                "q1_33",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "“Most blessed of women be"
+            },
+            {
+              "rowId": 208,
+              "keyParts": [
+                208,
+                "q1_33",
+                "verse",
+                "v24",
+                "note",
+                "x"
+              ],
+              "value": "#ch.4:17"
+            },
+            {
+              "rowId": 209,
+              "keyParts": [
+                209,
+                "q1_33",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "Jael,"
+            },
+            {
+              "rowId": 210,
+              "keyParts": [
+                210,
+                "q2_42",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "the wife of Heber the Kenite,"
+            },
+            {
+              "rowId": 211,
+              "keyParts": [
+                211,
+                "q2_43",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "of tent-dwelling women most blessed."
+            },
+            {
+              "rowId": 212,
+              "keyParts": [
+                "v024_ESV_JDG_005",
+                212,
+                "q1_33",
+                "verse",
+                "v24",
+                "plain_text"
+              ],
+              "value": "24 “Most blessed of women be Jael, the wife of Heber the Kenite, of tent-dwelling women most blessed."
+            },
+            {
+              "rowId": 213,
+              "keyParts": [
+                213,
+                "q1_34",
+                "verse",
+                "v25",
+                "label"
+              ],
+              "value": "25"
+            },
+            {
+              "rowId": 214,
+              "keyParts": [
+                214,
+                "q1_34",
+                "verse",
+                "v25",
+                "note",
+                "x"
+              ],
+              "value": "#ch.4:19"
+            },
+            {
+              "rowId": 215,
+              "keyParts": [
+                215,
+                "q1_34",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "He asked for water and she gave him milk;"
+            },
+            {
+              "rowId": 216,
+              "keyParts": [
+                216,
+                "q2_44",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "she brought him curds in a noble’s bowl."
+            },
+            {
+              "rowId": 217,
+              "keyParts": [
+                "v025_ESV_JDG_005",
+                217,
+                "q1_34",
+                "verse",
+                "v25",
+                "plain_text"
+              ],
+              "value": "25 He asked for water and she gave him milk; she brought him curds in a noble’s bowl."
+            },
+            {
+              "rowId": 218,
+              "keyParts": [
+                218,
+                "q1_35",
+                "verse",
+                "v26",
+                "label"
+              ],
+              "value": "26"
+            },
+            {
+              "rowId": 219,
+              "keyParts": [
+                219,
+                "q1_35",
+                "verse",
+                "v26",
+                "note",
+                "x"
+              ],
+              "value": "#ch.4:21"
+            },
+            {
+              "rowId": 220,
+              "keyParts": [
+                220,
+                "q1_35",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "She sent her hand to the tent peg"
+            },
+            {
+              "rowId": 221,
+              "keyParts": [
+                221,
+                "q2_45",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "and her right hand to the workmen’s mallet;"
+            },
+            {
+              "rowId": 222,
+              "keyParts": [
+                222,
+                "q1_36",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "she struck Sisera;"
+            },
+            {
+              "rowId": 223,
+              "keyParts": [
+                223,
+                "q2_46",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "she crushed his head;"
+            },
+            {
+              "rowId": 224,
+              "keyParts": [
+                224,
+                "q2_47",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "she shattered and pierced his temple."
+            },
+            {
+              "rowId": 225,
+              "keyParts": [
+                "v026_ESV_JDG_005",
+                225,
+                "q1_35",
+                "verse",
+                "v26",
+                "plain_text"
+              ],
+              "value": "26 She sent her hand to the tent peg and her right hand to the workmen’s mallet; she struck Sisera; she crushed his head; she shattered and pierced his temple."
+            },
+            {
+              "rowId": 226,
+              "keyParts": [
+                226,
+                "q1_37",
+                "verse",
+                "v27",
+                "label"
+              ],
+              "value": "27"
+            },
+            {
+              "rowId": 227,
+              "keyParts": [
+                227,
+                "q1_37",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "Between her feet"
+            },
+            {
+              "rowId": 228,
+              "keyParts": [
+                228,
+                "q2_48",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "he sank, he fell, he lay still;"
+            },
+            {
+              "rowId": 229,
+              "keyParts": [
+                229,
+                "q1_38",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "between her feet"
+            },
+            {
+              "rowId": 230,
+              "keyParts": [
+                230,
+                "q2_49",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "he sank, he fell;"
+            },
+            {
+              "rowId": 231,
+              "keyParts": [
+                231,
+                "q1_39",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "where he sank,"
+            },
+            {
+              "rowId": 232,
+              "keyParts": [
+                232,
+                "q2_50",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "there he fell—dead."
+            },
+            {
+              "rowId": 233,
+              "keyParts": [
+                "v027_ESV_JDG_005",
+                233,
+                "q1_37",
+                "verse",
+                "v27",
+                "plain_text"
+              ],
+              "value": "27 Between her feet he sank, he fell, he lay still; between her feet he sank, he fell; where he sank, there he fell—dead."
+            },
+            {
+              "rowId": 234,
+              "keyParts": [
+                234,
+                "q1_40",
+                "verse",
+                "v28",
+                "label"
+              ],
+              "value": "28"
+            },
+            {
+              "rowId": 235,
+              "keyParts": [
+                235,
+                "q1_40",
+                "verse",
+                "v28",
+                "note",
+                "x"
+              ],
+              "value": "#[2 Sam. 6:16]"
+            },
+            {
+              "rowId": 236,
+              "keyParts": [
+                236,
+                "q1_40",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "“Out of the window she peered,"
+            },
+            {
+              "rowId": 237,
+              "keyParts": [
+                237,
+                "q2_51",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "the mother of Sisera wailed through"
+            },
+            {
+              "rowId": 238,
+              "keyParts": [
+                238,
+                "q2_51",
+                "verse",
+                "v28",
+                "note",
+                "x"
+              ],
+              "value": "#[Prov. 7:6]"
+            },
+            {
+              "rowId": 239,
+              "keyParts": [
+                239,
+                "q2_51",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "the lattice:"
+            },
+            {
+              "rowId": 240,
+              "keyParts": [
+                240,
+                "q1_41",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "‘Why is his chariot so long in coming?"
+            },
+            {
+              "rowId": 241,
+              "keyParts": [
+                241,
+                "q2_52",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "Why tarry the hoofbeats of his chariots?’"
+            },
+            {
+              "rowId": 242,
+              "keyParts": [
+                "v028_ESV_JDG_005",
+                242,
+                "q1_40",
+                "verse",
+                "v28",
+                "plain_text"
+              ],
+              "value": "28 “Out of the window she peered, the mother of Sisera wailed through the lattice: ‘Why is his chariot so long in coming? Why tarry the hoofbeats of his chariots?’"
+            },
+            {
+              "rowId": 243,
+              "keyParts": [
+                243,
+                "q1_42",
+                "verse",
+                "v29",
+                "label"
+              ],
+              "value": "29"
+            },
+            {
+              "rowId": 244,
+              "keyParts": [
+                244,
+                "q1_42",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "Her wisest princesses answer,"
+            },
+            {
+              "rowId": 245,
+              "keyParts": [
+                245,
+                "q2_53",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "indeed, she answers herself,"
+            },
+            {
+              "rowId": 246,
+              "keyParts": [
+                "v029_ESV_JDG_005",
+                246,
+                "q1_42",
+                "verse",
+                "v29",
+                "plain_text"
+              ],
+              "value": "29 Her wisest princesses answer, indeed, she answers herself,"
+            },
+            {
+              "rowId": 247,
+              "keyParts": [
+                247,
+                "q1_43",
+                "verse",
+                "v30",
+                "label"
+              ],
+              "value": "30"
+            },
+            {
+              "rowId": 248,
+              "keyParts": [
+                248,
+                "q1_43",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "‘Have they not found and"
+            },
+            {
+              "rowId": 249,
+              "keyParts": [
+                249,
+                "q1_43",
+                "verse",
+                "v30",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 15:9"
+            },
+            {
+              "rowId": 250,
+              "keyParts": [
+                250,
+                "q1_43",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "divided the spoil?—"
+            },
+            {
+              "rowId": 251,
+              "keyParts": [
+                251,
+                "q2_54",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "A womb or two for every man;"
+            },
+            {
+              "rowId": 252,
+              "keyParts": [
+                252,
+                "q1_44",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "spoil of dyed materials for Sisera,"
+            },
+            {
+              "rowId": 253,
+              "keyParts": [
+                253,
+                "q2_55",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "spoil of dyed materials embroidered,"
+            },
+            {
+              "rowId": 254,
+              "keyParts": [
+                254,
+                "q2_56",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "two pieces of dyed work embroidered for the neck as spoil?’"
+            },
+            {
+              "rowId": 255,
+              "keyParts": [
+                "v030_ESV_JDG_005",
+                255,
+                "q1_43",
+                "verse",
+                "v30",
+                "plain_text"
+              ],
+              "value": "30 ‘Have they not found and divided the spoil?— A womb or two for every man; spoil of dyed materials for Sisera, spoil of dyed materials embroidered, two pieces of dyed work embroidered for the neck as spoil?’"
+            },
+            {
+              "rowId": 256,
+              "keyParts": [
+                256,
+                "q1_45",
+                "verse",
+                "v31",
+                "label"
+              ],
+              "value": "31"
+            },
+            {
+              "rowId": 257,
+              "keyParts": [
+                257,
+                "q1_45",
+                "verse",
+                "v31",
+                "note",
+                "x"
+              ],
+              "value": "#[Ps. 83:9,10]"
+            },
+            {
+              "rowId": 258,
+              "keyParts": [
+                258,
+                "q1_45",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "“So may all your enemies perish, O"
+            },
+            {
+              "rowId": 259,
+              "keyParts": [
+                259,
+                "q1_45",
+                "verse",
+                "v31",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 260,
+              "keyParts": [
+                260,
+                "q1_45",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "!"
+            },
+            {
+              "rowId": 261,
+              "keyParts": [
+                261,
+                "q2_57",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "But your friends be"
+            },
+            {
+              "rowId": 262,
+              "keyParts": [
+                262,
+                "q2_57",
+                "verse",
+                "v31",
+                "note",
+                "x"
+              ],
+              "value": "#[2 Sam. 23:4;Dan. 12:3;Matt. 13:43]"
+            },
+            {
+              "rowId": 263,
+              "keyParts": [
+                263,
+                "q2_57",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "like the sun"
+            },
+            {
+              "rowId": 264,
+              "keyParts": [
+                264,
+                "q2_57",
+                "verse",
+                "v31",
+                "note",
+                "x"
+              ],
+              "value": "#Ps. 19:5;37:6"
+            },
+            {
+              "rowId": 265,
+              "keyParts": [
+                265,
+                "q2_57",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "as he rises in his might.”"
+            },
+            {
+              "rowId": 266,
+              "keyParts": [
+                266,
+                "m1",
+                "verse",
+                "v31",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.3:11"
+            },
+            {
+              "rowId": 267,
+              "keyParts": [
+                267,
+                "m1",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "And the land had rest for forty years."
+            },
+            {
+              "rowId": 268,
+              "keyParts": [
+                "v031_ESV_JDG_005",
+                268,
+                "q1_45",
+                "verse",
+                "v31",
+                "plain_text"
+              ],
+              "value": "31 “So may all your enemies perish, O Lord ! But your friends be like the sun as he rises in his might.” And the land had rest for forty years."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

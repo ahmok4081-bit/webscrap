@@ -1,0 +1,2369 @@
+{
+  "translationId": "NET",
+  "name": "New English Translation",
+  "abbreviation": "NET",
+  "language": "English",
+  "copyright": "1996 - 2007 by Biblical Studies Press, LLC",
+  "books": [
+    {
+      "bookId": "EXO",
+      "testament": "OT",
+      "order": 2,
+      "title": "Exodus",
+      "abbreviation": "EXO",
+      "chapters": [
+        {
+          "chapter": 6,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                2,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "Then the"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "said to Moses, “Now you will see what I will do to Pharaoh,"
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "f"
+              ],
+              "value": "sn The expression “I will do to Pharaoh” always refers to the plagues. God would first show his sovereignty over Pharaoh before defeating him."
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                7,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "for compelled by my strong hand"
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "f"
+              ],
+              "value": "tn The expression “with a strong hand” (וּבְיָד חֲזָקָה, uvÿyad khazaqah) could refer (1) to God’s powerful intervention (“compelled by my strong hand”) or (2) to Pharaoh’s forceful pursuit (“he will forcefully drive them out”). In Exod 3:20 God has summarized what his hand would do in Egypt, and that is probably what is intended here, as he promises that Moses will see what God will do. All Egypt ultimately desired that Israel be released (12:33), and when they were released Pharaoh pursued them to the sea, and so in a sense drove them out – whether that was his intention or not. But ultimately it was God’s power that was the real force behind it all. U. Cassuto (Exodus, 74) considers that it is unlikely that the phrase would be used in the same verse twice with the same meaning. So he thinks that the first “strong hand” is God’s, and the second “strong hand” is Pharaoh’s. It is true that if Pharaoh acted forcefully in any way that contributed to Israel leaving Egypt it was because God was acting forcefully in his life. So in an understated way, God is saying that when forced by God’s strong hand, Pharaoh will indeed release God’s people.”"
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                9,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "he will release them, and by my strong hand he will drive them out of his land.”"
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "f"
+              ],
+              "value": "tn Or “and he will forcefully drive them out of his land,” if the second occurrence of “strong hand” refers to Pharaoh’s rather than God’s (see the previous note).\nsn In Exod 12:33 the Egyptians were eager to send (release) Israel away in haste, because they all thought they were going to die."
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                "v001_NET_EXO_006",
+                11,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 Then the Lord said to Moses, “Now you will see what I will do to Pharaoh, for compelled by my strong hand he will release them, and by my strong hand he will drive them out of his land.”"
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                12,
+                "p2",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                13,
+                "p2",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "God spoke"
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "p2",
+                "verse",
+                "v2",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “And God spoke.”"
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                15,
+                "p2",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "to Moses and said to him, “I am the"
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                16,
+                "p2",
+                "verse",
+                "v2",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                17,
+                "p2",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "."
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "p2",
+                "verse",
+                "v2",
+                "note",
+                "f"
+              ],
+              "value": "sn The announcement “I am the Lord” (Heb “Yahweh”) draws in the preceding revelation in Exod 3:15. In that place God called Moses to this task and explained the significance of the name “Yahweh” by the enigmatic expression “I am that I am.” “I am” (אֶהְיֶה, ’ehyeh) is not a name; “Yahweh” is. But the explanation of the name with this sentence indicates that Yahweh is the one who is always there, and that guarantees the future, for everything he does is consistent with his nature. He is eternal, never changing; he remains. Now, in Exodus 6, the meaning of the name “Yahweh” will be more fully unfolded."
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                "v002_NET_EXO_006",
+                19,
+                "p2",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 God spoke to Moses and said to him, “I am the Lord ."
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                20,
+                "p2",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p2",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "I appeared to Abraham, to Isaac, and to Jacob as"
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                22,
+                "p2",
+                "verse",
+                "v3",
+                "note",
+                "f"
+              ],
+              "value": "tn The preposition bet (ב) in this construction should be classified as a bet essentiae, a bet of essence (see also GKC 379 §119.i)."
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "p2",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "God Almighty,"
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                24,
+                "p2",
+                "verse",
+                "v3",
+                "note",
+                "f"
+              ],
+              "value": "tn The traditional rendering of the title as “Almighty” is reflected in LXX and Jerome. But there is still little agreement on the etymology and exact meaning of אֵל־שַׁדַּי (’el-shadday). Suggestions have included the idea of “mountain God,” meaning the high God, as well as “the God with breasts.” But there is very little evidence supporting such conclusions and not much reason to question the ancient versions."
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "p2",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "but by"
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                26,
+                "p2",
+                "verse",
+                "v3",
+                "note",
+                "f"
+              ],
+              "value": "tn The noun שְׁמִי (shÿmi, “my name,” and “Yahweh” in apposition to it), is an adverbial accusative, specifying how the patriarchs “knew” him."
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                27,
+                "p2",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "my name ‘the"
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                28,
+                "p2",
+                "verse",
+                "v3",
+                "sc"
+              ],
+              "value": "Lord’"
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                29,
+                "p2",
+                "verse",
+                "v3",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “Yahweh,” traditionally rendered in English as “the Lord.” The phrase has been placed in quotation marks in the translation to indicate it represents the tetragrammaton."
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                30,
+                "p2",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "I was not known to them."
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                31,
+                "p2",
+                "verse",
+                "v3",
+                "note",
+                "f"
+              ],
+              "value": "tn The verb is the Niphal form נוֹדַעְתִּי (noda’ti). If the text had wanted to say, “I did not make myself known,” then a Hiphil form would have been more likely. It is saying, “but by my name Yahweh I was not known to them.”\nsn There are a number of important issues that need clarification in the interpretation of this section. First, it is important to note that “I am Yahweh” is not a new revelation of a previously unknown name. It would be introduced differently if it were. This is the identification of the covenant God as the one calling Moses – that would be proof for the people that their God had called him. Second, the title “El Shadday” is not a name, but a title. It is true that in the patriarchal accounts “El Shadday” is used six times; in Job it is used thirty times. Many conclude that it does reflect the idea of might or power. In some of those passages that reveal God as “El Shadday,” the name “Yahweh” was also used. But Wellhausen and other proponents of the earlier source critical analysis used Exod 6:3 to say that P, the so-called priestly source, was aware that the name “Yahweh” was not known by them, even though J, the supposed Yahwistic source, wrote using the name as part of his theology. Third, the texts of Genesis show that Yahweh had appeared to the patriarchs (Gen 12:1, 17:1, 18:1, 26:2, 26:24, 26:12, 35:1, 48:3), and that he spoke to each one of them (Gen 12:7, 15:1, 26:2, 28:13, 31:3). The name “Yahweh” occurs 162 times in Genesis, 34 of those times on the lips of speakers in Genesis (W. C. Kaiser, Jr., “Exodus,” EBC 2:340-41). They also made proclamation of Yahweh by name (4:26, 12:8), and they named places with the name (22:14). These passages should not be ignored or passed off as later interpretation. Fourth, “Yahweh” is revealed as the God of power, the sovereign God, who was true to his word and could be believed. He would do as he said (Num 23:19; 14:35; Exod 12:25; 22:24; 24:14; 36:36; 37:14). Fifth, there is a difference between promise and fulfillment in the way revelation is apprehended. The patriarchs were individuals who received the promises but without the fulfillment. The fulfillment could only come after the Israelites became a nation. Now, in Egypt, they are ready to become that promised nation. The two periods were not distinguished by not having and by having the name, but by two ways God revealed the significance of his name. “I am Yahweh” to the patriarchs indicated that he was the absolute, almighty, eternal God. The patriarchs were individuals sojourning in the land. God appeared to them in the significance of El Shadday. That was not his name. So Gen 17:1 says that “Yahweh appeared…and said, ‘I am El Shadday.’” See also Gen 35:11, 48:2, 28:3. Sixth, the verb “to know” is never used to introduce a name which had never been known or experienced. The Niphal and Hiphil of the verb are used only to describe the recognition of the overtones or significance of the name (see Jer 16:21, Isa 52:6; Ps 83:17ff; 1 Kgs 8:41ff. [people will know his name when prayers are answered]). For someone to say that he knew Yahweh meant that Yahweh had been experienced or recognized (see Exod 33:6; 1 Kgs 18:36; Jer 28:9; and Ps 76:2). Seventh, “Yahweh” is not one of God’s names – it is his only name. Other titles, like “El Shadday,” are not strictly names but means of revealing Yahweh. All the revelations to the patriarchs could not compare to this one, because God was now dealing with the nation. He would make his name known to them through his deeds (see Ezek 20:5). So now they will “know” the “name.” The verb יָדַע (yada’) means more than “aware of, be knowledgeable about”; it means “to experience” the reality of the revelation by that name. This harmonizes with the usage of שֵׁם (shem), “name,” which encompasses all the attributes and actions of God. It is not simply a reference to a title, but to the way that God revealed himself – God gave meaning to his name through his acts. God is not saying that he had not revealed a name to the patriarchs (that would have used the Hiphil of the verb). Rather, he is saying that the patriarchs did not experience what the name Yahweh actually meant, and they could not without seeing it fulfilled. When Moses came to the elders, he identified his call as from Yahweh, the God of the fathers – and they accepted him. They knew the name. But, when they were delivered from bondage, then they fully knew by experience what that name meant, for his promises were fulfilled. U. Cassuto (Exodus, 79) paraphrases it this way: “I revealed Myself to Abraham, Isaac, and Jacob in My aspect that finds expression in the name Shaddai…I was not known to them, that is, it was not given to them to recognize Me as One that fulfils his promises.” This generation was about to “know” the name that their ancestors knew and used, but never experienced with the fulfillment of the promises. This section of Exodus confirms this interpretation, because in it God promised to bring them out of Egypt and give them the promised land – then they would know that he is Yahweh (6:7). This meaning should have been evident from its repetition to the Egyptians throughout the plagues – that they might know Yahweh (e.g., 7:5). See further R. D. Wilson, “Yahweh [Jehovah] and Exodus 6:3,” Classical Evangelical Essays in Old Testament Interpretation, 29-40; L. A. Herrboth, “Exodus 6:3b: Was God Known to the Patriarchs as Jehovah?” CTM 4 (1931): 345-49; F. C. Smith, “Observation on the Use of the Names and Titles of God in Genesis,” EvQ 40 (1968): 103-9."
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                "v003_NET_EXO_006",
+                32,
+                "p2",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 I appeared to Abraham, to Isaac, and to Jacob as God Almighty, but by my name ‘the Lord’ I was not known to them."
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                33,
+                "p2",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                34,
+                "p2",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "I also established my covenant with them"
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                35,
+                "p2",
+                "verse",
+                "v4",
+                "note",
+                "f"
+              ],
+              "value": "tn The statement refers to the making of the covenant with Abraham (Gen 15 and following) and confirming it with the other patriarchs. The verb הֲקִמֹתִי (haqimoti) means “set up, establish, give effect to, conclude” a covenant agreement. The covenant promised the patriarchs a great nation, a land – Canaan, and divine blessing. They lived with those promises, but now their descendants were in bondage in Egypt. God’s reference to the covenant here is meant to show the new revelation through redemption will start to fulfill the promises and show what the reality of the name Yahweh is to them."
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "p2",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "to give them the land of Canaan, where they were living as resident foreigners."
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                37,
+                "p2",
+                "verse",
+                "v4",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “the land of their sojournings.” The noun מְגֻרִים (mÿgurim) is a reminder that the patriarchs did not receive the promises. It is also an indication that those living in the age of promise did not experience the full meaning of the name of the covenant God. The “land of their sojournings” is the land of Canaan where the family lived (גּרוּ, garu) as foreigners, without owning property or having the rights of kinship with the surrounding population."
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                "v004_NET_EXO_006",
+                38,
+                "p2",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 I also established my covenant with them to give them the land of Canaan, where they were living as resident foreigners."
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                39,
+                "p2",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                40,
+                "p2",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "I"
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p2",
+                "verse",
+                "v5",
+                "note",
+                "f"
+              ],
+              "value": "tn The addition of the independent pronoun אֲנִי (’ani, “I”) emphasizes the fact that it was Yahweh himself who heard the cry."
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "p2",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "have also heard"
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                43,
+                "p2",
+                "verse",
+                "v5",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “And also I have heard.”"
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                44,
+                "p2",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "the groaning of the Israelites, whom the Egyptians are enslaving,"
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                45,
+                "p2",
+                "verse",
+                "v5",
+                "note",
+                "f"
+              ],
+              "value": "tn The form is the Hiphil participle מַעֲבִדִים (ma’avidim, “causing to serve”). The participle occurs in a relative clause that modifies “the Israelites.” The clause ends with the accusative “them,” which must be combined with the relative pronoun for a smooth English translation. So “who the Egyptians are enslaving them,” results in the translation “whom the Egyptians are enslaving.”"
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                46,
+                "p2",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "and I have remembered my covenant."
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                47,
+                "p2",
+                "verse",
+                "v5",
+                "note",
+                "f"
+              ],
+              "value": "tn As in Exod 2:24, this remembering has the significance of God’s beginning to act to fulfill the covenant promises."
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                "v005_NET_EXO_006",
+                48,
+                "p2",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 I have also heard the groaning of the Israelites, whom the Egyptians are enslaving, and I have remembered my covenant."
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                49,
+                "p2",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "p2",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "Therefore, tell the Israelites, ‘I am the"
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                51,
+                "p2",
+                "verse",
+                "v6",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                52,
+                "p2",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": ". I will bring you out"
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                53,
+                "p2",
+                "verse",
+                "v6",
+                "note",
+                "f"
+              ],
+              "value": "sn The verb וְהוֹצֵאתִי (vÿhotse’ti) is a perfect tense with the vav (ו) consecutive, and so it receives a future translation – part of God’s promises. The word will be used later to begin the Decalogue and other covenant passages – “I am Yahweh who brought you out….”"
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                54,
+                "p2",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "from your enslavement to"
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                55,
+                "p2",
+                "verse",
+                "v6",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “from under the burdens of” (so KJV, NASB); NIV “from under the yoke of.”"
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                56,
+                "p2",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "the Egyptians, I will rescue you from the hard labor they impose,"
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                57,
+                "p2",
+                "verse",
+                "v6",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “from labor of them.” The antecedent of the pronoun is the Egyptians who have imposed slave labor on the Hebrews."
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                58,
+                "p2",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "and I will redeem you with an outstretched arm and with great judgments."
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                "v006_NET_EXO_006",
+                59,
+                "p2",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 Therefore, tell the Israelites, ‘I am the Lord . I will bring you out from your enslavement to the Egyptians, I will rescue you from the hard labor they impose, and I will redeem you with an outstretched arm and with great judgments."
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                60,
+                "p2",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                61,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "I will take you to myself for a people, and I will be your God."
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                62,
+                "p2",
+                "verse",
+                "v7",
+                "note",
+                "f"
+              ],
+              "value": "sn These covenant promises are being reiterated here because they are about to be fulfilled. They are addressed to the nation, not individuals, as the plural suffixes show. Yahweh was their God already, because they had been praying to him and he is acting on their behalf. When they enter into covenant with God at Sinai, then he will be the God of Israel in a new way (19:4-6; cf. Gen 17:7-8; 28:20-22; Lev 26:11-12; Jer 24:7; Ezek 11:17-20)."
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                63,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "Then you will know that I am the"
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                64,
+                "p2",
+                "verse",
+                "v7",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                65,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "your God, who brought you out from your enslavement to"
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                66,
+                "p2",
+                "verse",
+                "v7",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “from under the burdens of” (so KJV, NASB); NIV “from under the yoke of.”"
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                67,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "the Egyptians."
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                "v007_NET_EXO_006",
+                68,
+                "p2",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 I will take you to myself for a people, and I will be your God. Then you will know that I am the Lord your God, who brought you out from your enslavement to the Egyptians."
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                69,
+                "p2",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                70,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "I will bring you to the land I swore to give"
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                71,
+                "p2",
+                "verse",
+                "v8",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “which I raised my hand to give it.” The relative clause specifies which land is their goal. The bold anthropomorphism mentions part of an oath-taking ceremony to refer to the whole event and reminds the reader that God swore that he would give the land to them. The reference to taking an oath would have made the promise of God sure in the mind of the Israelite."
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                72,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "to Abraham, to Isaac, and to Jacob – and I will give it to you"
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                73,
+                "p2",
+                "verse",
+                "v8",
+                "note",
+                "f"
+              ],
+              "value": "sn Here is the twofold aspect again clearly depicted: God swore the promise to the patriarchs, but he is about to give what he promised to this generation. This generation will know more about him as a result."
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                74,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "as a possession. I am the"
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                75,
+                "p2",
+                "verse",
+                "v8",
+                "sc"
+              ],
+              "value": "Lord!’"
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                76,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "”"
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                "v008_NET_EXO_006",
+                77,
+                "p2",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 I will bring you to the land I swore to give to Abraham, to Isaac, and to Jacob – and I will give it to you as a possession. I am the Lord!’ ”"
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                78,
+                "p3",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                79,
+                "p3",
+                "verse",
+                "v9",
+                "note",
+                "f"
+              ],
+              "value": "sn The final part of this section focuses on instructions for Moses. The commission from God is the same – he is to speak to Pharaoh and he is to lead Israel out. It should have been clear to him that God would do this, for he had just been reminded how God was going to lead out, deliver, redeem, take the people as his people, and give them land. It was God’s work of love from beginning to end. Moses simply had his task to perform."
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                80,
+                "p3",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "Moses told this"
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                81,
+                "p3",
+                "verse",
+                "v9",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and Moses spoke thus.”"
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                82,
+                "p3",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "to the Israelites, but they did not listen to him"
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                83,
+                "p3",
+                "verse",
+                "v9",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “to Moses.” The proper name has been replaced by the pronoun (“him”) in the translation for stylistic reasons."
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                84,
+                "p3",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "because of their discouragement"
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                85,
+                "p3",
+                "verse",
+                "v9",
+                "note",
+                "f"
+              ],
+              "value": "tn The Hebrew מִקֹּצֶּר רוּחַ (miqqotser ruakh) means “because of the shortness of spirit.” This means that they were discouraged, dispirited, and weary – although some have also suggested it might mean impatient. The Israelites were now just not in the frame of mind to listen to Moses."
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                86,
+                "p3",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "and hard labor."
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                "v009_NET_EXO_006",
+                87,
+                "p3",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 Moses told this to the Israelites, but they did not listen to him because of their discouragement and hard labor."
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                88,
+                "p3",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                89,
+                "p3",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "Then the"
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                90,
+                "p3",
+                "verse",
+                "v10",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                91,
+                "p3",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "said to Moses,"
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                "v010_NET_EXO_006",
+                92,
+                "p3",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 Then the Lord said to Moses,"
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                93,
+                "p3",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                94,
+                "p3",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "“Go, tell Pharaoh king of Egypt that he must release"
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                95,
+                "p3",
+                "verse",
+                "v11",
+                "note",
+                "f"
+              ],
+              "value": "tn The form וִישַׁלַּח (vishallakh) is the Piel imperfect or jussive with a sequential vav; following an imperative it gives the imperative’s purpose and intended result. They are to speak to Pharaoh, and (so that as a result) he will release Israel. After the command to speak, however, the second clause also indirectly states the content of the speech (cf. Exod 11:2; 14:2, 15; 25:2; Lev 16:2; 22:2). As the next verse shows, Moses doubts that what he says will have the intended effect."
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                96,
+                "p3",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "the Israelites from his land.”"
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                "v011_NET_EXO_006",
+                97,
+                "p3",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 “Go, tell Pharaoh king of Egypt that he must release the Israelites from his land.”"
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                98,
+                "p3",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                99,
+                "p3",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "But Moses replied to"
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                100,
+                "p3",
+                "verse",
+                "v12",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “And Moses spoke before.”"
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                101,
+                "p3",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "the"
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                102,
+                "p3",
+                "verse",
+                "v12",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                103,
+                "p3",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": ", “If the Israelites did not listen to me, then"
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                104,
+                "p3",
+                "verse",
+                "v12",
+                "note",
+                "f"
+              ],
+              "value": "sn This analogy is an example of a qal wahomer comparison. It is an argument by inference from the light (qal) to the heavy (homer), from the simple to the more difficult. If the Israelites, who are Yahwists, would not listen to him, it is highly unlikely Pharaoh would."
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                105,
+                "p3",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "how will Pharaoh listen to me, since"
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                106,
+                "p3",
+                "verse",
+                "v12",
+                "note",
+                "f"
+              ],
+              "value": "tn The final clause begins with a disjunctive vav (ו), a vav on a nonverb form – here a pronoun. It introduces a circumstantial causal clause."
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                107,
+                "p3",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "I speak with difficulty?”"
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                108,
+                "p3",
+                "verse",
+                "v12",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and [since] I am of uncircumcised lips.” The “lips” represent his speech (metonymy of cause). The term “uncircumcised” makes a comparison between his speech and that which Israel perceived as unacceptable, unprepared, foreign, and of no use to God. The heart is described this way when it is impervious to good impressions (Lev 26:41; Jer 9:26) and the ear when it hears imperfectly (Jer 6:10). Moses has here returned to his earlier claim – he does not speak well enough to be doing this."
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                "v012_NET_EXO_006",
+                109,
+                "p3",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 But Moses replied to the Lord , “If the Israelites did not listen to me, then how will Pharaoh listen to me, since I speak with difficulty?”"
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                110,
+                "p4",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                111,
+                "p4",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "The"
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                112,
+                "p4",
+                "verse",
+                "v13",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                113,
+                "p4",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "spoke"
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                114,
+                "p4",
+                "verse",
+                "v13",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “And Yahweh spoke.”"
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                115,
+                "p4",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "to Moses and Aaron and gave them a charge"
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                116,
+                "p4",
+                "verse",
+                "v13",
+                "note",
+                "f"
+              ],
+              "value": "tn The term וַיְצַוֵּם (vayÿtsavvem) is a Piel preterite with a pronominal suffix on it. The verb צָוָה (tsavah) means “to command” but can also have a much wider range of meanings. In this short summary statement, the idea of giving Moses and Aaron a commission to Israel and to Pharaoh indicates that come what may they have their duty to perform."
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                117,
+                "p4",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "for the Israelites and Pharaoh king of Egypt to bring the Israelites out of the land of Egypt."
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "The Ancestry of the Deliverer"
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                "v013_NET_EXO_006",
+                119,
+                "p4",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 The Lord spoke to Moses and Aaron and gave them a charge for the Israelites and Pharaoh king of Egypt to bring the Israelites out of the land of Egypt."
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                120,
+                "p5",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 121,
+              "keyParts": [
+                121,
+                "p5",
+                "verse",
+                "v14",
+                "note",
+                "f"
+              ],
+              "value": "sn This list of names shows that Moses and Aaron are in the line of Levi that came to the priesthood. It helps to identify them and authenticate them as spokesmen for God within the larger history of Israel. As N. M. Sarna observes, “Because a genealogy inherently symbolizes vigor and continuity, its presence here also injects a reassuring note into the otherwise despondent mood” (Exodus [JPSTC], 33)."
+            },
+            {
+              "rowId": 122,
+              "keyParts": [
+                122,
+                "p5",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "These are the heads of their fathers’ households:"
+            },
+            {
+              "rowId": 123,
+              "keyParts": [
+                123,
+                "p5",
+                "verse",
+                "v14",
+                "note",
+                "f"
+              ],
+              "value": "tn The expression is literally “the house of their fathers.” This expression means that the household or family descended from a single ancestor. It usually indicates a subdivision of a tribe, that is, a clan, or the subdivision of a clan, that is, a family. Here it refers to a clan (S. R. Driver, Exodus, 46)."
+            },
+            {
+              "rowId": 124,
+              "keyParts": [
+                124,
+                "p6",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "The sons"
+            },
+            {
+              "rowId": 125,
+              "keyParts": [
+                125,
+                "p6",
+                "verse",
+                "v14",
+                "note",
+                "f"
+              ],
+              "value": "tn Or “descendants.”"
+            },
+            {
+              "rowId": 126,
+              "keyParts": [
+                126,
+                "p6",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "of Reuben, the firstborn son of Israel, were Hanoch and Pallu, Hezron and Carmi. These were the clans"
+            },
+            {
+              "rowId": 127,
+              "keyParts": [
+                127,
+                "p6",
+                "verse",
+                "v14",
+                "note",
+                "f"
+              ],
+              "value": "tn Or “families,” and so throughout the genealogy."
+            },
+            {
+              "rowId": 128,
+              "keyParts": [
+                128,
+                "p6",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "of Reuben."
+            },
+            {
+              "rowId": 129,
+              "keyParts": [
+                "v014_NET_EXO_006",
+                129,
+                "p5",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 These are the heads of their fathers’ households: The sons of Reuben, the firstborn son of Israel, were Hanoch and Pallu, Hezron and Carmi. These were the clans of Reuben."
+            },
+            {
+              "rowId": 130,
+              "keyParts": [
+                130,
+                "p7",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 131,
+              "keyParts": [
+                131,
+                "p7",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "The sons of Simeon were Jemuel, Jamin, Ohad, Jakin, Zohar, and Shaul, the son of a Canaanite woman. These were the clans of Simeon."
+            },
+            {
+              "rowId": 132,
+              "keyParts": [
+                "v015_NET_EXO_006",
+                132,
+                "p7",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 The sons of Simeon were Jemuel, Jamin, Ohad, Jakin, Zohar, and Shaul, the son of a Canaanite woman. These were the clans of Simeon."
+            },
+            {
+              "rowId": 133,
+              "keyParts": [
+                133,
+                "p8",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 134,
+              "keyParts": [
+                134,
+                "p8",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "Now these are the names of the sons of Levi, according to their records:"
+            },
+            {
+              "rowId": 135,
+              "keyParts": [
+                135,
+                "p8",
+                "verse",
+                "v16",
+                "note",
+                "f"
+              ],
+              "value": "tn Or “generations.”"
+            },
+            {
+              "rowId": 136,
+              "keyParts": [
+                136,
+                "p8",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "Gershon, Kohath, and Merari. (The length of Levi’s life was 137 years.)"
+            },
+            {
+              "rowId": 137,
+              "keyParts": [
+                "v016_NET_EXO_006",
+                137,
+                "p8",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 Now these are the names of the sons of Levi, according to their records: Gershon, Kohath, and Merari. (The length of Levi’s life was 137 years.)"
+            },
+            {
+              "rowId": 138,
+              "keyParts": [
+                138,
+                "p9",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 139,
+              "keyParts": [
+                139,
+                "p9",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "The sons of Gershon, by their families, were Libni and Shimei."
+            },
+            {
+              "rowId": 140,
+              "keyParts": [
+                "v017_NET_EXO_006",
+                140,
+                "p9",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 The sons of Gershon, by their families, were Libni and Shimei."
+            },
+            {
+              "rowId": 141,
+              "keyParts": [
+                141,
+                "p10",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 142,
+              "keyParts": [
+                142,
+                "p10",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "The sons of Kohath were Amram, Izhar, Hebron, and Uzziel. (The length of Kohath’s life was 133 years.)"
+            },
+            {
+              "rowId": 143,
+              "keyParts": [
+                "v018_NET_EXO_006",
+                143,
+                "p10",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 The sons of Kohath were Amram, Izhar, Hebron, and Uzziel. (The length of Kohath’s life was 133 years.)"
+            },
+            {
+              "rowId": 144,
+              "keyParts": [
+                144,
+                "p11",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 145,
+              "keyParts": [
+                145,
+                "p11",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "The sons of Merari were Mahli and Mushi. These were the clans of Levi, according to their records."
+            },
+            {
+              "rowId": 146,
+              "keyParts": [
+                "v019_NET_EXO_006",
+                146,
+                "p11",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 The sons of Merari were Mahli and Mushi. These were the clans of Levi, according to their records."
+            },
+            {
+              "rowId": 147,
+              "keyParts": [
+                147,
+                "p12",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 148,
+              "keyParts": [
+                148,
+                "p12",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "Amram married"
+            },
+            {
+              "rowId": 149,
+              "keyParts": [
+                149,
+                "p12",
+                "verse",
+                "v20",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “took for a wife” (also in vv. 23, 25)."
+            },
+            {
+              "rowId": 150,
+              "keyParts": [
+                150,
+                "p12",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "his father’s sister Jochebed, and she bore him Aaron and Moses. (The length of Amram’s life was 137 years.)"
+            },
+            {
+              "rowId": 151,
+              "keyParts": [
+                "v020_NET_EXO_006",
+                151,
+                "p12",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 Amram married his father’s sister Jochebed, and she bore him Aaron and Moses. (The length of Amram’s life was 137 years.)"
+            },
+            {
+              "rowId": 152,
+              "keyParts": [
+                152,
+                "p13",
+                "verse",
+                "v21",
+                "label"
+              ],
+              "value": "21"
+            },
+            {
+              "rowId": 153,
+              "keyParts": [
+                153,
+                "p13",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "The sons of Izhar were Korah, Nepheg, and Zikri."
+            },
+            {
+              "rowId": 154,
+              "keyParts": [
+                "v021_NET_EXO_006",
+                154,
+                "p13",
+                "verse",
+                "v21",
+                "plain_text"
+              ],
+              "value": "21 The sons of Izhar were Korah, Nepheg, and Zikri."
+            },
+            {
+              "rowId": 155,
+              "keyParts": [
+                155,
+                "p14",
+                "verse",
+                "v22",
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 156,
+              "keyParts": [
+                156,
+                "p14",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "The sons of Uzziel were Mishael, Elzaphan, and Sithri."
+            },
+            {
+              "rowId": 157,
+              "keyParts": [
+                "v022_NET_EXO_006",
+                157,
+                "p14",
+                "verse",
+                "v22",
+                "plain_text"
+              ],
+              "value": "22 The sons of Uzziel were Mishael, Elzaphan, and Sithri."
+            },
+            {
+              "rowId": 158,
+              "keyParts": [
+                158,
+                "p15",
+                "verse",
+                "v23",
+                "label"
+              ],
+              "value": "23"
+            },
+            {
+              "rowId": 159,
+              "keyParts": [
+                159,
+                "p15",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "Aaron married Elisheba, the daughter of Amminadab and sister of Nahshon, and she bore him Nadab and Abihu, Eleazar and Ithamar."
+            },
+            {
+              "rowId": 160,
+              "keyParts": [
+                "v023_NET_EXO_006",
+                160,
+                "p15",
+                "verse",
+                "v23",
+                "plain_text"
+              ],
+              "value": "23 Aaron married Elisheba, the daughter of Amminadab and sister of Nahshon, and she bore him Nadab and Abihu, Eleazar and Ithamar."
+            },
+            {
+              "rowId": 161,
+              "keyParts": [
+                161,
+                "p16",
+                "verse",
+                "v24",
+                "label"
+              ],
+              "value": "24"
+            },
+            {
+              "rowId": 162,
+              "keyParts": [
+                162,
+                "p16",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "The sons of Korah were Assir, Elkanah, and Abiasaph. These were the Korahite clans."
+            },
+            {
+              "rowId": 163,
+              "keyParts": [
+                "v024_NET_EXO_006",
+                163,
+                "p16",
+                "verse",
+                "v24",
+                "plain_text"
+              ],
+              "value": "24 The sons of Korah were Assir, Elkanah, and Abiasaph. These were the Korahite clans."
+            },
+            {
+              "rowId": 164,
+              "keyParts": [
+                164,
+                "p17",
+                "verse",
+                "v25",
+                "label"
+              ],
+              "value": "25"
+            },
+            {
+              "rowId": 165,
+              "keyParts": [
+                165,
+                "p17",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "Now Eleazar son of Aaron married one of the daughters of Putiel and she bore him Phinehas."
+            },
+            {
+              "rowId": 166,
+              "keyParts": [
+                166,
+                "p18",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "These are the heads of the fathers’ households"
+            },
+            {
+              "rowId": 167,
+              "keyParts": [
+                167,
+                "p18",
+                "verse",
+                "v25",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “heads of the fathers” is taken as an abbreviation for the description of “households” in v. 14."
+            },
+            {
+              "rowId": 168,
+              "keyParts": [
+                168,
+                "p18",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "of Levi according to their clans."
+            },
+            {
+              "rowId": 169,
+              "keyParts": [
+                "v025_NET_EXO_006",
+                169,
+                "p17",
+                "verse",
+                "v25",
+                "plain_text"
+              ],
+              "value": "25 Now Eleazar son of Aaron married one of the daughters of Putiel and she bore him Phinehas. These are the heads of the fathers’ households of Levi according to their clans."
+            },
+            {
+              "rowId": 170,
+              "keyParts": [
+                170,
+                "p19",
+                "verse",
+                "v26",
+                "label"
+              ],
+              "value": "26"
+            },
+            {
+              "rowId": 171,
+              "keyParts": [
+                171,
+                "p19",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "It was the same Aaron and Moses to whom the"
+            },
+            {
+              "rowId": 172,
+              "keyParts": [
+                172,
+                "p19",
+                "verse",
+                "v26",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 173,
+              "keyParts": [
+                173,
+                "p19",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "said, “Bring the Israelites out of the land of Egypt by their regiments.”"
+            },
+            {
+              "rowId": 174,
+              "keyParts": [
+                174,
+                "p19",
+                "verse",
+                "v26",
+                "note",
+                "f"
+              ],
+              "value": "tn Or “by their hosts” or “by their armies.” Often translated “hosts” (ASV, NASB) or “armies” (KJV), צְבָאוֹת (tsÿva’ot) is a military term that portrays the people of God in battle array. In contemporary English, “regiment” is perhaps more easily understood as a force for battle than “company” (cf. NAB, NRSV) or “division” (NIV, NCV, NLT), both of which can have commercial associations. The term also implies an orderly departure."
+            },
+            {
+              "rowId": 175,
+              "keyParts": [
+                "v026_NET_EXO_006",
+                175,
+                "p19",
+                "verse",
+                "v26",
+                "plain_text"
+              ],
+              "value": "26 It was the same Aaron and Moses to whom the Lord said, “Bring the Israelites out of the land of Egypt by their regiments.”"
+            },
+            {
+              "rowId": 176,
+              "keyParts": [
+                176,
+                "p19",
+                "verse",
+                "v27",
+                "label"
+              ],
+              "value": "27"
+            },
+            {
+              "rowId": 177,
+              "keyParts": [
+                177,
+                "p19",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "They were the men who were speaking to Pharaoh king of Egypt, in order to bring the Israelites out of Egypt. It was the same Moses and Aaron."
+            },
+            {
+              "rowId": 178,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "The Authentication of the Word"
+            },
+            {
+              "rowId": 179,
+              "keyParts": [
+                "v027_NET_EXO_006",
+                179,
+                "p19",
+                "verse",
+                "v27",
+                "plain_text"
+              ],
+              "value": "27 They were the men who were speaking to Pharaoh king of Egypt, in order to bring the Israelites out of Egypt. It was the same Moses and Aaron."
+            },
+            {
+              "rowId": 180,
+              "keyParts": [
+                180,
+                "p20",
+                "verse",
+                "v28",
+                "label"
+              ],
+              "value": "28"
+            },
+            {
+              "rowId": 181,
+              "keyParts": [
+                181,
+                "p20",
+                "verse",
+                "v28",
+                "note",
+                "f"
+              ],
+              "value": "sn From here on the confrontation between Yahweh and Pharaoh will intensify until Pharaoh is destroyed. The emphasis at this point, though, is on Yahweh’s instructions for Moses to speak to Pharaoh. The first section (6:28-7:7) ends (v. 6) with the notice that Moses and Aaron did just as (כַּאֲשֶׁר, ka’asher) Yahweh had commanded them; the second section (7:8-13) ends with the note that Pharaoh refused to listen, just as (כַּאֲשֶׁר) Yahweh had said would be the case."
+            },
+            {
+              "rowId": 182,
+              "keyParts": [
+                182,
+                "p20",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "When"
+            },
+            {
+              "rowId": 183,
+              "keyParts": [
+                183,
+                "p20",
+                "verse",
+                "v28",
+                "note",
+                "f"
+              ],
+              "value": "tn The beginning of this temporal clause does not follow the normal pattern of using the preterite of the main verb after the temporal indicator and prepositional phrase, but instead uses a perfect tense following the noun in construct: וַיְהִי בְּיוֹם דִּבֶּר (vayÿhi bÿyom dibber). See GKC 422 §130.d. This verse introduces a summary (vv. 28-30) of the conversation that was interrupted when the genealogy began."
+            },
+            {
+              "rowId": 184,
+              "keyParts": [
+                184,
+                "p20",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "the"
+            },
+            {
+              "rowId": 185,
+              "keyParts": [
+                185,
+                "p20",
+                "verse",
+                "v28",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 186,
+              "keyParts": [
+                186,
+                "p20",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "spoke to Moses in the land of Egypt,"
+            },
+            {
+              "rowId": 187,
+              "keyParts": [
+                "v028_NET_EXO_006",
+                187,
+                "p20",
+                "verse",
+                "v28",
+                "plain_text"
+              ],
+              "value": "28 When the Lord spoke to Moses in the land of Egypt,"
+            },
+            {
+              "rowId": 188,
+              "keyParts": [
+                188,
+                "p20",
+                "verse",
+                "v29",
+                "label"
+              ],
+              "value": "29"
+            },
+            {
+              "rowId": 189,
+              "keyParts": [
+                189,
+                "p20",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "he said to him,"
+            },
+            {
+              "rowId": 190,
+              "keyParts": [
+                190,
+                "p20",
+                "verse",
+                "v29",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and Yahweh spoke to Moses saying.” This has been simplified in the translation as “he said to him” for stylistic reasons."
+            },
+            {
+              "rowId": 191,
+              "keyParts": [
+                191,
+                "p20",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "“I am the"
+            },
+            {
+              "rowId": 192,
+              "keyParts": [
+                192,
+                "p20",
+                "verse",
+                "v29",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 193,
+              "keyParts": [
+                193,
+                "p20",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": ". Tell"
+            },
+            {
+              "rowId": 194,
+              "keyParts": [
+                194,
+                "p20",
+                "verse",
+                "v29",
+                "note",
+                "f"
+              ],
+              "value": "tn The verb is דַּבֵּר (dabber), the Piel imperative. It would normally be translated “speak,” but in English that verb does not sound as natural with a direct object as “tell.”"
+            },
+            {
+              "rowId": 195,
+              "keyParts": [
+                195,
+                "p20",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "Pharaoh king of Egypt all that"
+            },
+            {
+              "rowId": 196,
+              "keyParts": [
+                196,
+                "p20",
+                "verse",
+                "v29",
+                "note",
+                "f"
+              ],
+              "value": "tn The clause begins with אֵת כָּל־אֲשֶׁר (’et kol-’asher) indicating that this is a noun clause functioning as the direct object of the imperative and providing the content of the commanded speech."
+            },
+            {
+              "rowId": 197,
+              "keyParts": [
+                197,
+                "p20",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "I am telling"
+            },
+            {
+              "rowId": 198,
+              "keyParts": [
+                198,
+                "p20",
+                "verse",
+                "v29",
+                "note",
+                "f"
+              ],
+              "value": "tn דֹּבֵר (dover) is the Qal active participle; it functions here as the predicate in the noun clause: “that I [am] telling you.” This one could be rendered, “that I am speaking to you.”"
+            },
+            {
+              "rowId": 199,
+              "keyParts": [
+                199,
+                "p20",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "you.”"
+            },
+            {
+              "rowId": 200,
+              "keyParts": [
+                "v029_NET_EXO_006",
+                200,
+                "p20",
+                "verse",
+                "v29",
+                "plain_text"
+              ],
+              "value": "29 he said to him, “I am the Lord . Tell Pharaoh king of Egypt all that I am telling you.”"
+            },
+            {
+              "rowId": 201,
+              "keyParts": [
+                201,
+                "p20",
+                "verse",
+                "v30",
+                "label"
+              ],
+              "value": "30"
+            },
+            {
+              "rowId": 202,
+              "keyParts": [
+                202,
+                "p20",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "But Moses said before the"
+            },
+            {
+              "rowId": 203,
+              "keyParts": [
+                203,
+                "p20",
+                "verse",
+                "v30",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 204,
+              "keyParts": [
+                204,
+                "p20",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": ", “Since I speak with difficulty,"
+            },
+            {
+              "rowId": 205,
+              "keyParts": [
+                205,
+                "p20",
+                "verse",
+                "v30",
+                "note",
+                "f"
+              ],
+              "value": "tn See note on Exod 6:12."
+            },
+            {
+              "rowId": 206,
+              "keyParts": [
+                206,
+                "p20",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "why should Pharaoh listen to me?”"
+            },
+            {
+              "rowId": 207,
+              "keyParts": [
+                "v030_NET_EXO_006",
+                207,
+                "p20",
+                "verse",
+                "v30",
+                "plain_text"
+              ],
+              "value": "30 But Moses said before the Lord , “Since I speak with difficulty, why should Pharaoh listen to me?”"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

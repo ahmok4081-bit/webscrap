@@ -1,0 +1,1627 @@
+{
+  "translationId": "NET",
+  "name": "New English Translation",
+  "abbreviation": "NET",
+  "language": "English",
+  "copyright": "1996 - 2007 by Biblical Studies Press, LLC",
+  "books": [
+    {
+      "bookId": "GEN",
+      "testament": "",
+      "order": 0,
+      "title": "Genesis",
+      "abbreviation": "GEN",
+      "chapters": [
+        {
+          "chapter": 50,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "50"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "The Burials of Jacob and Joseph"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "Then Joseph hugged his father’s face."
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “fell on.” The expression describes Joseph’s unrestrained sorrow over Jacob’s death; he probably threw himself across the body and embraced his father."
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "He wept over him and kissed him."
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                "v001_NET_GEN_050",
+                7,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 Then Joseph hugged his father’s face. He wept over him and kissed him."
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                9,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "Joseph instructed the physicians in his service"
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “his servants the physicians.”"
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                11,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "to embalm his father, so the physicians embalmed Israel."
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                "v002_NET_GEN_050",
+                12,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 Joseph instructed the physicians in his service to embalm his father, so the physicians embalmed Israel."
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                13,
+                "p1",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "They took forty days, for that is the full time needed for embalming."
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                15,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and forty days were fulfilled for him, for thus are fulfilled the days of embalming.”"
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                16,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "The Egyptians mourned"
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                17,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “wept.”"
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "for him seventy days."
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "f"
+              ],
+              "value": "sn Seventy days. This probably refers to a time of national mourning."
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                "v003_NET_GEN_050",
+                20,
+                "p1",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 They took forty days, for that is the full time needed for embalming. The Egyptians mourned for him seventy days."
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p2",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                22,
+                "p2",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "When the days of mourning"
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "p2",
+                "verse",
+                "v4",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “weeping.”"
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                24,
+                "p2",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "had passed, Joseph said to Pharaoh’s royal court,"
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "p2",
+                "verse",
+                "v4",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “the house of Pharaoh.”"
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                26,
+                "p2",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "“If I have found favor in your sight, please say to Pharaoh,"
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                27,
+                "p2",
+                "verse",
+                "v4",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “in the ears of Pharaoh.”"
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                "v004_NET_GEN_050",
+                28,
+                "p2",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 When the days of mourning had passed, Joseph said to Pharaoh’s royal court, “If I have found favor in your sight, please say to Pharaoh,"
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                29,
+                "p2",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                30,
+                "p2",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "‘My father made me swear an oath. He said,"
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                31,
+                "p2",
+                "verse",
+                "v5",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “saying.”"
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "p2",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "“I am about to die. Bury me"
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                33,
+                "p2",
+                "verse",
+                "v5",
+                "note",
+                "f"
+              ],
+              "value": "tn The imperfect verbal form here has the force of a command."
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                34,
+                "p2",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "in my tomb that I dug for myself there in the land of Canaan.” Now let me go and bury my father; then I will return.’”"
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                "v005_NET_GEN_050",
+                35,
+                "p2",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 ‘My father made me swear an oath. He said, “I am about to die. Bury me in my tomb that I dug for myself there in the land of Canaan.” Now let me go and bury my father; then I will return.’”"
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "p2",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                37,
+                "p2",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "So Pharaoh said, “Go and bury your father, just as he made you swear to do.”"
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                38,
+                "p2",
+                "verse",
+                "v6",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “he made you swear on oath.”"
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                "v006_NET_GEN_050",
+                39,
+                "p2",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 So Pharaoh said, “Go and bury your father, just as he made you swear to do.”"
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                40,
+                "p3",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p3",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "So Joseph went up to bury his father; all Pharaoh’s officials went with him – the senior courtiers"
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "p3",
+                "verse",
+                "v7",
+                "note",
+                "f"
+              ],
+              "value": "tn Or “dignitaries”; Heb “elders.”"
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                43,
+                "p3",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "of his household, all the senior officials of the land of Egypt,"
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                "v007_NET_GEN_050",
+                44,
+                "p3",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 So Joseph went up to bury his father; all Pharaoh’s officials went with him – the senior courtiers of his household, all the senior officials of the land of Egypt,"
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                45,
+                "p3",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                46,
+                "p3",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "all Joseph’s household, his brothers, and his father’s household. But they left their little children and their flocks and herds in the land of Goshen."
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                "v008_NET_GEN_050",
+                47,
+                "p3",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 all Joseph’s household, his brothers, and his father’s household. But they left their little children and their flocks and herds in the land of Goshen."
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                48,
+                "p3",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                49,
+                "p3",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "Chariots and horsemen also went up with him, so it was a very large entourage."
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "p3",
+                "verse",
+                "v9",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “camp.”"
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                "v009_NET_GEN_050",
+                51,
+                "p3",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 Chariots and horsemen also went up with him, so it was a very large entourage."
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                52,
+                "p4",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                53,
+                "p4",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "When they came to the threshing floor of Atad"
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                54,
+                "p4",
+                "verse",
+                "v10",
+                "note",
+                "f"
+              ],
+              "value": "sn The location of the threshing floor of Atad is not certain. The expression the other side of the Jordan could refer to the eastern or western bank, depending on one’s perspective. However, it is commonly used in the OT for Transjordan. This would suggest that the entourage came up the Jordan Valley and crossed into the land at Jericho, just as the Israelites would in the time of Joshua."
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                55,
+                "p4",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "on the other side of the Jordan, they mourned there with very great and bitter sorrow."
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                56,
+                "p4",
+                "verse",
+                "v10",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and they mourned there [with] very great and heavy mourning.” The cognate accusative, as well as the two adjectives and the adverb, emphasize the degree of their sorrow."
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                57,
+                "p4",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "There Joseph observed a seven day period of mourning for his father."
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                "v010_NET_GEN_050",
+                58,
+                "p4",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 When they came to the threshing floor of Atad on the other side of the Jordan, they mourned there with very great and bitter sorrow. There Joseph observed a seven day period of mourning for his father."
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                59,
+                "p4",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                60,
+                "p4",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "When the Canaanites who lived in the land saw them mourning at the threshing floor of Atad, they said, “This is a very sad occasion"
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                61,
+                "p4",
+                "verse",
+                "v11",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “this is heavy mourning for Egypt.”"
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                62,
+                "p4",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "for the Egyptians.” That is why its name was called"
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                63,
+                "p4",
+                "verse",
+                "v11",
+                "note",
+                "f"
+              ],
+              "value": "tn The verb has no expressed subject and so it may be translated as passive."
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                64,
+                "p4",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "Abel Mizraim,"
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                65,
+                "p4",
+                "verse",
+                "v11",
+                "note",
+                "f"
+              ],
+              "value": "sn The name Abel Mizraim means “the mourning of Egypt.”"
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                66,
+                "p4",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "which is beyond the Jordan."
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                "v011_NET_GEN_050",
+                67,
+                "p4",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 When the Canaanites who lived in the land saw them mourning at the threshing floor of Atad, they said, “This is a very sad occasion for the Egyptians.” That is why its name was called Abel Mizraim, which is beyond the Jordan."
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                68,
+                "p5",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                69,
+                "p5",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "So the sons of Jacob did for him just as he had instructed them."
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                "v012_NET_GEN_050",
+                70,
+                "p5",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 So the sons of Jacob did for him just as he had instructed them."
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                71,
+                "p5",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                72,
+                "p5",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "His sons carried him to the land of Canaan and buried him in the cave of the field of Machpelah, near Mamre. This is the field Abraham purchased as a burial plot from Ephron the Hittite."
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                "v013_NET_GEN_050",
+                73,
+                "p5",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 His sons carried him to the land of Canaan and buried him in the cave of the field of Machpelah, near Mamre. This is the field Abraham purchased as a burial plot from Ephron the Hittite."
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                74,
+                "p5",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                75,
+                "p5",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "After he buried his father, Joseph returned to Egypt, along with his brothers and all who had accompanied him to bury his father."
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                "v014_NET_GEN_050",
+                76,
+                "p5",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 After he buried his father, Joseph returned to Egypt, along with his brothers and all who had accompanied him to bury his father."
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                77,
+                "p6",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                78,
+                "p6",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "When Joseph’s brothers saw that their father was dead, they said, “What if Joseph bears a grudge and wants to repay"
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                79,
+                "p6",
+                "verse",
+                "v15",
+                "note",
+                "f"
+              ],
+              "value": "tn The imperfect tense could be a simple future; it could also have a desiderative nuance."
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                80,
+                "p6",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "us in full"
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                81,
+                "p6",
+                "verse",
+                "v15",
+                "note",
+                "f"
+              ],
+              "value": "tn The infinitive absolute makes the statement emphatic, “repay in full.”"
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                82,
+                "p6",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "for all the harm"
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                83,
+                "p6",
+                "verse",
+                "v15",
+                "note",
+                "f"
+              ],
+              "value": "tn Or “evil.”"
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                84,
+                "p6",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "we did to him?”"
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                "v015_NET_GEN_050",
+                85,
+                "p6",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 When Joseph’s brothers saw that their father was dead, they said, “What if Joseph bears a grudge and wants to repay us in full for all the harm we did to him?”"
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                86,
+                "p6",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                87,
+                "p6",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "So they sent word"
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                88,
+                "p6",
+                "verse",
+                "v16",
+                "note",
+                "f"
+              ],
+              "value": "tn The verb means “command,” but they would hardly be commanding him. It probably means they sent their father’s instructions to Joseph."
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                89,
+                "p6",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "to Joseph, saying, “Your father gave these instructions before he died:"
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                "v016_NET_GEN_050",
+                90,
+                "p6",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 So they sent word to Joseph, saying, “Your father gave these instructions before he died:"
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                91,
+                "p6",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                92,
+                "p6",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "‘Tell Joseph this: Please forgive the sin of your brothers and the wrong they did when they treated you so badly.’ Now please forgive the sin of the servants of the God of your father.” When this message was reported to him, Joseph wept."
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                93,
+                "p6",
+                "verse",
+                "v17",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and Joseph wept when they spoke to him.”"
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                "v017_NET_GEN_050",
+                94,
+                "p6",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 ‘Tell Joseph this: Please forgive the sin of your brothers and the wrong they did when they treated you so badly.’ Now please forgive the sin of the servants of the God of your father.” When this message was reported to him, Joseph wept."
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                95,
+                "p6",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                96,
+                "p6",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "Then his brothers also came and threw themselves down before him; they said, “Here we are; we are your slaves.”"
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                "v018_NET_GEN_050",
+                97,
+                "p6",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 Then his brothers also came and threw themselves down before him; they said, “Here we are; we are your slaves.”"
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                98,
+                "p6",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                99,
+                "p6",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "But Joseph answered them, “Don’t be afraid. Am"
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                100,
+                "p6",
+                "verse",
+                "v19",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “For am I.”"
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                101,
+                "p6",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "I in the place of God?"
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                "v019_NET_GEN_050",
+                102,
+                "p6",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 But Joseph answered them, “Don’t be afraid. Am I in the place of God?"
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                103,
+                "p6",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                104,
+                "p6",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "As for you, you meant to harm me,"
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                105,
+                "p6",
+                "verse",
+                "v20",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “you devised against me evil.”"
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                106,
+                "p6",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "but God intended it for a good purpose, so he could preserve the lives of many people, as you can see this day."
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                107,
+                "p6",
+                "verse",
+                "v20",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “God devised it for good in order to do, like this day, to preserve alive a great nation.”"
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                "v020_NET_GEN_050",
+                108,
+                "p6",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 As for you, you meant to harm me, but God intended it for a good purpose, so he could preserve the lives of many people, as you can see this day."
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                109,
+                "p6",
+                "verse",
+                "v21",
+                "label"
+              ],
+              "value": "21"
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                110,
+                "p6",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "So now, don’t be afraid. I will provide for you and your little children.” Then he consoled them and spoke kindly"
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                111,
+                "p6",
+                "verse",
+                "v21",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “spoke to their heart.”"
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                112,
+                "p6",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "to them."
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                "v021_NET_GEN_050",
+                113,
+                "p6",
+                "verse",
+                "v21",
+                "plain_text"
+              ],
+              "value": "21 So now, don’t be afraid. I will provide for you and your little children.” Then he consoled them and spoke kindly to them."
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                114,
+                "p7",
+                "verse",
+                "v22",
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                115,
+                "p7",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "Joseph lived in Egypt, along with his father’s family."
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                116,
+                "p7",
+                "verse",
+                "v22",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “he and the house of his father.”"
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                117,
+                "p7",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "Joseph lived 110 years."
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                "v022_NET_GEN_050",
+                118,
+                "p7",
+                "verse",
+                "v22",
+                "plain_text"
+              ],
+              "value": "22 Joseph lived in Egypt, along with his father’s family. Joseph lived 110 years."
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                119,
+                "p7",
+                "verse",
+                "v23",
+                "label"
+              ],
+              "value": "23"
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                120,
+                "p7",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "Joseph saw the descendants of Ephraim to the third generation."
+            },
+            {
+              "rowId": 121,
+              "keyParts": [
+                121,
+                "p7",
+                "verse",
+                "v23",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “saw Ephraim, the children of the third.”"
+            },
+            {
+              "rowId": 122,
+              "keyParts": [
+                122,
+                "p7",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "He also saw the children of Makir the son of Manasseh; they were given special inheritance rights by Joseph."
+            },
+            {
+              "rowId": 123,
+              "keyParts": [
+                123,
+                "p7",
+                "verse",
+                "v23",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “they were born on the knees of Joseph.” This expression implies their adoption by Joseph, which meant that they received an inheritance from him."
+            },
+            {
+              "rowId": 124,
+              "keyParts": [
+                "v023_NET_GEN_050",
+                124,
+                "p7",
+                "verse",
+                "v23",
+                "plain_text"
+              ],
+              "value": "23 Joseph saw the descendants of Ephraim to the third generation. He also saw the children of Makir the son of Manasseh; they were given special inheritance rights by Joseph."
+            },
+            {
+              "rowId": 125,
+              "keyParts": [
+                125,
+                "p8",
+                "verse",
+                "v24",
+                "label"
+              ],
+              "value": "24"
+            },
+            {
+              "rowId": 126,
+              "keyParts": [
+                126,
+                "p8",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "Then Joseph said to his brothers, “I am about to die. But God will surely come to you"
+            },
+            {
+              "rowId": 127,
+              "keyParts": [
+                127,
+                "p8",
+                "verse",
+                "v24",
+                "note",
+                "f"
+              ],
+              "value": "tn The verb פָּקַד (paqad) means “to visit,” i.e., to intervene for blessing or cursing; here Joseph announces that God would come to fulfill the promises by delivering them from Egypt. The statement is emphasized by the use of the infinitive absolute with the verb: “God will surely visit you.”"
+            },
+            {
+              "rowId": 128,
+              "keyParts": [
+                128,
+                "p8",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "and lead you up from this land to the land he swore on oath to give"
+            },
+            {
+              "rowId": 129,
+              "keyParts": [
+                129,
+                "p8",
+                "verse",
+                "v24",
+                "note",
+                "f"
+              ],
+              "value": "tn The words “to give” are supplied in the translation for clarity and for stylistic reasons."
+            },
+            {
+              "rowId": 130,
+              "keyParts": [
+                130,
+                "p8",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "to Abraham, Isaac, and Jacob.”"
+            },
+            {
+              "rowId": 131,
+              "keyParts": [
+                "v024_NET_GEN_050",
+                131,
+                "p8",
+                "verse",
+                "v24",
+                "plain_text"
+              ],
+              "value": "24 Then Joseph said to his brothers, “I am about to die. But God will surely come to you and lead you up from this land to the land he swore on oath to give to Abraham, Isaac, and Jacob.”"
+            },
+            {
+              "rowId": 132,
+              "keyParts": [
+                132,
+                "p8",
+                "verse",
+                "v25",
+                "label"
+              ],
+              "value": "25"
+            },
+            {
+              "rowId": 133,
+              "keyParts": [
+                133,
+                "p8",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "Joseph made the sons of Israel swear an oath. He said, “God will surely come to you. Then you must carry my bones up from this place.”"
+            },
+            {
+              "rowId": 134,
+              "keyParts": [
+                "v025_NET_GEN_050",
+                134,
+                "p8",
+                "verse",
+                "v25",
+                "plain_text"
+              ],
+              "value": "25 Joseph made the sons of Israel swear an oath. He said, “God will surely come to you. Then you must carry my bones up from this place.”"
+            },
+            {
+              "rowId": 135,
+              "keyParts": [
+                135,
+                "p8",
+                "verse",
+                "v26",
+                "label"
+              ],
+              "value": "26"
+            },
+            {
+              "rowId": 136,
+              "keyParts": [
+                136,
+                "p8",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "So Joseph died at the age of 110."
+            },
+            {
+              "rowId": 137,
+              "keyParts": [
+                137,
+                "p8",
+                "verse",
+                "v26",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “son of a hundred and ten years.”"
+            },
+            {
+              "rowId": 138,
+              "keyParts": [
+                138,
+                "p8",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "After they embalmed him, his body"
+            },
+            {
+              "rowId": 139,
+              "keyParts": [
+                139,
+                "p8",
+                "verse",
+                "v26",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “he.”"
+            },
+            {
+              "rowId": 140,
+              "keyParts": [
+                140,
+                "p8",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "was placed in a coffin in Egypt."
+            },
+            {
+              "rowId": 141,
+              "keyParts": [
+                "v026_NET_GEN_050",
+                141,
+                "p8",
+                "verse",
+                "v26",
+                "plain_text"
+              ],
+              "value": "26 So Joseph died at the age of 110. After they embalmed him, his body was placed in a coffin in Egypt."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

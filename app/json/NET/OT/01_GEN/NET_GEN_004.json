@@ -7,6 +7,8 @@
   "books": [
     {
       "bookId": "GEN",
+      "testament": "",
+      "order": 0,
       "title": "Genesis",
       "abbreviation": "GEN",
       "chapters": [
@@ -179,6 +181,7 @@
             {
               "rowId": 16,
               "keyParts": [
+                "v001_NET_GEN_004",
                 16,
                 "p1",
                 "verse",
@@ -270,6 +273,7 @@
             {
               "rowId": 24,
               "keyParts": [
+                "v002_NET_GEN_004",
                 24,
                 "p1",
                 "verse",
@@ -371,6 +375,7 @@
             {
               "rowId": 33,
               "keyParts": [
+                "v003_NET_GEN_004",
                 33,
                 "p2",
                 "verse",
@@ -495,6 +500,7 @@
             {
               "rowId": 44,
               "keyParts": [
+                "v004_NET_GEN_004",
                 44,
                 "p2",
                 "verse",
@@ -586,6 +592,7 @@
             {
               "rowId": 52,
               "keyParts": [
+                "v005_NET_GEN_004",
                 52,
                 "p2",
                 "verse",
@@ -641,6 +648,7 @@
             {
               "rowId": 57,
               "keyParts": [
+                "v006_NET_GEN_004",
                 57,
                 "p3",
                 "verse",
@@ -755,6 +763,7 @@
             {
               "rowId": 67,
               "keyParts": [
+                "v007_NET_GEN_004",
                 67,
                 "p3",
                 "verse",
@@ -857,6 +866,7 @@
             {
               "rowId": 76,
               "keyParts": [
+                "v008_NET_GEN_004",
                 76,
                 "p4",
                 "verse",
@@ -947,6 +957,7 @@
             {
               "rowId": 84,
               "keyParts": [
+                "v009_NET_GEN_004",
                 84,
                 "p5",
                 "verse",
@@ -1048,6 +1059,7 @@
             {
               "rowId": 93,
               "keyParts": [
+                "v010_NET_GEN_004",
                 93,
                 "p5",
                 "verse",
@@ -1104,6 +1116,7 @@
             {
               "rowId": 98,
               "keyParts": [
+                "v011_NET_GEN_004",
                 98,
                 "p5",
                 "verse",
@@ -1229,6 +1242,7 @@
             {
               "rowId": 109,
               "keyParts": [
+                "v012_NET_GEN_004",
                 109,
                 "p5",
                 "verse",
@@ -1319,6 +1333,7 @@
             {
               "rowId": 117,
               "keyParts": [
+                "v013_NET_GEN_004",
                 117,
                 "p5",
                 "verse",
@@ -1398,6 +1413,7 @@
             {
               "rowId": 124,
               "keyParts": [
+                "v014_NET_GEN_004",
                 124,
                 "p5",
                 "verse",
@@ -1556,6 +1572,7 @@
             {
               "rowId": 138,
               "keyParts": [
+                "v015_NET_GEN_004",
                 138,
                 "p5",
                 "verse",
@@ -1634,21 +1651,22 @@
             {
               "rowId": 145,
               "keyParts": [
-                145,
+                "s1",
+                "heading"
+              ],
+              "value": "The Beginning of Civilization"
+            },
+            {
+              "rowId": 146,
+              "keyParts": [
+                "v016_NET_GEN_004",
+                146,
                 "p5",
                 "verse",
                 "v16",
                 "plain_text"
               ],
               "value": "16 So Cain went out from the presence of the Lord and lived in the land of Nod, east of Eden."
-            },
-            {
-              "rowId": 146,
-              "keyParts": [
-                "s1",
-                "heading"
-              ],
-              "value": "The Beginning of Civilization"
             },
             {
               "rowId": 147,
@@ -1744,6 +1762,7 @@
             {
               "rowId": 155,
               "keyParts": [
+                "v017_NET_GEN_004",
                 155,
                 "p6",
                 "verse",
@@ -1800,6 +1819,7 @@
             {
               "rowId": 160,
               "keyParts": [
+                "v018_NET_GEN_004",
                 160,
                 "p6",
                 "verse",
@@ -1833,6 +1853,7 @@
             {
               "rowId": 163,
               "keyParts": [
+                "v019_NET_GEN_004",
                 163,
                 "p7",
                 "verse",
@@ -1912,6 +1933,7 @@
             {
               "rowId": 170,
               "keyParts": [
+                "v020_NET_GEN_004",
                 170,
                 "p7",
                 "verse",
@@ -1945,6 +1967,7 @@
             {
               "rowId": 173,
               "keyParts": [
+                "v021_NET_GEN_004",
                 173,
                 "p7",
                 "verse",
@@ -2001,6 +2024,7 @@
             {
               "rowId": 178,
               "keyParts": [
+                "v022_NET_GEN_004",
                 178,
                 "p7",
                 "verse",
@@ -2101,6 +2125,7 @@
             {
               "rowId": 187,
               "keyParts": [
+                "v023_NET_GEN_004",
                 187,
                 "p8",
                 "verse",
@@ -2157,6 +2182,7 @@
             {
               "rowId": 192,
               "keyParts": [
+                "v024_NET_GEN_004",
                 192,
                 "p13",
                 "verse",
@@ -2259,6 +2285,7 @@
             {
               "rowId": 201,
               "keyParts": [
+                "v025_NET_GEN_004",
                 201,
                 "p15",
                 "verse",
@@ -2360,6 +2387,7 @@
             {
               "rowId": 210,
               "keyParts": [
+                "v026_NET_GEN_004",
                 210,
                 "p15",
                 "verse",

@@ -1,0 +1,4336 @@
+{
+  "translationId": "NET",
+  "name": "New English Translation",
+  "abbreviation": "NET",
+  "language": "English",
+  "copyright": "1996 - 2007 by Biblical Studies Press, LLC",
+  "books": [
+    {
+      "bookId": "GEN",
+      "testament": "",
+      "order": 0,
+      "title": "Genesis",
+      "abbreviation": "GEN",
+      "chapters": [
+        {
+          "chapter": 31,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "31"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Jacob’s Flight from Laban"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "Jacob heard that Laban’s sons were complaining,"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and he heard the words of the sons of Laban, saying.”"
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "“Jacob has taken everything that belonged to our father! He has gotten rich"
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                7,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "f"
+              ],
+              "value": "sn The Hebrew word translated “gotten rich” (כָּבוֹד, cavod) has the basic idea of “weight.” If one is heavy with possessions, then that one is wealthy (13:2). Abraham, Jacob, and Joseph all became wealthy when they left the promised land. Jacob’s wealth foreshadows what will happen to Israel when they leave the land of Egypt (Exod 12:35-38)."
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "at our father’s expense!”"
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                9,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and from that which belonged to our father he has gained all this wealth.”"
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                "v001_NET_GEN_031",
+                10,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 Jacob heard that Laban’s sons were complaining, “Jacob has taken everything that belonged to our father! He has gotten rich at our father’s expense!”"
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                11,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                12,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "When Jacob saw the look on Laban’s face, he could tell his attitude toward him had changed."
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                13,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and Jacob saw the face of Laban, and look, he was not with him as formerly.” Jacob knew from the expression on Laban’s face that his attitude toward him had changed – Jacob had become persona non grata."
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                "v002_NET_GEN_031",
+                14,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 When Jacob saw the look on Laban’s face, he could tell his attitude toward him had changed."
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                15,
+                "p2",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                16,
+                "p2",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "The"
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                17,
+                "p2",
+                "verse",
+                "v3",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "p2",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "said to Jacob, “Return to the land of your fathers"
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p2",
+                "verse",
+                "v3",
+                "note",
+                "f"
+              ],
+              "value": "tn Or perhaps “ancestors” (so NRSV), although the only “ancestors” Jacob had there were his grandfather Abraham and his father Isaac."
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                20,
+                "p2",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "and to your relatives. I will be with you.”"
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p2",
+                "verse",
+                "v3",
+                "note",
+                "f"
+              ],
+              "value": "sn I will be with you. Though Laban was no longer “with him,” the Lord promised to be."
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                "v003_NET_GEN_031",
+                22,
+                "p2",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 The Lord said to Jacob, “Return to the land of your fathers and to your relatives. I will be with you.”"
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "p2",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                24,
+                "p2",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "So Jacob sent a message for Rachel and Leah"
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "p2",
+                "verse",
+                "v4",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “sent and called for Rachel and for Leah.” Jacob did not go in person, but probably sent a servant with a message for his wives to meet him in the field."
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                26,
+                "p2",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "to come to the field"
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                27,
+                "p2",
+                "verse",
+                "v4",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “the field.” The word is an adverbial accusative, indicating that this is where Jacob wanted them to meet him. The words “to come to” are supplied in the translation for clarification and stylistic reasons."
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                28,
+                "p2",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "where his flocks were."
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                29,
+                "p2",
+                "verse",
+                "v4",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “to his flock.”"
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                "v004_NET_GEN_031",
+                30,
+                "p2",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 So Jacob sent a message for Rachel and Leah to come to the field where his flocks were."
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                31,
+                "p2",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "p2",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "There he said to them, “I can tell that your father’s attitude toward me has changed,"
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                33,
+                "p2",
+                "verse",
+                "v5",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “I see the face of your father, that he is not toward me as formerly.”"
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                34,
+                "p2",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "but the God of my father has been with me."
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                "v005_NET_GEN_031",
+                35,
+                "p2",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 There he said to them, “I can tell that your father’s attitude toward me has changed, but the God of my father has been with me."
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "p2",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                37,
+                "p2",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "You know that I’ve worked for your father as hard as I could,"
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                38,
+                "p2",
+                "verse",
+                "v6",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “with all my strength.”"
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                "v006_NET_GEN_031",
+                39,
+                "p2",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 You know that I’ve worked for your father as hard as I could,"
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                40,
+                "p2",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "but your father has humiliated"
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "p2",
+                "verse",
+                "v7",
+                "note",
+                "f"
+              ],
+              "value": "tn This rare verb means “to make a fool of” someone. It involves deceiving someone so that their public reputation suffers (see Exod 8:25)."
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                43,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "me and changed my wages ten times. But God has not permitted him to do me any harm."
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                "v007_NET_GEN_031",
+                44,
+                "p2",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 but your father has humiliated me and changed my wages ten times. But God has not permitted him to do me any harm."
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                45,
+                "p2",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                46,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "If he said,"
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                47,
+                "p2",
+                "verse",
+                "v8",
+                "note",
+                "f"
+              ],
+              "value": "tn In the protasis (“if” section) of this conditional clause, the imperfect verbal form has a customary nuance – whatever he would say worked to Jacob’s benefit."
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                48,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "‘The speckled animals"
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                49,
+                "p2",
+                "verse",
+                "v8",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “speckled” (twice this verse). The word “animals” (after the first occurrence of “speckled”) and “offspring” (after the second) have been supplied in the translation for stylistic reasons. The same two terms (“animals” and “offspring”) have been supplied after the two occurrences of “streaked” later in this verse."
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "will be your wage,’ then the entire flock gave birth to speckled offspring. But if he said, ‘The streaked animals will be your wage,’ then the entire flock gave birth to streaked offspring."
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                "v008_NET_GEN_031",
+                51,
+                "p2",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 If he said, ‘The speckled animals will be your wage,’ then the entire flock gave birth to speckled offspring. But if he said, ‘The streaked animals will be your wage,’ then the entire flock gave birth to streaked offspring."
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                52,
+                "p2",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                53,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "In this way God has snatched away your father’s livestock and given them to me."
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                "v009_NET_GEN_031",
+                54,
+                "p2",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 In this way God has snatched away your father’s livestock and given them to me."
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                55,
+                "p3",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                56,
+                "p3",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "“Once"
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                57,
+                "p3",
+                "verse",
+                "v10",
+                "note",
+                "f"
+              ],
+              "value": "tn The sentence begins with the temporal indicator, “and it happened at the time of.”"
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                58,
+                "p3",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "during breeding season I saw"
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                59,
+                "p3",
+                "verse",
+                "v10",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “in the time of the breeding of the flock I lifted up my eyes and I saw.”"
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                60,
+                "p3",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "in a dream that the male goats mating with"
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                61,
+                "p3",
+                "verse",
+                "v10",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “going up on,” that is, mounting for intercourse."
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                62,
+                "p3",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "the flock were streaked, speckled, and spotted."
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                "v010_NET_GEN_031",
+                63,
+                "p3",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 “Once during breeding season I saw in a dream that the male goats mating with the flock were streaked, speckled, and spotted."
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                64,
+                "p3",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                65,
+                "p3",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "In the dream the angel of God said to me, ‘Jacob!’ ‘Here I am!’ I replied."
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                "v011_NET_GEN_031",
+                66,
+                "p3",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 In the dream the angel of God said to me, ‘Jacob!’ ‘Here I am!’ I replied."
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                67,
+                "p3",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                68,
+                "p3",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "Then he said, ‘Observe"
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                69,
+                "p3",
+                "verse",
+                "v12",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “lift up (now) your eyes and see.”"
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                70,
+                "p3",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "that all the male goats mating with"
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                71,
+                "p3",
+                "verse",
+                "v12",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “going up on,” that is, mounting for intercourse."
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                72,
+                "p3",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "the flock are streaked, speckled, or spotted, for I have observed all that Laban has done to you."
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                "v012_NET_GEN_031",
+                73,
+                "p3",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 Then he said, ‘Observe that all the male goats mating with the flock are streaked, speckled, or spotted, for I have observed all that Laban has done to you."
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                74,
+                "p3",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                75,
+                "p3",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "I am the God of Bethel,"
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                76,
+                "p3",
+                "verse",
+                "v13",
+                "note",
+                "f"
+              ],
+              "value": "map For location see Map4-G4; Map5-C1; Map6-E3; Map7-D1; Map8-G3."
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                77,
+                "p3",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "where you anointed"
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                78,
+                "p3",
+                "verse",
+                "v13",
+                "note",
+                "f"
+              ],
+              "value": "sn You anointed the sacred stone. In Gen 28:18 the text simply reported that Jacob poured oil on top of the stone. Now that pouring is interpreted by the Lord as an anointing. Jacob had consecrated the place."
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                79,
+                "p3",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "the sacred stone and made a vow to me."
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                80,
+                "p3",
+                "verse",
+                "v13",
+                "note",
+                "f"
+              ],
+              "value": "sn And made a vow to me. The second clause reminds Jacob of the vow he made to the Lord when he anointed the stone (Gen 28:20-22). God is now going to take him back to the land, and so he will have to fulfill his vow."
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                81,
+                "p3",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "Now leave this land immediately"
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                82,
+                "p3",
+                "verse",
+                "v13",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “arise, leave!” The first imperative draws attention to the need for immediate action.\nsn Leave this land immediately. The decision to leave was a wise one in view of the changed attitude in Laban and his sons. But more than that, it was the will of God. Jacob needed to respond to God’s call – the circumstances simply made it easier."
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                83,
+                "p3",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "and return to your native land.’”"
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                "v013_NET_GEN_031",
+                84,
+                "p3",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 I am the God of Bethel, where you anointed the sacred stone and made a vow to me. Now leave this land immediately and return to your native land.’”"
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                85,
+                "p4",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                86,
+                "p4",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "Then Rachel and Leah replied to him, “Do we still have any portion or inheritance"
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                87,
+                "p4",
+                "verse",
+                "v14",
+                "note",
+                "f"
+              ],
+              "value": "tn The two nouns may form a hendiadys, meaning “a share in the inheritance” or “a portion to inherit.”"
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                88,
+                "p4",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "in our father’s house?"
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                "v014_NET_GEN_031",
+                89,
+                "p4",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 Then Rachel and Leah replied to him, “Do we still have any portion or inheritance in our father’s house?"
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                90,
+                "p4",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                91,
+                "p4",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "Hasn’t he treated us like foreigners? He not only sold us, but completely wasted"
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                92,
+                "p4",
+                "verse",
+                "v15",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and he devoured, even devouring.” The infinitive absolute (following the finite verb here) is used for emphasis.\nsn He sold us and…wasted our money. The precise nature of Rachel’s and Leah’s complaint is not entirely clear. Since Jacob had to work to pay for them, they probably mean that their father has cheated Jacob and therefore cheated them as well. See M. Burrows, “The Complaint of Laban’s Daughters,” JAOS 57 (1937): 250-76."
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                93,
+                "p4",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "the money paid for us!"
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                94,
+                "p4",
+                "verse",
+                "v15",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “our money.” The word “money” is used figuratively here; it means the price paid for Leah and Rachel. A literal translation (“our money”) makes it sound as if Laban wasted money that belonged to Rachel and Leah, rather than the money paid for them."
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                "v015_NET_GEN_031",
+                95,
+                "p4",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 Hasn’t he treated us like foreigners? He not only sold us, but completely wasted the money paid for us!"
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                96,
+                "p4",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                97,
+                "p4",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "Surely all the wealth that God snatched away from our father belongs to us and to our children. So now do everything God has told you.”"
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                "v016_NET_GEN_031",
+                98,
+                "p4",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 Surely all the wealth that God snatched away from our father belongs to us and to our children. So now do everything God has told you.”"
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                99,
+                "p5",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                100,
+                "p5",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "So Jacob immediately put his children and his wives on the camels."
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                101,
+                "p5",
+                "verse",
+                "v17",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and Jacob arose and he lifted up his sons and his wives on to the camels.”"
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                "v017_NET_GEN_031",
+                102,
+                "p5",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 So Jacob immediately put his children and his wives on the camels."
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                103,
+                "p5",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                104,
+                "p5",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "He took"
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                105,
+                "p5",
+                "verse",
+                "v18",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “drove,” but this is subject to misunderstanding in contemporary English."
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                106,
+                "p5",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "away all the livestock he had acquired in Paddan Aram and all his moveable property that he had accumulated. Then he set out toward the land of Canaan to return to his father Isaac."
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                107,
+                "p5",
+                "verse",
+                "v18",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and he led away all his cattle and all his moveable property which he acquired, the cattle he obtained, which he acquired in Paddan Aram to go to Isaac his father to the land of Canaan.”"
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                "v018_NET_GEN_031",
+                108,
+                "p5",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 He took away all the livestock he had acquired in Paddan Aram and all his moveable property that he had accumulated. Then he set out toward the land of Canaan to return to his father Isaac."
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                109,
+                "p6",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                110,
+                "p6",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "While Laban had gone to shear his sheep,"
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                111,
+                "p6",
+                "verse",
+                "v19",
+                "note",
+                "f"
+              ],
+              "value": "tn This disjunctive clause (note the pattern conjunction + subject + verb) introduces a new scene. In the English translation it may be subordinated to the following clause."
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                112,
+                "p6",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "Rachel stole the household idols"
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                113,
+                "p6",
+                "verse",
+                "v19",
+                "note",
+                "f"
+              ],
+              "value": "tn Or “household gods.” Some translations merely transliterate the Hebrew term תְּרָפִים (tÿrafim) as “teraphim,” which apparently refers to household idols. Some contend that possession of these idols guaranteed the right of inheritance, but it is more likely that they were viewed simply as protective deities. See M. Greenberg, “Another Look at Rachel’s Theft of the Teraphim,” JBL 81 (1962): 239-48."
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                114,
+                "p6",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "that belonged to her father."
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                "v019_NET_GEN_031",
+                115,
+                "p6",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 While Laban had gone to shear his sheep, Rachel stole the household idols that belonged to her father."
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                116,
+                "p6",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                117,
+                "p6",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "Jacob also deceived"
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                118,
+                "p6",
+                "verse",
+                "v20",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “stole the heart of,” an expression which apparently means “to deceive.” The repetition of the verb “to steal” shows that Jacob and Rachel are kindred spirits. Any thought that Laban would have resigned himself to their departure was now out of the question."
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                119,
+                "p6",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "Laban the Aramean by not telling him that he was leaving."
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                120,
+                "p6",
+                "verse",
+                "v20",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “fleeing,” which reflects Jacob’s viewpoint."
+            },
+            {
+              "rowId": 121,
+              "keyParts": [
+                "v020_NET_GEN_031",
+                121,
+                "p6",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 Jacob also deceived Laban the Aramean by not telling him that he was leaving."
+            },
+            {
+              "rowId": 122,
+              "keyParts": [
+                122,
+                "p6",
+                "verse",
+                "v21",
+                "label"
+              ],
+              "value": "21"
+            },
+            {
+              "rowId": 123,
+              "keyParts": [
+                123,
+                "p6",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "He left"
+            },
+            {
+              "rowId": 124,
+              "keyParts": [
+                124,
+                "p6",
+                "verse",
+                "v21",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and he fled.”"
+            },
+            {
+              "rowId": 125,
+              "keyParts": [
+                125,
+                "p6",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "with all he owned. He quickly crossed"
+            },
+            {
+              "rowId": 126,
+              "keyParts": [
+                126,
+                "p6",
+                "verse",
+                "v21",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “he arose and crossed.” The first verb emphasizes that he wasted no time in getting across."
+            },
+            {
+              "rowId": 127,
+              "keyParts": [
+                127,
+                "p6",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "the Euphrates River"
+            },
+            {
+              "rowId": 128,
+              "keyParts": [
+                128,
+                "p6",
+                "verse",
+                "v21",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “the river”; the referent (the Euphrates) has been specified in the translation for clarity."
+            },
+            {
+              "rowId": 129,
+              "keyParts": [
+                129,
+                "p6",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "and headed for"
+            },
+            {
+              "rowId": 130,
+              "keyParts": [
+                130,
+                "p6",
+                "verse",
+                "v21",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “he set his face.”"
+            },
+            {
+              "rowId": 131,
+              "keyParts": [
+                131,
+                "p6",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "the hill country of Gilead."
+            },
+            {
+              "rowId": 132,
+              "keyParts": [
+                "v021_NET_GEN_031",
+                132,
+                "p6",
+                "verse",
+                "v21",
+                "plain_text"
+              ],
+              "value": "21 He left with all he owned. He quickly crossed the Euphrates River and headed for the hill country of Gilead."
+            },
+            {
+              "rowId": 133,
+              "keyParts": [
+                133,
+                "p7",
+                "verse",
+                "v22",
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 134,
+              "keyParts": [
+                134,
+                "p7",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "Three days later Laban discovered Jacob had left."
+            },
+            {
+              "rowId": 135,
+              "keyParts": [
+                135,
+                "p7",
+                "verse",
+                "v22",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and it was told to Laban on the third day that Jacob had fled.”"
+            },
+            {
+              "rowId": 136,
+              "keyParts": [
+                "v022_NET_GEN_031",
+                136,
+                "p7",
+                "verse",
+                "v22",
+                "plain_text"
+              ],
+              "value": "22 Three days later Laban discovered Jacob had left."
+            },
+            {
+              "rowId": 137,
+              "keyParts": [
+                137,
+                "p7",
+                "verse",
+                "v23",
+                "label"
+              ],
+              "value": "23"
+            },
+            {
+              "rowId": 138,
+              "keyParts": [
+                138,
+                "p7",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "So he took his relatives"
+            },
+            {
+              "rowId": 139,
+              "keyParts": [
+                139,
+                "p7",
+                "verse",
+                "v23",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “his brothers.”"
+            },
+            {
+              "rowId": 140,
+              "keyParts": [
+                140,
+                "p7",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "with him and pursued Jacob"
+            },
+            {
+              "rowId": 141,
+              "keyParts": [
+                141,
+                "p7",
+                "verse",
+                "v23",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “him”; the referent (Jacob) has been specified in the translation for clarity."
+            },
+            {
+              "rowId": 142,
+              "keyParts": [
+                142,
+                "p7",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "for seven days."
+            },
+            {
+              "rowId": 143,
+              "keyParts": [
+                143,
+                "p7",
+                "verse",
+                "v23",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and he pursued after him a journey of seven days.”"
+            },
+            {
+              "rowId": 144,
+              "keyParts": [
+                144,
+                "p7",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "He caught up with"
+            },
+            {
+              "rowId": 145,
+              "keyParts": [
+                145,
+                "p7",
+                "verse",
+                "v23",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “drew close to.”"
+            },
+            {
+              "rowId": 146,
+              "keyParts": [
+                146,
+                "p7",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "him in the hill country of Gilead."
+            },
+            {
+              "rowId": 147,
+              "keyParts": [
+                "v023_NET_GEN_031",
+                147,
+                "p7",
+                "verse",
+                "v23",
+                "plain_text"
+              ],
+              "value": "23 So he took his relatives with him and pursued Jacob for seven days. He caught up with him in the hill country of Gilead."
+            },
+            {
+              "rowId": 148,
+              "keyParts": [
+                148,
+                "p7",
+                "verse",
+                "v24",
+                "label"
+              ],
+              "value": "24"
+            },
+            {
+              "rowId": 149,
+              "keyParts": [
+                149,
+                "p7",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "But God came to Laban the Aramean in a dream at night and warned him,"
+            },
+            {
+              "rowId": 150,
+              "keyParts": [
+                150,
+                "p7",
+                "verse",
+                "v24",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “said to him.”"
+            },
+            {
+              "rowId": 151,
+              "keyParts": [
+                151,
+                "p7",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "“Be careful"
+            },
+            {
+              "rowId": 152,
+              "keyParts": [
+                152,
+                "p7",
+                "verse",
+                "v24",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “watch yourself,” which is a warning to be on guard against doing something that is inappropriate."
+            },
+            {
+              "rowId": 153,
+              "keyParts": [
+                153,
+                "p7",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "that you neither bless nor curse Jacob.”"
+            },
+            {
+              "rowId": 154,
+              "keyParts": [
+                154,
+                "p7",
+                "verse",
+                "v24",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “lest you speak with Jacob from good to evil.” The precise meaning of the expression, which occurs only here and in v. 29, is uncertain. Since Laban proceeded to speak to Jacob at length, it cannot mean to maintain silence. Nor does it seem to be a prohibition against criticism (see vv. 26-30). Most likely it refers to a formal pronouncement, whether it be a blessing or a curse. Laban was to avoid saying anything to Jacob that would be intended to enhance him or to harm him."
+            },
+            {
+              "rowId": 155,
+              "keyParts": [
+                "v024_NET_GEN_031",
+                155,
+                "p7",
+                "verse",
+                "v24",
+                "plain_text"
+              ],
+              "value": "24 But God came to Laban the Aramean in a dream at night and warned him, “Be careful that you neither bless nor curse Jacob.”"
+            },
+            {
+              "rowId": 156,
+              "keyParts": [
+                156,
+                "p8",
+                "verse",
+                "v25",
+                "label"
+              ],
+              "value": "25"
+            },
+            {
+              "rowId": 157,
+              "keyParts": [
+                157,
+                "p8",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "Laban overtook Jacob, and when Jacob pitched his tent in the hill country of Gilead, Laban and his relatives set up camp there too."
+            },
+            {
+              "rowId": 158,
+              "keyParts": [
+                158,
+                "p8",
+                "verse",
+                "v25",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and Jacob pitched his tent in the hill country, and Laban pitched with his brothers in the hill country of Gilead.” The juxtaposition of disjunctive clauses (note the pattern conjunction + subject + verb in both clauses) indicates synchronism of action."
+            },
+            {
+              "rowId": 159,
+              "keyParts": [
+                "v025_NET_GEN_031",
+                159,
+                "p8",
+                "verse",
+                "v25",
+                "plain_text"
+              ],
+              "value": "25 Laban overtook Jacob, and when Jacob pitched his tent in the hill country of Gilead, Laban and his relatives set up camp there too."
+            },
+            {
+              "rowId": 160,
+              "keyParts": [
+                160,
+                "p8",
+                "verse",
+                "v26",
+                "label"
+              ],
+              "value": "26"
+            },
+            {
+              "rowId": 161,
+              "keyParts": [
+                161,
+                "p8",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "“What have you done?” Laban demanded of Jacob. “You’ve deceived me"
+            },
+            {
+              "rowId": 162,
+              "keyParts": [
+                162,
+                "p8",
+                "verse",
+                "v26",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and you have stolen my heart.” This expression apparently means “to deceive” (see v. 20)."
+            },
+            {
+              "rowId": 163,
+              "keyParts": [
+                163,
+                "p8",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "and carried away my daughters as if they were captives of war!"
+            },
+            {
+              "rowId": 164,
+              "keyParts": [
+                164,
+                "p8",
+                "verse",
+                "v26",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and you have led away my daughters like captives of a sword.”"
+            },
+            {
+              "rowId": 165,
+              "keyParts": [
+                "v026_NET_GEN_031",
+                165,
+                "p8",
+                "verse",
+                "v26",
+                "plain_text"
+              ],
+              "value": "26 “What have you done?” Laban demanded of Jacob. “You’ve deceived me and carried away my daughters as if they were captives of war!"
+            },
+            {
+              "rowId": 166,
+              "keyParts": [
+                166,
+                "p8",
+                "verse",
+                "v27",
+                "label"
+              ],
+              "value": "27"
+            },
+            {
+              "rowId": 167,
+              "keyParts": [
+                167,
+                "p8",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "Why did you run away secretly"
+            },
+            {
+              "rowId": 168,
+              "keyParts": [
+                168,
+                "p8",
+                "verse",
+                "v27",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “Why did you hide in order to flee?” The verb “hide” and the infinitive “to flee” form a hendiadys, the infinitive becoming the main verb and the other the adverb: “flee secretly.”"
+            },
+            {
+              "rowId": 169,
+              "keyParts": [
+                169,
+                "p8",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "and deceive me?"
+            },
+            {
+              "rowId": 170,
+              "keyParts": [
+                170,
+                "p8",
+                "verse",
+                "v27",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and steal me.”"
+            },
+            {
+              "rowId": 171,
+              "keyParts": [
+                171,
+                "p8",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "Why didn’t you tell me so I could send you off with a celebration complete with singing, tambourines, and harps?"
+            },
+            {
+              "rowId": 172,
+              "keyParts": [
+                172,
+                "p8",
+                "verse",
+                "v27",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “And [why did] you not tell me so I could send you off with joy and with songs, with a tambourine and with a harp?”"
+            },
+            {
+              "rowId": 173,
+              "keyParts": [
+                "v027_NET_GEN_031",
+                173,
+                "p8",
+                "verse",
+                "v27",
+                "plain_text"
+              ],
+              "value": "27 Why did you run away secretly and deceive me? Why didn’t you tell me so I could send you off with a celebration complete with singing, tambourines, and harps?"
+            },
+            {
+              "rowId": 174,
+              "keyParts": [
+                174,
+                "p8",
+                "verse",
+                "v28",
+                "label"
+              ],
+              "value": "28"
+            },
+            {
+              "rowId": 175,
+              "keyParts": [
+                175,
+                "p8",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "You didn’t even allow me to kiss my daughters and my grandchildren"
+            },
+            {
+              "rowId": 176,
+              "keyParts": [
+                176,
+                "p8",
+                "verse",
+                "v28",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “my sons and my daughters.” Here “sons” refers to “grandsons,” and has been translated “grandchildren” since at least one granddaughter, Dinah, was involved. The order has been reversed in the translation for stylistic reasons."
+            },
+            {
+              "rowId": 177,
+              "keyParts": [
+                177,
+                "p8",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "good-bye. You have acted foolishly!"
+            },
+            {
+              "rowId": 178,
+              "keyParts": [
+                "v028_NET_GEN_031",
+                178,
+                "p8",
+                "verse",
+                "v28",
+                "plain_text"
+              ],
+              "value": "28 You didn’t even allow me to kiss my daughters and my grandchildren good-bye. You have acted foolishly!"
+            },
+            {
+              "rowId": 179,
+              "keyParts": [
+                179,
+                "p8",
+                "verse",
+                "v29",
+                "label"
+              ],
+              "value": "29"
+            },
+            {
+              "rowId": 180,
+              "keyParts": [
+                180,
+                "p8",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "I have"
+            },
+            {
+              "rowId": 181,
+              "keyParts": [
+                181,
+                "p8",
+                "verse",
+                "v29",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “there is to my hand.”"
+            },
+            {
+              "rowId": 182,
+              "keyParts": [
+                182,
+                "p8",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "the power to do you harm, but the God of your father told me last night, ‘Be careful"
+            },
+            {
+              "rowId": 183,
+              "keyParts": [
+                183,
+                "p8",
+                "verse",
+                "v29",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “watch yourself,” which is a warning to be on guard against doing something that is inappropriate."
+            },
+            {
+              "rowId": 184,
+              "keyParts": [
+                184,
+                "p8",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "that you neither bless nor curse Jacob.’"
+            },
+            {
+              "rowId": 185,
+              "keyParts": [
+                185,
+                "p8",
+                "verse",
+                "v29",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “from speaking with Jacob from good to evil.” The precise meaning of the expression, which occurs only here and in v. 24, is uncertain. See the note on the same phrase in v. 24."
+            },
+            {
+              "rowId": 186,
+              "keyParts": [
+                "v029_NET_GEN_031",
+                186,
+                "p8",
+                "verse",
+                "v29",
+                "plain_text"
+              ],
+              "value": "29 I have the power to do you harm, but the God of your father told me last night, ‘Be careful that you neither bless nor curse Jacob.’"
+            },
+            {
+              "rowId": 187,
+              "keyParts": [
+                187,
+                "p8",
+                "verse",
+                "v30",
+                "label"
+              ],
+              "value": "30"
+            },
+            {
+              "rowId": 188,
+              "keyParts": [
+                188,
+                "p8",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "Now I understand that"
+            },
+            {
+              "rowId": 189,
+              "keyParts": [
+                189,
+                "p8",
+                "verse",
+                "v30",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and now.” The words “I understand that” have been supplied in the translation for clarity and for stylistic reasons."
+            },
+            {
+              "rowId": 190,
+              "keyParts": [
+                190,
+                "p8",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "you have gone away"
+            },
+            {
+              "rowId": 191,
+              "keyParts": [
+                191,
+                "p8",
+                "verse",
+                "v30",
+                "note",
+                "f"
+              ],
+              "value": "tn The infinitive absolute appears before the perfect verbal form to emphasize the certainty of the action."
+            },
+            {
+              "rowId": 192,
+              "keyParts": [
+                192,
+                "p8",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "because you longed desperately"
+            },
+            {
+              "rowId": 193,
+              "keyParts": [
+                193,
+                "p8",
+                "verse",
+                "v30",
+                "note",
+                "f"
+              ],
+              "value": "tn The infinitive absolute appears before the perfect verbal form to emphasize the degree of emotion involved."
+            },
+            {
+              "rowId": 194,
+              "keyParts": [
+                194,
+                "p8",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "for your father’s house. Yet why did you steal my gods?”"
+            },
+            {
+              "rowId": 195,
+              "keyParts": [
+                195,
+                "p8",
+                "verse",
+                "v30",
+                "note",
+                "f"
+              ],
+              "value": "sn Yet why did you steal my gods? This last sentence is dropped into the speech rather suddenly. See C. Mabee, “Jacob and Laban: The Structure of Judicial Proceedings,” VT 30 (1980): 192-207, and G. W. Coats, “Self-Abasement and Insult Formulas,” JBL 91 (1972): 90-92."
+            },
+            {
+              "rowId": 196,
+              "keyParts": [
+                "v030_NET_GEN_031",
+                196,
+                "p8",
+                "verse",
+                "v30",
+                "plain_text"
+              ],
+              "value": "30 Now I understand that you have gone away because you longed desperately for your father’s house. Yet why did you steal my gods?”"
+            },
+            {
+              "rowId": 197,
+              "keyParts": [
+                197,
+                "p9",
+                "verse",
+                "v31",
+                "label"
+              ],
+              "value": "31"
+            },
+            {
+              "rowId": 198,
+              "keyParts": [
+                198,
+                "p9",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "“I left secretly because I was afraid!”"
+            },
+            {
+              "rowId": 199,
+              "keyParts": [
+                199,
+                "p9",
+                "verse",
+                "v31",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and Jacob answered and said to Laban, ‘Because I was afraid.’” This statement is a not a response to the question about Laban’s household gods that immediately precedes, but to the earlier question about Jacob’s motivation for leaving so quickly and secretly (see v. 27). For this reason the words “I left secretly” are supplied in the translation to indicate the connection to Laban’s earlier question in v. 27. Additionally the order of the introductory clause and the direct discourse have been rearranged in the translation for stylistic reasons."
+            },
+            {
+              "rowId": 200,
+              "keyParts": [
+                200,
+                "p9",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "Jacob replied to Laban. “I thought"
+            },
+            {
+              "rowId": 201,
+              "keyParts": [
+                201,
+                "p9",
+                "verse",
+                "v31",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “for I said.”"
+            },
+            {
+              "rowId": 202,
+              "keyParts": [
+                202,
+                "p9",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "you might take your daughters away from me by force."
+            },
+            {
+              "rowId": 203,
+              "keyParts": [
+                203,
+                "p9",
+                "verse",
+                "v31",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “lest you steal your daughters from with me.”"
+            },
+            {
+              "rowId": 204,
+              "keyParts": [
+                "v031_NET_GEN_031",
+                204,
+                "p9",
+                "verse",
+                "v31",
+                "plain_text"
+              ],
+              "value": "31 “I left secretly because I was afraid!” Jacob replied to Laban. “I thought you might take your daughters away from me by force."
+            },
+            {
+              "rowId": 205,
+              "keyParts": [
+                205,
+                "p9",
+                "verse",
+                "v32",
+                "label"
+              ],
+              "value": "32"
+            },
+            {
+              "rowId": 206,
+              "keyParts": [
+                206,
+                "p9",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "Whoever has taken your gods will be put to death!"
+            },
+            {
+              "rowId": 207,
+              "keyParts": [
+                207,
+                "p9",
+                "verse",
+                "v32",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “With whomever you find your gods, he will not live.”"
+            },
+            {
+              "rowId": 208,
+              "keyParts": [
+                208,
+                "p9",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "In the presence of our relatives"
+            },
+            {
+              "rowId": 209,
+              "keyParts": [
+                209,
+                "p9",
+                "verse",
+                "v32",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “brothers.”"
+            },
+            {
+              "rowId": 210,
+              "keyParts": [
+                210,
+                "p9",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "identify whatever is yours and take it.”"
+            },
+            {
+              "rowId": 211,
+              "keyParts": [
+                211,
+                "p9",
+                "verse",
+                "v32",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “recognize for yourself what is with me and take for yourself.”"
+            },
+            {
+              "rowId": 212,
+              "keyParts": [
+                212,
+                "p9",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "(Now Jacob did not know that Rachel had stolen them.)"
+            },
+            {
+              "rowId": 213,
+              "keyParts": [
+                213,
+                "p9",
+                "verse",
+                "v32",
+                "note",
+                "f"
+              ],
+              "value": "tn The disjunctive clause (introduced here by a vav [ו] conjunction) provides supplemental material that is important to the story. Since this material is parenthetical in nature, it has been placed in parentheses in the translation."
+            },
+            {
+              "rowId": 214,
+              "keyParts": [
+                "v032_NET_GEN_031",
+                214,
+                "p9",
+                "verse",
+                "v32",
+                "plain_text"
+              ],
+              "value": "32 Whoever has taken your gods will be put to death! In the presence of our relatives identify whatever is yours and take it.” (Now Jacob did not know that Rachel had stolen them.)"
+            },
+            {
+              "rowId": 215,
+              "keyParts": [
+                215,
+                "p10",
+                "verse",
+                "v33",
+                "label"
+              ],
+              "value": "33"
+            },
+            {
+              "rowId": 216,
+              "keyParts": [
+                216,
+                "p10",
+                "verse",
+                "v33",
+                "content"
+              ],
+              "value": "So Laban entered Jacob’s tent, and Leah’s tent, and the tent of the two female servants, but he did not find the idols."
+            },
+            {
+              "rowId": 217,
+              "keyParts": [
+                217,
+                "p10",
+                "verse",
+                "v33",
+                "note",
+                "f"
+              ],
+              "value": "tn No direct object is specified for the verb “find” in the Hebrew text. The words “the idols” have been supplied in the translation for clarification."
+            },
+            {
+              "rowId": 218,
+              "keyParts": [
+                218,
+                "p10",
+                "verse",
+                "v33",
+                "content"
+              ],
+              "value": "Then he left Leah’s tent and entered Rachel’s."
+            },
+            {
+              "rowId": 219,
+              "keyParts": [
+                219,
+                "p10",
+                "verse",
+                "v33",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and he went out from the tent of Leah and went into the tent of Rachel.”"
+            },
+            {
+              "rowId": 220,
+              "keyParts": [
+                "v033_NET_GEN_031",
+                220,
+                "p10",
+                "verse",
+                "v33",
+                "plain_text"
+              ],
+              "value": "33 So Laban entered Jacob’s tent, and Leah’s tent, and the tent of the two female servants, but he did not find the idols. Then he left Leah’s tent and entered Rachel’s."
+            },
+            {
+              "rowId": 221,
+              "keyParts": [
+                221,
+                "p10",
+                "verse",
+                "v34",
+                "label"
+              ],
+              "value": "34"
+            },
+            {
+              "rowId": 222,
+              "keyParts": [
+                222,
+                "p10",
+                "verse",
+                "v34",
+                "content"
+              ],
+              "value": "(Now Rachel had taken the idols and put them inside her camel’s saddle"
+            },
+            {
+              "rowId": 223,
+              "keyParts": [
+                223,
+                "p10",
+                "verse",
+                "v34",
+                "note",
+                "f"
+              ],
+              "value": "tn The “camel’s saddle” was probably some sort of basket-saddle, a cushioned saddle with a basket bound on. Cf. NAB “inside a camel cushion.”"
+            },
+            {
+              "rowId": 224,
+              "keyParts": [
+                224,
+                "p10",
+                "verse",
+                "v34",
+                "content"
+              ],
+              "value": "and sat on them.)"
+            },
+            {
+              "rowId": 225,
+              "keyParts": [
+                225,
+                "p10",
+                "verse",
+                "v34",
+                "note",
+                "f"
+              ],
+              "value": "tn The disjunctive clause (introduced by a vav [ו] conjunction) provides another parenthetical statement necessary to the storyline."
+            },
+            {
+              "rowId": 226,
+              "keyParts": [
+                226,
+                "p10",
+                "verse",
+                "v34",
+                "content"
+              ],
+              "value": "Laban searched the whole tent, but did not find them."
+            },
+            {
+              "rowId": 227,
+              "keyParts": [
+                227,
+                "p10",
+                "verse",
+                "v34",
+                "note",
+                "f"
+              ],
+              "value": "tn The word “them” has been supplied in the translation for clarification."
+            },
+            {
+              "rowId": 228,
+              "keyParts": [
+                "v034_NET_GEN_031",
+                228,
+                "p10",
+                "verse",
+                "v34",
+                "plain_text"
+              ],
+              "value": "34 (Now Rachel had taken the idols and put them inside her camel’s saddle and sat on them.) Laban searched the whole tent, but did not find them."
+            },
+            {
+              "rowId": 229,
+              "keyParts": [
+                229,
+                "p10",
+                "verse",
+                "v35",
+                "label"
+              ],
+              "value": "35"
+            },
+            {
+              "rowId": 230,
+              "keyParts": [
+                230,
+                "p10",
+                "verse",
+                "v35",
+                "content"
+              ],
+              "value": "Rachel"
+            },
+            {
+              "rowId": 231,
+              "keyParts": [
+                231,
+                "p10",
+                "verse",
+                "v35",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “she”; the referent (Rachel) has been specified in the translation for clarity."
+            },
+            {
+              "rowId": 232,
+              "keyParts": [
+                232,
+                "p10",
+                "verse",
+                "v35",
+                "content"
+              ],
+              "value": "said to her father, “Don’t be angry,"
+            },
+            {
+              "rowId": 233,
+              "keyParts": [
+                233,
+                "p10",
+                "verse",
+                "v35",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “let it not be hot in the eyes of my lord.” This idiom refers to anger, in this case as a result of Rachel’s failure to stand in the presence of her father as a sign of respect."
+            },
+            {
+              "rowId": 234,
+              "keyParts": [
+                234,
+                "p10",
+                "verse",
+                "v35",
+                "content"
+              ],
+              "value": "my lord. I cannot stand up"
+            },
+            {
+              "rowId": 235,
+              "keyParts": [
+                235,
+                "p10",
+                "verse",
+                "v35",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “I am unable to rise.”"
+            },
+            {
+              "rowId": 236,
+              "keyParts": [
+                236,
+                "p10",
+                "verse",
+                "v35",
+                "content"
+              ],
+              "value": "in your presence because I am having my period.”"
+            },
+            {
+              "rowId": 237,
+              "keyParts": [
+                237,
+                "p10",
+                "verse",
+                "v35",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “the way of women is to me.” This idiom refers to a woman’s menstrual period."
+            },
+            {
+              "rowId": 238,
+              "keyParts": [
+                238,
+                "p10",
+                "verse",
+                "v35",
+                "content"
+              ],
+              "value": "So he searched thoroughly,"
+            },
+            {
+              "rowId": 239,
+              "keyParts": [
+                239,
+                "p10",
+                "verse",
+                "v35",
+                "note",
+                "f"
+              ],
+              "value": "tn The word “thoroughly” is not in the Hebrew text, but is implied."
+            },
+            {
+              "rowId": 240,
+              "keyParts": [
+                240,
+                "p10",
+                "verse",
+                "v35",
+                "content"
+              ],
+              "value": "but did not find the idols."
+            },
+            {
+              "rowId": 241,
+              "keyParts": [
+                "v035_NET_GEN_031",
+                241,
+                "p10",
+                "verse",
+                "v35",
+                "plain_text"
+              ],
+              "value": "35 Rachel said to her father, “Don’t be angry, my lord. I cannot stand up in your presence because I am having my period.” So he searched thoroughly, but did not find the idols."
+            },
+            {
+              "rowId": 242,
+              "keyParts": [
+                242,
+                "p11",
+                "verse",
+                "v36",
+                "label"
+              ],
+              "value": "36"
+            },
+            {
+              "rowId": 243,
+              "keyParts": [
+                243,
+                "p11",
+                "verse",
+                "v36",
+                "content"
+              ],
+              "value": "Jacob became angry"
+            },
+            {
+              "rowId": 244,
+              "keyParts": [
+                244,
+                "p11",
+                "verse",
+                "v36",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “it was hot to Jacob.” This idiom refers to anger."
+            },
+            {
+              "rowId": 245,
+              "keyParts": [
+                245,
+                "p11",
+                "verse",
+                "v36",
+                "content"
+              ],
+              "value": "and argued with Laban. “What did I do wrong?” he demanded of Laban."
+            },
+            {
+              "rowId": 246,
+              "keyParts": [
+                246,
+                "p11",
+                "verse",
+                "v36",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and Jacob answered and said to Laban, ‘What is my sin?’” The proper name “Jacob” has been replaced by the pronoun (“he”) in the translation and the order of the introductory clause and direct discourse rearranged for stylistic reasons."
+            },
+            {
+              "rowId": 247,
+              "keyParts": [
+                247,
+                "p11",
+                "verse",
+                "v36",
+                "content"
+              ],
+              "value": "“What sin of mine prompted you to chase after me in hot pursuit?"
+            },
+            {
+              "rowId": 248,
+              "keyParts": [
+                248,
+                "p11",
+                "verse",
+                "v36",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “What is my sin that you have hotly pursued after me.” The Hebrew verb translated “pursue hotly” is used elsewhere of soldiers chasing defeated enemies (1 Sam 17:53)."
+            },
+            {
+              "rowId": 249,
+              "keyParts": [
+                "v036_NET_GEN_031",
+                249,
+                "p11",
+                "verse",
+                "v36",
+                "plain_text"
+              ],
+              "value": "36 Jacob became angry and argued with Laban. “What did I do wrong?” he demanded of Laban. “What sin of mine prompted you to chase after me in hot pursuit?"
+            },
+            {
+              "rowId": 250,
+              "keyParts": [
+                250,
+                "p11",
+                "verse",
+                "v37",
+                "label"
+              ],
+              "value": "37"
+            },
+            {
+              "rowId": 251,
+              "keyParts": [
+                251,
+                "p11",
+                "verse",
+                "v37",
+                "content"
+              ],
+              "value": "When you searched through all my goods, did you find anything that belonged to you?"
+            },
+            {
+              "rowId": 252,
+              "keyParts": [
+                252,
+                "p11",
+                "verse",
+                "v37",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “what did you find from all the goods of your house?”"
+            },
+            {
+              "rowId": 253,
+              "keyParts": [
+                253,
+                "p11",
+                "verse",
+                "v37",
+                "content"
+              ],
+              "value": "Set it here before my relatives and yours,"
+            },
+            {
+              "rowId": 254,
+              "keyParts": [
+                254,
+                "p11",
+                "verse",
+                "v37",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “your relatives.” The word “relatives” has not been repeated in the translation here for stylistic reasons."
+            },
+            {
+              "rowId": 255,
+              "keyParts": [
+                255,
+                "p11",
+                "verse",
+                "v37",
+                "content"
+              ],
+              "value": "and let them settle the dispute between the two of us!"
+            },
+            {
+              "rowId": 256,
+              "keyParts": [
+                256,
+                "p11",
+                "verse",
+                "v37",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “that they may decide between us two.”"
+            },
+            {
+              "rowId": 257,
+              "keyParts": [
+                "v037_NET_GEN_031",
+                257,
+                "p11",
+                "verse",
+                "v37",
+                "plain_text"
+              ],
+              "value": "37 When you searched through all my goods, did you find anything that belonged to you? Set it here before my relatives and yours, and let them settle the dispute between the two of us!"
+            },
+            {
+              "rowId": 258,
+              "keyParts": [
+                258,
+                "p12",
+                "verse",
+                "v38",
+                "label"
+              ],
+              "value": "38"
+            },
+            {
+              "rowId": 259,
+              "keyParts": [
+                259,
+                "p12",
+                "verse",
+                "v38",
+                "content"
+              ],
+              "value": "“I have been with you for the past twenty years. Your ewes and female goats have not miscarried, nor have I eaten rams from your flocks."
+            },
+            {
+              "rowId": 260,
+              "keyParts": [
+                "v038_NET_GEN_031",
+                260,
+                "p12",
+                "verse",
+                "v38",
+                "plain_text"
+              ],
+              "value": "38 “I have been with you for the past twenty years. Your ewes and female goats have not miscarried, nor have I eaten rams from your flocks."
+            },
+            {
+              "rowId": 261,
+              "keyParts": [
+                261,
+                "p12",
+                "verse",
+                "v39",
+                "label"
+              ],
+              "value": "39"
+            },
+            {
+              "rowId": 262,
+              "keyParts": [
+                262,
+                "p12",
+                "verse",
+                "v39",
+                "content"
+              ],
+              "value": "Animals torn by wild beasts I never brought to you; I always absorbed the loss myself."
+            },
+            {
+              "rowId": 263,
+              "keyParts": [
+                263,
+                "p12",
+                "verse",
+                "v39",
+                "note",
+                "f"
+              ],
+              "value": "tn The imperfect verbal form indicates that this was a customary or typical action."
+            },
+            {
+              "rowId": 264,
+              "keyParts": [
+                264,
+                "p12",
+                "verse",
+                "v39",
+                "content"
+              ],
+              "value": "You always made me pay for every missing animal,"
+            },
+            {
+              "rowId": 265,
+              "keyParts": [
+                265,
+                "p12",
+                "verse",
+                "v39",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “from my hand you exacted it.” The imperfect verbal form again indicates that this was a customary or typical action. The words “for every missing animal” are supplied in the translation for clarity; the following clause in Hebrew, “stolen by day or stolen by night,” probably means “stolen by wild beasts” and refers to the same animals “torn by wild beasts” in the previous clause, although it may refer to animals stolen by people. The translation used here, “missing,” is ambiguous enough to cover either eventuality."
+            },
+            {
+              "rowId": 266,
+              "keyParts": [
+                266,
+                "p12",
+                "verse",
+                "v39",
+                "content"
+              ],
+              "value": "whether it was taken by day or at night."
+            },
+            {
+              "rowId": 267,
+              "keyParts": [
+                "v039_NET_GEN_031",
+                267,
+                "p12",
+                "verse",
+                "v39",
+                "plain_text"
+              ],
+              "value": "39 Animals torn by wild beasts I never brought to you; I always absorbed the loss myself. You always made me pay for every missing animal, whether it was taken by day or at night."
+            },
+            {
+              "rowId": 268,
+              "keyParts": [
+                268,
+                "p12",
+                "verse",
+                "v40",
+                "label"
+              ],
+              "value": "40"
+            },
+            {
+              "rowId": 269,
+              "keyParts": [
+                269,
+                "p12",
+                "verse",
+                "v40",
+                "content"
+              ],
+              "value": "I was consumed by scorching heat"
+            },
+            {
+              "rowId": 270,
+              "keyParts": [
+                270,
+                "p12",
+                "verse",
+                "v40",
+                "note",
+                "f"
+              ],
+              "value": "tn Or “by drought.”"
+            },
+            {
+              "rowId": 271,
+              "keyParts": [
+                271,
+                "p12",
+                "verse",
+                "v40",
+                "content"
+              ],
+              "value": "during the day and by piercing cold"
+            },
+            {
+              "rowId": 272,
+              "keyParts": [
+                272,
+                "p12",
+                "verse",
+                "v40",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “frost, ice,” though when contrasted with the חֹרֶב (khorev, “drought, parching heat”) of the day, “piercing cold” is more appropriate as a contrast."
+            },
+            {
+              "rowId": 273,
+              "keyParts": [
+                273,
+                "p12",
+                "verse",
+                "v40",
+                "content"
+              ],
+              "value": "at night, and I went without sleep."
+            },
+            {
+              "rowId": 274,
+              "keyParts": [
+                274,
+                "p12",
+                "verse",
+                "v40",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and my sleep fled from my eyes.”"
+            },
+            {
+              "rowId": 275,
+              "keyParts": [
+                "v040_NET_GEN_031",
+                275,
+                "p12",
+                "verse",
+                "v40",
+                "plain_text"
+              ],
+              "value": "40 I was consumed by scorching heat during the day and by piercing cold at night, and I went without sleep."
+            },
+            {
+              "rowId": 276,
+              "keyParts": [
+                276,
+                "p12",
+                "verse",
+                "v41",
+                "label"
+              ],
+              "value": "41"
+            },
+            {
+              "rowId": 277,
+              "keyParts": [
+                277,
+                "p12",
+                "verse",
+                "v41",
+                "content"
+              ],
+              "value": "This was my lot"
+            },
+            {
+              "rowId": 278,
+              "keyParts": [
+                278,
+                "p12",
+                "verse",
+                "v41",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “this to me.”"
+            },
+            {
+              "rowId": 279,
+              "keyParts": [
+                279,
+                "p12",
+                "verse",
+                "v41",
+                "content"
+              ],
+              "value": "for twenty years in your house: I worked like a slave"
+            },
+            {
+              "rowId": 280,
+              "keyParts": [
+                280,
+                "p12",
+                "verse",
+                "v41",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “served you,” but in this accusatory context the meaning is more “worked like a slave.”"
+            },
+            {
+              "rowId": 281,
+              "keyParts": [
+                281,
+                "p12",
+                "verse",
+                "v41",
+                "content"
+              ],
+              "value": "for you – fourteen years for your two daughters and six years for your flocks, but you changed my wages ten times!"
+            },
+            {
+              "rowId": 282,
+              "keyParts": [
+                "v041_NET_GEN_031",
+                282,
+                "p12",
+                "verse",
+                "v41",
+                "plain_text"
+              ],
+              "value": "41 This was my lot for twenty years in your house: I worked like a slave for you – fourteen years for your two daughters and six years for your flocks, but you changed my wages ten times!"
+            },
+            {
+              "rowId": 283,
+              "keyParts": [
+                283,
+                "p12",
+                "verse",
+                "v42",
+                "label"
+              ],
+              "value": "42"
+            },
+            {
+              "rowId": 284,
+              "keyParts": [
+                284,
+                "p12",
+                "verse",
+                "v42",
+                "content"
+              ],
+              "value": "If the God of my father – the God of Abraham, the one whom Isaac fears"
+            },
+            {
+              "rowId": 285,
+              "keyParts": [
+                285,
+                "p12",
+                "verse",
+                "v42",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “the fear of Isaac,” that is, the one whom Isaac feared and respected. For further discussion of this title see M. Malul, “More on pahad yitschaq (Gen. 31:42,53) and the Oath by the Thigh,” VT 35 (1985): 192-200."
+            },
+            {
+              "rowId": 286,
+              "keyParts": [
+                286,
+                "p12",
+                "verse",
+                "v42",
+                "content"
+              ],
+              "value": "– had not been with me, you would certainly have sent me away empty-handed! But God saw how I was oppressed and how hard I worked,"
+            },
+            {
+              "rowId": 287,
+              "keyParts": [
+                287,
+                "p12",
+                "verse",
+                "v42",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “My oppression and the work of my hands God saw.”"
+            },
+            {
+              "rowId": 288,
+              "keyParts": [
+                288,
+                "p12",
+                "verse",
+                "v42",
+                "content"
+              ],
+              "value": "and he rebuked you last night.”"
+            },
+            {
+              "rowId": 289,
+              "keyParts": [
+                "v042_NET_GEN_031",
+                289,
+                "p12",
+                "verse",
+                "v42",
+                "plain_text"
+              ],
+              "value": "42 If the God of my father – the God of Abraham, the one whom Isaac fears – had not been with me, you would certainly have sent me away empty-handed! But God saw how I was oppressed and how hard I worked, and he rebuked you last night.”"
+            },
+            {
+              "rowId": 290,
+              "keyParts": [
+                290,
+                "p13",
+                "verse",
+                "v43",
+                "label"
+              ],
+              "value": "43"
+            },
+            {
+              "rowId": 291,
+              "keyParts": [
+                291,
+                "p13",
+                "verse",
+                "v43",
+                "content"
+              ],
+              "value": "Laban replied"
+            },
+            {
+              "rowId": 292,
+              "keyParts": [
+                292,
+                "p13",
+                "verse",
+                "v43",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “answered and said.”"
+            },
+            {
+              "rowId": 293,
+              "keyParts": [
+                293,
+                "p13",
+                "verse",
+                "v43",
+                "content"
+              ],
+              "value": "to Jacob, “These women"
+            },
+            {
+              "rowId": 294,
+              "keyParts": [
+                294,
+                "p13",
+                "verse",
+                "v43",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “daughters.”"
+            },
+            {
+              "rowId": 295,
+              "keyParts": [
+                295,
+                "p13",
+                "verse",
+                "v43",
+                "content"
+              ],
+              "value": "are my daughters, these children are my grandchildren,"
+            },
+            {
+              "rowId": 296,
+              "keyParts": [
+                296,
+                "p13",
+                "verse",
+                "v43",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “children.”"
+            },
+            {
+              "rowId": 297,
+              "keyParts": [
+                297,
+                "p13",
+                "verse",
+                "v43",
+                "content"
+              ],
+              "value": "and these flocks are my flocks. All that you see belongs to me. But how can I harm these daughters of mine today"
+            },
+            {
+              "rowId": 298,
+              "keyParts": [
+                298,
+                "p13",
+                "verse",
+                "v43",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “but to my daughters what can I do to these today?”"
+            },
+            {
+              "rowId": 299,
+              "keyParts": [
+                299,
+                "p13",
+                "verse",
+                "v43",
+                "content"
+              ],
+              "value": "or the children to whom they have given birth?"
+            },
+            {
+              "rowId": 300,
+              "keyParts": [
+                "v043_NET_GEN_031",
+                300,
+                "p13",
+                "verse",
+                "v43",
+                "plain_text"
+              ],
+              "value": "43 Laban replied to Jacob, “These women are my daughters, these children are my grandchildren, and these flocks are my flocks. All that you see belongs to me. But how can I harm these daughters of mine today or the children to whom they have given birth?"
+            },
+            {
+              "rowId": 301,
+              "keyParts": [
+                301,
+                "p13",
+                "verse",
+                "v44",
+                "label"
+              ],
+              "value": "44"
+            },
+            {
+              "rowId": 302,
+              "keyParts": [
+                302,
+                "p13",
+                "verse",
+                "v44",
+                "content"
+              ],
+              "value": "So now, come, let’s make a formal agreement,"
+            },
+            {
+              "rowId": 303,
+              "keyParts": [
+                303,
+                "p13",
+                "verse",
+                "v44",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “cut a covenant.”"
+            },
+            {
+              "rowId": 304,
+              "keyParts": [
+                304,
+                "p13",
+                "verse",
+                "v44",
+                "content"
+              ],
+              "value": "you and I, and it will be"
+            },
+            {
+              "rowId": 305,
+              "keyParts": [
+                305,
+                "p13",
+                "verse",
+                "v44",
+                "note",
+                "f"
+              ],
+              "value": "tn The verb הָיָה (hayah) followed by the preposition לְ (lÿ) means “become.”"
+            },
+            {
+              "rowId": 306,
+              "keyParts": [
+                306,
+                "p13",
+                "verse",
+                "v44",
+                "content"
+              ],
+              "value": "proof that we have made peace.”"
+            },
+            {
+              "rowId": 307,
+              "keyParts": [
+                307,
+                "p13",
+                "verse",
+                "v44",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and it will become a witness between me and you.”"
+            },
+            {
+              "rowId": 308,
+              "keyParts": [
+                "v044_NET_GEN_031",
+                308,
+                "p13",
+                "verse",
+                "v44",
+                "plain_text"
+              ],
+              "value": "44 So now, come, let’s make a formal agreement, you and I, and it will be proof that we have made peace.”"
+            },
+            {
+              "rowId": 309,
+              "keyParts": [
+                309,
+                "p14",
+                "verse",
+                "v45",
+                "label"
+              ],
+              "value": "45"
+            },
+            {
+              "rowId": 310,
+              "keyParts": [
+                310,
+                "p14",
+                "verse",
+                "v45",
+                "content"
+              ],
+              "value": "So Jacob took a stone and set it up as a memorial pillar."
+            },
+            {
+              "rowId": 311,
+              "keyParts": [
+                "v045_NET_GEN_031",
+                311,
+                "p14",
+                "verse",
+                "v45",
+                "plain_text"
+              ],
+              "value": "45 So Jacob took a stone and set it up as a memorial pillar."
+            },
+            {
+              "rowId": 312,
+              "keyParts": [
+                312,
+                "p14",
+                "verse",
+                "v46",
+                "label"
+              ],
+              "value": "46"
+            },
+            {
+              "rowId": 313,
+              "keyParts": [
+                313,
+                "p14",
+                "verse",
+                "v46",
+                "content"
+              ],
+              "value": "Then he"
+            },
+            {
+              "rowId": 314,
+              "keyParts": [
+                314,
+                "p14",
+                "verse",
+                "v46",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “Jacob”; the proper name has been replaced by the pronoun (“he”) in the translation for stylistic reasons."
+            },
+            {
+              "rowId": 315,
+              "keyParts": [
+                315,
+                "p14",
+                "verse",
+                "v46",
+                "content"
+              ],
+              "value": "said to his relatives, “Gather stones.” So they brought stones and put them in a pile."
+            },
+            {
+              "rowId": 316,
+              "keyParts": [
+                316,
+                "p14",
+                "verse",
+                "v46",
+                "note",
+                "f"
+              ],
+              "value": "sn The Hebrew word for “pile” is גַּל (gal), which sounds like the name “Galeed” (גַּלְעֵד, gal’ed). See v. 48."
+            },
+            {
+              "rowId": 317,
+              "keyParts": [
+                317,
+                "p14",
+                "verse",
+                "v46",
+                "content"
+              ],
+              "value": "They ate there by the pile of stones."
+            },
+            {
+              "rowId": 318,
+              "keyParts": [
+                "v046_NET_GEN_031",
+                318,
+                "p14",
+                "verse",
+                "v46",
+                "plain_text"
+              ],
+              "value": "46 Then he said to his relatives, “Gather stones.” So they brought stones and put them in a pile. They ate there by the pile of stones."
+            },
+            {
+              "rowId": 319,
+              "keyParts": [
+                319,
+                "p14",
+                "verse",
+                "v47",
+                "label"
+              ],
+              "value": "47"
+            },
+            {
+              "rowId": 320,
+              "keyParts": [
+                320,
+                "p14",
+                "verse",
+                "v47",
+                "content"
+              ],
+              "value": "Laban called it Jegar Sahadutha,"
+            },
+            {
+              "rowId": 321,
+              "keyParts": [
+                321,
+                "p14",
+                "verse",
+                "v47",
+                "note",
+                "f"
+              ],
+              "value": "sn Jegar Sahadutha. Laban the Aramean gave the place an Aramaic name which means “witness pile” or “the pile is a witness.”"
+            },
+            {
+              "rowId": 322,
+              "keyParts": [
+                322,
+                "p14",
+                "verse",
+                "v47",
+                "content"
+              ],
+              "value": "but Jacob called it Galeed."
+            },
+            {
+              "rowId": 323,
+              "keyParts": [
+                323,
+                "p14",
+                "verse",
+                "v47",
+                "note",
+                "f"
+              ],
+              "value": "sn Galeed also means “witness pile” or “the pile is a witness,” but this name is Canaanite or Western Semitic and closer to later Hebrew. Jacob, though certainly capable of speaking Aramaic, here prefers to use the western dialect."
+            },
+            {
+              "rowId": 324,
+              "keyParts": [
+                "v047_NET_GEN_031",
+                324,
+                "p14",
+                "verse",
+                "v47",
+                "plain_text"
+              ],
+              "value": "47 Laban called it Jegar Sahadutha, but Jacob called it Galeed."
+            },
+            {
+              "rowId": 325,
+              "keyParts": [
+                325,
+                "p15",
+                "verse",
+                "v48",
+                "label"
+              ],
+              "value": "48"
+            },
+            {
+              "rowId": 326,
+              "keyParts": [
+                326,
+                "p15",
+                "verse",
+                "v48",
+                "content"
+              ],
+              "value": "Laban said, “This pile of stones is a witness of our agreement"
+            },
+            {
+              "rowId": 327,
+              "keyParts": [
+                327,
+                "p15",
+                "verse",
+                "v48",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “a witness between me and you.”"
+            },
+            {
+              "rowId": 328,
+              "keyParts": [
+                328,
+                "p15",
+                "verse",
+                "v48",
+                "content"
+              ],
+              "value": "today.” That is why it was called Galeed."
+            },
+            {
+              "rowId": 329,
+              "keyParts": [
+                "v048_NET_GEN_031",
+                329,
+                "p15",
+                "verse",
+                "v48",
+                "plain_text"
+              ],
+              "value": "48 Laban said, “This pile of stones is a witness of our agreement today.” That is why it was called Galeed."
+            },
+            {
+              "rowId": 330,
+              "keyParts": [
+                330,
+                "p15",
+                "verse",
+                "v49",
+                "label"
+              ],
+              "value": "49"
+            },
+            {
+              "rowId": 331,
+              "keyParts": [
+                331,
+                "p15",
+                "verse",
+                "v49",
+                "content"
+              ],
+              "value": "It was also called Mizpah"
+            },
+            {
+              "rowId": 332,
+              "keyParts": [
+                332,
+                "p15",
+                "verse",
+                "v49",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and Mizpah.”"
+            },
+            {
+              "rowId": 333,
+              "keyParts": [
+                333,
+                "p15",
+                "verse",
+                "v49",
+                "content"
+              ],
+              "value": "because he said, “May the"
+            },
+            {
+              "rowId": 334,
+              "keyParts": [
+                334,
+                "p15",
+                "verse",
+                "v49",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 335,
+              "keyParts": [
+                335,
+                "p15",
+                "verse",
+                "v49",
+                "content"
+              ],
+              "value": "watch"
+            },
+            {
+              "rowId": 336,
+              "keyParts": [
+                336,
+                "p15",
+                "verse",
+                "v49",
+                "note",
+                "f"
+              ],
+              "value": "sn The name Mizpah (מִצְפָּה, mitspah), which means “watchpost,” sounds like the verb translated “may he watch” (יִצֶף, yitsef). Neither Laban nor Jacob felt safe with each other, and so they agreed to go their separate ways, trusting the Lord to keep watch at the border. Jacob did not need this treaty, but Laban, perhaps because he had lost his household gods, felt he did."
+            },
+            {
+              "rowId": 337,
+              "keyParts": [
+                337,
+                "p15",
+                "verse",
+                "v49",
+                "content"
+              ],
+              "value": "between us"
+            },
+            {
+              "rowId": 338,
+              "keyParts": [
+                338,
+                "p15",
+                "verse",
+                "v49",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “between me and you.”"
+            },
+            {
+              "rowId": 339,
+              "keyParts": [
+                339,
+                "p15",
+                "verse",
+                "v49",
+                "content"
+              ],
+              "value": "when we are out of sight of one another."
+            },
+            {
+              "rowId": 340,
+              "keyParts": [
+                340,
+                "p15",
+                "verse",
+                "v49",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “for we will be hidden, each man from his neighbor.”"
+            },
+            {
+              "rowId": 341,
+              "keyParts": [
+                "v049_NET_GEN_031",
+                341,
+                "p15",
+                "verse",
+                "v49",
+                "plain_text"
+              ],
+              "value": "49 It was also called Mizpah because he said, “May the Lord watch between us when we are out of sight of one another."
+            },
+            {
+              "rowId": 342,
+              "keyParts": [
+                342,
+                "p15",
+                "verse",
+                "v50",
+                "label"
+              ],
+              "value": "50"
+            },
+            {
+              "rowId": 343,
+              "keyParts": [
+                343,
+                "p15",
+                "verse",
+                "v50",
+                "content"
+              ],
+              "value": "If you mistreat my daughters or if you take wives besides my daughters, although no one else is with us, realize"
+            },
+            {
+              "rowId": 344,
+              "keyParts": [
+                344,
+                "p15",
+                "verse",
+                "v50",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “see.”"
+            },
+            {
+              "rowId": 345,
+              "keyParts": [
+                345,
+                "p15",
+                "verse",
+                "v50",
+                "content"
+              ],
+              "value": "that God is witness to your actions.”"
+            },
+            {
+              "rowId": 346,
+              "keyParts": [
+                346,
+                "p15",
+                "verse",
+                "v50",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “between me and you.”"
+            },
+            {
+              "rowId": 347,
+              "keyParts": [
+                "v050_NET_GEN_031",
+                347,
+                "p15",
+                "verse",
+                "v50",
+                "plain_text"
+              ],
+              "value": "50 If you mistreat my daughters or if you take wives besides my daughters, although no one else is with us, realize that God is witness to your actions.”"
+            },
+            {
+              "rowId": 348,
+              "keyParts": [
+                348,
+                "p16",
+                "verse",
+                "v51",
+                "label"
+              ],
+              "value": "51"
+            },
+            {
+              "rowId": 349,
+              "keyParts": [
+                349,
+                "p16",
+                "verse",
+                "v51",
+                "content"
+              ],
+              "value": "“Here is this pile of stones and this pillar I have set up between me and you,” Laban said to Jacob."
+            },
+            {
+              "rowId": 350,
+              "keyParts": [
+                350,
+                "p16",
+                "verse",
+                "v51",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and Laban said to Jacob, ‘Behold this heap and behold the pillar which I have set between men and you.’” The order of the introductory clause and the direct discourse has been rearranged in the translation for stylistic reasons."
+            },
+            {
+              "rowId": 351,
+              "keyParts": [
+                "v051_NET_GEN_031",
+                351,
+                "p16",
+                "verse",
+                "v51",
+                "plain_text"
+              ],
+              "value": "51 “Here is this pile of stones and this pillar I have set up between me and you,” Laban said to Jacob."
+            },
+            {
+              "rowId": 352,
+              "keyParts": [
+                352,
+                "p16",
+                "verse",
+                "v52",
+                "label"
+              ],
+              "value": "52"
+            },
+            {
+              "rowId": 353,
+              "keyParts": [
+                353,
+                "p16",
+                "verse",
+                "v52",
+                "content"
+              ],
+              "value": "“This pile of stones and the pillar are reminders that I will not pass beyond this pile to come to harm you and that you will not pass beyond this pile and this pillar to come to harm me."
+            },
+            {
+              "rowId": 354,
+              "keyParts": [
+                354,
+                "p16",
+                "verse",
+                "v52",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “This pile is a witness and the pillar is a witness, if I go past this pile to you and if you go past this pile and this pillar to me for harm.”"
+            },
+            {
+              "rowId": 355,
+              "keyParts": [
+                "v052_NET_GEN_031",
+                355,
+                "p16",
+                "verse",
+                "v52",
+                "plain_text"
+              ],
+              "value": "52 “This pile of stones and the pillar are reminders that I will not pass beyond this pile to come to harm you and that you will not pass beyond this pile and this pillar to come to harm me."
+            },
+            {
+              "rowId": 356,
+              "keyParts": [
+                356,
+                "p16",
+                "verse",
+                "v53",
+                "label"
+              ],
+              "value": "53"
+            },
+            {
+              "rowId": 357,
+              "keyParts": [
+                357,
+                "p16",
+                "verse",
+                "v53",
+                "content"
+              ],
+              "value": "May the God of Abraham and the god of Nahor,"
+            },
+            {
+              "rowId": 358,
+              "keyParts": [
+                358,
+                "p16",
+                "verse",
+                "v53",
+                "note",
+                "f"
+              ],
+              "value": "tn The God of Abraham and the god of Nahor. The Hebrew verb translated “judge” is plural, suggesting that Laban has more than one “god” in mind. The Samaritan Pentateuch and the LXX, apparently in an effort to make the statement monotheistic, have a singular verb. In this case one could translate, “May the God of Abraham and the God of Nahor, the God of their father, judge between us.” However, Laban had a polytheistic world view, as evidenced by his possession of household idols (cf. 31:19). The translation uses “God” when referring to Abraham’s God, for Genesis makes it clear that Abraham worshiped the one true God. It employs “god” when referring to Nahor’s god, for in the Hebrew text Laban refers to a different god here, probably one of the local deities."
+            },
+            {
+              "rowId": 359,
+              "keyParts": [
+                359,
+                "p16",
+                "verse",
+                "v53",
+                "content"
+              ],
+              "value": "the gods of their father, judge between us.” Jacob took an oath by the God whom his father Isaac feared."
+            },
+            {
+              "rowId": 360,
+              "keyParts": [
+                360,
+                "p16",
+                "verse",
+                "v53",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “by the fear of his father Isaac.” See the note on the word “fears” in v. 42."
+            },
+            {
+              "rowId": 361,
+              "keyParts": [
+                "v053_NET_GEN_031",
+                361,
+                "p16",
+                "verse",
+                "v53",
+                "plain_text"
+              ],
+              "value": "53 May the God of Abraham and the god of Nahor, the gods of their father, judge between us.” Jacob took an oath by the God whom his father Isaac feared."
+            },
+            {
+              "rowId": 362,
+              "keyParts": [
+                362,
+                "p16",
+                "verse",
+                "v54",
+                "label"
+              ],
+              "value": "54"
+            },
+            {
+              "rowId": 363,
+              "keyParts": [
+                363,
+                "p16",
+                "verse",
+                "v54",
+                "content"
+              ],
+              "value": "Then Jacob offered a sacrifice"
+            },
+            {
+              "rowId": 364,
+              "keyParts": [
+                364,
+                "p16",
+                "verse",
+                "v54",
+                "note",
+                "f"
+              ],
+              "value": "tn The construction is a cognate accusative with the verb, expressing a specific sacrifice."
+            },
+            {
+              "rowId": 365,
+              "keyParts": [
+                365,
+                "p16",
+                "verse",
+                "v54",
+                "content"
+              ],
+              "value": "on the mountain and invited his relatives to eat the meal."
+            },
+            {
+              "rowId": 366,
+              "keyParts": [
+                366,
+                "p16",
+                "verse",
+                "v54",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “bread, food.” Presumably this was a type of peace offering, where the person bringing the offering ate the animal being sacrificed."
+            },
+            {
+              "rowId": 367,
+              "keyParts": [
+                367,
+                "p16",
+                "verse",
+                "v54",
+                "content"
+              ],
+              "value": "They ate the meal and spent the night on the mountain."
+            },
+            {
+              "rowId": 368,
+              "keyParts": [
+                "v054_NET_GEN_031",
+                368,
+                "p16",
+                "verse",
+                "v54",
+                "plain_text"
+              ],
+              "value": "54 Then Jacob offered a sacrifice on the mountain and invited his relatives to eat the meal. They ate the meal and spent the night on the mountain."
+            },
+            {
+              "rowId": 369,
+              "keyParts": [
+                369,
+                "p17",
+                "verse",
+                "v55",
+                "label"
+              ],
+              "value": "55"
+            },
+            {
+              "rowId": 370,
+              "keyParts": [
+                370,
+                "p17",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 371,
+              "keyParts": [
+                371,
+                "p17",
+                "verse",
+                "v55",
+                "note",
+                "f"
+              ],
+              "value": "sn Beginning with 31:55, the verse numbers in the English Bible through 32:32 differ by one from the verse numbers in the Hebrew text (BHS), with 31:55 ET = 32:1 HT, 32:1 ET = 32:2 HT, etc., through 32:32 ET = 32:33 HT. From 33:1 the verse numbers in the ET and HT are again the same."
+            },
+            {
+              "rowId": 372,
+              "keyParts": [
+                372,
+                "p17",
+                "verse",
+                "v55",
+                "content"
+              ],
+              "value": "Early in the morning Laban kissed"
+            },
+            {
+              "rowId": 373,
+              "keyParts": [
+                373,
+                "p17",
+                "verse",
+                "v55",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and Laban got up early in the morning and he kissed.”"
+            },
+            {
+              "rowId": 374,
+              "keyParts": [
+                374,
+                "p17",
+                "verse",
+                "v55",
+                "content"
+              ],
+              "value": "his grandchildren"
+            },
+            {
+              "rowId": 375,
+              "keyParts": [
+                375,
+                "p17",
+                "verse",
+                "v55",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “his sons.”"
+            },
+            {
+              "rowId": 376,
+              "keyParts": [
+                376,
+                "p17",
+                "verse",
+                "v55",
+                "content"
+              ],
+              "value": "and his daughters goodbye and blessed them. Then Laban left and returned home."
+            },
+            {
+              "rowId": 377,
+              "keyParts": [
+                377,
+                "p17",
+                "verse",
+                "v55",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “to his place.”"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

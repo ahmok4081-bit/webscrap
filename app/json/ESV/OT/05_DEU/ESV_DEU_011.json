@@ -1,0 +1,2631 @@
+{
+  "translationId": "ESV",
+  "name": "English Standard Version",
+  "abbreviation": "ESV",
+  "language": "English",
+  "copyright": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.",
+  "books": [
+    {
+      "bookId": "DEU",
+      "testament": "OT",
+      "order": 5,
+      "title": "Deuteronomy",
+      "abbreviation": "DEU",
+      "chapters": [
+        {
+          "chapter": 11,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Love and Serve the"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "s1",
+                "nd",
+                "heading"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.6:5"
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "“You shall therefore love the"
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                7,
+                "p1",
+                "verse",
+                "v1",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "your God and"
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                9,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#[Ezek. 44:16]; See Lev. 8:35"
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "keep his charge, his statutes, his rules, and his commandments always."
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                "v001_ESV_DEU_011",
+                11,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 “You shall therefore love the Lord your God and keep his charge, his statutes, his rules, and his commandments always."
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                12,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                13,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "And consider today (since I am not speaking to"
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#ch.31:13"
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                15,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "your children who have not known or seen it), consider the discipline"
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                16,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "f"
+              ],
+              "value": "#11:2Orinstruction"
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                17,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "of the"
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "p1",
+                "verse",
+                "v2",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "your God,"
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                20,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#ch.3:24;5:24"
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "his greatness,"
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                22,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.4:34"
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "his mighty hand and his outstretched arm,"
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                "v002_ESV_DEU_011",
+                24,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 And consider today (since I am not speaking to your children who have not known or seen it), consider the discipline of the Lord your God, his greatness, his mighty hand and his outstretched arm,"
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "p1",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                26,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#ch.6:22;7:19"
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                27,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "his signs and his deeds that he did in Egypt to Pharaoh the king of Egypt and to all his land,"
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                "v003_ESV_DEU_011",
+                28,
+                "p1",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 his signs and his deeds that he did in Egypt to Pharaoh the king of Egypt and to all his land,"
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                29,
+                "p1",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                30,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "and what he did to the army of Egypt, to their horses and to their chariots,"
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                31,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 14:27,28;15:9,10;Ps. 106:11"
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "how he made the water of the Red Sea flow over them as they pursued after you, and how the"
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                33,
+                "p1",
+                "verse",
+                "v4",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                34,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "has destroyed them to this day,"
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                "v004_ESV_DEU_011",
+                35,
+                "p1",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 and what he did to the army of Egypt, to their horses and to their chariots, how he made the water of the Red Sea flow over them as they pursued after you, and how the Lord has destroyed them to this day,"
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "p1",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                37,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "and"
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                38,
+                "p1",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#SeePs. 78:14-40"
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                39,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "what he did to you in the wilderness, until you came to this place,"
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                "v005_ESV_DEU_011",
+                40,
+                "p1",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 and what he did to you in the wilderness, until you came to this place,"
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p1",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "and"
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                43,
+                "p1",
+                "verse",
+                "v6",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 16:1,31;27:3;Ps. 106:17"
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                44,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "what he did to Dathan and Abiram the sons of Eliab, son of Reuben, how the earth opened its mouth and swallowed them up, with their households, their tents, and every living thing that followed them, in the midst of all Israel."
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                "v006_ESV_DEU_011",
+                45,
+                "p1",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 and what he did to Dathan and Abiram the sons of Eliab, son of Reuben, how the earth opened its mouth and swallowed them up, with their households, their tents, and every living thing that followed them, in the midst of all Israel."
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                46,
+                "p1",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                47,
+                "p1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "For your eyes have seen"
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                48,
+                "p1",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#Judg. 2:7"
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                49,
+                "p1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "all the great work of the"
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "p1",
+                "verse",
+                "v7",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                51,
+                "p1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "that he did."
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                "v007_ESV_DEU_011",
+                52,
+                "p1",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 For your eyes have seen all the great work of the Lord that he did."
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                53,
+                "p2",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                54,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "“You shall therefore keep the whole commandment that I command you today, that you may"
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                55,
+                "p2",
+                "verse",
+                "v8",
+                "note",
+                "x"
+              ],
+              "value": "#ch.31:6,7;Josh. 1:6,7,9,18"
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                56,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "be strong, and go in and take possession of the land that you are going over to possess,"
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                "v008_ESV_DEU_011",
+                57,
+                "p2",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 “You shall therefore keep the whole commandment that I command you today, that you may be strong, and go in and take possession of the land that you are going over to possess,"
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                58,
+                "p2",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                59,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "and"
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                60,
+                "p2",
+                "verse",
+                "v9",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.4:40"
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                61,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "that you may live long in the land"
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                62,
+                "p2",
+                "verse",
+                "v9",
+                "note",
+                "x"
+              ],
+              "value": "#SeeGen. 50:24"
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                63,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "that the"
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                64,
+                "p2",
+                "verse",
+                "v9",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                65,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "swore to your fathers to give to them and to their offspring,"
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                66,
+                "p2",
+                "verse",
+                "v9",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 3:8"
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                67,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "a land flowing with milk and honey."
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                "v009_ESV_DEU_011",
+                68,
+                "p2",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 and that you may live long in the land that the Lord swore to your fathers to give to them and to their offspring, a land flowing with milk and honey."
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                69,
+                "p2",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                70,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "For the land that you are entering to take possession of it is not like the land of Egypt, from which you have come, where you sowed your seed and irrigated it,"
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                71,
+                "p2",
+                "verse",
+                "v10",
+                "note",
+                "f"
+              ],
+              "value": "#11:10Hebrewwatered it with your feet"
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                72,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "like a garden of vegetables."
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                "v010_ESV_DEU_011",
+                73,
+                "p2",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 For the land that you are entering to take possession of it is not like the land of Egypt, from which you have come, where you sowed your seed and irrigated it, like a garden of vegetables."
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                74,
+                "p2",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                75,
+                "p2",
+                "verse",
+                "v11",
+                "note",
+                "x"
+              ],
+              "value": "#ch.8:7"
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                76,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "But the land that you are going over to possess is a land of hills and valleys, which drinks water by the rain from heaven,"
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                "v011_ESV_DEU_011",
+                77,
+                "p2",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 But the land that you are going over to possess is a land of hills and valleys, which drinks water by the rain from heaven,"
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                78,
+                "p2",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                79,
+                "p2",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "a land that the"
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                80,
+                "p2",
+                "verse",
+                "v12",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                81,
+                "p2",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "your God cares for."
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                82,
+                "p2",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#[1 Kgs. 9:3;Jer. 24:6]"
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                83,
+                "p2",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "The eyes of the"
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                84,
+                "p2",
+                "verse",
+                "v12",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                85,
+                "p2",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "your God are always upon it, from the beginning of the year to the end of the year."
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                "v012_ESV_DEU_011",
+                86,
+                "p2",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 a land that the Lord your God cares for. The eyes of the Lord your God are always upon it, from the beginning of the year to the end of the year."
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                87,
+                "p3",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                88,
+                "p3",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "“And if you will indeed obey my commandments that I command you today,"
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                89,
+                "p3",
+                "verse",
+                "v13",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.6:5"
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                90,
+                "p3",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "to love the"
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                91,
+                "p3",
+                "verse",
+                "v13",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                92,
+                "p3",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "your God, and to serve him with all your heart and with all your soul,"
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                "v013_ESV_DEU_011",
+                93,
+                "p3",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 “And if you will indeed obey my commandments that I command you today, to love the Lord your God, and to serve him with all your heart and with all your soul,"
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                94,
+                "p3",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                95,
+                "p3",
+                "verse",
+                "v14",
+                "note",
+                "x"
+              ],
+              "value": "#ch.28:12;Lev. 26:4"
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                96,
+                "p3",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "he"
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                97,
+                "p3",
+                "verse",
+                "v14",
+                "note",
+                "f"
+              ],
+              "value": "#11:14Samaritan, Septuagint, Vulgate; HebrewI; also verse 15"
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                98,
+                "p3",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "will give the rain for your land in its season,"
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                99,
+                "p3",
+                "verse",
+                "v14",
+                "note",
+                "x"
+              ],
+              "value": "#[Job 29:23;Jer. 5:24;Hos. 6:3;Joel 2:23;James 5:7]"
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                100,
+                "p3",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "the early rain and the later rain, that you may gather in your grain and your wine and your oil."
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                "v014_ESV_DEU_011",
+                101,
+                "p3",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 he will give the rain for your land in its season, the early rain and the later rain, that you may gather in your grain and your wine and your oil."
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                102,
+                "p3",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                103,
+                "p3",
+                "verse",
+                "v15",
+                "note",
+                "x"
+              ],
+              "value": "#Ps. 104:14"
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                104,
+                "p3",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "And he will give grass in your fields for your livestock, and"
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                105,
+                "p3",
+                "verse",
+                "v15",
+                "note",
+                "x"
+              ],
+              "value": "#ch.6:11;[Joel 2:19]"
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                106,
+                "p3",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "you shall eat and be full."
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                "v015_ESV_DEU_011",
+                107,
+                "p3",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 And he will give grass in your fields for your livestock, and you shall eat and be full."
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                108,
+                "p3",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                109,
+                "p3",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "Take care"
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                110,
+                "p3",
+                "verse",
+                "v16",
+                "note",
+                "x"
+              ],
+              "value": "#[Job 31:27]"
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                111,
+                "p3",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "lest your heart be deceived, and you turn aside and"
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                112,
+                "p3",
+                "verse",
+                "v16",
+                "note",
+                "x"
+              ],
+              "value": "#ver.28;See ch.6:14"
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                113,
+                "p3",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "serve other gods and worship them;"
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                "v016_ESV_DEU_011",
+                114,
+                "p3",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 Take care lest your heart be deceived, and you turn aside and serve other gods and worship them;"
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                115,
+                "p3",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                116,
+                "p3",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "then"
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                117,
+                "p3",
+                "verse",
+                "v17",
+                "note",
+                "x"
+              ],
+              "value": "#ch.6:15"
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                118,
+                "p3",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "the anger of the"
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                119,
+                "p3",
+                "verse",
+                "v17",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                120,
+                "p3",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "will be kindled against you, and he"
+            },
+            {
+              "rowId": 121,
+              "keyParts": [
+                121,
+                "p3",
+                "verse",
+                "v17",
+                "note",
+                "x"
+              ],
+              "value": "#1 Kgs. 8:35;2 Chr. 6:26;7:13;[ch.28:23,24;Lev. 26:19,20;Amos 4:7;Zech. 14:17;Rev. 11:6]"
+            },
+            {
+              "rowId": 122,
+              "keyParts": [
+                122,
+                "p3",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "will shut up the heavens, so that there will be no rain, and the land will yield no fruit, and"
+            },
+            {
+              "rowId": 123,
+              "keyParts": [
+                123,
+                "p3",
+                "verse",
+                "v17",
+                "note",
+                "x"
+              ],
+              "value": "#ch.4:26;30:18;Josh. 23:15,16"
+            },
+            {
+              "rowId": 124,
+              "keyParts": [
+                124,
+                "p3",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "you will perish quickly off the good land that the"
+            },
+            {
+              "rowId": 125,
+              "keyParts": [
+                125,
+                "p3",
+                "verse",
+                "v17",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 126,
+              "keyParts": [
+                126,
+                "p3",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "is giving you."
+            },
+            {
+              "rowId": 127,
+              "keyParts": [
+                "v017_ESV_DEU_011",
+                127,
+                "p3",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 then the anger of the Lord will be kindled against you, and he will shut up the heavens, so that there will be no rain, and the land will yield no fruit, and you will perish quickly off the good land that the Lord is giving you."
+            },
+            {
+              "rowId": 128,
+              "keyParts": [
+                128,
+                "p4",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 129,
+              "keyParts": [
+                129,
+                "p4",
+                "verse",
+                "v18",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.6:6"
+            },
+            {
+              "rowId": 130,
+              "keyParts": [
+                130,
+                "p4",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "“You shall therefore lay up these words of mine in your heart and in your soul, and"
+            },
+            {
+              "rowId": 131,
+              "keyParts": [
+                131,
+                "p4",
+                "verse",
+                "v18",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.6:8"
+            },
+            {
+              "rowId": 132,
+              "keyParts": [
+                132,
+                "p4",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "you shall bind them as a sign on your hand, and they shall be as frontlets between your eyes."
+            },
+            {
+              "rowId": 133,
+              "keyParts": [
+                "v018_ESV_DEU_011",
+                133,
+                "p4",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 “You shall therefore lay up these words of mine in your heart and in your soul, and you shall bind them as a sign on your hand, and they shall be as frontlets between your eyes."
+            },
+            {
+              "rowId": 134,
+              "keyParts": [
+                134,
+                "p4",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 135,
+              "keyParts": [
+                135,
+                "p4",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "You shall teach them to your children, talking of them when you are sitting in your house, and when you are walking by the way, and when you lie down, and when you rise."
+            },
+            {
+              "rowId": 136,
+              "keyParts": [
+                "v019_ESV_DEU_011",
+                136,
+                "p4",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 You shall teach them to your children, talking of them when you are sitting in your house, and when you are walking by the way, and when you lie down, and when you rise."
+            },
+            {
+              "rowId": 137,
+              "keyParts": [
+                137,
+                "p4",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 138,
+              "keyParts": [
+                138,
+                "p4",
+                "verse",
+                "v20",
+                "note",
+                "x"
+              ],
+              "value": "#ch.6:9"
+            },
+            {
+              "rowId": 139,
+              "keyParts": [
+                139,
+                "p4",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "You shall write them on the doorposts of your house and on your gates,"
+            },
+            {
+              "rowId": 140,
+              "keyParts": [
+                "v020_ESV_DEU_011",
+                140,
+                "p4",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 You shall write them on the doorposts of your house and on your gates,"
+            },
+            {
+              "rowId": 141,
+              "keyParts": [
+                141,
+                "p4",
+                "verse",
+                "v21",
+                "label"
+              ],
+              "value": "21"
+            },
+            {
+              "rowId": 142,
+              "keyParts": [
+                142,
+                "p4",
+                "verse",
+                "v21",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.4:40"
+            },
+            {
+              "rowId": 143,
+              "keyParts": [
+                143,
+                "p4",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "that your days and the days of your children may be multiplied in the land that the"
+            },
+            {
+              "rowId": 144,
+              "keyParts": [
+                144,
+                "p4",
+                "verse",
+                "v21",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 145,
+              "keyParts": [
+                145,
+                "p4",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "swore to your fathers to give them,"
+            },
+            {
+              "rowId": 146,
+              "keyParts": [
+                146,
+                "p4",
+                "verse",
+                "v21",
+                "note",
+                "x"
+              ],
+              "value": "#Ps. 89:29"
+            },
+            {
+              "rowId": 147,
+              "keyParts": [
+                147,
+                "p4",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "as long as the heavens are above the earth."
+            },
+            {
+              "rowId": 148,
+              "keyParts": [
+                "v021_ESV_DEU_011",
+                148,
+                "p4",
+                "verse",
+                "v21",
+                "plain_text"
+              ],
+              "value": "21 that your days and the days of your children may be multiplied in the land that the Lord swore to your fathers to give them, as long as the heavens are above the earth."
+            },
+            {
+              "rowId": 149,
+              "keyParts": [
+                149,
+                "p4",
+                "verse",
+                "v22",
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 150,
+              "keyParts": [
+                150,
+                "p4",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "For if"
+            },
+            {
+              "rowId": 151,
+              "keyParts": [
+                151,
+                "p4",
+                "verse",
+                "v22",
+                "note",
+                "x"
+              ],
+              "value": "#ch.6:17"
+            },
+            {
+              "rowId": 152,
+              "keyParts": [
+                152,
+                "p4",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "you will be careful to do all this commandment that I command you to do, loving the"
+            },
+            {
+              "rowId": 153,
+              "keyParts": [
+                153,
+                "p4",
+                "verse",
+                "v22",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 154,
+              "keyParts": [
+                154,
+                "p4",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "your God, walking in all his ways, and"
+            },
+            {
+              "rowId": 155,
+              "keyParts": [
+                155,
+                "p4",
+                "verse",
+                "v22",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.10:20"
+            },
+            {
+              "rowId": 156,
+              "keyParts": [
+                156,
+                "p4",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "holding fast to him,"
+            },
+            {
+              "rowId": 157,
+              "keyParts": [
+                "v022_ESV_DEU_011",
+                157,
+                "p4",
+                "verse",
+                "v22",
+                "plain_text"
+              ],
+              "value": "22 For if you will be careful to do all this commandment that I command you to do, loving the Lord your God, walking in all his ways, and holding fast to him,"
+            },
+            {
+              "rowId": 158,
+              "keyParts": [
+                158,
+                "p4",
+                "verse",
+                "v23",
+                "label"
+              ],
+              "value": "23"
+            },
+            {
+              "rowId": 159,
+              "keyParts": [
+                159,
+                "p4",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "then the"
+            },
+            {
+              "rowId": 160,
+              "keyParts": [
+                160,
+                "p4",
+                "verse",
+                "v23",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 161,
+              "keyParts": [
+                161,
+                "p4",
+                "verse",
+                "v23",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.4:38"
+            },
+            {
+              "rowId": 162,
+              "keyParts": [
+                162,
+                "p4",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "will drive out all these nations before you, and you will"
+            },
+            {
+              "rowId": 163,
+              "keyParts": [
+                163,
+                "p4",
+                "verse",
+                "v23",
+                "note",
+                "x"
+              ],
+              "value": "#ch.9:1"
+            },
+            {
+              "rowId": 164,
+              "keyParts": [
+                164,
+                "p4",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "dispossess nations greater and mightier than you."
+            },
+            {
+              "rowId": 165,
+              "keyParts": [
+                "v023_ESV_DEU_011",
+                165,
+                "p4",
+                "verse",
+                "v23",
+                "plain_text"
+              ],
+              "value": "23 then the Lord will drive out all these nations before you, and you will dispossess nations greater and mightier than you."
+            },
+            {
+              "rowId": 166,
+              "keyParts": [
+                166,
+                "p4",
+                "verse",
+                "v24",
+                "label"
+              ],
+              "value": "24"
+            },
+            {
+              "rowId": 167,
+              "keyParts": [
+                167,
+                "p4",
+                "verse",
+                "v24",
+                "note",
+                "x"
+              ],
+              "value": "#Josh. 1:3;[Josh. 14:9]"
+            },
+            {
+              "rowId": 168,
+              "keyParts": [
+                168,
+                "p4",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "Every place on which the sole of your foot treads shall be yours. Your territory shall be"
+            },
+            {
+              "rowId": 169,
+              "keyParts": [
+                169,
+                "p4",
+                "verse",
+                "v24",
+                "note",
+                "x"
+              ],
+              "value": "#SeeEx. 23:31"
+            },
+            {
+              "rowId": 170,
+              "keyParts": [
+                170,
+                "p4",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "from the wilderness to"
+            },
+            {
+              "rowId": 171,
+              "keyParts": [
+                171,
+                "p4",
+                "verse",
+                "v24",
+                "note",
+                "f"
+              ],
+              "value": "#11:24Hebrewand"
+            },
+            {
+              "rowId": 172,
+              "keyParts": [
+                172,
+                "p4",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "the Lebanon, and from the River, the river Euphrates, to the western sea."
+            },
+            {
+              "rowId": 173,
+              "keyParts": [
+                "v024_ESV_DEU_011",
+                173,
+                "p4",
+                "verse",
+                "v24",
+                "plain_text"
+              ],
+              "value": "24 Every place on which the sole of your foot treads shall be yours. Your territory shall be from the wilderness to the Lebanon, and from the River, the river Euphrates, to the western sea."
+            },
+            {
+              "rowId": 174,
+              "keyParts": [
+                174,
+                "p4",
+                "verse",
+                "v25",
+                "label"
+              ],
+              "value": "25"
+            },
+            {
+              "rowId": 175,
+              "keyParts": [
+                175,
+                "p4",
+                "verse",
+                "v25",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.7:24"
+            },
+            {
+              "rowId": 176,
+              "keyParts": [
+                176,
+                "p4",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "No one shall be able to stand against you. The"
+            },
+            {
+              "rowId": 177,
+              "keyParts": [
+                177,
+                "p4",
+                "verse",
+                "v25",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 178,
+              "keyParts": [
+                178,
+                "p4",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "your God will lay"
+            },
+            {
+              "rowId": 179,
+              "keyParts": [
+                179,
+                "p4",
+                "verse",
+                "v25",
+                "note",
+                "x"
+              ],
+              "value": "#ch.2:25"
+            },
+            {
+              "rowId": 180,
+              "keyParts": [
+                180,
+                "p4",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "the fear of you and the dread of you on all the land that you shall tread,"
+            },
+            {
+              "rowId": 181,
+              "keyParts": [
+                181,
+                "p4",
+                "verse",
+                "v25",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 23:27"
+            },
+            {
+              "rowId": 182,
+              "keyParts": [
+                182,
+                "p4",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "as he promised you."
+            },
+            {
+              "rowId": 183,
+              "keyParts": [
+                "v025_ESV_DEU_011",
+                183,
+                "p4",
+                "verse",
+                "v25",
+                "plain_text"
+              ],
+              "value": "25 No one shall be able to stand against you. The Lord your God will lay the fear of you and the dread of you on all the land that you shall tread, as he promised you."
+            },
+            {
+              "rowId": 184,
+              "keyParts": [
+                184,
+                "p5",
+                "verse",
+                "v26",
+                "label"
+              ],
+              "value": "26"
+            },
+            {
+              "rowId": 185,
+              "keyParts": [
+                185,
+                "p5",
+                "verse",
+                "v26",
+                "note",
+                "x"
+              ],
+              "value": "#ch.30:1,15,19"
+            },
+            {
+              "rowId": 186,
+              "keyParts": [
+                186,
+                "p5",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "“See, I am setting before you today a blessing and a curse:"
+            },
+            {
+              "rowId": 187,
+              "keyParts": [
+                "v026_ESV_DEU_011",
+                187,
+                "p5",
+                "verse",
+                "v26",
+                "plain_text"
+              ],
+              "value": "26 “See, I am setting before you today a blessing and a curse:"
+            },
+            {
+              "rowId": 188,
+              "keyParts": [
+                188,
+                "p5",
+                "verse",
+                "v27",
+                "label"
+              ],
+              "value": "27"
+            },
+            {
+              "rowId": 189,
+              "keyParts": [
+                189,
+                "p5",
+                "verse",
+                "v27",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.28:2-14"
+            },
+            {
+              "rowId": 190,
+              "keyParts": [
+                190,
+                "p5",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "the blessing, if you obey the commandments of the"
+            },
+            {
+              "rowId": 191,
+              "keyParts": [
+                191,
+                "p5",
+                "verse",
+                "v27",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 192,
+              "keyParts": [
+                192,
+                "p5",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "your God, which I command you today,"
+            },
+            {
+              "rowId": 193,
+              "keyParts": [
+                "v027_ESV_DEU_011",
+                193,
+                "p5",
+                "verse",
+                "v27",
+                "plain_text"
+              ],
+              "value": "27 the blessing, if you obey the commandments of the Lord your God, which I command you today,"
+            },
+            {
+              "rowId": 194,
+              "keyParts": [
+                194,
+                "p5",
+                "verse",
+                "v28",
+                "label"
+              ],
+              "value": "28"
+            },
+            {
+              "rowId": 195,
+              "keyParts": [
+                195,
+                "p5",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "and"
+            },
+            {
+              "rowId": 196,
+              "keyParts": [
+                196,
+                "p5",
+                "verse",
+                "v28",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.28:15-45"
+            },
+            {
+              "rowId": 197,
+              "keyParts": [
+                197,
+                "p5",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "the curse, if you do not obey the commandments of the"
+            },
+            {
+              "rowId": 198,
+              "keyParts": [
+                198,
+                "p5",
+                "verse",
+                "v28",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 199,
+              "keyParts": [
+                199,
+                "p5",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "your God, but turn aside from the way that I am commanding you today,"
+            },
+            {
+              "rowId": 200,
+              "keyParts": [
+                200,
+                "p5",
+                "verse",
+                "v28",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.6:14"
+            },
+            {
+              "rowId": 201,
+              "keyParts": [
+                201,
+                "p5",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "to go after other gods that you have not known."
+            },
+            {
+              "rowId": 202,
+              "keyParts": [
+                "v028_ESV_DEU_011",
+                202,
+                "p5",
+                "verse",
+                "v28",
+                "plain_text"
+              ],
+              "value": "28 and the curse, if you do not obey the commandments of the Lord your God, but turn aside from the way that I am commanding you today, to go after other gods that you have not known."
+            },
+            {
+              "rowId": 203,
+              "keyParts": [
+                203,
+                "p5",
+                "verse",
+                "v29",
+                "label"
+              ],
+              "value": "29"
+            },
+            {
+              "rowId": 204,
+              "keyParts": [
+                204,
+                "p5",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "And when the"
+            },
+            {
+              "rowId": 205,
+              "keyParts": [
+                205,
+                "p5",
+                "verse",
+                "v29",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 206,
+              "keyParts": [
+                206,
+                "p5",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "your God brings you into the land that you are entering to take possession of it, you shall set"
+            },
+            {
+              "rowId": 207,
+              "keyParts": [
+                207,
+                "p5",
+                "verse",
+                "v29",
+                "note",
+                "x"
+              ],
+              "value": "#ch.27:12,13;Josh. 8:33"
+            },
+            {
+              "rowId": 208,
+              "keyParts": [
+                208,
+                "p5",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "the blessing on Mount Gerizim and the curse on Mount Ebal."
+            },
+            {
+              "rowId": 209,
+              "keyParts": [
+                "v029_ESV_DEU_011",
+                209,
+                "p5",
+                "verse",
+                "v29",
+                "plain_text"
+              ],
+              "value": "29 And when the Lord your God brings you into the land that you are entering to take possession of it, you shall set the blessing on Mount Gerizim and the curse on Mount Ebal."
+            },
+            {
+              "rowId": 210,
+              "keyParts": [
+                210,
+                "p5",
+                "verse",
+                "v30",
+                "label"
+              ],
+              "value": "30"
+            },
+            {
+              "rowId": 211,
+              "keyParts": [
+                211,
+                "p5",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "Are they not beyond the Jordan, west of the road, toward the going down of the sun, in the land of the Canaanites who live in the"
+            },
+            {
+              "rowId": 212,
+              "keyParts": [
+                212,
+                "p5",
+                "verse",
+                "v30",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.1:1"
+            },
+            {
+              "rowId": 213,
+              "keyParts": [
+                213,
+                "p5",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "Arabah, opposite Gilgal, beside"
+            },
+            {
+              "rowId": 214,
+              "keyParts": [
+                214,
+                "p5",
+                "verse",
+                "v30",
+                "note",
+                "x"
+              ],
+              "value": "#Judg. 7:1"
+            },
+            {
+              "rowId": 215,
+              "keyParts": [
+                215,
+                "p5",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "the oak"
+            },
+            {
+              "rowId": 216,
+              "keyParts": [
+                216,
+                "p5",
+                "verse",
+                "v30",
+                "note",
+                "f"
+              ],
+              "value": "#11:30Septuagint, Syriac; see Genesis 12:6. Hebrewoaks, orterebinths"
+            },
+            {
+              "rowId": 217,
+              "keyParts": [
+                217,
+                "p5",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "of Moreh?"
+            },
+            {
+              "rowId": 218,
+              "keyParts": [
+                "v030_ESV_DEU_011",
+                218,
+                "p5",
+                "verse",
+                "v30",
+                "plain_text"
+              ],
+              "value": "30 Are they not beyond the Jordan, west of the road, toward the going down of the sun, in the land of the Canaanites who live in the Arabah, opposite Gilgal, beside the oak of Moreh?"
+            },
+            {
+              "rowId": 219,
+              "keyParts": [
+                219,
+                "p5",
+                "verse",
+                "v31",
+                "label"
+              ],
+              "value": "31"
+            },
+            {
+              "rowId": 220,
+              "keyParts": [
+                220,
+                "p5",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "For you are"
+            },
+            {
+              "rowId": 221,
+              "keyParts": [
+                221,
+                "p5",
+                "verse",
+                "v31",
+                "note",
+                "x"
+              ],
+              "value": "#ch.9:1;12:10;Josh. 1:11"
+            },
+            {
+              "rowId": 222,
+              "keyParts": [
+                222,
+                "p5",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "to cross over the Jordan to go in to take possession of the land that the"
+            },
+            {
+              "rowId": 223,
+              "keyParts": [
+                223,
+                "p5",
+                "verse",
+                "v31",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 224,
+              "keyParts": [
+                224,
+                "p5",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "your God is giving you. And when you possess it and live in it,"
+            },
+            {
+              "rowId": 225,
+              "keyParts": [
+                "v031_ESV_DEU_011",
+                225,
+                "p5",
+                "verse",
+                "v31",
+                "plain_text"
+              ],
+              "value": "31 For you are to cross over the Jordan to go in to take possession of the land that the Lord your God is giving you. And when you possess it and live in it,"
+            },
+            {
+              "rowId": 226,
+              "keyParts": [
+                226,
+                "p5",
+                "verse",
+                "v32",
+                "label"
+              ],
+              "value": "32"
+            },
+            {
+              "rowId": 227,
+              "keyParts": [
+                227,
+                "p5",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "you shall be careful"
+            },
+            {
+              "rowId": 228,
+              "keyParts": [
+                228,
+                "p5",
+                "verse",
+                "v32",
+                "note",
+                "x"
+              ],
+              "value": "#ch.5:32;12:32"
+            },
+            {
+              "rowId": 229,
+              "keyParts": [
+                229,
+                "p5",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "to do all the statutes and the rules that I am setting before you today."
+            },
+            {
+              "rowId": 230,
+              "keyParts": [
+                "v032_ESV_DEU_011",
+                230,
+                "p5",
+                "verse",
+                "v32",
+                "plain_text"
+              ],
+              "value": "32 you shall be careful to do all the statutes and the rules that I am setting before you today."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

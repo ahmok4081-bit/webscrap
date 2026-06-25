@@ -1,0 +1,516 @@
+{
+  "translationId": "ESV",
+  "name": "English Standard Version",
+  "abbreviation": "ESV",
+  "language": "English",
+  "copyright": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.",
+  "books": [
+    {
+      "bookId": "LEV",
+      "testament": "OT",
+      "order": 3,
+      "title": "Leviticus",
+      "abbreviation": "LEV",
+      "chapters": [
+        {
+          "chapter": 12,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Purification After Childbirth"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "The"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "spoke to Moses, saying,"
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                "v001_ESV_LEV_012",
+                7,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 The Lord spoke to Moses, saying,"
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                9,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "“Speak to the people of Israel, saying, If a woman conceives and bears a male child, then"
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#[Luke 2:22]"
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                11,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "she shall be unclean seven days."
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                12,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#ch.15:19"
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                13,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "As at the time of her menstruation, she shall be unclean."
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                "v002_ESV_LEV_012",
+                14,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 “Speak to the people of Israel, saying, If a woman conceives and bears a male child, then she shall be unclean seven days. As at the time of her menstruation, she shall be unclean."
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                15,
+                "p1",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                16,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "And on the"
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                17,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#Gen. 17:12;Luke 1:59;2:21;John 7:22,23"
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "eighth day the flesh of his foreskin shall be circumcised."
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                "v003_ESV_LEV_012",
+                19,
+                "p1",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 And on the eighth day the flesh of his foreskin shall be circumcised."
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                20,
+                "p1",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "Then she shall continue for thirty-three days in the blood of her purifying. She shall not touch anything holy, nor come into the sanctuary, until the days of her purifying are completed."
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                "v004_ESV_LEV_012",
+                22,
+                "p1",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 Then she shall continue for thirty-three days in the blood of her purifying. She shall not touch anything holy, nor come into the sanctuary, until the days of her purifying are completed."
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "p1",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                24,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "But if she bears a female child, then she shall be unclean two weeks, as in her menstruation. And she shall continue in the blood of her purifying for sixty-six days."
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                "v005_ESV_LEV_012",
+                25,
+                "p1",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 But if she bears a female child, then she shall be unclean two weeks, as in her menstruation. And she shall continue in the blood of her purifying for sixty-six days."
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                26,
+                "p2",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                27,
+                "p2",
+                "verse",
+                "v6",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.2above]"
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                28,
+                "p2",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "“And when the days of her purifying are completed, whether for a son or for a daughter, she shall bring to the priest at the entrance of the tent of meeting a lamb a year old for a burnt offering, and a pigeon or a turtledove for a sin offering,"
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                "v006_ESV_LEV_012",
+                29,
+                "p2",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 “And when the days of her purifying are completed, whether for a son or for a daughter, she shall bring to the priest at the entrance of the tent of meeting a lamb a year old for a burnt offering, and a pigeon or a turtledove for a sin offering,"
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                30,
+                "p2",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                31,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "and he shall offer it before the"
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "p2",
+                "verse",
+                "v7",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                33,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "and make atonement for her. Then she shall be clean from the flow of her blood. This is the law for her who bears a child, either male or female."
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                "v007_ESV_LEV_012",
+                34,
+                "p2",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 and he shall offer it before the Lord and make atonement for her. Then she shall be clean from the flow of her blood. This is the law for her who bears a child, either male or female."
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                35,
+                "p2",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "And if she cannot afford a lamb, then she shall take"
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                37,
+                "p2",
+                "verse",
+                "v8",
+                "note",
+                "x"
+              ],
+              "value": "#ch.1:14;5:7;CitedLuke 2:24"
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                38,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "two turtledoves or two pigeons,"
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                39,
+                "p2",
+                "verse",
+                "v8",
+                "note",
+                "f"
+              ],
+              "value": "#12:8Septuaginttwo young pigeons"
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                40,
+                "p2",
+                "verse",
+                "v8",
+                "note",
+                "x"
+              ],
+              "value": "#ver.6"
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "one for a burnt offering and the other for a sin offering."
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "p2",
+                "verse",
+                "v8",
+                "note",
+                "x"
+              ],
+              "value": "#ch.4:26"
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                43,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "And the priest shall make atonement for her, and she shall be clean.”"
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                "v008_ESV_LEV_012",
+                44,
+                "p2",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 And if she cannot afford a lamb, then she shall take two turtledoves or two pigeons, one for a burnt offering and the other for a sin offering. And the priest shall make atonement for her, and she shall be clean.”"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

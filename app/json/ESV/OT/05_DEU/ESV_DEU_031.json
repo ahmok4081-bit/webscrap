@@ -1,0 +1,2939 @@
+{
+  "translationId": "ESV",
+  "name": "English Standard Version",
+  "abbreviation": "ESV",
+  "language": "English",
+  "copyright": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.",
+  "books": [
+    {
+      "bookId": "DEU",
+      "testament": "OT",
+      "order": 5,
+      "title": "Deuteronomy",
+      "abbreviation": "DEU",
+      "chapters": [
+        {
+          "chapter": 31,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "31"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Joshua to Succeed Moses"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "So Moses continued to speak these words to all Israel."
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                "v001_ESV_DEU_031",
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 So Moses continued to speak these words to all Israel."
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                7,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "And he said to them, “I am"
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#ch.34:7;[Ex. 7:7]"
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                9,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "120 years old today. I am no longer able to"
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#SeeNum. 27:17"
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                11,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "go out and come in. The"
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                12,
+                "p1",
+                "verse",
+                "v2",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                13,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "has said to me,"
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#ch.3:27;See ch.1:37"
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                15,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "‘You shall not go over this Jordan.’"
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                "v002_ESV_DEU_031",
+                16,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 And he said to them, “I am 120 years old today. I am no longer able to go out and come in. The Lord has said to me, ‘You shall not go over this Jordan.’"
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                17,
+                "p1",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "The"
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p1",
+                "verse",
+                "v3",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                20,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "your God"
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#ch.9:3"
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                22,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "himself will go over before you. He will destroy these nations before you, so that you shall dispossess them, and Joshua will go over at your head,"
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#ch.1:38;3:28;Num. 27:18,21"
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                24,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "as the"
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "p1",
+                "verse",
+                "v3",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                26,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "has spoken."
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                "v003_ESV_DEU_031",
+                27,
+                "p1",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 The Lord your God himself will go over before you. He will destroy these nations before you, so that you shall dispossess them, and Joshua will go over at your head, as the Lord has spoken."
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                28,
+                "p1",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                29,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "And the"
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                30,
+                "p1",
+                "verse",
+                "v4",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                31,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "will do to them"
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.2:31-35;Num. 21:21-25"
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                33,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "as he did to Sihon"
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                34,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.3:1-7;Num. 21:33-35"
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                35,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "and Og, the kings of the Amorites, and to their land, when he destroyed them."
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                "v004_ESV_DEU_031",
+                36,
+                "p1",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 And the Lord will do to them as he did to Sihon and Og, the kings of the Amorites, and to their land, when he destroyed them."
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                37,
+                "p1",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                38,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "And the"
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                39,
+                "p1",
+                "verse",
+                "v5",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                40,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "will give them over to you, and you shall do to them"
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p1",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.7:2"
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "according to the whole commandment that I have commanded you."
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                "v005_ESV_DEU_031",
+                43,
+                "p1",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 And the Lord will give them over to you, and you shall do to them according to the whole commandment that I have commanded you."
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                44,
+                "p1",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                45,
+                "p1",
+                "verse",
+                "v6",
+                "note",
+                "x"
+              ],
+              "value": "#ver.23;Josh. 1:6,7;10:25;1 Chr. 22:13;28:20"
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                46,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "Be strong and courageous. Do not fear or be in dread of them,"
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                47,
+                "p1",
+                "verse",
+                "v6",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.20:4"
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                48,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "for it is the"
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                49,
+                "p1",
+                "verse",
+                "v6",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "your God who goes with you."
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                51,
+                "p1",
+                "verse",
+                "v6",
+                "note",
+                "x"
+              ],
+              "value": "#Josh. 1:5"
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                52,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "He will not leave you or forsake you.”"
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                "v006_ESV_DEU_031",
+                53,
+                "p1",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 Be strong and courageous. Do not fear or be in dread of them, for it is the Lord your God who goes with you. He will not leave you or forsake you.”"
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                54,
+                "p2",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                55,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "Then"
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                56,
+                "p2",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#[ch.3:28]"
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                57,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "Moses summoned Joshua and said to him in the sight of all Israel,"
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                58,
+                "p2",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.6above]"
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                59,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "“Be strong and courageous, for you shall go with this people into the land that the"
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                60,
+                "p2",
+                "verse",
+                "v7",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                61,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "has sworn to their fathers to give them, and you shall put them in possession of it."
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                "v007_ESV_DEU_031",
+                62,
+                "p2",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 Then Moses summoned Joshua and said to him in the sight of all Israel, “Be strong and courageous, for you shall go with this people into the land that the Lord has sworn to their fathers to give them, and you shall put them in possession of it."
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                63,
+                "p2",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                64,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "It is the"
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                65,
+                "p2",
+                "verse",
+                "v8",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                66,
+                "p2",
+                "verse",
+                "v8",
+                "note",
+                "x"
+              ],
+              "value": "#SeeEx. 13:21"
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                67,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "who goes before you. He will be with you;"
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                68,
+                "p2",
+                "verse",
+                "v8",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.6above]"
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                69,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "he will not leave you or forsake you."
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                70,
+                "p2",
+                "verse",
+                "v8",
+                "note",
+                "x"
+              ],
+              "value": "#ch.1:21;7:18;Josh. 1:9;8:1;10:25"
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                71,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "Do not fear or be dismayed.”"
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "The Reading of the Law"
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                "v008_ESV_DEU_031",
+                73,
+                "p2",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 It is the Lord who goes before you. He will be with you; he will not leave you or forsake you. Do not fear or be dismayed.”"
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                74,
+                "p3",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                75,
+                "p3",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "Then Moses"
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                76,
+                "p3",
+                "verse",
+                "v9",
+                "note",
+                "x"
+              ],
+              "value": "#[ch.17:18]"
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                77,
+                "p3",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "wrote this law and gave it to the priests, the sons of Levi,"
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                78,
+                "p3",
+                "verse",
+                "v9",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 4:15;Josh. 3:3;8:33;1 Chr. 15:15"
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                79,
+                "p3",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "who carried the ark of the covenant of the"
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                80,
+                "p3",
+                "verse",
+                "v9",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                81,
+                "p3",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": ", and to all the elders of Israel."
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                "v009_ESV_DEU_031",
+                82,
+                "p3",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 Then Moses wrote this law and gave it to the priests, the sons of Levi, who carried the ark of the covenant of the Lord , and to all the elders of Israel."
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                83,
+                "p3",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                84,
+                "p3",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "And Moses commanded them,"
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                85,
+                "p3",
+                "verse",
+                "v10",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.15:1"
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                86,
+                "p3",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "“At the end of every seven years, at the set time in the year of release, at"
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                87,
+                "p3",
+                "verse",
+                "v10",
+                "note",
+                "x"
+              ],
+              "value": "#SeeLev. 23:34"
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                88,
+                "p3",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "the Feast of Booths,"
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                "v010_ESV_DEU_031",
+                89,
+                "p3",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 And Moses commanded them, “At the end of every seven years, at the set time in the year of release, at the Feast of Booths,"
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                90,
+                "p3",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                91,
+                "p3",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "when all Israel comes"
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                92,
+                "p3",
+                "verse",
+                "v11",
+                "note",
+                "x"
+              ],
+              "value": "#ch.16:16;Ex. 23:14,17;34:23"
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                93,
+                "p3",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "to appear before the"
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                94,
+                "p3",
+                "verse",
+                "v11",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                95,
+                "p3",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "your God at the place that he will choose,"
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                96,
+                "p3",
+                "verse",
+                "v11",
+                "note",
+                "x"
+              ],
+              "value": "#Josh. 8:34,35;2 Kgs. 23:2;SeeNeh. 8:1-3"
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                97,
+                "p3",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "you shall read this law before all Israel in their hearing."
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                "v011_ESV_DEU_031",
+                98,
+                "p3",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 when all Israel comes to appear before the Lord your God at the place that he will choose, you shall read this law before all Israel in their hearing."
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                99,
+                "p3",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                100,
+                "p3",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#ch.4:10"
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                101,
+                "p3",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "Assemble the people, men, women, and little ones, and the sojourner within your towns, that they may hear and learn to fear the"
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                102,
+                "p3",
+                "verse",
+                "v12",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                103,
+                "p3",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "your God, and be careful to do all the words of this law,"
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                "v012_ESV_DEU_031",
+                104,
+                "p3",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 Assemble the people, men, women, and little ones, and the sojourner within your towns, that they may hear and learn to fear the Lord your God, and be careful to do all the words of this law,"
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                105,
+                "p3",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                106,
+                "p3",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "and that their children,"
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                107,
+                "p3",
+                "verse",
+                "v13",
+                "note",
+                "x"
+              ],
+              "value": "#ch.11:2"
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                108,
+                "p3",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "who have not known it,"
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                109,
+                "p3",
+                "verse",
+                "v13",
+                "note",
+                "x"
+              ],
+              "value": "#Ps. 78:5,6"
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                110,
+                "p3",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "may hear and learn to fear the"
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                111,
+                "p3",
+                "verse",
+                "v13",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                112,
+                "p3",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "your God,"
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                113,
+                "p3",
+                "verse",
+                "v13",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.4:10"
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                114,
+                "p3",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "as long as you live in the land that you are going over the Jordan to possess.”"
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Joshua Commissioned to Lead Israel"
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                "v013_ESV_DEU_031",
+                116,
+                "p3",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 and that their children, who have not known it, may hear and learn to fear the Lord your God, as long as you live in the land that you are going over the Jordan to possess.”"
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                117,
+                "p4",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                118,
+                "p4",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "And the"
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                119,
+                "p4",
+                "verse",
+                "v14",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                120,
+                "p4",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "said to Moses,"
+            },
+            {
+              "rowId": 121,
+              "keyParts": [
+                121,
+                "p4",
+                "verse",
+                "v14",
+                "note",
+                "x"
+              ],
+              "value": "#[ch.34:5;Num. 27:13]"
+            },
+            {
+              "rowId": 122,
+              "keyParts": [
+                122,
+                "p4",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "“Behold, the days approach when you must die. Call Joshua and present yourselves in the tent of meeting, that"
+            },
+            {
+              "rowId": 123,
+              "keyParts": [
+                123,
+                "p4",
+                "verse",
+                "v14",
+                "note",
+                "x"
+              ],
+              "value": "#[ver. 23;Num. 27:19]"
+            },
+            {
+              "rowId": 124,
+              "keyParts": [
+                124,
+                "p4",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "I may commission him.” And Moses and Joshua went and presented themselves in the tent of meeting."
+            },
+            {
+              "rowId": 125,
+              "keyParts": [
+                "v014_ESV_DEU_031",
+                125,
+                "p4",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 And the Lord said to Moses, “Behold, the days approach when you must die. Call Joshua and present yourselves in the tent of meeting, that I may commission him.” And Moses and Joshua went and presented themselves in the tent of meeting."
+            },
+            {
+              "rowId": 126,
+              "keyParts": [
+                126,
+                "p4",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 127,
+              "keyParts": [
+                127,
+                "p4",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "And"
+            },
+            {
+              "rowId": 128,
+              "keyParts": [
+                128,
+                "p4",
+                "verse",
+                "v15",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 33:9;Num. 12:5"
+            },
+            {
+              "rowId": 129,
+              "keyParts": [
+                129,
+                "p4",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "the"
+            },
+            {
+              "rowId": 130,
+              "keyParts": [
+                130,
+                "p4",
+                "verse",
+                "v15",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 131,
+              "keyParts": [
+                131,
+                "p4",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "appeared in the tent in a pillar of cloud. And the pillar of cloud stood over the entrance of the tent."
+            },
+            {
+              "rowId": 132,
+              "keyParts": [
+                "v015_ESV_DEU_031",
+                132,
+                "p4",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 And the Lord appeared in the tent in a pillar of cloud. And the pillar of cloud stood over the entrance of the tent."
+            },
+            {
+              "rowId": 133,
+              "keyParts": [
+                133,
+                "p5",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 134,
+              "keyParts": [
+                134,
+                "p5",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "And the"
+            },
+            {
+              "rowId": 135,
+              "keyParts": [
+                135,
+                "p5",
+                "verse",
+                "v16",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 136,
+              "keyParts": [
+                136,
+                "p5",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "said to Moses,"
+            },
+            {
+              "rowId": 137,
+              "keyParts": [
+                137,
+                "p5",
+                "verse",
+                "v16",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.14above]"
+            },
+            {
+              "rowId": 138,
+              "keyParts": [
+                138,
+                "p5",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "“Behold, you are about to lie down with your fathers. Then this people will rise and"
+            },
+            {
+              "rowId": 139,
+              "keyParts": [
+                139,
+                "p5",
+                "verse",
+                "v16",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 34:15,16;Lev. 20:5;Num. 15:39"
+            },
+            {
+              "rowId": 140,
+              "keyParts": [
+                140,
+                "p5",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "whore after the foreign gods among them in the land that they are entering, and they will"
+            },
+            {
+              "rowId": 141,
+              "keyParts": [
+                141,
+                "p5",
+                "verse",
+                "v16",
+                "note",
+                "x"
+              ],
+              "value": "#ch.32:15;Judg. 2:12;10:6,13"
+            },
+            {
+              "rowId": 142,
+              "keyParts": [
+                142,
+                "p5",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "forsake me and"
+            },
+            {
+              "rowId": 143,
+              "keyParts": [
+                143,
+                "p5",
+                "verse",
+                "v16",
+                "note",
+                "x"
+              ],
+              "value": "#Judg. 2:20"
+            },
+            {
+              "rowId": 144,
+              "keyParts": [
+                144,
+                "p5",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "break my covenant that I have made with them."
+            },
+            {
+              "rowId": 145,
+              "keyParts": [
+                "v016_ESV_DEU_031",
+                145,
+                "p5",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 And the Lord said to Moses, “Behold, you are about to lie down with your fathers. Then this people will rise and whore after the foreign gods among them in the land that they are entering, and they will forsake me and break my covenant that I have made with them."
+            },
+            {
+              "rowId": 146,
+              "keyParts": [
+                146,
+                "p5",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 147,
+              "keyParts": [
+                147,
+                "p5",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "Then my anger will be kindled against them in that day, and"
+            },
+            {
+              "rowId": 148,
+              "keyParts": [
+                148,
+                "p5",
+                "verse",
+                "v17",
+                "note",
+                "x"
+              ],
+              "value": "#2 Chr. 12:5;15:2;24:20"
+            },
+            {
+              "rowId": 149,
+              "keyParts": [
+                149,
+                "p5",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "I will forsake them and"
+            },
+            {
+              "rowId": 150,
+              "keyParts": [
+                150,
+                "p5",
+                "verse",
+                "v17",
+                "note",
+                "x"
+              ],
+              "value": "#ch.32:20;Ps. 30:7;104:29;Isa. 8:17;64:7;[Isa. 59:2]"
+            },
+            {
+              "rowId": 151,
+              "keyParts": [
+                151,
+                "p5",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "hide my face from them, and they will be devoured. And many evils and troubles will come upon them, so that they will say in that day,"
+            },
+            {
+              "rowId": 152,
+              "keyParts": [
+                152,
+                "p5",
+                "verse",
+                "v17",
+                "note",
+                "x"
+              ],
+              "value": "#Judg. 6:13"
+            },
+            {
+              "rowId": 153,
+              "keyParts": [
+                153,
+                "p5",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "‘Have not these evils come upon us because"
+            },
+            {
+              "rowId": 154,
+              "keyParts": [
+                154,
+                "p5",
+                "verse",
+                "v17",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 14:42"
+            },
+            {
+              "rowId": 155,
+              "keyParts": [
+                155,
+                "p5",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "our God is not among us?’"
+            },
+            {
+              "rowId": 156,
+              "keyParts": [
+                "v017_ESV_DEU_031",
+                156,
+                "p5",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 Then my anger will be kindled against them in that day, and I will forsake them and hide my face from them, and they will be devoured. And many evils and troubles will come upon them, so that they will say in that day, ‘Have not these evils come upon us because our God is not among us?’"
+            },
+            {
+              "rowId": 157,
+              "keyParts": [
+                157,
+                "p5",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 158,
+              "keyParts": [
+                158,
+                "p5",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "And I will surely hide my face in that day because of all the evil that they have done, because"
+            },
+            {
+              "rowId": 159,
+              "keyParts": [
+                159,
+                "p5",
+                "verse",
+                "v18",
+                "note",
+                "x"
+              ],
+              "value": "#ver.20"
+            },
+            {
+              "rowId": 160,
+              "keyParts": [
+                160,
+                "p5",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "they have turned to other gods."
+            },
+            {
+              "rowId": 161,
+              "keyParts": [
+                "v018_ESV_DEU_031",
+                161,
+                "p5",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 And I will surely hide my face in that day because of all the evil that they have done, because they have turned to other gods."
+            },
+            {
+              "rowId": 162,
+              "keyParts": [
+                162,
+                "p6",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 163,
+              "keyParts": [
+                163,
+                "p6",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "“Now therefore write"
+            },
+            {
+              "rowId": 164,
+              "keyParts": [
+                164,
+                "p6",
+                "verse",
+                "v19",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.32:1-43"
+            },
+            {
+              "rowId": 165,
+              "keyParts": [
+                165,
+                "p6",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "this song and"
+            },
+            {
+              "rowId": 166,
+              "keyParts": [
+                166,
+                "p6",
+                "verse",
+                "v19",
+                "note",
+                "x"
+              ],
+              "value": "#[2 Sam. 1:18]"
+            },
+            {
+              "rowId": 167,
+              "keyParts": [
+                167,
+                "p6",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "teach it to the people of Israel. Put it in their mouths, that this song may be"
+            },
+            {
+              "rowId": 168,
+              "keyParts": [
+                168,
+                "p6",
+                "verse",
+                "v19",
+                "note",
+                "x"
+              ],
+              "value": "#ver.21, 26"
+            },
+            {
+              "rowId": 169,
+              "keyParts": [
+                169,
+                "p6",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "a witness for me against the people of Israel."
+            },
+            {
+              "rowId": 170,
+              "keyParts": [
+                "v019_ESV_DEU_031",
+                170,
+                "p6",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 “Now therefore write this song and teach it to the people of Israel. Put it in their mouths, that this song may be a witness for me against the people of Israel."
+            },
+            {
+              "rowId": 171,
+              "keyParts": [
+                171,
+                "p6",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 172,
+              "keyParts": [
+                172,
+                "p6",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "For when I have brought them into the land"
+            },
+            {
+              "rowId": 173,
+              "keyParts": [
+                173,
+                "p6",
+                "verse",
+                "v20",
+                "note",
+                "x"
+              ],
+              "value": "#SeeEx. 3:8"
+            },
+            {
+              "rowId": 174,
+              "keyParts": [
+                174,
+                "p6",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "flowing with milk and honey, which I swore to give to their fathers, and they have eaten and are full and"
+            },
+            {
+              "rowId": 175,
+              "keyParts": [
+                175,
+                "p6",
+                "verse",
+                "v20",
+                "note",
+                "x"
+              ],
+              "value": "#ch.32:15;Neh. 9:25,26;Jer. 5:28;Hos. 13:6"
+            },
+            {
+              "rowId": 176,
+              "keyParts": [
+                176,
+                "p6",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "grown fat,"
+            },
+            {
+              "rowId": 177,
+              "keyParts": [
+                177,
+                "p6",
+                "verse",
+                "v20",
+                "note",
+                "x"
+              ],
+              "value": "#ver.18"
+            },
+            {
+              "rowId": 178,
+              "keyParts": [
+                178,
+                "p6",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "they will turn to other gods and serve them, and"
+            },
+            {
+              "rowId": 179,
+              "keyParts": [
+                179,
+                "p6",
+                "verse",
+                "v20",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 14:11,23;16:30"
+            },
+            {
+              "rowId": 180,
+              "keyParts": [
+                180,
+                "p6",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "despise me and"
+            },
+            {
+              "rowId": 181,
+              "keyParts": [
+                181,
+                "p6",
+                "verse",
+                "v20",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.16above]"
+            },
+            {
+              "rowId": 182,
+              "keyParts": [
+                182,
+                "p6",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "break my covenant."
+            },
+            {
+              "rowId": 183,
+              "keyParts": [
+                "v020_ESV_DEU_031",
+                183,
+                "p6",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 For when I have brought them into the land flowing with milk and honey, which I swore to give to their fathers, and they have eaten and are full and grown fat, they will turn to other gods and serve them, and despise me and break my covenant."
+            },
+            {
+              "rowId": 184,
+              "keyParts": [
+                184,
+                "p6",
+                "verse",
+                "v21",
+                "label"
+              ],
+              "value": "21"
+            },
+            {
+              "rowId": 185,
+              "keyParts": [
+                185,
+                "p6",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "And when many evils and troubles have come upon them, this song shall confront them as"
+            },
+            {
+              "rowId": 186,
+              "keyParts": [
+                186,
+                "p6",
+                "verse",
+                "v21",
+                "note",
+                "x"
+              ],
+              "value": "#ver.19, 26"
+            },
+            {
+              "rowId": 187,
+              "keyParts": [
+                187,
+                "p6",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "a witness (for it will live unforgotten in the mouths of their offspring). For"
+            },
+            {
+              "rowId": 188,
+              "keyParts": [
+                188,
+                "p6",
+                "verse",
+                "v21",
+                "note",
+                "x"
+              ],
+              "value": "#[Hos. 5:3;13:5]"
+            },
+            {
+              "rowId": 189,
+              "keyParts": [
+                189,
+                "p6",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "I know what they are inclined to do even today, before I have brought them into the land that I swore to give.”"
+            },
+            {
+              "rowId": 190,
+              "keyParts": [
+                "v021_ESV_DEU_031",
+                190,
+                "p6",
+                "verse",
+                "v21",
+                "plain_text"
+              ],
+              "value": "21 And when many evils and troubles have come upon them, this song shall confront them as a witness (for it will live unforgotten in the mouths of their offspring). For I know what they are inclined to do even today, before I have brought them into the land that I swore to give.”"
+            },
+            {
+              "rowId": 191,
+              "keyParts": [
+                191,
+                "p6",
+                "verse",
+                "v22",
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 192,
+              "keyParts": [
+                192,
+                "p6",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "So Moses wrote this song the same day and taught it to the people of Israel."
+            },
+            {
+              "rowId": 193,
+              "keyParts": [
+                "v022_ESV_DEU_031",
+                193,
+                "p6",
+                "verse",
+                "v22",
+                "plain_text"
+              ],
+              "value": "22 So Moses wrote this song the same day and taught it to the people of Israel."
+            },
+            {
+              "rowId": 194,
+              "keyParts": [
+                194,
+                "p7",
+                "verse",
+                "v23",
+                "label"
+              ],
+              "value": "23"
+            },
+            {
+              "rowId": 195,
+              "keyParts": [
+                195,
+                "p7",
+                "verse",
+                "v23",
+                "note",
+                "x"
+              ],
+              "value": "#[ver.14]"
+            },
+            {
+              "rowId": 196,
+              "keyParts": [
+                196,
+                "p7",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "And the"
+            },
+            {
+              "rowId": 197,
+              "keyParts": [
+                197,
+                "p7",
+                "verse",
+                "v23",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 198,
+              "keyParts": [
+                198,
+                "p7",
+                "verse",
+                "v23",
+                "note",
+                "f"
+              ],
+              "value": "#31:23Hebrewhe"
+            },
+            {
+              "rowId": 199,
+              "keyParts": [
+                199,
+                "p7",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "commissioned Joshua the son of Nun and said,"
+            },
+            {
+              "rowId": 200,
+              "keyParts": [
+                200,
+                "p7",
+                "verse",
+                "v23",
+                "note",
+                "x"
+              ],
+              "value": "#Seever.6"
+            },
+            {
+              "rowId": 201,
+              "keyParts": [
+                201,
+                "p7",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "“Be strong and courageous, for you shall bring the people of Israel into the land that I swore to give them."
+            },
+            {
+              "rowId": 202,
+              "keyParts": [
+                202,
+                "p7",
+                "verse",
+                "v23",
+                "note",
+                "x"
+              ],
+              "value": "#ver.8;Josh. 1:5;3:7"
+            },
+            {
+              "rowId": 203,
+              "keyParts": [
+                203,
+                "p7",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "I will be with you.”"
+            },
+            {
+              "rowId": 204,
+              "keyParts": [
+                "v023_ESV_DEU_031",
+                204,
+                "p7",
+                "verse",
+                "v23",
+                "plain_text"
+              ],
+              "value": "23 And the Lord commissioned Joshua the son of Nun and said, “Be strong and courageous, for you shall bring the people of Israel into the land that I swore to give them. I will be with you.”"
+            },
+            {
+              "rowId": 205,
+              "keyParts": [
+                205,
+                "p8",
+                "verse",
+                "v24",
+                "label"
+              ],
+              "value": "24"
+            },
+            {
+              "rowId": 206,
+              "keyParts": [
+                206,
+                "p8",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "When Moses had finished"
+            },
+            {
+              "rowId": 207,
+              "keyParts": [
+                207,
+                "p8",
+                "verse",
+                "v24",
+                "note",
+                "x"
+              ],
+              "value": "#ver.9"
+            },
+            {
+              "rowId": 208,
+              "keyParts": [
+                208,
+                "p8",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "writing the words of this law in a book to the very end,"
+            },
+            {
+              "rowId": 209,
+              "keyParts": [
+                "v024_ESV_DEU_031",
+                209,
+                "p8",
+                "verse",
+                "v24",
+                "plain_text"
+              ],
+              "value": "24 When Moses had finished writing the words of this law in a book to the very end,"
+            },
+            {
+              "rowId": 210,
+              "keyParts": [
+                210,
+                "p8",
+                "verse",
+                "v25",
+                "label"
+              ],
+              "value": "25"
+            },
+            {
+              "rowId": 211,
+              "keyParts": [
+                211,
+                "p8",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "Moses commanded"
+            },
+            {
+              "rowId": 212,
+              "keyParts": [
+                212,
+                "p8",
+                "verse",
+                "v25",
+                "note",
+                "x"
+              ],
+              "value": "#Seever.9"
+            },
+            {
+              "rowId": 213,
+              "keyParts": [
+                213,
+                "p8",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "the Levites who carried the ark of the covenant of the"
+            },
+            {
+              "rowId": 214,
+              "keyParts": [
+                214,
+                "p8",
+                "verse",
+                "v25",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 215,
+              "keyParts": [
+                215,
+                "p8",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": ","
+            },
+            {
+              "rowId": 216,
+              "keyParts": [
+                "v025_ESV_DEU_031",
+                216,
+                "p8",
+                "verse",
+                "v25",
+                "plain_text"
+              ],
+              "value": "25 Moses commanded the Levites who carried the ark of the covenant of the Lord ,"
+            },
+            {
+              "rowId": 217,
+              "keyParts": [
+                217,
+                "p8",
+                "verse",
+                "v26",
+                "label"
+              ],
+              "value": "26"
+            },
+            {
+              "rowId": 218,
+              "keyParts": [
+                218,
+                "p8",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "“Take this Book of the Law"
+            },
+            {
+              "rowId": 219,
+              "keyParts": [
+                219,
+                "p8",
+                "verse",
+                "v26",
+                "note",
+                "x"
+              ],
+              "value": "#[2 Kgs. 22:8]"
+            },
+            {
+              "rowId": 220,
+              "keyParts": [
+                220,
+                "p8",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "and put it by the side of the ark of the covenant of the"
+            },
+            {
+              "rowId": 221,
+              "keyParts": [
+                221,
+                "p8",
+                "verse",
+                "v26",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 222,
+              "keyParts": [
+                222,
+                "p8",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "your God, that it may be there for"
+            },
+            {
+              "rowId": 223,
+              "keyParts": [
+                223,
+                "p8",
+                "verse",
+                "v26",
+                "note",
+                "x"
+              ],
+              "value": "#ver.19, 21"
+            },
+            {
+              "rowId": 224,
+              "keyParts": [
+                224,
+                "p8",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "a witness against you."
+            },
+            {
+              "rowId": 225,
+              "keyParts": [
+                "v026_ESV_DEU_031",
+                225,
+                "p8",
+                "verse",
+                "v26",
+                "plain_text"
+              ],
+              "value": "26 “Take this Book of the Law and put it by the side of the ark of the covenant of the Lord your God, that it may be there for a witness against you."
+            },
+            {
+              "rowId": 226,
+              "keyParts": [
+                226,
+                "p8",
+                "verse",
+                "v27",
+                "label"
+              ],
+              "value": "27"
+            },
+            {
+              "rowId": 227,
+              "keyParts": [
+                227,
+                "p8",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "For I know how rebellious and"
+            },
+            {
+              "rowId": 228,
+              "keyParts": [
+                228,
+                "p8",
+                "verse",
+                "v27",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.9:6"
+            },
+            {
+              "rowId": 229,
+              "keyParts": [
+                229,
+                "p8",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "stubborn you are. Behold, even today while I am yet alive with you,"
+            },
+            {
+              "rowId": 230,
+              "keyParts": [
+                230,
+                "p8",
+                "verse",
+                "v27",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.9:7"
+            },
+            {
+              "rowId": 231,
+              "keyParts": [
+                231,
+                "p8",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "you have been rebellious against the"
+            },
+            {
+              "rowId": 232,
+              "keyParts": [
+                232,
+                "p8",
+                "verse",
+                "v27",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 233,
+              "keyParts": [
+                233,
+                "p8",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": ". How much more after my death!"
+            },
+            {
+              "rowId": 234,
+              "keyParts": [
+                "v027_ESV_DEU_031",
+                234,
+                "p8",
+                "verse",
+                "v27",
+                "plain_text"
+              ],
+              "value": "27 For I know how rebellious and stubborn you are. Behold, even today while I am yet alive with you, you have been rebellious against the Lord . How much more after my death!"
+            },
+            {
+              "rowId": 235,
+              "keyParts": [
+                235,
+                "p8",
+                "verse",
+                "v28",
+                "label"
+              ],
+              "value": "28"
+            },
+            {
+              "rowId": 236,
+              "keyParts": [
+                236,
+                "p8",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "Assemble to me all the elders of your tribes and your officers, that I may speak"
+            },
+            {
+              "rowId": 237,
+              "keyParts": [
+                237,
+                "p8",
+                "verse",
+                "v28",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.32:1-43"
+            },
+            {
+              "rowId": 238,
+              "keyParts": [
+                238,
+                "p8",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "these words in their ears and"
+            },
+            {
+              "rowId": 239,
+              "keyParts": [
+                239,
+                "p8",
+                "verse",
+                "v28",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.4:26"
+            },
+            {
+              "rowId": 240,
+              "keyParts": [
+                240,
+                "p8",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "call heaven and earth to witness against them."
+            },
+            {
+              "rowId": 241,
+              "keyParts": [
+                "v028_ESV_DEU_031",
+                241,
+                "p8",
+                "verse",
+                "v28",
+                "plain_text"
+              ],
+              "value": "28 Assemble to me all the elders of your tribes and your officers, that I may speak these words in their ears and call heaven and earth to witness against them."
+            },
+            {
+              "rowId": 242,
+              "keyParts": [
+                242,
+                "p8",
+                "verse",
+                "v29",
+                "label"
+              ],
+              "value": "29"
+            },
+            {
+              "rowId": 243,
+              "keyParts": [
+                243,
+                "p8",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "For I know that after my death"
+            },
+            {
+              "rowId": 244,
+              "keyParts": [
+                244,
+                "p8",
+                "verse",
+                "v29",
+                "note",
+                "x"
+              ],
+              "value": "#Judg. 2:19;Hos. 9:9"
+            },
+            {
+              "rowId": 245,
+              "keyParts": [
+                245,
+                "p8",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "you will surely act corruptly and turn aside from the way that I have commanded you. And"
+            },
+            {
+              "rowId": 246,
+              "keyParts": [
+                246,
+                "p8",
+                "verse",
+                "v29",
+                "note",
+                "x"
+              ],
+              "value": "#SeeGen. 49:1"
+            },
+            {
+              "rowId": 247,
+              "keyParts": [
+                247,
+                "p8",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "in the days to come"
+            },
+            {
+              "rowId": 248,
+              "keyParts": [
+                248,
+                "p8",
+                "verse",
+                "v29",
+                "note",
+                "x"
+              ],
+              "value": "#[Jer. 44:23]"
+            },
+            {
+              "rowId": 249,
+              "keyParts": [
+                249,
+                "p8",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "evil will befall you, because you will do what is evil in the sight of the"
+            },
+            {
+              "rowId": 250,
+              "keyParts": [
+                250,
+                "p8",
+                "verse",
+                "v29",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 251,
+              "keyParts": [
+                251,
+                "p8",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": ","
+            },
+            {
+              "rowId": 252,
+              "keyParts": [
+                252,
+                "p8",
+                "verse",
+                "v29",
+                "note",
+                "x"
+              ],
+              "value": "#ch.4:25;9:18;32:16,21;1 Kgs. 16:7;2 Kgs. 22:17"
+            },
+            {
+              "rowId": 253,
+              "keyParts": [
+                253,
+                "p8",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "provoking him to anger through the work of your hands.”"
+            },
+            {
+              "rowId": 254,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "The Song of Moses"
+            },
+            {
+              "rowId": 255,
+              "keyParts": [
+                "v029_ESV_DEU_031",
+                255,
+                "p8",
+                "verse",
+                "v29",
+                "plain_text"
+              ],
+              "value": "29 For I know that after my death you will surely act corruptly and turn aside from the way that I have commanded you. And in the days to come evil will befall you, because you will do what is evil in the sight of the Lord , provoking him to anger through the work of your hands.”"
+            },
+            {
+              "rowId": 256,
+              "keyParts": [
+                256,
+                "p9",
+                "verse",
+                "v30",
+                "label"
+              ],
+              "value": "30"
+            },
+            {
+              "rowId": 257,
+              "keyParts": [
+                257,
+                "p9",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "Then Moses spoke the words of this song until they were finished, in the ears of all the assembly of Israel:"
+            },
+            {
+              "rowId": 258,
+              "keyParts": [
+                "v030_ESV_DEU_031",
+                258,
+                "p9",
+                "verse",
+                "v30",
+                "plain_text"
+              ],
+              "value": "30 Then Moses spoke the words of this song until they were finished, in the ears of all the assembly of Israel:"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

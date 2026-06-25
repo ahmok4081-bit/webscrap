@@ -1,0 +1,2546 @@
+{
+  "translationId": "NET",
+  "name": "New English Translation",
+  "abbreviation": "NET",
+  "language": "English",
+  "copyright": "1996 - 2007 by Biblical Studies Press, LLC",
+  "books": [
+    {
+      "bookId": "GEN",
+      "testament": "",
+      "order": 0,
+      "title": "Genesis",
+      "abbreviation": "GEN",
+      "chapters": [
+        {
+          "chapter": 21,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "21"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "The Birth of Isaac"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "The"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "visited"
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                7,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "f"
+              ],
+              "value": "sn The Hebrew verb translated “visit” (פָּקַד, paqad ) often describes divine intervention for blessing or cursing; it indicates God’s special attention to an individual or a matter, always with respect to his people’s destiny. He may visit (that is, destroy) the Amalekites; he may visit (that is, deliver) his people in Egypt. Here he visits Sarah, to allow her to have the promised child. One’s destiny is changed when the Lord “visits.” For a more detailed study of the term, see G. André, Determining the Destiny (ConBOT)."
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "Sarah just as he had said he would and did"
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                9,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and the Lord did.” The divine name has not been repeated here in the translation for stylistic reasons."
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "for Sarah what he had promised."
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                11,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “spoken.”"
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                "v001_NET_GEN_021",
+                12,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 The Lord visited Sarah just as he had said he would and did for Sarah what he had promised."
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                13,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "So Sarah became pregnant"
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                15,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "f"
+              ],
+              "value": "tn Or “she conceived.”"
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                16,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "and bore Abraham a son in his old age at the appointed time that God had told him."
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                "v002_NET_GEN_021",
+                17,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 So Sarah became pregnant and bore Abraham a son in his old age at the appointed time that God had told him."
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "p1",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "Abraham named his son – whom Sarah bore to him – Isaac."
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                20,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “the one born to him, whom Sarah bore to him, Isaac.” The two modifying clauses, the first introduced with an article and the second with the relative pronoun, are placed in the middle of the sentence, before the name Isaac is stated. They are meant to underscore that this was indeed an actual birth to Abraham and Sarah in fulfillment of the promise."
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                "v003_NET_GEN_021",
+                21,
+                "p1",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 Abraham named his son – whom Sarah bore to him – Isaac."
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                22,
+                "p1",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "When his son Isaac was eight days old,"
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                24,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “Isaac his son, the son of eight days.” The name “Isaac” is repeated in the translation for clarity."
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "Abraham circumcised him just as God had commanded him to do."
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                26,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "f"
+              ],
+              "value": "sn Just as God had commanded him to do. With the birth of the promised child, Abraham obeyed the Lord by both naming (Gen 17:19) and circumcising Isaac (17:12)."
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                "v004_NET_GEN_021",
+                27,
+                "p1",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 When his son Isaac was eight days old, Abraham circumcised him just as God had commanded him to do."
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                28,
+                "p1",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                29,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "(Now Abraham was a hundred years old when his son Isaac was born to him.)"
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                30,
+                "p1",
+                "verse",
+                "v5",
+                "note",
+                "f"
+              ],
+              "value": "tn The parenthetical disjunctive clause underscores how miraculous this birth was. Abraham was 100 years old. The fact that the genealogies give the ages of the fathers when their first son is born shows that this was considered a major milestone in one’s life (G. J. Wenham, Genesis [WBC], 2:80)."
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                "v005_NET_GEN_021",
+                31,
+                "p1",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 (Now Abraham was a hundred years old when his son Isaac was born to him.)"
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "p2",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                33,
+                "p2",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "Sarah said, “God has made me laugh."
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                34,
+                "p2",
+                "verse",
+                "v6",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “Laughter God has made for me.”"
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                35,
+                "p2",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "Everyone who hears about this"
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "p2",
+                "verse",
+                "v6",
+                "note",
+                "f"
+              ],
+              "value": "tn The words “about this” are supplied in the translation for clarification."
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                37,
+                "p2",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "will laugh"
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                38,
+                "p2",
+                "verse",
+                "v6",
+                "note",
+                "f"
+              ],
+              "value": "sn Sarah’s words play on the name “Isaac” in a final triumphant manner. God prepared “laughter” (צְחֹק, ysÿkhoq ) for her, and everyone who hears about this “will laugh” (יִצְחַק, yitskhaq ) with her. The laughter now signals great joy and fulfillment, not unbelief (cf. Gen 18:12-15)."
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                39,
+                "p2",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "with me.”"
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                "v006_NET_GEN_021",
+                40,
+                "p2",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 Sarah said, “God has made me laugh. Everyone who hears about this will laugh with me.”"
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p2",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "She went on to say,"
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                43,
+                "p2",
+                "verse",
+                "v7",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “said.”"
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                44,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "“Who would"
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                45,
+                "p2",
+                "verse",
+                "v7",
+                "note",
+                "f"
+              ],
+              "value": "tn The perfect form of the verb is used here to describe a hypothetical situation."
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                46,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "have said to Abraham that Sarah would nurse children? Yet I have given birth to a son for him in his old age!”"
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                "v007_NET_GEN_021",
+                47,
+                "p2",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 She went on to say, “Who would have said to Abraham that Sarah would nurse children? Yet I have given birth to a son for him in his old age!”"
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                48,
+                "p3",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                49,
+                "p3",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "The child grew and was weaned. Abraham prepared"
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "p3",
+                "verse",
+                "v8",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “made.”"
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                51,
+                "p3",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "a great feast on the day that Isaac was weaned."
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                52,
+                "p3",
+                "verse",
+                "v8",
+                "note",
+                "f"
+              ],
+              "value": "sn Children were weaned closer to the age of two or three in the ancient world, because infant mortality was high. If an infant grew to this stage, it was fairly certain he or she would live. Such an event called for a celebration, especially for parents who had waited so long for a child."
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                "v008_NET_GEN_021",
+                53,
+                "p3",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 The child grew and was weaned. Abraham prepared a great feast on the day that Isaac was weaned."
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                54,
+                "p3",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                55,
+                "p3",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "But Sarah noticed"
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                56,
+                "p3",
+                "verse",
+                "v9",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “saw.”"
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                57,
+                "p3",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "the son of Hagar the Egyptian – the son whom Hagar had borne to Abraham – mocking."
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                58,
+                "p3",
+                "verse",
+                "v9",
+                "note",
+                "f"
+              ],
+              "value": "tn The Piel participle used here is from the same root as the name “Isaac.” In the Piel stem the verb means “to jest; to make sport of; to play with,” not simply “to laugh,” which is the meaning of the verb in the Qal stem. What exactly Ishmael was doing is not clear. Interpreters have generally concluded that the boy was either (1) mocking Isaac (cf. NASB, NIV, NLT) or (2) merely playing with Isaac as if on equal footing (cf. NAB, NRSV). In either case Sarah saw it as a threat. The same participial form was used in Gen 19:14 to describe how some in Lot’s family viewed his attempt to warn them of impending doom. It also appears later in Gen 39:14, 17, where Potiphar accuses Joseph of mocking them.\nsn Mocking. Here Sarah interprets Ishmael’s actions as being sinister. Ishmael probably did not take the younger child seriously and Sarah saw this as a threat to Isaac. Paul in Gal 4:29 says that Ishmael persecuted Isaac. He uses a Greek word that can mean “to put to flight; to chase away; to pursue” and may be drawing on a rabbinic interpretation of the passage. In Paul’s analogical application of the passage, he points out that once the promised child Isaac (symbolizing Christ as the fulfillment of God’s promise) has come, there is no room left for the slave woman and her son (who symbolize the Mosaic law)."
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                "v009_NET_GEN_021",
+                59,
+                "p3",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 But Sarah noticed the son of Hagar the Egyptian – the son whom Hagar had borne to Abraham – mocking."
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                60,
+                "p3",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                61,
+                "p3",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "So she said to Abraham, “Banish"
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                62,
+                "p3",
+                "verse",
+                "v10",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “drive out.” The language may seem severe, but Sarah’s maternal instincts sensed a real danger in that Ishmael was not treating Isaac with the proper respect."
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                63,
+                "p3",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "that slave woman and her son, for the son of that slave woman will not be an heir along with my son Isaac!”"
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                "v010_NET_GEN_021",
+                64,
+                "p3",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 So she said to Abraham, “Banish that slave woman and her son, for the son of that slave woman will not be an heir along with my son Isaac!”"
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                65,
+                "p4",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                66,
+                "p4",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "Sarah’s demand displeased Abraham greatly because Ishmael was his son."
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                67,
+                "p4",
+                "verse",
+                "v11",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and the word was very wrong in the eyes of Abraham on account of his son.” The verb רָעַע (ra’a’) often refers to what is morally or ethically “evil.” It usage here suggests that Abraham thought Sarah’s demand was ethically (and perhaps legally) wrong."
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                "v011_NET_GEN_021",
+                68,
+                "p4",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 Sarah’s demand displeased Abraham greatly because Ishmael was his son."
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                69,
+                "p4",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                70,
+                "p4",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "But God said to Abraham, “Do not be upset"
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                71,
+                "p4",
+                "verse",
+                "v12",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “Let it not be evil in your eyes.”"
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                72,
+                "p4",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "about the boy or your slave wife. Do"
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                73,
+                "p4",
+                "verse",
+                "v12",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “listen to her voice.” The idiomatic expression means “obey; comply.” Here her advice, though harsh, is necessary and conforms to the will of God. Later (see Gen 25), when Abraham has other sons, he sends them all away as well."
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                74,
+                "p4",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "all that Sarah is telling"
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                75,
+                "p4",
+                "verse",
+                "v12",
+                "note",
+                "f"
+              ],
+              "value": "tn The imperfect verbal form here draws attention to an action that is underway."
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                76,
+                "p4",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "you because through Isaac your descendants will be counted."
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                77,
+                "p4",
+                "verse",
+                "v12",
+                "note",
+                "f"
+              ],
+              "value": "tn Or perhaps “will be named”; Heb “for in Isaac offspring will be called to you.” The exact meaning of the statement is not clear, but it does indicate that God’s covenantal promises to Abraham will be realized through Isaac, not Ishmael."
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                "v012_NET_GEN_021",
+                78,
+                "p4",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 But God said to Abraham, “Do not be upset about the boy or your slave wife. Do all that Sarah is telling you because through Isaac your descendants will be counted."
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                79,
+                "p4",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                80,
+                "p4",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "But I will also make the son of the slave wife into a great nation, for he is your descendant too.”"
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                "v013_NET_GEN_021",
+                81,
+                "p4",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 But I will also make the son of the slave wife into a great nation, for he is your descendant too.”"
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                82,
+                "p5",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                83,
+                "p5",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "Early in the morning Abraham took"
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                84,
+                "p5",
+                "verse",
+                "v14",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and Abraham rose up early in the morning and he took.”"
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                85,
+                "p5",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "some food"
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                86,
+                "p5",
+                "verse",
+                "v14",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “bread,” although the term can be used for food in general."
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                87,
+                "p5",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "and a skin of water and gave them to Hagar. He put them on her shoulders, gave her the child,"
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                88,
+                "p5",
+                "verse",
+                "v14",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “He put upon her shoulder, and the boy [or perhaps, “and with the boy”], and he sent her away.” It is unclear how “and the boy” relates syntactically to what precedes. Perhaps the words should be rearranged and the text read, “and he put [them] on her shoulder and he gave to Hagar the boy.”"
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                89,
+                "p5",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "and sent her away. So she went wandering"
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                90,
+                "p5",
+                "verse",
+                "v14",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “she went and wandered.”"
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                91,
+                "p5",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "aimlessly through the wilderness"
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                92,
+                "p5",
+                "verse",
+                "v14",
+                "note",
+                "f"
+              ],
+              "value": "tn Or “desert,” although for English readers this usually connotes a sandy desert like the Sahara rather than the arid wasteland of this region with its sparse vegetation."
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                93,
+                "p5",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "of Beer Sheba."
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                "v014_NET_GEN_021",
+                94,
+                "p5",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 Early in the morning Abraham took some food and a skin of water and gave them to Hagar. He put them on her shoulders, gave her the child, and sent her away. So she went wandering aimlessly through the wilderness of Beer Sheba."
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                95,
+                "p5",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                96,
+                "p5",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "When the water in the skin was gone, she shoved"
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                97,
+                "p5",
+                "verse",
+                "v15",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “threw,” but the child, who was now thirteen years old, would not have been carried, let alone thrown under a bush. The exaggerated language suggests Ishmael is limp from dehydration and is being abandoned to die. See G. J. Wenham, Genesis (WBC), 2:85."
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                98,
+                "p5",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "the child under one of the shrubs."
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                "v015_NET_GEN_021",
+                99,
+                "p5",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 When the water in the skin was gone, she shoved the child under one of the shrubs."
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                100,
+                "p5",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                101,
+                "p5",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "Then she went and sat down by herself across from him at quite a distance, about a bowshot"
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                102,
+                "p5",
+                "verse",
+                "v16",
+                "note",
+                "f"
+              ],
+              "value": "sn A bowshot would be a distance of about a hundred yards (ninety meters)."
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                103,
+                "p5",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "away; for she thought,"
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                104,
+                "p5",
+                "verse",
+                "v16",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “said.”"
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                105,
+                "p5",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "“I refuse to watch the child die.”"
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                106,
+                "p5",
+                "verse",
+                "v16",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “I will not look on the death of the child.” The cohortative verbal form (note the negative particle אַל,’al) here expresses her resolve to avoid the stated action."
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                107,
+                "p5",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "So she sat across from him and wept uncontrollably."
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                108,
+                "p5",
+                "verse",
+                "v16",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and she lifted up her voice and wept” (that is, she wept uncontrollably). The LXX reads “he” (referring to Ishmael) rather than “she” (referring to Hagar), but this is probably an attempt to harmonize this verse with the following one, which refers to the boy’s cries."
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                "v016_NET_GEN_021",
+                109,
+                "p5",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 Then she went and sat down by herself across from him at quite a distance, about a bowshot away; for she thought, “I refuse to watch the child die.” So she sat across from him and wept uncontrollably."
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                110,
+                "p6",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                111,
+                "p6",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "But God heard the boy’s voice."
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                112,
+                "p6",
+                "verse",
+                "v17",
+                "note",
+                "f"
+              ],
+              "value": "sn God heard the boy’s voice. The text has not to this point indicated that Ishmael was crying out, either in pain or in prayer. But the text here makes it clear that God heard him. Ishmael is clearly central to the story. Both the mother and the Lord are focused on the child’s imminent death."
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                113,
+                "p6",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "The angel of God called to Hagar from heaven and asked her, “What is the matter,"
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                114,
+                "p6",
+                "verse",
+                "v17",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “What to you?”"
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                115,
+                "p6",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "Hagar? Don’t be afraid, for God has heard"
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                116,
+                "p6",
+                "verse",
+                "v17",
+                "note",
+                "f"
+              ],
+              "value": "sn Here the verb heard picks up the main motif of the name Ishmael (“God hears”), introduced back in chap. 16."
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                117,
+                "p6",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "the boy’s voice right where he is crying."
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                "v017_NET_GEN_021",
+                118,
+                "p6",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 But God heard the boy’s voice. The angel of God called to Hagar from heaven and asked her, “What is the matter, Hagar? Don’t be afraid, for God has heard the boy’s voice right where he is crying."
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                119,
+                "p6",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                120,
+                "p6",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "Get up! Help the boy up and hold him by the hand, for I will make him into a great nation.”"
+            },
+            {
+              "rowId": 121,
+              "keyParts": [
+                "v018_NET_GEN_021",
+                121,
+                "p6",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 Get up! Help the boy up and hold him by the hand, for I will make him into a great nation.”"
+            },
+            {
+              "rowId": 122,
+              "keyParts": [
+                122,
+                "p6",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 123,
+              "keyParts": [
+                123,
+                "p6",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "Then God enabled Hagar to see a well of water."
+            },
+            {
+              "rowId": 124,
+              "keyParts": [
+                124,
+                "p6",
+                "verse",
+                "v19",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “And God opened her eyes and she saw a well of water.” The referent (Hagar) has been specified in the translation for clarity."
+            },
+            {
+              "rowId": 125,
+              "keyParts": [
+                125,
+                "p6",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "She went over and filled the skin with water, and then gave the boy a drink."
+            },
+            {
+              "rowId": 126,
+              "keyParts": [
+                "v019_NET_GEN_021",
+                126,
+                "p6",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 Then God enabled Hagar to see a well of water. She went over and filled the skin with water, and then gave the boy a drink."
+            },
+            {
+              "rowId": 127,
+              "keyParts": [
+                127,
+                "p7",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 128,
+              "keyParts": [
+                128,
+                "p7",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "God was with the boy as he grew. He lived in the wilderness and became an archer."
+            },
+            {
+              "rowId": 129,
+              "keyParts": [
+                "v020_NET_GEN_021",
+                129,
+                "p7",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 God was with the boy as he grew. He lived in the wilderness and became an archer."
+            },
+            {
+              "rowId": 130,
+              "keyParts": [
+                130,
+                "p7",
+                "verse",
+                "v21",
+                "label"
+              ],
+              "value": "21"
+            },
+            {
+              "rowId": 131,
+              "keyParts": [
+                131,
+                "p7",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "He lived in the wilderness of Paran."
+            },
+            {
+              "rowId": 132,
+              "keyParts": [
+                132,
+                "p7",
+                "verse",
+                "v21",
+                "note",
+                "f"
+              ],
+              "value": "sn The wilderness of Paran is an area in the east central region of the Sinai peninsula, northeast from the traditional site of Mt. Sinai and with the Arabah and the Gulf of Aqaba as its eastern border."
+            },
+            {
+              "rowId": 133,
+              "keyParts": [
+                133,
+                "p7",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "His mother found a wife for him from the land of Egypt."
+            },
+            {
+              "rowId": 134,
+              "keyParts": [
+                134,
+                "p7",
+                "verse",
+                "v21",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “And his mother took for him a wife from the land of Egypt.”"
+            },
+            {
+              "rowId": 135,
+              "keyParts": [
+                "v021_NET_GEN_021",
+                135,
+                "p7",
+                "verse",
+                "v21",
+                "plain_text"
+              ],
+              "value": "21 He lived in the wilderness of Paran. His mother found a wife for him from the land of Egypt."
+            },
+            {
+              "rowId": 136,
+              "keyParts": [
+                136,
+                "p8",
+                "verse",
+                "v22",
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 137,
+              "keyParts": [
+                137,
+                "p8",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "At that time Abimelech and Phicol, the commander of his army, said to Abraham, “God is with you"
+            },
+            {
+              "rowId": 138,
+              "keyParts": [
+                138,
+                "p8",
+                "verse",
+                "v22",
+                "note",
+                "f"
+              ],
+              "value": "sn God is with you. Abimelech and Phicol recognized that Abraham enjoyed special divine provision and protection."
+            },
+            {
+              "rowId": 139,
+              "keyParts": [
+                139,
+                "p8",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "in all that you do."
+            },
+            {
+              "rowId": 140,
+              "keyParts": [
+                "v022_NET_GEN_021",
+                140,
+                "p8",
+                "verse",
+                "v22",
+                "plain_text"
+              ],
+              "value": "22 At that time Abimelech and Phicol, the commander of his army, said to Abraham, “God is with you in all that you do."
+            },
+            {
+              "rowId": 141,
+              "keyParts": [
+                141,
+                "p8",
+                "verse",
+                "v23",
+                "label"
+              ],
+              "value": "23"
+            },
+            {
+              "rowId": 142,
+              "keyParts": [
+                142,
+                "p8",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "Now swear to me right here in God’s name"
+            },
+            {
+              "rowId": 143,
+              "keyParts": [
+                143,
+                "p8",
+                "verse",
+                "v23",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “And now swear to me by God here.”"
+            },
+            {
+              "rowId": 144,
+              "keyParts": [
+                144,
+                "p8",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "that you will not deceive me, my children, or my descendants."
+            },
+            {
+              "rowId": 145,
+              "keyParts": [
+                145,
+                "p8",
+                "verse",
+                "v23",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “my offspring and my descendants.”"
+            },
+            {
+              "rowId": 146,
+              "keyParts": [
+                146,
+                "p8",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "Show me, and the land"
+            },
+            {
+              "rowId": 147,
+              "keyParts": [
+                147,
+                "p8",
+                "verse",
+                "v23",
+                "note",
+                "f"
+              ],
+              "value": "tn The word “land” refers by metonymy to the people in the land."
+            },
+            {
+              "rowId": 148,
+              "keyParts": [
+                148,
+                "p8",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "where you are staying,"
+            },
+            {
+              "rowId": 149,
+              "keyParts": [
+                149,
+                "p8",
+                "verse",
+                "v23",
+                "note",
+                "f"
+              ],
+              "value": "tn The Hebrew verb means “to stay, to live, to sojourn” as a temporary resident without ownership rights."
+            },
+            {
+              "rowId": 150,
+              "keyParts": [
+                150,
+                "p8",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "the same loyalty"
+            },
+            {
+              "rowId": 151,
+              "keyParts": [
+                151,
+                "p8",
+                "verse",
+                "v23",
+                "note",
+                "f"
+              ],
+              "value": "tn Or “kindness.”"
+            },
+            {
+              "rowId": 152,
+              "keyParts": [
+                152,
+                "p8",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "that I have shown you.”"
+            },
+            {
+              "rowId": 153,
+              "keyParts": [
+                153,
+                "p8",
+                "verse",
+                "v23",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “According to the loyalty which I have done with you, do with me and with the land in which you are staying.”"
+            },
+            {
+              "rowId": 154,
+              "keyParts": [
+                "v023_NET_GEN_021",
+                154,
+                "p8",
+                "verse",
+                "v23",
+                "plain_text"
+              ],
+              "value": "23 Now swear to me right here in God’s name that you will not deceive me, my children, or my descendants. Show me, and the land where you are staying, the same loyalty that I have shown you.”"
+            },
+            {
+              "rowId": 155,
+              "keyParts": [
+                155,
+                "p9",
+                "verse",
+                "v24",
+                "label"
+              ],
+              "value": "24"
+            },
+            {
+              "rowId": 156,
+              "keyParts": [
+                156,
+                "p9",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "Abraham said, “I swear to do this.”"
+            },
+            {
+              "rowId": 157,
+              "keyParts": [
+                157,
+                "p9",
+                "verse",
+                "v24",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “I swear.” No object is specified in the Hebrew text, but the content of the oath requested by Abimelech is the implied object."
+            },
+            {
+              "rowId": 158,
+              "keyParts": [
+                "v024_NET_GEN_021",
+                158,
+                "p9",
+                "verse",
+                "v24",
+                "plain_text"
+              ],
+              "value": "24 Abraham said, “I swear to do this.”"
+            },
+            {
+              "rowId": 159,
+              "keyParts": [
+                159,
+                "p9",
+                "verse",
+                "v25",
+                "label"
+              ],
+              "value": "25"
+            },
+            {
+              "rowId": 160,
+              "keyParts": [
+                160,
+                "p9",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "But Abraham lodged a complaint"
+            },
+            {
+              "rowId": 161,
+              "keyParts": [
+                161,
+                "p9",
+                "verse",
+                "v25",
+                "note",
+                "f"
+              ],
+              "value": "tn The Hebrew verb used here means “to argue; to dispute”; it can focus on the beginning of the dispute (as here), the dispute itself, or the resolution of a dispute (Isa 1:18). Apparently the complaint was lodged before the actual oath was taken."
+            },
+            {
+              "rowId": 162,
+              "keyParts": [
+                162,
+                "p9",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "against Abimelech concerning a well"
+            },
+            {
+              "rowId": 163,
+              "keyParts": [
+                163,
+                "p9",
+                "verse",
+                "v25",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “concerning the matter of the well of water.”"
+            },
+            {
+              "rowId": 164,
+              "keyParts": [
+                164,
+                "p9",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "that Abimelech’s servants had seized."
+            },
+            {
+              "rowId": 165,
+              "keyParts": [
+                165,
+                "p9",
+                "verse",
+                "v25",
+                "note",
+                "f"
+              ],
+              "value": "tn The Hebrew verb used here means “to steal; to rob; to take violently.” The statement reflects Abraham’s perspective."
+            },
+            {
+              "rowId": 166,
+              "keyParts": [
+                "v025_NET_GEN_021",
+                166,
+                "p9",
+                "verse",
+                "v25",
+                "plain_text"
+              ],
+              "value": "25 But Abraham lodged a complaint against Abimelech concerning a well that Abimelech’s servants had seized."
+            },
+            {
+              "rowId": 167,
+              "keyParts": [
+                167,
+                "p9",
+                "verse",
+                "v26",
+                "label"
+              ],
+              "value": "26"
+            },
+            {
+              "rowId": 168,
+              "keyParts": [
+                168,
+                "p9",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "“I do not know who has done this thing,” Abimelech replied. “Moreover,"
+            },
+            {
+              "rowId": 169,
+              "keyParts": [
+                169,
+                "p9",
+                "verse",
+                "v26",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and also.”"
+            },
+            {
+              "rowId": 170,
+              "keyParts": [
+                170,
+                "p9",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "you did not tell me. I did not hear about it until today.”"
+            },
+            {
+              "rowId": 171,
+              "keyParts": [
+                "v026_NET_GEN_021",
+                171,
+                "p9",
+                "verse",
+                "v26",
+                "plain_text"
+              ],
+              "value": "26 “I do not know who has done this thing,” Abimelech replied. “Moreover, you did not tell me. I did not hear about it until today.”"
+            },
+            {
+              "rowId": 172,
+              "keyParts": [
+                172,
+                "p10",
+                "verse",
+                "v27",
+                "label"
+              ],
+              "value": "27"
+            },
+            {
+              "rowId": 173,
+              "keyParts": [
+                173,
+                "p10",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "Abraham took some sheep and cattle and gave them to Abimelech. The two of them made a treaty."
+            },
+            {
+              "rowId": 174,
+              "keyParts": [
+                174,
+                "p10",
+                "verse",
+                "v27",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “cut a covenant.”"
+            },
+            {
+              "rowId": 175,
+              "keyParts": [
+                "v027_NET_GEN_021",
+                175,
+                "p10",
+                "verse",
+                "v27",
+                "plain_text"
+              ],
+              "value": "27 Abraham took some sheep and cattle and gave them to Abimelech. The two of them made a treaty."
+            },
+            {
+              "rowId": 176,
+              "keyParts": [
+                176,
+                "p10",
+                "verse",
+                "v28",
+                "label"
+              ],
+              "value": "28"
+            },
+            {
+              "rowId": 177,
+              "keyParts": [
+                177,
+                "p10",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "Then Abraham set seven ewe lambs apart from the flock by themselves."
+            },
+            {
+              "rowId": 178,
+              "keyParts": [
+                "v028_NET_GEN_021",
+                178,
+                "p10",
+                "verse",
+                "v28",
+                "plain_text"
+              ],
+              "value": "28 Then Abraham set seven ewe lambs apart from the flock by themselves."
+            },
+            {
+              "rowId": 179,
+              "keyParts": [
+                179,
+                "p10",
+                "verse",
+                "v29",
+                "label"
+              ],
+              "value": "29"
+            },
+            {
+              "rowId": 180,
+              "keyParts": [
+                180,
+                "p10",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "Abimelech asked Abraham, “What is the meaning of these"
+            },
+            {
+              "rowId": 181,
+              "keyParts": [
+                181,
+                "p10",
+                "verse",
+                "v29",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “What are these?”"
+            },
+            {
+              "rowId": 182,
+              "keyParts": [
+                182,
+                "p10",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "seven ewe lambs that you have set apart?”"
+            },
+            {
+              "rowId": 183,
+              "keyParts": [
+                "v029_NET_GEN_021",
+                183,
+                "p10",
+                "verse",
+                "v29",
+                "plain_text"
+              ],
+              "value": "29 Abimelech asked Abraham, “What is the meaning of these seven ewe lambs that you have set apart?”"
+            },
+            {
+              "rowId": 184,
+              "keyParts": [
+                184,
+                "p10",
+                "verse",
+                "v30",
+                "label"
+              ],
+              "value": "30"
+            },
+            {
+              "rowId": 185,
+              "keyParts": [
+                185,
+                "p10",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "He replied, “You must take these seven ewe lambs from my hand as legal proof"
+            },
+            {
+              "rowId": 186,
+              "keyParts": [
+                186,
+                "p10",
+                "verse",
+                "v30",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “that it be for me for a witness.”"
+            },
+            {
+              "rowId": 187,
+              "keyParts": [
+                187,
+                "p10",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "that I dug this well.”"
+            },
+            {
+              "rowId": 188,
+              "keyParts": [
+                188,
+                "p10",
+                "verse",
+                "v30",
+                "note",
+                "f"
+              ],
+              "value": "sn This well. Since the king wanted a treaty to share in Abraham’s good fortune, Abraham used the treaty to secure ownership of and protection for the well he dug. It would be useless to make a treaty to live in this territory if he had no rights to the water. Abraham consented to the treaty, but added his rider to it."
+            },
+            {
+              "rowId": 189,
+              "keyParts": [
+                "v030_NET_GEN_021",
+                189,
+                "p10",
+                "verse",
+                "v30",
+                "plain_text"
+              ],
+              "value": "30 He replied, “You must take these seven ewe lambs from my hand as legal proof that I dug this well.”"
+            },
+            {
+              "rowId": 190,
+              "keyParts": [
+                190,
+                "p10",
+                "verse",
+                "v31",
+                "label"
+              ],
+              "value": "31"
+            },
+            {
+              "rowId": 191,
+              "keyParts": [
+                191,
+                "p10",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "That is why he named that place"
+            },
+            {
+              "rowId": 192,
+              "keyParts": [
+                192,
+                "p10",
+                "verse",
+                "v31",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “that is why he called that place.” Some translations render this as an impersonal passive, “that is why that place was called.”"
+            },
+            {
+              "rowId": 193,
+              "keyParts": [
+                193,
+                "p10",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "Beer Sheba,"
+            },
+            {
+              "rowId": 194,
+              "keyParts": [
+                194,
+                "p10",
+                "verse",
+                "v31",
+                "note",
+                "f"
+              ],
+              "value": "sn The name Beer Sheba (בְּאֵר שָׁבַע, bÿ’er shava’) means “well of the oath” or “well of the seven.” Both the verb “to swear” and the number “seven” have been used throughout the account. Now they are drawn in as part of the explanation of the significance of the name."
+            },
+            {
+              "rowId": 195,
+              "keyParts": [
+                195,
+                "p10",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "because the two of them swore"
+            },
+            {
+              "rowId": 196,
+              "keyParts": [
+                196,
+                "p10",
+                "verse",
+                "v31",
+                "note",
+                "f"
+              ],
+              "value": "sn The verb forms a wordplay with the name Beer Sheba."
+            },
+            {
+              "rowId": 197,
+              "keyParts": [
+                197,
+                "p10",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "an oath there."
+            },
+            {
+              "rowId": 198,
+              "keyParts": [
+                "v031_NET_GEN_021",
+                198,
+                "p10",
+                "verse",
+                "v31",
+                "plain_text"
+              ],
+              "value": "31 That is why he named that place Beer Sheba, because the two of them swore an oath there."
+            },
+            {
+              "rowId": 199,
+              "keyParts": [
+                199,
+                "p11",
+                "verse",
+                "v32",
+                "label"
+              ],
+              "value": "32"
+            },
+            {
+              "rowId": 200,
+              "keyParts": [
+                200,
+                "p11",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "So they made a treaty"
+            },
+            {
+              "rowId": 201,
+              "keyParts": [
+                201,
+                "p11",
+                "verse",
+                "v32",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “cut a covenant.”"
+            },
+            {
+              "rowId": 202,
+              "keyParts": [
+                202,
+                "p11",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "at Beer Sheba. Then Abimelech and Phicol, the commander of his army, returned"
+            },
+            {
+              "rowId": 203,
+              "keyParts": [
+                203,
+                "p11",
+                "verse",
+                "v32",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “arose and returned.”"
+            },
+            {
+              "rowId": 204,
+              "keyParts": [
+                204,
+                "p11",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "to the land of the Philistines."
+            },
+            {
+              "rowId": 205,
+              "keyParts": [
+                205,
+                "p11",
+                "verse",
+                "v32",
+                "note",
+                "f"
+              ],
+              "value": "sn The Philistines mentioned here may not be ethnically related to those who lived in Palestine in the time of the judges and the united monarchy. See D. M. Howard, “Philistines,” Peoples of the Old Testament World, 238."
+            },
+            {
+              "rowId": 206,
+              "keyParts": [
+                "v032_NET_GEN_021",
+                206,
+                "p11",
+                "verse",
+                "v32",
+                "plain_text"
+              ],
+              "value": "32 So they made a treaty at Beer Sheba. Then Abimelech and Phicol, the commander of his army, returned to the land of the Philistines."
+            },
+            {
+              "rowId": 207,
+              "keyParts": [
+                207,
+                "p11",
+                "verse",
+                "v33",
+                "label"
+              ],
+              "value": "33"
+            },
+            {
+              "rowId": 208,
+              "keyParts": [
+                208,
+                "p11",
+                "verse",
+                "v33",
+                "content"
+              ],
+              "value": "Abraham"
+            },
+            {
+              "rowId": 209,
+              "keyParts": [
+                209,
+                "p11",
+                "verse",
+                "v33",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and he”; the referent (Abraham) has been specified in the translation for clarity."
+            },
+            {
+              "rowId": 210,
+              "keyParts": [
+                210,
+                "p11",
+                "verse",
+                "v33",
+                "content"
+              ],
+              "value": "planted a tamarisk tree"
+            },
+            {
+              "rowId": 211,
+              "keyParts": [
+                211,
+                "p11",
+                "verse",
+                "v33",
+                "note",
+                "f"
+              ],
+              "value": "sn The planting of the tamarisk tree is a sign of Abraham’s intent to stay there for a long time, not a religious act. A growing tree in the Negev would be a lasting witness to God’s provision of water."
+            },
+            {
+              "rowId": 212,
+              "keyParts": [
+                212,
+                "p11",
+                "verse",
+                "v33",
+                "content"
+              ],
+              "value": "in Beer Sheba. There he worshiped the"
+            },
+            {
+              "rowId": 213,
+              "keyParts": [
+                213,
+                "p11",
+                "verse",
+                "v33",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 214,
+              "keyParts": [
+                214,
+                "p11",
+                "verse",
+                "v33",
+                "content"
+              ],
+              "value": ","
+            },
+            {
+              "rowId": 215,
+              "keyParts": [
+                215,
+                "p11",
+                "verse",
+                "v33",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “he called there in the name of the Lord.” The expression refers to worshiping the Lord through prayer and sacrifice (see Gen 4:26; 12:8; 13:4; 26:25). See G. J. Wenham, Genesis (WBC), 1:116, 281."
+            },
+            {
+              "rowId": 216,
+              "keyParts": [
+                216,
+                "p11",
+                "verse",
+                "v33",
+                "content"
+              ],
+              "value": "the eternal God."
+            },
+            {
+              "rowId": 217,
+              "keyParts": [
+                "v033_NET_GEN_021",
+                217,
+                "p11",
+                "verse",
+                "v33",
+                "plain_text"
+              ],
+              "value": "33 Abraham planted a tamarisk tree in Beer Sheba. There he worshiped the Lord , the eternal God."
+            },
+            {
+              "rowId": 218,
+              "keyParts": [
+                218,
+                "p11",
+                "verse",
+                "v34",
+                "label"
+              ],
+              "value": "34"
+            },
+            {
+              "rowId": 219,
+              "keyParts": [
+                219,
+                "p11",
+                "verse",
+                "v34",
+                "content"
+              ],
+              "value": "So Abraham stayed in the land of the Philistines for quite some time."
+            },
+            {
+              "rowId": 220,
+              "keyParts": [
+                220,
+                "p11",
+                "verse",
+                "v34",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “many days.”"
+            },
+            {
+              "rowId": 221,
+              "keyParts": [
+                "v034_NET_GEN_021",
+                221,
+                "p11",
+                "verse",
+                "v34",
+                "plain_text"
+              ],
+              "value": "34 So Abraham stayed in the land of the Philistines for quite some time."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

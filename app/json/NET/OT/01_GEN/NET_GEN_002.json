@@ -7,6 +7,8 @@
   "books": [
     {
       "bookId": "GEN",
+      "testament": "",
+      "order": 0,
       "title": "Genesis",
       "abbreviation": "GEN",
       "chapters": [
@@ -80,6 +82,7 @@
             {
               "rowId": 7,
               "keyParts": [
+                "v001_NET_GEN_002",
                 7,
                 "p1",
                 "verse",
@@ -182,6 +185,7 @@
             {
               "rowId": 16,
               "keyParts": [
+                "v002_NET_GEN_002",
                 16,
                 "p1",
                 "verse",
@@ -273,21 +277,22 @@
             {
               "rowId": 24,
               "keyParts": [
-                24,
+                "s1",
+                "heading"
+              ],
+              "value": "The Creation of Man and Woman"
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                "v003_NET_GEN_002",
+                25,
                 "p1",
                 "verse",
                 "v3",
                 "plain_text"
               ],
               "value": "3 God blessed the seventh day and made it holy because on it he ceased all the work that he had been doing in creation."
-            },
-            {
-              "rowId": 25,
-              "keyParts": [
-                "s1",
-                "heading"
-              ],
-              "value": "The Creation of Man and Woman"
             },
             {
               "rowId": 26,
@@ -428,6 +433,7 @@
             {
               "rowId": 38,
               "keyParts": [
+                "v004_NET_GEN_002",
                 38,
                 "p2",
                 "verse",
@@ -541,6 +547,7 @@
             {
               "rowId": 48,
               "keyParts": [
+                "v005_NET_GEN_002",
                 48,
                 "p4",
                 "verse",
@@ -655,6 +662,7 @@
             {
               "rowId": 58,
               "keyParts": [
+                "v006_NET_GEN_002",
                 58,
                 "p4",
                 "verse",
@@ -791,6 +799,7 @@
             {
               "rowId": 70,
               "keyParts": [
+                "v007_NET_GEN_002",
                 70,
                 "p4",
                 "verse",
@@ -927,6 +936,7 @@
             {
               "rowId": 82,
               "keyParts": [
+                "v008_NET_GEN_002",
                 82,
                 "p5",
                 "verse",
@@ -1097,6 +1107,7 @@
             {
               "rowId": 97,
               "keyParts": [
+                "v009_NET_GEN_002",
                 97,
                 "p5",
                 "verse",
@@ -1245,6 +1256,7 @@
             {
               "rowId": 110,
               "keyParts": [
+                "v010_NET_GEN_002",
                 110,
                 "p6",
                 "verse",
@@ -1301,6 +1313,7 @@
             {
               "rowId": 115,
               "keyParts": [
+                "v011_NET_GEN_002",
                 115,
                 "p7",
                 "verse",
@@ -1403,6 +1416,7 @@
             {
               "rowId": 124,
               "keyParts": [
+                "v012_NET_GEN_002",
                 124,
                 "p7",
                 "verse",
@@ -1471,6 +1485,7 @@
             {
               "rowId": 130,
               "keyParts": [
+                "v013_NET_GEN_002",
                 130,
                 "p7",
                 "verse",
@@ -1527,6 +1542,7 @@
             {
               "rowId": 135,
               "keyParts": [
+                "v014_NET_GEN_002",
                 135,
                 "p7",
                 "verse",
@@ -1640,6 +1656,7 @@
             {
               "rowId": 145,
               "keyParts": [
+                "v015_NET_GEN_002",
                 145,
                 "p8",
                 "verse",
@@ -1764,6 +1781,7 @@
             {
               "rowId": 156,
               "keyParts": [
+                "v016_NET_GEN_002",
                 156,
                 "p8",
                 "verse",
@@ -1878,6 +1896,7 @@
             {
               "rowId": 166,
               "keyParts": [
+                "v017_NET_GEN_002",
                 166,
                 "p8",
                 "verse",
@@ -1991,6 +2010,7 @@
             {
               "rowId": 176,
               "keyParts": [
+                "v018_NET_GEN_002",
                 176,
                 "p9",
                 "verse",
@@ -2092,6 +2112,7 @@
             {
               "rowId": 185,
               "keyParts": [
+                "v019_NET_GEN_002",
                 185,
                 "p9",
                 "verse",
@@ -2160,6 +2181,7 @@
             {
               "rowId": 191,
               "keyParts": [
+                "v020_NET_GEN_002",
                 191,
                 "p9",
                 "verse",
@@ -2296,6 +2318,7 @@
             {
               "rowId": 203,
               "keyParts": [
+                "v021_NET_GEN_002",
                 203,
                 "p9",
                 "verse",
@@ -2374,6 +2397,7 @@
             {
               "rowId": 210,
               "keyParts": [
+                "v022_NET_GEN_002",
                 210,
                 "p9",
                 "verse",
@@ -2532,6 +2556,7 @@
             {
               "rowId": 224,
               "keyParts": [
+                "v023_NET_GEN_002",
                 224,
                 "p9",
                 "verse",
@@ -2646,6 +2671,7 @@
             {
               "rowId": 234,
               "keyParts": [
+                "v024_NET_GEN_002",
                 234,
                 "p14",
                 "verse",
@@ -2714,6 +2740,7 @@
             {
               "rowId": 240,
               "keyParts": [
+                "v025_NET_GEN_002",
                 240,
                 "p14",
                 "verse",

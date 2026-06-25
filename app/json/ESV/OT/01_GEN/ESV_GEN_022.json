@@ -1,0 +1,1494 @@
+{
+  "translationId": "ESV",
+  "name": "English Standard Version",
+  "abbreviation": "ESV",
+  "language": "English",
+  "copyright": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.",
+  "books": [
+    {
+      "bookId": "GEN",
+      "testament": "OT",
+      "order": 1,
+      "title": "Genesis",
+      "abbreviation": "GEN",
+      "chapters": [
+        {
+          "chapter": 22,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "The Sacrifice of Isaac"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "After these things"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#1 Cor. 10:13;Heb. 11:17;James 1:12,13;1 Pet. 1:6,7"
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "God tested Abraham and said to him, “Abraham!” And he said, “Here I am.”"
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                "v001_ESV_GEN_022",
+                7,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 After these things God tested Abraham and said to him, “Abraham!” And he said, “Here I am.”"
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                9,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "He said, “Take your son, your only son Isaac, whom you love, and go to"
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#2 Chr. 3:1"
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                11,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "the land of Moriah, and offer him there as a burnt offering on one of the mountains of which I shall tell you.”"
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                "v002_ESV_GEN_022",
+                12,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 He said, “Take your son, your only son Isaac, whom you love, and go to the land of Moriah, and offer him there as a burnt offering on one of the mountains of which I shall tell you.”"
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                13,
+                "p1",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "So Abraham rose early in the morning, saddled his donkey, and took two of his young men with him, and his son Isaac. And he cut the wood for the burnt offering and arose and went to the place of which God had told him."
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                "v003_ESV_GEN_022",
+                15,
+                "p1",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 So Abraham rose early in the morning, saddled his donkey, and took two of his young men with him, and his son Isaac. And he cut the wood for the burnt offering and arose and went to the place of which God had told him."
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                16,
+                "p1",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                17,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "On the third day Abraham lifted up his eyes and saw the place from afar."
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                "v004_ESV_GEN_022",
+                18,
+                "p1",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 On the third day Abraham lifted up his eyes and saw the place from afar."
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p1",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                20,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "Then Abraham said to his young men, “Stay here with the donkey; I and the boy"
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p1",
+                "verse",
+                "v5",
+                "note",
+                "f"
+              ],
+              "value": "#22:5Oryoung man; also verse 12"
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                22,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "will go over there and worship and come again to you.”"
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                "v005_ESV_GEN_022",
+                23,
+                "p1",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 Then Abraham said to his young men, “Stay here with the donkey; I and the boy will go over there and worship and come again to you.”"
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                24,
+                "p1",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "And Abraham took the wood of the burnt offering and"
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                26,
+                "p1",
+                "verse",
+                "v6",
+                "note",
+                "x"
+              ],
+              "value": "#[John 19:17]"
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                27,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "laid it on Isaac his son. And he took in his hand the fire and the knife. So they went both of them together."
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                "v006_ESV_GEN_022",
+                28,
+                "p1",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 And Abraham took the wood of the burnt offering and laid it on Isaac his son. And he took in his hand the fire and the knife. So they went both of them together."
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                29,
+                "p1",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                30,
+                "p1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "And Isaac said to his father Abraham, “My father!” And he said, “Here I am, my son.” He said, “Behold, the fire and the wood, but where is the lamb for a burnt offering?”"
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                "v007_ESV_GEN_022",
+                31,
+                "p1",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 And Isaac said to his father Abraham, “My father!” And he said, “Here I am, my son.” He said, “Behold, the fire and the wood, but where is the lamb for a burnt offering?”"
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "p1",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                33,
+                "p1",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "Abraham said,"
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                34,
+                "p1",
+                "verse",
+                "v8",
+                "note",
+                "x"
+              ],
+              "value": "#[John 1:29,36;1 Pet. 1:19;Rev. 5:12]"
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                35,
+                "p1",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "“God will provide for himself the lamb for a burnt offering, my son.” So they went both of them together."
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                "v008_ESV_GEN_022",
+                36,
+                "p1",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 Abraham said, “God will provide for himself the lamb for a burnt offering, my son.” So they went both of them together."
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                37,
+                "p2",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                38,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "When they came to the place of which God had told him, Abraham built the altar there and laid the wood in order and bound Isaac his son and"
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                39,
+                "p2",
+                "verse",
+                "v9",
+                "note",
+                "x"
+              ],
+              "value": "#Heb. 11:17;James 2:21"
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                40,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "laid him on the altar, on top of the wood."
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                "v009_ESV_GEN_022",
+                41,
+                "p2",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 When they came to the place of which God had told him, Abraham built the altar there and laid the wood in order and bound Isaac his son and laid him on the altar, on top of the wood."
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "p2",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                43,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "Then Abraham reached out his hand and took the knife to slaughter his son."
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                "v010_ESV_GEN_022",
+                44,
+                "p2",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 Then Abraham reached out his hand and took the knife to slaughter his son."
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                45,
+                "p2",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                46,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "But the angel of the"
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                47,
+                "p2",
+                "verse",
+                "v11",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                48,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "called to him from heaven and said, “Abraham, Abraham!” And he said, “Here I am.”"
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                "v011_ESV_GEN_022",
+                49,
+                "p2",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 But the angel of the Lord called to him from heaven and said, “Abraham, Abraham!” And he said, “Here I am.”"
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "p2",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                51,
+                "p2",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "He said,"
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                52,
+                "p2",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#[Mic. 6:7,8]"
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                53,
+                "p2",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "“Do not lay your hand on the boy or do anything to him, for"
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                54,
+                "p2",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#[ch.26:5]"
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                55,
+                "p2",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "now I know that you fear God, seeing you have not withheld your son, your only son, from me.”"
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                "v012_ESV_GEN_022",
+                56,
+                "p2",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 He said, “Do not lay your hand on the boy or do anything to him, for now I know that you fear God, seeing you have not withheld your son, your only son, from me.”"
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                57,
+                "p2",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                58,
+                "p2",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "And Abraham lifted up his eyes and looked, and behold, behind him was a ram, caught in a thicket by his horns. And Abraham went and took the ram and offered it up as a burnt offering instead of his son."
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                "v013_ESV_GEN_022",
+                59,
+                "p2",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 And Abraham lifted up his eyes and looked, and behold, behind him was a ram, caught in a thicket by his horns. And Abraham went and took the ram and offered it up as a burnt offering instead of his son."
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                60,
+                "p2",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                61,
+                "p2",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "So Abraham called the name of that place,"
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                62,
+                "p2",
+                "verse",
+                "v14",
+                "note",
+                "x"
+              ],
+              "value": "#ver.8"
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                63,
+                "p2",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "“The"
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                64,
+                "p2",
+                "verse",
+                "v14",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                65,
+                "p2",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "will provide”;"
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                66,
+                "p2",
+                "verse",
+                "v14",
+                "note",
+                "f"
+              ],
+              "value": "#22:14Orwill see"
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                67,
+                "p2",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "as it is said to this day, “On the mount of the"
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                68,
+                "p2",
+                "verse",
+                "v14",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                69,
+                "p2",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "it shall be provided.”"
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                70,
+                "p2",
+                "verse",
+                "v14",
+                "note",
+                "f"
+              ],
+              "value": "#22:14Orhe will be seen"
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                "v014_ESV_GEN_022",
+                71,
+                "p2",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 So Abraham called the name of that place, “The Lord will provide”; as it is said to this day, “On the mount of the Lord it shall be provided.”"
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                72,
+                "p3",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                73,
+                "p3",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "And the angel of the"
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                74,
+                "p3",
+                "verse",
+                "v15",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                75,
+                "p3",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "called to Abraham a second time from heaven"
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                "v015_ESV_GEN_022",
+                76,
+                "p3",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 And the angel of the Lord called to Abraham a second time from heaven"
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                77,
+                "p3",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                78,
+                "p3",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "and said,"
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                79,
+                "p3",
+                "verse",
+                "v16",
+                "note",
+                "x"
+              ],
+              "value": "#Ps. 105:9;Luke 1:73;Heb. 6:13"
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                80,
+                "p3",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "“By myself I have sworn, declares the"
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                81,
+                "p3",
+                "verse",
+                "v16",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                82,
+                "p3",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": ", because you have done this and have not withheld your son, your only son,"
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                "v016_ESV_GEN_022",
+                83,
+                "p3",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 and said, “By myself I have sworn, declares the Lord , because you have done this and have not withheld your son, your only son,"
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                84,
+                "p3",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                85,
+                "p3",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "I will surely bless you, and I will surely multiply your offspring"
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                86,
+                "p3",
+                "verse",
+                "v17",
+                "note",
+                "x"
+              ],
+              "value": "#Jer. 33:22;See ch.15:5"
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                87,
+                "p3",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "as the stars of heaven and"
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                88,
+                "p3",
+                "verse",
+                "v17",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.13:16"
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                89,
+                "p3",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "as the sand that is on the seashore. And your offspring shall possess"
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                90,
+                "p3",
+                "verse",
+                "v17",
+                "note",
+                "x"
+              ],
+              "value": "#ch.24:60;Ps. 127:5"
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                91,
+                "p3",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "the gate of his"
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                92,
+                "p3",
+                "verse",
+                "v17",
+                "note",
+                "f"
+              ],
+              "value": "#22:17Ortheir"
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                93,
+                "p3",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "enemies,"
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                "v017_ESV_GEN_022",
+                94,
+                "p3",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 I will surely bless you, and I will surely multiply your offspring as the stars of heaven and as the sand that is on the seashore. And your offspring shall possess the gate of his enemies,"
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                95,
+                "p3",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                96,
+                "p3",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "and"
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                97,
+                "p3",
+                "verse",
+                "v18",
+                "note",
+                "x"
+              ],
+              "value": "#ch.12:3;18:18;26:4;Gal. 3:8;CitedActs 3:25"
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                98,
+                "p3",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "in your offspring shall all the nations of the earth be blessed,"
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                99,
+                "p3",
+                "verse",
+                "v18",
+                "note",
+                "x"
+              ],
+              "value": "#ver.3;ch.26:5"
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                100,
+                "p3",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "because you have obeyed my voice.”"
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                "v018_ESV_GEN_022",
+                101,
+                "p3",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 and in your offspring shall all the nations of the earth be blessed, because you have obeyed my voice.”"
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                102,
+                "p3",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                103,
+                "p3",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "So Abraham returned to his young men, and they arose and went together to"
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                104,
+                "p3",
+                "verse",
+                "v19",
+                "note",
+                "x"
+              ],
+              "value": "#ch.21:31"
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                105,
+                "p3",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "Beersheba. And Abraham lived at"
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                106,
+                "p3",
+                "verse",
+                "v19",
+                "note",
+                "x"
+              ],
+              "value": "#ch.21:31"
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                107,
+                "p3",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "Beersheba."
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                "v019_ESV_GEN_022",
+                108,
+                "p3",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 So Abraham returned to his young men, and they arose and went together to Beersheba. And Abraham lived at Beersheba."
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                109,
+                "p4",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                110,
+                "p4",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "Now after these things it was told to Abraham, “Behold,"
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                111,
+                "p4",
+                "verse",
+                "v20",
+                "note",
+                "x"
+              ],
+              "value": "#ch.11:29"
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                112,
+                "p4",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "Milcah also has borne children to your brother Nahor:"
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                "v020_ESV_GEN_022",
+                113,
+                "p4",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 Now after these things it was told to Abraham, “Behold, Milcah also has borne children to your brother Nahor:"
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                114,
+                "p4",
+                "verse",
+                "v21",
+                "label"
+              ],
+              "value": "21"
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                115,
+                "p4",
+                "verse",
+                "v21",
+                "note",
+                "x"
+              ],
+              "value": "#Job 1:1"
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                116,
+                "p4",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "Uz his firstborn,"
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                117,
+                "p4",
+                "verse",
+                "v21",
+                "note",
+                "x"
+              ],
+              "value": "#Jer. 25:23"
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                118,
+                "p4",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "Buz his brother, Kemuel the father of Aram,"
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                "v021_ESV_GEN_022",
+                119,
+                "p4",
+                "verse",
+                "v21",
+                "plain_text"
+              ],
+              "value": "21 Uz his firstborn, Buz his brother, Kemuel the father of Aram,"
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                120,
+                "p4",
+                "verse",
+                "v22",
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 121,
+              "keyParts": [
+                121,
+                "p4",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "Chesed, Hazo, Pildash, Jidlaph, and Bethuel.”"
+            },
+            {
+              "rowId": 122,
+              "keyParts": [
+                "v022_ESV_GEN_022",
+                122,
+                "p4",
+                "verse",
+                "v22",
+                "plain_text"
+              ],
+              "value": "22 Chesed, Hazo, Pildash, Jidlaph, and Bethuel.”"
+            },
+            {
+              "rowId": 123,
+              "keyParts": [
+                123,
+                "p4",
+                "verse",
+                "v23",
+                "label"
+              ],
+              "value": "23"
+            },
+            {
+              "rowId": 124,
+              "keyParts": [
+                124,
+                "p4",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "("
+            },
+            {
+              "rowId": 125,
+              "keyParts": [
+                125,
+                "p4",
+                "verse",
+                "v23",
+                "note",
+                "x"
+              ],
+              "value": "#ch.24:15"
+            },
+            {
+              "rowId": 126,
+              "keyParts": [
+                126,
+                "p4",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "Bethuel fathered Rebekah.) These eight Milcah bore to Nahor, Abraham’s brother."
+            },
+            {
+              "rowId": 127,
+              "keyParts": [
+                "v023_ESV_GEN_022",
+                127,
+                "p4",
+                "verse",
+                "v23",
+                "plain_text"
+              ],
+              "value": "23 ( Bethuel fathered Rebekah.) These eight Milcah bore to Nahor, Abraham’s brother."
+            },
+            {
+              "rowId": 128,
+              "keyParts": [
+                128,
+                "p4",
+                "verse",
+                "v24",
+                "label"
+              ],
+              "value": "24"
+            },
+            {
+              "rowId": 129,
+              "keyParts": [
+                129,
+                "p4",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "Moreover, his concubine, whose name was Reumah, bore Tebah, Gaham, Tahash, and Maacah."
+            },
+            {
+              "rowId": 130,
+              "keyParts": [
+                "v024_ESV_GEN_022",
+                130,
+                "p4",
+                "verse",
+                "v24",
+                "plain_text"
+              ],
+              "value": "24 Moreover, his concubine, whose name was Reumah, bore Tebah, Gaham, Tahash, and Maacah."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

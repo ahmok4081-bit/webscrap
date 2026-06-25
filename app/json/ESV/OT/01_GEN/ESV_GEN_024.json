@@ -1,0 +1,4048 @@
+{
+  "translationId": "ESV",
+  "name": "English Standard Version",
+  "abbreviation": "ESV",
+  "language": "English",
+  "copyright": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.",
+  "books": [
+    {
+      "bookId": "GEN",
+      "testament": "OT",
+      "order": 1,
+      "title": "Genesis",
+      "abbreviation": "GEN",
+      "chapters": [
+        {
+          "chapter": 24,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "24"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Isaac and Rebekah"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "Now Abraham was old, well advanced in years. And the"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#ver.35;ch.13:2"
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                7,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "had blessed Abraham in all things."
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                "v001_ESV_GEN_024",
+                8,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 Now Abraham was old, well advanced in years. And the Lord had blessed Abraham in all things."
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                9,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "And Abraham said to his servant,"
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                11,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#[ch.15:2]"
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                12,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "the oldest of his household, who had charge of all that he had,"
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                13,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#ver.9;ch.47:29"
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "“Put your hand under my thigh,"
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                "v002_ESV_GEN_024",
+                15,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 And Abraham said to his servant, the oldest of his household, who had charge of all that he had, “Put your hand under my thigh,"
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                16,
+                "p1",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                17,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "that I may make you swear by the"
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "p1",
+                "verse",
+                "v3",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": ", the God of heaven and God of the earth, that"
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                20,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#ch.26:34,35;27:46;Deut. 7:3;[2 Cor. 6:14]"
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "you will not take a wife for my son from the daughters of the Canaanites, among whom I dwell,"
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                "v003_ESV_GEN_024",
+                22,
+                "p1",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 that I may make you swear by the Lord , the God of heaven and God of the earth, that you will not take a wife for my son from the daughters of the Canaanites, among whom I dwell,"
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "p1",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                24,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#[ch.28:2]"
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "but will go to my country and to my kindred, and take a wife for my son Isaac.”"
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                "v004_ESV_GEN_024",
+                26,
+                "p1",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 but will go to my country and to my kindred, and take a wife for my son Isaac.”"
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                27,
+                "p1",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                28,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "The servant said to him, “Perhaps the woman may not be willing to follow me to this land. Must I then take your son back to the land from which you came?”"
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                "v005_ESV_GEN_024",
+                29,
+                "p1",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 The servant said to him, “Perhaps the woman may not be willing to follow me to this land. Must I then take your son back to the land from which you came?”"
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                30,
+                "p1",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                31,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "Abraham said to him, “See to it that you do not take my son back there."
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                "v006_ESV_GEN_024",
+                32,
+                "p1",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 Abraham said to him, “See to it that you do not take my son back there."
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                33,
+                "p1",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                34,
+                "p1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "The"
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                35,
+                "p1",
+                "verse",
+                "v7",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "p1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": ", the God of heaven,"
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                37,
+                "p1",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#ch.12:1"
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                38,
+                "p1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "who took me from my father’s house and from the land of my kindred, and who spoke to me and swore to me,"
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                39,
+                "p1",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.12:7"
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                40,
+                "p1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "‘To your offspring I will give this land,’"
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p1",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 23:20,23;33:2;[Heb. 1:14]"
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "p1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "he will send his angel before you, and you shall take a wife for my son from there."
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                "v007_ESV_GEN_024",
+                43,
+                "p1",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 The Lord , the God of heaven, who took me from my father’s house and from the land of my kindred, and who spoke to me and swore to me, ‘To your offspring I will give this land,’ he will send his angel before you, and you shall take a wife for my son from there."
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                44,
+                "p1",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                45,
+                "p1",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "But if the woman is not willing to follow you, then"
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                46,
+                "p1",
+                "verse",
+                "v8",
+                "note",
+                "x"
+              ],
+              "value": "#SeeJosh. 2:17-20"
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                47,
+                "p1",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "you will be free from this oath of mine; only you must not take my son back there.”"
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                "v008_ESV_GEN_024",
+                48,
+                "p1",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 But if the woman is not willing to follow you, then you will be free from this oath of mine; only you must not take my son back there.”"
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                49,
+                "p1",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "p1",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "So the servant"
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                51,
+                "p1",
+                "verse",
+                "v9",
+                "note",
+                "x"
+              ],
+              "value": "#ver.2"
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                52,
+                "p1",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "put his hand under the thigh of Abraham his master and swore to him concerning this matter."
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                "v009_ESV_GEN_024",
+                53,
+                "p1",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 So the servant put his hand under the thigh of Abraham his master and swore to him concerning this matter."
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                54,
+                "p2",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                55,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "Then the servant took ten of his master’s camels and departed, taking all sorts of choice gifts from his master; and he arose and went to"
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                56,
+                "p2",
+                "verse",
+                "v10",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 23:4;Judg. 3:8"
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                57,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "Mesopotamia"
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                58,
+                "p2",
+                "verse",
+                "v10",
+                "note",
+                "f"
+              ],
+              "value": "#24:10HebrewAram-naharaim"
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                59,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "to the city of Nahor."
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                "v010_ESV_GEN_024",
+                60,
+                "p2",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 Then the servant took ten of his master’s camels and departed, taking all sorts of choice gifts from his master; and he arose and went to Mesopotamia to the city of Nahor."
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                61,
+                "p2",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                62,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "And he made the camels kneel down outside the city by the well of water at the time of evening, the time when"
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                63,
+                "p2",
+                "verse",
+                "v11",
+                "note",
+                "x"
+              ],
+              "value": "#1 Sam. 9:11;John 4:7"
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                64,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "women go out to draw water."
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                "v011_ESV_GEN_024",
+                65,
+                "p2",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 And he made the camels kneel down outside the city by the well of water at the time of evening, the time when women go out to draw water."
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                66,
+                "p2",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                67,
+                "p2",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "And he said, “O"
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                68,
+                "p2",
+                "verse",
+                "v12",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                69,
+                "p2",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": ","
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                70,
+                "p2",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#ver.27, 42, 48"
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                71,
+                "p2",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "God of my master Abraham,"
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                72,
+                "p2",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#ch.27:20"
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                73,
+                "p2",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "please grant me success today and show steadfast love to my master Abraham."
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                "v012_ESV_GEN_024",
+                74,
+                "p2",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 And he said, “O Lord , God of my master Abraham, please grant me success today and show steadfast love to my master Abraham."
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                75,
+                "p2",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                76,
+                "p2",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "Behold,"
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                77,
+                "p2",
+                "verse",
+                "v13",
+                "note",
+                "x"
+              ],
+              "value": "#ver.43"
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                78,
+                "p2",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "I am standing by the spring of water, and the daughters of the men of the city are coming out to draw water."
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                "v013_ESV_GEN_024",
+                79,
+                "p2",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 Behold, I am standing by the spring of water, and the daughters of the men of the city are coming out to draw water."
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                80,
+                "p2",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                81,
+                "p2",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "Let the young woman to whom I shall say, ‘Please let down your jar that I may drink,’ and who shall say, ‘Drink, and I will water your camels’—let her be the one whom you have appointed for your servant Isaac."
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                82,
+                "p2",
+                "verse",
+                "v14",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.15:8"
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                83,
+                "p2",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "By this"
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                84,
+                "p2",
+                "verse",
+                "v14",
+                "note",
+                "f"
+              ],
+              "value": "#24:14OrBy her"
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                85,
+                "p2",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "I shall know that you have shown steadfast love to my master.”"
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                "v014_ESV_GEN_024",
+                86,
+                "p2",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 Let the young woman to whom I shall say, ‘Please let down your jar that I may drink,’ and who shall say, ‘Drink, and I will water your camels’—let her be the one whom you have appointed for your servant Isaac. By this I shall know that you have shown steadfast love to my master.”"
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                87,
+                "p3",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                88,
+                "p3",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "Before he had finished speaking, behold, Rebekah, who was born to Bethuel the son of"
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                89,
+                "p3",
+                "verse",
+                "v15",
+                "note",
+                "x"
+              ],
+              "value": "#ch.11:29;22:23"
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                90,
+                "p3",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "Milcah, the wife of Nahor, Abraham’s brother, came out with her water jar on her shoulder."
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                "v015_ESV_GEN_024",
+                91,
+                "p3",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 Before he had finished speaking, behold, Rebekah, who was born to Bethuel the son of Milcah, the wife of Nahor, Abraham’s brother, came out with her water jar on her shoulder."
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                92,
+                "p3",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                93,
+                "p3",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "The young woman"
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                94,
+                "p3",
+                "verse",
+                "v16",
+                "note",
+                "x"
+              ],
+              "value": "#ch.26:7"
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                95,
+                "p3",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "was very attractive in appearance, a maiden"
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                96,
+                "p3",
+                "verse",
+                "v16",
+                "note",
+                "f"
+              ],
+              "value": "#24:16Ora woman of marriageable age"
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                97,
+                "p3",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "whom no man had known. She went down to the spring and filled her jar and came up."
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                "v016_ESV_GEN_024",
+                98,
+                "p3",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 The young woman was very attractive in appearance, a maiden whom no man had known. She went down to the spring and filled her jar and came up."
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                99,
+                "p3",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                100,
+                "p3",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "Then the servant ran to meet her and said, “Please give me a little water to drink from your jar.”"
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                "v017_ESV_GEN_024",
+                101,
+                "p3",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 Then the servant ran to meet her and said, “Please give me a little water to drink from your jar.”"
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                102,
+                "p3",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                103,
+                "p3",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "She said, “Drink, my lord.” And she quickly let down her jar upon her hand and gave him a drink."
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                "v018_ESV_GEN_024",
+                104,
+                "p3",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 She said, “Drink, my lord.” And she quickly let down her jar upon her hand and gave him a drink."
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                105,
+                "p3",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                106,
+                "p3",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "When she had finished giving him a drink, she said, “I will draw water for your camels also, until they have finished drinking.”"
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                "v019_ESV_GEN_024",
+                107,
+                "p3",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 When she had finished giving him a drink, she said, “I will draw water for your camels also, until they have finished drinking.”"
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                108,
+                "p3",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                109,
+                "p3",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "So she quickly emptied her jar into the trough and ran again to the well to draw water, and she drew for all his camels."
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                "v020_ESV_GEN_024",
+                110,
+                "p3",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 So she quickly emptied her jar into the trough and ran again to the well to draw water, and she drew for all his camels."
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                111,
+                "p3",
+                "verse",
+                "v21",
+                "label"
+              ],
+              "value": "21"
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                112,
+                "p3",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "The man gazed at her in silence to learn whether the"
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                113,
+                "p3",
+                "verse",
+                "v21",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                114,
+                "p3",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "had prospered his journey or not."
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                "v021_ESV_GEN_024",
+                115,
+                "p3",
+                "verse",
+                "v21",
+                "plain_text"
+              ],
+              "value": "21 The man gazed at her in silence to learn whether the Lord had prospered his journey or not."
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                116,
+                "p4",
+                "verse",
+                "v22",
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                117,
+                "p4",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "When the camels had finished drinking, the man took a gold ring weighing a half shekel,"
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                118,
+                "p4",
+                "verse",
+                "v22",
+                "note",
+                "f"
+              ],
+              "value": "#24:22Ashekelwas about 2/5 ounce or 11 grams"
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                119,
+                "p4",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "and two bracelets for her arms weighing ten gold shekels,"
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                "v022_ESV_GEN_024",
+                120,
+                "p4",
+                "verse",
+                "v22",
+                "plain_text"
+              ],
+              "value": "22 When the camels had finished drinking, the man took a gold ring weighing a half shekel, and two bracelets for her arms weighing ten gold shekels,"
+            },
+            {
+              "rowId": 121,
+              "keyParts": [
+                121,
+                "p4",
+                "verse",
+                "v23",
+                "label"
+              ],
+              "value": "23"
+            },
+            {
+              "rowId": 122,
+              "keyParts": [
+                122,
+                "p4",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "and said, “Please tell me whose daughter you are. Is there room in your father’s house for us to spend the night?”"
+            },
+            {
+              "rowId": 123,
+              "keyParts": [
+                "v023_ESV_GEN_024",
+                123,
+                "p4",
+                "verse",
+                "v23",
+                "plain_text"
+              ],
+              "value": "23 and said, “Please tell me whose daughter you are. Is there room in your father’s house for us to spend the night?”"
+            },
+            {
+              "rowId": 124,
+              "keyParts": [
+                124,
+                "p4",
+                "verse",
+                "v24",
+                "label"
+              ],
+              "value": "24"
+            },
+            {
+              "rowId": 125,
+              "keyParts": [
+                125,
+                "p4",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "She said to him,"
+            },
+            {
+              "rowId": 126,
+              "keyParts": [
+                126,
+                "p4",
+                "verse",
+                "v24",
+                "note",
+                "x"
+              ],
+              "value": "#ver.15;ch.22:23"
+            },
+            {
+              "rowId": 127,
+              "keyParts": [
+                127,
+                "p4",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "“I am the daughter of Bethuel the son of Milcah, whom she bore to Nahor.”"
+            },
+            {
+              "rowId": 128,
+              "keyParts": [
+                "v024_ESV_GEN_024",
+                128,
+                "p4",
+                "verse",
+                "v24",
+                "plain_text"
+              ],
+              "value": "24 She said to him, “I am the daughter of Bethuel the son of Milcah, whom she bore to Nahor.”"
+            },
+            {
+              "rowId": 129,
+              "keyParts": [
+                129,
+                "p4",
+                "verse",
+                "v25",
+                "label"
+              ],
+              "value": "25"
+            },
+            {
+              "rowId": 130,
+              "keyParts": [
+                130,
+                "p4",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "She added, “We have plenty of both straw and fodder, and room to spend the night.”"
+            },
+            {
+              "rowId": 131,
+              "keyParts": [
+                "v025_ESV_GEN_024",
+                131,
+                "p4",
+                "verse",
+                "v25",
+                "plain_text"
+              ],
+              "value": "25 She added, “We have plenty of both straw and fodder, and room to spend the night.”"
+            },
+            {
+              "rowId": 132,
+              "keyParts": [
+                132,
+                "p4",
+                "verse",
+                "v26",
+                "label"
+              ],
+              "value": "26"
+            },
+            {
+              "rowId": 133,
+              "keyParts": [
+                133,
+                "p4",
+                "verse",
+                "v26",
+                "note",
+                "x"
+              ],
+              "value": "#ver.48, 52;Ex. 4:31"
+            },
+            {
+              "rowId": 134,
+              "keyParts": [
+                134,
+                "p4",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "The man bowed his head and worshiped the"
+            },
+            {
+              "rowId": 135,
+              "keyParts": [
+                135,
+                "p4",
+                "verse",
+                "v26",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 136,
+              "keyParts": [
+                "v026_ESV_GEN_024",
+                136,
+                "p4",
+                "verse",
+                "v26",
+                "plain_text"
+              ],
+              "value": "26 The man bowed his head and worshiped the Lord"
+            },
+            {
+              "rowId": 137,
+              "keyParts": [
+                137,
+                "p4",
+                "verse",
+                "v27",
+                "label"
+              ],
+              "value": "27"
+            },
+            {
+              "rowId": 138,
+              "keyParts": [
+                138,
+                "p4",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "and said, “Blessed be the"
+            },
+            {
+              "rowId": 139,
+              "keyParts": [
+                139,
+                "p4",
+                "verse",
+                "v27",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 140,
+              "keyParts": [
+                140,
+                "p4",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": ","
+            },
+            {
+              "rowId": 141,
+              "keyParts": [
+                141,
+                "p4",
+                "verse",
+                "v27",
+                "note",
+                "x"
+              ],
+              "value": "#ver.12, 42, 48"
+            },
+            {
+              "rowId": 142,
+              "keyParts": [
+                142,
+                "p4",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "the God of my master Abraham, who has not forsaken"
+            },
+            {
+              "rowId": 143,
+              "keyParts": [
+                143,
+                "p4",
+                "verse",
+                "v27",
+                "note",
+                "x"
+              ],
+              "value": "#ch.32:10;Ps. 98:3"
+            },
+            {
+              "rowId": 144,
+              "keyParts": [
+                144,
+                "p4",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "his steadfast love and his faithfulness toward my master. As for me, the"
+            },
+            {
+              "rowId": 145,
+              "keyParts": [
+                145,
+                "p4",
+                "verse",
+                "v27",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 146,
+              "keyParts": [
+                146,
+                "p4",
+                "verse",
+                "v27",
+                "note",
+                "x"
+              ],
+              "value": "#ver.48"
+            },
+            {
+              "rowId": 147,
+              "keyParts": [
+                147,
+                "p4",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "has led me in the way to the house of my master’s kinsmen.”"
+            },
+            {
+              "rowId": 148,
+              "keyParts": [
+                "v027_ESV_GEN_024",
+                148,
+                "p4",
+                "verse",
+                "v27",
+                "plain_text"
+              ],
+              "value": "27 and said, “Blessed be the Lord , the God of my master Abraham, who has not forsaken his steadfast love and his faithfulness toward my master. As for me, the Lord has led me in the way to the house of my master’s kinsmen.”"
+            },
+            {
+              "rowId": 149,
+              "keyParts": [
+                149,
+                "p4",
+                "verse",
+                "v28",
+                "label"
+              ],
+              "value": "28"
+            },
+            {
+              "rowId": 150,
+              "keyParts": [
+                150,
+                "p4",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "Then the young woman ran and told her mother’s household about these things."
+            },
+            {
+              "rowId": 151,
+              "keyParts": [
+                "v028_ESV_GEN_024",
+                151,
+                "p4",
+                "verse",
+                "v28",
+                "plain_text"
+              ],
+              "value": "28 Then the young woman ran and told her mother’s household about these things."
+            },
+            {
+              "rowId": 152,
+              "keyParts": [
+                152,
+                "p5",
+                "verse",
+                "v29",
+                "label"
+              ],
+              "value": "29"
+            },
+            {
+              "rowId": 153,
+              "keyParts": [
+                153,
+                "p5",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "Rebekah had a brother whose name was"
+            },
+            {
+              "rowId": 154,
+              "keyParts": [
+                154,
+                "p5",
+                "verse",
+                "v29",
+                "note",
+                "x"
+              ],
+              "value": "#ch.25:20;28:2;29:5"
+            },
+            {
+              "rowId": 155,
+              "keyParts": [
+                155,
+                "p5",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "Laban. Laban ran out toward the man, to the spring."
+            },
+            {
+              "rowId": 156,
+              "keyParts": [
+                "v029_ESV_GEN_024",
+                156,
+                "p5",
+                "verse",
+                "v29",
+                "plain_text"
+              ],
+              "value": "29 Rebekah had a brother whose name was Laban. Laban ran out toward the man, to the spring."
+            },
+            {
+              "rowId": 157,
+              "keyParts": [
+                157,
+                "p5",
+                "verse",
+                "v30",
+                "label"
+              ],
+              "value": "30"
+            },
+            {
+              "rowId": 158,
+              "keyParts": [
+                158,
+                "p5",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "As soon as he saw the ring and the bracelets on his sister’s arms, and heard the words of Rebekah his sister, “Thus the man spoke to me,” he went to the man. And behold, he was standing by the camels at the spring."
+            },
+            {
+              "rowId": 159,
+              "keyParts": [
+                "v030_ESV_GEN_024",
+                159,
+                "p5",
+                "verse",
+                "v30",
+                "plain_text"
+              ],
+              "value": "30 As soon as he saw the ring and the bracelets on his sister’s arms, and heard the words of Rebekah his sister, “Thus the man spoke to me,” he went to the man. And behold, he was standing by the camels at the spring."
+            },
+            {
+              "rowId": 160,
+              "keyParts": [
+                160,
+                "p5",
+                "verse",
+                "v31",
+                "label"
+              ],
+              "value": "31"
+            },
+            {
+              "rowId": 161,
+              "keyParts": [
+                161,
+                "p5",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "He said, “Come in,"
+            },
+            {
+              "rowId": 162,
+              "keyParts": [
+                162,
+                "p5",
+                "verse",
+                "v31",
+                "note",
+                "x"
+              ],
+              "value": "#[ch.26:29;Judg. 17:2;Ruth 3:10]"
+            },
+            {
+              "rowId": 163,
+              "keyParts": [
+                163,
+                "p5",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "O blessed of the"
+            },
+            {
+              "rowId": 164,
+              "keyParts": [
+                164,
+                "p5",
+                "verse",
+                "v31",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 165,
+              "keyParts": [
+                165,
+                "p5",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": ". Why do you stand outside? For I have prepared the house and a place for the camels.”"
+            },
+            {
+              "rowId": 166,
+              "keyParts": [
+                "v031_ESV_GEN_024",
+                166,
+                "p5",
+                "verse",
+                "v31",
+                "plain_text"
+              ],
+              "value": "31 He said, “Come in, O blessed of the Lord . Why do you stand outside? For I have prepared the house and a place for the camels.”"
+            },
+            {
+              "rowId": 167,
+              "keyParts": [
+                167,
+                "p5",
+                "verse",
+                "v32",
+                "label"
+              ],
+              "value": "32"
+            },
+            {
+              "rowId": 168,
+              "keyParts": [
+                168,
+                "p5",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "So the man came to the house and unharnessed the camels, and gave"
+            },
+            {
+              "rowId": 169,
+              "keyParts": [
+                169,
+                "p5",
+                "verse",
+                "v32",
+                "note",
+                "x"
+              ],
+              "value": "#ch.43:24;Judg. 19:21"
+            },
+            {
+              "rowId": 170,
+              "keyParts": [
+                170,
+                "p5",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "straw and fodder to the camels, and there was"
+            },
+            {
+              "rowId": 171,
+              "keyParts": [
+                171,
+                "p5",
+                "verse",
+                "v32",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.18:4"
+            },
+            {
+              "rowId": 172,
+              "keyParts": [
+                172,
+                "p5",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "water to wash his feet and the feet of the men who were with him."
+            },
+            {
+              "rowId": 173,
+              "keyParts": [
+                "v032_ESV_GEN_024",
+                173,
+                "p5",
+                "verse",
+                "v32",
+                "plain_text"
+              ],
+              "value": "32 So the man came to the house and unharnessed the camels, and gave straw and fodder to the camels, and there was water to wash his feet and the feet of the men who were with him."
+            },
+            {
+              "rowId": 174,
+              "keyParts": [
+                174,
+                "p5",
+                "verse",
+                "v33",
+                "label"
+              ],
+              "value": "33"
+            },
+            {
+              "rowId": 175,
+              "keyParts": [
+                175,
+                "p5",
+                "verse",
+                "v33",
+                "content"
+              ],
+              "value": "Then food was set before him to eat. But he said, “I will not eat until I have said what I have to say.” He said, “Speak on.”"
+            },
+            {
+              "rowId": 176,
+              "keyParts": [
+                "v033_ESV_GEN_024",
+                176,
+                "p5",
+                "verse",
+                "v33",
+                "plain_text"
+              ],
+              "value": "33 Then food was set before him to eat. But he said, “I will not eat until I have said what I have to say.” He said, “Speak on.”"
+            },
+            {
+              "rowId": 177,
+              "keyParts": [
+                177,
+                "p6",
+                "verse",
+                "v34",
+                "label"
+              ],
+              "value": "34"
+            },
+            {
+              "rowId": 178,
+              "keyParts": [
+                178,
+                "p6",
+                "verse",
+                "v34",
+                "content"
+              ],
+              "value": "So he said, “I am Abraham’s servant."
+            },
+            {
+              "rowId": 179,
+              "keyParts": [
+                "v034_ESV_GEN_024",
+                179,
+                "p6",
+                "verse",
+                "v34",
+                "plain_text"
+              ],
+              "value": "34 So he said, “I am Abraham’s servant."
+            },
+            {
+              "rowId": 180,
+              "keyParts": [
+                180,
+                "p6",
+                "verse",
+                "v35",
+                "label"
+              ],
+              "value": "35"
+            },
+            {
+              "rowId": 181,
+              "keyParts": [
+                181,
+                "p6",
+                "verse",
+                "v35",
+                "content"
+              ],
+              "value": "The"
+            },
+            {
+              "rowId": 182,
+              "keyParts": [
+                182,
+                "p6",
+                "verse",
+                "v35",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 183,
+              "keyParts": [
+                183,
+                "p6",
+                "verse",
+                "v35",
+                "note",
+                "x"
+              ],
+              "value": "#ver.1"
+            },
+            {
+              "rowId": 184,
+              "keyParts": [
+                184,
+                "p6",
+                "verse",
+                "v35",
+                "content"
+              ],
+              "value": "has greatly blessed my master, and he has become great. He has given him flocks and herds, silver and gold, male servants and female servants, camels and donkeys."
+            },
+            {
+              "rowId": 185,
+              "keyParts": [
+                "v035_ESV_GEN_024",
+                185,
+                "p6",
+                "verse",
+                "v35",
+                "plain_text"
+              ],
+              "value": "35 The Lord has greatly blessed my master, and he has become great. He has given him flocks and herds, silver and gold, male servants and female servants, camels and donkeys."
+            },
+            {
+              "rowId": 186,
+              "keyParts": [
+                186,
+                "p6",
+                "verse",
+                "v36",
+                "label"
+              ],
+              "value": "36"
+            },
+            {
+              "rowId": 187,
+              "keyParts": [
+                187,
+                "p6",
+                "verse",
+                "v36",
+                "content"
+              ],
+              "value": "And Sarah my master’s wife"
+            },
+            {
+              "rowId": 188,
+              "keyParts": [
+                188,
+                "p6",
+                "verse",
+                "v36",
+                "note",
+                "x"
+              ],
+              "value": "#ch.21:2"
+            },
+            {
+              "rowId": 189,
+              "keyParts": [
+                189,
+                "p6",
+                "verse",
+                "v36",
+                "content"
+              ],
+              "value": "bore a son to my master when she was old, and"
+            },
+            {
+              "rowId": 190,
+              "keyParts": [
+                190,
+                "p6",
+                "verse",
+                "v36",
+                "note",
+                "x"
+              ],
+              "value": "#ch.25:5"
+            },
+            {
+              "rowId": 191,
+              "keyParts": [
+                191,
+                "p6",
+                "verse",
+                "v36",
+                "content"
+              ],
+              "value": "to him he has given all that he has."
+            },
+            {
+              "rowId": 192,
+              "keyParts": [
+                "v036_ESV_GEN_024",
+                192,
+                "p6",
+                "verse",
+                "v36",
+                "plain_text"
+              ],
+              "value": "36 And Sarah my master’s wife bore a son to my master when she was old, and to him he has given all that he has."
+            },
+            {
+              "rowId": 193,
+              "keyParts": [
+                193,
+                "p6",
+                "verse",
+                "v37",
+                "label"
+              ],
+              "value": "37"
+            },
+            {
+              "rowId": 194,
+              "keyParts": [
+                194,
+                "p6",
+                "verse",
+                "v37",
+                "note",
+                "x"
+              ],
+              "value": "#ver.3-8"
+            },
+            {
+              "rowId": 195,
+              "keyParts": [
+                195,
+                "p6",
+                "verse",
+                "v37",
+                "content"
+              ],
+              "value": "My master made me swear, saying, ‘You shall not take a wife for my son from the daughters of the Canaanites, in whose land I dwell,"
+            },
+            {
+              "rowId": 196,
+              "keyParts": [
+                "v037_ESV_GEN_024",
+                196,
+                "p6",
+                "verse",
+                "v37",
+                "plain_text"
+              ],
+              "value": "37 My master made me swear, saying, ‘You shall not take a wife for my son from the daughters of the Canaanites, in whose land I dwell,"
+            },
+            {
+              "rowId": 197,
+              "keyParts": [
+                197,
+                "p6",
+                "verse",
+                "v38",
+                "label"
+              ],
+              "value": "38"
+            },
+            {
+              "rowId": 198,
+              "keyParts": [
+                198,
+                "p6",
+                "verse",
+                "v38",
+                "content"
+              ],
+              "value": "but you shall go to my father’s house and to my clan and take a wife for my son.’"
+            },
+            {
+              "rowId": 199,
+              "keyParts": [
+                "v038_ESV_GEN_024",
+                199,
+                "p6",
+                "verse",
+                "v38",
+                "plain_text"
+              ],
+              "value": "38 but you shall go to my father’s house and to my clan and take a wife for my son.’"
+            },
+            {
+              "rowId": 200,
+              "keyParts": [
+                200,
+                "p6",
+                "verse",
+                "v39",
+                "label"
+              ],
+              "value": "39"
+            },
+            {
+              "rowId": 201,
+              "keyParts": [
+                201,
+                "p6",
+                "verse",
+                "v39",
+                "content"
+              ],
+              "value": "I said to my master, ‘Perhaps the woman will not follow me.’"
+            },
+            {
+              "rowId": 202,
+              "keyParts": [
+                "v039_ESV_GEN_024",
+                202,
+                "p6",
+                "verse",
+                "v39",
+                "plain_text"
+              ],
+              "value": "39 I said to my master, ‘Perhaps the woman will not follow me.’"
+            },
+            {
+              "rowId": 203,
+              "keyParts": [
+                203,
+                "p6",
+                "verse",
+                "v40",
+                "label"
+              ],
+              "value": "40"
+            },
+            {
+              "rowId": 204,
+              "keyParts": [
+                204,
+                "p6",
+                "verse",
+                "v40",
+                "content"
+              ],
+              "value": "But he said to me, ‘The"
+            },
+            {
+              "rowId": 205,
+              "keyParts": [
+                205,
+                "p6",
+                "verse",
+                "v40",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 206,
+              "keyParts": [
+                206,
+                "p6",
+                "verse",
+                "v40",
+                "content"
+              ],
+              "value": ","
+            },
+            {
+              "rowId": 207,
+              "keyParts": [
+                207,
+                "p6",
+                "verse",
+                "v40",
+                "note",
+                "x"
+              ],
+              "value": "#ch.17:1"
+            },
+            {
+              "rowId": 208,
+              "keyParts": [
+                208,
+                "p6",
+                "verse",
+                "v40",
+                "content"
+              ],
+              "value": "before whom I have walked, will send his angel with you and"
+            },
+            {
+              "rowId": 209,
+              "keyParts": [
+                209,
+                "p6",
+                "verse",
+                "v40",
+                "note",
+                "x"
+              ],
+              "value": "#ver.21"
+            },
+            {
+              "rowId": 210,
+              "keyParts": [
+                210,
+                "p6",
+                "verse",
+                "v40",
+                "content"
+              ],
+              "value": "prosper your way. You shall take a wife for my son from my clan and from my father’s house."
+            },
+            {
+              "rowId": 211,
+              "keyParts": [
+                "v040_ESV_GEN_024",
+                211,
+                "p6",
+                "verse",
+                "v40",
+                "plain_text"
+              ],
+              "value": "40 But he said to me, ‘The Lord , before whom I have walked, will send his angel with you and prosper your way. You shall take a wife for my son from my clan and from my father’s house."
+            },
+            {
+              "rowId": 212,
+              "keyParts": [
+                212,
+                "p6",
+                "verse",
+                "v41",
+                "label"
+              ],
+              "value": "41"
+            },
+            {
+              "rowId": 213,
+              "keyParts": [
+                213,
+                "p6",
+                "verse",
+                "v41",
+                "content"
+              ],
+              "value": "Then you will be free from my oath, when you come to my clan. And if they will not give her to you, you will be free from my oath.’"
+            },
+            {
+              "rowId": 214,
+              "keyParts": [
+                "v041_ESV_GEN_024",
+                214,
+                "p6",
+                "verse",
+                "v41",
+                "plain_text"
+              ],
+              "value": "41 Then you will be free from my oath, when you come to my clan. And if they will not give her to you, you will be free from my oath.’"
+            },
+            {
+              "rowId": 215,
+              "keyParts": [
+                215,
+                "p7",
+                "verse",
+                "v42",
+                "label"
+              ],
+              "value": "42"
+            },
+            {
+              "rowId": 216,
+              "keyParts": [
+                216,
+                "p7",
+                "verse",
+                "v42",
+                "content"
+              ],
+              "value": "“I came today to the spring and said,"
+            },
+            {
+              "rowId": 217,
+              "keyParts": [
+                217,
+                "p7",
+                "verse",
+                "v42",
+                "note",
+                "x"
+              ],
+              "value": "#ver.12, 27"
+            },
+            {
+              "rowId": 218,
+              "keyParts": [
+                218,
+                "p7",
+                "verse",
+                "v42",
+                "content"
+              ],
+              "value": "‘O"
+            },
+            {
+              "rowId": 219,
+              "keyParts": [
+                219,
+                "p7",
+                "verse",
+                "v42",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 220,
+              "keyParts": [
+                220,
+                "p7",
+                "verse",
+                "v42",
+                "content"
+              ],
+              "value": ", the God of my master Abraham, if now you"
+            },
+            {
+              "rowId": 221,
+              "keyParts": [
+                221,
+                "p7",
+                "verse",
+                "v42",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.40above]"
+            },
+            {
+              "rowId": 222,
+              "keyParts": [
+                222,
+                "p7",
+                "verse",
+                "v42",
+                "content"
+              ],
+              "value": "are prospering the way that I go,"
+            },
+            {
+              "rowId": 223,
+              "keyParts": [
+                "v042_ESV_GEN_024",
+                223,
+                "p7",
+                "verse",
+                "v42",
+                "plain_text"
+              ],
+              "value": "42 “I came today to the spring and said, ‘O Lord , the God of my master Abraham, if now you are prospering the way that I go,"
+            },
+            {
+              "rowId": 224,
+              "keyParts": [
+                224,
+                "p7",
+                "verse",
+                "v43",
+                "label"
+              ],
+              "value": "43"
+            },
+            {
+              "rowId": 225,
+              "keyParts": [
+                225,
+                "p7",
+                "verse",
+                "v43",
+                "content"
+              ],
+              "value": "behold, I am standing"
+            },
+            {
+              "rowId": 226,
+              "keyParts": [
+                226,
+                "p7",
+                "verse",
+                "v43",
+                "note",
+                "x"
+              ],
+              "value": "#ver.13"
+            },
+            {
+              "rowId": 227,
+              "keyParts": [
+                227,
+                "p7",
+                "verse",
+                "v43",
+                "content"
+              ],
+              "value": "by the spring of water. Let the virgin who comes out to draw water, to whom I shall say, “Please give me a little water from your jar to drink,”"
+            },
+            {
+              "rowId": 228,
+              "keyParts": [
+                "v043_ESV_GEN_024",
+                228,
+                "p7",
+                "verse",
+                "v43",
+                "plain_text"
+              ],
+              "value": "43 behold, I am standing by the spring of water. Let the virgin who comes out to draw water, to whom I shall say, “Please give me a little water from your jar to drink,”"
+            },
+            {
+              "rowId": 229,
+              "keyParts": [
+                229,
+                "p7",
+                "verse",
+                "v44",
+                "label"
+              ],
+              "value": "44"
+            },
+            {
+              "rowId": 230,
+              "keyParts": [
+                230,
+                "p7",
+                "verse",
+                "v44",
+                "note",
+                "x"
+              ],
+              "value": "#ver.14, 18"
+            },
+            {
+              "rowId": 231,
+              "keyParts": [
+                231,
+                "p7",
+                "verse",
+                "v44",
+                "content"
+              ],
+              "value": "and who will say to me, “Drink, and I will draw for your camels also,” let her be the woman whom the"
+            },
+            {
+              "rowId": 232,
+              "keyParts": [
+                232,
+                "p7",
+                "verse",
+                "v44",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 233,
+              "keyParts": [
+                233,
+                "p7",
+                "verse",
+                "v44",
+                "content"
+              ],
+              "value": "has appointed for my master’s son.’"
+            },
+            {
+              "rowId": 234,
+              "keyParts": [
+                "v044_ESV_GEN_024",
+                234,
+                "p7",
+                "verse",
+                "v44",
+                "plain_text"
+              ],
+              "value": "44 and who will say to me, “Drink, and I will draw for your camels also,” let her be the woman whom the Lord has appointed for my master’s son.’"
+            },
+            {
+              "rowId": 235,
+              "keyParts": [
+                235,
+                "p8",
+                "verse",
+                "v45",
+                "label"
+              ],
+              "value": "45"
+            },
+            {
+              "rowId": 236,
+              "keyParts": [
+                236,
+                "p8",
+                "verse",
+                "v45",
+                "content"
+              ],
+              "value": "“Before I had finished"
+            },
+            {
+              "rowId": 237,
+              "keyParts": [
+                237,
+                "p8",
+                "verse",
+                "v45",
+                "note",
+                "x"
+              ],
+              "value": "#1 Sam. 1:13"
+            },
+            {
+              "rowId": 238,
+              "keyParts": [
+                238,
+                "p8",
+                "verse",
+                "v45",
+                "content"
+              ],
+              "value": "speaking in my heart, behold, Rebekah came out with her water jar on her shoulder, and she went down to the spring and drew water. I said to her, ‘Please let me drink.’"
+            },
+            {
+              "rowId": 239,
+              "keyParts": [
+                "v045_ESV_GEN_024",
+                239,
+                "p8",
+                "verse",
+                "v45",
+                "plain_text"
+              ],
+              "value": "45 “Before I had finished speaking in my heart, behold, Rebekah came out with her water jar on her shoulder, and she went down to the spring and drew water. I said to her, ‘Please let me drink.’"
+            },
+            {
+              "rowId": 240,
+              "keyParts": [
+                240,
+                "p8",
+                "verse",
+                "v46",
+                "label"
+              ],
+              "value": "46"
+            },
+            {
+              "rowId": 241,
+              "keyParts": [
+                241,
+                "p8",
+                "verse",
+                "v46",
+                "content"
+              ],
+              "value": "She quickly let down her jar from her shoulder and said, ‘Drink, and I will give your camels drink also.’ So I drank, and she gave the camels drink also."
+            },
+            {
+              "rowId": 242,
+              "keyParts": [
+                "v046_ESV_GEN_024",
+                242,
+                "p8",
+                "verse",
+                "v46",
+                "plain_text"
+              ],
+              "value": "46 She quickly let down her jar from her shoulder and said, ‘Drink, and I will give your camels drink also.’ So I drank, and she gave the camels drink also."
+            },
+            {
+              "rowId": 243,
+              "keyParts": [
+                243,
+                "p8",
+                "verse",
+                "v47",
+                "label"
+              ],
+              "value": "47"
+            },
+            {
+              "rowId": 244,
+              "keyParts": [
+                244,
+                "p8",
+                "verse",
+                "v47",
+                "content"
+              ],
+              "value": "Then I asked her, ‘Whose daughter are you?’ She said, ‘The daughter of Bethuel, Nahor’s son, whom Milcah bore to him.’"
+            },
+            {
+              "rowId": 245,
+              "keyParts": [
+                245,
+                "p8",
+                "verse",
+                "v47",
+                "note",
+                "x"
+              ],
+              "value": "#[Ezek. 16:11,12]"
+            },
+            {
+              "rowId": 246,
+              "keyParts": [
+                246,
+                "p8",
+                "verse",
+                "v47",
+                "content"
+              ],
+              "value": "So I put the ring on her nose and the bracelets on her arms."
+            },
+            {
+              "rowId": 247,
+              "keyParts": [
+                "v047_ESV_GEN_024",
+                247,
+                "p8",
+                "verse",
+                "v47",
+                "plain_text"
+              ],
+              "value": "47 Then I asked her, ‘Whose daughter are you?’ She said, ‘The daughter of Bethuel, Nahor’s son, whom Milcah bore to him.’ So I put the ring on her nose and the bracelets on her arms."
+            },
+            {
+              "rowId": 248,
+              "keyParts": [
+                248,
+                "p8",
+                "verse",
+                "v48",
+                "label"
+              ],
+              "value": "48"
+            },
+            {
+              "rowId": 249,
+              "keyParts": [
+                249,
+                "p8",
+                "verse",
+                "v48",
+                "note",
+                "x"
+              ],
+              "value": "#ver.26, 52"
+            },
+            {
+              "rowId": 250,
+              "keyParts": [
+                250,
+                "p8",
+                "verse",
+                "v48",
+                "content"
+              ],
+              "value": "Then I bowed my head and worshiped the"
+            },
+            {
+              "rowId": 251,
+              "keyParts": [
+                251,
+                "p8",
+                "verse",
+                "v48",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 252,
+              "keyParts": [
+                252,
+                "p8",
+                "verse",
+                "v48",
+                "content"
+              ],
+              "value": "and blessed the"
+            },
+            {
+              "rowId": 253,
+              "keyParts": [
+                253,
+                "p8",
+                "verse",
+                "v48",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 254,
+              "keyParts": [
+                254,
+                "p8",
+                "verse",
+                "v48",
+                "content"
+              ],
+              "value": ","
+            },
+            {
+              "rowId": 255,
+              "keyParts": [
+                255,
+                "p8",
+                "verse",
+                "v48",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.42above]"
+            },
+            {
+              "rowId": 256,
+              "keyParts": [
+                256,
+                "p8",
+                "verse",
+                "v48",
+                "content"
+              ],
+              "value": "the God of my master Abraham, who had led me by the right way"
+            },
+            {
+              "rowId": 257,
+              "keyParts": [
+                257,
+                "p8",
+                "verse",
+                "v48",
+                "note",
+                "f"
+              ],
+              "value": "#24:48Orfaithfully"
+            },
+            {
+              "rowId": 258,
+              "keyParts": [
+                258,
+                "p8",
+                "verse",
+                "v48",
+                "content"
+              ],
+              "value": "to take"
+            },
+            {
+              "rowId": 259,
+              "keyParts": [
+                259,
+                "p8",
+                "verse",
+                "v48",
+                "note",
+                "x"
+              ],
+              "value": "#[ch.22:23]"
+            },
+            {
+              "rowId": 260,
+              "keyParts": [
+                260,
+                "p8",
+                "verse",
+                "v48",
+                "content"
+              ],
+              "value": "the daughter of my master’s kinsman for his son."
+            },
+            {
+              "rowId": 261,
+              "keyParts": [
+                "v048_ESV_GEN_024",
+                261,
+                "p8",
+                "verse",
+                "v48",
+                "plain_text"
+              ],
+              "value": "48 Then I bowed my head and worshiped the Lord and blessed the Lord , the God of my master Abraham, who had led me by the right way to take the daughter of my master’s kinsman for his son."
+            },
+            {
+              "rowId": 262,
+              "keyParts": [
+                262,
+                "p8",
+                "verse",
+                "v49",
+                "label"
+              ],
+              "value": "49"
+            },
+            {
+              "rowId": 263,
+              "keyParts": [
+                263,
+                "p8",
+                "verse",
+                "v49",
+                "content"
+              ],
+              "value": "Now then, if you are going to"
+            },
+            {
+              "rowId": 264,
+              "keyParts": [
+                264,
+                "p8",
+                "verse",
+                "v49",
+                "note",
+                "x"
+              ],
+              "value": "#ch.47:29;Josh. 2:14"
+            },
+            {
+              "rowId": 265,
+              "keyParts": [
+                265,
+                "p8",
+                "verse",
+                "v49",
+                "content"
+              ],
+              "value": "show steadfast love and faithfulness to my master, tell me; and if not, tell me, that I may turn to the right hand or to the left.”"
+            },
+            {
+              "rowId": 266,
+              "keyParts": [
+                "v049_ESV_GEN_024",
+                266,
+                "p8",
+                "verse",
+                "v49",
+                "plain_text"
+              ],
+              "value": "49 Now then, if you are going to show steadfast love and faithfulness to my master, tell me; and if not, tell me, that I may turn to the right hand or to the left.”"
+            },
+            {
+              "rowId": 267,
+              "keyParts": [
+                267,
+                "p9",
+                "verse",
+                "v50",
+                "label"
+              ],
+              "value": "50"
+            },
+            {
+              "rowId": 268,
+              "keyParts": [
+                268,
+                "p9",
+                "verse",
+                "v50",
+                "content"
+              ],
+              "value": "Then Laban and Bethuel answered and said, “The thing has come from the"
+            },
+            {
+              "rowId": 269,
+              "keyParts": [
+                269,
+                "p9",
+                "verse",
+                "v50",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 270,
+              "keyParts": [
+                270,
+                "p9",
+                "verse",
+                "v50",
+                "content"
+              ],
+              "value": "; we cannot"
+            },
+            {
+              "rowId": 271,
+              "keyParts": [
+                271,
+                "p9",
+                "verse",
+                "v50",
+                "note",
+                "x"
+              ],
+              "value": "#ch.31:24;2 Sam. 13:22"
+            },
+            {
+              "rowId": 272,
+              "keyParts": [
+                272,
+                "p9",
+                "verse",
+                "v50",
+                "content"
+              ],
+              "value": "speak to you bad or good."
+            },
+            {
+              "rowId": 273,
+              "keyParts": [
+                "v050_ESV_GEN_024",
+                273,
+                "p9",
+                "verse",
+                "v50",
+                "plain_text"
+              ],
+              "value": "50 Then Laban and Bethuel answered and said, “The thing has come from the Lord ; we cannot speak to you bad or good."
+            },
+            {
+              "rowId": 274,
+              "keyParts": [
+                274,
+                "p9",
+                "verse",
+                "v51",
+                "label"
+              ],
+              "value": "51"
+            },
+            {
+              "rowId": 275,
+              "keyParts": [
+                275,
+                "p9",
+                "verse",
+                "v51",
+                "content"
+              ],
+              "value": "Behold, Rebekah is before you; take her and go, and let her be the wife of your master’s son,"
+            },
+            {
+              "rowId": 276,
+              "keyParts": [
+                276,
+                "p9",
+                "verse",
+                "v51",
+                "note",
+                "x"
+              ],
+              "value": "#See ver.13-15"
+            },
+            {
+              "rowId": 277,
+              "keyParts": [
+                277,
+                "p9",
+                "verse",
+                "v51",
+                "content"
+              ],
+              "value": "as the"
+            },
+            {
+              "rowId": 278,
+              "keyParts": [
+                278,
+                "p9",
+                "verse",
+                "v51",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 279,
+              "keyParts": [
+                279,
+                "p9",
+                "verse",
+                "v51",
+                "content"
+              ],
+              "value": "has spoken.”"
+            },
+            {
+              "rowId": 280,
+              "keyParts": [
+                "v051_ESV_GEN_024",
+                280,
+                "p9",
+                "verse",
+                "v51",
+                "plain_text"
+              ],
+              "value": "51 Behold, Rebekah is before you; take her and go, and let her be the wife of your master’s son, as the Lord has spoken.”"
+            },
+            {
+              "rowId": 281,
+              "keyParts": [
+                281,
+                "p10",
+                "verse",
+                "v52",
+                "label"
+              ],
+              "value": "52"
+            },
+            {
+              "rowId": 282,
+              "keyParts": [
+                282,
+                "p10",
+                "verse",
+                "v52",
+                "content"
+              ],
+              "value": "When Abraham’s servant heard their words,"
+            },
+            {
+              "rowId": 283,
+              "keyParts": [
+                283,
+                "p10",
+                "verse",
+                "v52",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.48above]"
+            },
+            {
+              "rowId": 284,
+              "keyParts": [
+                284,
+                "p10",
+                "verse",
+                "v52",
+                "content"
+              ],
+              "value": "he bowed himself to the earth before the"
+            },
+            {
+              "rowId": 285,
+              "keyParts": [
+                285,
+                "p10",
+                "verse",
+                "v52",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 286,
+              "keyParts": [
+                286,
+                "p10",
+                "verse",
+                "v52",
+                "content"
+              ],
+              "value": "."
+            },
+            {
+              "rowId": 287,
+              "keyParts": [
+                "v052_ESV_GEN_024",
+                287,
+                "p10",
+                "verse",
+                "v52",
+                "plain_text"
+              ],
+              "value": "52 When Abraham’s servant heard their words, he bowed himself to the earth before the Lord ."
+            },
+            {
+              "rowId": 288,
+              "keyParts": [
+                288,
+                "p10",
+                "verse",
+                "v53",
+                "label"
+              ],
+              "value": "53"
+            },
+            {
+              "rowId": 289,
+              "keyParts": [
+                289,
+                "p10",
+                "verse",
+                "v53",
+                "content"
+              ],
+              "value": "And the servant brought out jewelry of silver and of gold, and garments, and gave them to Rebekah. He also gave to her brother and to her mother costly ornaments."
+            },
+            {
+              "rowId": 290,
+              "keyParts": [
+                "v053_ESV_GEN_024",
+                290,
+                "p10",
+                "verse",
+                "v53",
+                "plain_text"
+              ],
+              "value": "53 And the servant brought out jewelry of silver and of gold, and garments, and gave them to Rebekah. He also gave to her brother and to her mother costly ornaments."
+            },
+            {
+              "rowId": 291,
+              "keyParts": [
+                291,
+                "p10",
+                "verse",
+                "v54",
+                "label"
+              ],
+              "value": "54"
+            },
+            {
+              "rowId": 292,
+              "keyParts": [
+                292,
+                "p10",
+                "verse",
+                "v54",
+                "content"
+              ],
+              "value": "And he and the men who were with him ate and drank, and they spent the night there. When they arose in the morning, he said,"
+            },
+            {
+              "rowId": 293,
+              "keyParts": [
+                293,
+                "p10",
+                "verse",
+                "v54",
+                "note",
+                "x"
+              ],
+              "value": "#ver.56, 59"
+            },
+            {
+              "rowId": 294,
+              "keyParts": [
+                294,
+                "p10",
+                "verse",
+                "v54",
+                "content"
+              ],
+              "value": "“Send me away to my master.”"
+            },
+            {
+              "rowId": 295,
+              "keyParts": [
+                "v054_ESV_GEN_024",
+                295,
+                "p10",
+                "verse",
+                "v54",
+                "plain_text"
+              ],
+              "value": "54 And he and the men who were with him ate and drank, and they spent the night there. When they arose in the morning, he said, “Send me away to my master.”"
+            },
+            {
+              "rowId": 296,
+              "keyParts": [
+                296,
+                "p10",
+                "verse",
+                "v55",
+                "label"
+              ],
+              "value": "55"
+            },
+            {
+              "rowId": 297,
+              "keyParts": [
+                297,
+                "p10",
+                "verse",
+                "v55",
+                "content"
+              ],
+              "value": "Her brother and her mother said, “Let the young woman remain with us a while, at least ten days; after that she may go.”"
+            },
+            {
+              "rowId": 298,
+              "keyParts": [
+                "v055_ESV_GEN_024",
+                298,
+                "p10",
+                "verse",
+                "v55",
+                "plain_text"
+              ],
+              "value": "55 Her brother and her mother said, “Let the young woman remain with us a while, at least ten days; after that she may go.”"
+            },
+            {
+              "rowId": 299,
+              "keyParts": [
+                299,
+                "p10",
+                "verse",
+                "v56",
+                "label"
+              ],
+              "value": "56"
+            },
+            {
+              "rowId": 300,
+              "keyParts": [
+                300,
+                "p10",
+                "verse",
+                "v56",
+                "content"
+              ],
+              "value": "But he said to them, “Do not delay me, since the"
+            },
+            {
+              "rowId": 301,
+              "keyParts": [
+                301,
+                "p10",
+                "verse",
+                "v56",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 302,
+              "keyParts": [
+                302,
+                "p10",
+                "verse",
+                "v56",
+                "content"
+              ],
+              "value": "has prospered my way. Send me away that I may go to my master.”"
+            },
+            {
+              "rowId": 303,
+              "keyParts": [
+                "v056_ESV_GEN_024",
+                303,
+                "p10",
+                "verse",
+                "v56",
+                "plain_text"
+              ],
+              "value": "56 But he said to them, “Do not delay me, since the Lord has prospered my way. Send me away that I may go to my master.”"
+            },
+            {
+              "rowId": 304,
+              "keyParts": [
+                304,
+                "p10",
+                "verse",
+                "v57",
+                "label"
+              ],
+              "value": "57"
+            },
+            {
+              "rowId": 305,
+              "keyParts": [
+                305,
+                "p10",
+                "verse",
+                "v57",
+                "content"
+              ],
+              "value": "They said, “Let us call the young woman and ask her.”"
+            },
+            {
+              "rowId": 306,
+              "keyParts": [
+                "v057_ESV_GEN_024",
+                306,
+                "p10",
+                "verse",
+                "v57",
+                "plain_text"
+              ],
+              "value": "57 They said, “Let us call the young woman and ask her.”"
+            },
+            {
+              "rowId": 307,
+              "keyParts": [
+                307,
+                "p10",
+                "verse",
+                "v58",
+                "label"
+              ],
+              "value": "58"
+            },
+            {
+              "rowId": 308,
+              "keyParts": [
+                308,
+                "p10",
+                "verse",
+                "v58",
+                "content"
+              ],
+              "value": "And they called Rebekah and said to her, “Will you go with this man?” She said, “I will go.”"
+            },
+            {
+              "rowId": 309,
+              "keyParts": [
+                "v058_ESV_GEN_024",
+                309,
+                "p10",
+                "verse",
+                "v58",
+                "plain_text"
+              ],
+              "value": "58 And they called Rebekah and said to her, “Will you go with this man?” She said, “I will go.”"
+            },
+            {
+              "rowId": 310,
+              "keyParts": [
+                310,
+                "p10",
+                "verse",
+                "v59",
+                "label"
+              ],
+              "value": "59"
+            },
+            {
+              "rowId": 311,
+              "keyParts": [
+                311,
+                "p10",
+                "verse",
+                "v59",
+                "content"
+              ],
+              "value": "So they sent away Rebekah their sister and"
+            },
+            {
+              "rowId": 312,
+              "keyParts": [
+                312,
+                "p10",
+                "verse",
+                "v59",
+                "note",
+                "x"
+              ],
+              "value": "#ch.35:8"
+            },
+            {
+              "rowId": 313,
+              "keyParts": [
+                313,
+                "p10",
+                "verse",
+                "v59",
+                "content"
+              ],
+              "value": "her nurse, and Abraham’s servant and his men."
+            },
+            {
+              "rowId": 314,
+              "keyParts": [
+                "v059_ESV_GEN_024",
+                314,
+                "p10",
+                "verse",
+                "v59",
+                "plain_text"
+              ],
+              "value": "59 So they sent away Rebekah their sister and her nurse, and Abraham’s servant and his men."
+            },
+            {
+              "rowId": 315,
+              "keyParts": [
+                315,
+                "p10",
+                "verse",
+                "v60",
+                "label"
+              ],
+              "value": "60"
+            },
+            {
+              "rowId": 316,
+              "keyParts": [
+                316,
+                "p10",
+                "verse",
+                "v60",
+                "content"
+              ],
+              "value": "And they blessed Rebekah and said to her,"
+            },
+            {
+              "rowId": 317,
+              "keyParts": [
+                317,
+                "q1_1",
+                "verse",
+                "v60",
+                "content"
+              ],
+              "value": "“Our sister, may you"
+            },
+            {
+              "rowId": 318,
+              "keyParts": [
+                318,
+                "q1_1",
+                "verse",
+                "v60",
+                "note",
+                "x"
+              ],
+              "value": "#ch.17:16"
+            },
+            {
+              "rowId": 319,
+              "keyParts": [
+                319,
+                "q1_1",
+                "verse",
+                "v60",
+                "content"
+              ],
+              "value": "become"
+            },
+            {
+              "rowId": 320,
+              "keyParts": [
+                320,
+                "q2_1",
+                "verse",
+                "v60",
+                "content"
+              ],
+              "value": "thousands of ten thousands,"
+            },
+            {
+              "rowId": 321,
+              "keyParts": [
+                321,
+                "q1_2",
+                "verse",
+                "v60",
+                "content"
+              ],
+              "value": "and"
+            },
+            {
+              "rowId": 322,
+              "keyParts": [
+                322,
+                "q1_2",
+                "verse",
+                "v60",
+                "note",
+                "x"
+              ],
+              "value": "#ch.22:17"
+            },
+            {
+              "rowId": 323,
+              "keyParts": [
+                323,
+                "q1_2",
+                "verse",
+                "v60",
+                "content"
+              ],
+              "value": "may your offspring possess"
+            },
+            {
+              "rowId": 324,
+              "keyParts": [
+                324,
+                "q2_2",
+                "verse",
+                "v60",
+                "content"
+              ],
+              "value": "the gate of those who hate him!”"
+            },
+            {
+              "rowId": 325,
+              "keyParts": [
+                325,
+                "q2_2",
+                "verse",
+                "v60",
+                "note",
+                "f"
+              ],
+              "value": "#24:60Orhate them"
+            },
+            {
+              "rowId": 326,
+              "keyParts": [
+                "v060_ESV_GEN_024",
+                326,
+                "p10",
+                "verse",
+                "v60",
+                "plain_text"
+              ],
+              "value": "60 And they blessed Rebekah and said to her, “Our sister, may you become thousands of ten thousands, and may your offspring possess the gate of those who hate him!”"
+            },
+            {
+              "rowId": 327,
+              "keyParts": [
+                327,
+                "p11",
+                "verse",
+                "v61",
+                "label"
+              ],
+              "value": "61"
+            },
+            {
+              "rowId": 328,
+              "keyParts": [
+                328,
+                "p11",
+                "verse",
+                "v61",
+                "content"
+              ],
+              "value": "Then Rebekah and her young women arose and rode on the camels and followed the man. Thus the servant took Rebekah and went his way."
+            },
+            {
+              "rowId": 329,
+              "keyParts": [
+                "v061_ESV_GEN_024",
+                329,
+                "p11",
+                "verse",
+                "v61",
+                "plain_text"
+              ],
+              "value": "61 Then Rebekah and her young women arose and rode on the camels and followed the man. Thus the servant took Rebekah and went his way."
+            },
+            {
+              "rowId": 330,
+              "keyParts": [
+                330,
+                "p12",
+                "verse",
+                "v62",
+                "label"
+              ],
+              "value": "62"
+            },
+            {
+              "rowId": 331,
+              "keyParts": [
+                331,
+                "p12",
+                "verse",
+                "v62",
+                "content"
+              ],
+              "value": "Now Isaac had returned from"
+            },
+            {
+              "rowId": 332,
+              "keyParts": [
+                332,
+                "p12",
+                "verse",
+                "v62",
+                "note",
+                "x"
+              ],
+              "value": "#ch.16:14;25:11"
+            },
+            {
+              "rowId": 333,
+              "keyParts": [
+                333,
+                "p12",
+                "verse",
+                "v62",
+                "content"
+              ],
+              "value": "Beer-lahai-roi and was dwelling in the Negeb."
+            },
+            {
+              "rowId": 334,
+              "keyParts": [
+                "v062_ESV_GEN_024",
+                334,
+                "p12",
+                "verse",
+                "v62",
+                "plain_text"
+              ],
+              "value": "62 Now Isaac had returned from Beer-lahai-roi and was dwelling in the Negeb."
+            },
+            {
+              "rowId": 335,
+              "keyParts": [
+                335,
+                "p12",
+                "verse",
+                "v63",
+                "label"
+              ],
+              "value": "63"
+            },
+            {
+              "rowId": 336,
+              "keyParts": [
+                336,
+                "p12",
+                "verse",
+                "v63",
+                "content"
+              ],
+              "value": "And Isaac went out"
+            },
+            {
+              "rowId": 337,
+              "keyParts": [
+                337,
+                "p12",
+                "verse",
+                "v63",
+                "note",
+                "x"
+              ],
+              "value": "#Ps. 77:12;143:5"
+            },
+            {
+              "rowId": 338,
+              "keyParts": [
+                338,
+                "p12",
+                "verse",
+                "v63",
+                "content"
+              ],
+              "value": "to meditate in the field toward evening. And he lifted up his eyes and saw, and behold, there were camels coming."
+            },
+            {
+              "rowId": 339,
+              "keyParts": [
+                "v063_ESV_GEN_024",
+                339,
+                "p12",
+                "verse",
+                "v63",
+                "plain_text"
+              ],
+              "value": "63 And Isaac went out to meditate in the field toward evening. And he lifted up his eyes and saw, and behold, there were camels coming."
+            },
+            {
+              "rowId": 340,
+              "keyParts": [
+                340,
+                "p12",
+                "verse",
+                "v64",
+                "label"
+              ],
+              "value": "64"
+            },
+            {
+              "rowId": 341,
+              "keyParts": [
+                341,
+                "p12",
+                "verse",
+                "v64",
+                "content"
+              ],
+              "value": "And Rebekah lifted up her eyes, and when she saw Isaac, she dismounted from the camel"
+            },
+            {
+              "rowId": 342,
+              "keyParts": [
+                "v064_ESV_GEN_024",
+                342,
+                "p12",
+                "verse",
+                "v64",
+                "plain_text"
+              ],
+              "value": "64 And Rebekah lifted up her eyes, and when she saw Isaac, she dismounted from the camel"
+            },
+            {
+              "rowId": 343,
+              "keyParts": [
+                343,
+                "p12",
+                "verse",
+                "v65",
+                "label"
+              ],
+              "value": "65"
+            },
+            {
+              "rowId": 344,
+              "keyParts": [
+                344,
+                "p12",
+                "verse",
+                "v65",
+                "content"
+              ],
+              "value": "and said to the servant, “Who is that man, walking in the field to meet us?” The servant said, “It is my master.” So she took her veil and covered herself."
+            },
+            {
+              "rowId": 345,
+              "keyParts": [
+                "v065_ESV_GEN_024",
+                345,
+                "p12",
+                "verse",
+                "v65",
+                "plain_text"
+              ],
+              "value": "65 and said to the servant, “Who is that man, walking in the field to meet us?” The servant said, “It is my master.” So she took her veil and covered herself."
+            },
+            {
+              "rowId": 346,
+              "keyParts": [
+                346,
+                "p12",
+                "verse",
+                "v66",
+                "label"
+              ],
+              "value": "66"
+            },
+            {
+              "rowId": 347,
+              "keyParts": [
+                347,
+                "p12",
+                "verse",
+                "v66",
+                "content"
+              ],
+              "value": "And the servant told Isaac all the things that he had done."
+            },
+            {
+              "rowId": 348,
+              "keyParts": [
+                "v066_ESV_GEN_024",
+                348,
+                "p12",
+                "verse",
+                "v66",
+                "plain_text"
+              ],
+              "value": "66 And the servant told Isaac all the things that he had done."
+            },
+            {
+              "rowId": 349,
+              "keyParts": [
+                349,
+                "p12",
+                "verse",
+                "v67",
+                "label"
+              ],
+              "value": "67"
+            },
+            {
+              "rowId": 350,
+              "keyParts": [
+                350,
+                "p12",
+                "verse",
+                "v67",
+                "content"
+              ],
+              "value": "Then Isaac brought her into the tent of Sarah his mother and took Rebekah, and she became his wife, and he loved her. So Isaac was"
+            },
+            {
+              "rowId": 351,
+              "keyParts": [
+                351,
+                "p12",
+                "verse",
+                "v67",
+                "note",
+                "x"
+              ],
+              "value": "#ch.37:35;38:12"
+            },
+            {
+              "rowId": 352,
+              "keyParts": [
+                352,
+                "p12",
+                "verse",
+                "v67",
+                "content"
+              ],
+              "value": "comforted after his mother’s"
+            },
+            {
+              "rowId": 353,
+              "keyParts": [
+                353,
+                "p12",
+                "verse",
+                "v67",
+                "note",
+                "x"
+              ],
+              "value": "#ch.23:2"
+            },
+            {
+              "rowId": 354,
+              "keyParts": [
+                354,
+                "p12",
+                "verse",
+                "v67",
+                "content"
+              ],
+              "value": "death."
+            },
+            {
+              "rowId": 355,
+              "keyParts": [
+                "v067_ESV_GEN_024",
+                355,
+                "p12",
+                "verse",
+                "v67",
+                "plain_text"
+              ],
+              "value": "67 Then Isaac brought her into the tent of Sarah his mother and took Rebekah, and she became his wife, and he loved her. So Isaac was comforted after his mother’s death."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

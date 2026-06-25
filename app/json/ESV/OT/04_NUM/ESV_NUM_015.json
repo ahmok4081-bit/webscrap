@@ -1,0 +1,2953 @@
+{
+  "translationId": "ESV",
+  "name": "English Standard Version",
+  "abbreviation": "ESV",
+  "language": "English",
+  "copyright": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.",
+  "books": [
+    {
+      "bookId": "NUM",
+      "testament": "OT",
+      "order": 4,
+      "title": "Numbers",
+      "abbreviation": "NUM",
+      "chapters": [
+        {
+          "chapter": 15,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Laws About Sacrifices"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "The"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "spoke to Moses, saying,"
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                "v001_ESV_NUM_015",
+                7,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 The Lord spoke to Moses, saying,"
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                9,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "“Speak to the people of Israel and say to them,"
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#ver.18;Lev. 23:10;Deut. 26:1"
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                11,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "When you come into the land you are to inhabit, which I am giving you,"
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                "v002_ESV_NUM_015",
+                12,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 “Speak to the people of Israel and say to them, When you come into the land you are to inhabit, which I am giving you,"
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                13,
+                "p1",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "and"
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                15,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#Lev. 1:2,3"
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                16,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "you offer to the"
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                17,
+                "p1",
+                "verse",
+                "v3",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "from the herd or from the flock a food offering"
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "f"
+              ],
+              "value": "#15:3Oran offering by fire; so throughout Numbers"
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                20,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "or a burnt offering or a sacrifice,"
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#Lev. 22:21;27:2"
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                22,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "to fulfill a vow or as a freewill offering or"
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#ch.28:19,27;Lev. 23:8,12,36;Deut. 16:10"
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                24,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "at your appointed feasts, to make a"
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 29:18;Lev. 4:31;SeeGen. 8:21"
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                26,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "pleasing aroma to the"
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                27,
+                "p1",
+                "verse",
+                "v3",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                28,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": ","
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                "v003_ESV_NUM_015",
+                29,
+                "p1",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 and you offer to the Lord from the herd or from the flock a food offering or a burnt offering or a sacrifice, to fulfill a vow or as a freewill offering or at your appointed feasts, to make a pleasing aroma to the Lord ,"
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                30,
+                "p1",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                31,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "then"
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#Lev. 2:1;6:14"
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                33,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "he who brings his offering shall offer to the"
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                34,
+                "p1",
+                "verse",
+                "v4",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                35,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 29:40;Lev. 23:13"
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "a grain offering of a tenth of an ephah"
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                37,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "f"
+              ],
+              "value": "#15:4Anephahwas about 3/5 bushel or 22 liters"
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                38,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "of fine flour,"
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                39,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#ch.28:5;Lev. 14:10"
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                40,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "mixed with a quarter of a hin"
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "f"
+              ],
+              "value": "#15:4Ahinwas about 4 quarts or 3.5 liters"
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "of oil;"
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                "v004_ESV_NUM_015",
+                43,
+                "p1",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 then he who brings his offering shall offer to the Lord a grain offering of a tenth of an ephah of fine flour, mixed with a quarter of a hin of oil;"
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                44,
+                "p1",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                45,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "and you shall offer with the burnt offering, or for the sacrifice, a quarter of a hin of"
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                46,
+                "p1",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#ch.28:7,14"
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                47,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "wine for the drink offering for each lamb."
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                "v005_ESV_NUM_015",
+                48,
+                "p1",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 and you shall offer with the burnt offering, or for the sacrifice, a quarter of a hin of wine for the drink offering for each lamb."
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                49,
+                "p1",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "p1",
+                "verse",
+                "v6",
+                "note",
+                "x"
+              ],
+              "value": "#ch.28:12,14"
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                51,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "Or for a ram, you shall offer for a grain offering two tenths of an ephah of fine flour mixed with a third of a hin of oil."
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                "v006_ESV_NUM_015",
+                52,
+                "p1",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 Or for a ram, you shall offer for a grain offering two tenths of an ephah of fine flour mixed with a third of a hin of oil."
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                53,
+                "p1",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                54,
+                "p1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "And for the drink offering you shall offer a third of a hin of wine, a"
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                55,
+                "p1",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.3above]"
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                56,
+                "p1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "pleasing aroma to the"
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                57,
+                "p1",
+                "verse",
+                "v7",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                58,
+                "p1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "."
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                "v007_ESV_NUM_015",
+                59,
+                "p1",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 And for the drink offering you shall offer a third of a hin of wine, a pleasing aroma to the Lord ."
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                60,
+                "p1",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                61,
+                "p1",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "And when you offer a bull as a burnt offering or sacrifice, to"
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                62,
+                "p1",
+                "verse",
+                "v8",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.3above]"
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                63,
+                "p1",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "fulfill a vow or for"
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                64,
+                "p1",
+                "verse",
+                "v8",
+                "note",
+                "x"
+              ],
+              "value": "#Lev. 7:11"
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                65,
+                "p1",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "peace offerings to the"
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                66,
+                "p1",
+                "verse",
+                "v8",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                67,
+                "p1",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": ","
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                "v008_ESV_NUM_015",
+                68,
+                "p1",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 And when you offer a bull as a burnt offering or sacrifice, to fulfill a vow or for peace offerings to the Lord ,"
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                69,
+                "p1",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                70,
+                "p1",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "then one shall offer"
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                71,
+                "p1",
+                "verse",
+                "v9",
+                "note",
+                "x"
+              ],
+              "value": "#ch.28:12,14;SeeLev. 6:14-17"
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                72,
+                "p1",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "with the bull a grain offering of three tenths of an ephah of fine flour, mixed with half a hin of oil."
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                "v009_ESV_NUM_015",
+                73,
+                "p1",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 then one shall offer with the bull a grain offering of three tenths of an ephah of fine flour, mixed with half a hin of oil."
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                74,
+                "p1",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                75,
+                "p1",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "And you shall offer for the drink offering half a hin of wine, as a food offering, a pleasing aroma to the"
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                76,
+                "p1",
+                "verse",
+                "v10",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                77,
+                "p1",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "."
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                "v010_ESV_NUM_015",
+                78,
+                "p1",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 And you shall offer for the drink offering half a hin of wine, as a food offering, a pleasing aroma to the Lord ."
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                79,
+                "p2",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                80,
+                "p2",
+                "verse",
+                "v11",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.28"
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                81,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "“Thus it shall be done for each bull or ram, or for each lamb or young goat."
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                "v011_ESV_NUM_015",
+                82,
+                "p2",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 “Thus it shall be done for each bull or ram, or for each lamb or young goat."
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                83,
+                "p2",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                84,
+                "p2",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "As many as you offer, so shall you do with each one, as many as there are."
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                "v012_ESV_NUM_015",
+                85,
+                "p2",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 As many as you offer, so shall you do with each one, as many as there are."
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                86,
+                "p2",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                87,
+                "p2",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "Every native Israelite shall do these things in this way, in offering a food offering, with a pleasing aroma to the"
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                88,
+                "p2",
+                "verse",
+                "v13",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                89,
+                "p2",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "."
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                "v013_ESV_NUM_015",
+                90,
+                "p2",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 Every native Israelite shall do these things in this way, in offering a food offering, with a pleasing aroma to the Lord ."
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                91,
+                "p2",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                92,
+                "p2",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "And if a stranger is sojourning with you, or anyone is living permanently among you, and he wishes to offer a food offering, with a pleasing aroma to the"
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                93,
+                "p2",
+                "verse",
+                "v14",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                94,
+                "p2",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": ", he shall do as you do."
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                "v014_ESV_NUM_015",
+                95,
+                "p2",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 And if a stranger is sojourning with you, or anyone is living permanently among you, and he wishes to offer a food offering, with a pleasing aroma to the Lord , he shall do as you do."
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                96,
+                "p2",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                97,
+                "p2",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "For the assembly,"
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                98,
+                "p2",
+                "verse",
+                "v15",
+                "note",
+                "x"
+              ],
+              "value": "#ver.29, 30;ch.9:14;Ex. 12:49"
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                99,
+                "p2",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "there shall be one statute for you and for the stranger who sojourns with you, a statute forever throughout your generations. You and the sojourner shall be alike before the"
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                100,
+                "p2",
+                "verse",
+                "v15",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                101,
+                "p2",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "."
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                "v015_ESV_NUM_015",
+                102,
+                "p2",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 For the assembly, there shall be one statute for you and for the stranger who sojourns with you, a statute forever throughout your generations. You and the sojourner shall be alike before the Lord ."
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                103,
+                "p2",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                104,
+                "p2",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "One law and one rule shall be for you and for the stranger who sojourns with you.”"
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                "v016_ESV_NUM_015",
+                105,
+                "p2",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 One law and one rule shall be for you and for the stranger who sojourns with you.”"
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                106,
+                "p3",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                107,
+                "p3",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "The"
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                108,
+                "p3",
+                "verse",
+                "v17",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                109,
+                "p3",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "spoke to Moses, saying,"
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                "v017_ESV_NUM_015",
+                110,
+                "p3",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 The Lord spoke to Moses, saying,"
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                111,
+                "p3",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                112,
+                "p3",
+                "verse",
+                "v18",
+                "note",
+                "x"
+              ],
+              "value": "#ver.2"
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                113,
+                "p3",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "“Speak to the people of Israel and say to them, When you come into the land to which I bring you"
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                "v018_ESV_NUM_015",
+                114,
+                "p3",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 “Speak to the people of Israel and say to them, When you come into the land to which I bring you"
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                115,
+                "p3",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                116,
+                "p3",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "and when you eat of"
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                117,
+                "p3",
+                "verse",
+                "v19",
+                "note",
+                "x"
+              ],
+              "value": "#[Josh. 5:11,12]"
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                118,
+                "p3",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "the bread of the land, you shall present a contribution to the"
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                119,
+                "p3",
+                "verse",
+                "v19",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                120,
+                "p3",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "."
+            },
+            {
+              "rowId": 121,
+              "keyParts": [
+                "v019_ESV_NUM_015",
+                121,
+                "p3",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 and when you eat of the bread of the land, you shall present a contribution to the Lord ."
+            },
+            {
+              "rowId": 122,
+              "keyParts": [
+                122,
+                "p3",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 123,
+              "keyParts": [
+                123,
+                "p3",
+                "verse",
+                "v20",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 26:2,10;Neh. 10:37;Ezek. 44:30"
+            },
+            {
+              "rowId": 124,
+              "keyParts": [
+                124,
+                "p3",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "Of the first of your dough you shall present a loaf as a contribution; like a"
+            },
+            {
+              "rowId": 125,
+              "keyParts": [
+                125,
+                "p3",
+                "verse",
+                "v20",
+                "note",
+                "x"
+              ],
+              "value": "#Lev. 2:14;SeeLev. 23:10-17"
+            },
+            {
+              "rowId": 126,
+              "keyParts": [
+                126,
+                "p3",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "contribution from the threshing floor, so shall you present it."
+            },
+            {
+              "rowId": 127,
+              "keyParts": [
+                "v020_ESV_NUM_015",
+                127,
+                "p3",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 Of the first of your dough you shall present a loaf as a contribution; like a contribution from the threshing floor, so shall you present it."
+            },
+            {
+              "rowId": 128,
+              "keyParts": [
+                128,
+                "p3",
+                "verse",
+                "v21",
+                "label"
+              ],
+              "value": "21"
+            },
+            {
+              "rowId": 129,
+              "keyParts": [
+                129,
+                "p3",
+                "verse",
+                "v21",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.20above]"
+            },
+            {
+              "rowId": 130,
+              "keyParts": [
+                130,
+                "p3",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "Some of the first of your dough you shall give to the"
+            },
+            {
+              "rowId": 131,
+              "keyParts": [
+                131,
+                "p3",
+                "verse",
+                "v21",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 132,
+              "keyParts": [
+                132,
+                "p3",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "as a contribution throughout your generations."
+            },
+            {
+              "rowId": 133,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Laws About Unintentional Sins"
+            },
+            {
+              "rowId": 134,
+              "keyParts": [
+                "v021_ESV_NUM_015",
+                134,
+                "p3",
+                "verse",
+                "v21",
+                "plain_text"
+              ],
+              "value": "21 Some of the first of your dough you shall give to the Lord as a contribution throughout your generations."
+            },
+            {
+              "rowId": 135,
+              "keyParts": [
+                135,
+                "p4",
+                "verse",
+                "v22",
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 136,
+              "keyParts": [
+                136,
+                "p4",
+                "verse",
+                "v22",
+                "note",
+                "x"
+              ],
+              "value": "#[Lev. 4:2]"
+            },
+            {
+              "rowId": 137,
+              "keyParts": [
+                137,
+                "p4",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "“But if you sin unintentionally,"
+            },
+            {
+              "rowId": 138,
+              "keyParts": [
+                138,
+                "p4",
+                "verse",
+                "v22",
+                "note",
+                "f"
+              ],
+              "value": "#15:22Orby mistake; also verses 24, 27, 28, 29"
+            },
+            {
+              "rowId": 139,
+              "keyParts": [
+                139,
+                "p4",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "and do not observe all these commandments that the"
+            },
+            {
+              "rowId": 140,
+              "keyParts": [
+                140,
+                "p4",
+                "verse",
+                "v22",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 141,
+              "keyParts": [
+                141,
+                "p4",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "has spoken to Moses,"
+            },
+            {
+              "rowId": 142,
+              "keyParts": [
+                "v022_ESV_NUM_015",
+                142,
+                "p4",
+                "verse",
+                "v22",
+                "plain_text"
+              ],
+              "value": "22 “But if you sin unintentionally, and do not observe all these commandments that the Lord has spoken to Moses,"
+            },
+            {
+              "rowId": 143,
+              "keyParts": [
+                143,
+                "p4",
+                "verse",
+                "v23",
+                "label"
+              ],
+              "value": "23"
+            },
+            {
+              "rowId": 144,
+              "keyParts": [
+                144,
+                "p4",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "all that the"
+            },
+            {
+              "rowId": 145,
+              "keyParts": [
+                145,
+                "p4",
+                "verse",
+                "v23",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 146,
+              "keyParts": [
+                146,
+                "p4",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "has commanded you by Moses, from the day that the"
+            },
+            {
+              "rowId": 147,
+              "keyParts": [
+                147,
+                "p4",
+                "verse",
+                "v23",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 148,
+              "keyParts": [
+                148,
+                "p4",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "gave commandment, and onward throughout your generations,"
+            },
+            {
+              "rowId": 149,
+              "keyParts": [
+                "v023_ESV_NUM_015",
+                149,
+                "p4",
+                "verse",
+                "v23",
+                "plain_text"
+              ],
+              "value": "23 all that the Lord has commanded you by Moses, from the day that the Lord gave commandment, and onward throughout your generations,"
+            },
+            {
+              "rowId": 150,
+              "keyParts": [
+                150,
+                "p4",
+                "verse",
+                "v24",
+                "label"
+              ],
+              "value": "24"
+            },
+            {
+              "rowId": 151,
+              "keyParts": [
+                151,
+                "p4",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "then if it was done unintentionally"
+            },
+            {
+              "rowId": 152,
+              "keyParts": [
+                152,
+                "p4",
+                "verse",
+                "v24",
+                "note",
+                "x"
+              ],
+              "value": "#[Lev. 4:13]"
+            },
+            {
+              "rowId": 153,
+              "keyParts": [
+                153,
+                "p4",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "without the knowledge of the congregation, all the congregation shall offer one bull from the herd for a burnt offering, a pleasing aroma to the"
+            },
+            {
+              "rowId": 154,
+              "keyParts": [
+                154,
+                "p4",
+                "verse",
+                "v24",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 155,
+              "keyParts": [
+                155,
+                "p4",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": ","
+            },
+            {
+              "rowId": 156,
+              "keyParts": [
+                156,
+                "p4",
+                "verse",
+                "v24",
+                "note",
+                "x"
+              ],
+              "value": "#ver.8-10"
+            },
+            {
+              "rowId": 157,
+              "keyParts": [
+                157,
+                "p4",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "with its grain offering and its drink offering, according to the rule, and"
+            },
+            {
+              "rowId": 158,
+              "keyParts": [
+                158,
+                "p4",
+                "verse",
+                "v24",
+                "note",
+                "x"
+              ],
+              "value": "#ch.28:15;Lev. 4:23"
+            },
+            {
+              "rowId": 159,
+              "keyParts": [
+                159,
+                "p4",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "one male goat for a sin offering."
+            },
+            {
+              "rowId": 160,
+              "keyParts": [
+                "v024_ESV_NUM_015",
+                160,
+                "p4",
+                "verse",
+                "v24",
+                "plain_text"
+              ],
+              "value": "24 then if it was done unintentionally without the knowledge of the congregation, all the congregation shall offer one bull from the herd for a burnt offering, a pleasing aroma to the Lord , with its grain offering and its drink offering, according to the rule, and one male goat for a sin offering."
+            },
+            {
+              "rowId": 161,
+              "keyParts": [
+                161,
+                "p4",
+                "verse",
+                "v25",
+                "label"
+              ],
+              "value": "25"
+            },
+            {
+              "rowId": 162,
+              "keyParts": [
+                162,
+                "p4",
+                "verse",
+                "v25",
+                "note",
+                "x"
+              ],
+              "value": "#Lev. 4:20"
+            },
+            {
+              "rowId": 163,
+              "keyParts": [
+                163,
+                "p4",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "And the priest shall make atonement for all the congregation of the people of Israel, and they shall be forgiven, because it was a mistake, and they have brought their offering, a food offering to the"
+            },
+            {
+              "rowId": 164,
+              "keyParts": [
+                164,
+                "p4",
+                "verse",
+                "v25",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 165,
+              "keyParts": [
+                165,
+                "p4",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": ", and their sin offering before the"
+            },
+            {
+              "rowId": 166,
+              "keyParts": [
+                166,
+                "p4",
+                "verse",
+                "v25",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 167,
+              "keyParts": [
+                167,
+                "p4",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "for their mistake."
+            },
+            {
+              "rowId": 168,
+              "keyParts": [
+                "v025_ESV_NUM_015",
+                168,
+                "p4",
+                "verse",
+                "v25",
+                "plain_text"
+              ],
+              "value": "25 And the priest shall make atonement for all the congregation of the people of Israel, and they shall be forgiven, because it was a mistake, and they have brought their offering, a food offering to the Lord , and their sin offering before the Lord for their mistake."
+            },
+            {
+              "rowId": 169,
+              "keyParts": [
+                169,
+                "p4",
+                "verse",
+                "v26",
+                "label"
+              ],
+              "value": "26"
+            },
+            {
+              "rowId": 170,
+              "keyParts": [
+                170,
+                "p4",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "And all the congregation of the people of Israel shall be forgiven, and the stranger who sojourns among them, because the whole population was involved in the mistake."
+            },
+            {
+              "rowId": 171,
+              "keyParts": [
+                "v026_ESV_NUM_015",
+                171,
+                "p4",
+                "verse",
+                "v26",
+                "plain_text"
+              ],
+              "value": "26 And all the congregation of the people of Israel shall be forgiven, and the stranger who sojourns among them, because the whole population was involved in the mistake."
+            },
+            {
+              "rowId": 172,
+              "keyParts": [
+                172,
+                "p5",
+                "verse",
+                "v27",
+                "label"
+              ],
+              "value": "27"
+            },
+            {
+              "rowId": 173,
+              "keyParts": [
+                173,
+                "p5",
+                "verse",
+                "v27",
+                "note",
+                "x"
+              ],
+              "value": "#Lev. 4:27,28"
+            },
+            {
+              "rowId": 174,
+              "keyParts": [
+                174,
+                "p5",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "“If one person sins unintentionally, he shall offer a female goat a year old for a sin offering."
+            },
+            {
+              "rowId": 175,
+              "keyParts": [
+                "v027_ESV_NUM_015",
+                175,
+                "p5",
+                "verse",
+                "v27",
+                "plain_text"
+              ],
+              "value": "27 “If one person sins unintentionally, he shall offer a female goat a year old for a sin offering."
+            },
+            {
+              "rowId": 176,
+              "keyParts": [
+                176,
+                "p5",
+                "verse",
+                "v28",
+                "label"
+              ],
+              "value": "28"
+            },
+            {
+              "rowId": 177,
+              "keyParts": [
+                177,
+                "p5",
+                "verse",
+                "v28",
+                "note",
+                "x"
+              ],
+              "value": "#Lev. 4:35"
+            },
+            {
+              "rowId": 178,
+              "keyParts": [
+                178,
+                "p5",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "And the priest shall make atonement before the"
+            },
+            {
+              "rowId": 179,
+              "keyParts": [
+                179,
+                "p5",
+                "verse",
+                "v28",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 180,
+              "keyParts": [
+                180,
+                "p5",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "for the person who makes a mistake, when he sins unintentionally, to make atonement for him, and he shall be forgiven."
+            },
+            {
+              "rowId": 181,
+              "keyParts": [
+                "v028_ESV_NUM_015",
+                181,
+                "p5",
+                "verse",
+                "v28",
+                "plain_text"
+              ],
+              "value": "28 And the priest shall make atonement before the Lord for the person who makes a mistake, when he sins unintentionally, to make atonement for him, and he shall be forgiven."
+            },
+            {
+              "rowId": 182,
+              "keyParts": [
+                182,
+                "p5",
+                "verse",
+                "v29",
+                "label"
+              ],
+              "value": "29"
+            },
+            {
+              "rowId": 183,
+              "keyParts": [
+                183,
+                "p5",
+                "verse",
+                "v29",
+                "note",
+                "x"
+              ],
+              "value": "#Seever.15"
+            },
+            {
+              "rowId": 184,
+              "keyParts": [
+                184,
+                "p5",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "You shall have one law for him who does anything unintentionally, for him who is native among the people of Israel and for the stranger who sojourns among them."
+            },
+            {
+              "rowId": 185,
+              "keyParts": [
+                "v029_ESV_NUM_015",
+                185,
+                "p5",
+                "verse",
+                "v29",
+                "plain_text"
+              ],
+              "value": "29 You shall have one law for him who does anything unintentionally, for him who is native among the people of Israel and for the stranger who sojourns among them."
+            },
+            {
+              "rowId": 186,
+              "keyParts": [
+                186,
+                "p5",
+                "verse",
+                "v30",
+                "label"
+              ],
+              "value": "30"
+            },
+            {
+              "rowId": 187,
+              "keyParts": [
+                187,
+                "p5",
+                "verse",
+                "v30",
+                "note",
+                "x"
+              ],
+              "value": "#[Deut. 17:12;Ps. 19:13;Heb. 10:26]"
+            },
+            {
+              "rowId": 188,
+              "keyParts": [
+                188,
+                "p5",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "But the person who does anything with a high hand, whether he is native or a sojourner, reviles the"
+            },
+            {
+              "rowId": 189,
+              "keyParts": [
+                189,
+                "p5",
+                "verse",
+                "v30",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 190,
+              "keyParts": [
+                190,
+                "p5",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": ", and that person shall be cut off from among his people."
+            },
+            {
+              "rowId": 191,
+              "keyParts": [
+                "v030_ESV_NUM_015",
+                191,
+                "p5",
+                "verse",
+                "v30",
+                "plain_text"
+              ],
+              "value": "30 But the person who does anything with a high hand, whether he is native or a sojourner, reviles the Lord , and that person shall be cut off from among his people."
+            },
+            {
+              "rowId": 192,
+              "keyParts": [
+                192,
+                "p5",
+                "verse",
+                "v31",
+                "label"
+              ],
+              "value": "31"
+            },
+            {
+              "rowId": 193,
+              "keyParts": [
+                193,
+                "p5",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "Because he has"
+            },
+            {
+              "rowId": 194,
+              "keyParts": [
+                194,
+                "p5",
+                "verse",
+                "v31",
+                "note",
+                "x"
+              ],
+              "value": "#2 Sam. 12:9;2 Chr. 36:16;Prov. 13:13"
+            },
+            {
+              "rowId": 195,
+              "keyParts": [
+                195,
+                "p5",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "despised the word of the"
+            },
+            {
+              "rowId": 196,
+              "keyParts": [
+                196,
+                "p5",
+                "verse",
+                "v31",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 197,
+              "keyParts": [
+                197,
+                "p5",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "and has broken his commandment, that person shall be utterly cut off; his iniquity shall be on him.”"
+            },
+            {
+              "rowId": 198,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "A Sabbathbreaker Executed"
+            },
+            {
+              "rowId": 199,
+              "keyParts": [
+                "v031_ESV_NUM_015",
+                199,
+                "p5",
+                "verse",
+                "v31",
+                "plain_text"
+              ],
+              "value": "31 Because he has despised the word of the Lord and has broken his commandment, that person shall be utterly cut off; his iniquity shall be on him.”"
+            },
+            {
+              "rowId": 200,
+              "keyParts": [
+                200,
+                "p6",
+                "verse",
+                "v32",
+                "label"
+              ],
+              "value": "32"
+            },
+            {
+              "rowId": 201,
+              "keyParts": [
+                201,
+                "p6",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "While the people of Israel were in the wilderness, they found a man"
+            },
+            {
+              "rowId": 202,
+              "keyParts": [
+                202,
+                "p6",
+                "verse",
+                "v32",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 35:3;SeeEx. 20:8,9"
+            },
+            {
+              "rowId": 203,
+              "keyParts": [
+                203,
+                "p6",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "gathering sticks on the Sabbath day."
+            },
+            {
+              "rowId": 204,
+              "keyParts": [
+                "v032_ESV_NUM_015",
+                204,
+                "p6",
+                "verse",
+                "v32",
+                "plain_text"
+              ],
+              "value": "32 While the people of Israel were in the wilderness, they found a man gathering sticks on the Sabbath day."
+            },
+            {
+              "rowId": 205,
+              "keyParts": [
+                205,
+                "p6",
+                "verse",
+                "v33",
+                "label"
+              ],
+              "value": "33"
+            },
+            {
+              "rowId": 206,
+              "keyParts": [
+                206,
+                "p6",
+                "verse",
+                "v33",
+                "content"
+              ],
+              "value": "And those who found him gathering sticks brought him to Moses and Aaron and to all the congregation."
+            },
+            {
+              "rowId": 207,
+              "keyParts": [
+                "v033_ESV_NUM_015",
+                207,
+                "p6",
+                "verse",
+                "v33",
+                "plain_text"
+              ],
+              "value": "33 And those who found him gathering sticks brought him to Moses and Aaron and to all the congregation."
+            },
+            {
+              "rowId": 208,
+              "keyParts": [
+                208,
+                "p6",
+                "verse",
+                "v34",
+                "label"
+              ],
+              "value": "34"
+            },
+            {
+              "rowId": 209,
+              "keyParts": [
+                209,
+                "p6",
+                "verse",
+                "v34",
+                "note",
+                "x"
+              ],
+              "value": "#Lev. 24:12"
+            },
+            {
+              "rowId": 210,
+              "keyParts": [
+                210,
+                "p6",
+                "verse",
+                "v34",
+                "content"
+              ],
+              "value": "They put him in custody, because it had not been made clear what should be done to him."
+            },
+            {
+              "rowId": 211,
+              "keyParts": [
+                "v034_ESV_NUM_015",
+                211,
+                "p6",
+                "verse",
+                "v34",
+                "plain_text"
+              ],
+              "value": "34 They put him in custody, because it had not been made clear what should be done to him."
+            },
+            {
+              "rowId": 212,
+              "keyParts": [
+                212,
+                "p6",
+                "verse",
+                "v35",
+                "label"
+              ],
+              "value": "35"
+            },
+            {
+              "rowId": 213,
+              "keyParts": [
+                213,
+                "p6",
+                "verse",
+                "v35",
+                "content"
+              ],
+              "value": "And the"
+            },
+            {
+              "rowId": 214,
+              "keyParts": [
+                214,
+                "p6",
+                "verse",
+                "v35",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 215,
+              "keyParts": [
+                215,
+                "p6",
+                "verse",
+                "v35",
+                "content"
+              ],
+              "value": "said to Moses,"
+            },
+            {
+              "rowId": 216,
+              "keyParts": [
+                216,
+                "p6",
+                "verse",
+                "v35",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 31:14,15"
+            },
+            {
+              "rowId": 217,
+              "keyParts": [
+                217,
+                "p6",
+                "verse",
+                "v35",
+                "content"
+              ],
+              "value": "“The man shall be put to death; all the congregation shall"
+            },
+            {
+              "rowId": 218,
+              "keyParts": [
+                218,
+                "p6",
+                "verse",
+                "v35",
+                "note",
+                "x"
+              ],
+              "value": "#Lev. 24:14-16;Josh. 7:25;1 Kgs. 21:13;Acts 7:58"
+            },
+            {
+              "rowId": 219,
+              "keyParts": [
+                219,
+                "p6",
+                "verse",
+                "v35",
+                "content"
+              ],
+              "value": "stone him with stones outside the camp.”"
+            },
+            {
+              "rowId": 220,
+              "keyParts": [
+                "v035_ESV_NUM_015",
+                220,
+                "p6",
+                "verse",
+                "v35",
+                "plain_text"
+              ],
+              "value": "35 And the Lord said to Moses, “The man shall be put to death; all the congregation shall stone him with stones outside the camp.”"
+            },
+            {
+              "rowId": 221,
+              "keyParts": [
+                221,
+                "p6",
+                "verse",
+                "v36",
+                "label"
+              ],
+              "value": "36"
+            },
+            {
+              "rowId": 222,
+              "keyParts": [
+                222,
+                "p6",
+                "verse",
+                "v36",
+                "content"
+              ],
+              "value": "And all the congregation brought him outside the camp and stoned him to death with stones, as the"
+            },
+            {
+              "rowId": 223,
+              "keyParts": [
+                223,
+                "p6",
+                "verse",
+                "v36",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 224,
+              "keyParts": [
+                224,
+                "p6",
+                "verse",
+                "v36",
+                "content"
+              ],
+              "value": "commanded Moses."
+            },
+            {
+              "rowId": 225,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Tassels on Garments"
+            },
+            {
+              "rowId": 226,
+              "keyParts": [
+                "v036_ESV_NUM_015",
+                226,
+                "p6",
+                "verse",
+                "v36",
+                "plain_text"
+              ],
+              "value": "36 And all the congregation brought him outside the camp and stoned him to death with stones, as the Lord commanded Moses."
+            },
+            {
+              "rowId": 227,
+              "keyParts": [
+                227,
+                "p7",
+                "verse",
+                "v37",
+                "label"
+              ],
+              "value": "37"
+            },
+            {
+              "rowId": 228,
+              "keyParts": [
+                228,
+                "p7",
+                "verse",
+                "v37",
+                "content"
+              ],
+              "value": "The"
+            },
+            {
+              "rowId": 229,
+              "keyParts": [
+                229,
+                "p7",
+                "verse",
+                "v37",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 230,
+              "keyParts": [
+                230,
+                "p7",
+                "verse",
+                "v37",
+                "content"
+              ],
+              "value": "said to Moses,"
+            },
+            {
+              "rowId": 231,
+              "keyParts": [
+                "v037_ESV_NUM_015",
+                231,
+                "p7",
+                "verse",
+                "v37",
+                "plain_text"
+              ],
+              "value": "37 The Lord said to Moses,"
+            },
+            {
+              "rowId": 232,
+              "keyParts": [
+                232,
+                "p7",
+                "verse",
+                "v38",
+                "label"
+              ],
+              "value": "38"
+            },
+            {
+              "rowId": 233,
+              "keyParts": [
+                233,
+                "p7",
+                "verse",
+                "v38",
+                "content"
+              ],
+              "value": "“Speak to the people of Israel, and tell them to"
+            },
+            {
+              "rowId": 234,
+              "keyParts": [
+                234,
+                "p7",
+                "verse",
+                "v38",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 22:12;[Matt. 23:5]"
+            },
+            {
+              "rowId": 235,
+              "keyParts": [
+                235,
+                "p7",
+                "verse",
+                "v38",
+                "content"
+              ],
+              "value": "make tassels on the corners of their garments throughout their generations, and to put a cord of blue on the tassel of each corner."
+            },
+            {
+              "rowId": 236,
+              "keyParts": [
+                "v038_ESV_NUM_015",
+                236,
+                "p7",
+                "verse",
+                "v38",
+                "plain_text"
+              ],
+              "value": "38 “Speak to the people of Israel, and tell them to make tassels on the corners of their garments throughout their generations, and to put a cord of blue on the tassel of each corner."
+            },
+            {
+              "rowId": 237,
+              "keyParts": [
+                237,
+                "p7",
+                "verse",
+                "v39",
+                "label"
+              ],
+              "value": "39"
+            },
+            {
+              "rowId": 238,
+              "keyParts": [
+                238,
+                "p7",
+                "verse",
+                "v39",
+                "content"
+              ],
+              "value": "And it shall be a tassel for you to look at and remember all the commandments of the"
+            },
+            {
+              "rowId": 239,
+              "keyParts": [
+                239,
+                "p7",
+                "verse",
+                "v39",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 240,
+              "keyParts": [
+                240,
+                "p7",
+                "verse",
+                "v39",
+                "content"
+              ],
+              "value": ", to do them,"
+            },
+            {
+              "rowId": 241,
+              "keyParts": [
+                241,
+                "p7",
+                "verse",
+                "v39",
+                "note",
+                "x"
+              ],
+              "value": "#[Job 31:7;Eccles. 11:9;Ezek. 6:9]"
+            },
+            {
+              "rowId": 242,
+              "keyParts": [
+                242,
+                "p7",
+                "verse",
+                "v39",
+                "content"
+              ],
+              "value": "not to follow"
+            },
+            {
+              "rowId": 243,
+              "keyParts": [
+                243,
+                "p7",
+                "verse",
+                "v39",
+                "note",
+                "f"
+              ],
+              "value": "#15:39Hebrewto spy out"
+            },
+            {
+              "rowId": 244,
+              "keyParts": [
+                244,
+                "p7",
+                "verse",
+                "v39",
+                "content"
+              ],
+              "value": "after your own heart and your own eyes, which you are inclined"
+            },
+            {
+              "rowId": 245,
+              "keyParts": [
+                245,
+                "p7",
+                "verse",
+                "v39",
+                "note",
+                "x"
+              ],
+              "value": "#Ps. 73:27;106:39;[Ezek. 6:9]"
+            },
+            {
+              "rowId": 246,
+              "keyParts": [
+                246,
+                "p7",
+                "verse",
+                "v39",
+                "content"
+              ],
+              "value": "to whore after."
+            },
+            {
+              "rowId": 247,
+              "keyParts": [
+                "v039_ESV_NUM_015",
+                247,
+                "p7",
+                "verse",
+                "v39",
+                "plain_text"
+              ],
+              "value": "39 And it shall be a tassel for you to look at and remember all the commandments of the Lord , to do them, not to follow after your own heart and your own eyes, which you are inclined to whore after."
+            },
+            {
+              "rowId": 248,
+              "keyParts": [
+                248,
+                "p7",
+                "verse",
+                "v40",
+                "label"
+              ],
+              "value": "40"
+            },
+            {
+              "rowId": 249,
+              "keyParts": [
+                249,
+                "p7",
+                "verse",
+                "v40",
+                "content"
+              ],
+              "value": "So you shall remember and do all my commandments, and be"
+            },
+            {
+              "rowId": 250,
+              "keyParts": [
+                250,
+                "p7",
+                "verse",
+                "v40",
+                "note",
+                "x"
+              ],
+              "value": "#SeeLev. 11:44"
+            },
+            {
+              "rowId": 251,
+              "keyParts": [
+                251,
+                "p7",
+                "verse",
+                "v40",
+                "content"
+              ],
+              "value": "holy to your God."
+            },
+            {
+              "rowId": 252,
+              "keyParts": [
+                "v040_ESV_NUM_015",
+                252,
+                "p7",
+                "verse",
+                "v40",
+                "plain_text"
+              ],
+              "value": "40 So you shall remember and do all my commandments, and be holy to your God."
+            },
+            {
+              "rowId": 253,
+              "keyParts": [
+                253,
+                "p7",
+                "verse",
+                "v41",
+                "label"
+              ],
+              "value": "41"
+            },
+            {
+              "rowId": 254,
+              "keyParts": [
+                254,
+                "p7",
+                "verse",
+                "v41",
+                "note",
+                "x"
+              ],
+              "value": "#Lev. 22:33;SeeLev. 20:8"
+            },
+            {
+              "rowId": 255,
+              "keyParts": [
+                255,
+                "p7",
+                "verse",
+                "v41",
+                "content"
+              ],
+              "value": "I am the"
+            },
+            {
+              "rowId": 256,
+              "keyParts": [
+                256,
+                "p7",
+                "verse",
+                "v41",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 257,
+              "keyParts": [
+                257,
+                "p7",
+                "verse",
+                "v41",
+                "content"
+              ],
+              "value": "your God, who brought you out of the land of Egypt to be your God: I am the"
+            },
+            {
+              "rowId": 258,
+              "keyParts": [
+                258,
+                "p7",
+                "verse",
+                "v41",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 259,
+              "keyParts": [
+                259,
+                "p7",
+                "verse",
+                "v41",
+                "content"
+              ],
+              "value": "your God.”"
+            },
+            {
+              "rowId": 260,
+              "keyParts": [
+                "v041_ESV_NUM_015",
+                260,
+                "p7",
+                "verse",
+                "v41",
+                "plain_text"
+              ],
+              "value": "41 I am the Lord your God, who brought you out of the land of Egypt to be your God: I am the Lord your God.”"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

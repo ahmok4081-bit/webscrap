@@ -1,0 +1,1863 @@
+{
+  "translationId": "ESV",
+  "name": "English Standard Version",
+  "abbreviation": "ESV",
+  "language": "English",
+  "copyright": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.",
+  "books": [
+    {
+      "bookId": "EXO",
+      "testament": "OT",
+      "order": 2,
+      "title": "Exodus",
+      "abbreviation": "EXO",
+      "chapters": [
+        {
+          "chapter": 33,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "33"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "The Command to Leave Sinai"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "The"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "said to Moses, “Depart; go up from here, you"
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                7,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#ch.32:7"
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "and the people whom you have brought up out of the land of Egypt, to the land of which I swore to Abraham, Isaac, and Jacob, saying, ‘To"
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                9,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#ch.32:13;SeeGen. 12:7"
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "your offspring I will give it.’"
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                "v001_ESV_EXO_033",
+                11,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 The Lord said to Moses, “Depart; go up from here, you and the people whom you have brought up out of the land of Egypt, to the land of which I swore to Abraham, Isaac, and Jacob, saying, ‘To your offspring I will give it.’"
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                12,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                13,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "I will send an"
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.14:19"
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                15,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "angel before you,"
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                16,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.13:5"
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                17,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "and I will drive out the Canaanites, the Amorites, the Hittites, the Perizzites, the Hivites, and the Jebusites."
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                "v002_ESV_EXO_033",
+                18,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 I will send an angel before you, and I will drive out the Canaanites, the Amorites, the Hittites, the Perizzites, the Hivites, and the Jebusites."
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p1",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                20,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.3:8"
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "Go up to a land flowing with milk and honey;"
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                22,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#[ver.15-17]"
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "but I will not go up among you,"
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                24,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#ch.32:10;Num. 16:21,45"
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "lest I consume you on the way, for you are a"
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                26,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.32:9"
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                27,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "stiff-necked people.”"
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                "v003_ESV_EXO_033",
+                28,
+                "p1",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 Go up to a land flowing with milk and honey; but I will not go up among you, lest I consume you on the way, for you are a stiff-necked people.”"
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                29,
+                "p2",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                30,
+                "p2",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "When the people heard this disastrous word, they"
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                31,
+                "p2",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 14:39"
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "p2",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "mourned, and"
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                33,
+                "p2",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#[Ezek. 24:17,23;26:16]"
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                34,
+                "p2",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "no one put on his ornaments."
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                "v004_ESV_EXO_033",
+                35,
+                "p2",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 When the people heard this disastrous word, they mourned, and no one put on his ornaments."
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "p2",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                37,
+                "p2",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "For the"
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                38,
+                "p2",
+                "verse",
+                "v5",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                39,
+                "p2",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "had said to Moses, “Say to the people of Israel, ‘You are a"
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                40,
+                "p2",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.3above]"
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p2",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "stiff-necked people; if for a single moment I should go up among you, I would"
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "p2",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#ch.32:12"
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                43,
+                "p2",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "consume you. So now"
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                44,
+                "p2",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.4above]"
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                45,
+                "p2",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "take off your ornaments, that I may know what to do with you.’”"
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                "v005_ESV_EXO_033",
+                46,
+                "p2",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 For the Lord had said to Moses, “Say to the people of Israel, ‘You are a stiff-necked people; if for a single moment I should go up among you, I would consume you. So now take off your ornaments, that I may know what to do with you.’”"
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                47,
+                "p2",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                48,
+                "p2",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "Therefore the people of Israel stripped themselves of their ornaments, from Mount Horeb onward."
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "The Tent of Meeting"
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                "v006_ESV_EXO_033",
+                50,
+                "p2",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 Therefore the people of Israel stripped themselves of their ornaments, from Mount Horeb onward."
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                51,
+                "p3",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                52,
+                "p3",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "Now Moses used to take the tent and pitch it outside the camp, far off from the camp, and"
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                53,
+                "p3",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#ch.29:42,43"
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                54,
+                "p3",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "he called it the tent of meeting. And everyone who"
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                55,
+                "p3",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 4:29;2 Sam. 21:1;1 Chr. 16:10,11;Ps. 40:16"
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                56,
+                "p3",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "sought the"
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                57,
+                "p3",
+                "verse",
+                "v7",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                58,
+                "p3",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "would go out to the tent of meeting, which was outside the camp."
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                "v007_ESV_EXO_033",
+                59,
+                "p3",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 Now Moses used to take the tent and pitch it outside the camp, far off from the camp, and he called it the tent of meeting. And everyone who sought the Lord would go out to the tent of meeting, which was outside the camp."
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                60,
+                "p3",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                61,
+                "p3",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "Whenever Moses went out to the tent, all the people would rise up, and"
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                62,
+                "p3",
+                "verse",
+                "v8",
+                "note",
+                "x"
+              ],
+              "value": "#[Num. 16:27]"
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                63,
+                "p3",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "each would stand at his tent door, and watch Moses until he had gone into the tent."
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                "v008_ESV_EXO_033",
+                64,
+                "p3",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 Whenever Moses went out to the tent, all the people would rise up, and each would stand at his tent door, and watch Moses until he had gone into the tent."
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                65,
+                "p3",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                66,
+                "p3",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "When Moses entered the tent, the"
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                67,
+                "p3",
+                "verse",
+                "v9",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.13:21"
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                68,
+                "p3",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "pillar of cloud would descend and stand at the entrance of the tent, and the"
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                69,
+                "p3",
+                "verse",
+                "v9",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                70,
+                "p3",
+                "verse",
+                "v9",
+                "note",
+                "f"
+              ],
+              "value": "#33:9Hebrewhe"
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                71,
+                "p3",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "would speak with Moses."
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                "v009_ESV_EXO_033",
+                72,
+                "p3",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 When Moses entered the tent, the pillar of cloud would descend and stand at the entrance of the tent, and the Lord would speak with Moses."
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                73,
+                "p3",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                74,
+                "p3",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "And when all the people saw the pillar of cloud standing at the entrance of the tent, all the people would rise up and worship, each at his tent door."
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                "v010_ESV_EXO_033",
+                75,
+                "p3",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 And when all the people saw the pillar of cloud standing at the entrance of the tent, all the people would rise up and worship, each at his tent door."
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                76,
+                "p3",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                77,
+                "p3",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "Thus"
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                78,
+                "p3",
+                "verse",
+                "v11",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 12:8;Deut. 34:10;SeeGen. 32:30"
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                79,
+                "p3",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "the"
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                80,
+                "p3",
+                "verse",
+                "v11",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                81,
+                "p3",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "used to speak to Moses face to face, as a man speaks to his friend. When Moses turned again into the camp, his"
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                82,
+                "p3",
+                "verse",
+                "v11",
+                "note",
+                "x"
+              ],
+              "value": "#ch.17:9,10;24:13;32:17"
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                83,
+                "p3",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "assistant Joshua the son of Nun, a young man, would not depart from the tent."
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Moses’ Intercession"
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                "v011_ESV_EXO_033",
+                85,
+                "p3",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 Thus the Lord used to speak to Moses face to face, as a man speaks to his friend. When Moses turned again into the camp, his assistant Joshua the son of Nun, a young man, would not depart from the tent."
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                86,
+                "p4",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                87,
+                "p4",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "Moses said to the"
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                88,
+                "p4",
+                "verse",
+                "v12",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                89,
+                "p4",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": ", “See,"
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                90,
+                "p4",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#ch.32:34"
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                91,
+                "p4",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "you say to me, ‘Bring up this people,’ but you have not let me know whom you will send with me. Yet you have said,"
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                92,
+                "p4",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#ver.17"
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                93,
+                "p4",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "‘I know you by name, and you have also found favor in my sight.’"
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                "v012_ESV_EXO_033",
+                94,
+                "p4",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 Moses said to the Lord , “See, you say to me, ‘Bring up this people,’ but you have not let me know whom you will send with me. Yet you have said, ‘I know you by name, and you have also found favor in my sight.’"
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                95,
+                "p4",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                96,
+                "p4",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "Now therefore, if I have found favor in your sight, please"
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                97,
+                "p4",
+                "verse",
+                "v13",
+                "note",
+                "x"
+              ],
+              "value": "#Ps. 25:4;[Ps. 103:7]"
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                98,
+                "p4",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "show me now your ways, that I may know you in order to find favor in your sight. Consider too that this nation is"
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                99,
+                "p4",
+                "verse",
+                "v13",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 9:29;[Joel 2:17]"
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                100,
+                "p4",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "your people.”"
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                "v013_ESV_EXO_033",
+                101,
+                "p4",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 Now therefore, if I have found favor in your sight, please show me now your ways, that I may know you in order to find favor in your sight. Consider too that this nation is your people.”"
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                102,
+                "p4",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                103,
+                "p4",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "And he said,"
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                104,
+                "p4",
+                "verse",
+                "v14",
+                "note",
+                "x"
+              ],
+              "value": "#Josh. 1:5;Isa. 63:9;See ch.40:34-38"
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                105,
+                "p4",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "“My presence will go with you, and"
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                106,
+                "p4",
+                "verse",
+                "v14",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 3:20;Josh. 21:44;22:4;23:1;[Ps. 95:11]"
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                107,
+                "p4",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "I will give you rest.”"
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                "v014_ESV_EXO_033",
+                108,
+                "p4",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 And he said, “My presence will go with you, and I will give you rest.”"
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                109,
+                "p4",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                110,
+                "p4",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "And he said to him,"
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                111,
+                "p4",
+                "verse",
+                "v15",
+                "note",
+                "x"
+              ],
+              "value": "#[ver.1-3]"
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                112,
+                "p4",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "“If your presence will not go with me, do not bring us up from here."
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                "v015_ESV_EXO_033",
+                113,
+                "p4",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 And he said to him, “If your presence will not go with me, do not bring us up from here."
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                114,
+                "p4",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                115,
+                "p4",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "For how shall it be known that I have found favor in your sight, I and your people?"
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                116,
+                "p4",
+                "verse",
+                "v16",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 14:14"
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                117,
+                "p4",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "Is it not in your going with us,"
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                118,
+                "p4",
+                "verse",
+                "v16",
+                "note",
+                "x"
+              ],
+              "value": "#ch.19:5,6;1 Kgs. 8:53"
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                119,
+                "p4",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "so that we are distinct, I and your people, from every other people on the face of the earth?”"
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                "v016_ESV_EXO_033",
+                120,
+                "p4",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 For how shall it be known that I have found favor in your sight, I and your people? Is it not in your going with us, so that we are distinct, I and your people, from every other people on the face of the earth?”"
+            },
+            {
+              "rowId": 121,
+              "keyParts": [
+                121,
+                "p5",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 122,
+              "keyParts": [
+                122,
+                "p5",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "And the"
+            },
+            {
+              "rowId": 123,
+              "keyParts": [
+                123,
+                "p5",
+                "verse",
+                "v17",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 124,
+              "keyParts": [
+                124,
+                "p5",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "said to Moses, “This very thing that you have spoken I will do,"
+            },
+            {
+              "rowId": 125,
+              "keyParts": [
+                125,
+                "p5",
+                "verse",
+                "v17",
+                "note",
+                "x"
+              ],
+              "value": "#ver.12, 13"
+            },
+            {
+              "rowId": 126,
+              "keyParts": [
+                126,
+                "p5",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "for you have found favor in my sight, and I know you by name.”"
+            },
+            {
+              "rowId": 127,
+              "keyParts": [
+                "v017_ESV_EXO_033",
+                127,
+                "p5",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 And the Lord said to Moses, “This very thing that you have spoken I will do, for you have found favor in my sight, and I know you by name.”"
+            },
+            {
+              "rowId": 128,
+              "keyParts": [
+                128,
+                "p5",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 129,
+              "keyParts": [
+                129,
+                "p5",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "Moses said, “Please"
+            },
+            {
+              "rowId": 130,
+              "keyParts": [
+                130,
+                "p5",
+                "verse",
+                "v18",
+                "note",
+                "x"
+              ],
+              "value": "#[ver. 20;1 Tim. 6:16]"
+            },
+            {
+              "rowId": 131,
+              "keyParts": [
+                131,
+                "p5",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "show me your glory.”"
+            },
+            {
+              "rowId": 132,
+              "keyParts": [
+                "v018_ESV_EXO_033",
+                132,
+                "p5",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 Moses said, “Please show me your glory.”"
+            },
+            {
+              "rowId": 133,
+              "keyParts": [
+                133,
+                "p5",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 134,
+              "keyParts": [
+                134,
+                "p5",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "And he said,"
+            },
+            {
+              "rowId": 135,
+              "keyParts": [
+                135,
+                "p5",
+                "verse",
+                "v19",
+                "note",
+                "x"
+              ],
+              "value": "#Ps. 31:19;Jer. 31:14;[ch.34:5-7]"
+            },
+            {
+              "rowId": 136,
+              "keyParts": [
+                136,
+                "p5",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "“I will make all my goodness pass before you and will proclaim before you my name ‘The"
+            },
+            {
+              "rowId": 137,
+              "keyParts": [
+                137,
+                "p5",
+                "verse",
+                "v19",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 138,
+              "keyParts": [
+                138,
+                "p5",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": ".’ And"
+            },
+            {
+              "rowId": 139,
+              "keyParts": [
+                139,
+                "p5",
+                "verse",
+                "v19",
+                "note",
+                "x"
+              ],
+              "value": "#CitedRom. 9:15"
+            },
+            {
+              "rowId": 140,
+              "keyParts": [
+                140,
+                "p5",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "I will be gracious to whom I will be gracious, and will show mercy on whom I will show mercy."
+            },
+            {
+              "rowId": 141,
+              "keyParts": [
+                "v019_ESV_EXO_033",
+                141,
+                "p5",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 And he said, “I will make all my goodness pass before you and will proclaim before you my name ‘The Lord .’ And I will be gracious to whom I will be gracious, and will show mercy on whom I will show mercy."
+            },
+            {
+              "rowId": 142,
+              "keyParts": [
+                142,
+                "p5",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 143,
+              "keyParts": [
+                143,
+                "p5",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "But,” he said, “you cannot see my face, for"
+            },
+            {
+              "rowId": 144,
+              "keyParts": [
+                144,
+                "p5",
+                "verse",
+                "v20",
+                "note",
+                "x"
+              ],
+              "value": "#Gen. 32:30;Deut. 5:24;Judg. 6:22,23;13:22;Isa. 6:5;Rev. 1:17;[ch.24:10, 11]"
+            },
+            {
+              "rowId": 145,
+              "keyParts": [
+                145,
+                "p5",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "man shall not see me and live.”"
+            },
+            {
+              "rowId": 146,
+              "keyParts": [
+                "v020_ESV_EXO_033",
+                146,
+                "p5",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 But,” he said, “you cannot see my face, for man shall not see me and live.”"
+            },
+            {
+              "rowId": 147,
+              "keyParts": [
+                147,
+                "p5",
+                "verse",
+                "v21",
+                "label"
+              ],
+              "value": "21"
+            },
+            {
+              "rowId": 148,
+              "keyParts": [
+                148,
+                "p5",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "And the"
+            },
+            {
+              "rowId": 149,
+              "keyParts": [
+                149,
+                "p5",
+                "verse",
+                "v21",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 150,
+              "keyParts": [
+                150,
+                "p5",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "said, “Behold, there is a place by me where you shall stand on the rock,"
+            },
+            {
+              "rowId": 151,
+              "keyParts": [
+                "v021_ESV_EXO_033",
+                151,
+                "p5",
+                "verse",
+                "v21",
+                "plain_text"
+              ],
+              "value": "21 And the Lord said, “Behold, there is a place by me where you shall stand on the rock,"
+            },
+            {
+              "rowId": 152,
+              "keyParts": [
+                152,
+                "p5",
+                "verse",
+                "v22",
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 153,
+              "keyParts": [
+                153,
+                "p5",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "and while my glory passes by I will put you in a"
+            },
+            {
+              "rowId": 154,
+              "keyParts": [
+                154,
+                "p5",
+                "verse",
+                "v22",
+                "note",
+                "x"
+              ],
+              "value": "#Isa. 2:21"
+            },
+            {
+              "rowId": 155,
+              "keyParts": [
+                155,
+                "p5",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "cleft of the rock, and I will"
+            },
+            {
+              "rowId": 156,
+              "keyParts": [
+                156,
+                "p5",
+                "verse",
+                "v22",
+                "note",
+                "x"
+              ],
+              "value": "#Ps. 91:1,4"
+            },
+            {
+              "rowId": 157,
+              "keyParts": [
+                157,
+                "p5",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "cover you with my hand until I have passed by."
+            },
+            {
+              "rowId": 158,
+              "keyParts": [
+                "v022_ESV_EXO_033",
+                158,
+                "p5",
+                "verse",
+                "v22",
+                "plain_text"
+              ],
+              "value": "22 and while my glory passes by I will put you in a cleft of the rock, and I will cover you with my hand until I have passed by."
+            },
+            {
+              "rowId": 159,
+              "keyParts": [
+                159,
+                "p5",
+                "verse",
+                "v23",
+                "label"
+              ],
+              "value": "23"
+            },
+            {
+              "rowId": 160,
+              "keyParts": [
+                160,
+                "p5",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "Then I will take away my hand, and you shall see my back, but my face shall"
+            },
+            {
+              "rowId": 161,
+              "keyParts": [
+                161,
+                "p5",
+                "verse",
+                "v23",
+                "note",
+                "x"
+              ],
+              "value": "#ver.20;John 1:18;1 Tim. 6:16;1 John 4:12"
+            },
+            {
+              "rowId": 162,
+              "keyParts": [
+                162,
+                "p5",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "not be seen.”"
+            },
+            {
+              "rowId": 163,
+              "keyParts": [
+                "v023_ESV_EXO_033",
+                163,
+                "p5",
+                "verse",
+                "v23",
+                "plain_text"
+              ],
+              "value": "23 Then I will take away my hand, and you shall see my back, but my face shall not be seen.”"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1245 @@
+{
+  "translationId": "ESV",
+  "name": "English Standard Version",
+  "abbreviation": "ESV",
+  "language": "English",
+  "copyright": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.",
+  "books": [
+    {
+      "bookId": "GEN",
+      "testament": "OT",
+      "order": 1,
+      "title": "Genesis",
+      "abbreviation": "GEN",
+      "chapters": [
+        {
+          "chapter": 13,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Abram and Lot Separate"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "So Abram went up from Egypt, he and his wife and all that he had, and Lot with him,"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#ch.12:9"
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "into the Negeb."
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                "v001_ESV_GEN_013",
+                7,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 So Abram went up from Egypt, he and his wife and all that he had, and Lot with him, into the Negeb."
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p2",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                9,
+                "p2",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#ch.24:35;[Ps. 112:1-3;Prov. 10:22]"
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "p2",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "Now Abram was very rich in livestock, in silver, and in gold."
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                "v002_ESV_GEN_013",
+                11,
+                "p2",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 Now Abram was very rich in livestock, in silver, and in gold."
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                12,
+                "p2",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                13,
+                "p2",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "And he journeyed on from the Negeb as far as Bethel to the place where his tent had been at the beginning, between Bethel and Ai,"
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                "v003_ESV_GEN_013",
+                14,
+                "p2",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 And he journeyed on from the Negeb as far as Bethel to the place where his tent had been at the beginning, between Bethel and Ai,"
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                15,
+                "p2",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                16,
+                "p2",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "to"
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                17,
+                "p2",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#ch.12:7,8"
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "p2",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "the place where he had made an altar at the first. And there Abram called upon the name of the"
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p2",
+                "verse",
+                "v4",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                20,
+                "p2",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "."
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                "v004_ESV_GEN_013",
+                21,
+                "p2",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 to the place where he had made an altar at the first. And there Abram called upon the name of the Lord ."
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                22,
+                "p2",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "p2",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "And Lot, who went with Abram, also had flocks and herds and tents,"
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                "v005_ESV_GEN_013",
+                24,
+                "p2",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 And Lot, who went with Abram, also had flocks and herds and tents,"
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "p2",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                26,
+                "p2",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "so that"
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                27,
+                "p2",
+                "verse",
+                "v6",
+                "note",
+                "x"
+              ],
+              "value": "#ch.36:6,7"
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                28,
+                "p2",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "the land could not support both of them dwelling together; for their possessions were so great that they could not dwell together,"
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                "v006_ESV_GEN_013",
+                29,
+                "p2",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 so that the land could not support both of them dwelling together; for their possessions were so great that they could not dwell together,"
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                30,
+                "p2",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                31,
+                "p2",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#ch.26:20"
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "and there was strife between the herdsmen of Abram’s livestock and the herdsmen of Lot’s livestock. At that time"
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                33,
+                "p2",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#ch.12:6"
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                34,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "the Canaanites and the Perizzites were dwelling in the land."
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                "v007_ESV_GEN_013",
+                35,
+                "p2",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 and there was strife between the herdsmen of Abram’s livestock and the herdsmen of Lot’s livestock. At that time the Canaanites and the Perizzites were dwelling in the land."
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "p3",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                37,
+                "p3",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "Then Abram said to Lot,"
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                38,
+                "p3",
+                "verse",
+                "v8",
+                "note",
+                "x"
+              ],
+              "value": "#[1 Cor. 6:1-8]"
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                39,
+                "p3",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "“Let there be no strife between you and me, and between your herdsmen and my herdsmen,"
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                40,
+                "p3",
+                "verse",
+                "v8",
+                "note",
+                "x"
+              ],
+              "value": "#[Acts 7:26]"
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p3",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "for we are kinsmen."
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "p3",
+                "verse",
+                "v8",
+                "note",
+                "f"
+              ],
+              "value": "#13:8Hebrewwe are men, brothers"
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                "v008_ESV_GEN_013",
+                43,
+                "p3",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 Then Abram said to Lot, “Let there be no strife between you and me, and between your herdsmen and my herdsmen, for we are kinsmen."
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                44,
+                "p3",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                45,
+                "p3",
+                "verse",
+                "v9",
+                "note",
+                "x"
+              ],
+              "value": "#ch.20:15;34:10"
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                46,
+                "p3",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "Is not the whole land before you? Separate yourself from me. If you take the left hand, then I will go to the right, or if you take the right hand, then I will go to the left.”"
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                "v009_ESV_GEN_013",
+                47,
+                "p3",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 Is not the whole land before you? Separate yourself from me. If you take the left hand, then I will go to the right, or if you take the right hand, then I will go to the left.”"
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                48,
+                "p3",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                49,
+                "p3",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "And Lot lifted up his eyes and saw that the"
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "p3",
+                "verse",
+                "v10",
+                "note",
+                "x"
+              ],
+              "value": "#ch.19:17,25,28;Deut. 34:3;1 Kgs. 7:46;[Matt. 3:5]"
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                51,
+                "p3",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "Jordan Valley was well watered everywhere like"
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                52,
+                "p3",
+                "verse",
+                "v10",
+                "note",
+                "x"
+              ],
+              "value": "#ch.2:8;Isa. 51:3;Ezek. 28:13;Joel 2:3"
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                53,
+                "p3",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "the garden of the"
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                54,
+                "p3",
+                "verse",
+                "v10",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                55,
+                "p3",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": ", like the land of Egypt, in the direction of"
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                56,
+                "p3",
+                "verse",
+                "v10",
+                "note",
+                "x"
+              ],
+              "value": "#ch.14:2,8;19:22"
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                57,
+                "p3",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "Zoar. (This was before the"
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                58,
+                "p3",
+                "verse",
+                "v10",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                59,
+                "p3",
+                "verse",
+                "v10",
+                "note",
+                "x"
+              ],
+              "value": "#ch.19:24,25"
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                60,
+                "p3",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "destroyed Sodom and Gomorrah.)"
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                "v010_ESV_GEN_013",
+                61,
+                "p3",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 And Lot lifted up his eyes and saw that the Jordan Valley was well watered everywhere like the garden of the Lord , like the land of Egypt, in the direction of Zoar. (This was before the Lord destroyed Sodom and Gomorrah.)"
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                62,
+                "p3",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                63,
+                "p3",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "So Lot chose for himself all the Jordan Valley, and Lot journeyed east. Thus they separated from each other."
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                "v011_ESV_GEN_013",
+                64,
+                "p3",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 So Lot chose for himself all the Jordan Valley, and Lot journeyed east. Thus they separated from each other."
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                65,
+                "p3",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                66,
+                "p3",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "Abram settled in the land of Canaan, while Lot settled among the cities of the valley and moved his tent as far as Sodom."
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                "v012_ESV_GEN_013",
+                67,
+                "p3",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 Abram settled in the land of Canaan, while Lot settled among the cities of the valley and moved his tent as far as Sodom."
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                68,
+                "p3",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                69,
+                "p3",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "Now the men of Sodom"
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                70,
+                "p3",
+                "verse",
+                "v13",
+                "note",
+                "x"
+              ],
+              "value": "#ch.18:20;Ezek. 16:49;2 Pet. 2:7,8"
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                71,
+                "p3",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "were wicked, great sinners against the"
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                72,
+                "p3",
+                "verse",
+                "v13",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                73,
+                "p3",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "."
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                "v013_ESV_GEN_013",
+                74,
+                "p3",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 Now the men of Sodom were wicked, great sinners against the Lord ."
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                75,
+                "p4",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                76,
+                "p4",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "The"
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                77,
+                "p4",
+                "verse",
+                "v14",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                78,
+                "p4",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "said to Abram, after Lot had separated from him, “Lift up your eyes and look from the place where you are,"
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                79,
+                "p4",
+                "verse",
+                "v14",
+                "note",
+                "x"
+              ],
+              "value": "#ch.28:14"
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                80,
+                "p4",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "northward and southward and eastward and westward,"
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                "v014_ESV_GEN_013",
+                81,
+                "p4",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 The Lord said to Abram, after Lot had separated from him, “Lift up your eyes and look from the place where you are, northward and southward and eastward and westward,"
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                82,
+                "p4",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                83,
+                "p4",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "for all the land that you see I will give"
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                84,
+                "p4",
+                "verse",
+                "v15",
+                "note",
+                "x"
+              ],
+              "value": "#ch.17:8;28:13;35:12;Acts 7:5"
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                85,
+                "p4",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "to you and"
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                86,
+                "p4",
+                "verse",
+                "v15",
+                "note",
+                "x"
+              ],
+              "value": "#ch.12:7;15:18;24:7;26:4;Deut. 34:4;2 Chr. 20:7"
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                87,
+                "p4",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "to your offspring forever."
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                "v015_ESV_GEN_013",
+                88,
+                "p4",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 for all the land that you see I will give to you and to your offspring forever."
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                89,
+                "p4",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                90,
+                "p4",
+                "verse",
+                "v16",
+                "note",
+                "x"
+              ],
+              "value": "#ch.22:17;28:14;32:12;Num. 23:10;[1 Kgs. 3:8];See ch.15:5"
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                91,
+                "p4",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "I will make your offspring as the dust of the earth, so that if one can count the dust of the earth, your offspring also can be counted."
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                "v016_ESV_GEN_013",
+                92,
+                "p4",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 I will make your offspring as the dust of the earth, so that if one can count the dust of the earth, your offspring also can be counted."
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                93,
+                "p4",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                94,
+                "p4",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "Arise, walk through the length and the breadth of the land, for I will give it to you.”"
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                "v017_ESV_GEN_013",
+                95,
+                "p4",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 Arise, walk through the length and the breadth of the land, for I will give it to you.”"
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                96,
+                "p4",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                97,
+                "p4",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "So Abram moved his tent and came and"
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                98,
+                "p4",
+                "verse",
+                "v18",
+                "note",
+                "x"
+              ],
+              "value": "#ch.14:13"
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                99,
+                "p4",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "settled by the"
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                100,
+                "p4",
+                "verse",
+                "v18",
+                "note",
+                "x"
+              ],
+              "value": "#ch.12:6"
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                101,
+                "p4",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "oaks"
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                102,
+                "p4",
+                "verse",
+                "v18",
+                "note",
+                "f"
+              ],
+              "value": "#13:18Orterebinths"
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                103,
+                "p4",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "of Mamre, which"
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                104,
+                "p4",
+                "verse",
+                "v18",
+                "note",
+                "x"
+              ],
+              "value": "#ch.35:27"
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                105,
+                "p4",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "are at Hebron, and there he built an altar to the"
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                106,
+                "p4",
+                "verse",
+                "v18",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                107,
+                "p4",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "."
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                "v018_ESV_GEN_013",
+                108,
+                "p4",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 So Abram moved his tent and came and settled by the oaks of Mamre, which are at Hebron, and there he built an altar to the Lord ."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

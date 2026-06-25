@@ -1,0 +1,1382 @@
+{
+  "translationId": "ESV",
+  "name": "English Standard Version",
+  "abbreviation": "ESV",
+  "language": "English",
+  "copyright": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.",
+  "books": [
+    {
+      "bookId": "JOS",
+      "testament": "OT",
+      "order": 6,
+      "title": "Joshua",
+      "abbreviation": "JOS",
+      "chapters": [
+        {
+          "chapter": 3,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Israel Crosses the Jordan"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "Then Joshua rose early in the morning and they set out"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#ch.2:1"
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "from Shittim. And they came to the Jordan, he and all the people of Israel, and lodged there before they passed over."
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                "v001_ESV_JOS_003",
+                7,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 Then Joshua rose early in the morning and they set out from Shittim. And they came to the Jordan, he and all the people of Israel, and lodged there before they passed over."
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                9,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#ch.1:10,11"
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "At the end of three days the officers went through the camp"
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                "v002_ESV_JOS_003",
+                11,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 At the end of three days the officers went through the camp"
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                12,
+                "p1",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                13,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "and commanded the people, “As soon as you see the ark of the covenant of the"
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "p1",
+                "verse",
+                "v3",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                15,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "your God being carried by"
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                16,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#ver.8;Deut. 31:9,25"
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                17,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "the Levitical priests, then you shall set out from your place and follow it."
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                "v003_ESV_JOS_003",
+                18,
+                "p1",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 and commanded the people, “As soon as you see the ark of the covenant of the Lord your God being carried by the Levitical priests, then you shall set out from your place and follow it."
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p1",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                20,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#[Ex. 19:12]"
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "Yet there shall be a distance between you and it, about 2,000 cubits"
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                22,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "f"
+              ],
+              "value": "#3:4Acubitwas about 18 inches or 45 centimeters"
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "in length. Do not come near it, in order that you may know the way you shall go, for you have not passed this way before.”"
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                "v004_ESV_JOS_003",
+                24,
+                "p1",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 Yet there shall be a distance between you and it, about 2,000 cubits in length. Do not come near it, in order that you may know the way you shall go, for you have not passed this way before.”"
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "p1",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                26,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "Then Joshua said to the people,"
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                27,
+                "p1",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#ch.7:13;Ex. 19:10,14,15;Lev. 20:7;Num. 11:18;1 Sam. 16:5;Joel 2:16"
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                28,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "“Consecrate yourselves, for tomorrow the"
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                29,
+                "p1",
+                "verse",
+                "v5",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                30,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "will do wonders among you.”"
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                "v005_ESV_JOS_003",
+                31,
+                "p1",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 Then Joshua said to the people, “Consecrate yourselves, for tomorrow the Lord will do wonders among you.”"
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "p1",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                33,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "And Joshua said to the priests,"
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                34,
+                "p1",
+                "verse",
+                "v6",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 4:15"
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                35,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "“Take up the ark of the covenant and pass on before the people.” So they took up the ark of the covenant and went before the people."
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                "v006_ESV_JOS_003",
+                36,
+                "p1",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 And Joshua said to the priests, “Take up the ark of the covenant and pass on before the people.” So they took up the ark of the covenant and went before the people."
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                37,
+                "p2",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                38,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "The"
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                39,
+                "p2",
+                "verse",
+                "v7",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                40,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "said to Joshua, “Today I will begin to"
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p2",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#ch.4:14;1 Chr. 29:25;2 Chr. 1:1"
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "exalt you in the sight of all Israel, that they may know that,"
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                43,
+                "p2",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#ch.1:5"
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                44,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "as I was with Moses, so I will be with you."
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                "v007_ESV_JOS_003",
+                45,
+                "p2",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 The Lord said to Joshua, “Today I will begin to exalt you in the sight of all Israel, that they may know that, as I was with Moses, so I will be with you."
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                46,
+                "p2",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                47,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "And as for you, command"
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                48,
+                "p2",
+                "verse",
+                "v8",
+                "note",
+                "x"
+              ],
+              "value": "#ver.3"
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                49,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "the priests who bear the ark of the covenant, ‘When you come to the brink of the waters of the Jordan,"
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "p2",
+                "verse",
+                "v8",
+                "note",
+                "x"
+              ],
+              "value": "#ver.17"
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                51,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "you shall stand still in the Jordan.’”"
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                "v008_ESV_JOS_003",
+                52,
+                "p2",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 And as for you, command the priests who bear the ark of the covenant, ‘When you come to the brink of the waters of the Jordan, you shall stand still in the Jordan.’”"
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                53,
+                "p2",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                54,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "And Joshua said to the people of Israel, “Come here and listen to the words of the"
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                55,
+                "p2",
+                "verse",
+                "v9",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                56,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "your God.”"
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                "v009_ESV_JOS_003",
+                57,
+                "p2",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 And Joshua said to the people of Israel, “Come here and listen to the words of the Lord your God.”"
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                58,
+                "p2",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                59,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "And Joshua said, “Here is how you shall know that"
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                60,
+                "p2",
+                "verse",
+                "v10",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 5:26;1 Sam. 17:26"
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                61,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "the living God is among you and that he will without fail"
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                62,
+                "p2",
+                "verse",
+                "v10",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 33:2;Deut. 7:1;Ps. 44:2;[Ex. 13:5]"
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                63,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "drive out from before you the Canaanites, the Hittites, the Hivites, the Perizzites, the Girgashites, the Amorites, and the Jebusites."
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                "v010_ESV_JOS_003",
+                64,
+                "p2",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 And Joshua said, “Here is how you shall know that the living God is among you and that he will without fail drive out from before you the Canaanites, the Hittites, the Hivites, the Perizzites, the Girgashites, the Amorites, and the Jebusites."
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                65,
+                "p2",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                66,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "Behold, the ark of the covenant of"
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                67,
+                "p2",
+                "verse",
+                "v11",
+                "note",
+                "x"
+              ],
+              "value": "#Mic. 4:13;Zech. 4:14;6:5"
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                68,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "the Lord of all the earth"
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                69,
+                "p2",
+                "verse",
+                "v11",
+                "note",
+                "f"
+              ],
+              "value": "#3:11Hebrewthe ark of the covenant, the Lord of all the earth"
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                70,
+                "p2",
+                "verse",
+                "v11",
+                "note",
+                "x"
+              ],
+              "value": "#[Deut. 9:3]"
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                71,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "is passing over before you into the Jordan."
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                "v011_ESV_JOS_003",
+                72,
+                "p2",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 Behold, the ark of the covenant of the Lord of all the earth is passing over before you into the Jordan."
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                73,
+                "p2",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                74,
+                "p2",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "Now therefore"
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                75,
+                "p2",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#ch.4:2,4"
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                76,
+                "p2",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "take twelve men from the tribes of Israel,"
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                77,
+                "p2",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#[Num. 13:2]"
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                78,
+                "p2",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "from each tribe a man."
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                "v012_ESV_JOS_003",
+                79,
+                "p2",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 Now therefore take twelve men from the tribes of Israel, from each tribe a man."
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                80,
+                "p2",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                81,
+                "p2",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "And"
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                82,
+                "p2",
+                "verse",
+                "v13",
+                "note",
+                "x"
+              ],
+              "value": "#ver.15, 16"
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                83,
+                "p2",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "when the soles of the feet of the priests bearing the ark of the"
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                84,
+                "p2",
+                "verse",
+                "v13",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                85,
+                "p2",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": ","
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                86,
+                "p2",
+                "verse",
+                "v13",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.11above]"
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                87,
+                "p2",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "the Lord of all the earth, shall rest in the waters of the Jordan, the waters of the Jordan shall be cut off from flowing, and the waters coming down from above shall"
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                88,
+                "p2",
+                "verse",
+                "v13",
+                "note",
+                "x"
+              ],
+              "value": "#Ps. 114:3;[Ex. 15:8;Ps. 78:13]"
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                89,
+                "p2",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "stand in one heap.”"
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                "v013_ESV_JOS_003",
+                90,
+                "p2",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 And when the soles of the feet of the priests bearing the ark of the Lord , the Lord of all the earth, shall rest in the waters of the Jordan, the waters of the Jordan shall be cut off from flowing, and the waters coming down from above shall stand in one heap.”"
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                91,
+                "p3",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                92,
+                "p3",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "So when the people set out from their tents to pass over the Jordan with the priests bearing"
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                93,
+                "p3",
+                "verse",
+                "v14",
+                "note",
+                "x"
+              ],
+              "value": "#Acts 7:44,45"
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                94,
+                "p3",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "the ark of the covenant before the people,"
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                "v014_ESV_JOS_003",
+                95,
+                "p3",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 So when the people set out from their tents to pass over the Jordan with the priests bearing the ark of the covenant before the people,"
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                96,
+                "p3",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                97,
+                "p3",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "and as soon as those bearing the ark had come as far as the Jordan, and"
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                98,
+                "p3",
+                "verse",
+                "v15",
+                "note",
+                "x"
+              ],
+              "value": "#ver.13"
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                99,
+                "p3",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "the feet of the priests bearing the ark were dipped in the brink of the water (now"
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                100,
+                "p3",
+                "verse",
+                "v15",
+                "note",
+                "x"
+              ],
+              "value": "#1 Chr. 12:15;Jer. 12:5;49:19;50:44"
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                101,
+                "p3",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "the Jordan overflows all its banks"
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                102,
+                "p3",
+                "verse",
+                "v15",
+                "note",
+                "x"
+              ],
+              "value": "#[ch.4:18;5:10,12]"
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                103,
+                "p3",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "throughout the time of harvest),"
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                "v015_ESV_JOS_003",
+                104,
+                "p3",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 and as soon as those bearing the ark had come as far as the Jordan, and the feet of the priests bearing the ark were dipped in the brink of the water (now the Jordan overflows all its banks throughout the time of harvest),"
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                105,
+                "p3",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                106,
+                "p3",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "the waters coming down from above stood and rose up in a heap very far away, at Adam, the city that is beside"
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                107,
+                "p3",
+                "verse",
+                "v16",
+                "note",
+                "x"
+              ],
+              "value": "#1 Kgs. 4:12;7:46"
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                108,
+                "p3",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "Zarethan, and those flowing down toward the Sea of"
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                109,
+                "p3",
+                "verse",
+                "v16",
+                "note",
+                "x"
+              ],
+              "value": "#SeeDeut. 1:1"
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                110,
+                "p3",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "the Arabah,"
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                111,
+                "p3",
+                "verse",
+                "v16",
+                "note",
+                "x"
+              ],
+              "value": "#Gen. 14:3;Num. 34:3"
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                112,
+                "p3",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "the Salt Sea, were completely cut off. And the people passed over opposite Jericho."
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                "v016_ESV_JOS_003",
+                113,
+                "p3",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 the waters coming down from above stood and rose up in a heap very far away, at Adam, the city that is beside Zarethan, and those flowing down toward the Sea of the Arabah, the Salt Sea, were completely cut off. And the people passed over opposite Jericho."
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                114,
+                "p3",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                115,
+                "p3",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "Now the priests bearing the ark of the covenant of the"
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                116,
+                "p3",
+                "verse",
+                "v17",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                117,
+                "p3",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "stood firmly on dry ground in the midst of the Jordan,"
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                118,
+                "p3",
+                "verse",
+                "v17",
+                "note",
+                "x"
+              ],
+              "value": "#ch.4:22;[Ex. 14:29]"
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                119,
+                "p3",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "and all Israel was passing over on dry ground until all the nation finished passing over the Jordan."
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                "v017_ESV_JOS_003",
+                120,
+                "p3",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 Now the priests bearing the ark of the covenant of the Lord stood firmly on dry ground in the midst of the Jordan, and all Israel was passing over on dry ground until all the nation finished passing over the Jordan."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

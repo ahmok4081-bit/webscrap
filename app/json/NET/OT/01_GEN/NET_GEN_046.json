@@ -1,0 +1,1949 @@
+{
+  "translationId": "NET",
+  "name": "New English Translation",
+  "abbreviation": "NET",
+  "language": "English",
+  "copyright": "1996 - 2007 by Biblical Studies Press, LLC",
+  "books": [
+    {
+      "bookId": "GEN",
+      "testament": "",
+      "order": 0,
+      "title": "Genesis",
+      "abbreviation": "GEN",
+      "chapters": [
+        {
+          "chapter": 46,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "46"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "The Family of Jacob goes to Egypt"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "So Israel began his journey, taking with him all that he had."
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and Israel journeyed, and all that was his.”"
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "When he came to Beer Sheba"
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                7,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "f"
+              ],
+              "value": "sn Beer Sheba. See Gen 21:31; 28:10."
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "he offered sacrifices to the God of his father Isaac."
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                "v001_NET_GEN_046",
+                9,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 So Israel began his journey, taking with him all that he had. When he came to Beer Sheba he offered sacrifices to the God of his father Isaac."
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                11,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "God spoke to Israel in a vision during the night"
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                12,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “in visions of the night.” The plural form has the singular meaning, probably as a plural of intensity."
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                13,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "and said, “Jacob, Jacob!” He replied, “Here I am!”"
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                "v002_NET_GEN_046",
+                14,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 God spoke to Israel in a vision during the night and said, “Jacob, Jacob!” He replied, “Here I am!”"
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                15,
+                "p1",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                16,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "He said, “I am God,"
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                17,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “the God.”"
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "the God of your father. Do not be afraid to go down to Egypt, for I will make you into a great nation there."
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                "v003_NET_GEN_046",
+                19,
+                "p1",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 He said, “I am God, the God of your father. Do not be afraid to go down to Egypt, for I will make you into a great nation there."
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                20,
+                "p1",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "I will go down with you to Egypt and I myself will certainly bring you back from there."
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                22,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and I, I will bring you up, also bringing up.” The independent personal pronoun before the first person imperfect verbal form draws attention to the speaker/subject, while the infinitive absolute after the imperfect strongly emphasizes the statement: “I myself will certainly bring you up.”"
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "Joseph will close your eyes.”"
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                24,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and Joseph will put his hand upon your eyes.” This is a promise of peaceful death in Egypt with Joseph present to close his eyes."
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                "v004_NET_GEN_046",
+                25,
+                "p1",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 I will go down with you to Egypt and I myself will certainly bring you back from there. Joseph will close your eyes.”"
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                26,
+                "p2",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                27,
+                "p2",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "Then Jacob started out"
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                28,
+                "p2",
+                "verse",
+                "v5",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “arose.”"
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                29,
+                "p2",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "from Beer Sheba, and the sons of Israel carried their father Jacob, their little children, and their wives in the wagons that Pharaoh had sent along to transport him."
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                "v005_NET_GEN_046",
+                30,
+                "p2",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 Then Jacob started out from Beer Sheba, and the sons of Israel carried their father Jacob, their little children, and their wives in the wagons that Pharaoh had sent along to transport him."
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                31,
+                "p2",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "p2",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "Jacob and all his descendants took their livestock and the possessions they had acquired in the land of Canaan, and they went to Egypt."
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                33,
+                "p2",
+                "verse",
+                "v6",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and they took their livestock and their possessions which they had acquired in the land of Canaan and they went to Egypt, Jacob and all his offspring with him.” The order of the clauses has been rearranged in the translation for stylistic reasons."
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                "v006_NET_GEN_046",
+                34,
+                "p2",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 Jacob and all his descendants took their livestock and the possessions they had acquired in the land of Canaan, and they went to Egypt."
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                35,
+                "p2",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "He brought with him to Egypt his sons and grandsons,"
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                37,
+                "p2",
+                "verse",
+                "v7",
+                "note",
+                "f"
+              ],
+              "value": "tn The Hebrew text adds “with him” here. This is omitted in the translation because it is redundant in English style (note the same phrase earlier in the verse)."
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                38,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "his daughters and granddaughters – all his descendants."
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                "v007_NET_GEN_046",
+                39,
+                "p2",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 He brought with him to Egypt his sons and grandsons, his daughters and granddaughters – all his descendants."
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                40,
+                "p3",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p3",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "These are the names of the sons of Israel who went to Egypt – Jacob and his sons:"
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "p4",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "Reuben, the firstborn of Jacob."
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                "v008_NET_GEN_046",
+                43,
+                "p3",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 These are the names of the sons of Israel who went to Egypt – Jacob and his sons: Reuben, the firstborn of Jacob."
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                44,
+                "p5",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                45,
+                "p5",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "The sons of Reuben:"
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                46,
+                "p6",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "Hanoch, Pallu, Hezron, and Carmi."
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                "v009_NET_GEN_046",
+                47,
+                "p5",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 The sons of Reuben: Hanoch, Pallu, Hezron, and Carmi."
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                48,
+                "p7",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                49,
+                "p7",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "The sons of Simeon:"
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "p8",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "Jemuel, Jamin, Ohad, Jakin, Zohar,"
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                51,
+                "p9",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "and Shaul (the son of a Canaanite woman)."
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                "v010_NET_GEN_046",
+                52,
+                "p7",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 The sons of Simeon: Jemuel, Jamin, Ohad, Jakin, Zohar, and Shaul (the son of a Canaanite woman)."
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                53,
+                "p10",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                54,
+                "p10",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "The sons of Levi:"
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                55,
+                "p11",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "Gershon, Kohath, and Merari."
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                "v011_NET_GEN_046",
+                56,
+                "p10",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 The sons of Levi: Gershon, Kohath, and Merari."
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                57,
+                "p12",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                58,
+                "p12",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "The sons of Judah:"
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                59,
+                "p13",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "Er, Onan, Shelah, Perez, and Zerah"
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                60,
+                "p14",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "(but Er and Onan died in the land of Canaan)."
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                61,
+                "p15",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "The sons of Perez were Hezron and Hamul."
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                "v012_NET_GEN_046",
+                62,
+                "p12",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 The sons of Judah: Er, Onan, Shelah, Perez, and Zerah (but Er and Onan died in the land of Canaan). The sons of Perez were Hezron and Hamul."
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                63,
+                "p16",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                64,
+                "p16",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "The sons of Issachar:"
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                65,
+                "p17",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "Tola, Puah,"
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                66,
+                "p17",
+                "verse",
+                "v13",
+                "note",
+                "f"
+              ],
+              "value": "tc The MT reads “Puvah” (cf. Num 26:23); the Samaritan Pentateuch and Syriac read “Puah” (cf. 1 Chr 7:1)."
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                67,
+                "p17",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "Jashub,"
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                68,
+                "p17",
+                "verse",
+                "v13",
+                "note",
+                "f"
+              ],
+              "value": "tc The MT reads “Iob,” but the Samaritan Pentateuch and some LXX mss read “Jashub” (see Num 26:24; 1 Chr 7:1)."
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                69,
+                "p17",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "and Shimron."
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                "v013_NET_GEN_046",
+                70,
+                "p16",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 The sons of Issachar: Tola, Puah, Jashub, and Shimron."
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                71,
+                "p18",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                72,
+                "p18",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "The sons of Zebulun:"
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                73,
+                "p19",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "Sered, Elon, and Jahleel."
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                "v014_NET_GEN_046",
+                74,
+                "p18",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 The sons of Zebulun: Sered, Elon, and Jahleel."
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                75,
+                "p20",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                76,
+                "p20",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "These were the sons of Leah, whom she bore to Jacob in Paddan Aram, along with Dinah his daughter. His sons and daughters numbered thirty-three in all."
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                77,
+                "p20",
+                "verse",
+                "v15",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “all the lives of his sons and his daughters, thirty-three.”"
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                "v015_NET_GEN_046",
+                78,
+                "p20",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 These were the sons of Leah, whom she bore to Jacob in Paddan Aram, along with Dinah his daughter. His sons and daughters numbered thirty-three in all."
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                79,
+                "p21",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                80,
+                "p21",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "The sons of Gad:"
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                81,
+                "p22",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "Zephon,"
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                82,
+                "p22",
+                "verse",
+                "v16",
+                "note",
+                "f"
+              ],
+              "value": "tc The MT reads “Ziphion,” but see Num 26:15, the Samaritan Pentateuch and the LXX, all of which read “Zephon.”"
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                83,
+                "p22",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "Haggi, Shuni, Ezbon, Eri, Arodi, and Areli."
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                "v016_NET_GEN_046",
+                84,
+                "p21",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 The sons of Gad: Zephon, Haggi, Shuni, Ezbon, Eri, Arodi, and Areli."
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                85,
+                "p23",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                86,
+                "p23",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "The sons of Asher:"
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                87,
+                "p24",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "Imnah, Ishvah, Ishvi, Beriah, and Serah their sister."
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                88,
+                "p25",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "The sons of Beriah were Heber and Malkiel."
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                "v017_NET_GEN_046",
+                89,
+                "p23",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 The sons of Asher: Imnah, Ishvah, Ishvi, Beriah, and Serah their sister. The sons of Beriah were Heber and Malkiel."
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                90,
+                "p26",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                91,
+                "p26",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "These were the sons of Zilpah, whom Laban gave to Leah his daughter. She bore these to Jacob, sixteen in all."
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                "v018_NET_GEN_046",
+                92,
+                "p26",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 These were the sons of Zilpah, whom Laban gave to Leah his daughter. She bore these to Jacob, sixteen in all."
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                93,
+                "p27",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                94,
+                "p27",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "The sons of Rachel the wife of Jacob:"
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                95,
+                "p28",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "Joseph and Benjamin."
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                "v019_NET_GEN_046",
+                96,
+                "p27",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 The sons of Rachel the wife of Jacob: Joseph and Benjamin."
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                97,
+                "p29",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                98,
+                "p29",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "Manasseh and Ephraim were born to Joseph in the land of Egypt. Asenath daughter of Potiphera, priest of On,"
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                99,
+                "p29",
+                "verse",
+                "v20",
+                "note",
+                "f"
+              ],
+              "value": "sn On is another name for the city of Heliopolis."
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                100,
+                "p29",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "bore them to him."
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                "v020_NET_GEN_046",
+                101,
+                "p29",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 Manasseh and Ephraim were born to Joseph in the land of Egypt. Asenath daughter of Potiphera, priest of On, bore them to him."
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                102,
+                "p30",
+                "verse",
+                "v21",
+                "label"
+              ],
+              "value": "21"
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                103,
+                "p30",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "The sons of Benjamin:"
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                104,
+                "p30",
+                "verse",
+                "v21",
+                "note",
+                "f"
+              ],
+              "value": "sn The sons of Benjamin. It is questionable whether youthful Benjamin had ten sons by the time he went into Egypt, but it is not impossible. If Benjamin was born when Joseph was six or seven, he was ten when Joseph was sold into Egypt, and would have been thirty-two at this point. Some suggest that the list originally served another purpose and included the names of all who were in the immediate family of the sons, whether born in Canaan or later in Egypt."
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                105,
+                "p31",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "Bela, Beker, Ashbel, Gera, Naaman, Ehi, Rosh, Muppim, Huppim and Ard."
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                "v021_NET_GEN_046",
+                106,
+                "p30",
+                "verse",
+                "v21",
+                "plain_text"
+              ],
+              "value": "21 The sons of Benjamin: Bela, Beker, Ashbel, Gera, Naaman, Ehi, Rosh, Muppim, Huppim and Ard."
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                107,
+                "p32",
+                "verse",
+                "v22",
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                108,
+                "p32",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "These were the sons of Rachel who were born to Jacob, fourteen in all."
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                "v022_NET_GEN_046",
+                109,
+                "p32",
+                "verse",
+                "v22",
+                "plain_text"
+              ],
+              "value": "22 These were the sons of Rachel who were born to Jacob, fourteen in all."
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                110,
+                "p33",
+                "verse",
+                "v23",
+                "label"
+              ],
+              "value": "23"
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                111,
+                "p33",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "The son of Dan: Hushim."
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                112,
+                "p33",
+                "verse",
+                "v23",
+                "note",
+                "f"
+              ],
+              "value": "tn This name appears as “Shuham” in Num 26:42. The LXX reads “Hashum” here."
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                "v023_NET_GEN_046",
+                113,
+                "p33",
+                "verse",
+                "v23",
+                "plain_text"
+              ],
+              "value": "23 The son of Dan: Hushim."
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                114,
+                "p34",
+                "verse",
+                "v24",
+                "label"
+              ],
+              "value": "24"
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                115,
+                "p34",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "The sons of Naphtali:"
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                116,
+                "p35",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "Jahziel, Guni, Jezer, and Shillem."
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                "v024_NET_GEN_046",
+                117,
+                "p34",
+                "verse",
+                "v24",
+                "plain_text"
+              ],
+              "value": "24 The sons of Naphtali: Jahziel, Guni, Jezer, and Shillem."
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                118,
+                "p36",
+                "verse",
+                "v25",
+                "label"
+              ],
+              "value": "25"
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                119,
+                "p36",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "These were the sons of Bilhah, whom Laban gave to Rachel his daughter. She bore these to Jacob, seven in all."
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                "v025_NET_GEN_046",
+                120,
+                "p36",
+                "verse",
+                "v25",
+                "plain_text"
+              ],
+              "value": "25 These were the sons of Bilhah, whom Laban gave to Rachel his daughter. She bore these to Jacob, seven in all."
+            },
+            {
+              "rowId": 121,
+              "keyParts": [
+                121,
+                "p37",
+                "verse",
+                "v26",
+                "label"
+              ],
+              "value": "26"
+            },
+            {
+              "rowId": 122,
+              "keyParts": [
+                122,
+                "p37",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "All the direct descendants of Jacob who went to Egypt with him were sixty-six in number. (This number does not include the wives of Jacob’s sons.)"
+            },
+            {
+              "rowId": 123,
+              "keyParts": [
+                123,
+                "p37",
+                "verse",
+                "v26",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “All the people who went with Jacob to Egypt, the ones who came out of his body, apart from the wives of the sons of Jacob, all the people were sixty-six.”\nsn The number sixty-six includes the seventy-one descendants (including Dinah) listed in vv. 8-25 minus Er and Onan (deceased), and Joseph, Manasseh, and Ephraim (already in Egypt)."
+            },
+            {
+              "rowId": 124,
+              "keyParts": [
+                "v026_NET_GEN_046",
+                124,
+                "p37",
+                "verse",
+                "v26",
+                "plain_text"
+              ],
+              "value": "26 All the direct descendants of Jacob who went to Egypt with him were sixty-six in number. (This number does not include the wives of Jacob’s sons.)"
+            },
+            {
+              "rowId": 125,
+              "keyParts": [
+                125,
+                "p37",
+                "verse",
+                "v27",
+                "label"
+              ],
+              "value": "27"
+            },
+            {
+              "rowId": 126,
+              "keyParts": [
+                126,
+                "p37",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "Counting the two sons"
+            },
+            {
+              "rowId": 127,
+              "keyParts": [
+                127,
+                "p37",
+                "verse",
+                "v27",
+                "note",
+                "f"
+              ],
+              "value": "tn The LXX reads “nine sons,” probably counting the grandsons of Joseph born to Ephraim and Manasseh (cf. 1 Chr 7:14-20)."
+            },
+            {
+              "rowId": 128,
+              "keyParts": [
+                128,
+                "p37",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "of Joseph who were born to him in Egypt, all the people of the household of Jacob who were in Egypt numbered seventy."
+            },
+            {
+              "rowId": 129,
+              "keyParts": [
+                129,
+                "p37",
+                "verse",
+                "v27",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “And the sons of Joseph who were born to him in Egypt were two people; all the people belonging to the house of Jacob who came to Egypt were seventy.”\nsn The number seventy includes Jacob himself and the seventy-one descendants (including Dinah, Joseph, Manasseh, and Ephraim) listed in vv. 8-25, minus Er and Onan (deceased). The LXX gives the number as “seventy-five” (cf. Acts 7:14)."
+            },
+            {
+              "rowId": 130,
+              "keyParts": [
+                "v027_NET_GEN_046",
+                130,
+                "p37",
+                "verse",
+                "v27",
+                "plain_text"
+              ],
+              "value": "27 Counting the two sons of Joseph who were born to him in Egypt, all the people of the household of Jacob who were in Egypt numbered seventy."
+            },
+            {
+              "rowId": 131,
+              "keyParts": [
+                131,
+                "p38",
+                "verse",
+                "v28",
+                "label"
+              ],
+              "value": "28"
+            },
+            {
+              "rowId": 132,
+              "keyParts": [
+                132,
+                "p38",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "Jacob"
+            },
+            {
+              "rowId": 133,
+              "keyParts": [
+                133,
+                "p38",
+                "verse",
+                "v28",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and he”; the referent (Jacob) has been specified in the translation for clarity."
+            },
+            {
+              "rowId": 134,
+              "keyParts": [
+                134,
+                "p38",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "sent Judah before him to Joseph to accompany him to Goshen."
+            },
+            {
+              "rowId": 135,
+              "keyParts": [
+                135,
+                "p38",
+                "verse",
+                "v28",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “to direct before him to Goshen.”"
+            },
+            {
+              "rowId": 136,
+              "keyParts": [
+                136,
+                "p38",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "So they came to the land of Goshen."
+            },
+            {
+              "rowId": 137,
+              "keyParts": [
+                "v028_NET_GEN_046",
+                137,
+                "p38",
+                "verse",
+                "v28",
+                "plain_text"
+              ],
+              "value": "28 Jacob sent Judah before him to Joseph to accompany him to Goshen. So they came to the land of Goshen."
+            },
+            {
+              "rowId": 138,
+              "keyParts": [
+                138,
+                "p38",
+                "verse",
+                "v29",
+                "label"
+              ],
+              "value": "29"
+            },
+            {
+              "rowId": 139,
+              "keyParts": [
+                139,
+                "p38",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "Joseph harnessed his chariot and went up to meet his father Israel in Goshen. When he met him,"
+            },
+            {
+              "rowId": 140,
+              "keyParts": [
+                140,
+                "p38",
+                "verse",
+                "v29",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and he appeared to him.”"
+            },
+            {
+              "rowId": 141,
+              "keyParts": [
+                141,
+                "p38",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "he hugged his neck and wept on his neck for quite some time."
+            },
+            {
+              "rowId": 142,
+              "keyParts": [
+                "v029_NET_GEN_046",
+                142,
+                "p38",
+                "verse",
+                "v29",
+                "plain_text"
+              ],
+              "value": "29 Joseph harnessed his chariot and went up to meet his father Israel in Goshen. When he met him, he hugged his neck and wept on his neck for quite some time."
+            },
+            {
+              "rowId": 143,
+              "keyParts": [
+                143,
+                "p39",
+                "verse",
+                "v30",
+                "label"
+              ],
+              "value": "30"
+            },
+            {
+              "rowId": 144,
+              "keyParts": [
+                144,
+                "p39",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "Israel said to Joseph, “Now let me die since I have seen your face and know that you are still alive.”"
+            },
+            {
+              "rowId": 145,
+              "keyParts": [
+                145,
+                "p39",
+                "verse",
+                "v30",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “after my seeing your face that you are still alive.”"
+            },
+            {
+              "rowId": 146,
+              "keyParts": [
+                "v030_NET_GEN_046",
+                146,
+                "p39",
+                "verse",
+                "v30",
+                "plain_text"
+              ],
+              "value": "30 Israel said to Joseph, “Now let me die since I have seen your face and know that you are still alive.”"
+            },
+            {
+              "rowId": 147,
+              "keyParts": [
+                147,
+                "p39",
+                "verse",
+                "v31",
+                "label"
+              ],
+              "value": "31"
+            },
+            {
+              "rowId": 148,
+              "keyParts": [
+                148,
+                "p39",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "Then Joseph said to his brothers and his father’s household, “I will go up and tell Pharaoh,"
+            },
+            {
+              "rowId": 149,
+              "keyParts": [
+                149,
+                "p39",
+                "verse",
+                "v31",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “tell Pharaoh and say to him.”"
+            },
+            {
+              "rowId": 150,
+              "keyParts": [
+                150,
+                "p39",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "‘My brothers and my father’s household who were in the land of Canaan have come to me."
+            },
+            {
+              "rowId": 151,
+              "keyParts": [
+                "v031_NET_GEN_046",
+                151,
+                "p39",
+                "verse",
+                "v31",
+                "plain_text"
+              ],
+              "value": "31 Then Joseph said to his brothers and his father’s household, “I will go up and tell Pharaoh, ‘My brothers and my father’s household who were in the land of Canaan have come to me."
+            },
+            {
+              "rowId": 152,
+              "keyParts": [
+                152,
+                "p39",
+                "verse",
+                "v32",
+                "label"
+              ],
+              "value": "32"
+            },
+            {
+              "rowId": 153,
+              "keyParts": [
+                153,
+                "p39",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "The men are shepherds;"
+            },
+            {
+              "rowId": 154,
+              "keyParts": [
+                154,
+                "p39",
+                "verse",
+                "v32",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “feeders of sheep.”"
+            },
+            {
+              "rowId": 155,
+              "keyParts": [
+                155,
+                "p39",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "they take care of livestock."
+            },
+            {
+              "rowId": 156,
+              "keyParts": [
+                156,
+                "p39",
+                "verse",
+                "v32",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “for men of livestock they are.”"
+            },
+            {
+              "rowId": 157,
+              "keyParts": [
+                157,
+                "p39",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "They have brought their flocks and their herds and all that they have.’"
+            },
+            {
+              "rowId": 158,
+              "keyParts": [
+                "v032_NET_GEN_046",
+                158,
+                "p39",
+                "verse",
+                "v32",
+                "plain_text"
+              ],
+              "value": "32 The men are shepherds; they take care of livestock. They have brought their flocks and their herds and all that they have.’"
+            },
+            {
+              "rowId": 159,
+              "keyParts": [
+                159,
+                "p39",
+                "verse",
+                "v33",
+                "label"
+              ],
+              "value": "33"
+            },
+            {
+              "rowId": 160,
+              "keyParts": [
+                160,
+                "p39",
+                "verse",
+                "v33",
+                "content"
+              ],
+              "value": "Pharaoh will summon you and say, ‘What is your occupation?’"
+            },
+            {
+              "rowId": 161,
+              "keyParts": [
+                "v033_NET_GEN_046",
+                161,
+                "p39",
+                "verse",
+                "v33",
+                "plain_text"
+              ],
+              "value": "33 Pharaoh will summon you and say, ‘What is your occupation?’"
+            },
+            {
+              "rowId": 162,
+              "keyParts": [
+                162,
+                "p39",
+                "verse",
+                "v34",
+                "label"
+              ],
+              "value": "34"
+            },
+            {
+              "rowId": 163,
+              "keyParts": [
+                163,
+                "p39",
+                "verse",
+                "v34",
+                "content"
+              ],
+              "value": "Tell him, ‘Your servants have taken care of cattle"
+            },
+            {
+              "rowId": 164,
+              "keyParts": [
+                164,
+                "p39",
+                "verse",
+                "v34",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “your servants are men of cattle.”"
+            },
+            {
+              "rowId": 165,
+              "keyParts": [
+                165,
+                "p39",
+                "verse",
+                "v34",
+                "content"
+              ],
+              "value": "from our youth until now, both we and our fathers,’ so that you may live in the land of Goshen,"
+            },
+            {
+              "rowId": 166,
+              "keyParts": [
+                166,
+                "p39",
+                "verse",
+                "v34",
+                "note",
+                "f"
+              ],
+              "value": "sn So that you may live in the land of Goshen. Joseph is apparently trying to stress to Pharaoh that his family is self-sufficient, that they will not be a drain on the economy of Egypt. But they will need land for their animals and so Goshen, located on the edge of Egypt, would be a suitable place for them to live. The settled Egyptians were uneasy with nomadic people, but if Jacob and his family settled in Goshen they would represent no threat."
+            },
+            {
+              "rowId": 167,
+              "keyParts": [
+                167,
+                "p39",
+                "verse",
+                "v34",
+                "content"
+              ],
+              "value": "for everyone who takes care of sheep is disgusting"
+            },
+            {
+              "rowId": 168,
+              "keyParts": [
+                168,
+                "p39",
+                "verse",
+                "v34",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “is an abomination.” The Hebrew word תּוֹעֵבָה (to’evah, “abomination”) describes something that is loathsome or off-limits. For other practices the Egyptians considered disgusting, see Gen 43:32 and Exod 8:22."
+            },
+            {
+              "rowId": 169,
+              "keyParts": [
+                169,
+                "p39",
+                "verse",
+                "v34",
+                "content"
+              ],
+              "value": "to the Egyptians.”"
+            },
+            {
+              "rowId": 170,
+              "keyParts": [
+                "v034_NET_GEN_046",
+                170,
+                "p39",
+                "verse",
+                "v34",
+                "plain_text"
+              ],
+              "value": "34 Tell him, ‘Your servants have taken care of cattle from our youth until now, both we and our fathers,’ so that you may live in the land of Goshen, for everyone who takes care of sheep is disgusting to the Egyptians.”"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

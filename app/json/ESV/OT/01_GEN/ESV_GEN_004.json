@@ -1,0 +1,1785 @@
+{
+  "translationId": "ESV",
+  "name": "English Standard Version",
+  "abbreviation": "ESV",
+  "language": "English",
+  "copyright": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.",
+  "books": [
+    {
+      "bookId": "GEN",
+      "testament": "OT",
+      "order": 1,
+      "title": "Genesis",
+      "abbreviation": "GEN",
+      "chapters": [
+        {
+          "chapter": 4,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Cain and Abel"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "Now Adam knew Eve his wife, and she conceived and bore Cain, saying, “I have gotten"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "f"
+              ],
+              "value": "#4:1Cainsounds like the Hebrew forgotten"
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "a man with the help of the"
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                7,
+                "p1",
+                "verse",
+                "v1",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": ".”"
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                "v001_ESV_GEN_004",
+                9,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 Now Adam knew Eve his wife, and she conceived and bore Cain, saying, “I have gotten a man with the help of the Lord .”"
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                11,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "And again, she bore his brother Abel. Now Abel was a keeper of sheep, and Cain a worker of the ground."
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                "v002_ESV_GEN_004",
+                12,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 And again, she bore his brother Abel. Now Abel was a keeper of sheep, and Cain a worker of the ground."
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                13,
+                "p1",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "In the course of time Cain brought to the"
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                15,
+                "p1",
+                "verse",
+                "v3",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                16,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "an offering of"
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                17,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#Lev. 2:12;Num. 18:12"
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "the fruit of the ground,"
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                "v003_ESV_GEN_004",
+                19,
+                "p1",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 In the course of time Cain brought to the Lord an offering of the fruit of the ground,"
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                20,
+                "p1",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "and Abel also brought of"
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                22,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 13:12;Num. 18:17;Prov. 3:9"
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "the firstborn of his flock and of their fat portions. And the"
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                24,
+                "p1",
+                "verse",
+                "v4",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#Heb. 11:4"
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                26,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "had regard for Abel and his offering,"
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                "v004_ESV_GEN_004",
+                27,
+                "p1",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 and Abel also brought of the firstborn of his flock and of their fat portions. And the Lord had regard for Abel and his offering,"
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                28,
+                "p1",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                29,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "but"
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                30,
+                "p1",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#[Prov. 21:27]"
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                31,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "for Cain and his offering he had no regard. So Cain was very angry, and his face fell."
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                "v005_ESV_GEN_004",
+                32,
+                "p1",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 but for Cain and his offering he had no regard. So Cain was very angry, and his face fell."
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                33,
+                "p1",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                34,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "The"
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                35,
+                "p1",
+                "verse",
+                "v6",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "said to Cain, “Why are you angry, and why has your face fallen?"
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                "v006_ESV_GEN_004",
+                37,
+                "p1",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 The Lord said to Cain, “Why are you angry, and why has your face fallen?"
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                38,
+                "p1",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                39,
+                "p1",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#Eccles. 8:12,13;Isa. 3:10,11;Rom. 2:6-11"
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                40,
+                "p1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "If you do well, will you not be accepted?"
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p1",
+                "verse",
+                "v7",
+                "note",
+                "f"
+              ],
+              "value": "#4:7Hebrewwill there not be a lifting up[of your face]?"
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "p1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "And if you do not do well, sin is crouching at the door."
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                43,
+                "p1",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#ch.3:16"
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                44,
+                "p1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "Its desire is for"
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                45,
+                "p1",
+                "verse",
+                "v7",
+                "note",
+                "f"
+              ],
+              "value": "#4:7Orto, ortoward, oragainst(see 3:16)"
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                46,
+                "p1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "you, and you must rule over it.”"
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                "v007_ESV_GEN_004",
+                47,
+                "p1",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 If you do well, will you not be accepted? And if you do not do well, sin is crouching at the door. Its desire is for you, and you must rule over it.”"
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                48,
+                "p2",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                49,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "Cain spoke to Abel his brother."
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "p2",
+                "verse",
+                "v8",
+                "note",
+                "f"
+              ],
+              "value": "#4:8Hebrew; Samaritan, Septuagint, Syriac, Vulgate addLet us go out to the field"
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                51,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "And when they were in the field, Cain rose up against his brother Abel and"
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                52,
+                "p2",
+                "verse",
+                "v8",
+                "note",
+                "x"
+              ],
+              "value": "#Matt. 23:35;Heb. 12:24;1 John 3:12;Jude 11"
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                53,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "killed him."
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                "v008_ESV_GEN_004",
+                54,
+                "p2",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 Cain spoke to Abel his brother. And when they were in the field, Cain rose up against his brother Abel and killed him."
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                55,
+                "p2",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                56,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "Then the"
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                57,
+                "p2",
+                "verse",
+                "v9",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                58,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "said to Cain, “Where is Abel your brother?” He said,"
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                59,
+                "p2",
+                "verse",
+                "v9",
+                "note",
+                "x"
+              ],
+              "value": "#John 8:44"
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                60,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "“I do not know; am I my brother’s keeper?”"
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                "v009_ESV_GEN_004",
+                61,
+                "p2",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 Then the Lord said to Cain, “Where is Abel your brother?” He said, “I do not know; am I my brother’s keeper?”"
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                62,
+                "p2",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                63,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "And the"
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                64,
+                "p2",
+                "verse",
+                "v10",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                65,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "said, “What have you done? The voice of your brother’s blood"
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                66,
+                "p2",
+                "verse",
+                "v10",
+                "note",
+                "x"
+              ],
+              "value": "#Heb. 12:24;[Rev. 6:10]"
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                67,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "is crying to me from the ground."
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                "v010_ESV_GEN_004",
+                68,
+                "p2",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 And the Lord said, “What have you done? The voice of your brother’s blood is crying to me from the ground."
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                69,
+                "p2",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                70,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "And now"
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                71,
+                "p2",
+                "verse",
+                "v11",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 27:24;[Num. 35:33]"
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                72,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "you are cursed from the ground, which has opened its mouth to receive your brother’s blood from your hand."
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                "v011_ESV_GEN_004",
+                73,
+                "p2",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 And now you are cursed from the ground, which has opened its mouth to receive your brother’s blood from your hand."
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                74,
+                "p2",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                75,
+                "p2",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "When you work the ground, it shall no longer yield to you its strength. You shall be a fugitive and a wanderer on the earth.”"
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                "v012_ESV_GEN_004",
+                76,
+                "p2",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 When you work the ground, it shall no longer yield to you its strength. You shall be a fugitive and a wanderer on the earth.”"
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                77,
+                "p2",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                78,
+                "p2",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "Cain said to the"
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                79,
+                "p2",
+                "verse",
+                "v13",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                80,
+                "p2",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": ", “My"
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                81,
+                "p2",
+                "verse",
+                "v13",
+                "note",
+                "x"
+              ],
+              "value": "#ch.19:15"
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                82,
+                "p2",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "punishment is greater than I can bear."
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                83,
+                "p2",
+                "verse",
+                "v13",
+                "note",
+                "f"
+              ],
+              "value": "#4:13OrMy guilt is too great to bear"
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                "v013_ESV_GEN_004",
+                84,
+                "p2",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 Cain said to the Lord , “My punishment is greater than I can bear."
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                85,
+                "p2",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                86,
+                "p2",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "Behold,"
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                87,
+                "p2",
+                "verse",
+                "v14",
+                "note",
+                "x"
+              ],
+              "value": "#Job 15:20-24"
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                88,
+                "p2",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "you have driven me today away from the ground, and"
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                89,
+                "p2",
+                "verse",
+                "v14",
+                "note",
+                "x"
+              ],
+              "value": "#2 Kgs. 24:20;Ps. 51:11;143:7;Jer. 52:3"
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                90,
+                "p2",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "from your face I shall be hidden. I shall be a fugitive and a wanderer on the earth,"
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                91,
+                "p2",
+                "verse",
+                "v14",
+                "note",
+                "x"
+              ],
+              "value": "#ch.9:6;Num. 35:19"
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                92,
+                "p2",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "and whoever finds me will kill me.”"
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                "v014_ESV_GEN_004",
+                93,
+                "p2",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 Behold, you have driven me today away from the ground, and from your face I shall be hidden. I shall be a fugitive and a wanderer on the earth, and whoever finds me will kill me.”"
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                94,
+                "p2",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                95,
+                "p2",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "Then the"
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                96,
+                "p2",
+                "verse",
+                "v15",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                97,
+                "p2",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "said to him, “Not so! If anyone kills Cain, vengeance shall be taken on him"
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                98,
+                "p2",
+                "verse",
+                "v15",
+                "note",
+                "x"
+              ],
+              "value": "#Ps. 79:12"
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                99,
+                "p2",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "sevenfold.” And the"
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                100,
+                "p2",
+                "verse",
+                "v15",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                101,
+                "p2",
+                "verse",
+                "v15",
+                "note",
+                "x"
+              ],
+              "value": "#[Ezek. 9:4,6;Rev. 14:9,11]"
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                102,
+                "p2",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "put a mark on Cain, lest any who found him should attack him."
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                "v015_ESV_GEN_004",
+                103,
+                "p2",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 Then the Lord said to him, “Not so! If anyone kills Cain, vengeance shall be taken on him sevenfold.” And the Lord put a mark on Cain, lest any who found him should attack him."
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                104,
+                "p2",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                105,
+                "p2",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "Then Cain went away from the presence of the"
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                106,
+                "p2",
+                "verse",
+                "v16",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                107,
+                "p2",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "and settled in the land of Nod,"
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                108,
+                "p2",
+                "verse",
+                "v16",
+                "note",
+                "f"
+              ],
+              "value": "#4:16Nodmeanswandering"
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                109,
+                "p2",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "east of Eden."
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                "v016_ESV_GEN_004",
+                110,
+                "p2",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 Then Cain went away from the presence of the Lord and settled in the land of Nod, east of Eden."
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                111,
+                "p3",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                112,
+                "p3",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "Cain knew his wife, and she conceived and bore Enoch. When he built a city, he called the name of the city after the name of his son, Enoch."
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                "v017_ESV_GEN_004",
+                113,
+                "p3",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 Cain knew his wife, and she conceived and bore Enoch. When he built a city, he called the name of the city after the name of his son, Enoch."
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                114,
+                "p3",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                115,
+                "p3",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "To Enoch was born Irad, and Irad fathered Mehujael, and Mehujael fathered Methushael, and Methushael fathered Lamech."
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                "v018_ESV_GEN_004",
+                116,
+                "p3",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 To Enoch was born Irad, and Irad fathered Mehujael, and Mehujael fathered Methushael, and Methushael fathered Lamech."
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                117,
+                "p3",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                118,
+                "p3",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "And Lamech took two wives. The name of the one was Adah, and the name of the other Zillah."
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                "v019_ESV_GEN_004",
+                119,
+                "p3",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 And Lamech took two wives. The name of the one was Adah, and the name of the other Zillah."
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                120,
+                "p3",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 121,
+              "keyParts": [
+                121,
+                "p3",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "Adah bore Jabal; he was the father of those who dwell in tents and have livestock."
+            },
+            {
+              "rowId": 122,
+              "keyParts": [
+                "v020_ESV_GEN_004",
+                122,
+                "p3",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 Adah bore Jabal; he was the father of those who dwell in tents and have livestock."
+            },
+            {
+              "rowId": 123,
+              "keyParts": [
+                123,
+                "p3",
+                "verse",
+                "v21",
+                "label"
+              ],
+              "value": "21"
+            },
+            {
+              "rowId": 124,
+              "keyParts": [
+                124,
+                "p3",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "His brother’s name was Jubal; he was the father of all those who play the lyre and pipe."
+            },
+            {
+              "rowId": 125,
+              "keyParts": [
+                "v021_ESV_GEN_004",
+                125,
+                "p3",
+                "verse",
+                "v21",
+                "plain_text"
+              ],
+              "value": "21 His brother’s name was Jubal; he was the father of all those who play the lyre and pipe."
+            },
+            {
+              "rowId": 126,
+              "keyParts": [
+                126,
+                "p3",
+                "verse",
+                "v22",
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 127,
+              "keyParts": [
+                127,
+                "p3",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "Zillah also bore Tubal-cain; he was the forger of all instruments of bronze and iron. The sister of Tubal-cain was Naamah."
+            },
+            {
+              "rowId": 128,
+              "keyParts": [
+                "v022_ESV_GEN_004",
+                128,
+                "p3",
+                "verse",
+                "v22",
+                "plain_text"
+              ],
+              "value": "22 Zillah also bore Tubal-cain; he was the forger of all instruments of bronze and iron. The sister of Tubal-cain was Naamah."
+            },
+            {
+              "rowId": 129,
+              "keyParts": [
+                129,
+                "p4",
+                "verse",
+                "v23",
+                "label"
+              ],
+              "value": "23"
+            },
+            {
+              "rowId": 130,
+              "keyParts": [
+                130,
+                "p4",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "Lamech said to his wives:"
+            },
+            {
+              "rowId": 131,
+              "keyParts": [
+                131,
+                "q1_1",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "“Adah and Zillah, hear my voice;"
+            },
+            {
+              "rowId": 132,
+              "keyParts": [
+                132,
+                "q2_1",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "you wives of Lamech, listen to what I say:"
+            },
+            {
+              "rowId": 133,
+              "keyParts": [
+                133,
+                "q1_2",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "I have killed a man for wounding me,"
+            },
+            {
+              "rowId": 134,
+              "keyParts": [
+                134,
+                "q2_2",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "a young man for striking me."
+            },
+            {
+              "rowId": 135,
+              "keyParts": [
+                "v023_ESV_GEN_004",
+                135,
+                "p4",
+                "verse",
+                "v23",
+                "plain_text"
+              ],
+              "value": "23 Lamech said to his wives: “Adah and Zillah, hear my voice; you wives of Lamech, listen to what I say: I have killed a man for wounding me, a young man for striking me."
+            },
+            {
+              "rowId": 136,
+              "keyParts": [
+                136,
+                "q1_3",
+                "verse",
+                "v24",
+                "label"
+              ],
+              "value": "24"
+            },
+            {
+              "rowId": 137,
+              "keyParts": [
+                137,
+                "q1_3",
+                "verse",
+                "v24",
+                "note",
+                "x"
+              ],
+              "value": "#ver.15"
+            },
+            {
+              "rowId": 138,
+              "keyParts": [
+                138,
+                "q1_3",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "If Cain’s revenge is sevenfold,"
+            },
+            {
+              "rowId": 139,
+              "keyParts": [
+                139,
+                "q2_3",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "then Lamech’s is seventy-sevenfold.”"
+            },
+            {
+              "rowId": 140,
+              "keyParts": [
+                "v024_ESV_GEN_004",
+                140,
+                "q1_3",
+                "verse",
+                "v24",
+                "plain_text"
+              ],
+              "value": "24 If Cain’s revenge is sevenfold, then Lamech’s is seventy-sevenfold.”"
+            },
+            {
+              "rowId": 141,
+              "keyParts": [
+                141,
+                "p5",
+                "verse",
+                "v25",
+                "label"
+              ],
+              "value": "25"
+            },
+            {
+              "rowId": 142,
+              "keyParts": [
+                142,
+                "p5",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "And Adam knew his wife again, and she bore a son and called his name Seth, for she said, “God has appointed"
+            },
+            {
+              "rowId": 143,
+              "keyParts": [
+                143,
+                "p5",
+                "verse",
+                "v25",
+                "note",
+                "f"
+              ],
+              "value": "#4:25Sethsounds like the Hebrew forhe appointed"
+            },
+            {
+              "rowId": 144,
+              "keyParts": [
+                144,
+                "p5",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "for me another offspring instead of Abel, for Cain killed him.”"
+            },
+            {
+              "rowId": 145,
+              "keyParts": [
+                "v025_ESV_GEN_004",
+                145,
+                "p5",
+                "verse",
+                "v25",
+                "plain_text"
+              ],
+              "value": "25 And Adam knew his wife again, and she bore a son and called his name Seth, for she said, “God has appointed for me another offspring instead of Abel, for Cain killed him.”"
+            },
+            {
+              "rowId": 146,
+              "keyParts": [
+                146,
+                "p5",
+                "verse",
+                "v26",
+                "label"
+              ],
+              "value": "26"
+            },
+            {
+              "rowId": 147,
+              "keyParts": [
+                147,
+                "p5",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "To"
+            },
+            {
+              "rowId": 148,
+              "keyParts": [
+                148,
+                "p5",
+                "verse",
+                "v26",
+                "note",
+                "x"
+              ],
+              "value": "#1 Chr. 1:1;Luke 3:38"
+            },
+            {
+              "rowId": 149,
+              "keyParts": [
+                149,
+                "p5",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "Seth also a son was born, and he called his name"
+            },
+            {
+              "rowId": 150,
+              "keyParts": [
+                150,
+                "p5",
+                "verse",
+                "v26",
+                "note",
+                "x"
+              ],
+              "value": "#ch.5:6"
+            },
+            {
+              "rowId": 151,
+              "keyParts": [
+                151,
+                "p5",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "Enosh. At that time people began"
+            },
+            {
+              "rowId": 152,
+              "keyParts": [
+                152,
+                "p5",
+                "verse",
+                "v26",
+                "note",
+                "x"
+              ],
+              "value": "#Ps. 116:17;Zeph. 3:9;Zech. 13:9"
+            },
+            {
+              "rowId": 153,
+              "keyParts": [
+                153,
+                "p5",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "to call upon the name of the"
+            },
+            {
+              "rowId": 154,
+              "keyParts": [
+                154,
+                "p5",
+                "verse",
+                "v26",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 155,
+              "keyParts": [
+                155,
+                "p5",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "."
+            },
+            {
+              "rowId": 156,
+              "keyParts": [
+                "v026_ESV_GEN_004",
+                156,
+                "p5",
+                "verse",
+                "v26",
+                "plain_text"
+              ],
+              "value": "26 To Seth also a son was born, and he called his name Enosh. At that time people began to call upon the name of the Lord ."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,809 @@
+{
+  "translationId": "ESV",
+  "name": "English Standard Version",
+  "abbreviation": "ESV",
+  "language": "English",
+  "copyright": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.",
+  "books": [
+    {
+      "bookId": "NUM",
+      "testament": "OT",
+      "order": 4,
+      "title": "Numbers",
+      "abbreviation": "NUM",
+      "chapters": [
+        {
+          "chapter": 17,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Aaron’s Staff Buds"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "f"
+              ],
+              "value": "#17:1Ch 17:16 in Hebrew"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "The"
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                7,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "spoke to Moses, saying,"
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                "v001_ESV_NUM_017",
+                8,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 The Lord spoke to Moses, saying,"
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                9,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#[Ezek. 37:16]"
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                11,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "“Speak to the people of Israel, and get from them staffs, one for each fathers’ house, from all their chiefs according to their fathers’ houses, twelve staffs. Write each man’s name on his staff,"
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                "v002_ESV_NUM_017",
+                12,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 “Speak to the people of Israel, and get from them staffs, one for each fathers’ house, from all their chiefs according to their fathers’ houses, twelve staffs. Write each man’s name on his staff,"
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                13,
+                "p1",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "and write Aaron’s name on the staff of Levi. For there shall be one staff for the head of each fathers’ house."
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                "v003_ESV_NUM_017",
+                15,
+                "p1",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 and write Aaron’s name on the staff of Levi. For there shall be one staff for the head of each fathers’ house."
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                16,
+                "p1",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                17,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "Then you shall deposit them in the tent of meeting before the testimony,"
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#SeeEx. 25:22"
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "where I meet with you."
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                "v004_ESV_NUM_017",
+                20,
+                "p1",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 Then you shall deposit them in the tent of meeting before the testimony, where I meet with you."
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p1",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                22,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "And the staff of the man"
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "p1",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#ch.16:5"
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                24,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "whom I choose shall sprout. Thus I will make to cease from me"
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "p1",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#ch.16:11"
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                26,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "the grumblings of the people of Israel, which they grumble against you.”"
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                "v005_ESV_NUM_017",
+                27,
+                "p1",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 And the staff of the man whom I choose shall sprout. Thus I will make to cease from me the grumblings of the people of Israel, which they grumble against you.”"
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                28,
+                "p1",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                29,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "Moses spoke to the people of Israel. And all their chiefs gave him staffs, one for each chief, according to their fathers’ houses, twelve staffs. And the staff of Aaron was among their staffs."
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                "v006_ESV_NUM_017",
+                30,
+                "p1",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 Moses spoke to the people of Israel. And all their chiefs gave him staffs, one for each chief, according to their fathers’ houses, twelve staffs. And the staff of Aaron was among their staffs."
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                31,
+                "p1",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "p1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "And Moses deposited the staffs before the"
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                33,
+                "p1",
+                "verse",
+                "v7",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                34,
+                "p1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "in"
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                35,
+                "p1",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#ch.18:2;Ex. 38:21;2 Chr. 24:6;Acts 7:44"
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "p1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "the tent of the testimony."
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                "v007_ESV_NUM_017",
+                37,
+                "p1",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 And Moses deposited the staffs before the Lord in the tent of the testimony."
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                38,
+                "p2",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                39,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "On the next day Moses went into the tent of the testimony, and behold, the staff of Aaron for the house of Levi had sprouted and put forth buds and produced blossoms, and it bore ripe almonds."
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                "v008_ESV_NUM_017",
+                40,
+                "p2",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 On the next day Moses went into the tent of the testimony, and behold, the staff of Aaron for the house of Levi had sprouted and put forth buds and produced blossoms, and it bore ripe almonds."
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p2",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "Then Moses brought out all the staffs from before the"
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                43,
+                "p2",
+                "verse",
+                "v9",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                44,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "to all the people of Israel. And they looked, and each man took his staff."
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                "v009_ESV_NUM_017",
+                45,
+                "p2",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 Then Moses brought out all the staffs from before the Lord to all the people of Israel. And they looked, and each man took his staff."
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                46,
+                "p2",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                47,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "And the"
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                48,
+                "p2",
+                "verse",
+                "v10",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                49,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "said to Moses, “Put back"
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "p2",
+                "verse",
+                "v10",
+                "note",
+                "x"
+              ],
+              "value": "#Heb. 9:4"
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                51,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "the staff of Aaron before the testimony, to be kept"
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                52,
+                "p2",
+                "verse",
+                "v10",
+                "note",
+                "x"
+              ],
+              "value": "#ch.16:38"
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                53,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "as a sign for the rebels,"
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                54,
+                "p2",
+                "verse",
+                "v10",
+                "note",
+                "x"
+              ],
+              "value": "#ver.5"
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                55,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "that you may make an end of their grumblings against me, lest they die.”"
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                "v010_ESV_NUM_017",
+                56,
+                "p2",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 And the Lord said to Moses, “Put back the staff of Aaron before the testimony, to be kept as a sign for the rebels, that you may make an end of their grumblings against me, lest they die.”"
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                57,
+                "p2",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                58,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "Thus did Moses; as the"
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                59,
+                "p2",
+                "verse",
+                "v11",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                60,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "commanded him, so he did."
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                "v011_ESV_NUM_017",
+                61,
+                "p2",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 Thus did Moses; as the Lord commanded him, so he did."
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                62,
+                "p3",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                63,
+                "p3",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "And the people of Israel said to Moses, “Behold, we perish, we are undone, we are all undone."
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                "v012_ESV_NUM_017",
+                64,
+                "p3",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 And the people of Israel said to Moses, “Behold, we perish, we are undone, we are all undone."
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                65,
+                "p3",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                66,
+                "p3",
+                "verse",
+                "v13",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.1:51"
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                67,
+                "p3",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "Everyone who comes near, who comes near to the tabernacle of the"
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                68,
+                "p3",
+                "verse",
+                "v13",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                69,
+                "p3",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": ", shall die. Are we all to perish?”"
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                "v013_ESV_NUM_017",
+                70,
+                "p3",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 Everyone who comes near, who comes near to the tabernacle of the Lord , shall die. Are we all to perish?”"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

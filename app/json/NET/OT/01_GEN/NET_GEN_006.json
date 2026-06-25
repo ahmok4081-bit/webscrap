@@ -1,0 +1,2312 @@
+{
+  "translationId": "NET",
+  "name": "New English Translation",
+  "abbreviation": "NET",
+  "language": "English",
+  "copyright": "1996 - 2007 by Biblical Studies Press, LLC",
+  "books": [
+    {
+      "bookId": "GEN",
+      "testament": "",
+      "order": 0,
+      "title": "Genesis",
+      "abbreviation": "GEN",
+      "chapters": [
+        {
+          "chapter": 6,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "God’s Grief over Humankind’s Wickedness"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "When humankind"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "f"
+              ],
+              "value": "tn The Hebrew text has the article prefixed to the noun. Here the article indicates the generic use of the word אָדָם (’adam): “humankind.”"
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "began to multiply on the face of the earth, and daughters were born"
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                7,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "f"
+              ],
+              "value": "tn This disjunctive clause (conjunction + subject + verb) is circumstantial to the initial temporal clause. It could be rendered, “with daughters being born to them.” For another example of such a disjunctive clause following the construction וַיְהִיכִּי (vayÿhiki, “and it came to pass when”), see 2 Sam 7:1."
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "to them,"
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                9,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "f"
+              ],
+              "value": "tn The pronominal suffix is third masculine plural, indicating that the antecedent “humankind” is collective."
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                "v001_NET_GEN_006",
+                10,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 When humankind began to multiply on the face of the earth, and daughters were born to them,"
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                11,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                12,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "the sons of God"
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                13,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "f"
+              ],
+              "value": "sn The Hebrew phrase translated “sons of God” (בְנֵי־הָאֱלֹהִים, bÿne-ha’elohim) occurs only here (Gen 6:2, 4) and in Job 1:6; 2:1; 38:7. There are three major interpretations of the phrase here. (1) In the Book of Job the phrase clearly refers to angelic beings. In Gen 6 the “sons of God” are distinct from “humankind,” suggesting they were not human. This is consistent with the use of the phrase in Job. Since the passage speaks of these beings cohabiting with women, they must have taken physical form or possessed the bodies of men. An early Jewish tradition preserved in 1 En. 6-7 elaborates on this angelic revolt and even names the ringleaders. (2) Not all scholars accept the angelic interpretation of the “sons of God,” however. Some argue that the “sons of God” were members of Seth’s line, traced back to God through Adam in Gen 5, while the “daughters of humankind” were descendants of Cain. But, as noted above, the text distinguishes the “sons of God” from humankind (which would include the Sethites as well as the Cainites) and suggests that the “daughters of humankind” are human women in general, not just Cainites. (3) Others identify the “sons of God” as powerful tyrants, perhaps demon-possessed, who viewed themselves as divine and, following the example of Lamech (see Gen 4:19), practiced polygamy. But usage of the phrase “sons of God” in Job militates against this view. For literature on the subject see G. J. Wenham, Genesis (WBC), 1:135."
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "saw that the daughters of humankind were beautiful. Thus they took wives for themselves from any they chose."
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                "v002_NET_GEN_006",
+                15,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 the sons of God saw that the daughters of humankind were beautiful. Thus they took wives for themselves from any they chose."
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                16,
+                "p1",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                17,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "So the"
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "p1",
+                "verse",
+                "v3",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "said, “My spirit will not remain in"
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                20,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "f"
+              ],
+              "value": "tn The verb form יָדוֹן (yadon) only occurs here. Some derive it from the verbal root דִּין (din, “to judge”) and translate “strive” or “contend with” (so NIV), but in this case one expects the form to be יָדִין (yadin). The Old Greek has “remain with,” a rendering which may find support from an Arabic cognate (see C. Westermann, Genesis, 1:375). If one interprets the verb in this way, then it is possible to understand רוּחַ (ruakh) as a reference to the divine life-giving spirit or breath, rather than the Lord’s personal Spirit. E. A. Speiser argues that the term is cognate with an Akkadian word meaning “protect” or “shield.” In this case, the Lord’s Spirit will not always protect humankind, for the race will suddenly be destroyed (E. A. Speiser, “YDWN, Gen. 6:3,” JBL 75 [1956]: 126-29)."
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "humankind indefinitely,"
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                22,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "f"
+              ],
+              "value": "tn Or “forever.”"
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "since"
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                24,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "f"
+              ],
+              "value": "tn The form בְּשַׁגַּם (bÿshagam) appears to be a compound of the preposition בְּ (beth, “in”), the relative שֶׁ (she, “who” or “which”), and the particle גַּם (gam, “also, even”). It apparently means “because even” (see BDB 980 s.v. שֶׁ)."
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "they"
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                26,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “he”; the plural pronoun has been used in the translation since “man” earlier in the verse has been understood as a collective (“humankind”)."
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                27,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "are mortal."
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                28,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “flesh.”"
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                29,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "They"
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                30,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "f"
+              ],
+              "value": "tn See the note on “they” earlier in this verse."
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                31,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "will remain for 120 more years.”"
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “his days will be 120 years.” Some interpret this to mean that the age expectancy of people from this point on would be 120, but neither the subsequent narrative nor reality favors this. It is more likely that this refers to the time remaining between this announcement of judgment and the coming of the flood."
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                "v003_NET_GEN_006",
+                33,
+                "p1",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 So the Lord said, “My spirit will not remain in humankind indefinitely, since they are mortal. They will remain for 120 more years.”"
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                34,
+                "p2",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                35,
+                "p2",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "The Nephilim"
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "p2",
+                "verse",
+                "v4",
+                "note",
+                "f"
+              ],
+              "value": "tn The Hebrew word נְפִילִים (nÿfilim) is simply transliterated here, because the meaning of the term is uncertain. According to the text, the Nephilim became mighty warriors and gained great fame in the antediluvian world. The text may imply they were the offspring of the sexual union of the “sons of God” and the “daughters of humankind” (v. 2), but it stops short of saying this in a direct manner. The Nephilim are mentioned in the OT only here and in Num 13:33, where it is stated that they were giants (thus KJV, TEV, NLT “giants” here). The narrator observes that the Anakites of Canaan were descendants of the Nephilim. Certainly these later Anakite Nephilim could not be descendants of the antediluvian Nephilim (see also the following note on the word “this”)."
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                37,
+                "p2",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "were on the earth in those days (and also after this)"
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                38,
+                "p2",
+                "verse",
+                "v4",
+                "note",
+                "f"
+              ],
+              "value": "tn This observation is parenthetical, explaining that there were Nephilim even after the flood. If all humankind, with the exception of Noah and his family, died in the flood, it is difficult to understand how the postdiluvian Nephilim could be related to the antediluvian Nephilim or how the Anakites of Canaan could be their descendants (see Num 13:33). It is likely that the term Nephilim refers generally to “giants” (see HALOT 709 s.v. נְפִילִים) without implying any ethnic connection between the antediluvian and postdiluvian varieties."
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                39,
+                "p2",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "when the sons of God were having sexual relations with"
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                40,
+                "p2",
+                "verse",
+                "v4",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “were entering to,” referring euphemistically to sexual intercourse here. The Hebrew imperfect verbal form draws attention to the ongoing nature of such sexual unions during the time before the flood."
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p2",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "the daughters of humankind, who gave birth to their children."
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "p2",
+                "verse",
+                "v4",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and they gave birth to them.” The masculine plural suffix “them” refers to the “sons of God,” to whom the “daughters of humankind” bore children. After the Qal form of the verb יָלָד (yalad, “to give birth”) the preposition לְ (lÿ, “to”) introduces the father of the child(ren). See Gen 16:1, 15; 17:19, 21; 21:2-3, 9; 22:23; 24:24, 47; 25:2, etc."
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                43,
+                "p2",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "They were the mighty heroes"
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                44,
+                "p2",
+                "verse",
+                "v4",
+                "note",
+                "f"
+              ],
+              "value": "tn The parenthetical/explanatory clause uses the word הַגִּבֹּרִים (haggibborim) to describe these Nephilim. The word means “warriors; mighty men; heroes.” The appositional statement further explains that they were “men of renown.” The text refers to superhuman beings who held the world in their power and who lived on in ancient lore outside the Bible. See E. A. Speiser, Genesis (AB), 45-46; C. Westermann, Genesis, 1:379-80; and Anne D. Kilmer, “The Mesopotamian Counterparts of the Biblical Nephilim,” Perspectives on Language and Text, 39-43."
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                45,
+                "p2",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "of old, the famous men."
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                46,
+                "p2",
+                "verse",
+                "v4",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “men of name” (i.e., famous men)."
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                "v004_NET_GEN_006",
+                47,
+                "p2",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 The Nephilim were on the earth in those days (and also after this) when the sons of God were having sexual relations with the daughters of humankind, who gave birth to their children. They were the mighty heroes of old, the famous men."
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                48,
+                "p3",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                49,
+                "p3",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "But the"
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "p3",
+                "verse",
+                "v5",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                51,
+                "p3",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "saw"
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                52,
+                "p3",
+                "verse",
+                "v5",
+                "note",
+                "f"
+              ],
+              "value": "sn The Hebrew verb translated “saw” (רָאָה, ra’ah), used here of God’s evaluation of humankind’s evil deeds, contrasts with God’s evaluation of creative work in Gen 1, when he observed that everything was good."
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                53,
+                "p3",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "that the wickedness of humankind had become great on the earth. Every inclination"
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                54,
+                "p3",
+                "verse",
+                "v5",
+                "note",
+                "f"
+              ],
+              "value": "tn The noun יֵצֶר (yetser) is related to the verb יָצָר (yatsar, “to form, to fashion [with a design]”). Here it refers to human plans or intentions (see Gen 8:21; 1 Chr 28:9; 29:18). People had taken their God-given capacities and used them to devise evil. The word יֵצֶר (yetser) became a significant theological term in Rabbinic literature for what might be called the sin nature – the evil inclination (see also R. E. Murphy, “Yeser in the Qumran Literature,” Bib 39 [1958]: 334-44)."
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                55,
+                "p3",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "of the thoughts"
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                56,
+                "p3",
+                "verse",
+                "v5",
+                "note",
+                "f"
+              ],
+              "value": "tn The related verb הָשָׁב (hashav) means “to think, to devise, to reckon.” The noun (here) refers to thoughts or considerations."
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                57,
+                "p3",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "of their minds"
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                58,
+                "p3",
+                "verse",
+                "v5",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “his heart” (referring to collective “humankind”). The Hebrew term לֵב (lev, “heart”) frequently refers to the seat of one’s thoughts (see BDB 524 s.v. לֵב). In contemporary English this is typically referred to as the “mind.”"
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                59,
+                "p3",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "was only evil"
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                60,
+                "p3",
+                "verse",
+                "v5",
+                "note",
+                "f"
+              ],
+              "value": "sn Every inclination of the thoughts of their minds was only evil. There is hardly a stronger statement of the wickedness of the human race than this. Here is the result of falling into the “knowledge of good and evil”: Evil becomes dominant, and the good is ruined by the evil."
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                61,
+                "p3",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "all the time."
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                62,
+                "p3",
+                "verse",
+                "v5",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “all the day.”\nsn The author of Genesis goes out of his way to emphasize the depth of human evil at this time. Note the expressions “every inclination,” “only evil,” and “all the time.”"
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                "v005_NET_GEN_006",
+                63,
+                "p3",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 But the Lord saw that the wickedness of humankind had become great on the earth. Every inclination of the thoughts of their minds was only evil all the time."
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                64,
+                "p3",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                65,
+                "p3",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "The"
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                66,
+                "p3",
+                "verse",
+                "v6",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                67,
+                "p3",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "regretted"
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                68,
+                "p3",
+                "verse",
+                "v6",
+                "note",
+                "f"
+              ],
+              "value": "tn Or “was grieved”; “was sorry.” In the Niphal stem the verb נָחָם (nakham) can carry one of four semantic meanings, depending on the context: (1) “to experience emotional pain or weakness,” “to feel regret,” often concerning a past action (see Exod 13:17; Judg 21:6, 15; 1 Sam 15:11, 35; Job 42:6; Jer 31:19). In several of these texts כִּי (ki, “because”) introduces the cause of the emotional sorrow. (2) Another meaning is “to be comforted” or “to comfort oneself” (sometimes by taking vengeance). See Gen 24:67; 38:12; 2 Sam 13:39; Ps 77:3; Isa 1:24; Jer 31:15; Ezek 14:22; 31:16; 32:31. (This second category represents a polarization of category one.) (3) The meaning “to relent from” or “to repudiate” a course of action which is already underway is also possible (see Judg 2:18; 2 Sam 24:16 = 1 Chr 21:15; Pss 90:13; 106:45; Jer 8:6; 20:16; 42:10). (4) Finally, “to retract” (a statement) or “to relent or change one’s mind concerning,” “to deviate from” (a stated course of action) is possible (see Exod 32:12, 14; 1 Sam 15:29; Ps 110:4; Isa 57:6; Jer 4:28; 15:6; 18:8, 10; 26:3, 13, 19; Ezek 24:14; Joel 2:13-14; Am 7:3, 6; Jonah 3:9-10; 4:2; Zech 8:14). See R. B. Chisholm, “Does God ‘Change His Mind’?” BSac 152 (1995): 388. The first category applies here because the context speaks of God’s grief and emotional pain (see the following statement in v. 6) as a result of a past action (his making humankind). For a thorough study of the word נָחָם, see H. Van Dyke Parunak, “A Semantic Survey of NHM,” Bib 56 (1975): 512-32."
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                69,
+                "p3",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "that he had made humankind on the earth, and he was highly offended."
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                70,
+                "p3",
+                "verse",
+                "v6",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and he was grieved to his heart.” The verb עָצָב (’atsav) can carry one of three semantic senses, depending on the context: (1) “to be injured” (Ps 56:5; Eccl 10:9; 1 Chr 4:10); (2) “to experience emotional pain”; “to be depressed emotionally”; “to be worried” (2 Sam 19:2; Isa 54:6; Neh 8:10-11); (3) “to be embarrassed”; “to be offended” (to the point of anger at another or oneself); “to be insulted” (Gen 34:7; 45:5; 1 Sam 20:3, 34; 1 Kgs 1:6; Isa 63:10; Ps 78:40). This third category develops from the second by metonymy. In certain contexts emotional pain leads to embarrassment and/or anger. In this last use the subject sometimes directs his anger against the source of grief (see especially Gen 34:7). The third category fits best in Gen 6:6 because humankind’s sin does not merely wound God emotionally. On the contrary, it prompts him to strike out in judgment against the source of his distress (see v. 7). The verb וַיִּתְעַצֵּב (vayyit’atsev), a Hitpael from עָצָב, alludes to the judgment oracles in Gen 3:16-19. Because Adam and Eve sinned, their life would be filled with pain; but sin in the human race also brought pain to God. The wording of v. 6 is ironic when compared to Gen 5:29. Lamech anticipated relief (נָחָם, nakham) from their work (מַעֲשֶׂה, ma’aseh) and their painful toil (עִצְּבֹן, ’itsÿvon), but now we read that God was sorry (נָחָם, nakham) that he had made (עָשָׂה, ’asah) humankind for it brought him great pain (עָצָב, ’atsav)."
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                "v006_NET_GEN_006",
+                71,
+                "p3",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 The Lord regretted that he had made humankind on the earth, and he was highly offended."
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                72,
+                "p3",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                73,
+                "p3",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "So the"
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                74,
+                "p3",
+                "verse",
+                "v7",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                75,
+                "p3",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "said, “I will wipe humankind, whom I have created, from the face of the earth – everything from humankind to animals,"
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                76,
+                "p3",
+                "verse",
+                "v7",
+                "note",
+                "f"
+              ],
+              "value": "tn The text simply has “from man to beast, to creatures, and to birds of the air.” The use of the prepositions עַד … מִן (min...’ad) stresses the extent of the judgment in creation."
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                77,
+                "p3",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "including creatures that move on the ground and birds of the air, for I regret that I have made them.”"
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                "v007_NET_GEN_006",
+                78,
+                "p3",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 So the Lord said, “I will wipe humankind, whom I have created, from the face of the earth – everything from humankind to animals, including creatures that move on the ground and birds of the air, for I regret that I have made them.”"
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                79,
+                "p4",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                80,
+                "p4",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "But"
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                81,
+                "p4",
+                "verse",
+                "v8",
+                "note",
+                "f"
+              ],
+              "value": "tn The disjunctive clause (conjunction + subject + verb) is contrastive here: God condemns the human race, but he is pleased with Noah."
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                82,
+                "p4",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "Noah found favor"
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                83,
+                "p4",
+                "verse",
+                "v8",
+                "note",
+                "f"
+              ],
+              "value": "tn The Hebrew expression “find favor [in the eyes of]” is an idiom meaning “to be an object of another’s favorable disposition or action,” “to be a recipient of another’s favor, kindness, mercy.” The favor/kindness is often earned, coming in response to an action or condition (see Gen 32:5; 39:4; Deut 24:1; 1 Sam 25:8; Prov 3:4; Ruth 2:10). This is the case in Gen 6:8, where v. 9 gives the basis (Noah’s righteous character) for the divine favor."
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                84,
+                "p4",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "in the sight of"
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                85,
+                "p4",
+                "verse",
+                "v8",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “in the eyes of,” an anthropomorphic expression for God’s opinion or decision. The Lord saw that the whole human race was corrupt, but he looked in favor on Noah."
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                86,
+                "p4",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "the"
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                87,
+                "p4",
+                "verse",
+                "v8",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                88,
+                "p4",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "."
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "The Judgment of the Flood"
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                "v008_NET_GEN_006",
+                90,
+                "p4",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 But Noah found favor in the sight of the Lord ."
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                91,
+                "p5",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                92,
+                "p5",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "This is the account of Noah."
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                93,
+                "p5",
+                "verse",
+                "v9",
+                "note",
+                "f"
+              ],
+              "value": "sn There is a vast body of scholarly literature about the flood story. The following studies are particularly helpful: A. Heidel, The Gilgamesh Epic and the Old Testament Parallels; M. Kessler, “Rhetorical Criticism of Genesis 7,” Rhetorical Criticism: Essays in Honor of James Muilenburg (PTMS), 1-17; I. M. Kikawada and A. Quinn, Before Abraham Was; A. R. Millard, “A New Babylonian ‘Genesis Story’,” TynBul 18 (1967): 3-18; G. J. Wenham, “The Coherence of the Flood Narrative,” VT 28 (1978): 336-48."
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                94,
+                "p6",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "Noah was a godly man; he was blameless"
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                95,
+                "p6",
+                "verse",
+                "v9",
+                "note",
+                "f"
+              ],
+              "value": "tn The Hebrew term תָּמִים (tamim, “blameless”) is used of men in Gen 17:1 (associated with the idiom “walk before,” which means “maintain a proper relationship with,” see 24:40); Deut 18:13 (where it means “blameless” in the sense of not guilty of the idolatrous practices listed before this; see Josh 24:14); Pss 18:23, 26 (“blameless” in the sense of not having violated God’s commands); 37:18 (in contrast to the wicked); 101:2, 6 (in contrast to proud, deceitful slanderers; see 15:2); Prov 2:21; 11:5 (in contrast to the wicked); 28:10; Job 12:4."
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                96,
+                "p7",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "among his contemporaries."
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                97,
+                "p7",
+                "verse",
+                "v9",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “Noah was a godly man, blameless in his generations.” The singular “generation” can refer to one’s contemporaries, i.e., those living at a particular point in time. The plural “generations” can refer to successive generations in the past or the future. Here, where it is qualified by “his” (i.e., Noah’s), it refers to Noah’s contemporaries, comprised of the preceding generation (his father’s generation), those of Noah’s generation, and the next generation (those the same age as his children). In other words, “his generations” means the generations contemporary with him. See BDB 190 s.v. דוֹר."
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                98,
+                "p7",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "He"
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                99,
+                "p7",
+                "verse",
+                "v9",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “Noah.” The proper name has been replaced with the pronoun in the translation for stylistic reasons."
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                100,
+                "p7",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "walked with"
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                101,
+                "p7",
+                "verse",
+                "v9",
+                "note",
+                "f"
+              ],
+              "value": "tn The construction translated “walked with” is used in Gen 5:22, 24 (see the note on this phrase in 5:22) and in 1 Sam 25:15, where it refers to David’s and Nabal’s men “rubbing shoulders” in the fields. Based on the use in 1 Sam 25:15, the expression seems to mean “live in close proximity to,” which may, by metonymy, mean “maintain cordial relations with.”"
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                102,
+                "p7",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "God."
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                "v009_NET_GEN_006",
+                103,
+                "p5",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 This is the account of Noah. Noah was a godly man; he was blameless among his contemporaries. He walked with God."
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                104,
+                "p7",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                105,
+                "p7",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "Noah had"
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                106,
+                "p7",
+                "verse",
+                "v10",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “fathered.”"
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                107,
+                "p7",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "three sons: Shem, Ham, and Japheth."
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                "v010_NET_GEN_006",
+                108,
+                "p7",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 Noah had three sons: Shem, Ham, and Japheth."
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                109,
+                "p8",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                110,
+                "p8",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "The earth was ruined"
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                111,
+                "p8",
+                "verse",
+                "v11",
+                "note",
+                "f"
+              ],
+              "value": "tn Apart from Gen 6:11-12, the Niphal form of this verb occurs in Exod 8:20 HT (8:24 ET), where it describes the effect of the swarms of flies on the land of Egypt; Jer 13:7 and 18:4, where it is used of a “ruined” belt and “marred” clay pot, respectively; and Ezek 20:44, where it describes Judah’s morally “corrupt” actions. The sense “morally corrupt” fits well in Gen 6:11 because of the parallelism (note “the earth was filled with violence”). In this case “earth” would stand by metonymy for its sinful inhabitants. However, the translation “ruined” works just as well, if not better. In this case humankind’s sin is viewed has having an adverse effect upon the earth. Note that vv. 12b-13 make a distinction between the earth and the living creatures who live on it."
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                112,
+                "p8",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "in the sight of"
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                113,
+                "p8",
+                "verse",
+                "v11",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “before.”"
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                114,
+                "p8",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "God; the earth was filled with violence."
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                115,
+                "p8",
+                "verse",
+                "v11",
+                "note",
+                "f"
+              ],
+              "value": "tn The Hebrew word translated “violence” refers elsewhere to a broad range of crimes, including unjust treatment (Gen 16:5; Amos 3:10), injurious legal testimony (Deut 19:16), deadly assault (Gen 49:5), murder (Judg 9:24), and rape (Jer 13:22)."
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                "v011_NET_GEN_006",
+                116,
+                "p8",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 The earth was ruined in the sight of God; the earth was filled with violence."
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                117,
+                "p8",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                118,
+                "p8",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "God saw the earth, and indeed"
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                119,
+                "p8",
+                "verse",
+                "v12",
+                "note",
+                "f"
+              ],
+              "value": "tn Or “God saw how corrupt the earth was.”"
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                120,
+                "p8",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "it was ruined,"
+            },
+            {
+              "rowId": 121,
+              "keyParts": [
+                121,
+                "p8",
+                "verse",
+                "v12",
+                "note",
+                "f"
+              ],
+              "value": "tn The repetition in the text (see v. 11) emphasizes the point."
+            },
+            {
+              "rowId": 122,
+              "keyParts": [
+                122,
+                "p8",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "for all living creatures"
+            },
+            {
+              "rowId": 123,
+              "keyParts": [
+                123,
+                "p8",
+                "verse",
+                "v12",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “flesh.” Since moral corruption is in view here, most modern western interpreters understand the referent to be humankind. However, the phrase “all flesh” is used consistently of humankind and the animals in Gen 6-9 (6:17, 19; 7:15-16, 21; 8:17; 9:11, 15-17), suggesting that the author intends to picture all living creatures, humankind and animals, as guilty of moral failure. This would explain why the animals, not just humankind, are victims of the ensuing divine judgment. The OT sometimes views animals as morally culpable (Gen 9:5; Exod 21:28-29; Jonah 3:7-8). The OT also teaches that a person’s sin can contaminate others (people and animals) in the sinful person’s sphere (see the story of Achan, especially Josh 7:10). So the animals could be viewed here as morally contaminated because of their association with sinful humankind."
+            },
+            {
+              "rowId": 124,
+              "keyParts": [
+                124,
+                "p8",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "on the earth were sinful."
+            },
+            {
+              "rowId": 125,
+              "keyParts": [
+                125,
+                "p8",
+                "verse",
+                "v12",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “had corrupted its way.” The third masculine singular pronominal suffix on “way” refers to the collective “all flesh.” The construction “corrupt one’s way” occurs only here (though Ezek 16:47 uses the Hiphil in an intransitive sense with the preposition בְּ [bet, “in”] followed by “ways”). The Hiphil of שָׁחָת (shakhat) means “to ruin, to destroy, to corrupt,” often as here in a moral/ethical sense. The Hebrew term דֶּרֶךְ (derekh, “way”) here refers to behavior or moral character, a sense that it frequently carries (see BDB 203 s.v. דֶּרֶךְ 6.a)."
+            },
+            {
+              "rowId": 126,
+              "keyParts": [
+                "v012_NET_GEN_006",
+                126,
+                "p8",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 God saw the earth, and indeed it was ruined, for all living creatures on the earth were sinful."
+            },
+            {
+              "rowId": 127,
+              "keyParts": [
+                127,
+                "p8",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 128,
+              "keyParts": [
+                128,
+                "p8",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "So God said"
+            },
+            {
+              "rowId": 129,
+              "keyParts": [
+                129,
+                "p8",
+                "verse",
+                "v13",
+                "note",
+                "f"
+              ],
+              "value": "sn On the divine style utilized here, see R. Lapointe, “The Divine Monologue as a Channel of Revelation,” CBQ 32 (1970): 161-81."
+            },
+            {
+              "rowId": 130,
+              "keyParts": [
+                130,
+                "p8",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "to Noah, “I have decided that all living creatures must die,"
+            },
+            {
+              "rowId": 131,
+              "keyParts": [
+                131,
+                "p8",
+                "verse",
+                "v13",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “the end of all flesh is coming [or “has come”] before me.” (The verb form is either a perfect or a participle.) The phrase “end of all flesh” occurs only here. The term “end” refers here to the end of “life,” as v. 3 and the following context (which describes how God destroys all flesh) make clear. The statement “the end has come” occurs in Ezek 7:2, 6, where it is used of divine judgment. The phrase “come before” occurs in Exod 28:30, 35; 34:34; Lev 15:14; Num 27:17; 1 Sam 18:13, 16; 2 Sam 19:8; 20:8; 1 Kgs 1:23, 28, 32; Ezek 46:9; Pss 79:11 (groans come before God); 88:3 (a prayer comes before God); 100:2; 119:170 (prayer comes before God); Lam 1:22 (evil doing comes before God); Esth 1:19; 8:1; 9:25; 1 Chr 16:29. The expression often means “have an audience with” or “appear before.” But when used metaphorically, it can mean “get the attention of” or “prompt a response.” This is probably the sense in Gen 6:13. The necessity of ending the life of all flesh on earth is an issue that has gotten the attention of God. The term “end” may even be a metonymy for that which has prompted it – violence (see the following clause)."
+            },
+            {
+              "rowId": 132,
+              "keyParts": [
+                132,
+                "p8",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "for the earth is filled with violence because of them. Now I am about to destroy"
+            },
+            {
+              "rowId": 133,
+              "keyParts": [
+                133,
+                "p8",
+                "verse",
+                "v13",
+                "note",
+                "f"
+              ],
+              "value": "tn The participle, especially after הִנֵּה (hinneh) has an imminent future nuance. The Hiphil of שָׁחָת (shakhat) here has the sense “to destroy” (in judgment). Note the wordplay involving this verb in vv. 11-13: The earth is “ruined” because all flesh has acted in a morally “corrupt” manner. Consequently, God will “destroy” all flesh (the referent of the suffix “them”) along with the ruined earth. They had ruined themselves and the earth with violence, and now God would ruin them with judgment. For other cases where “earth” occurs as the object of the Hiphil of שָׁחָת, see 1 Sam 6:5; 1 Chr 20:1; Jer 36:29; 51:25."
+            },
+            {
+              "rowId": 134,
+              "keyParts": [
+                134,
+                "p8",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "them and the earth."
+            },
+            {
+              "rowId": 135,
+              "keyParts": [
+                "v013_NET_GEN_006",
+                135,
+                "p8",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 So God said to Noah, “I have decided that all living creatures must die, for the earth is filled with violence because of them. Now I am about to destroy them and the earth."
+            },
+            {
+              "rowId": 136,
+              "keyParts": [
+                136,
+                "p8",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 137,
+              "keyParts": [
+                137,
+                "p8",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "Make"
+            },
+            {
+              "rowId": 138,
+              "keyParts": [
+                138,
+                "p8",
+                "verse",
+                "v14",
+                "note",
+                "f"
+              ],
+              "value": "sn The Hebrew verb is an imperative. A motif of this section is that Noah did as the Lord commanded him – he was obedient. That obedience had to come from faith in the word of the Lord. So the theme of obedience to God’s word is prominent in this prologue to the law."
+            },
+            {
+              "rowId": 139,
+              "keyParts": [
+                139,
+                "p8",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "for yourself an ark of cypress"
+            },
+            {
+              "rowId": 140,
+              "keyParts": [
+                140,
+                "p8",
+                "verse",
+                "v14",
+                "note",
+                "f"
+              ],
+              "value": "tn A transliteration of the Hebrew term yields “gopher (גֹּפֶר, gofer) wood” (so KJV, NAB, NASB). While the exact nature of the wood involved is uncertain (cf. NLT “resinous wood”), many modern translations render the Hebrew term as “cypress” (so NEB, NIV, NRSV)."
+            },
+            {
+              "rowId": 141,
+              "keyParts": [
+                141,
+                "p8",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "wood. Make rooms in the ark, and cover"
+            },
+            {
+              "rowId": 142,
+              "keyParts": [
+                142,
+                "p8",
+                "verse",
+                "v14",
+                "note",
+                "f"
+              ],
+              "value": "tn The Hebrew term כָּפָר (kafar, “to cover, to smear” [= to caulk]) appears here in the Qal stem with its primary, nonmetaphorical meaning. The Piel form כִּפֶּר (kipper), which has the metaphorical meaning “to atone, to expiate, to pacify,” is used in Levitical texts (see HALOT 493-94 s.v. כפר). Some authorities regard the form in v. 14 as a homonym of the much more common Levitical term (see BDB 498 s.v. כָּפָר)."
+            },
+            {
+              "rowId": 143,
+              "keyParts": [
+                143,
+                "p8",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "it with pitch inside and out."
+            },
+            {
+              "rowId": 144,
+              "keyParts": [
+                "v014_NET_GEN_006",
+                144,
+                "p8",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 Make for yourself an ark of cypress wood. Make rooms in the ark, and cover it with pitch inside and out."
+            },
+            {
+              "rowId": 145,
+              "keyParts": [
+                145,
+                "p8",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 146,
+              "keyParts": [
+                146,
+                "p8",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "This is how you should make it: The ark is to be 450 feet long, 75 feet wide, and 45 feet high."
+            },
+            {
+              "rowId": 147,
+              "keyParts": [
+                147,
+                "p8",
+                "verse",
+                "v15",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “300 cubits long, 50 cubits wide, and 30 cubits high.” The standard cubit in the OT is assumed by most authorities to be about 18 inches (45 cm) long."
+            },
+            {
+              "rowId": 148,
+              "keyParts": [
+                "v015_NET_GEN_006",
+                148,
+                "p8",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 This is how you should make it: The ark is to be 450 feet long, 75 feet wide, and 45 feet high."
+            },
+            {
+              "rowId": 149,
+              "keyParts": [
+                149,
+                "p8",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 150,
+              "keyParts": [
+                150,
+                "p8",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "Make a roof for the ark and finish it, leaving 18 inches"
+            },
+            {
+              "rowId": 151,
+              "keyParts": [
+                151,
+                "p8",
+                "verse",
+                "v16",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “a cubit.”"
+            },
+            {
+              "rowId": 152,
+              "keyParts": [
+                152,
+                "p8",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "from the top."
+            },
+            {
+              "rowId": 153,
+              "keyParts": [
+                153,
+                "p8",
+                "verse",
+                "v16",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “to a cubit you shall finish it from above.” The idea is that Noah was to leave an 18-inch opening from the top for a window for light."
+            },
+            {
+              "rowId": 154,
+              "keyParts": [
+                154,
+                "p8",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "Put a door in the side of the ark, and make lower, middle, and upper decks."
+            },
+            {
+              "rowId": 155,
+              "keyParts": [
+                "v016_NET_GEN_006",
+                155,
+                "p8",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 Make a roof for the ark and finish it, leaving 18 inches from the top. Put a door in the side of the ark, and make lower, middle, and upper decks."
+            },
+            {
+              "rowId": 156,
+              "keyParts": [
+                156,
+                "p8",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 157,
+              "keyParts": [
+                157,
+                "p8",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "I am about to bring"
+            },
+            {
+              "rowId": 158,
+              "keyParts": [
+                158,
+                "p8",
+                "verse",
+                "v17",
+                "note",
+                "f"
+              ],
+              "value": "tn The Hebrew construction uses the independent personal pronoun, followed by a suffixed form of הִנֵּה (hinneh, “look”) and the a participle used with an imminent future nuance: “As for me, look, I am going to bring.”"
+            },
+            {
+              "rowId": 159,
+              "keyParts": [
+                159,
+                "p8",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "floodwaters"
+            },
+            {
+              "rowId": 160,
+              "keyParts": [
+                160,
+                "p8",
+                "verse",
+                "v17",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “the flood, water.”"
+            },
+            {
+              "rowId": 161,
+              "keyParts": [
+                161,
+                "p8",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "on the earth to destroy"
+            },
+            {
+              "rowId": 162,
+              "keyParts": [
+                162,
+                "p8",
+                "verse",
+                "v17",
+                "note",
+                "f"
+              ],
+              "value": "tn The verb שָׁחָת (shakhat, “to destroy”) is repeated yet again, only now in an infinitival form expressing the purpose of the flood."
+            },
+            {
+              "rowId": 163,
+              "keyParts": [
+                163,
+                "p8",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "from under the sky all the living creatures that have the breath of life in them."
+            },
+            {
+              "rowId": 164,
+              "keyParts": [
+                164,
+                "p8",
+                "verse",
+                "v17",
+                "note",
+                "f"
+              ],
+              "value": "tn The Hebrew construction here is different from the previous two; here it is רוּחַ חַיִּים (ruakh khayyim) rather than נֶפֶשׁ הַיָּה (nefesh khayyah) or נִשְׁמַת חַיִּים (nishmat khayyim). It refers to everything that breathes."
+            },
+            {
+              "rowId": 165,
+              "keyParts": [
+                165,
+                "p8",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "Everything that is on the earth will die,"
+            },
+            {
+              "rowId": 166,
+              "keyParts": [
+                "v017_NET_GEN_006",
+                166,
+                "p8",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 I am about to bring floodwaters on the earth to destroy from under the sky all the living creatures that have the breath of life in them. Everything that is on the earth will die,"
+            },
+            {
+              "rowId": 167,
+              "keyParts": [
+                167,
+                "p8",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 168,
+              "keyParts": [
+                168,
+                "p8",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "but I will confirm"
+            },
+            {
+              "rowId": 169,
+              "keyParts": [
+                169,
+                "p8",
+                "verse",
+                "v18",
+                "note",
+                "f"
+              ],
+              "value": "tn The Hebrew verb וַהֲקִמֹתִי (vahaqimoti) is the Hiphil perfect with a vav (ו) consecutive (picking up the future sense from the participles) from קוּם (qum, “to rise up”). This may refer to the confirmation or fulfillment of an earlier promise, but it is more likely that it anticipates the unconditional promise made to humankind following the flood (see Gen 9:9, 11, 17)."
+            },
+            {
+              "rowId": 170,
+              "keyParts": [
+                170,
+                "p8",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "my covenant with you. You will enter"
+            },
+            {
+              "rowId": 171,
+              "keyParts": [
+                171,
+                "p8",
+                "verse",
+                "v18",
+                "note",
+                "f"
+              ],
+              "value": "tn The perfect verb form with vav (ו) consecutive is best understood as specific future, continuing God’s description of what will happen (see vv. 17-18a)."
+            },
+            {
+              "rowId": 172,
+              "keyParts": [
+                172,
+                "p8",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "the ark – you, your sons, your wife, and your sons’ wives with you."
+            },
+            {
+              "rowId": 173,
+              "keyParts": [
+                "v018_NET_GEN_006",
+                173,
+                "p8",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 but I will confirm my covenant with you. You will enter the ark – you, your sons, your wife, and your sons’ wives with you."
+            },
+            {
+              "rowId": 174,
+              "keyParts": [
+                174,
+                "p8",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 175,
+              "keyParts": [
+                175,
+                "p8",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "You must bring into the ark two of every kind of living creature from all flesh,"
+            },
+            {
+              "rowId": 176,
+              "keyParts": [
+                176,
+                "p8",
+                "verse",
+                "v19",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “from all life, from all flesh, two from all you must bring.” The disjunctive clause at the beginning of the verse (note the conjunction with prepositional phrase, followed by two more prepositional phrases in apposition and then the imperfect verb form) signals a change in mood from announcement (vv. 17-18) to instruction."
+            },
+            {
+              "rowId": 177,
+              "keyParts": [
+                177,
+                "p8",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "male and female, to keep them alive"
+            },
+            {
+              "rowId": 178,
+              "keyParts": [
+                178,
+                "p8",
+                "verse",
+                "v19",
+                "note",
+                "f"
+              ],
+              "value": "tn The Piel infinitive construct לְהַחֲיוֹת (lÿhakhayot, here translated as “to keep them alive”) shows the purpose of bringing the animals into the ark – saving life. The Piel of this verb means here “to preserve alive.”"
+            },
+            {
+              "rowId": 179,
+              "keyParts": [
+                179,
+                "p8",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "with you."
+            },
+            {
+              "rowId": 180,
+              "keyParts": [
+                "v019_NET_GEN_006",
+                180,
+                "p8",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 You must bring into the ark two of every kind of living creature from all flesh, male and female, to keep them alive with you."
+            },
+            {
+              "rowId": 181,
+              "keyParts": [
+                181,
+                "p8",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 182,
+              "keyParts": [
+                182,
+                "p8",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "Of the birds after their kinds, and of the cattle after their kinds, and of every creeping thing of the ground after its kind, two of every kind will come to you so you can keep them alive."
+            },
+            {
+              "rowId": 183,
+              "keyParts": [
+                183,
+                "p8",
+                "verse",
+                "v20",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “to keep alive.”"
+            },
+            {
+              "rowId": 184,
+              "keyParts": [
+                "v020_NET_GEN_006",
+                184,
+                "p8",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 Of the birds after their kinds, and of the cattle after their kinds, and of every creeping thing of the ground after its kind, two of every kind will come to you so you can keep them alive."
+            },
+            {
+              "rowId": 185,
+              "keyParts": [
+                185,
+                "p8",
+                "verse",
+                "v21",
+                "label"
+              ],
+              "value": "21"
+            },
+            {
+              "rowId": 186,
+              "keyParts": [
+                186,
+                "p8",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "And you must take"
+            },
+            {
+              "rowId": 187,
+              "keyParts": [
+                187,
+                "p8",
+                "verse",
+                "v21",
+                "note",
+                "f"
+              ],
+              "value": "tn The verb is a direct imperative: “And you, take for yourself.” The form stresses the immediate nature of the instruction; the pronoun underscores the directness."
+            },
+            {
+              "rowId": 188,
+              "keyParts": [
+                188,
+                "p8",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "for yourself every kind of food"
+            },
+            {
+              "rowId": 189,
+              "keyParts": [
+                189,
+                "p8",
+                "verse",
+                "v21",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “from all food,” meaning “some of every kind of food.”"
+            },
+            {
+              "rowId": 190,
+              "keyParts": [
+                190,
+                "p8",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "that is eaten,"
+            },
+            {
+              "rowId": 191,
+              "keyParts": [
+                191,
+                "p8",
+                "verse",
+                "v21",
+                "note",
+                "f"
+              ],
+              "value": "tn Or “will be eaten.”"
+            },
+            {
+              "rowId": 192,
+              "keyParts": [
+                192,
+                "p8",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "and gather it together."
+            },
+            {
+              "rowId": 193,
+              "keyParts": [
+                193,
+                "p8",
+                "verse",
+                "v21",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and gather it to you.”"
+            },
+            {
+              "rowId": 194,
+              "keyParts": [
+                194,
+                "p8",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "It will be food for you and for them."
+            },
+            {
+              "rowId": 195,
+              "keyParts": [
+                "v021_NET_GEN_006",
+                195,
+                "p8",
+                "verse",
+                "v21",
+                "plain_text"
+              ],
+              "value": "21 And you must take for yourself every kind of food that is eaten, and gather it together. It will be food for you and for them."
+            },
+            {
+              "rowId": 196,
+              "keyParts": [
+                196,
+                "p9",
+                "verse",
+                "v22",
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 197,
+              "keyParts": [
+                197,
+                "p9",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "And Noah did all"
+            },
+            {
+              "rowId": 198,
+              "keyParts": [
+                198,
+                "p9",
+                "verse",
+                "v22",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “according to all.”"
+            },
+            {
+              "rowId": 199,
+              "keyParts": [
+                199,
+                "p9",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "that God commanded him – he did indeed."
+            },
+            {
+              "rowId": 200,
+              "keyParts": [
+                200,
+                "p9",
+                "verse",
+                "v22",
+                "note",
+                "f"
+              ],
+              "value": "tn The last clause seems redundant: “and thus (כֵּן, ken) he did.” It underscores the obedience of Noah to all that God had said."
+            },
+            {
+              "rowId": 201,
+              "keyParts": [
+                "v022_NET_GEN_006",
+                201,
+                "p9",
+                "verse",
+                "v22",
+                "plain_text"
+              ],
+              "value": "22 And Noah did all that God commanded him – he did indeed."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

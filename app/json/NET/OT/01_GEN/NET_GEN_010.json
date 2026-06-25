@@ -1,0 +1,3192 @@
+{
+  "translationId": "NET",
+  "name": "New English Translation",
+  "abbreviation": "NET",
+  "language": "English",
+  "copyright": "1996 - 2007 by Biblical Studies Press, LLC",
+  "books": [
+    {
+      "bookId": "GEN",
+      "testament": "",
+      "order": 0,
+      "title": "Genesis",
+      "abbreviation": "GEN",
+      "chapters": [
+        {
+          "chapter": 10,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "The Table of Nations"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "This is the account"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "f"
+              ],
+              "value": "tn The title אֵלֶּה תּוֹלְדֹת (’elle tolÿdot, here translated as “This is the account”) here covers 10:1–11:9, which contains the so-called Table of Nations and the account of how the nations came to be dispersed."
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "of Noah’s sons Shem, Ham, and Japheth. Sons"
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                7,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "f"
+              ],
+              "value": "sn Sons were born to them. A vertical genealogy such as this encompasses more than the names of sons. The list includes cities, tribes, and even nations. In a loose way, the names in the list have some derivation or connection to the three ancestors."
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "were born"
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                9,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "f"
+              ],
+              "value": "tn It appears that the Table of Nations is a composite of at least two ancient sources: Some sections begin with the phrase “the sons of” (בְּנֵי, bÿne) while other sections use “begot” (יָלָד, yalad). It may very well be that the “sons of” list was an old, “bare bones” list that was retained in the family records, while the “begot” sections were editorial inserts by the writer of Genesis, reflecting his special interests. See A. P. Ross, “The Table of Nations in Genesis 10 – Its Structure,” BSac 137 (1980): 340-53; idem, “The Table of Nations in Genesis 10 – Its Content,” BSac 138 (1981): 22-34."
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "to them after the flood."
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                "v001_NET_GEN_010",
+                11,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 This is the account of Noah’s sons Shem, Ham, and Japheth. Sons were born to them after the flood."
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                12,
+                "p2",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                13,
+                "p2",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "The sons of Japheth"
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "p2",
+                "verse",
+                "v2",
+                "note",
+                "f"
+              ],
+              "value": "sn The Greek form of the name Japheth, Iapetos, is used in Greek tradition for the ancestor of the Greeks."
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                15,
+                "p2",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "were Gomer,"
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                16,
+                "p2",
+                "verse",
+                "v2",
+                "note",
+                "f"
+              ],
+              "value": "sn Gomer was the ancestor of the Cimmerians. For a discussion of the Cimmerians see E. M. Yamauchi, Foes from the Northern Frontier (SBA), 49-61."
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                17,
+                "p2",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "Magog,"
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "p2",
+                "verse",
+                "v2",
+                "note",
+                "f"
+              ],
+              "value": "sn For a discussion of various proposals concerning the descendants of Magog see E. M. Yamauchi, Foes from the Northern Frontier (SBA), 22-24."
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p2",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "Madai,"
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                20,
+                "p2",
+                "verse",
+                "v2",
+                "note",
+                "f"
+              ],
+              "value": "sn Madai was the ancestor of the Medes, who lived east of Assyria."
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p2",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "Javan,"
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                22,
+                "p2",
+                "verse",
+                "v2",
+                "note",
+                "f"
+              ],
+              "value": "sn Javan was the father of the Hellenic race, the Ionians who lived in western Asia Minor."
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "p2",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "Tubal,"
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                24,
+                "p2",
+                "verse",
+                "v2",
+                "note",
+                "f"
+              ],
+              "value": "sn Tubal was the ancestor of militaristic tribes that lived north of the Black Sea. For a discussion of ancient references to Tubal see E. M. Yamauchi, Foes from the Northern Frontier (SBA), 24-26."
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "p2",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "Meshech,"
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                26,
+                "p2",
+                "verse",
+                "v2",
+                "note",
+                "f"
+              ],
+              "value": "sn Meshech was the ancestor of the people known in Assyrian records as the Musku. For a discussion of ancient references to them see E. M. Yamauchi, Foes from the Northern Frontier (SBA), 24-26."
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                27,
+                "p2",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "and Tiras."
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                28,
+                "p2",
+                "verse",
+                "v2",
+                "note",
+                "f"
+              ],
+              "value": "sn Tiras was the ancestor of the Thracians, some of whom possibly became the Pelasgian pirates of the Aegean."
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                "v002_NET_GEN_010",
+                29,
+                "p2",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 The sons of Japheth were Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras."
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                30,
+                "p2",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                31,
+                "p2",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "The sons of Gomer were"
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "p2",
+                "verse",
+                "v3",
+                "note",
+                "f"
+              ],
+              "value": "sn The descendants of Gomer were all northern tribes of the Upper Euphrates."
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                33,
+                "p2",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "Askenaz,"
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                34,
+                "p2",
+                "verse",
+                "v3",
+                "note",
+                "f"
+              ],
+              "value": "sn Askenaz was the ancestor of a northern branch of Indo-Germanic tribes, possibly Scythians. For discussion see E. M. Yamauchi, Foes from the Northern Frontier (SBA), 63."
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                35,
+                "p2",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "Riphath,"
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "p2",
+                "verse",
+                "v3",
+                "note",
+                "f"
+              ],
+              "value": "sn The descendants of Riphath lived in a district north of the road from Haran to Carchemish."
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                37,
+                "p2",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "and Togarmah."
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                38,
+                "p2",
+                "verse",
+                "v3",
+                "note",
+                "f"
+              ],
+              "value": "sn Togarmah is also mentioned in Ezek 38:6, where it refers to Til-garimmu, the capital of Kammanu, which bordered Tabal in eastern Turkey. See E. M. Yamauchi, Foes from the Northern Frontier (SBA), 26, n. 28."
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                "v003_NET_GEN_010",
+                39,
+                "p2",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 The sons of Gomer were Askenaz, Riphath, and Togarmah."
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                40,
+                "p2",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p2",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "The sons of Javan were Elishah,"
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "p2",
+                "verse",
+                "v4",
+                "note",
+                "f"
+              ],
+              "value": "sn The descendants of Elishah populated Cyprus."
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                43,
+                "p2",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "Tarshish,"
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                44,
+                "p2",
+                "verse",
+                "v4",
+                "note",
+                "f"
+              ],
+              "value": "sn The descendants of Tarshish settled along the southern coast of what is modern Turkey. However, some identify the site Tarshish (see Jonah 1:3) with Sardinia or Spain."
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                45,
+                "p2",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "the Kittim,"
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                46,
+                "p2",
+                "verse",
+                "v4",
+                "note",
+                "f"
+              ],
+              "value": "sn The name Kittim is associated with Cyprus, as well as coastlands east of Rhodes. It is used in later texts to refer to the Romans."
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                47,
+                "p2",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "and the Dodanim."
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                48,
+                "p2",
+                "verse",
+                "v4",
+                "note",
+                "f"
+              ],
+              "value": "tc Most of the MT mss read “Dodanim” here, but 1 Chr 1:7 has “Rodanim,” perhaps referring to the island of Rhodes. But the Qere reading in 1 Chr 1:7 suggests “Dodanim.” Dodona is one of the most ancient and revered spots in ancient Greece."
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                "v004_NET_GEN_010",
+                49,
+                "p2",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 The sons of Javan were Elishah, Tarshish, the Kittim, and the Dodanim."
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "p2",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                51,
+                "p2",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "From these the coastlands of the nations were separated into their lands, every one according to its language, according to their families, by their nations."
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                "v005_NET_GEN_010",
+                52,
+                "p2",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 From these the coastlands of the nations were separated into their lands, every one according to its language, according to their families, by their nations."
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                53,
+                "p3",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                54,
+                "p3",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "The sons of Ham were Cush,"
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                55,
+                "p3",
+                "verse",
+                "v6",
+                "note",
+                "f"
+              ],
+              "value": "sn The descendants of Cush settled in Nubia (Ethiopia)."
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                56,
+                "p3",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "Mizraim,"
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                57,
+                "p3",
+                "verse",
+                "v6",
+                "note",
+                "f"
+              ],
+              "value": "sn The descendants of Mizraim settled in Upper and Lower Egypt."
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                58,
+                "p3",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "Put,"
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                59,
+                "p3",
+                "verse",
+                "v6",
+                "note",
+                "f"
+              ],
+              "value": "sn The descendants of Put settled in Libya."
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                60,
+                "p3",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "and Canaan."
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                61,
+                "p3",
+                "verse",
+                "v6",
+                "note",
+                "f"
+              ],
+              "value": "sn The descendants of Canaan lived in the region of Phoenicia (Palestine)."
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                "v006_NET_GEN_010",
+                62,
+                "p3",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 The sons of Ham were Cush, Mizraim, Put, and Canaan."
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                63,
+                "p3",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                64,
+                "p3",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "The sons of Cush were Seba,"
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                65,
+                "p3",
+                "verse",
+                "v7",
+                "note",
+                "f"
+              ],
+              "value": "sn The descendants of Seba settled in Upper Egypt along the Nile."
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                66,
+                "p3",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "Havilah,"
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                67,
+                "p3",
+                "verse",
+                "v7",
+                "note",
+                "f"
+              ],
+              "value": "sn The Hebrew name Havilah apparently means “stretch of sand” (see HALOT 297 s.v. חֲוִילָה). Havilah’s descendants settled in eastern Arabia."
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                68,
+                "p3",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "Sabtah,"
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                69,
+                "p3",
+                "verse",
+                "v7",
+                "note",
+                "f"
+              ],
+              "value": "sn The descendants of Sabtah settled near the western shore of the Persian Gulf in ancient Hadhramaut."
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                70,
+                "p3",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "Raamah,"
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                71,
+                "p3",
+                "verse",
+                "v7",
+                "note",
+                "f"
+              ],
+              "value": "sn The descendants of Raamah settled in southwest Arabia."
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                72,
+                "p3",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "and Sabteca."
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                73,
+                "p3",
+                "verse",
+                "v7",
+                "note",
+                "f"
+              ],
+              "value": "sn The descendants of Sabteca settled in Samudake, east toward the Persian Gulf."
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                74,
+                "p3",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "The sons of Raamah were Sheba"
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                75,
+                "p3",
+                "verse",
+                "v7",
+                "note",
+                "f"
+              ],
+              "value": "sn Sheba became the name of a kingdom in southwest Arabia."
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                76,
+                "p3",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "and Dedan."
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                77,
+                "p3",
+                "verse",
+                "v7",
+                "note",
+                "f"
+              ],
+              "value": "sn The name Dedan is associated with àUla in northern Arabia."
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                "v007_NET_GEN_010",
+                78,
+                "p3",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 The sons of Cush were Seba, Havilah, Sabtah, Raamah, and Sabteca. The sons of Raamah were Sheba and Dedan."
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                79,
+                "p4",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                80,
+                "p4",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "Cush was the father of"
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                81,
+                "p4",
+                "verse",
+                "v8",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “fathered.” Embedded within Cush’s genealogy is an account of Nimrod, a mighty warrior. There have been many attempts to identify him, but none are convincing."
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                82,
+                "p4",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "Nimrod; he began to be a valiant warrior on the earth."
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                "v008_NET_GEN_010",
+                83,
+                "p4",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 Cush was the father of Nimrod; he began to be a valiant warrior on the earth."
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                84,
+                "p4",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                85,
+                "p4",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "He was a mighty hunter"
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                86,
+                "p4",
+                "verse",
+                "v9",
+                "note",
+                "f"
+              ],
+              "value": "tn The Hebrew word for “hunt” is צַיִד (tsayid), which is used on occasion for hunting men (1 Sam 24:12; Jer 16:16; Lam 3:15)."
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                87,
+                "p4",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "before the"
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                88,
+                "p4",
+                "verse",
+                "v9",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                89,
+                "p4",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "."
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                90,
+                "p4",
+                "verse",
+                "v9",
+                "note",
+                "f"
+              ],
+              "value": "tn Another option is to take the divine name here, לִפְנֵי יִהוָה (lifne yÿhvah, “before the Lord [YHWH]”), as a means of expressing the superlative degree. In this case one may translate “Nimrod was the greatest hunter in the world.”"
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                91,
+                "p4",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "(That is why it is said, “Like Nimrod, a mighty hunter before the"
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                92,
+                "p4",
+                "verse",
+                "v9",
+                "sc"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                93,
+                "p4",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": ".”)"
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                "v009_NET_GEN_010",
+                94,
+                "p4",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 He was a mighty hunter before the Lord . (That is why it is said, “Like Nimrod, a mighty hunter before the Lord .”)"
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                95,
+                "p4",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                96,
+                "p4",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "The primary regions"
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                97,
+                "p4",
+                "verse",
+                "v10",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “beginning.” E. A. Speiser, Genesis (AB), 67, suggests “mainstays,” citing Jer 49:35 as another text where the Hebrew noun is so used."
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                98,
+                "p4",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "of his kingdom were Babel,"
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                99,
+                "p4",
+                "verse",
+                "v10",
+                "note",
+                "f"
+              ],
+              "value": "tn Or “Babylon.”"
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                100,
+                "p4",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "Erech,"
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                101,
+                "p4",
+                "verse",
+                "v10",
+                "note",
+                "f"
+              ],
+              "value": "sn Erech (ancient Uruk, modern Warka), one of the most ancient civilizations, was located southeast of Babylon."
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                102,
+                "p4",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "Akkad,"
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                103,
+                "p4",
+                "verse",
+                "v10",
+                "note",
+                "f"
+              ],
+              "value": "sn Akkad, or ancient Agade, was associated with Sargon and located north of Babylon."
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                104,
+                "p4",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "and Calneh"
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                105,
+                "p4",
+                "verse",
+                "v10",
+                "note",
+                "f"
+              ],
+              "value": "tn No such place is known in Shinar (i.e., Babylonia). Therefore some have translated the Hebrew term כַלְנֵה (khalneh) as “all of them,” referring to the three previous names (cf. NRSV)."
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                106,
+                "p4",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "in the land of Shinar."
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                107,
+                "p4",
+                "verse",
+                "v10",
+                "note",
+                "f"
+              ],
+              "value": "sn Shinar is another name for Babylonia."
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                "v010_NET_GEN_010",
+                108,
+                "p4",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 The primary regions of his kingdom were Babel, Erech, Akkad, and Calneh in the land of Shinar."
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                109,
+                "p4",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                110,
+                "p4",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "From that land he went"
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                111,
+                "p4",
+                "verse",
+                "v11",
+                "note",
+                "f"
+              ],
+              "value": "tn The subject of the verb translated “went” is probably still Nimrod. However, it has also been interpreted that “Ashur went,” referring to a derivative power."
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                112,
+                "p4",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "to Assyria,"
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                113,
+                "p4",
+                "verse",
+                "v11",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “Asshur.”"
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                114,
+                "p4",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "where he built Nineveh,"
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                115,
+                "p4",
+                "verse",
+                "v11",
+                "note",
+                "f"
+              ],
+              "value": "sn Nineveh was an ancient Assyrian city situated on the Tigris River."
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                116,
+                "p4",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "Rehoboth-Ir,"
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                117,
+                "p4",
+                "verse",
+                "v11",
+                "note",
+                "f"
+              ],
+              "value": "sn The name Rehoboth-Ir means “and broad streets of a city,” perhaps referring to a suburb of Nineveh."
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                118,
+                "p4",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "Calah,"
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                119,
+                "p4",
+                "verse",
+                "v11",
+                "note",
+                "f"
+              ],
+              "value": "sn Calah (modern Nimrud) was located twenty miles north of Nineveh."
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                "v011_NET_GEN_010",
+                120,
+                "p4",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 From that land he went to Assyria, where he built Nineveh, Rehoboth-Ir, Calah,"
+            },
+            {
+              "rowId": 121,
+              "keyParts": [
+                121,
+                "p4",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 122,
+              "keyParts": [
+                122,
+                "p4",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "and Resen, which is between Nineveh and the great city Calah."
+            },
+            {
+              "rowId": 123,
+              "keyParts": [
+                123,
+                "p4",
+                "verse",
+                "v12",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and Resen between Nineveh and Calah; it [i.e., Calah] is the great city.”"
+            },
+            {
+              "rowId": 124,
+              "keyParts": [
+                "v012_NET_GEN_010",
+                124,
+                "p4",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 and Resen, which is between Nineveh and the great city Calah."
+            },
+            {
+              "rowId": 125,
+              "keyParts": [
+                125,
+                "p5",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 126,
+              "keyParts": [
+                126,
+                "p5",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "Mizraim"
+            },
+            {
+              "rowId": 127,
+              "keyParts": [
+                127,
+                "p5",
+                "verse",
+                "v13",
+                "note",
+                "f"
+              ],
+              "value": "sn Mizraim is the Hebrew name for Egypt (cf. NRSV)."
+            },
+            {
+              "rowId": 128,
+              "keyParts": [
+                128,
+                "p5",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "was the father of"
+            },
+            {
+              "rowId": 129,
+              "keyParts": [
+                129,
+                "p5",
+                "verse",
+                "v13",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “fathered.”"
+            },
+            {
+              "rowId": 130,
+              "keyParts": [
+                130,
+                "p5",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "the Ludites,"
+            },
+            {
+              "rowId": 131,
+              "keyParts": [
+                131,
+                "p5",
+                "verse",
+                "v13",
+                "note",
+                "f"
+              ],
+              "value": "sn The Ludites were African tribes west of the Nile Delta."
+            },
+            {
+              "rowId": 132,
+              "keyParts": [
+                132,
+                "p5",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "Anamites,"
+            },
+            {
+              "rowId": 133,
+              "keyParts": [
+                133,
+                "p5",
+                "verse",
+                "v13",
+                "note",
+                "f"
+              ],
+              "value": "sn The Anamites lived in North Africa, west of Egypt, near Cyrene."
+            },
+            {
+              "rowId": 134,
+              "keyParts": [
+                134,
+                "p5",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "Lehabites,"
+            },
+            {
+              "rowId": 135,
+              "keyParts": [
+                135,
+                "p5",
+                "verse",
+                "v13",
+                "note",
+                "f"
+              ],
+              "value": "sn The Lehabites are identified with the Libyans."
+            },
+            {
+              "rowId": 136,
+              "keyParts": [
+                136,
+                "p5",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "Naphtuhites,"
+            },
+            {
+              "rowId": 137,
+              "keyParts": [
+                137,
+                "p5",
+                "verse",
+                "v13",
+                "note",
+                "f"
+              ],
+              "value": "sn The Naphtuhites lived in Lower Egypt (the Nile Delta region)."
+            },
+            {
+              "rowId": 138,
+              "keyParts": [
+                "v013_NET_GEN_010",
+                138,
+                "p5",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 Mizraim was the father of the Ludites, Anamites, Lehabites, Naphtuhites,"
+            },
+            {
+              "rowId": 139,
+              "keyParts": [
+                139,
+                "p5",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 140,
+              "keyParts": [
+                140,
+                "p5",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "Pathrusites,"
+            },
+            {
+              "rowId": 141,
+              "keyParts": [
+                141,
+                "p5",
+                "verse",
+                "v14",
+                "note",
+                "f"
+              ],
+              "value": "sn The Pathrusites are known in Egyptian as P-to-reshi; they resided in Upper Egypt."
+            },
+            {
+              "rowId": 142,
+              "keyParts": [
+                142,
+                "p5",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "Casluhites"
+            },
+            {
+              "rowId": 143,
+              "keyParts": [
+                143,
+                "p5",
+                "verse",
+                "v14",
+                "note",
+                "f"
+              ],
+              "value": "sn The Casluhites lived in Crete and eventually settled east of the Egyptian Delta, between Egypt and Canaan."
+            },
+            {
+              "rowId": 144,
+              "keyParts": [
+                144,
+                "p5",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "(from whom the Philistines came),"
+            },
+            {
+              "rowId": 145,
+              "keyParts": [
+                145,
+                "p5",
+                "verse",
+                "v14",
+                "note",
+                "f"
+              ],
+              "value": "tn Several commentators prefer to reverse the order of the words to put this clause after the next word, since the Philistines came from Crete (where the Caphtorites lived). But the table may suggest migration rather than lineage, and the Philistines, like the Israelites, came through the Nile Delta region of Egypt. For further discussion of the origin and migration of the Philistines, see D. M. Howard, “Philistines,” Peoples of the Old Testament World, 232."
+            },
+            {
+              "rowId": 146,
+              "keyParts": [
+                146,
+                "p5",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "and Caphtorites."
+            },
+            {
+              "rowId": 147,
+              "keyParts": [
+                147,
+                "p5",
+                "verse",
+                "v14",
+                "note",
+                "f"
+              ],
+              "value": "sn The Caphtorites resided in Crete, but in Egyptian literature Caphtor refers to “the region beyond” the Mediterranean."
+            },
+            {
+              "rowId": 148,
+              "keyParts": [
+                "v014_NET_GEN_010",
+                148,
+                "p5",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 Pathrusites, Casluhites (from whom the Philistines came), and Caphtorites."
+            },
+            {
+              "rowId": 149,
+              "keyParts": [
+                149,
+                "p6",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 150,
+              "keyParts": [
+                150,
+                "p6",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "Canaan was the father of"
+            },
+            {
+              "rowId": 151,
+              "keyParts": [
+                151,
+                "p6",
+                "verse",
+                "v15",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “fathered.”"
+            },
+            {
+              "rowId": 152,
+              "keyParts": [
+                152,
+                "p6",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "Sidon his firstborn,"
+            },
+            {
+              "rowId": 153,
+              "keyParts": [
+                153,
+                "p6",
+                "verse",
+                "v15",
+                "note",
+                "f"
+              ],
+              "value": "sn Sidon was the foremost city in Phoenicia; here Sidon may be the name of its founder."
+            },
+            {
+              "rowId": 154,
+              "keyParts": [
+                154,
+                "p6",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "Heth,"
+            },
+            {
+              "rowId": 155,
+              "keyParts": [
+                155,
+                "p6",
+                "verse",
+                "v15",
+                "note",
+                "f"
+              ],
+              "value": "tn Some see a reference to “Hittites” here (cf. NIV), but this seems unlikely. See the note on the phrase “sons of Heth” in Gen 23:3."
+            },
+            {
+              "rowId": 156,
+              "keyParts": [
+                "v015_NET_GEN_010",
+                156,
+                "p6",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 Canaan was the father of Sidon his firstborn, Heth,"
+            },
+            {
+              "rowId": 157,
+              "keyParts": [
+                157,
+                "p6",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 158,
+              "keyParts": [
+                158,
+                "p6",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "the Jebusites,"
+            },
+            {
+              "rowId": 159,
+              "keyParts": [
+                159,
+                "p6",
+                "verse",
+                "v16",
+                "note",
+                "f"
+              ],
+              "value": "sn The Jebusites were the Canaanite inhabitants of ancient Jerusalem."
+            },
+            {
+              "rowId": 160,
+              "keyParts": [
+                160,
+                "p6",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "Amorites,"
+            },
+            {
+              "rowId": 161,
+              "keyParts": [
+                161,
+                "p6",
+                "verse",
+                "v16",
+                "note",
+                "f"
+              ],
+              "value": "sn Here Amorites refers to smaller groups of Canaanite inhabitants of the mountainous regions of Palestine, rather than the large waves of Amurru, or western Semites, who migrated to the region."
+            },
+            {
+              "rowId": 162,
+              "keyParts": [
+                162,
+                "p6",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "Girgashites,"
+            },
+            {
+              "rowId": 163,
+              "keyParts": [
+                163,
+                "p6",
+                "verse",
+                "v16",
+                "note",
+                "f"
+              ],
+              "value": "sn The Girgashites are an otherwise unknown Canaanite tribe, though the name is possibly mentioned in Ugaritic texts (see G. J. Wenham, Genesis [WBC], 1:226)."
+            },
+            {
+              "rowId": 164,
+              "keyParts": [
+                "v016_NET_GEN_010",
+                164,
+                "p6",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 the Jebusites, Amorites, Girgashites,"
+            },
+            {
+              "rowId": 165,
+              "keyParts": [
+                165,
+                "p6",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 166,
+              "keyParts": [
+                166,
+                "p6",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "Hivites,"
+            },
+            {
+              "rowId": 167,
+              "keyParts": [
+                167,
+                "p6",
+                "verse",
+                "v17",
+                "note",
+                "f"
+              ],
+              "value": "sn The Hivites were Canaanite tribes of a Hurrian origin."
+            },
+            {
+              "rowId": 168,
+              "keyParts": [
+                168,
+                "p6",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "Arkites,"
+            },
+            {
+              "rowId": 169,
+              "keyParts": [
+                169,
+                "p6",
+                "verse",
+                "v17",
+                "note",
+                "f"
+              ],
+              "value": "sn The Arkites lived in Arka, a city in Lebanon, north of Sidon."
+            },
+            {
+              "rowId": 170,
+              "keyParts": [
+                170,
+                "p6",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "Sinites,"
+            },
+            {
+              "rowId": 171,
+              "keyParts": [
+                171,
+                "p6",
+                "verse",
+                "v17",
+                "note",
+                "f"
+              ],
+              "value": "sn The Sinites lived in Sin, another town in Lebanon."
+            },
+            {
+              "rowId": 172,
+              "keyParts": [
+                "v017_NET_GEN_010",
+                172,
+                "p6",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 Hivites, Arkites, Sinites,"
+            },
+            {
+              "rowId": 173,
+              "keyParts": [
+                173,
+                "p6",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 174,
+              "keyParts": [
+                174,
+                "p6",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "Arvadites,"
+            },
+            {
+              "rowId": 175,
+              "keyParts": [
+                175,
+                "p6",
+                "verse",
+                "v18",
+                "note",
+                "f"
+              ],
+              "value": "sn The Arvadites lived in the city Arvad, located on an island near the mainland close to the river El Kebir."
+            },
+            {
+              "rowId": 176,
+              "keyParts": [
+                176,
+                "p6",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "Zemarites,"
+            },
+            {
+              "rowId": 177,
+              "keyParts": [
+                177,
+                "p6",
+                "verse",
+                "v18",
+                "note",
+                "f"
+              ],
+              "value": "sn The Zemarites lived in the town Sumur, north of Arka."
+            },
+            {
+              "rowId": 178,
+              "keyParts": [
+                178,
+                "p6",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "and Hamathites."
+            },
+            {
+              "rowId": 179,
+              "keyParts": [
+                179,
+                "p6",
+                "verse",
+                "v18",
+                "note",
+                "f"
+              ],
+              "value": "sn The Hamathites lived in Hamath on the Orontes River."
+            },
+            {
+              "rowId": 180,
+              "keyParts": [
+                180,
+                "p6",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "Eventually the families of the Canaanites were scattered"
+            },
+            {
+              "rowId": 181,
+              "keyParts": [
+                "v018_NET_GEN_010",
+                181,
+                "p6",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 Arvadites, Zemarites, and Hamathites. Eventually the families of the Canaanites were scattered"
+            },
+            {
+              "rowId": 182,
+              "keyParts": [
+                182,
+                "p6",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 183,
+              "keyParts": [
+                183,
+                "p6",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "and the borders of Canaan extended"
+            },
+            {
+              "rowId": 184,
+              "keyParts": [
+                184,
+                "p6",
+                "verse",
+                "v19",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “were.”"
+            },
+            {
+              "rowId": 185,
+              "keyParts": [
+                185,
+                "p6",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "from Sidon"
+            },
+            {
+              "rowId": 186,
+              "keyParts": [
+                186,
+                "p6",
+                "verse",
+                "v19",
+                "note",
+                "f"
+              ],
+              "value": "map For location see Map1-A1; JP3-F3; JP4-F3."
+            },
+            {
+              "rowId": 187,
+              "keyParts": [
+                187,
+                "p6",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "all the way to"
+            },
+            {
+              "rowId": 188,
+              "keyParts": [
+                188,
+                "p6",
+                "verse",
+                "v19",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “as you go.”"
+            },
+            {
+              "rowId": 189,
+              "keyParts": [
+                189,
+                "p6",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "Gerar as far as Gaza, and all the way to"
+            },
+            {
+              "rowId": 190,
+              "keyParts": [
+                190,
+                "p6",
+                "verse",
+                "v19",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “as you go.”"
+            },
+            {
+              "rowId": 191,
+              "keyParts": [
+                191,
+                "p6",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "Sodom, Gomorrah, Admah, and Zeboiim, as far as Lasha."
+            },
+            {
+              "rowId": 192,
+              "keyParts": [
+                "v019_NET_GEN_010",
+                192,
+                "p6",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 and the borders of Canaan extended from Sidon all the way to Gerar as far as Gaza, and all the way to Sodom, Gomorrah, Admah, and Zeboiim, as far as Lasha."
+            },
+            {
+              "rowId": 193,
+              "keyParts": [
+                193,
+                "p6",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 194,
+              "keyParts": [
+                194,
+                "p6",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "These are the sons of Ham, according to their families, according to their languages, by their lands, and by their nations."
+            },
+            {
+              "rowId": 195,
+              "keyParts": [
+                "v020_NET_GEN_010",
+                195,
+                "p6",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 These are the sons of Ham, according to their families, according to their languages, by their lands, and by their nations."
+            },
+            {
+              "rowId": 196,
+              "keyParts": [
+                196,
+                "p7",
+                "verse",
+                "v21",
+                "label"
+              ],
+              "value": "21"
+            },
+            {
+              "rowId": 197,
+              "keyParts": [
+                197,
+                "p7",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "And sons were also born"
+            },
+            {
+              "rowId": 198,
+              "keyParts": [
+                198,
+                "p7",
+                "verse",
+                "v21",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “And to Shem was born.”"
+            },
+            {
+              "rowId": 199,
+              "keyParts": [
+                199,
+                "p7",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "to Shem (the older brother of Japheth),"
+            },
+            {
+              "rowId": 200,
+              "keyParts": [
+                200,
+                "p7",
+                "verse",
+                "v21",
+                "note",
+                "f"
+              ],
+              "value": "tn Or “whose older brother was Japheth.” Some translations render Japheth as the older brother, understanding the adjective הַגָּדוֹל (haggadol, “older”) as modifying Japheth. However, in Hebrew when a masculine singular definite attributive adjective follows the sequence masculine singular construct noun + proper name, the adjective invariably modifies the noun in construct, not the proper name. Such is the case here. See Deut 11:7; Judg 1:13; 2:7; 3:9; 9:5; 2 Kgs 15:35; 2 Chr 27:3; Neh 3:30; Jer 13:9; 36:10; Ezek 10:19; 11:1."
+            },
+            {
+              "rowId": 201,
+              "keyParts": [
+                201,
+                "p7",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "the father of all the sons of Eber."
+            },
+            {
+              "rowId": 202,
+              "keyParts": [
+                "v021_NET_GEN_010",
+                202,
+                "p7",
+                "verse",
+                "v21",
+                "plain_text"
+              ],
+              "value": "21 And sons were also born to Shem (the older brother of Japheth), the father of all the sons of Eber."
+            },
+            {
+              "rowId": 203,
+              "keyParts": [
+                203,
+                "p8",
+                "verse",
+                "v22",
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 204,
+              "keyParts": [
+                204,
+                "p8",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "The sons of Shem were Elam,"
+            },
+            {
+              "rowId": 205,
+              "keyParts": [
+                205,
+                "p8",
+                "verse",
+                "v22",
+                "note",
+                "f"
+              ],
+              "value": "sn The Hebrew name Elam (עֵילָם, ’elam) means “highland.” The Elamites were a non-Semitic people who lived east of Babylon."
+            },
+            {
+              "rowId": 206,
+              "keyParts": [
+                206,
+                "p8",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "Asshur,"
+            },
+            {
+              "rowId": 207,
+              "keyParts": [
+                207,
+                "p8",
+                "verse",
+                "v22",
+                "note",
+                "f"
+              ],
+              "value": "sn Asshur is the name for the Assyrians. Asshur was the region in which Nimrod expanded his power (see v. 11, where the name is also mentioned). When names appear in both sections of a genealogical list, it probably means that there were both Hamites and Shemites living in that region in antiquity, especially if the name is a place name."
+            },
+            {
+              "rowId": 208,
+              "keyParts": [
+                208,
+                "p8",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "Arphaxad,"
+            },
+            {
+              "rowId": 209,
+              "keyParts": [
+                209,
+                "p8",
+                "verse",
+                "v22",
+                "note",
+                "f"
+              ],
+              "value": "sn The descendants of Arphaxad may have lived northeast of Nineveh."
+            },
+            {
+              "rowId": 210,
+              "keyParts": [
+                210,
+                "p8",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "Lud,"
+            },
+            {
+              "rowId": 211,
+              "keyParts": [
+                211,
+                "p8",
+                "verse",
+                "v22",
+                "note",
+                "f"
+              ],
+              "value": "sn Lud may have been the ancestor of the Ludbu, who lived near the Tigris River."
+            },
+            {
+              "rowId": 212,
+              "keyParts": [
+                212,
+                "p8",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "and Aram."
+            },
+            {
+              "rowId": 213,
+              "keyParts": [
+                213,
+                "p8",
+                "verse",
+                "v22",
+                "note",
+                "f"
+              ],
+              "value": "sn Aram became the collective name of the northern tribes living in the steppes of Mesopotamia and speaking Aramaic dialects."
+            },
+            {
+              "rowId": 214,
+              "keyParts": [
+                "v022_NET_GEN_010",
+                214,
+                "p8",
+                "verse",
+                "v22",
+                "plain_text"
+              ],
+              "value": "22 The sons of Shem were Elam, Asshur, Arphaxad, Lud, and Aram."
+            },
+            {
+              "rowId": 215,
+              "keyParts": [
+                215,
+                "p8",
+                "verse",
+                "v23",
+                "label"
+              ],
+              "value": "23"
+            },
+            {
+              "rowId": 216,
+              "keyParts": [
+                216,
+                "p8",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "The sons of Aram were Uz, Hul, Gether, and Mash."
+            },
+            {
+              "rowId": 217,
+              "keyParts": [
+                217,
+                "p8",
+                "verse",
+                "v23",
+                "note",
+                "f"
+              ],
+              "value": "tc The MT reads “Mash”; the LXX and 1 Chr 1:17 read “Meshech.”\nsn Uz, Hul, Gether, and Mash. Little is known about these descendants of Aram."
+            },
+            {
+              "rowId": 218,
+              "keyParts": [
+                "v023_NET_GEN_010",
+                218,
+                "p8",
+                "verse",
+                "v23",
+                "plain_text"
+              ],
+              "value": "23 The sons of Aram were Uz, Hul, Gether, and Mash."
+            },
+            {
+              "rowId": 219,
+              "keyParts": [
+                219,
+                "p8",
+                "verse",
+                "v24",
+                "label"
+              ],
+              "value": "24"
+            },
+            {
+              "rowId": 220,
+              "keyParts": [
+                220,
+                "p8",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "Arphaxad was the father of"
+            },
+            {
+              "rowId": 221,
+              "keyParts": [
+                221,
+                "p8",
+                "verse",
+                "v24",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “fathered.”"
+            },
+            {
+              "rowId": 222,
+              "keyParts": [
+                222,
+                "p8",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "Shelah,"
+            },
+            {
+              "rowId": 223,
+              "keyParts": [
+                223,
+                "p8",
+                "verse",
+                "v24",
+                "note",
+                "f"
+              ],
+              "value": "tc The MT reads “Arphaxad fathered Shelah”; the LXX reads “Arphaxad fathered Cainan, and Cainan fathered Sala [= Shelah].” The LXX reading also appears to lie behind Luke 3:35-36."
+            },
+            {
+              "rowId": 224,
+              "keyParts": [
+                224,
+                "p8",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "and Shelah was the father of Eber."
+            },
+            {
+              "rowId": 225,
+              "keyParts": [
+                225,
+                "p8",
+                "verse",
+                "v24",
+                "note",
+                "f"
+              ],
+              "value": "sn Genesis 11 traces the line of Shem through Eber (עֵבֶר, ’ever ) to Abraham the “Hebrew” (עִבְרִי, ’ivri)."
+            },
+            {
+              "rowId": 226,
+              "keyParts": [
+                "v024_NET_GEN_010",
+                226,
+                "p8",
+                "verse",
+                "v24",
+                "plain_text"
+              ],
+              "value": "24 Arphaxad was the father of Shelah, and Shelah was the father of Eber."
+            },
+            {
+              "rowId": 227,
+              "keyParts": [
+                227,
+                "p8",
+                "verse",
+                "v25",
+                "label"
+              ],
+              "value": "25"
+            },
+            {
+              "rowId": 228,
+              "keyParts": [
+                228,
+                "p8",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "Two sons were born to Eber: One was named Peleg because in his days the earth was divided,"
+            },
+            {
+              "rowId": 229,
+              "keyParts": [
+                229,
+                "p8",
+                "verse",
+                "v25",
+                "note",
+                "f"
+              ],
+              "value": "tn The expression “the earth was divided” may refer to dividing the land with canals, but more likely it anticipates the division of languages at Babel (Gen 11). The verb פָּלָג (palag, “separate, divide”) is used in Ps 55:9 for a division of languages."
+            },
+            {
+              "rowId": 230,
+              "keyParts": [
+                230,
+                "p8",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "and his brother’s name was Joktan."
+            },
+            {
+              "rowId": 231,
+              "keyParts": [
+                "v025_NET_GEN_010",
+                231,
+                "p8",
+                "verse",
+                "v25",
+                "plain_text"
+              ],
+              "value": "25 Two sons were born to Eber: One was named Peleg because in his days the earth was divided, and his brother’s name was Joktan."
+            },
+            {
+              "rowId": 232,
+              "keyParts": [
+                232,
+                "p8",
+                "verse",
+                "v26",
+                "label"
+              ],
+              "value": "26"
+            },
+            {
+              "rowId": 233,
+              "keyParts": [
+                233,
+                "p8",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "Joktan was the father of"
+            },
+            {
+              "rowId": 234,
+              "keyParts": [
+                234,
+                "p8",
+                "verse",
+                "v26",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “fathered.”"
+            },
+            {
+              "rowId": 235,
+              "keyParts": [
+                235,
+                "p8",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "Almodad,"
+            },
+            {
+              "rowId": 236,
+              "keyParts": [
+                236,
+                "p8",
+                "verse",
+                "v26",
+                "note",
+                "f"
+              ],
+              "value": "sn The name Almodad combines the Arabic article al with modad (“friend”). Almodad was the ancestor of a South Arabian people."
+            },
+            {
+              "rowId": 237,
+              "keyParts": [
+                237,
+                "p8",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "Sheleph,"
+            },
+            {
+              "rowId": 238,
+              "keyParts": [
+                238,
+                "p8",
+                "verse",
+                "v26",
+                "note",
+                "f"
+              ],
+              "value": "sn The name Sheleph may be related to Shilph, a district of Yemen; Shalph is a Yemenite tribe."
+            },
+            {
+              "rowId": 239,
+              "keyParts": [
+                239,
+                "p8",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "Hazarmaveth,"
+            },
+            {
+              "rowId": 240,
+              "keyParts": [
+                240,
+                "p8",
+                "verse",
+                "v26",
+                "note",
+                "f"
+              ],
+              "value": "sn The name Hazarmaveth should be equated with Hadramawt, located in Southern Arabia."
+            },
+            {
+              "rowId": 241,
+              "keyParts": [
+                241,
+                "p8",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "Jerah,"
+            },
+            {
+              "rowId": 242,
+              "keyParts": [
+                242,
+                "p8",
+                "verse",
+                "v26",
+                "note",
+                "f"
+              ],
+              "value": "sn The name Jerah means “moon.”"
+            },
+            {
+              "rowId": 243,
+              "keyParts": [
+                "v026_NET_GEN_010",
+                243,
+                "p8",
+                "verse",
+                "v26",
+                "plain_text"
+              ],
+              "value": "26 Joktan was the father of Almodad, Sheleph, Hazarmaveth, Jerah,"
+            },
+            {
+              "rowId": 244,
+              "keyParts": [
+                244,
+                "p8",
+                "verse",
+                "v27",
+                "label"
+              ],
+              "value": "27"
+            },
+            {
+              "rowId": 245,
+              "keyParts": [
+                245,
+                "p8",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "Hadoram, Uzal,"
+            },
+            {
+              "rowId": 246,
+              "keyParts": [
+                246,
+                "p8",
+                "verse",
+                "v27",
+                "note",
+                "f"
+              ],
+              "value": "sn Uzal was the name of the old capital of Yemen."
+            },
+            {
+              "rowId": 247,
+              "keyParts": [
+                247,
+                "p8",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "Diklah,"
+            },
+            {
+              "rowId": 248,
+              "keyParts": [
+                248,
+                "p8",
+                "verse",
+                "v27",
+                "note",
+                "f"
+              ],
+              "value": "sn The name Diklah means “date-palm.”"
+            },
+            {
+              "rowId": 249,
+              "keyParts": [
+                "v027_NET_GEN_010",
+                249,
+                "p8",
+                "verse",
+                "v27",
+                "plain_text"
+              ],
+              "value": "27 Hadoram, Uzal, Diklah,"
+            },
+            {
+              "rowId": 250,
+              "keyParts": [
+                250,
+                "p8",
+                "verse",
+                "v28",
+                "label"
+              ],
+              "value": "28"
+            },
+            {
+              "rowId": 251,
+              "keyParts": [
+                251,
+                "p8",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "Obal,"
+            },
+            {
+              "rowId": 252,
+              "keyParts": [
+                252,
+                "p8",
+                "verse",
+                "v28",
+                "note",
+                "f"
+              ],
+              "value": "sn Obal was a name used for several localities in Yemen."
+            },
+            {
+              "rowId": 253,
+              "keyParts": [
+                253,
+                "p8",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "Abimael,"
+            },
+            {
+              "rowId": 254,
+              "keyParts": [
+                254,
+                "p8",
+                "verse",
+                "v28",
+                "note",
+                "f"
+              ],
+              "value": "sn The name Abimael is a genuine Sabean form which means “my father, truly, he is God.”"
+            },
+            {
+              "rowId": 255,
+              "keyParts": [
+                255,
+                "p8",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "Sheba,"
+            },
+            {
+              "rowId": 256,
+              "keyParts": [
+                256,
+                "p8",
+                "verse",
+                "v28",
+                "note",
+                "f"
+              ],
+              "value": "sn The descendants of Sheba lived in South Arabia, where the Joktanites were more powerful than the Hamites."
+            },
+            {
+              "rowId": 257,
+              "keyParts": [
+                "v028_NET_GEN_010",
+                257,
+                "p8",
+                "verse",
+                "v28",
+                "plain_text"
+              ],
+              "value": "28 Obal, Abimael, Sheba,"
+            },
+            {
+              "rowId": 258,
+              "keyParts": [
+                258,
+                "p8",
+                "verse",
+                "v29",
+                "label"
+              ],
+              "value": "29"
+            },
+            {
+              "rowId": 259,
+              "keyParts": [
+                259,
+                "p8",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "Ophir,"
+            },
+            {
+              "rowId": 260,
+              "keyParts": [
+                260,
+                "p8",
+                "verse",
+                "v29",
+                "note",
+                "f"
+              ],
+              "value": "sn Ophir became the name of a territory in South Arabia. Many of the references to Ophir are connected with gold (e.g., 1 Kgs 9:28, 10:11, 22:48; 1 Chr 29:4; 2 Chr 8:18, 9:10; Job 22:24, 28:16; Ps 45:9; Isa 13:12)."
+            },
+            {
+              "rowId": 261,
+              "keyParts": [
+                261,
+                "p8",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "Havilah,"
+            },
+            {
+              "rowId": 262,
+              "keyParts": [
+                262,
+                "p8",
+                "verse",
+                "v29",
+                "note",
+                "f"
+              ],
+              "value": "sn Havilah is listed with Ham in v. 7."
+            },
+            {
+              "rowId": 263,
+              "keyParts": [
+                263,
+                "p8",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "and Jobab. All these were sons of Joktan."
+            },
+            {
+              "rowId": 264,
+              "keyParts": [
+                "v029_NET_GEN_010",
+                264,
+                "p8",
+                "verse",
+                "v29",
+                "plain_text"
+              ],
+              "value": "29 Ophir, Havilah, and Jobab. All these were sons of Joktan."
+            },
+            {
+              "rowId": 265,
+              "keyParts": [
+                265,
+                "p8",
+                "verse",
+                "v30",
+                "label"
+              ],
+              "value": "30"
+            },
+            {
+              "rowId": 266,
+              "keyParts": [
+                266,
+                "p8",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "Their dwelling place was from Mesha all the way to"
+            },
+            {
+              "rowId": 267,
+              "keyParts": [
+                267,
+                "p8",
+                "verse",
+                "v30",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “as you go.”"
+            },
+            {
+              "rowId": 268,
+              "keyParts": [
+                268,
+                "p8",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "Sephar in the eastern hills."
+            },
+            {
+              "rowId": 269,
+              "keyParts": [
+                "v030_NET_GEN_010",
+                269,
+                "p8",
+                "verse",
+                "v30",
+                "plain_text"
+              ],
+              "value": "30 Their dwelling place was from Mesha all the way to Sephar in the eastern hills."
+            },
+            {
+              "rowId": 270,
+              "keyParts": [
+                270,
+                "p8",
+                "verse",
+                "v31",
+                "label"
+              ],
+              "value": "31"
+            },
+            {
+              "rowId": 271,
+              "keyParts": [
+                271,
+                "p8",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "These are the sons of Shem according to their families, according to their languages, by their lands, and according to their nations."
+            },
+            {
+              "rowId": 272,
+              "keyParts": [
+                "v031_NET_GEN_010",
+                272,
+                "p8",
+                "verse",
+                "v31",
+                "plain_text"
+              ],
+              "value": "31 These are the sons of Shem according to their families, according to their languages, by their lands, and according to their nations."
+            },
+            {
+              "rowId": 273,
+              "keyParts": [
+                273,
+                "p9",
+                "verse",
+                "v32",
+                "label"
+              ],
+              "value": "32"
+            },
+            {
+              "rowId": 274,
+              "keyParts": [
+                274,
+                "p9",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "These are the families of the sons of Noah, according to their genealogies, by their nations, and from these the nations spread"
+            },
+            {
+              "rowId": 275,
+              "keyParts": [
+                275,
+                "p9",
+                "verse",
+                "v32",
+                "note",
+                "f"
+              ],
+              "value": "tn Or “separated.”"
+            },
+            {
+              "rowId": 276,
+              "keyParts": [
+                276,
+                "p9",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "over the earth after the flood."
+            },
+            {
+              "rowId": 277,
+              "keyParts": [
+                "v032_NET_GEN_010",
+                277,
+                "p9",
+                "verse",
+                "v32",
+                "plain_text"
+              ],
+              "value": "32 These are the families of the sons of Noah, according to their genealogies, by their nations, and from these the nations spread over the earth after the flood."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

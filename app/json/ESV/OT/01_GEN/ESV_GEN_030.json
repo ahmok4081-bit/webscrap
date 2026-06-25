@@ -1,0 +1,2340 @@
+{
+  "translationId": "ESV",
+  "name": "English Standard Version",
+  "abbreviation": "ESV",
+  "language": "English",
+  "copyright": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.",
+  "books": [
+    {
+      "bookId": "GEN",
+      "testament": "OT",
+      "order": 1,
+      "title": "Genesis",
+      "abbreviation": "GEN",
+      "chapters": [
+        {
+          "chapter": 30,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "30"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                2,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "When Rachel saw that"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#ch.29:31"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "she bore Jacob no children, she envied her sister. She said to Jacob, “Give me children, or I shall die!”"
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                "v001_ESV_GEN_030",
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 When Rachel saw that she bore Jacob no children, she envied her sister. She said to Jacob, “Give me children, or I shall die!”"
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                7,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "Jacob’s anger was kindled against Rachel, and he said, “Am I in the place of God,"
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                9,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#[ch.16:2;1 Sam. 1:5]"
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "who has withheld from you the fruit of the womb?”"
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                "v002_ESV_GEN_030",
+                11,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 Jacob’s anger was kindled against Rachel, and he said, “Am I in the place of God, who has withheld from you the fruit of the womb?”"
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                12,
+                "p1",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                13,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "Then she said, “Here is my servant"
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#ch.29:29"
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                15,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "Bilhah; go in to her, so that she may give birth"
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                16,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#ch.50:23"
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                17,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "on my behalf,"
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "f"
+              ],
+              "value": "#30:3Hebrewon my knees"
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "that even I may have children"
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                20,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "f"
+              ],
+              "value": "#30:3Hebrewbe built up, which sounds like the Hebrew forchildren"
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "through her.”"
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                "v003_ESV_GEN_030",
+                22,
+                "p1",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 Then she said, “Here is my servant Bilhah; go in to her, so that she may give birth on my behalf, that even I may have children through her.”"
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "p1",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                24,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "So she gave him her servant Bilhah as a wife, and Jacob went in to her."
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                "v004_ESV_GEN_030",
+                25,
+                "p1",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 So she gave him her servant Bilhah as a wife, and Jacob went in to her."
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                26,
+                "p1",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                27,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "And Bilhah conceived and bore Jacob a son."
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                "v005_ESV_GEN_030",
+                28,
+                "p1",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 And Bilhah conceived and bore Jacob a son."
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                29,
+                "p1",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                30,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "Then Rachel said, “God has"
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                31,
+                "p1",
+                "verse",
+                "v6",
+                "note",
+                "x"
+              ],
+              "value": "#[ch.49:16]"
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "judged me, and has also heard my voice and given me a son.” Therefore she called his name Dan."
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                33,
+                "p1",
+                "verse",
+                "v6",
+                "note",
+                "f"
+              ],
+              "value": "#30:6Dansounds like the Hebrew forjudged"
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                "v006_ESV_GEN_030",
+                34,
+                "p1",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 Then Rachel said, “God has judged me, and has also heard my voice and given me a son.” Therefore she called his name Dan."
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                35,
+                "p1",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "p1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "Rachel’s servant Bilhah conceived again and bore Jacob a second son."
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                "v007_ESV_GEN_030",
+                37,
+                "p1",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 Rachel’s servant Bilhah conceived again and bore Jacob a second son."
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                38,
+                "p1",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                39,
+                "p1",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "Then Rachel said, “With mighty wrestlings"
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                40,
+                "p1",
+                "verse",
+                "v8",
+                "note",
+                "f"
+              ],
+              "value": "#30:8HebrewWith wrestlings of God"
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p1",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "I have wrestled with my sister and have prevailed.” So she called his name"
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "p1",
+                "verse",
+                "v8",
+                "note",
+                "x"
+              ],
+              "value": "#[Matt. 4:13]"
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                43,
+                "p1",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "Naphtali."
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                44,
+                "p1",
+                "verse",
+                "v8",
+                "note",
+                "f"
+              ],
+              "value": "#30:8Naphtalisounds like the Hebrew forwrestling"
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                "v008_ESV_GEN_030",
+                45,
+                "p1",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 Then Rachel said, “With mighty wrestlings I have wrestled with my sister and have prevailed.” So she called his name Naphtali."
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                46,
+                "p2",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                47,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "When Leah saw that she had ceased bearing children, she took her servant Zilpah and"
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                48,
+                "p2",
+                "verse",
+                "v9",
+                "note",
+                "x"
+              ],
+              "value": "#ver.4;ch.29:24"
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                49,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "gave her to Jacob as a wife."
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                "v009_ESV_GEN_030",
+                50,
+                "p2",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 When Leah saw that she had ceased bearing children, she took her servant Zilpah and gave her to Jacob as a wife."
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                51,
+                "p2",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                52,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "Then Leah’s servant Zilpah bore Jacob a son."
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                "v010_ESV_GEN_030",
+                53,
+                "p2",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 Then Leah’s servant Zilpah bore Jacob a son."
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                54,
+                "p2",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                55,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "And Leah said,"
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                56,
+                "p2",
+                "verse",
+                "v11",
+                "note",
+                "x"
+              ],
+              "value": "#[ch.49:19]"
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                57,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "“Good fortune has come!” so she called his name"
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                58,
+                "p2",
+                "verse",
+                "v11",
+                "note",
+                "x"
+              ],
+              "value": "#[ch.49:19]"
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                59,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "Gad."
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                60,
+                "p2",
+                "verse",
+                "v11",
+                "note",
+                "f"
+              ],
+              "value": "#30:11Gadsounds like the Hebrew forgood fortune"
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                "v011_ESV_GEN_030",
+                61,
+                "p2",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 And Leah said, “Good fortune has come!” so she called his name Gad."
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                62,
+                "p2",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                63,
+                "p2",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "Leah’s servant Zilpah bore Jacob a second son."
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                "v012_ESV_GEN_030",
+                64,
+                "p2",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 Leah’s servant Zilpah bore Jacob a second son."
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                65,
+                "p2",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                66,
+                "p2",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "And Leah said, “Happy am I! For women"
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                67,
+                "p2",
+                "verse",
+                "v13",
+                "note",
+                "x"
+              ],
+              "value": "#[Luke 1:48]"
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                68,
+                "p2",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "have called me happy.” So she called his name Asher."
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                69,
+                "p2",
+                "verse",
+                "v13",
+                "note",
+                "f"
+              ],
+              "value": "#30:13Ashersounds like the Hebrew forhappy"
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                "v013_ESV_GEN_030",
+                70,
+                "p2",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 And Leah said, “Happy am I! For women have called me happy.” So she called his name Asher."
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                71,
+                "p3",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                72,
+                "p3",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "In the days of wheat harvest Reuben went and found"
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                73,
+                "p3",
+                "verse",
+                "v14",
+                "note",
+                "x"
+              ],
+              "value": "#Song 7:13"
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                74,
+                "p3",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "mandrakes in the field and brought them to his mother Leah. Then Rachel said to Leah, “Please give me some of your son’s mandrakes.”"
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                "v014_ESV_GEN_030",
+                75,
+                "p3",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 In the days of wheat harvest Reuben went and found mandrakes in the field and brought them to his mother Leah. Then Rachel said to Leah, “Please give me some of your son’s mandrakes.”"
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                76,
+                "p3",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                77,
+                "p3",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "But she said to her, “Is it a small matter that you have taken away my husband? Would you take away my son’s mandrakes also?” Rachel said, “Then he may lie with you tonight in exchange for your son’s mandrakes.”"
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                "v015_ESV_GEN_030",
+                78,
+                "p3",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 But she said to her, “Is it a small matter that you have taken away my husband? Would you take away my son’s mandrakes also?” Rachel said, “Then he may lie with you tonight in exchange for your son’s mandrakes.”"
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                79,
+                "p3",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                80,
+                "p3",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "When Jacob came from the field in the evening, Leah went out to meet him and said, “You must come in to me, for I have hired you with my son’s mandrakes.” So he lay with her that night."
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                "v016_ESV_GEN_030",
+                81,
+                "p3",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 When Jacob came from the field in the evening, Leah went out to meet him and said, “You must come in to me, for I have hired you with my son’s mandrakes.” So he lay with her that night."
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                82,
+                "p3",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                83,
+                "p3",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "And God listened to Leah, and she conceived and bore Jacob a fifth son."
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                "v017_ESV_GEN_030",
+                84,
+                "p3",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 And God listened to Leah, and she conceived and bore Jacob a fifth son."
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                85,
+                "p3",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                86,
+                "p3",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "Leah said, “God has given me my wages because I gave my servant to my husband.” So she called his name Issachar."
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                87,
+                "p3",
+                "verse",
+                "v18",
+                "note",
+                "f"
+              ],
+              "value": "#30:18Issacharsounds like the Hebrew forwages, orhire"
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                "v018_ESV_GEN_030",
+                88,
+                "p3",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 Leah said, “God has given me my wages because I gave my servant to my husband.” So she called his name Issachar."
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                89,
+                "p4",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                90,
+                "p4",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "And Leah conceived again, and she bore Jacob a sixth son."
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                "v019_ESV_GEN_030",
+                91,
+                "p4",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 And Leah conceived again, and she bore Jacob a sixth son."
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                92,
+                "p4",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                93,
+                "p4",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "Then Leah said, “God has endowed me with a good endowment; now my husband will honor me, because I have borne him six sons.” So she called his name"
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                94,
+                "p4",
+                "verse",
+                "v20",
+                "note",
+                "x"
+              ],
+              "value": "#[Matt. 4:13]"
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                95,
+                "p4",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "Zebulun."
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                96,
+                "p4",
+                "verse",
+                "v20",
+                "note",
+                "f"
+              ],
+              "value": "#30:20Zebulunsounds like the Hebrew forhonor"
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                "v020_ESV_GEN_030",
+                97,
+                "p4",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 Then Leah said, “God has endowed me with a good endowment; now my husband will honor me, because I have borne him six sons.” So she called his name Zebulun."
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                98,
+                "p4",
+                "verse",
+                "v21",
+                "label"
+              ],
+              "value": "21"
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                99,
+                "p4",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "Afterward she bore a daughter and called her name Dinah."
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                "v021_ESV_GEN_030",
+                100,
+                "p4",
+                "verse",
+                "v21",
+                "plain_text"
+              ],
+              "value": "21 Afterward she bore a daughter and called her name Dinah."
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                101,
+                "p5",
+                "verse",
+                "v22",
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                102,
+                "p5",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "Then God"
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                103,
+                "p5",
+                "verse",
+                "v22",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.8:1"
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                104,
+                "p5",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "remembered Rachel, and God listened to her and"
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                105,
+                "p5",
+                "verse",
+                "v22",
+                "note",
+                "x"
+              ],
+              "value": "#ch.29:31;[Ps. 127:3]"
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                106,
+                "p5",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "opened her womb."
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                "v022_ESV_GEN_030",
+                107,
+                "p5",
+                "verse",
+                "v22",
+                "plain_text"
+              ],
+              "value": "22 Then God remembered Rachel, and God listened to her and opened her womb."
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                108,
+                "p5",
+                "verse",
+                "v23",
+                "label"
+              ],
+              "value": "23"
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                109,
+                "p5",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "She conceived and bore a son and said, “God has taken away"
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                110,
+                "p5",
+                "verse",
+                "v23",
+                "note",
+                "x"
+              ],
+              "value": "#Luke 1:25;[1 Sam. 1:6;Isa. 4:1]"
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                111,
+                "p5",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "my reproach.”"
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                "v023_ESV_GEN_030",
+                112,
+                "p5",
+                "verse",
+                "v23",
+                "plain_text"
+              ],
+              "value": "23 She conceived and bore a son and said, “God has taken away my reproach.”"
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                113,
+                "p5",
+                "verse",
+                "v24",
+                "label"
+              ],
+              "value": "24"
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                114,
+                "p5",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "And she called his name Joseph,"
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                115,
+                "p5",
+                "verse",
+                "v24",
+                "note",
+                "f"
+              ],
+              "value": "#30:24JosephmeansMay he add, and sounds like the Hebrew fortaken away"
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                116,
+                "p5",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "saying,"
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                117,
+                "p5",
+                "verse",
+                "v24",
+                "note",
+                "x"
+              ],
+              "value": "#ch.35:17"
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                118,
+                "p5",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "“May the"
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                119,
+                "p5",
+                "verse",
+                "v24",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                120,
+                "p5",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "add to me another son!”"
+            },
+            {
+              "rowId": 121,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Jacob’s Prosperity"
+            },
+            {
+              "rowId": 122,
+              "keyParts": [
+                "v024_ESV_GEN_030",
+                122,
+                "p5",
+                "verse",
+                "v24",
+                "plain_text"
+              ],
+              "value": "24 And she called his name Joseph, saying, “May the Lord add to me another son!”"
+            },
+            {
+              "rowId": 123,
+              "keyParts": [
+                123,
+                "p6",
+                "verse",
+                "v25",
+                "label"
+              ],
+              "value": "25"
+            },
+            {
+              "rowId": 124,
+              "keyParts": [
+                124,
+                "p6",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "As soon as Rachel had borne Joseph, Jacob said to Laban, “Send me away, that I may go to my own home and country."
+            },
+            {
+              "rowId": 125,
+              "keyParts": [
+                "v025_ESV_GEN_030",
+                125,
+                "p6",
+                "verse",
+                "v25",
+                "plain_text"
+              ],
+              "value": "25 As soon as Rachel had borne Joseph, Jacob said to Laban, “Send me away, that I may go to my own home and country."
+            },
+            {
+              "rowId": 126,
+              "keyParts": [
+                126,
+                "p6",
+                "verse",
+                "v26",
+                "label"
+              ],
+              "value": "26"
+            },
+            {
+              "rowId": 127,
+              "keyParts": [
+                127,
+                "p6",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "Give me my wives and my children"
+            },
+            {
+              "rowId": 128,
+              "keyParts": [
+                128,
+                "p6",
+                "verse",
+                "v26",
+                "note",
+                "x"
+              ],
+              "value": "#ch.29:20,30"
+            },
+            {
+              "rowId": 129,
+              "keyParts": [
+                129,
+                "p6",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "for whom I have served you, that I may go, for you know the service that I have given you.”"
+            },
+            {
+              "rowId": 130,
+              "keyParts": [
+                "v026_ESV_GEN_030",
+                130,
+                "p6",
+                "verse",
+                "v26",
+                "plain_text"
+              ],
+              "value": "26 Give me my wives and my children for whom I have served you, that I may go, for you know the service that I have given you.”"
+            },
+            {
+              "rowId": 131,
+              "keyParts": [
+                131,
+                "p6",
+                "verse",
+                "v27",
+                "label"
+              ],
+              "value": "27"
+            },
+            {
+              "rowId": 132,
+              "keyParts": [
+                132,
+                "p6",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "But Laban said to him, “If I have found favor in your sight, I have learned by divination that"
+            },
+            {
+              "rowId": 133,
+              "keyParts": [
+                133,
+                "p6",
+                "verse",
+                "v27",
+                "note",
+                "f"
+              ],
+              "value": "#30:27Orhave become rich and"
+            },
+            {
+              "rowId": 134,
+              "keyParts": [
+                134,
+                "p6",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "the"
+            },
+            {
+              "rowId": 135,
+              "keyParts": [
+                135,
+                "p6",
+                "verse",
+                "v27",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 136,
+              "keyParts": [
+                136,
+                "p6",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "has blessed me because of you."
+            },
+            {
+              "rowId": 137,
+              "keyParts": [
+                "v027_ESV_GEN_030",
+                137,
+                "p6",
+                "verse",
+                "v27",
+                "plain_text"
+              ],
+              "value": "27 But Laban said to him, “If I have found favor in your sight, I have learned by divination that the Lord has blessed me because of you."
+            },
+            {
+              "rowId": 138,
+              "keyParts": [
+                138,
+                "p6",
+                "verse",
+                "v28",
+                "label"
+              ],
+              "value": "28"
+            },
+            {
+              "rowId": 139,
+              "keyParts": [
+                139,
+                "p6",
+                "verse",
+                "v28",
+                "note",
+                "x"
+              ],
+              "value": "#ch.29:15"
+            },
+            {
+              "rowId": 140,
+              "keyParts": [
+                140,
+                "p6",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "Name your wages, and I will give it.”"
+            },
+            {
+              "rowId": 141,
+              "keyParts": [
+                "v028_ESV_GEN_030",
+                141,
+                "p6",
+                "verse",
+                "v28",
+                "plain_text"
+              ],
+              "value": "28 Name your wages, and I will give it.”"
+            },
+            {
+              "rowId": 142,
+              "keyParts": [
+                142,
+                "p6",
+                "verse",
+                "v29",
+                "label"
+              ],
+              "value": "29"
+            },
+            {
+              "rowId": 143,
+              "keyParts": [
+                143,
+                "p6",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "Jacob said to him,"
+            },
+            {
+              "rowId": 144,
+              "keyParts": [
+                144,
+                "p6",
+                "verse",
+                "v29",
+                "note",
+                "x"
+              ],
+              "value": "#ch.31:6,38-40"
+            },
+            {
+              "rowId": 145,
+              "keyParts": [
+                145,
+                "p6",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "“You yourself know how I have served you, and how your livestock has fared with me."
+            },
+            {
+              "rowId": 146,
+              "keyParts": [
+                "v029_ESV_GEN_030",
+                146,
+                "p6",
+                "verse",
+                "v29",
+                "plain_text"
+              ],
+              "value": "29 Jacob said to him, “You yourself know how I have served you, and how your livestock has fared with me."
+            },
+            {
+              "rowId": 147,
+              "keyParts": [
+                147,
+                "p6",
+                "verse",
+                "v30",
+                "label"
+              ],
+              "value": "30"
+            },
+            {
+              "rowId": 148,
+              "keyParts": [
+                148,
+                "p6",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "For you had little before I came,"
+            },
+            {
+              "rowId": 149,
+              "keyParts": [
+                149,
+                "p6",
+                "verse",
+                "v30",
+                "note",
+                "x"
+              ],
+              "value": "#ver.43"
+            },
+            {
+              "rowId": 150,
+              "keyParts": [
+                150,
+                "p6",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "and it has increased abundantly, and the"
+            },
+            {
+              "rowId": 151,
+              "keyParts": [
+                151,
+                "p6",
+                "verse",
+                "v30",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 152,
+              "keyParts": [
+                152,
+                "p6",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "has blessed you wherever I turned. But now when shall I"
+            },
+            {
+              "rowId": 153,
+              "keyParts": [
+                153,
+                "p6",
+                "verse",
+                "v30",
+                "note",
+                "x"
+              ],
+              "value": "#[1 Tim. 5:8]"
+            },
+            {
+              "rowId": 154,
+              "keyParts": [
+                154,
+                "p6",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "provide for my own household also?”"
+            },
+            {
+              "rowId": 155,
+              "keyParts": [
+                "v030_ESV_GEN_030",
+                155,
+                "p6",
+                "verse",
+                "v30",
+                "plain_text"
+              ],
+              "value": "30 For you had little before I came, and it has increased abundantly, and the Lord has blessed you wherever I turned. But now when shall I provide for my own household also?”"
+            },
+            {
+              "rowId": 156,
+              "keyParts": [
+                156,
+                "p6",
+                "verse",
+                "v31",
+                "label"
+              ],
+              "value": "31"
+            },
+            {
+              "rowId": 157,
+              "keyParts": [
+                157,
+                "p6",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "He said, “What shall I give you?” Jacob said, “You shall not give me anything. If you will do this for me, I will again pasture your flock and keep it:"
+            },
+            {
+              "rowId": 158,
+              "keyParts": [
+                "v031_ESV_GEN_030",
+                158,
+                "p6",
+                "verse",
+                "v31",
+                "plain_text"
+              ],
+              "value": "31 He said, “What shall I give you?” Jacob said, “You shall not give me anything. If you will do this for me, I will again pasture your flock and keep it:"
+            },
+            {
+              "rowId": 159,
+              "keyParts": [
+                159,
+                "p6",
+                "verse",
+                "v32",
+                "label"
+              ],
+              "value": "32"
+            },
+            {
+              "rowId": 160,
+              "keyParts": [
+                160,
+                "p6",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "let me pass through all your flock today, removing from it every speckled and spotted sheep and every black lamb, and the spotted and speckled among the goats, and"
+            },
+            {
+              "rowId": 161,
+              "keyParts": [
+                161,
+                "p6",
+                "verse",
+                "v32",
+                "note",
+                "x"
+              ],
+              "value": "#ch.31:8"
+            },
+            {
+              "rowId": 162,
+              "keyParts": [
+                162,
+                "p6",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "they shall be my wages."
+            },
+            {
+              "rowId": 163,
+              "keyParts": [
+                "v032_ESV_GEN_030",
+                163,
+                "p6",
+                "verse",
+                "v32",
+                "plain_text"
+              ],
+              "value": "32 let me pass through all your flock today, removing from it every speckled and spotted sheep and every black lamb, and the spotted and speckled among the goats, and they shall be my wages."
+            },
+            {
+              "rowId": 164,
+              "keyParts": [
+                164,
+                "p6",
+                "verse",
+                "v33",
+                "label"
+              ],
+              "value": "33"
+            },
+            {
+              "rowId": 165,
+              "keyParts": [
+                165,
+                "p6",
+                "verse",
+                "v33",
+                "content"
+              ],
+              "value": "So my honesty will answer for me later, when you come to look into my wages with you. Every one that is not speckled and spotted among the goats and black among the lambs, if found with me, shall be counted stolen.”"
+            },
+            {
+              "rowId": 166,
+              "keyParts": [
+                "v033_ESV_GEN_030",
+                166,
+                "p6",
+                "verse",
+                "v33",
+                "plain_text"
+              ],
+              "value": "33 So my honesty will answer for me later, when you come to look into my wages with you. Every one that is not speckled and spotted among the goats and black among the lambs, if found with me, shall be counted stolen.”"
+            },
+            {
+              "rowId": 167,
+              "keyParts": [
+                167,
+                "p6",
+                "verse",
+                "v34",
+                "label"
+              ],
+              "value": "34"
+            },
+            {
+              "rowId": 168,
+              "keyParts": [
+                168,
+                "p6",
+                "verse",
+                "v34",
+                "content"
+              ],
+              "value": "Laban said, “Good! Let it be as you have said.”"
+            },
+            {
+              "rowId": 169,
+              "keyParts": [
+                "v034_ESV_GEN_030",
+                169,
+                "p6",
+                "verse",
+                "v34",
+                "plain_text"
+              ],
+              "value": "34 Laban said, “Good! Let it be as you have said.”"
+            },
+            {
+              "rowId": 170,
+              "keyParts": [
+                170,
+                "p6",
+                "verse",
+                "v35",
+                "label"
+              ],
+              "value": "35"
+            },
+            {
+              "rowId": 171,
+              "keyParts": [
+                171,
+                "p6",
+                "verse",
+                "v35",
+                "content"
+              ],
+              "value": "But that day Laban removed the male goats that were striped and spotted, and all the female goats that were speckled and spotted, every one that had white on it, and every lamb that was black, and put them in the charge of his sons."
+            },
+            {
+              "rowId": 172,
+              "keyParts": [
+                "v035_ESV_GEN_030",
+                172,
+                "p6",
+                "verse",
+                "v35",
+                "plain_text"
+              ],
+              "value": "35 But that day Laban removed the male goats that were striped and spotted, and all the female goats that were speckled and spotted, every one that had white on it, and every lamb that was black, and put them in the charge of his sons."
+            },
+            {
+              "rowId": 173,
+              "keyParts": [
+                173,
+                "p6",
+                "verse",
+                "v36",
+                "label"
+              ],
+              "value": "36"
+            },
+            {
+              "rowId": 174,
+              "keyParts": [
+                174,
+                "p6",
+                "verse",
+                "v36",
+                "content"
+              ],
+              "value": "And he set a distance of three days’ journey between himself and Jacob, and Jacob pastured the rest of Laban’s flock."
+            },
+            {
+              "rowId": 175,
+              "keyParts": [
+                "v036_ESV_GEN_030",
+                175,
+                "p6",
+                "verse",
+                "v36",
+                "plain_text"
+              ],
+              "value": "36 And he set a distance of three days’ journey between himself and Jacob, and Jacob pastured the rest of Laban’s flock."
+            },
+            {
+              "rowId": 176,
+              "keyParts": [
+                176,
+                "p7",
+                "verse",
+                "v37",
+                "label"
+              ],
+              "value": "37"
+            },
+            {
+              "rowId": 177,
+              "keyParts": [
+                177,
+                "p7",
+                "verse",
+                "v37",
+                "content"
+              ],
+              "value": "Then"
+            },
+            {
+              "rowId": 178,
+              "keyParts": [
+                178,
+                "p7",
+                "verse",
+                "v37",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.31:8-12"
+            },
+            {
+              "rowId": 179,
+              "keyParts": [
+                179,
+                "p7",
+                "verse",
+                "v37",
+                "content"
+              ],
+              "value": "Jacob took fresh sticks of poplar and almond and plane trees, and peeled white streaks in them, exposing the white of the sticks."
+            },
+            {
+              "rowId": 180,
+              "keyParts": [
+                "v037_ESV_GEN_030",
+                180,
+                "p7",
+                "verse",
+                "v37",
+                "plain_text"
+              ],
+              "value": "37 Then Jacob took fresh sticks of poplar and almond and plane trees, and peeled white streaks in them, exposing the white of the sticks."
+            },
+            {
+              "rowId": 181,
+              "keyParts": [
+                181,
+                "p7",
+                "verse",
+                "v38",
+                "label"
+              ],
+              "value": "38"
+            },
+            {
+              "rowId": 182,
+              "keyParts": [
+                182,
+                "p7",
+                "verse",
+                "v38",
+                "content"
+              ],
+              "value": "He set the sticks that he had peeled in front of the flocks in the troughs, that is, the"
+            },
+            {
+              "rowId": 183,
+              "keyParts": [
+                183,
+                "p7",
+                "verse",
+                "v38",
+                "note",
+                "x"
+              ],
+              "value": "#[Ex. 2:16]"
+            },
+            {
+              "rowId": 184,
+              "keyParts": [
+                184,
+                "p7",
+                "verse",
+                "v38",
+                "content"
+              ],
+              "value": "watering places, where the flocks came to drink. And since they bred when they came to drink,"
+            },
+            {
+              "rowId": 185,
+              "keyParts": [
+                "v038_ESV_GEN_030",
+                185,
+                "p7",
+                "verse",
+                "v38",
+                "plain_text"
+              ],
+              "value": "38 He set the sticks that he had peeled in front of the flocks in the troughs, that is, the watering places, where the flocks came to drink. And since they bred when they came to drink,"
+            },
+            {
+              "rowId": 186,
+              "keyParts": [
+                186,
+                "p7",
+                "verse",
+                "v39",
+                "label"
+              ],
+              "value": "39"
+            },
+            {
+              "rowId": 187,
+              "keyParts": [
+                187,
+                "p7",
+                "verse",
+                "v39",
+                "content"
+              ],
+              "value": "the flocks bred in front of the sticks and so the flocks brought forth striped, speckled, and spotted."
+            },
+            {
+              "rowId": 188,
+              "keyParts": [
+                "v039_ESV_GEN_030",
+                188,
+                "p7",
+                "verse",
+                "v39",
+                "plain_text"
+              ],
+              "value": "39 the flocks bred in front of the sticks and so the flocks brought forth striped, speckled, and spotted."
+            },
+            {
+              "rowId": 189,
+              "keyParts": [
+                189,
+                "p7",
+                "verse",
+                "v40",
+                "label"
+              ],
+              "value": "40"
+            },
+            {
+              "rowId": 190,
+              "keyParts": [
+                190,
+                "p7",
+                "verse",
+                "v40",
+                "content"
+              ],
+              "value": "And Jacob separated the lambs and set the faces of the flocks toward the striped and all the black in the flock of Laban. He put his own droves apart and did not put them with Laban’s flock."
+            },
+            {
+              "rowId": 191,
+              "keyParts": [
+                "v040_ESV_GEN_030",
+                191,
+                "p7",
+                "verse",
+                "v40",
+                "plain_text"
+              ],
+              "value": "40 And Jacob separated the lambs and set the faces of the flocks toward the striped and all the black in the flock of Laban. He put his own droves apart and did not put them with Laban’s flock."
+            },
+            {
+              "rowId": 192,
+              "keyParts": [
+                192,
+                "p7",
+                "verse",
+                "v41",
+                "label"
+              ],
+              "value": "41"
+            },
+            {
+              "rowId": 193,
+              "keyParts": [
+                193,
+                "p7",
+                "verse",
+                "v41",
+                "content"
+              ],
+              "value": "Whenever the stronger of the flock were breeding, Jacob would lay the sticks in the troughs before the eyes of the flock, that they might breed among the sticks,"
+            },
+            {
+              "rowId": 194,
+              "keyParts": [
+                "v041_ESV_GEN_030",
+                194,
+                "p7",
+                "verse",
+                "v41",
+                "plain_text"
+              ],
+              "value": "41 Whenever the stronger of the flock were breeding, Jacob would lay the sticks in the troughs before the eyes of the flock, that they might breed among the sticks,"
+            },
+            {
+              "rowId": 195,
+              "keyParts": [
+                195,
+                "p7",
+                "verse",
+                "v42",
+                "label"
+              ],
+              "value": "42"
+            },
+            {
+              "rowId": 196,
+              "keyParts": [
+                196,
+                "p7",
+                "verse",
+                "v42",
+                "content"
+              ],
+              "value": "but for the feebler of the flock he would not lay them there. So the feebler would be Laban’s, and the stronger Jacob’s."
+            },
+            {
+              "rowId": 197,
+              "keyParts": [
+                "v042_ESV_GEN_030",
+                197,
+                "p7",
+                "verse",
+                "v42",
+                "plain_text"
+              ],
+              "value": "42 but for the feebler of the flock he would not lay them there. So the feebler would be Laban’s, and the stronger Jacob’s."
+            },
+            {
+              "rowId": 198,
+              "keyParts": [
+                198,
+                "p7",
+                "verse",
+                "v43",
+                "label"
+              ],
+              "value": "43"
+            },
+            {
+              "rowId": 199,
+              "keyParts": [
+                199,
+                "p7",
+                "verse",
+                "v43",
+                "content"
+              ],
+              "value": "Thus the man"
+            },
+            {
+              "rowId": 200,
+              "keyParts": [
+                200,
+                "p7",
+                "verse",
+                "v43",
+                "note",
+                "x"
+              ],
+              "value": "#ver.30"
+            },
+            {
+              "rowId": 201,
+              "keyParts": [
+                201,
+                "p7",
+                "verse",
+                "v43",
+                "content"
+              ],
+              "value": "increased greatly and"
+            },
+            {
+              "rowId": 202,
+              "keyParts": [
+                202,
+                "p7",
+                "verse",
+                "v43",
+                "note",
+                "x"
+              ],
+              "value": "#ch.24:35;26:13,14"
+            },
+            {
+              "rowId": 203,
+              "keyParts": [
+                203,
+                "p7",
+                "verse",
+                "v43",
+                "content"
+              ],
+              "value": "had large flocks, female servants and male servants, and camels and donkeys."
+            },
+            {
+              "rowId": 204,
+              "keyParts": [
+                "v043_ESV_GEN_030",
+                204,
+                "p7",
+                "verse",
+                "v43",
+                "plain_text"
+              ],
+              "value": "43 Thus the man increased greatly and had large flocks, female servants and male servants, and camels and donkeys."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

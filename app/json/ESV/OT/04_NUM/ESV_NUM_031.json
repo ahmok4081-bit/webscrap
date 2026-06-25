@@ -1,0 +1,3119 @@
+{
+  "translationId": "ESV",
+  "name": "English Standard Version",
+  "abbreviation": "ESV",
+  "language": "English",
+  "copyright": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.",
+  "books": [
+    {
+      "bookId": "NUM",
+      "testament": "OT",
+      "order": 4,
+      "title": "Numbers",
+      "abbreviation": "NUM",
+      "chapters": [
+        {
+          "chapter": 31,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "31"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Vengeance on Midian"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "The"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "spoke to Moses, saying,"
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                "v001_ESV_NUM_031",
+                7,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 The Lord spoke to Moses, saying,"
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                9,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#ch.25:17"
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "“Avenge the people of Israel on the Midianites. Afterward you shall"
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                11,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.20:24"
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                12,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "be gathered to your people.”"
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                "v002_ESV_NUM_031",
+                13,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 “Avenge the people of Israel on the Midianites. Afterward you shall be gathered to your people.”"
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "p1",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                15,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "So Moses spoke to the people, saying, “Arm men from among you for the war, that they may go against Midian to execute the"
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                16,
+                "p1",
+                "verse",
+                "v3",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                17,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "’s vengeance on Midian."
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                "v003_ESV_NUM_031",
+                18,
+                "p1",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 So Moses spoke to the people, saying, “Arm men from among you for the war, that they may go against Midian to execute the Lord ’s vengeance on Midian."
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p1",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                20,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "You shall send a thousand from each of the tribes of Israel to the war.”"
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                "v004_ESV_NUM_031",
+                21,
+                "p1",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 You shall send a thousand from each of the tribes of Israel to the war.”"
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                22,
+                "p1",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "So there were provided, out of the thousands of Israel, a thousand from each tribe, twelve thousand"
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                24,
+                "p1",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#ch.32:27;Josh. 4:13"
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "armed for war."
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                "v005_ESV_NUM_031",
+                26,
+                "p1",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 So there were provided, out of the thousands of Israel, a thousand from each tribe, twelve thousand armed for war."
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                27,
+                "p1",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                28,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "And Moses sent them to the war, a thousand from each tribe, together with Phinehas the son of Eleazar the priest, with the vessels of the sanctuary and"
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                29,
+                "p1",
+                "verse",
+                "v6",
+                "note",
+                "x"
+              ],
+              "value": "#ch.10:6,9;Lev. 23:24"
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                30,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "the trumpets for the alarm in his hand."
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                "v006_ESV_NUM_031",
+                31,
+                "p1",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 And Moses sent them to the war, a thousand from each tribe, together with Phinehas the son of Eleazar the priest, with the vessels of the sanctuary and the trumpets for the alarm in his hand."
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "p1",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                33,
+                "p1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "They warred against Midian, as the"
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                34,
+                "p1",
+                "verse",
+                "v7",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                35,
+                "p1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "commanded Moses, and"
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "p1",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#[Deut. 20:13;Judg. 21:11;1 Sam. 27:9;1 Kgs. 11:15,16]"
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                37,
+                "p1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "killed every male."
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                "v007_ESV_NUM_031",
+                38,
+                "p1",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 They warred against Midian, as the Lord commanded Moses, and killed every male."
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                39,
+                "p1",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                40,
+                "p1",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "They killed the kings of Midian with the rest of their slain,"
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p1",
+                "verse",
+                "v8",
+                "note",
+                "x"
+              ],
+              "value": "#Josh. 13:21"
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "p1",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "Evi, Rekem,"
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                43,
+                "p1",
+                "verse",
+                "v8",
+                "note",
+                "x"
+              ],
+              "value": "#ch.25:15"
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                44,
+                "p1",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "Zur, Hur, and Reba, the five kings of Midian. And they also killed"
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                45,
+                "p1",
+                "verse",
+                "v8",
+                "note",
+                "x"
+              ],
+              "value": "#Josh. 13:22"
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                46,
+                "p1",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "Balaam the son of Beor with the sword."
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                "v008_ESV_NUM_031",
+                47,
+                "p1",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 They killed the kings of Midian with the rest of their slain, Evi, Rekem, Zur, Hur, and Reba, the five kings of Midian. And they also killed Balaam the son of Beor with the sword."
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                48,
+                "p1",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                49,
+                "p1",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "And the people of Israel took captive the women of Midian and their little ones, and they took as plunder all their cattle, their flocks, and all their goods."
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                "v009_ESV_NUM_031",
+                50,
+                "p1",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 And the people of Israel took captive the women of Midian and their little ones, and they took as plunder all their cattle, their flocks, and all their goods."
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                51,
+                "p1",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                52,
+                "p1",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "All their cities in the places where they lived, and all their"
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                53,
+                "p1",
+                "verse",
+                "v10",
+                "note",
+                "x"
+              ],
+              "value": "#Gen. 25:16"
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                54,
+                "p1",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "encampments, they burned with fire,"
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                "v010_ESV_NUM_031",
+                55,
+                "p1",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 All their cities in the places where they lived, and all their encampments, they burned with fire,"
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                56,
+                "p1",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                57,
+                "p1",
+                "verse",
+                "v11",
+                "note",
+                "x"
+              ],
+              "value": "#[Deut. 20:14;Josh. 8:2]"
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                58,
+                "p1",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "and took all the spoil and all the plunder, both of man and of beast."
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                "v011_ESV_NUM_031",
+                59,
+                "p1",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 and took all the spoil and all the plunder, both of man and of beast."
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                60,
+                "p1",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                61,
+                "p1",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "Then they brought the captives and the plunder and the spoil to Moses, and to Eleazar the priest, and to the congregation of the people of Israel, at the camp on"
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                62,
+                "p1",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.22:1"
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                63,
+                "p1",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "the plains of Moab by the Jordan at Jericho."
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                "v012_ESV_NUM_031",
+                64,
+                "p1",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 Then they brought the captives and the plunder and the spoil to Moses, and to Eleazar the priest, and to the congregation of the people of Israel, at the camp on the plains of Moab by the Jordan at Jericho."
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                65,
+                "p2",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                66,
+                "p2",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "Moses and Eleazar the priest and all the chiefs of the congregation went to meet them outside the camp."
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                "v013_ESV_NUM_031",
+                67,
+                "p2",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 Moses and Eleazar the priest and all the chiefs of the congregation went to meet them outside the camp."
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                68,
+                "p2",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                69,
+                "p2",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "And Moses was angry with"
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                70,
+                "p2",
+                "verse",
+                "v14",
+                "note",
+                "x"
+              ],
+              "value": "#ver.48"
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                71,
+                "p2",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "the officers of the army, the commanders of thousands and the commanders of hundreds, who had come from service in the war."
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                "v014_ESV_NUM_031",
+                72,
+                "p2",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 And Moses was angry with the officers of the army, the commanders of thousands and the commanders of hundreds, who had come from service in the war."
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                73,
+                "p2",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                74,
+                "p2",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "Moses said to them, “Have you"
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                75,
+                "p2",
+                "verse",
+                "v15",
+                "note",
+                "x"
+              ],
+              "value": "#[1 Sam. 15:3]"
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                76,
+                "p2",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "let all the women live?"
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                "v015_ESV_NUM_031",
+                77,
+                "p2",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 Moses said to them, “Have you let all the women live?"
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                78,
+                "p2",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                79,
+                "p2",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "Behold,"
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                80,
+                "p2",
+                "verse",
+                "v16",
+                "note",
+                "x"
+              ],
+              "value": "#ch.25:2"
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                81,
+                "p2",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "these,"
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                82,
+                "p2",
+                "verse",
+                "v16",
+                "note",
+                "x"
+              ],
+              "value": "#ch.24:14;2 Pet. 2:15;Rev. 2:14"
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                83,
+                "p2",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "on Balaam’s advice, caused the people of Israel to act treacherously against the"
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                84,
+                "p2",
+                "verse",
+                "v16",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                85,
+                "p2",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "in the incident of"
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                86,
+                "p2",
+                "verse",
+                "v16",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.23:28"
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                87,
+                "p2",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "Peor, and so"
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                88,
+                "p2",
+                "verse",
+                "v16",
+                "note",
+                "x"
+              ],
+              "value": "#ch.25:9"
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                89,
+                "p2",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "the plague came among the congregation of the"
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                90,
+                "p2",
+                "verse",
+                "v16",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                91,
+                "p2",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "."
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                "v016_ESV_NUM_031",
+                92,
+                "p2",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 Behold, these, on Balaam’s advice, caused the people of Israel to act treacherously against the Lord in the incident of Peor, and so the plague came among the congregation of the Lord ."
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                93,
+                "p2",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                94,
+                "p2",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "Now therefore,"
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                95,
+                "p2",
+                "verse",
+                "v17",
+                "note",
+                "x"
+              ],
+              "value": "#Judg. 21:11,12"
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                96,
+                "p2",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "kill every male among the little ones, and kill every woman who has known man by lying with him."
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                "v017_ESV_NUM_031",
+                97,
+                "p2",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 Now therefore, kill every male among the little ones, and kill every woman who has known man by lying with him."
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                98,
+                "p2",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                99,
+                "p2",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "But all the young girls who have not known man by lying with him"
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                100,
+                "p2",
+                "verse",
+                "v18",
+                "note",
+                "x"
+              ],
+              "value": "#SeeDeut. 21:10-14"
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                101,
+                "p2",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "keep alive for yourselves."
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                "v018_ESV_NUM_031",
+                102,
+                "p2",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 But all the young girls who have not known man by lying with him keep alive for yourselves."
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                103,
+                "p2",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                104,
+                "p2",
+                "verse",
+                "v19",
+                "note",
+                "x"
+              ],
+              "value": "#ch.5:2"
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                105,
+                "p2",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "Encamp outside the camp seven days. Whoever of you has killed any person and"
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                106,
+                "p2",
+                "verse",
+                "v19",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.19:12,22"
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                107,
+                "p2",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "whoever has touched any slain, purify yourselves and your captives on the third day and on the seventh day."
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                "v019_ESV_NUM_031",
+                108,
+                "p2",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 Encamp outside the camp seven days. Whoever of you has killed any person and whoever has touched any slain, purify yourselves and your captives on the third day and on the seventh day."
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                109,
+                "p2",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                110,
+                "p2",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "You shall purify every garment, every article of skin, all work of goats’ hair, and every article of wood.”"
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                "v020_ESV_NUM_031",
+                111,
+                "p2",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 You shall purify every garment, every article of skin, all work of goats’ hair, and every article of wood.”"
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                112,
+                "p3",
+                "verse",
+                "v21",
+                "label"
+              ],
+              "value": "21"
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                113,
+                "p3",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "Then Eleazar the priest said to the men in the army who had gone to battle: “This is the statute of the law that the"
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                114,
+                "p3",
+                "verse",
+                "v21",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                115,
+                "p3",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "has commanded Moses:"
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                "v021_ESV_NUM_031",
+                116,
+                "p3",
+                "verse",
+                "v21",
+                "plain_text"
+              ],
+              "value": "21 Then Eleazar the priest said to the men in the army who had gone to battle: “This is the statute of the law that the Lord has commanded Moses:"
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                117,
+                "p3",
+                "verse",
+                "v22",
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                118,
+                "p3",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "only the gold, the silver, the bronze, the iron, the tin, and the lead,"
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                "v022_ESV_NUM_031",
+                119,
+                "p3",
+                "verse",
+                "v22",
+                "plain_text"
+              ],
+              "value": "22 only the gold, the silver, the bronze, the iron, the tin, and the lead,"
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                120,
+                "p3",
+                "verse",
+                "v23",
+                "label"
+              ],
+              "value": "23"
+            },
+            {
+              "rowId": 121,
+              "keyParts": [
+                121,
+                "p3",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "everything that can stand the fire, you shall pass through the fire, and it shall be clean. Nevertheless, it shall also be purified"
+            },
+            {
+              "rowId": 122,
+              "keyParts": [
+                122,
+                "p3",
+                "verse",
+                "v23",
+                "note",
+                "x"
+              ],
+              "value": "#ch.19:9"
+            },
+            {
+              "rowId": 123,
+              "keyParts": [
+                123,
+                "p3",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "with the water for impurity. And whatever cannot stand the fire, you shall pass through the water."
+            },
+            {
+              "rowId": 124,
+              "keyParts": [
+                "v023_ESV_NUM_031",
+                124,
+                "p3",
+                "verse",
+                "v23",
+                "plain_text"
+              ],
+              "value": "23 everything that can stand the fire, you shall pass through the fire, and it shall be clean. Nevertheless, it shall also be purified with the water for impurity. And whatever cannot stand the fire, you shall pass through the water."
+            },
+            {
+              "rowId": 125,
+              "keyParts": [
+                125,
+                "p3",
+                "verse",
+                "v24",
+                "label"
+              ],
+              "value": "24"
+            },
+            {
+              "rowId": 126,
+              "keyParts": [
+                126,
+                "p3",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "You must"
+            },
+            {
+              "rowId": 127,
+              "keyParts": [
+                127,
+                "p3",
+                "verse",
+                "v24",
+                "note",
+                "x"
+              ],
+              "value": "#SeeLev. 11:25"
+            },
+            {
+              "rowId": 128,
+              "keyParts": [
+                128,
+                "p3",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "wash your clothes on the seventh day, and you shall be clean. And afterward you may come into the camp.”"
+            },
+            {
+              "rowId": 129,
+              "keyParts": [
+                "v024_ESV_NUM_031",
+                129,
+                "p3",
+                "verse",
+                "v24",
+                "plain_text"
+              ],
+              "value": "24 You must wash your clothes on the seventh day, and you shall be clean. And afterward you may come into the camp.”"
+            },
+            {
+              "rowId": 130,
+              "keyParts": [
+                130,
+                "p4",
+                "verse",
+                "v25",
+                "label"
+              ],
+              "value": "25"
+            },
+            {
+              "rowId": 131,
+              "keyParts": [
+                131,
+                "p4",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "The"
+            },
+            {
+              "rowId": 132,
+              "keyParts": [
+                132,
+                "p4",
+                "verse",
+                "v25",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 133,
+              "keyParts": [
+                133,
+                "p4",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "said to Moses,"
+            },
+            {
+              "rowId": 134,
+              "keyParts": [
+                "v025_ESV_NUM_031",
+                134,
+                "p4",
+                "verse",
+                "v25",
+                "plain_text"
+              ],
+              "value": "25 The Lord said to Moses,"
+            },
+            {
+              "rowId": 135,
+              "keyParts": [
+                135,
+                "p4",
+                "verse",
+                "v26",
+                "label"
+              ],
+              "value": "26"
+            },
+            {
+              "rowId": 136,
+              "keyParts": [
+                136,
+                "p4",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "“Take the count of the plunder that was taken, both of man and of beast, you and Eleazar the priest and the heads of the fathers’ houses of the congregation,"
+            },
+            {
+              "rowId": 137,
+              "keyParts": [
+                "v026_ESV_NUM_031",
+                137,
+                "p4",
+                "verse",
+                "v26",
+                "plain_text"
+              ],
+              "value": "26 “Take the count of the plunder that was taken, both of man and of beast, you and Eleazar the priest and the heads of the fathers’ houses of the congregation,"
+            },
+            {
+              "rowId": 138,
+              "keyParts": [
+                138,
+                "p4",
+                "verse",
+                "v27",
+                "label"
+              ],
+              "value": "27"
+            },
+            {
+              "rowId": 139,
+              "keyParts": [
+                139,
+                "p4",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "and"
+            },
+            {
+              "rowId": 140,
+              "keyParts": [
+                140,
+                "p4",
+                "verse",
+                "v27",
+                "note",
+                "x"
+              ],
+              "value": "#Josh. 22:8;1 Sam. 30:24"
+            },
+            {
+              "rowId": 141,
+              "keyParts": [
+                141,
+                "p4",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "divide the plunder into two parts between the warriors who went out to battle and all the congregation."
+            },
+            {
+              "rowId": 142,
+              "keyParts": [
+                "v027_ESV_NUM_031",
+                142,
+                "p4",
+                "verse",
+                "v27",
+                "plain_text"
+              ],
+              "value": "27 and divide the plunder into two parts between the warriors who went out to battle and all the congregation."
+            },
+            {
+              "rowId": 143,
+              "keyParts": [
+                143,
+                "p4",
+                "verse",
+                "v28",
+                "label"
+              ],
+              "value": "28"
+            },
+            {
+              "rowId": 144,
+              "keyParts": [
+                144,
+                "p4",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "And levy for the"
+            },
+            {
+              "rowId": 145,
+              "keyParts": [
+                145,
+                "p4",
+                "verse",
+                "v28",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 146,
+              "keyParts": [
+                146,
+                "p4",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "a tribute from the men of war who went out to battle,"
+            },
+            {
+              "rowId": 147,
+              "keyParts": [
+                147,
+                "p4",
+                "verse",
+                "v28",
+                "note",
+                "x"
+              ],
+              "value": "#[ch.18:26]; See ver. 30-41, 47"
+            },
+            {
+              "rowId": 148,
+              "keyParts": [
+                148,
+                "p4",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "one out of five hundred, of the people and of the oxen and of the donkeys and of the flocks."
+            },
+            {
+              "rowId": 149,
+              "keyParts": [
+                "v028_ESV_NUM_031",
+                149,
+                "p4",
+                "verse",
+                "v28",
+                "plain_text"
+              ],
+              "value": "28 And levy for the Lord a tribute from the men of war who went out to battle, one out of five hundred, of the people and of the oxen and of the donkeys and of the flocks."
+            },
+            {
+              "rowId": 150,
+              "keyParts": [
+                150,
+                "p4",
+                "verse",
+                "v29",
+                "label"
+              ],
+              "value": "29"
+            },
+            {
+              "rowId": 151,
+              "keyParts": [
+                151,
+                "p4",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "Take it from their half and give it to Eleazar the priest as a contribution to the"
+            },
+            {
+              "rowId": 152,
+              "keyParts": [
+                152,
+                "p4",
+                "verse",
+                "v29",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 153,
+              "keyParts": [
+                153,
+                "p4",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "."
+            },
+            {
+              "rowId": 154,
+              "keyParts": [
+                "v029_ESV_NUM_031",
+                154,
+                "p4",
+                "verse",
+                "v29",
+                "plain_text"
+              ],
+              "value": "29 Take it from their half and give it to Eleazar the priest as a contribution to the Lord ."
+            },
+            {
+              "rowId": 155,
+              "keyParts": [
+                155,
+                "p4",
+                "verse",
+                "v30",
+                "label"
+              ],
+              "value": "30"
+            },
+            {
+              "rowId": 156,
+              "keyParts": [
+                156,
+                "p4",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "And from the people of Israel’s half you shall take"
+            },
+            {
+              "rowId": 157,
+              "keyParts": [
+                157,
+                "p4",
+                "verse",
+                "v30",
+                "note",
+                "x"
+              ],
+              "value": "#See ver.42-47"
+            },
+            {
+              "rowId": 158,
+              "keyParts": [
+                158,
+                "p4",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "one drawn out of every fifty, of the people, of the oxen, of the donkeys, and of the flocks, of all the cattle, and give them to the Levites"
+            },
+            {
+              "rowId": 159,
+              "keyParts": [
+                159,
+                "p4",
+                "verse",
+                "v30",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.1:53"
+            },
+            {
+              "rowId": 160,
+              "keyParts": [
+                160,
+                "p4",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "who keep guard over the tabernacle of the"
+            },
+            {
+              "rowId": 161,
+              "keyParts": [
+                161,
+                "p4",
+                "verse",
+                "v30",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 162,
+              "keyParts": [
+                162,
+                "p4",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": ".”"
+            },
+            {
+              "rowId": 163,
+              "keyParts": [
+                "v030_ESV_NUM_031",
+                163,
+                "p4",
+                "verse",
+                "v30",
+                "plain_text"
+              ],
+              "value": "30 And from the people of Israel’s half you shall take one drawn out of every fifty, of the people, of the oxen, of the donkeys, and of the flocks, of all the cattle, and give them to the Levites who keep guard over the tabernacle of the Lord .”"
+            },
+            {
+              "rowId": 164,
+              "keyParts": [
+                164,
+                "p4",
+                "verse",
+                "v31",
+                "label"
+              ],
+              "value": "31"
+            },
+            {
+              "rowId": 165,
+              "keyParts": [
+                165,
+                "p4",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "And Moses and Eleazar the priest did as the"
+            },
+            {
+              "rowId": 166,
+              "keyParts": [
+                166,
+                "p4",
+                "verse",
+                "v31",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 167,
+              "keyParts": [
+                167,
+                "p4",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "commanded Moses."
+            },
+            {
+              "rowId": 168,
+              "keyParts": [
+                "v031_ESV_NUM_031",
+                168,
+                "p4",
+                "verse",
+                "v31",
+                "plain_text"
+              ],
+              "value": "31 And Moses and Eleazar the priest did as the Lord commanded Moses."
+            },
+            {
+              "rowId": 169,
+              "keyParts": [
+                169,
+                "p5",
+                "verse",
+                "v32",
+                "label"
+              ],
+              "value": "32"
+            },
+            {
+              "rowId": 170,
+              "keyParts": [
+                170,
+                "p5",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "Now the plunder remaining of the spoil that the army took was 675,000 sheep,"
+            },
+            {
+              "rowId": 171,
+              "keyParts": [
+                "v032_ESV_NUM_031",
+                171,
+                "p5",
+                "verse",
+                "v32",
+                "plain_text"
+              ],
+              "value": "32 Now the plunder remaining of the spoil that the army took was 675,000 sheep,"
+            },
+            {
+              "rowId": 172,
+              "keyParts": [
+                172,
+                "p5",
+                "verse",
+                "v33",
+                "label"
+              ],
+              "value": "33"
+            },
+            {
+              "rowId": 173,
+              "keyParts": [
+                173,
+                "p5",
+                "verse",
+                "v33",
+                "content"
+              ],
+              "value": "72,000 cattle,"
+            },
+            {
+              "rowId": 174,
+              "keyParts": [
+                "v033_ESV_NUM_031",
+                174,
+                "p5",
+                "verse",
+                "v33",
+                "plain_text"
+              ],
+              "value": "33 72,000 cattle,"
+            },
+            {
+              "rowId": 175,
+              "keyParts": [
+                175,
+                "p5",
+                "verse",
+                "v34",
+                "label"
+              ],
+              "value": "34"
+            },
+            {
+              "rowId": 176,
+              "keyParts": [
+                176,
+                "p5",
+                "verse",
+                "v34",
+                "content"
+              ],
+              "value": "61,000 donkeys,"
+            },
+            {
+              "rowId": 177,
+              "keyParts": [
+                "v034_ESV_NUM_031",
+                177,
+                "p5",
+                "verse",
+                "v34",
+                "plain_text"
+              ],
+              "value": "34 61,000 donkeys,"
+            },
+            {
+              "rowId": 178,
+              "keyParts": [
+                178,
+                "p5",
+                "verse",
+                "v35",
+                "label"
+              ],
+              "value": "35"
+            },
+            {
+              "rowId": 179,
+              "keyParts": [
+                179,
+                "p5",
+                "verse",
+                "v35",
+                "content"
+              ],
+              "value": "and 32,000 persons in all, women who had not known man by lying with him."
+            },
+            {
+              "rowId": 180,
+              "keyParts": [
+                "v035_ESV_NUM_031",
+                180,
+                "p5",
+                "verse",
+                "v35",
+                "plain_text"
+              ],
+              "value": "35 and 32,000 persons in all, women who had not known man by lying with him."
+            },
+            {
+              "rowId": 181,
+              "keyParts": [
+                181,
+                "p5",
+                "verse",
+                "v36",
+                "label"
+              ],
+              "value": "36"
+            },
+            {
+              "rowId": 182,
+              "keyParts": [
+                182,
+                "p5",
+                "verse",
+                "v36",
+                "content"
+              ],
+              "value": "And the half, the portion of those who had gone out in the army, numbered 337,500 sheep,"
+            },
+            {
+              "rowId": 183,
+              "keyParts": [
+                "v036_ESV_NUM_031",
+                183,
+                "p5",
+                "verse",
+                "v36",
+                "plain_text"
+              ],
+              "value": "36 And the half, the portion of those who had gone out in the army, numbered 337,500 sheep,"
+            },
+            {
+              "rowId": 184,
+              "keyParts": [
+                184,
+                "p5",
+                "verse",
+                "v37",
+                "label"
+              ],
+              "value": "37"
+            },
+            {
+              "rowId": 185,
+              "keyParts": [
+                185,
+                "p5",
+                "verse",
+                "v37",
+                "content"
+              ],
+              "value": "and"
+            },
+            {
+              "rowId": 186,
+              "keyParts": [
+                186,
+                "p5",
+                "verse",
+                "v37",
+                "note",
+                "x"
+              ],
+              "value": "#ver.28"
+            },
+            {
+              "rowId": 187,
+              "keyParts": [
+                187,
+                "p5",
+                "verse",
+                "v37",
+                "content"
+              ],
+              "value": "the"
+            },
+            {
+              "rowId": 188,
+              "keyParts": [
+                188,
+                "p5",
+                "verse",
+                "v37",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 189,
+              "keyParts": [
+                189,
+                "p5",
+                "verse",
+                "v37",
+                "content"
+              ],
+              "value": "’s tribute of sheep was 675."
+            },
+            {
+              "rowId": 190,
+              "keyParts": [
+                "v037_ESV_NUM_031",
+                190,
+                "p5",
+                "verse",
+                "v37",
+                "plain_text"
+              ],
+              "value": "37 and the Lord ’s tribute of sheep was 675."
+            },
+            {
+              "rowId": 191,
+              "keyParts": [
+                191,
+                "p5",
+                "verse",
+                "v38",
+                "label"
+              ],
+              "value": "38"
+            },
+            {
+              "rowId": 192,
+              "keyParts": [
+                192,
+                "p5",
+                "verse",
+                "v38",
+                "content"
+              ],
+              "value": "The cattle were 36,000, of which the"
+            },
+            {
+              "rowId": 193,
+              "keyParts": [
+                193,
+                "p5",
+                "verse",
+                "v38",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 194,
+              "keyParts": [
+                194,
+                "p5",
+                "verse",
+                "v38",
+                "content"
+              ],
+              "value": "’s tribute was 72."
+            },
+            {
+              "rowId": 195,
+              "keyParts": [
+                "v038_ESV_NUM_031",
+                195,
+                "p5",
+                "verse",
+                "v38",
+                "plain_text"
+              ],
+              "value": "38 The cattle were 36,000, of which the Lord ’s tribute was 72."
+            },
+            {
+              "rowId": 196,
+              "keyParts": [
+                196,
+                "p5",
+                "verse",
+                "v39",
+                "label"
+              ],
+              "value": "39"
+            },
+            {
+              "rowId": 197,
+              "keyParts": [
+                197,
+                "p5",
+                "verse",
+                "v39",
+                "content"
+              ],
+              "value": "The donkeys were 30,500, of which the"
+            },
+            {
+              "rowId": 198,
+              "keyParts": [
+                198,
+                "p5",
+                "verse",
+                "v39",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 199,
+              "keyParts": [
+                199,
+                "p5",
+                "verse",
+                "v39",
+                "content"
+              ],
+              "value": "’s tribute was 61."
+            },
+            {
+              "rowId": 200,
+              "keyParts": [
+                "v039_ESV_NUM_031",
+                200,
+                "p5",
+                "verse",
+                "v39",
+                "plain_text"
+              ],
+              "value": "39 The donkeys were 30,500, of which the Lord ’s tribute was 61."
+            },
+            {
+              "rowId": 201,
+              "keyParts": [
+                201,
+                "p5",
+                "verse",
+                "v40",
+                "label"
+              ],
+              "value": "40"
+            },
+            {
+              "rowId": 202,
+              "keyParts": [
+                202,
+                "p5",
+                "verse",
+                "v40",
+                "content"
+              ],
+              "value": "The persons were 16,000, of which the"
+            },
+            {
+              "rowId": 203,
+              "keyParts": [
+                203,
+                "p5",
+                "verse",
+                "v40",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 204,
+              "keyParts": [
+                204,
+                "p5",
+                "verse",
+                "v40",
+                "content"
+              ],
+              "value": "’s tribute was 32 persons."
+            },
+            {
+              "rowId": 205,
+              "keyParts": [
+                "v040_ESV_NUM_031",
+                205,
+                "p5",
+                "verse",
+                "v40",
+                "plain_text"
+              ],
+              "value": "40 The persons were 16,000, of which the Lord ’s tribute was 32 persons."
+            },
+            {
+              "rowId": 206,
+              "keyParts": [
+                206,
+                "p5",
+                "verse",
+                "v41",
+                "label"
+              ],
+              "value": "41"
+            },
+            {
+              "rowId": 207,
+              "keyParts": [
+                207,
+                "p5",
+                "verse",
+                "v41",
+                "content"
+              ],
+              "value": "And Moses gave the tribute, which was the contribution for the"
+            },
+            {
+              "rowId": 208,
+              "keyParts": [
+                208,
+                "p5",
+                "verse",
+                "v41",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 209,
+              "keyParts": [
+                209,
+                "p5",
+                "verse",
+                "v41",
+                "content"
+              ],
+              "value": ", to Eleazar the priest,"
+            },
+            {
+              "rowId": 210,
+              "keyParts": [
+                210,
+                "p5",
+                "verse",
+                "v41",
+                "note",
+                "x"
+              ],
+              "value": "#[ch.18:8,19]"
+            },
+            {
+              "rowId": 211,
+              "keyParts": [
+                211,
+                "p5",
+                "verse",
+                "v41",
+                "content"
+              ],
+              "value": "as the"
+            },
+            {
+              "rowId": 212,
+              "keyParts": [
+                212,
+                "p5",
+                "verse",
+                "v41",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 213,
+              "keyParts": [
+                213,
+                "p5",
+                "verse",
+                "v41",
+                "content"
+              ],
+              "value": "commanded Moses."
+            },
+            {
+              "rowId": 214,
+              "keyParts": [
+                "v041_ESV_NUM_031",
+                214,
+                "p5",
+                "verse",
+                "v41",
+                "plain_text"
+              ],
+              "value": "41 And Moses gave the tribute, which was the contribution for the Lord , to Eleazar the priest, as the Lord commanded Moses."
+            },
+            {
+              "rowId": 215,
+              "keyParts": [
+                215,
+                "p6",
+                "verse",
+                "v42",
+                "label"
+              ],
+              "value": "42"
+            },
+            {
+              "rowId": 216,
+              "keyParts": [
+                216,
+                "p6",
+                "verse",
+                "v42",
+                "content"
+              ],
+              "value": "From the people of Israel’s half, which Moses separated from that of the men who had served in the army—"
+            },
+            {
+              "rowId": 217,
+              "keyParts": [
+                "v042_ESV_NUM_031",
+                217,
+                "p6",
+                "verse",
+                "v42",
+                "plain_text"
+              ],
+              "value": "42 From the people of Israel’s half, which Moses separated from that of the men who had served in the army—"
+            },
+            {
+              "rowId": 218,
+              "keyParts": [
+                218,
+                "p6",
+                "verse",
+                "v43",
+                "label"
+              ],
+              "value": "43"
+            },
+            {
+              "rowId": 219,
+              "keyParts": [
+                219,
+                "p6",
+                "verse",
+                "v43",
+                "content"
+              ],
+              "value": "now the congregation’s half was 337,500 sheep,"
+            },
+            {
+              "rowId": 220,
+              "keyParts": [
+                "v043_ESV_NUM_031",
+                220,
+                "p6",
+                "verse",
+                "v43",
+                "plain_text"
+              ],
+              "value": "43 now the congregation’s half was 337,500 sheep,"
+            },
+            {
+              "rowId": 221,
+              "keyParts": [
+                221,
+                "p6",
+                "verse",
+                "v44",
+                "label"
+              ],
+              "value": "44"
+            },
+            {
+              "rowId": 222,
+              "keyParts": [
+                222,
+                "p6",
+                "verse",
+                "v44",
+                "content"
+              ],
+              "value": "36,000 cattle,"
+            },
+            {
+              "rowId": 223,
+              "keyParts": [
+                "v044_ESV_NUM_031",
+                223,
+                "p6",
+                "verse",
+                "v44",
+                "plain_text"
+              ],
+              "value": "44 36,000 cattle,"
+            },
+            {
+              "rowId": 224,
+              "keyParts": [
+                224,
+                "p6",
+                "verse",
+                "v45",
+                "label"
+              ],
+              "value": "45"
+            },
+            {
+              "rowId": 225,
+              "keyParts": [
+                225,
+                "p6",
+                "verse",
+                "v45",
+                "content"
+              ],
+              "value": "and 30,500 donkeys,"
+            },
+            {
+              "rowId": 226,
+              "keyParts": [
+                "v045_ESV_NUM_031",
+                226,
+                "p6",
+                "verse",
+                "v45",
+                "plain_text"
+              ],
+              "value": "45 and 30,500 donkeys,"
+            },
+            {
+              "rowId": 227,
+              "keyParts": [
+                227,
+                "p6",
+                "verse",
+                "v46",
+                "label"
+              ],
+              "value": "46"
+            },
+            {
+              "rowId": 228,
+              "keyParts": [
+                228,
+                "p6",
+                "verse",
+                "v46",
+                "content"
+              ],
+              "value": "and 16,000 persons—"
+            },
+            {
+              "rowId": 229,
+              "keyParts": [
+                "v046_ESV_NUM_031",
+                229,
+                "p6",
+                "verse",
+                "v46",
+                "plain_text"
+              ],
+              "value": "46 and 16,000 persons—"
+            },
+            {
+              "rowId": 230,
+              "keyParts": [
+                230,
+                "p6",
+                "verse",
+                "v47",
+                "label"
+              ],
+              "value": "47"
+            },
+            {
+              "rowId": 231,
+              "keyParts": [
+                231,
+                "p6",
+                "verse",
+                "v47",
+                "note",
+                "x"
+              ],
+              "value": "#ver.30"
+            },
+            {
+              "rowId": 232,
+              "keyParts": [
+                232,
+                "p6",
+                "verse",
+                "v47",
+                "content"
+              ],
+              "value": "from the people of Israel’s half Moses took one of every 50, both of persons and of beasts, and gave them to the Levites who kept guard over the tabernacle of the"
+            },
+            {
+              "rowId": 233,
+              "keyParts": [
+                233,
+                "p6",
+                "verse",
+                "v47",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 234,
+              "keyParts": [
+                234,
+                "p6",
+                "verse",
+                "v47",
+                "content"
+              ],
+              "value": ", as the"
+            },
+            {
+              "rowId": 235,
+              "keyParts": [
+                235,
+                "p6",
+                "verse",
+                "v47",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 236,
+              "keyParts": [
+                236,
+                "p6",
+                "verse",
+                "v47",
+                "content"
+              ],
+              "value": "commanded Moses."
+            },
+            {
+              "rowId": 237,
+              "keyParts": [
+                "v047_ESV_NUM_031",
+                237,
+                "p6",
+                "verse",
+                "v47",
+                "plain_text"
+              ],
+              "value": "47 from the people of Israel’s half Moses took one of every 50, both of persons and of beasts, and gave them to the Levites who kept guard over the tabernacle of the Lord , as the Lord commanded Moses."
+            },
+            {
+              "rowId": 238,
+              "keyParts": [
+                238,
+                "p7",
+                "verse",
+                "v48",
+                "label"
+              ],
+              "value": "48"
+            },
+            {
+              "rowId": 239,
+              "keyParts": [
+                239,
+                "p7",
+                "verse",
+                "v48",
+                "content"
+              ],
+              "value": "Then"
+            },
+            {
+              "rowId": 240,
+              "keyParts": [
+                240,
+                "p7",
+                "verse",
+                "v48",
+                "note",
+                "x"
+              ],
+              "value": "#ver.14"
+            },
+            {
+              "rowId": 241,
+              "keyParts": [
+                241,
+                "p7",
+                "verse",
+                "v48",
+                "content"
+              ],
+              "value": "the officers who were over the thousands of the army, the commanders of thousands and the commanders of hundreds, came near to Moses"
+            },
+            {
+              "rowId": 242,
+              "keyParts": [
+                "v048_ESV_NUM_031",
+                242,
+                "p7",
+                "verse",
+                "v48",
+                "plain_text"
+              ],
+              "value": "48 Then the officers who were over the thousands of the army, the commanders of thousands and the commanders of hundreds, came near to Moses"
+            },
+            {
+              "rowId": 243,
+              "keyParts": [
+                243,
+                "p7",
+                "verse",
+                "v49",
+                "label"
+              ],
+              "value": "49"
+            },
+            {
+              "rowId": 244,
+              "keyParts": [
+                244,
+                "p7",
+                "verse",
+                "v49",
+                "content"
+              ],
+              "value": "and said to Moses, “Your servants have counted the men of war who are under our command, and there is not a man missing from us."
+            },
+            {
+              "rowId": 245,
+              "keyParts": [
+                "v049_ESV_NUM_031",
+                245,
+                "p7",
+                "verse",
+                "v49",
+                "plain_text"
+              ],
+              "value": "49 and said to Moses, “Your servants have counted the men of war who are under our command, and there is not a man missing from us."
+            },
+            {
+              "rowId": 246,
+              "keyParts": [
+                246,
+                "p7",
+                "verse",
+                "v50",
+                "label"
+              ],
+              "value": "50"
+            },
+            {
+              "rowId": 247,
+              "keyParts": [
+                247,
+                "p7",
+                "verse",
+                "v50",
+                "content"
+              ],
+              "value": "And we have brought the"
+            },
+            {
+              "rowId": 248,
+              "keyParts": [
+                248,
+                "p7",
+                "verse",
+                "v50",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 249,
+              "keyParts": [
+                249,
+                "p7",
+                "verse",
+                "v50",
+                "content"
+              ],
+              "value": "’s offering, what each man found, articles of gold, armlets and bracelets, signet rings, earrings, and beads,"
+            },
+            {
+              "rowId": 250,
+              "keyParts": [
+                250,
+                "p7",
+                "verse",
+                "v50",
+                "note",
+                "x"
+              ],
+              "value": "#SeeEx. 30:12"
+            },
+            {
+              "rowId": 251,
+              "keyParts": [
+                251,
+                "p7",
+                "verse",
+                "v50",
+                "content"
+              ],
+              "value": "to make atonement for ourselves before the"
+            },
+            {
+              "rowId": 252,
+              "keyParts": [
+                252,
+                "p7",
+                "verse",
+                "v50",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 253,
+              "keyParts": [
+                253,
+                "p7",
+                "verse",
+                "v50",
+                "content"
+              ],
+              "value": ".”"
+            },
+            {
+              "rowId": 254,
+              "keyParts": [
+                "v050_ESV_NUM_031",
+                254,
+                "p7",
+                "verse",
+                "v50",
+                "plain_text"
+              ],
+              "value": "50 And we have brought the Lord ’s offering, what each man found, articles of gold, armlets and bracelets, signet rings, earrings, and beads, to make atonement for ourselves before the Lord .”"
+            },
+            {
+              "rowId": 255,
+              "keyParts": [
+                255,
+                "p7",
+                "verse",
+                "v51",
+                "label"
+              ],
+              "value": "51"
+            },
+            {
+              "rowId": 256,
+              "keyParts": [
+                256,
+                "p7",
+                "verse",
+                "v51",
+                "content"
+              ],
+              "value": "And Moses and Eleazar the priest received from them the gold, all crafted articles."
+            },
+            {
+              "rowId": 257,
+              "keyParts": [
+                "v051_ESV_NUM_031",
+                257,
+                "p7",
+                "verse",
+                "v51",
+                "plain_text"
+              ],
+              "value": "51 And Moses and Eleazar the priest received from them the gold, all crafted articles."
+            },
+            {
+              "rowId": 258,
+              "keyParts": [
+                258,
+                "p7",
+                "verse",
+                "v52",
+                "label"
+              ],
+              "value": "52"
+            },
+            {
+              "rowId": 259,
+              "keyParts": [
+                259,
+                "p7",
+                "verse",
+                "v52",
+                "content"
+              ],
+              "value": "And all the gold of the contribution that they presented to the"
+            },
+            {
+              "rowId": 260,
+              "keyParts": [
+                260,
+                "p7",
+                "verse",
+                "v52",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 261,
+              "keyParts": [
+                261,
+                "p7",
+                "verse",
+                "v52",
+                "content"
+              ],
+              "value": ", from the commanders of thousands and the commanders of hundreds, was 16,750 shekels."
+            },
+            {
+              "rowId": 262,
+              "keyParts": [
+                262,
+                "p7",
+                "verse",
+                "v52",
+                "note",
+                "f"
+              ],
+              "value": "#31:52Ashekelwas about 2/5 ounce or 11 grams"
+            },
+            {
+              "rowId": 263,
+              "keyParts": [
+                "v052_ESV_NUM_031",
+                263,
+                "p7",
+                "verse",
+                "v52",
+                "plain_text"
+              ],
+              "value": "52 And all the gold of the contribution that they presented to the Lord , from the commanders of thousands and the commanders of hundreds, was 16,750 shekels."
+            },
+            {
+              "rowId": 264,
+              "keyParts": [
+                264,
+                "p7",
+                "verse",
+                "v53",
+                "label"
+              ],
+              "value": "53"
+            },
+            {
+              "rowId": 265,
+              "keyParts": [
+                265,
+                "p7",
+                "verse",
+                "v53",
+                "note",
+                "x"
+              ],
+              "value": "#ver.32;Deut. 20:14"
+            },
+            {
+              "rowId": 266,
+              "keyParts": [
+                266,
+                "p7",
+                "verse",
+                "v53",
+                "content"
+              ],
+              "value": "(The men in the army had each taken plunder for himself.)"
+            },
+            {
+              "rowId": 267,
+              "keyParts": [
+                "v053_ESV_NUM_031",
+                267,
+                "p7",
+                "verse",
+                "v53",
+                "plain_text"
+              ],
+              "value": "53 (The men in the army had each taken plunder for himself.)"
+            },
+            {
+              "rowId": 268,
+              "keyParts": [
+                268,
+                "p7",
+                "verse",
+                "v54",
+                "label"
+              ],
+              "value": "54"
+            },
+            {
+              "rowId": 269,
+              "keyParts": [
+                269,
+                "p7",
+                "verse",
+                "v54",
+                "content"
+              ],
+              "value": "And Moses and Eleazar the priest received the gold from the commanders of thousands and of hundreds, and brought it into the tent of meeting,"
+            },
+            {
+              "rowId": 270,
+              "keyParts": [
+                270,
+                "p7",
+                "verse",
+                "v54",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 30:16"
+            },
+            {
+              "rowId": 271,
+              "keyParts": [
+                271,
+                "p7",
+                "verse",
+                "v54",
+                "content"
+              ],
+              "value": "as a memorial for the people of Israel before the"
+            },
+            {
+              "rowId": 272,
+              "keyParts": [
+                272,
+                "p7",
+                "verse",
+                "v54",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 273,
+              "keyParts": [
+                273,
+                "p7",
+                "verse",
+                "v54",
+                "content"
+              ],
+              "value": "."
+            },
+            {
+              "rowId": 274,
+              "keyParts": [
+                "v054_ESV_NUM_031",
+                274,
+                "p7",
+                "verse",
+                "v54",
+                "plain_text"
+              ],
+              "value": "54 And Moses and Eleazar the priest received the gold from the commanders of thousands and of hundreds, and brought it into the tent of meeting, as a memorial for the people of Israel before the Lord ."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

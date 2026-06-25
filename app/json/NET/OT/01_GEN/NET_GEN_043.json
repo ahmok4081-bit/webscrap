@@ -1,0 +1,2407 @@
+{
+  "translationId": "NET",
+  "name": "New English Translation",
+  "abbreviation": "NET",
+  "language": "English",
+  "copyright": "1996 - 2007 by Biblical Studies Press, LLC",
+  "books": [
+    {
+      "bookId": "GEN",
+      "testament": "",
+      "order": 0,
+      "title": "Genesis",
+      "abbreviation": "GEN",
+      "chapters": [
+        {
+          "chapter": 43,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "43"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "The Second Journey to Egypt"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "Now the famine was severe in the land."
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "f"
+              ],
+              "value": "tn The disjunctive clause gives supplemental information that is important to the storyline."
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                "v001_NET_GEN_043",
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 Now the famine was severe in the land."
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                7,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "When they finished eating the grain they had brought from Egypt, their father said to them, “Return, buy us a little more food.”"
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                "v002_NET_GEN_043",
+                9,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 When they finished eating the grain they had brought from Egypt, their father said to them, “Return, buy us a little more food.”"
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "p2",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                11,
+                "p2",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "But Judah said to him, “The man solemnly warned"
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                12,
+                "p2",
+                "verse",
+                "v3",
+                "note",
+                "f"
+              ],
+              "value": "tn The infinitive absolute with the finite verb stresses the point. The primary meaning of the verb is “to witness; to testify.” It alludes to Joseph’s oath, which was tantamount to a threat or warning."
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                13,
+                "p2",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "us, ‘You will not see my face"
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "p2",
+                "verse",
+                "v3",
+                "note",
+                "f"
+              ],
+              "value": "tn The idiom “see my face” means “have an audience with me.”"
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                15,
+                "p2",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "unless your brother is with you.’"
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                "v003_NET_GEN_043",
+                16,
+                "p2",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 But Judah said to him, “The man solemnly warned us, ‘You will not see my face unless your brother is with you.’"
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                17,
+                "p2",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "p2",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "If you send"
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p2",
+                "verse",
+                "v4",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “if there is you sending,” that is, “if you send.”"
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                20,
+                "p2",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "our brother with us, we’ll go down and buy food for you."
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                "v004_NET_GEN_043",
+                21,
+                "p2",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 If you send our brother with us, we’ll go down and buy food for you."
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                22,
+                "p2",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "p2",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "But if you will not send him, we won’t go down there because the man said to us, ‘You will not see my face unless your brother is with you.’”"
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                "v005_NET_GEN_043",
+                24,
+                "p2",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 But if you will not send him, we won’t go down there because the man said to us, ‘You will not see my face unless your brother is with you.’”"
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "p3",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                26,
+                "p3",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "Israel said, “Why did you bring this trouble"
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                27,
+                "p3",
+                "verse",
+                "v6",
+                "note",
+                "f"
+              ],
+              "value": "tn The verb may even have a moral connotation here, “Why did you do evil to me?”"
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                28,
+                "p3",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "on me by telling"
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                29,
+                "p3",
+                "verse",
+                "v6",
+                "note",
+                "f"
+              ],
+              "value": "tn The infinitive construct here explains how they brought trouble on Jacob."
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                30,
+                "p3",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "the man you had one more brother?”"
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                "v006_NET_GEN_043",
+                31,
+                "p3",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 Israel said, “Why did you bring this trouble on me by telling the man you had one more brother?”"
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "p4",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                33,
+                "p4",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "They replied, “The man questioned us"
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                34,
+                "p4",
+                "verse",
+                "v7",
+                "note",
+                "f"
+              ],
+              "value": "tn The word “us” has been supplied in the translation for stylistic reasons."
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                35,
+                "p4",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "thoroughly"
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "p4",
+                "verse",
+                "v7",
+                "note",
+                "f"
+              ],
+              "value": "tn The infinitive absolute with the perfect verbal form emphasizes that Joseph questioned them thoroughly."
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                37,
+                "p4",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "about ourselves and our family, saying, ‘Is your father still alive? Do you have another brother?’"
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                38,
+                "p4",
+                "verse",
+                "v7",
+                "note",
+                "f"
+              ],
+              "value": "sn The report given here concerning Joseph’s interrogation does not exactly match the previous account where they supplied the information to clear themselves (see 42:13). This section may reflect how they remembered the impact of his interrogation, whether he asked the specific questions or not. That may be twisting the truth to protect themselves, not wanting to admit that they volunteered the information. (They admitted as much in 42:31, but now they seem to be qualifying that comment.) On the other hand, when speaking to Joseph later (see 44:19), Judah claims that Joseph asked for the information about their family, making it possible that 42:13 leaves out some of the details of their first encounter."
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                39,
+                "p4",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "So we answered him in this way."
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                40,
+                "p4",
+                "verse",
+                "v7",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and we told to him according to these words.”"
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p4",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "How could we possibly know"
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "p4",
+                "verse",
+                "v7",
+                "note",
+                "f"
+              ],
+              "value": "tn The infinitive absolute emphasizes the imperfect verbal form, which here is a historic future (that is, future from the perspective of a past time)."
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                43,
+                "p4",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "that he would say,"
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                44,
+                "p4",
+                "verse",
+                "v7",
+                "note",
+                "f"
+              ],
+              "value": "tn Once again the imperfect verbal form is used as a historic future (that is, future from the perspective of past time)."
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                45,
+                "p4",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "‘Bring your brother down’?”"
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                "v007_NET_GEN_043",
+                46,
+                "p4",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 They replied, “The man questioned us thoroughly about ourselves and our family, saying, ‘Is your father still alive? Do you have another brother?’ So we answered him in this way. How could we possibly know that he would say, ‘Bring your brother down’?”"
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                47,
+                "p5",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                48,
+                "p5",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "Then Judah said to his father Israel, “Send the boy with me and we will go immediately."
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                49,
+                "p5",
+                "verse",
+                "v8",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and we will rise up and we will go.” The first verb is adverbial and gives the expression the sense of “we will go immediately.”"
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "p5",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "Then we will live"
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                51,
+                "p5",
+                "verse",
+                "v8",
+                "note",
+                "f"
+              ],
+              "value": "tn After the preceding cohortatives, the prefixed verbal form (either imperfect or cohortative) with the prefixed conjunction here indicates purpose or result."
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                52,
+                "p5",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "and not die – we and you and our little ones."
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                "v008_NET_GEN_043",
+                53,
+                "p5",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 Then Judah said to his father Israel, “Send the boy with me and we will go immediately. Then we will live and not die – we and you and our little ones."
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                54,
+                "p5",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                55,
+                "p5",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "I myself pledge security"
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                56,
+                "p5",
+                "verse",
+                "v9",
+                "note",
+                "f"
+              ],
+              "value": "tn The pronoun before the first person verbal form draws attention to the subject and emphasizes Judah’s willingness to be personally responsible for the boy."
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                57,
+                "p5",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "for him; you may hold me liable. If I do not bring him back to you and place him here before you, I will bear the blame before you all my life."
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                58,
+                "p5",
+                "verse",
+                "v9",
+                "note",
+                "f"
+              ],
+              "value": "sn I will bear the blame before you all my life. It is not clear how this would work out if Benjamin did not come back. But Judah is offering his life for Benjamin’s if Benjamin does not return."
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                "v009_NET_GEN_043",
+                59,
+                "p5",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 I myself pledge security for him; you may hold me liable. If I do not bring him back to you and place him here before you, I will bear the blame before you all my life."
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                60,
+                "p5",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                61,
+                "p5",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "But if we had not delayed, we could have traveled there and back"
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                62,
+                "p5",
+                "verse",
+                "v10",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “we could have returned.”"
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                63,
+                "p5",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "twice by now!”"
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                "v010_NET_GEN_043",
+                64,
+                "p5",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 But if we had not delayed, we could have traveled there and back twice by now!”"
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                65,
+                "p6",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                66,
+                "p6",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "Then their father Israel said to them, “If it must be so, then do this: Take some of the best products of the land in your bags, and take a gift down to the man – a little balm and a little honey, spices and myrrh, pistachios and almonds."
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                "v011_NET_GEN_043",
+                67,
+                "p6",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 Then their father Israel said to them, “If it must be so, then do this: Take some of the best products of the land in your bags, and take a gift down to the man – a little balm and a little honey, spices and myrrh, pistachios and almonds."
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                68,
+                "p6",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                69,
+                "p6",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "Take double the money with you;"
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                70,
+                "p6",
+                "verse",
+                "v12",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “in your hand.”"
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                71,
+                "p6",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "you must take back"
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                72,
+                "p6",
+                "verse",
+                "v12",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “take back in your hand.” The imperfect verbal form probably has an injunctive or obligatory force here, since Jacob is instructing his sons."
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                73,
+                "p6",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "the money that was returned in the mouths of your sacks – perhaps it was an oversight."
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                "v012_NET_GEN_043",
+                74,
+                "p6",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 Take double the money with you; you must take back the money that was returned in the mouths of your sacks – perhaps it was an oversight."
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                75,
+                "p6",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                76,
+                "p6",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "Take your brother too, and go right away"
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                77,
+                "p6",
+                "verse",
+                "v13",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “arise, return,” meaning “get up and go back,” or “go back immediately.”"
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                78,
+                "p6",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "to the man."
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                79,
+                "p6",
+                "verse",
+                "v13",
+                "note",
+                "f"
+              ],
+              "value": "sn The man refers to the Egyptian official, whom the reader or hearer of the narrative knows is Joseph. In this context both the sons and Jacob refer to him simply as “the man” (see vv. 3-7)."
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                "v013_NET_GEN_043",
+                80,
+                "p6",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 Take your brother too, and go right away to the man."
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                81,
+                "p6",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                82,
+                "p6",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "May the sovereign God"
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                83,
+                "p6",
+                "verse",
+                "v14",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “El Shaddai.” See the extended note on the phrase “sovereign God” in Gen 17:1."
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                84,
+                "p6",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "grant you mercy before the man so that he may release"
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                85,
+                "p6",
+                "verse",
+                "v14",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “release to you.” After the jussive this perfect verbal form with prefixed vav (ו) probably indicates logical consequence, as well as temporal sequence."
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                86,
+                "p6",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "your other brother"
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                87,
+                "p6",
+                "verse",
+                "v14",
+                "note",
+                "f"
+              ],
+              "value": "sn Several Jewish commentators suggest that the expression your other brother refers to Joseph. This would mean that Jacob prophesied unwittingly. However, it is much more likely that Simeon is the referent of the phrase “your other brother” (see Gen 42:24)."
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                88,
+                "p6",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "and Benjamin! As for me, if I lose my children I lose them.”"
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                89,
+                "p6",
+                "verse",
+                "v14",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “if I am bereaved I am bereaved.” With this fatalistic sounding statement Jacob resolves himself to the possibility of losing both Benjamin and Simeon."
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                "v014_NET_GEN_043",
+                90,
+                "p6",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 May the sovereign God grant you mercy before the man so that he may release your other brother and Benjamin! As for me, if I lose my children I lose them.”"
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                91,
+                "p7",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                92,
+                "p7",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "So the men took these gifts, and they took double the money with them, along with Benjamin. Then they hurried down to Egypt"
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                93,
+                "p7",
+                "verse",
+                "v15",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “they arose and went down to Egypt.” The first verb has an adverbial function and emphasizes that they departed right away."
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                94,
+                "p7",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "and stood before Joseph."
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                "v015_NET_GEN_043",
+                95,
+                "p7",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 So the men took these gifts, and they took double the money with them, along with Benjamin. Then they hurried down to Egypt and stood before Joseph."
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                96,
+                "p7",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                97,
+                "p7",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "When Joseph saw Benjamin with them, he said to the servant who was over his household, “Bring the men to the house. Slaughter an animal and prepare it, for the men will eat with me at noon.”"
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                "v016_NET_GEN_043",
+                98,
+                "p7",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 When Joseph saw Benjamin with them, he said to the servant who was over his household, “Bring the men to the house. Slaughter an animal and prepare it, for the men will eat with me at noon.”"
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                99,
+                "p7",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                100,
+                "p7",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "The man did just as Joseph said; he"
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                101,
+                "p7",
+                "verse",
+                "v17",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “the man.” This has been replaced in the translation by the pronoun “he” for stylistic reasons."
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                102,
+                "p7",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "brought the men into Joseph’s house."
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                103,
+                "p7",
+                "verse",
+                "v17",
+                "note",
+                "f"
+              ],
+              "value": "sn This verse is a summary statement. The next verses delineate intermediate steps (see v. 24) in the process."
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                "v017_NET_GEN_043",
+                104,
+                "p7",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 The man did just as Joseph said; he brought the men into Joseph’s house."
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                105,
+                "p8",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                106,
+                "p8",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "But the men were afraid when they were brought to Joseph’s house. They said, “We are being brought in because of"
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                107,
+                "p8",
+                "verse",
+                "v18",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “over the matter of.”"
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                108,
+                "p8",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "the money that was returned in our sacks last time."
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                109,
+                "p8",
+                "verse",
+                "v18",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “in the beginning,” that is, at the end of their first visit."
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                110,
+                "p8",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "He wants to capture us,"
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                111,
+                "p8",
+                "verse",
+                "v18",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “to roll himself upon us and to cause himself to fall upon us.” The infinitives here indicate the purpose (as viewed by the brothers) for their being brought to Joseph’s house."
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                112,
+                "p8",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "make us slaves, and take"
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                113,
+                "p8",
+                "verse",
+                "v18",
+                "note",
+                "f"
+              ],
+              "value": "tn The word “take” has been supplied in the translation for stylistic reasons."
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                114,
+                "p8",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "our donkeys!”"
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                "v018_NET_GEN_043",
+                115,
+                "p8",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 But the men were afraid when they were brought to Joseph’s house. They said, “We are being brought in because of the money that was returned in our sacks last time. He wants to capture us, make us slaves, and take our donkeys!”"
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                116,
+                "p8",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                117,
+                "p8",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "So they approached the man who was in charge of Joseph’s household and spoke to him at the entrance to the house."
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                "v019_NET_GEN_043",
+                118,
+                "p8",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 So they approached the man who was in charge of Joseph’s household and spoke to him at the entrance to the house."
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                119,
+                "p8",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                120,
+                "p8",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "They said, “My lord, we did indeed come down"
+            },
+            {
+              "rowId": 121,
+              "keyParts": [
+                121,
+                "p8",
+                "verse",
+                "v20",
+                "note",
+                "f"
+              ],
+              "value": "tn The infinitive absolute is used for emphasis before the finite verbal form."
+            },
+            {
+              "rowId": 122,
+              "keyParts": [
+                122,
+                "p8",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "the first time"
+            },
+            {
+              "rowId": 123,
+              "keyParts": [
+                123,
+                "p8",
+                "verse",
+                "v20",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “in the beginning” (see the note on the phrase “last time” in v. 18)."
+            },
+            {
+              "rowId": 124,
+              "keyParts": [
+                124,
+                "p8",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "to buy food."
+            },
+            {
+              "rowId": 125,
+              "keyParts": [
+                "v020_NET_GEN_043",
+                125,
+                "p8",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 They said, “My lord, we did indeed come down the first time to buy food."
+            },
+            {
+              "rowId": 126,
+              "keyParts": [
+                126,
+                "p8",
+                "verse",
+                "v21",
+                "label"
+              ],
+              "value": "21"
+            },
+            {
+              "rowId": 127,
+              "keyParts": [
+                127,
+                "p8",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "But when we came to the place where we spent the night, we opened our sacks and each of us found his money – the full amount"
+            },
+            {
+              "rowId": 128,
+              "keyParts": [
+                128,
+                "p8",
+                "verse",
+                "v21",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “in its weight.”"
+            },
+            {
+              "rowId": 129,
+              "keyParts": [
+                129,
+                "p8",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "– in the mouth of his sack. So we have returned it."
+            },
+            {
+              "rowId": 130,
+              "keyParts": [
+                130,
+                "p8",
+                "verse",
+                "v21",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “brought it back in our hand.”"
+            },
+            {
+              "rowId": 131,
+              "keyParts": [
+                "v021_NET_GEN_043",
+                131,
+                "p8",
+                "verse",
+                "v21",
+                "plain_text"
+              ],
+              "value": "21 But when we came to the place where we spent the night, we opened our sacks and each of us found his money – the full amount – in the mouth of his sack. So we have returned it."
+            },
+            {
+              "rowId": 132,
+              "keyParts": [
+                132,
+                "p8",
+                "verse",
+                "v22",
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 133,
+              "keyParts": [
+                133,
+                "p8",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "We have brought additional money with us to buy food. We do not know who put the money in our sacks!”"
+            },
+            {
+              "rowId": 134,
+              "keyParts": [
+                "v022_NET_GEN_043",
+                134,
+                "p8",
+                "verse",
+                "v22",
+                "plain_text"
+              ],
+              "value": "22 We have brought additional money with us to buy food. We do not know who put the money in our sacks!”"
+            },
+            {
+              "rowId": 135,
+              "keyParts": [
+                135,
+                "p9",
+                "verse",
+                "v23",
+                "label"
+              ],
+              "value": "23"
+            },
+            {
+              "rowId": 136,
+              "keyParts": [
+                136,
+                "p9",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "“Everything is fine,”"
+            },
+            {
+              "rowId": 137,
+              "keyParts": [
+                137,
+                "p9",
+                "verse",
+                "v23",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and he said, ‘peace to you.’” Here the statement has the force of “everything is fine,” or perhaps even “calm down.” The referent of “he” (the man in charge of Joseph’ household) has been specified in the translation for clarity, and the order of the introductory clause and the direct discourse has been rearranged for stylistic reasons."
+            },
+            {
+              "rowId": 138,
+              "keyParts": [
+                138,
+                "p9",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "the man in charge of Joseph’s household told them. “Don’t be afraid. Your God and the God of your father has given you treasure in your sacks."
+            },
+            {
+              "rowId": 139,
+              "keyParts": [
+                139,
+                "p9",
+                "verse",
+                "v23",
+                "note",
+                "f"
+              ],
+              "value": "sn Your God and the God of your father…This is the first clear reference in the story to the theme of divine providence – that God works through the human actions to do his will."
+            },
+            {
+              "rowId": 140,
+              "keyParts": [
+                140,
+                "p9",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "I had your money.”"
+            },
+            {
+              "rowId": 141,
+              "keyParts": [
+                141,
+                "p9",
+                "verse",
+                "v23",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “your money came to me.”"
+            },
+            {
+              "rowId": 142,
+              "keyParts": [
+                142,
+                "p9",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "Then he brought Simeon out to them."
+            },
+            {
+              "rowId": 143,
+              "keyParts": [
+                "v023_NET_GEN_043",
+                143,
+                "p9",
+                "verse",
+                "v23",
+                "plain_text"
+              ],
+              "value": "23 “Everything is fine,” the man in charge of Joseph’s household told them. “Don’t be afraid. Your God and the God of your father has given you treasure in your sacks. I had your money.” Then he brought Simeon out to them."
+            },
+            {
+              "rowId": 144,
+              "keyParts": [
+                144,
+                "p10",
+                "verse",
+                "v24",
+                "label"
+              ],
+              "value": "24"
+            },
+            {
+              "rowId": 145,
+              "keyParts": [
+                145,
+                "p10",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "The servant in charge"
+            },
+            {
+              "rowId": 146,
+              "keyParts": [
+                146,
+                "p10",
+                "verse",
+                "v24",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “the man.”"
+            },
+            {
+              "rowId": 147,
+              "keyParts": [
+                147,
+                "p10",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "brought the men into Joseph’s house. He gave them water, and they washed their feet. Then he gave food to their donkeys."
+            },
+            {
+              "rowId": 148,
+              "keyParts": [
+                "v024_NET_GEN_043",
+                148,
+                "p10",
+                "verse",
+                "v24",
+                "plain_text"
+              ],
+              "value": "24 The servant in charge brought the men into Joseph’s house. He gave them water, and they washed their feet. Then he gave food to their donkeys."
+            },
+            {
+              "rowId": 149,
+              "keyParts": [
+                149,
+                "p10",
+                "verse",
+                "v25",
+                "label"
+              ],
+              "value": "25"
+            },
+            {
+              "rowId": 150,
+              "keyParts": [
+                150,
+                "p10",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "They got their gifts ready for Joseph’s arrival"
+            },
+            {
+              "rowId": 151,
+              "keyParts": [
+                151,
+                "p10",
+                "verse",
+                "v25",
+                "note",
+                "f"
+              ],
+              "value": "tn The construction uses the infinitive construct after the preposition, followed by the subjective genitive."
+            },
+            {
+              "rowId": 152,
+              "keyParts": [
+                152,
+                "p10",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "at noon, for they had heard"
+            },
+            {
+              "rowId": 153,
+              "keyParts": [
+                153,
+                "p10",
+                "verse",
+                "v25",
+                "note",
+                "f"
+              ],
+              "value": "tn The action precedes the action of preparing the gift, and so must be translated as past perfect."
+            },
+            {
+              "rowId": 154,
+              "keyParts": [
+                154,
+                "p10",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "that they were to have a meal"
+            },
+            {
+              "rowId": 155,
+              "keyParts": [
+                155,
+                "p10",
+                "verse",
+                "v25",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “eat bread.” The imperfect verbal form is used here as a historic future (future from the perspective of the past)."
+            },
+            {
+              "rowId": 156,
+              "keyParts": [
+                156,
+                "p10",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "there."
+            },
+            {
+              "rowId": 157,
+              "keyParts": [
+                "v025_NET_GEN_043",
+                157,
+                "p10",
+                "verse",
+                "v25",
+                "plain_text"
+              ],
+              "value": "25 They got their gifts ready for Joseph’s arrival at noon, for they had heard that they were to have a meal there."
+            },
+            {
+              "rowId": 158,
+              "keyParts": [
+                158,
+                "p11",
+                "verse",
+                "v26",
+                "label"
+              ],
+              "value": "26"
+            },
+            {
+              "rowId": 159,
+              "keyParts": [
+                159,
+                "p11",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "When Joseph came home, they presented him with the gifts they had brought inside,"
+            },
+            {
+              "rowId": 160,
+              "keyParts": [
+                160,
+                "p11",
+                "verse",
+                "v26",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “into the house.”"
+            },
+            {
+              "rowId": 161,
+              "keyParts": [
+                161,
+                "p11",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "and they bowed down to the ground before him."
+            },
+            {
+              "rowId": 162,
+              "keyParts": [
+                "v026_NET_GEN_043",
+                162,
+                "p11",
+                "verse",
+                "v26",
+                "plain_text"
+              ],
+              "value": "26 When Joseph came home, they presented him with the gifts they had brought inside, and they bowed down to the ground before him."
+            },
+            {
+              "rowId": 163,
+              "keyParts": [
+                163,
+                "p11",
+                "verse",
+                "v27",
+                "label"
+              ],
+              "value": "27"
+            },
+            {
+              "rowId": 164,
+              "keyParts": [
+                164,
+                "p11",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "He asked them how they were doing."
+            },
+            {
+              "rowId": 165,
+              "keyParts": [
+                165,
+                "p11",
+                "verse",
+                "v27",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “concerning peace.”"
+            },
+            {
+              "rowId": 166,
+              "keyParts": [
+                166,
+                "p11",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "Then he said, “Is your aging father well, the one you spoke about? Is he still alive?”"
+            },
+            {
+              "rowId": 167,
+              "keyParts": [
+                "v027_NET_GEN_043",
+                167,
+                "p11",
+                "verse",
+                "v27",
+                "plain_text"
+              ],
+              "value": "27 He asked them how they were doing. Then he said, “Is your aging father well, the one you spoke about? Is he still alive?”"
+            },
+            {
+              "rowId": 168,
+              "keyParts": [
+                168,
+                "p11",
+                "verse",
+                "v28",
+                "label"
+              ],
+              "value": "28"
+            },
+            {
+              "rowId": 169,
+              "keyParts": [
+                169,
+                "p11",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "“Your servant our father is well,” they replied. “He is still alive.” They bowed down in humility."
+            },
+            {
+              "rowId": 170,
+              "keyParts": [
+                170,
+                "p11",
+                "verse",
+                "v28",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and they bowed low and they bowed down.” The use of synonyms here emphasizes the brothers’ humility."
+            },
+            {
+              "rowId": 171,
+              "keyParts": [
+                "v028_NET_GEN_043",
+                171,
+                "p11",
+                "verse",
+                "v28",
+                "plain_text"
+              ],
+              "value": "28 “Your servant our father is well,” they replied. “He is still alive.” They bowed down in humility."
+            },
+            {
+              "rowId": 172,
+              "keyParts": [
+                172,
+                "p12",
+                "verse",
+                "v29",
+                "label"
+              ],
+              "value": "29"
+            },
+            {
+              "rowId": 173,
+              "keyParts": [
+                173,
+                "p12",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "When Joseph looked up"
+            },
+            {
+              "rowId": 174,
+              "keyParts": [
+                174,
+                "p12",
+                "verse",
+                "v29",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and he lifted his eyes.” The referent of “he” (Joseph) has been specified in the translation for clarity."
+            },
+            {
+              "rowId": 175,
+              "keyParts": [
+                175,
+                "p12",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "and saw his brother Benjamin, his mother’s son, he said, “Is this your youngest brother, whom you told me about?” Then he said, “May God be gracious to you, my son.”"
+            },
+            {
+              "rowId": 176,
+              "keyParts": [
+                176,
+                "p12",
+                "verse",
+                "v29",
+                "note",
+                "f"
+              ],
+              "value": "sn Joseph’s language here becomes warmer and more personal, culminating in calling Benjamin my son."
+            },
+            {
+              "rowId": 177,
+              "keyParts": [
+                "v029_NET_GEN_043",
+                177,
+                "p12",
+                "verse",
+                "v29",
+                "plain_text"
+              ],
+              "value": "29 When Joseph looked up and saw his brother Benjamin, his mother’s son, he said, “Is this your youngest brother, whom you told me about?” Then he said, “May God be gracious to you, my son.”"
+            },
+            {
+              "rowId": 178,
+              "keyParts": [
+                178,
+                "p12",
+                "verse",
+                "v30",
+                "label"
+              ],
+              "value": "30"
+            },
+            {
+              "rowId": 179,
+              "keyParts": [
+                179,
+                "p12",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "Joseph hurried out, for he was overcome by affection for his brother"
+            },
+            {
+              "rowId": 180,
+              "keyParts": [
+                180,
+                "p12",
+                "verse",
+                "v30",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “for his affection boiled up concerning his brother.” The same expression is used in 1 Kgs 3:26 for the mother’s feelings for her endangered child."
+            },
+            {
+              "rowId": 181,
+              "keyParts": [
+                181,
+                "p12",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "and was at the point of tears."
+            },
+            {
+              "rowId": 182,
+              "keyParts": [
+                182,
+                "p12",
+                "verse",
+                "v30",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and he sought to weep.”"
+            },
+            {
+              "rowId": 183,
+              "keyParts": [
+                183,
+                "p12",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "So he went to his room and wept there."
+            },
+            {
+              "rowId": 184,
+              "keyParts": [
+                "v030_NET_GEN_043",
+                184,
+                "p12",
+                "verse",
+                "v30",
+                "plain_text"
+              ],
+              "value": "30 Joseph hurried out, for he was overcome by affection for his brother and was at the point of tears. So he went to his room and wept there."
+            },
+            {
+              "rowId": 185,
+              "keyParts": [
+                185,
+                "p13",
+                "verse",
+                "v31",
+                "label"
+              ],
+              "value": "31"
+            },
+            {
+              "rowId": 186,
+              "keyParts": [
+                186,
+                "p13",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "Then he washed his face and came out. With composure he said,"
+            },
+            {
+              "rowId": 187,
+              "keyParts": [
+                187,
+                "p13",
+                "verse",
+                "v31",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and he controlled himself and said.”"
+            },
+            {
+              "rowId": 188,
+              "keyParts": [
+                188,
+                "p13",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "“Set out the food.”"
+            },
+            {
+              "rowId": 189,
+              "keyParts": [
+                "v031_NET_GEN_043",
+                189,
+                "p13",
+                "verse",
+                "v31",
+                "plain_text"
+              ],
+              "value": "31 Then he washed his face and came out. With composure he said, “Set out the food.”"
+            },
+            {
+              "rowId": 190,
+              "keyParts": [
+                190,
+                "p13",
+                "verse",
+                "v32",
+                "label"
+              ],
+              "value": "32"
+            },
+            {
+              "rowId": 191,
+              "keyParts": [
+                191,
+                "p13",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "They set a place for him, a separate place for his brothers,"
+            },
+            {
+              "rowId": 192,
+              "keyParts": [
+                192,
+                "p13",
+                "verse",
+                "v32",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “them”; the referent (Joseph’s brothers) has been specified in the translation for clarity."
+            },
+            {
+              "rowId": 193,
+              "keyParts": [
+                193,
+                "p13",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "and another for the Egyptians who were eating with him. (The Egyptians are not able to eat with Hebrews, for the Egyptians think it is disgusting"
+            },
+            {
+              "rowId": 194,
+              "keyParts": [
+                194,
+                "p13",
+                "verse",
+                "v32",
+                "note",
+                "f"
+              ],
+              "value": "tn Or “disgraceful.” The Hebrew word תּוֹעֵבָה (to’evah, “abomination”) describes something that is loathsome or off-limits. For other practices the Egyptians considered disgusting, see Gen 46:34 and Exod 8:22."
+            },
+            {
+              "rowId": 195,
+              "keyParts": [
+                195,
+                "p13",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "to do so.)"
+            },
+            {
+              "rowId": 196,
+              "keyParts": [
+                196,
+                "p13",
+                "verse",
+                "v32",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and they set for him by himself, and for them by themselves, and for the Egyptians who were eating with him by themselves, for the Egyptians are not able to eat food with the Hebrews, for it is an abomination for the Egyptians.” The imperfect verbal form in the explanatory clause is taken as habitual in force, indicating a practice that was still in effect in the narrator’s time.\nsn That the Egyptians found eating with foreigners disgusting is well-attested in extra-biblical literature by writers like Herodotus, Diodorus, and Strabo."
+            },
+            {
+              "rowId": 197,
+              "keyParts": [
+                "v032_NET_GEN_043",
+                197,
+                "p13",
+                "verse",
+                "v32",
+                "plain_text"
+              ],
+              "value": "32 They set a place for him, a separate place for his brothers, and another for the Egyptians who were eating with him. (The Egyptians are not able to eat with Hebrews, for the Egyptians think it is disgusting to do so.)"
+            },
+            {
+              "rowId": 198,
+              "keyParts": [
+                198,
+                "p13",
+                "verse",
+                "v33",
+                "label"
+              ],
+              "value": "33"
+            },
+            {
+              "rowId": 199,
+              "keyParts": [
+                199,
+                "p13",
+                "verse",
+                "v33",
+                "content"
+              ],
+              "value": "They sat before him, arranged by order of birth, beginning with the firstborn and ending with the youngest."
+            },
+            {
+              "rowId": 200,
+              "keyParts": [
+                200,
+                "p13",
+                "verse",
+                "v33",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “the firstborn according to his birthright and the youngest according to his youth.”"
+            },
+            {
+              "rowId": 201,
+              "keyParts": [
+                201,
+                "p13",
+                "verse",
+                "v33",
+                "content"
+              ],
+              "value": "The men looked at each other in astonishment."
+            },
+            {
+              "rowId": 202,
+              "keyParts": [
+                202,
+                "p13",
+                "verse",
+                "v33",
+                "note",
+                "f"
+              ],
+              "value": "sn The brothers’ astonishment indicates that Joseph arranged them in this way. They were astonished because there was no way, as far as they were concerned, that Joseph could have known the order of their birth."
+            },
+            {
+              "rowId": 203,
+              "keyParts": [
+                "v033_NET_GEN_043",
+                203,
+                "p13",
+                "verse",
+                "v33",
+                "plain_text"
+              ],
+              "value": "33 They sat before him, arranged by order of birth, beginning with the firstborn and ending with the youngest. The men looked at each other in astonishment."
+            },
+            {
+              "rowId": 204,
+              "keyParts": [
+                204,
+                "p13",
+                "verse",
+                "v34",
+                "label"
+              ],
+              "value": "34"
+            },
+            {
+              "rowId": 205,
+              "keyParts": [
+                205,
+                "p13",
+                "verse",
+                "v34",
+                "content"
+              ],
+              "value": "He gave them portions of the food set before him,"
+            },
+            {
+              "rowId": 206,
+              "keyParts": [
+                206,
+                "p13",
+                "verse",
+                "v34",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and he lifted up portions from before his face to them.”"
+            },
+            {
+              "rowId": 207,
+              "keyParts": [
+                207,
+                "p13",
+                "verse",
+                "v34",
+                "content"
+              ],
+              "value": "but the portion for Benjamin was five times greater than the portions for any of the others. They drank with Joseph until they all became drunk."
+            },
+            {
+              "rowId": 208,
+              "keyParts": [
+                208,
+                "p13",
+                "verse",
+                "v34",
+                "note",
+                "f"
+              ],
+              "value": "tn Heb “and they drank and were intoxicated with him” (cf. NIV “drank freely with him”; NEB “grew merry”; NRSV “were merry”). The brothers were apparently relaxed and set at ease, despite Joseph’s obvious favoritism toward Benjamin."
+            },
+            {
+              "rowId": 209,
+              "keyParts": [
+                "v034_NET_GEN_043",
+                209,
+                "p13",
+                "verse",
+                "v34",
+                "plain_text"
+              ],
+              "value": "34 He gave them portions of the food set before him, but the portion for Benjamin was five times greater than the portions for any of the others. They drank with Joseph until they all became drunk."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

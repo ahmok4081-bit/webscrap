@@ -1,0 +1,1648 @@
+{
+  "translationId": "ESV",
+  "name": "English Standard Version",
+  "abbreviation": "ESV",
+  "language": "English",
+  "copyright": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.",
+  "books": [
+    {
+      "bookId": "LEV",
+      "testament": "OT",
+      "order": 3,
+      "title": "Leviticus",
+      "abbreviation": "LEV",
+      "chapters": [
+        {
+          "chapter": 10,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "The Death of Nadab and Abihu"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "Now"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#ch.16:1;Ex. 6:23;28:1;Num. 3:4;26:61;1 Chr. 24:2"
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "Nadab and Abihu, the sons of Aaron,"
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                7,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#[Num. 16:18]"
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "each took his censer and put fire in it and laid incense on it and offered"
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                9,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 30:9"
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "unauthorized"
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                11,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "f"
+              ],
+              "value": "#10:1Orstrange"
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                12,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "fire before the"
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                13,
+                "p1",
+                "verse",
+                "v1",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": ", which he had not commanded them."
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                "v001_ESV_LEV_010",
+                15,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 Now Nadab and Abihu, the sons of Aaron, each took his censer and put fire in it and laid incense on it and offered unauthorized fire before the Lord , which he had not commanded them."
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                16,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                17,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "And fire"
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#ch.9:24;Num. 16:35;[2 Sam. 6:7]"
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "came out from before the"
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                20,
+                "p1",
+                "verse",
+                "v2",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "and consumed them, and they died before the"
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                22,
+                "p1",
+                "verse",
+                "v2",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "."
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                "v002_ESV_LEV_010",
+                24,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 And fire came out from before the Lord and consumed them, and they died before the Lord ."
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "p1",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                26,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "Then Moses said to Aaron, “This is what the"
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                27,
+                "p1",
+                "verse",
+                "v3",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                28,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "has said: ‘Among"
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                29,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#ch.21:17,21"
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                30,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "those who are near me"
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                31,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#Ezek. 28:22"
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "I will be sanctified, and before all the people I will be glorified.’”"
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                33,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#[Ps. 39:9]"
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                34,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "And Aaron held his peace."
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                "v003_ESV_LEV_010",
+                35,
+                "p1",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 Then Moses said to Aaron, “This is what the Lord has said: ‘Among those who are near me I will be sanctified, and before all the people I will be glorified.’” And Aaron held his peace."
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "p2",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                37,
+                "p2",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "And Moses called Mishael and Elzaphan, the sons of"
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                38,
+                "p2",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 6:18,22;Num. 3:19,30"
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                39,
+                "p2",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "Uzziel the uncle of Aaron, and said to them, “Come near; carry your brothers away from the front of the sanctuary and out of the camp.”"
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                "v004_ESV_LEV_010",
+                40,
+                "p2",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 And Moses called Mishael and Elzaphan, the sons of Uzziel the uncle of Aaron, and said to them, “Come near; carry your brothers away from the front of the sanctuary and out of the camp.”"
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p2",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "p2",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "So they came near and carried them in their coats out of the camp, as Moses had said."
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                "v005_ESV_LEV_010",
+                43,
+                "p2",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 So they came near and carried them in their coats out of the camp, as Moses had said."
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                44,
+                "p2",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                45,
+                "p2",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "And Moses said to Aaron and to Eleazar and Ithamar his sons,"
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                46,
+                "p2",
+                "verse",
+                "v6",
+                "note",
+                "x"
+              ],
+              "value": "#ch.13:45;21:10;Ezek. 24:16,17"
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                47,
+                "p2",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "“Do not let the hair of your heads hang loose, and do not tear your clothes, lest you die, and"
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                48,
+                "p2",
+                "verse",
+                "v6",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 1:53;16:22,46;18:5;Josh. 7:1;22:18,20"
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                49,
+                "p2",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "wrath come upon all the congregation; but let your brothers, the whole house of Israel, bewail the burning that the"
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "p2",
+                "verse",
+                "v6",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                51,
+                "p2",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "has kindled."
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                "v006_ESV_LEV_010",
+                52,
+                "p2",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 And Moses said to Aaron and to Eleazar and Ithamar his sons, “Do not let the hair of your heads hang loose, and do not tear your clothes, lest you die, and wrath come upon all the congregation; but let your brothers, the whole house of Israel, bewail the burning that the Lord has kindled."
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                53,
+                "p2",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                54,
+                "p2",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#ch.21:12"
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                55,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "And do not go outside the entrance of the tent of meeting, lest you die,"
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                56,
+                "p2",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#ch.8:30"
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                57,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "for the anointing oil of the"
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                58,
+                "p2",
+                "verse",
+                "v7",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                59,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "is upon you.” And they did according to the word of Moses."
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                "v007_ESV_LEV_010",
+                60,
+                "p2",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 And do not go outside the entrance of the tent of meeting, lest you die, for the anointing oil of the Lord is upon you.” And they did according to the word of Moses."
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                61,
+                "p3",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                62,
+                "p3",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "And the"
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                63,
+                "p3",
+                "verse",
+                "v8",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                64,
+                "p3",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "spoke to Aaron, saying,"
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                "v008_ESV_LEV_010",
+                65,
+                "p3",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 And the Lord spoke to Aaron, saying,"
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                66,
+                "p3",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                67,
+                "p3",
+                "verse",
+                "v9",
+                "note",
+                "x"
+              ],
+              "value": "#Ezek. 44:21;[Num. 6:3,20;Luke 1:15;1 Tim. 3:3,8]"
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                68,
+                "p3",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "“Drink no wine or strong drink, you or your sons with you, when you go into the tent of meeting, lest you die. It shall be a statute forever throughout your generations."
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                "v009_ESV_LEV_010",
+                69,
+                "p3",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 “Drink no wine or strong drink, you or your sons with you, when you go into the tent of meeting, lest you die. It shall be a statute forever throughout your generations."
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                70,
+                "p3",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                71,
+                "p3",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "You are to"
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                72,
+                "p3",
+                "verse",
+                "v10",
+                "note",
+                "x"
+              ],
+              "value": "#ch.11:47;20:25;Ezek. 22:26;44:23"
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                73,
+                "p3",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "distinguish between the holy and the common, and between the unclean and the clean,"
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                "v010_ESV_LEV_010",
+                74,
+                "p3",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 You are to distinguish between the holy and the common, and between the unclean and the clean,"
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                75,
+                "p3",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                76,
+                "p3",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "and"
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                77,
+                "p3",
+                "verse",
+                "v11",
+                "note",
+                "x"
+              ],
+              "value": "#ch.14:57;Deut. 24:8;Neh. 8:2,8,9;[Jer. 18:18;Mal. 2:7]"
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                78,
+                "p3",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "you are to teach the people of Israel all the statutes that the"
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                79,
+                "p3",
+                "verse",
+                "v11",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                80,
+                "p3",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "has spoken to them by Moses.”"
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                "v011_ESV_LEV_010",
+                81,
+                "p3",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 and you are to teach the people of Israel all the statutes that the Lord has spoken to them by Moses.”"
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                82,
+                "p4",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                83,
+                "p4",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "Moses spoke to Aaron and to Eleazar and Ithamar, his surviving sons: “Take the"
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                84,
+                "p4",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#ch.6:16;Num. 18:9,10"
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                85,
+                "p4",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "grain offering that is left of the"
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                86,
+                "p4",
+                "verse",
+                "v12",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                87,
+                "p4",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "’s food offerings, and eat it unleavened beside the altar, for"
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                88,
+                "p4",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.6:17"
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                89,
+                "p4",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "it is most holy."
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                "v012_ESV_LEV_010",
+                90,
+                "p4",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 Moses spoke to Aaron and to Eleazar and Ithamar, his surviving sons: “Take the grain offering that is left of the Lord ’s food offerings, and eat it unleavened beside the altar, for it is most holy."
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                91,
+                "p4",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                92,
+                "p4",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "You shall eat it in a holy place, because it is your due and your sons’ due, from the"
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                93,
+                "p4",
+                "verse",
+                "v13",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                94,
+                "p4",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "’s food offerings, for"
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                95,
+                "p4",
+                "verse",
+                "v13",
+                "note",
+                "x"
+              ],
+              "value": "#ch.2:3;6:16"
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                96,
+                "p4",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "so I am commanded."
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                "v013_ESV_LEV_010",
+                97,
+                "p4",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 You shall eat it in a holy place, because it is your due and your sons’ due, from the Lord ’s food offerings, for so I am commanded."
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                98,
+                "p4",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                99,
+                "p4",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "But the"
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                100,
+                "p4",
+                "verse",
+                "v14",
+                "note",
+                "x"
+              ],
+              "value": "#ch.7:31,34;Ex. 29:24,26,27;Num. 18:11"
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                101,
+                "p4",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "breast that is waved and the thigh that is contributed you shall eat in a clean place, you and your sons and your daughters with you, for they are given as your due and your sons’ due from the sacrifices of the peace offerings of the people of Israel."
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                "v014_ESV_LEV_010",
+                102,
+                "p4",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 But the breast that is waved and the thigh that is contributed you shall eat in a clean place, you and your sons and your daughters with you, for they are given as your due and your sons’ due from the sacrifices of the peace offerings of the people of Israel."
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                103,
+                "p4",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                104,
+                "p4",
+                "verse",
+                "v15",
+                "note",
+                "x"
+              ],
+              "value": "#ch.7:31,34"
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                105,
+                "p4",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "The thigh that is contributed and the breast that is waved they shall bring with the food offerings of the fat pieces to wave for a wave offering before the"
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                106,
+                "p4",
+                "verse",
+                "v15",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                107,
+                "p4",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": ", and it shall be yours and your sons’ with you as a due forever, as the"
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                108,
+                "p4",
+                "verse",
+                "v15",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                109,
+                "p4",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "has commanded.”"
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                "v015_ESV_LEV_010",
+                110,
+                "p4",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 The thigh that is contributed and the breast that is waved they shall bring with the food offerings of the fat pieces to wave for a wave offering before the Lord , and it shall be yours and your sons’ with you as a due forever, as the Lord has commanded.”"
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                111,
+                "p5",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                112,
+                "p5",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "Now Moses diligently inquired about"
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                113,
+                "p5",
+                "verse",
+                "v16",
+                "note",
+                "x"
+              ],
+              "value": "#ch.9:3,15"
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                114,
+                "p5",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "the goat of the sin offering, and behold, it was burned up! And he was angry with Eleazar and Ithamar, the surviving sons of Aaron, saying,"
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                "v016_ESV_LEV_010",
+                115,
+                "p5",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 Now Moses diligently inquired about the goat of the sin offering, and behold, it was burned up! And he was angry with Eleazar and Ithamar, the surviving sons of Aaron, saying,"
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                116,
+                "p5",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                117,
+                "p5",
+                "verse",
+                "v17",
+                "note",
+                "x"
+              ],
+              "value": "#ch.6:26,29"
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                118,
+                "p5",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "“Why have you not eaten the sin offering in the place of the sanctuary, since"
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                119,
+                "p5",
+                "verse",
+                "v17",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.12above]"
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                120,
+                "p5",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "it is a thing most holy and has been given to you that you may bear the iniquity of the congregation, to make atonement for them before the"
+            },
+            {
+              "rowId": 121,
+              "keyParts": [
+                121,
+                "p5",
+                "verse",
+                "v17",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 122,
+              "keyParts": [
+                122,
+                "p5",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "?"
+            },
+            {
+              "rowId": 123,
+              "keyParts": [
+                "v017_ESV_LEV_010",
+                123,
+                "p5",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 “Why have you not eaten the sin offering in the place of the sanctuary, since it is a thing most holy and has been given to you that you may bear the iniquity of the congregation, to make atonement for them before the Lord ?"
+            },
+            {
+              "rowId": 124,
+              "keyParts": [
+                124,
+                "p5",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 125,
+              "keyParts": [
+                125,
+                "p5",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "Behold,"
+            },
+            {
+              "rowId": 126,
+              "keyParts": [
+                126,
+                "p5",
+                "verse",
+                "v18",
+                "note",
+                "x"
+              ],
+              "value": "#ch.6:30"
+            },
+            {
+              "rowId": 127,
+              "keyParts": [
+                127,
+                "p5",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "its blood was not brought into the inner part of the sanctuary. You certainly ought to have eaten it in the sanctuary,"
+            },
+            {
+              "rowId": 128,
+              "keyParts": [
+                128,
+                "p5",
+                "verse",
+                "v18",
+                "note",
+                "x"
+              ],
+              "value": "#ch.6:26"
+            },
+            {
+              "rowId": 129,
+              "keyParts": [
+                129,
+                "p5",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "as I commanded.”"
+            },
+            {
+              "rowId": 130,
+              "keyParts": [
+                "v018_ESV_LEV_010",
+                130,
+                "p5",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 Behold, its blood was not brought into the inner part of the sanctuary. You certainly ought to have eaten it in the sanctuary, as I commanded.”"
+            },
+            {
+              "rowId": 131,
+              "keyParts": [
+                131,
+                "p5",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 132,
+              "keyParts": [
+                132,
+                "p5",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "And Aaron said to Moses, “Behold,"
+            },
+            {
+              "rowId": 133,
+              "keyParts": [
+                133,
+                "p5",
+                "verse",
+                "v19",
+                "note",
+                "x"
+              ],
+              "value": "#ch.9:8,12"
+            },
+            {
+              "rowId": 134,
+              "keyParts": [
+                134,
+                "p5",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "today they have offered their sin offering and their burnt offering before the"
+            },
+            {
+              "rowId": 135,
+              "keyParts": [
+                135,
+                "p5",
+                "verse",
+                "v19",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 136,
+              "keyParts": [
+                136,
+                "p5",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": ", and yet such things as these have happened to me! If I had eaten the sin offering today,"
+            },
+            {
+              "rowId": 137,
+              "keyParts": [
+                137,
+                "p5",
+                "verse",
+                "v19",
+                "note",
+                "x"
+              ],
+              "value": "#Jer. 6:20;14:12;Hos. 9:4;Mal. 1:10,13;2:13"
+            },
+            {
+              "rowId": 138,
+              "keyParts": [
+                138,
+                "p5",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "would the"
+            },
+            {
+              "rowId": 139,
+              "keyParts": [
+                139,
+                "p5",
+                "verse",
+                "v19",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 140,
+              "keyParts": [
+                140,
+                "p5",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "have approved?”"
+            },
+            {
+              "rowId": 141,
+              "keyParts": [
+                "v019_ESV_LEV_010",
+                141,
+                "p5",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 And Aaron said to Moses, “Behold, today they have offered their sin offering and their burnt offering before the Lord , and yet such things as these have happened to me! If I had eaten the sin offering today, would the Lord have approved?”"
+            },
+            {
+              "rowId": 142,
+              "keyParts": [
+                142,
+                "p5",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 143,
+              "keyParts": [
+                143,
+                "p5",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "And when Moses heard that, he approved."
+            },
+            {
+              "rowId": 144,
+              "keyParts": [
+                "v020_ESV_LEV_010",
+                144,
+                "p5",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 And when Moses heard that, he approved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

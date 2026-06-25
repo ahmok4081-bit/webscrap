@@ -1,0 +1,1609 @@
+{
+  "translationId": "ESV",
+  "name": "English Standard Version",
+  "abbreviation": "ESV",
+  "language": "English",
+  "copyright": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.",
+  "books": [
+    {
+      "bookId": "DEU",
+      "testament": "OT",
+      "order": 5,
+      "title": "Deuteronomy",
+      "abbreviation": "DEU",
+      "chapters": [
+        {
+          "chapter": 26,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "26"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Offerings of Firstfruits and Tithes"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "“When you come into the land that the"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "your God is giving you for an inheritance and have taken possession of it and live in it,"
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                "v001_ESV_DEU_026",
+                7,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 “When you come into the land that the Lord your God is giving you for an inheritance and have taken possession of it and live in it,"
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                9,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#ch.16:10;Ex. 23:19;34:26;Num. 15:20;18:13;Prov. 3:9"
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "you shall take some of the first of all the fruit of the ground, which you harvest from your land that the"
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                11,
+                "p1",
+                "verse",
+                "v2",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                12,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "your God is giving you, and you shall put it in a basket, and you shall"
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                13,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.12:5"
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "go to the place that the"
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                15,
+                "p1",
+                "verse",
+                "v2",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                16,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "your God will choose, to make his name to dwell there."
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                "v002_ESV_DEU_026",
+                17,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 you shall take some of the first of all the fruit of the ground, which you harvest from your land that the Lord your God is giving you, and you shall put it in a basket, and you shall go to the place that the Lord your God will choose, to make his name to dwell there."
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "p1",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "And you shall go to the priest who is in office at that time and say to him, ‘I declare today to the"
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                20,
+                "p1",
+                "verse",
+                "v3",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "your God that I have come into the land"
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                22,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 13:5;See ch.1:8"
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "that the"
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                24,
+                "p1",
+                "verse",
+                "v3",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "swore to our fathers to give us.’"
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                "v003_ESV_DEU_026",
+                26,
+                "p1",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 And you shall go to the priest who is in office at that time and say to him, ‘I declare today to the Lord your God that I have come into the land that the Lord swore to our fathers to give us.’"
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                27,
+                "p1",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                28,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "Then the priest shall take the basket from your hand and set it down before the altar of the"
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                29,
+                "p1",
+                "verse",
+                "v4",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                30,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "your God."
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                "v004_ESV_DEU_026",
+                31,
+                "p1",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 Then the priest shall take the basket from your hand and set it down before the altar of the Lord your God."
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "p2",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                33,
+                "p2",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "“And you shall make response before the"
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                34,
+                "p2",
+                "verse",
+                "v5",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                35,
+                "p2",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "your God, ‘A"
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "p2",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#Gen. 43:1,2"
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                37,
+                "p2",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "wandering Aramean was my father. And he went down into Egypt and sojourned there,"
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                38,
+                "p2",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#[ch.10:22;Gen. 46:27;Acts 7:14,15]"
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                39,
+                "p2",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "few in number, and there he became a nation, great, mighty, and populous."
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                "v005_ESV_DEU_026",
+                40,
+                "p2",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 “And you shall make response before the Lord your God, ‘A wandering Aramean was my father. And he went down into Egypt and sojourned there, few in number, and there he became a nation, great, mighty, and populous."
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p2",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "p2",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "And"
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                43,
+                "p2",
+                "verse",
+                "v6",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 1:11,14;Num. 20:15"
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                44,
+                "p2",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "the Egyptians treated us harshly and humiliated us and laid on us hard labor."
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                "v006_ESV_DEU_026",
+                45,
+                "p2",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 And the Egyptians treated us harshly and humiliated us and laid on us hard labor."
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                46,
+                "p2",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                47,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "Then"
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                48,
+                "p2",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 2:23-25;3:9;Num. 20:16"
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                49,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "we cried to the"
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "p2",
+                "verse",
+                "v7",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                51,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": ", the God of our fathers, and the"
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                52,
+                "p2",
+                "verse",
+                "v7",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                53,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "heard our voice and saw our affliction, our toil, and our oppression."
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                "v007_ESV_DEU_026",
+                54,
+                "p2",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 Then we cried to the Lord , the God of our fathers, and the Lord heard our voice and saw our affliction, our toil, and our oppression."
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                55,
+                "p2",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                56,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "And"
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                57,
+                "p2",
+                "verse",
+                "v8",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 12:37,51"
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                58,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "the"
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                59,
+                "p2",
+                "verse",
+                "v8",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                60,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "brought us out of Egypt"
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                61,
+                "p2",
+                "verse",
+                "v8",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.4:34"
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                62,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "with a mighty hand and an outstretched arm, with great deeds of terror,"
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                63,
+                "p2",
+                "verse",
+                "v8",
+                "note",
+                "f"
+              ],
+              "value": "#26:8Hebrewwith great terror"
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                64,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "with signs and wonders."
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                "v008_ESV_DEU_026",
+                65,
+                "p2",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 And the Lord brought us out of Egypt with a mighty hand and an outstretched arm, with great deeds of terror, with signs and wonders."
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                66,
+                "p2",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                67,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "And he brought us into this place and gave us this land,"
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                68,
+                "p2",
+                "verse",
+                "v9",
+                "note",
+                "x"
+              ],
+              "value": "#SeeEx. 3:8"
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                69,
+                "p2",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "a land flowing with milk and honey."
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                "v009_ESV_DEU_026",
+                70,
+                "p2",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 And he brought us into this place and gave us this land, a land flowing with milk and honey."
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                71,
+                "p2",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                72,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "And behold, now I bring the first of the fruit of the ground, which you, O"
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                73,
+                "p2",
+                "verse",
+                "v10",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                74,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": ", have given me.’ And you shall set it down before the"
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                75,
+                "p2",
+                "verse",
+                "v10",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                76,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "your God and worship before the"
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                77,
+                "p2",
+                "verse",
+                "v10",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                78,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "your God."
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                "v010_ESV_DEU_026",
+                79,
+                "p2",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 And behold, now I bring the first of the fruit of the ground, which you, O Lord , have given me.’ And you shall set it down before the Lord your God and worship before the Lord your God."
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                80,
+                "p2",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                81,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "And"
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                82,
+                "p2",
+                "verse",
+                "v11",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.12:7"
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                83,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "you shall rejoice in all the good that the"
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                84,
+                "p2",
+                "verse",
+                "v11",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                85,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "your God has given to you and to your house, you, and the Levite, and the sojourner who is among you."
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                "v011_ESV_DEU_026",
+                86,
+                "p2",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 And you shall rejoice in all the good that the Lord your God has given to you and to your house, you, and the Levite, and the sojourner who is among you."
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                87,
+                "p3",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                88,
+                "p3",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "“When you have finished paying all"
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                89,
+                "p3",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#SeeLev. 27:30"
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                90,
+                "p3",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "the tithe of your produce in the third year, which is"
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                91,
+                "p3",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#ch.14:28,29;[Amos 4:4]"
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                92,
+                "p3",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "the year of tithing, giving it to the Levite, the sojourner, the fatherless, and the widow, so that they may eat within your towns and be filled,"
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                "v012_ESV_DEU_026",
+                93,
+                "p3",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 “When you have finished paying all the tithe of your produce in the third year, which is the year of tithing, giving it to the Levite, the sojourner, the fatherless, and the widow, so that they may eat within your towns and be filled,"
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                94,
+                "p3",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                95,
+                "p3",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "then you shall say before the"
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                96,
+                "p3",
+                "verse",
+                "v13",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                97,
+                "p3",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "your God, ‘I have removed the sacred portion out of my house, and moreover, I have given it to the Levite, the sojourner, the fatherless, and the widow, according to all your commandment that you have commanded me. I have not transgressed any of your commandments,"
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                98,
+                "p3",
+                "verse",
+                "v13",
+                "note",
+                "x"
+              ],
+              "value": "#Ps. 119:141,153,176"
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                99,
+                "p3",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "nor have I forgotten them."
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                "v013_ESV_DEU_026",
+                100,
+                "p3",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 then you shall say before the Lord your God, ‘I have removed the sacred portion out of my house, and moreover, I have given it to the Levite, the sojourner, the fatherless, and the widow, according to all your commandment that you have commanded me. I have not transgressed any of your commandments, nor have I forgotten them."
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                101,
+                "p3",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                102,
+                "p3",
+                "verse",
+                "v14",
+                "note",
+                "x"
+              ],
+              "value": "#Lev. 7:20;21:1,11;Hos. 9:4"
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                103,
+                "p3",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "I have not eaten of the tithe while I was mourning, or removed any of it while I was unclean, or offered any of it"
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                104,
+                "p3",
+                "verse",
+                "v14",
+                "note",
+                "x"
+              ],
+              "value": "#[Jer. 16:7]"
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                105,
+                "p3",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "to the dead. I have obeyed the voice of the"
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                106,
+                "p3",
+                "verse",
+                "v14",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                107,
+                "p3",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "my God. I have done according to all that you have commanded me."
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                "v014_ESV_DEU_026",
+                108,
+                "p3",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 I have not eaten of the tithe while I was mourning, or removed any of it while I was unclean, or offered any of it to the dead. I have obeyed the voice of the Lord my God. I have done according to all that you have commanded me."
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                109,
+                "p3",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                110,
+                "p3",
+                "verse",
+                "v15",
+                "note",
+                "x"
+              ],
+              "value": "#Isa. 63:15;Zech. 2:13"
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                111,
+                "p3",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "Look down from your holy habitation, from heaven, and bless your people Israel and the ground that you have given us, as you swore to our fathers, a land flowing with milk and honey.’"
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                "v015_ESV_DEU_026",
+                112,
+                "p3",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 Look down from your holy habitation, from heaven, and bless your people Israel and the ground that you have given us, as you swore to our fathers, a land flowing with milk and honey.’"
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                113,
+                "p4",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                114,
+                "p4",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "“This day the"
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                115,
+                "p4",
+                "verse",
+                "v16",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                116,
+                "p4",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "your God commands you to do these statutes and rules. You shall therefore be careful to do them with all your heart and with all your soul."
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                "v016_ESV_DEU_026",
+                117,
+                "p4",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 “This day the Lord your God commands you to do these statutes and rules. You shall therefore be careful to do them with all your heart and with all your soul."
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                118,
+                "p4",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                119,
+                "p4",
+                "verse",
+                "v17",
+                "note",
+                "x"
+              ],
+              "value": "#[Ex. 24:7]"
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                120,
+                "p4",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "You have declared today that the"
+            },
+            {
+              "rowId": 121,
+              "keyParts": [
+                121,
+                "p4",
+                "verse",
+                "v17",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 122,
+              "keyParts": [
+                122,
+                "p4",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "is your God, and that you will walk in his ways, and keep his statutes and his commandments and his rules, and will obey his voice."
+            },
+            {
+              "rowId": 123,
+              "keyParts": [
+                "v017_ESV_DEU_026",
+                123,
+                "p4",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 You have declared today that the Lord is your God, and that you will walk in his ways, and keep his statutes and his commandments and his rules, and will obey his voice."
+            },
+            {
+              "rowId": 124,
+              "keyParts": [
+                124,
+                "p4",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 125,
+              "keyParts": [
+                125,
+                "p4",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "And the"
+            },
+            {
+              "rowId": 126,
+              "keyParts": [
+                126,
+                "p4",
+                "verse",
+                "v18",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 127,
+              "keyParts": [
+                127,
+                "p4",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "has declared today that you are"
+            },
+            {
+              "rowId": 128,
+              "keyParts": [
+                128,
+                "p4",
+                "verse",
+                "v18",
+                "note",
+                "x"
+              ],
+              "value": "#ch.7:6;14:2;SeeEx. 19:5"
+            },
+            {
+              "rowId": 129,
+              "keyParts": [
+                129,
+                "p4",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "a people for his treasured possession, as he has promised you, and that you are to keep all his commandments,"
+            },
+            {
+              "rowId": 130,
+              "keyParts": [
+                "v018_ESV_DEU_026",
+                130,
+                "p4",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 And the Lord has declared today that you are a people for his treasured possession, as he has promised you, and that you are to keep all his commandments,"
+            },
+            {
+              "rowId": 131,
+              "keyParts": [
+                131,
+                "p4",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 132,
+              "keyParts": [
+                132,
+                "p4",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "and that he will set you in praise and in fame and in honor"
+            },
+            {
+              "rowId": 133,
+              "keyParts": [
+                133,
+                "p4",
+                "verse",
+                "v19",
+                "note",
+                "x"
+              ],
+              "value": "#ch.28:1;[ch.32:8]"
+            },
+            {
+              "rowId": 134,
+              "keyParts": [
+                134,
+                "p4",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "high above all nations"
+            },
+            {
+              "rowId": 135,
+              "keyParts": [
+                135,
+                "p4",
+                "verse",
+                "v19",
+                "note",
+                "x"
+              ],
+              "value": "#Ps. 86:9"
+            },
+            {
+              "rowId": 136,
+              "keyParts": [
+                136,
+                "p4",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "that he has made, and that you shall be"
+            },
+            {
+              "rowId": 137,
+              "keyParts": [
+                137,
+                "p4",
+                "verse",
+                "v19",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.7:6"
+            },
+            {
+              "rowId": 138,
+              "keyParts": [
+                138,
+                "p4",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "a people holy to the"
+            },
+            {
+              "rowId": 139,
+              "keyParts": [
+                139,
+                "p4",
+                "verse",
+                "v19",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 140,
+              "keyParts": [
+                140,
+                "p4",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "your God, as he promised.”"
+            },
+            {
+              "rowId": 141,
+              "keyParts": [
+                "v019_ESV_DEU_026",
+                141,
+                "p4",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 and that he will set you in praise and in fame and in honor high above all nations that he has made, and that you shall be a people holy to the Lord your God, as he promised.”"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

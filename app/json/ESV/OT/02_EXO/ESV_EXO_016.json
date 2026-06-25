@@ -1,0 +1,2724 @@
+{
+  "translationId": "ESV",
+  "name": "English Standard Version",
+  "abbreviation": "ESV",
+  "language": "English",
+  "copyright": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.",
+  "books": [
+    {
+      "bookId": "EXO",
+      "testament": "OT",
+      "order": 2,
+      "title": "Exodus",
+      "abbreviation": "EXO",
+      "chapters": [
+        {
+          "chapter": 16,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Bread from Heaven"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "They"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 33:10,11"
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "set out from Elim, and all the congregation of the people of Israel came to the wilderness of Sin, which is between Elim and Sinai, on the fifteenth day of the second month after they had departed from the land of Egypt."
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                "v001_ESV_EXO_016",
+                7,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 They set out from Elim, and all the congregation of the people of Israel came to the wilderness of Sin, which is between Elim and Sinai, on the fifteenth day of the second month after they had departed from the land of Egypt."
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                9,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "And the whole congregation of the people of Israel"
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#ch.15:24;17:3;1 Cor. 10:10"
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                11,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "grumbled against Moses and Aaron in the wilderness,"
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                "v002_ESV_EXO_016",
+                12,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 And the whole congregation of the people of Israel grumbled against Moses and Aaron in the wilderness,"
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                13,
+                "p1",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "and the people of Israel said to them,"
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                15,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#[Num. 20:3-5]"
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                16,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "“Would that we had died by the hand of the"
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                17,
+                "p1",
+                "verse",
+                "v3",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "in the land of Egypt,"
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 11:4,5"
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                20,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "when we sat by the meat pots and ate bread to the full, for you have brought us out into this wilderness to kill this whole assembly with hunger.”"
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                "v003_ESV_EXO_016",
+                21,
+                "p1",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 and the people of Israel said to them, “Would that we had died by the hand of the Lord in the land of Egypt, when we sat by the meat pots and ate bread to the full, for you have brought us out into this wilderness to kill this whole assembly with hunger.”"
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                22,
+                "p2",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "p2",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "Then the"
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                24,
+                "p2",
+                "verse",
+                "v4",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "p2",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "said to Moses, “Behold, I am about to rain"
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                26,
+                "p2",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#Neh. 9:15;Ps. 78:24,25;105:40;John 6:31,32;1 Cor. 10:3"
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                27,
+                "p2",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "bread from heaven for you, and the people shall go out and gather a day’s portion every day, that I may"
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                28,
+                "p2",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.15:25"
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                29,
+                "p2",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "test them, whether they will walk in my law or not."
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                "v004_ESV_EXO_016",
+                30,
+                "p2",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 Then the Lord said to Moses, “Behold, I am about to rain bread from heaven for you, and the people shall go out and gather a day’s portion every day, that I may test them, whether they will walk in my law or not."
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                31,
+                "p2",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "p2",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "On the sixth day, when they prepare what they bring in,"
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                33,
+                "p2",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#ver.22"
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                34,
+                "p2",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "it will be twice as much as they gather daily.”"
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                "v005_ESV_EXO_016",
+                35,
+                "p2",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 On the sixth day, when they prepare what they bring in, it will be twice as much as they gather daily.”"
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "p2",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                37,
+                "p2",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "So Moses and Aaron said to all the people of Israel,"
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                38,
+                "p2",
+                "verse",
+                "v6",
+                "note",
+                "x"
+              ],
+              "value": "#ver.12, 13"
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                39,
+                "p2",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "“At evening"
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                40,
+                "p2",
+                "verse",
+                "v6",
+                "note",
+                "x"
+              ],
+              "value": "#ch.6:7;[Num. 16:28-30]"
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p2",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "you shall know that it was the"
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "p2",
+                "verse",
+                "v6",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                43,
+                "p2",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "who brought you out of the land of Egypt,"
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                "v006_ESV_EXO_016",
+                44,
+                "p2",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 So Moses and Aaron said to all the people of Israel, “At evening you shall know that it was the Lord who brought you out of the land of Egypt,"
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                45,
+                "p2",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                46,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "and in the morning you shall see the"
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                47,
+                "p2",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#ch.40:34;Num. 16:19;1 Kgs. 8:10,11;[ch.13:21;14:24]"
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                48,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "glory of the"
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                49,
+                "p2",
+                "verse",
+                "v7",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": ", because he has heard your grumbling against the"
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                51,
+                "p2",
+                "verse",
+                "v7",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                52,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": ". For"
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                53,
+                "p2",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 16:11"
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                54,
+                "p2",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "what are we, that you grumble against us?”"
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                "v007_ESV_EXO_016",
+                55,
+                "p2",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 and in the morning you shall see the glory of the Lord , because he has heard your grumbling against the Lord . For what are we, that you grumble against us?”"
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                56,
+                "p2",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                57,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "And Moses said, “When the"
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                58,
+                "p2",
+                "verse",
+                "v8",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                59,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "gives you in the evening meat to eat and in the morning bread to the full, because the"
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                60,
+                "p2",
+                "verse",
+                "v8",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                61,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "has heard your grumbling that you grumble against him—"
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                62,
+                "p2",
+                "verse",
+                "v8",
+                "note",
+                "x"
+              ],
+              "value": "#ver.7"
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                63,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "what are we? Your grumbling is not"
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                64,
+                "p2",
+                "verse",
+                "v8",
+                "note",
+                "x"
+              ],
+              "value": "#[Num. 14:27;1 Sam. 8:7;Luke 10:16;Rom. 13:2]"
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                65,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "against us but against the"
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                66,
+                "p2",
+                "verse",
+                "v8",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                67,
+                "p2",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": ".”"
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                "v008_ESV_EXO_016",
+                68,
+                "p2",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 And Moses said, “When the Lord gives you in the evening meat to eat and in the morning bread to the full, because the Lord has heard your grumbling that you grumble against him— what are we? Your grumbling is not against us but against the Lord .”"
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                69,
+                "p3",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                70,
+                "p3",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "Then Moses"
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                71,
+                "p3",
+                "verse",
+                "v9",
+                "note",
+                "x"
+              ],
+              "value": "#[ch.4:14-16]"
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                72,
+                "p3",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "said to Aaron, “Say to the whole congregation of the people of Israel,"
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                73,
+                "p3",
+                "verse",
+                "v9",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 16:16"
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                74,
+                "p3",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "‘Come near before the"
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                75,
+                "p3",
+                "verse",
+                "v9",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                76,
+                "p3",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": ", for he has heard your grumbling.’”"
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                "v009_ESV_EXO_016",
+                77,
+                "p3",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 Then Moses said to Aaron, “Say to the whole congregation of the people of Israel, ‘Come near before the Lord , for he has heard your grumbling.’”"
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                78,
+                "p3",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                79,
+                "p3",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "And as soon as Aaron spoke to the whole congregation of the people of Israel, they looked toward the wilderness, and behold, the"
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                80,
+                "p3",
+                "verse",
+                "v10",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.7above]"
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                81,
+                "p3",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "glory of the"
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                82,
+                "p3",
+                "verse",
+                "v10",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                83,
+                "p3",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "appeared in the cloud."
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                "v010_ESV_EXO_016",
+                84,
+                "p3",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 And as soon as Aaron spoke to the whole congregation of the people of Israel, they looked toward the wilderness, and behold, the glory of the Lord appeared in the cloud."
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                85,
+                "p3",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                86,
+                "p3",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "And the"
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                87,
+                "p3",
+                "verse",
+                "v11",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                88,
+                "p3",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "said to Moses,"
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                "v011_ESV_EXO_016",
+                89,
+                "p3",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 And the Lord said to Moses,"
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                90,
+                "p3",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                91,
+                "p3",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "“I"
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                92,
+                "p3",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#ver.8"
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                93,
+                "p3",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "have heard the grumbling of the people of Israel. Say to them, ‘At"
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                94,
+                "p3",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#ver.6"
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                95,
+                "p3",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "twilight you shall eat meat, and"
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                96,
+                "p3",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#ver.7"
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                97,
+                "p3",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "in the morning you shall be filled with bread. Then you shall know that I am the"
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                98,
+                "p3",
+                "verse",
+                "v12",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                99,
+                "p3",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "your God.’”"
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                "v012_ESV_EXO_016",
+                100,
+                "p3",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 “I have heard the grumbling of the people of Israel. Say to them, ‘At twilight you shall eat meat, and in the morning you shall be filled with bread. Then you shall know that I am the Lord your God.’”"
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                101,
+                "p4",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                102,
+                "p4",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "In the evening"
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                103,
+                "p4",
+                "verse",
+                "v13",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 11:31;Ps. 78:27,28;105:40"
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                104,
+                "p4",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "quail came up and covered the camp, and in the morning"
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                105,
+                "p4",
+                "verse",
+                "v13",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 11:9"
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                106,
+                "p4",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "dew lay around the camp."
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                "v013_ESV_EXO_016",
+                107,
+                "p4",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 In the evening quail came up and covered the camp, and in the morning dew lay around the camp."
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                108,
+                "p4",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                109,
+                "p4",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "And when the dew had gone up, there was on the face of the wilderness a fine, flake-like thing, fine as frost on the ground."
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                "v014_ESV_EXO_016",
+                110,
+                "p4",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 And when the dew had gone up, there was on the face of the wilderness a fine, flake-like thing, fine as frost on the ground."
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                111,
+                "p4",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                112,
+                "p4",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "When the people of Israel saw it, they said to one another,"
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                113,
+                "p4",
+                "verse",
+                "v15",
+                "note",
+                "x"
+              ],
+              "value": "#ver.31"
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                114,
+                "p4",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "“What is it?”"
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                115,
+                "p4",
+                "verse",
+                "v15",
+                "note",
+                "f"
+              ],
+              "value": "#16:15Or“It is manna”; Hebrewman hu"
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                116,
+                "p4",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "For they"
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                117,
+                "p4",
+                "verse",
+                "v15",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 8:3"
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                118,
+                "p4",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "did not know what it was. And Moses said to them,"
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                119,
+                "p4",
+                "verse",
+                "v15",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 8:3;See ver.4"
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                120,
+                "p4",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "“It is the bread that the"
+            },
+            {
+              "rowId": 121,
+              "keyParts": [
+                121,
+                "p4",
+                "verse",
+                "v15",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 122,
+              "keyParts": [
+                122,
+                "p4",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "has given you to eat."
+            },
+            {
+              "rowId": 123,
+              "keyParts": [
+                "v015_ESV_EXO_016",
+                123,
+                "p4",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 When the people of Israel saw it, they said to one another, “What is it?” For they did not know what it was. And Moses said to them, “It is the bread that the Lord has given you to eat."
+            },
+            {
+              "rowId": 124,
+              "keyParts": [
+                124,
+                "p4",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 125,
+              "keyParts": [
+                125,
+                "p4",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "This is what the"
+            },
+            {
+              "rowId": 126,
+              "keyParts": [
+                126,
+                "p4",
+                "verse",
+                "v16",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 127,
+              "keyParts": [
+                127,
+                "p4",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "has commanded: ‘Gather of it, each one of you, as much as he can eat. You shall each take an"
+            },
+            {
+              "rowId": 128,
+              "keyParts": [
+                128,
+                "p4",
+                "verse",
+                "v16",
+                "note",
+                "x"
+              ],
+              "value": "#ver.36"
+            },
+            {
+              "rowId": 129,
+              "keyParts": [
+                129,
+                "p4",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "omer,"
+            },
+            {
+              "rowId": 130,
+              "keyParts": [
+                130,
+                "p4",
+                "verse",
+                "v16",
+                "note",
+                "f"
+              ],
+              "value": "#16:16Anomerwas about 2 quarts or 2 liters"
+            },
+            {
+              "rowId": 131,
+              "keyParts": [
+                131,
+                "p4",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "according to the number of the persons that each of you has in his tent.’”"
+            },
+            {
+              "rowId": 132,
+              "keyParts": [
+                "v016_ESV_EXO_016",
+                132,
+                "p4",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 This is what the Lord has commanded: ‘Gather of it, each one of you, as much as he can eat. You shall each take an omer, according to the number of the persons that each of you has in his tent.’”"
+            },
+            {
+              "rowId": 133,
+              "keyParts": [
+                133,
+                "p4",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 134,
+              "keyParts": [
+                134,
+                "p4",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "And the people of Israel did so. They gathered, some more, some less."
+            },
+            {
+              "rowId": 135,
+              "keyParts": [
+                "v017_ESV_EXO_016",
+                135,
+                "p4",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 And the people of Israel did so. They gathered, some more, some less."
+            },
+            {
+              "rowId": 136,
+              "keyParts": [
+                136,
+                "p4",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 137,
+              "keyParts": [
+                137,
+                "p4",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "But when they measured it with an omer,"
+            },
+            {
+              "rowId": 138,
+              "keyParts": [
+                138,
+                "p4",
+                "verse",
+                "v18",
+                "note",
+                "x"
+              ],
+              "value": "#Cited2 Cor. 8:15"
+            },
+            {
+              "rowId": 139,
+              "keyParts": [
+                139,
+                "p4",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "whoever gathered much had nothing left over, and whoever gathered little had no lack. Each of them gathered as much as he could eat."
+            },
+            {
+              "rowId": 140,
+              "keyParts": [
+                "v018_ESV_EXO_016",
+                140,
+                "p4",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 But when they measured it with an omer, whoever gathered much had nothing left over, and whoever gathered little had no lack. Each of them gathered as much as he could eat."
+            },
+            {
+              "rowId": 141,
+              "keyParts": [
+                141,
+                "p4",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 142,
+              "keyParts": [
+                142,
+                "p4",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "And Moses said to them, “Let no one leave any of it over till the morning.”"
+            },
+            {
+              "rowId": 143,
+              "keyParts": [
+                "v019_ESV_EXO_016",
+                143,
+                "p4",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 And Moses said to them, “Let no one leave any of it over till the morning.”"
+            },
+            {
+              "rowId": 144,
+              "keyParts": [
+                144,
+                "p4",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 145,
+              "keyParts": [
+                145,
+                "p4",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "But they did not listen to Moses. Some left part of it till the morning, and"
+            },
+            {
+              "rowId": 146,
+              "keyParts": [
+                146,
+                "p4",
+                "verse",
+                "v20",
+                "note",
+                "x"
+              ],
+              "value": "#[ver.24]"
+            },
+            {
+              "rowId": 147,
+              "keyParts": [
+                147,
+                "p4",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "it bred worms and stank. And Moses was angry with them."
+            },
+            {
+              "rowId": 148,
+              "keyParts": [
+                "v020_ESV_EXO_016",
+                148,
+                "p4",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 But they did not listen to Moses. Some left part of it till the morning, and it bred worms and stank. And Moses was angry with them."
+            },
+            {
+              "rowId": 149,
+              "keyParts": [
+                149,
+                "p4",
+                "verse",
+                "v21",
+                "label"
+              ],
+              "value": "21"
+            },
+            {
+              "rowId": 150,
+              "keyParts": [
+                150,
+                "p4",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "Morning by morning they gathered it, each as much as he could eat; but when the sun grew hot, it melted."
+            },
+            {
+              "rowId": 151,
+              "keyParts": [
+                "v021_ESV_EXO_016",
+                151,
+                "p4",
+                "verse",
+                "v21",
+                "plain_text"
+              ],
+              "value": "21 Morning by morning they gathered it, each as much as he could eat; but when the sun grew hot, it melted."
+            },
+            {
+              "rowId": 152,
+              "keyParts": [
+                152,
+                "p5",
+                "verse",
+                "v22",
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 153,
+              "keyParts": [
+                153,
+                "p5",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "On"
+            },
+            {
+              "rowId": 154,
+              "keyParts": [
+                154,
+                "p5",
+                "verse",
+                "v22",
+                "note",
+                "x"
+              ],
+              "value": "#ver.5"
+            },
+            {
+              "rowId": 155,
+              "keyParts": [
+                155,
+                "p5",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "the sixth day they gathered twice as much bread, two omers each. And when all the leaders of the congregation came and told Moses,"
+            },
+            {
+              "rowId": 156,
+              "keyParts": [
+                "v022_ESV_EXO_016",
+                156,
+                "p5",
+                "verse",
+                "v22",
+                "plain_text"
+              ],
+              "value": "22 On the sixth day they gathered twice as much bread, two omers each. And when all the leaders of the congregation came and told Moses,"
+            },
+            {
+              "rowId": 157,
+              "keyParts": [
+                157,
+                "p5",
+                "verse",
+                "v23",
+                "label"
+              ],
+              "value": "23"
+            },
+            {
+              "rowId": 158,
+              "keyParts": [
+                158,
+                "p5",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "he said to them, “This is what the"
+            },
+            {
+              "rowId": 159,
+              "keyParts": [
+                159,
+                "p5",
+                "verse",
+                "v23",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 160,
+              "keyParts": [
+                160,
+                "p5",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "has commanded: ‘Tomorrow is a day of"
+            },
+            {
+              "rowId": 161,
+              "keyParts": [
+                161,
+                "p5",
+                "verse",
+                "v23",
+                "note",
+                "x"
+              ],
+              "value": "#ch.35:2,3;Gen. 2:3;Lev. 23:3;See ch.20:8-11; 31:14-17"
+            },
+            {
+              "rowId": 162,
+              "keyParts": [
+                162,
+                "p5",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "solemn rest, a holy Sabbath to the"
+            },
+            {
+              "rowId": 163,
+              "keyParts": [
+                163,
+                "p5",
+                "verse",
+                "v23",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 164,
+              "keyParts": [
+                164,
+                "p5",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "; bake what you will bake and boil what you will boil, and all that is left over lay aside to be kept till the morning.’”"
+            },
+            {
+              "rowId": 165,
+              "keyParts": [
+                "v023_ESV_EXO_016",
+                165,
+                "p5",
+                "verse",
+                "v23",
+                "plain_text"
+              ],
+              "value": "23 he said to them, “This is what the Lord has commanded: ‘Tomorrow is a day of solemn rest, a holy Sabbath to the Lord ; bake what you will bake and boil what you will boil, and all that is left over lay aside to be kept till the morning.’”"
+            },
+            {
+              "rowId": 166,
+              "keyParts": [
+                166,
+                "p5",
+                "verse",
+                "v24",
+                "label"
+              ],
+              "value": "24"
+            },
+            {
+              "rowId": 167,
+              "keyParts": [
+                167,
+                "p5",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "So they laid it aside till the morning, as Moses commanded them, and"
+            },
+            {
+              "rowId": 168,
+              "keyParts": [
+                168,
+                "p5",
+                "verse",
+                "v24",
+                "note",
+                "x"
+              ],
+              "value": "#[ver.20]"
+            },
+            {
+              "rowId": 169,
+              "keyParts": [
+                169,
+                "p5",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "it did not stink, and there were no worms in it."
+            },
+            {
+              "rowId": 170,
+              "keyParts": [
+                "v024_ESV_EXO_016",
+                170,
+                "p5",
+                "verse",
+                "v24",
+                "plain_text"
+              ],
+              "value": "24 So they laid it aside till the morning, as Moses commanded them, and it did not stink, and there were no worms in it."
+            },
+            {
+              "rowId": 171,
+              "keyParts": [
+                171,
+                "p5",
+                "verse",
+                "v25",
+                "label"
+              ],
+              "value": "25"
+            },
+            {
+              "rowId": 172,
+              "keyParts": [
+                172,
+                "p5",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "Moses said, “Eat it today, for"
+            },
+            {
+              "rowId": 173,
+              "keyParts": [
+                173,
+                "p5",
+                "verse",
+                "v25",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.23above]"
+            },
+            {
+              "rowId": 174,
+              "keyParts": [
+                174,
+                "p5",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "today is a Sabbath to the"
+            },
+            {
+              "rowId": 175,
+              "keyParts": [
+                175,
+                "p5",
+                "verse",
+                "v25",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 176,
+              "keyParts": [
+                176,
+                "p5",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "; today you will not find it in the field."
+            },
+            {
+              "rowId": 177,
+              "keyParts": [
+                "v025_ESV_EXO_016",
+                177,
+                "p5",
+                "verse",
+                "v25",
+                "plain_text"
+              ],
+              "value": "25 Moses said, “Eat it today, for today is a Sabbath to the Lord ; today you will not find it in the field."
+            },
+            {
+              "rowId": 178,
+              "keyParts": [
+                178,
+                "p5",
+                "verse",
+                "v26",
+                "label"
+              ],
+              "value": "26"
+            },
+            {
+              "rowId": 179,
+              "keyParts": [
+                179,
+                "p5",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "Six days you shall gather it, but on the seventh day, which is a Sabbath, there will be none.”"
+            },
+            {
+              "rowId": 180,
+              "keyParts": [
+                "v026_ESV_EXO_016",
+                180,
+                "p5",
+                "verse",
+                "v26",
+                "plain_text"
+              ],
+              "value": "26 Six days you shall gather it, but on the seventh day, which is a Sabbath, there will be none.”"
+            },
+            {
+              "rowId": 181,
+              "keyParts": [
+                181,
+                "p6",
+                "verse",
+                "v27",
+                "label"
+              ],
+              "value": "27"
+            },
+            {
+              "rowId": 182,
+              "keyParts": [
+                182,
+                "p6",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "On the seventh day some of the people went out to gather, but they found none."
+            },
+            {
+              "rowId": 183,
+              "keyParts": [
+                "v027_ESV_EXO_016",
+                183,
+                "p6",
+                "verse",
+                "v27",
+                "plain_text"
+              ],
+              "value": "27 On the seventh day some of the people went out to gather, but they found none."
+            },
+            {
+              "rowId": 184,
+              "keyParts": [
+                184,
+                "p6",
+                "verse",
+                "v28",
+                "label"
+              ],
+              "value": "28"
+            },
+            {
+              "rowId": 185,
+              "keyParts": [
+                185,
+                "p6",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "And the"
+            },
+            {
+              "rowId": 186,
+              "keyParts": [
+                186,
+                "p6",
+                "verse",
+                "v28",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 187,
+              "keyParts": [
+                187,
+                "p6",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "said to Moses,"
+            },
+            {
+              "rowId": 188,
+              "keyParts": [
+                188,
+                "p6",
+                "verse",
+                "v28",
+                "note",
+                "x"
+              ],
+              "value": "#[Ps. 78:10;Ezek. 20:13]"
+            },
+            {
+              "rowId": 189,
+              "keyParts": [
+                189,
+                "p6",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "“How long will you refuse to keep my commandments and my laws?"
+            },
+            {
+              "rowId": 190,
+              "keyParts": [
+                "v028_ESV_EXO_016",
+                190,
+                "p6",
+                "verse",
+                "v28",
+                "plain_text"
+              ],
+              "value": "28 And the Lord said to Moses, “How long will you refuse to keep my commandments and my laws?"
+            },
+            {
+              "rowId": 191,
+              "keyParts": [
+                191,
+                "p6",
+                "verse",
+                "v29",
+                "label"
+              ],
+              "value": "29"
+            },
+            {
+              "rowId": 192,
+              "keyParts": [
+                192,
+                "p6",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "See! The"
+            },
+            {
+              "rowId": 193,
+              "keyParts": [
+                193,
+                "p6",
+                "verse",
+                "v29",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 194,
+              "keyParts": [
+                194,
+                "p6",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "has given you the Sabbath; therefore on the sixth day he gives you bread for two days. Remain each of you in his place; let no one go out of his place on the seventh day.”"
+            },
+            {
+              "rowId": 195,
+              "keyParts": [
+                "v029_ESV_EXO_016",
+                195,
+                "p6",
+                "verse",
+                "v29",
+                "plain_text"
+              ],
+              "value": "29 See! The Lord has given you the Sabbath; therefore on the sixth day he gives you bread for two days. Remain each of you in his place; let no one go out of his place on the seventh day.”"
+            },
+            {
+              "rowId": 196,
+              "keyParts": [
+                196,
+                "p6",
+                "verse",
+                "v30",
+                "label"
+              ],
+              "value": "30"
+            },
+            {
+              "rowId": 197,
+              "keyParts": [
+                197,
+                "p6",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "So the people"
+            },
+            {
+              "rowId": 198,
+              "keyParts": [
+                198,
+                "p6",
+                "verse",
+                "v30",
+                "note",
+                "x"
+              ],
+              "value": "#Luke 23:56"
+            },
+            {
+              "rowId": 199,
+              "keyParts": [
+                199,
+                "p6",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "rested on the seventh day."
+            },
+            {
+              "rowId": 200,
+              "keyParts": [
+                "v030_ESV_EXO_016",
+                200,
+                "p6",
+                "verse",
+                "v30",
+                "plain_text"
+              ],
+              "value": "30 So the people rested on the seventh day."
+            },
+            {
+              "rowId": 201,
+              "keyParts": [
+                201,
+                "p7",
+                "verse",
+                "v31",
+                "label"
+              ],
+              "value": "31"
+            },
+            {
+              "rowId": 202,
+              "keyParts": [
+                202,
+                "p7",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "Now the house of Israel called its name"
+            },
+            {
+              "rowId": 203,
+              "keyParts": [
+                203,
+                "p7",
+                "verse",
+                "v31",
+                "note",
+                "x"
+              ],
+              "value": "#ver.15"
+            },
+            {
+              "rowId": 204,
+              "keyParts": [
+                204,
+                "p7",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "manna. It was"
+            },
+            {
+              "rowId": 205,
+              "keyParts": [
+                205,
+                "p7",
+                "verse",
+                "v31",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 11:7,8"
+            },
+            {
+              "rowId": 206,
+              "keyParts": [
+                206,
+                "p7",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "like coriander seed, white, and the taste of it was like wafers made with honey."
+            },
+            {
+              "rowId": 207,
+              "keyParts": [
+                "v031_ESV_EXO_016",
+                207,
+                "p7",
+                "verse",
+                "v31",
+                "plain_text"
+              ],
+              "value": "31 Now the house of Israel called its name manna. It was like coriander seed, white, and the taste of it was like wafers made with honey."
+            },
+            {
+              "rowId": 208,
+              "keyParts": [
+                208,
+                "p7",
+                "verse",
+                "v32",
+                "label"
+              ],
+              "value": "32"
+            },
+            {
+              "rowId": 209,
+              "keyParts": [
+                209,
+                "p7",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "Moses said, “This is what the"
+            },
+            {
+              "rowId": 210,
+              "keyParts": [
+                210,
+                "p7",
+                "verse",
+                "v32",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 211,
+              "keyParts": [
+                211,
+                "p7",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "has commanded: ‘Let an omer of it be kept throughout your generations, so that they may see the bread with which I fed you in the wilderness, when I brought you out of the land of Egypt.’”"
+            },
+            {
+              "rowId": 212,
+              "keyParts": [
+                "v032_ESV_EXO_016",
+                212,
+                "p7",
+                "verse",
+                "v32",
+                "plain_text"
+              ],
+              "value": "32 Moses said, “This is what the Lord has commanded: ‘Let an omer of it be kept throughout your generations, so that they may see the bread with which I fed you in the wilderness, when I brought you out of the land of Egypt.’”"
+            },
+            {
+              "rowId": 213,
+              "keyParts": [
+                213,
+                "p7",
+                "verse",
+                "v33",
+                "label"
+              ],
+              "value": "33"
+            },
+            {
+              "rowId": 214,
+              "keyParts": [
+                214,
+                "p7",
+                "verse",
+                "v33",
+                "content"
+              ],
+              "value": "And Moses said to Aaron, “Take a"
+            },
+            {
+              "rowId": 215,
+              "keyParts": [
+                215,
+                "p7",
+                "verse",
+                "v33",
+                "note",
+                "x"
+              ],
+              "value": "#Heb. 9:4"
+            },
+            {
+              "rowId": 216,
+              "keyParts": [
+                216,
+                "p7",
+                "verse",
+                "v33",
+                "content"
+              ],
+              "value": "jar, and put an omer of manna in it, and place it before the"
+            },
+            {
+              "rowId": 217,
+              "keyParts": [
+                217,
+                "p7",
+                "verse",
+                "v33",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 218,
+              "keyParts": [
+                218,
+                "p7",
+                "verse",
+                "v33",
+                "content"
+              ],
+              "value": "to be kept throughout your generations.”"
+            },
+            {
+              "rowId": 219,
+              "keyParts": [
+                "v033_ESV_EXO_016",
+                219,
+                "p7",
+                "verse",
+                "v33",
+                "plain_text"
+              ],
+              "value": "33 And Moses said to Aaron, “Take a jar, and put an omer of manna in it, and place it before the Lord to be kept throughout your generations.”"
+            },
+            {
+              "rowId": 220,
+              "keyParts": [
+                220,
+                "p7",
+                "verse",
+                "v34",
+                "label"
+              ],
+              "value": "34"
+            },
+            {
+              "rowId": 221,
+              "keyParts": [
+                221,
+                "p7",
+                "verse",
+                "v34",
+                "content"
+              ],
+              "value": "As the"
+            },
+            {
+              "rowId": 222,
+              "keyParts": [
+                222,
+                "p7",
+                "verse",
+                "v34",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 223,
+              "keyParts": [
+                223,
+                "p7",
+                "verse",
+                "v34",
+                "content"
+              ],
+              "value": "commanded Moses, so Aaron placed it before"
+            },
+            {
+              "rowId": 224,
+              "keyParts": [
+                224,
+                "p7",
+                "verse",
+                "v34",
+                "note",
+                "x"
+              ],
+              "value": "#ch.25:16,21;26:33,34;27:21;30:6,26,36;40:21"
+            },
+            {
+              "rowId": 225,
+              "keyParts": [
+                225,
+                "p7",
+                "verse",
+                "v34",
+                "content"
+              ],
+              "value": "the testimony to be kept."
+            },
+            {
+              "rowId": 226,
+              "keyParts": [
+                "v034_ESV_EXO_016",
+                226,
+                "p7",
+                "verse",
+                "v34",
+                "plain_text"
+              ],
+              "value": "34 As the Lord commanded Moses, so Aaron placed it before the testimony to be kept."
+            },
+            {
+              "rowId": 227,
+              "keyParts": [
+                227,
+                "p7",
+                "verse",
+                "v35",
+                "label"
+              ],
+              "value": "35"
+            },
+            {
+              "rowId": 228,
+              "keyParts": [
+                228,
+                "p7",
+                "verse",
+                "v35",
+                "content"
+              ],
+              "value": "The people of Israel"
+            },
+            {
+              "rowId": 229,
+              "keyParts": [
+                229,
+                "p7",
+                "verse",
+                "v35",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 8:2,3;Neh. 9:20,21"
+            },
+            {
+              "rowId": 230,
+              "keyParts": [
+                230,
+                "p7",
+                "verse",
+                "v35",
+                "content"
+              ],
+              "value": "ate the manna forty years, till they came to a habitable land. They ate the manna till"
+            },
+            {
+              "rowId": 231,
+              "keyParts": [
+                231,
+                "p7",
+                "verse",
+                "v35",
+                "note",
+                "x"
+              ],
+              "value": "#Josh. 5:12"
+            },
+            {
+              "rowId": 232,
+              "keyParts": [
+                232,
+                "p7",
+                "verse",
+                "v35",
+                "content"
+              ],
+              "value": "they came to the border of the land of Canaan."
+            },
+            {
+              "rowId": 233,
+              "keyParts": [
+                "v035_ESV_EXO_016",
+                233,
+                "p7",
+                "verse",
+                "v35",
+                "plain_text"
+              ],
+              "value": "35 The people of Israel ate the manna forty years, till they came to a habitable land. They ate the manna till they came to the border of the land of Canaan."
+            },
+            {
+              "rowId": 234,
+              "keyParts": [
+                234,
+                "p7",
+                "verse",
+                "v36",
+                "label"
+              ],
+              "value": "36"
+            },
+            {
+              "rowId": 235,
+              "keyParts": [
+                235,
+                "p7",
+                "verse",
+                "v36",
+                "content"
+              ],
+              "value": "(An omer is"
+            },
+            {
+              "rowId": 236,
+              "keyParts": [
+                236,
+                "p7",
+                "verse",
+                "v36",
+                "note",
+                "x"
+              ],
+              "value": "#Lev. 5:11;6:20"
+            },
+            {
+              "rowId": 237,
+              "keyParts": [
+                237,
+                "p7",
+                "verse",
+                "v36",
+                "content"
+              ],
+              "value": "the tenth part of an ephah.)"
+            },
+            {
+              "rowId": 238,
+              "keyParts": [
+                238,
+                "p7",
+                "verse",
+                "v36",
+                "note",
+                "f"
+              ],
+              "value": "#16:36Anephahwas about 3/5 bushel or 22 liters"
+            },
+            {
+              "rowId": 239,
+              "keyParts": [
+                "v036_ESV_EXO_016",
+                239,
+                "p7",
+                "verse",
+                "v36",
+                "plain_text"
+              ],
+              "value": "36 (An omer is the tenth part of an ephah.)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

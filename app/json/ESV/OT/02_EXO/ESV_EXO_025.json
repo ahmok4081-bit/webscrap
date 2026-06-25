@@ -1,0 +1,2174 @@
+{
+  "translationId": "ESV",
+  "name": "English Standard Version",
+  "abbreviation": "ESV",
+  "language": "English",
+  "copyright": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.",
+  "books": [
+    {
+      "bookId": "EXO",
+      "testament": "OT",
+      "order": 2,
+      "title": "Exodus",
+      "abbreviation": "EXO",
+      "chapters": [
+        {
+          "chapter": 25,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "25"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Contributions for the Sanctuary"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "The"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "said to Moses,"
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                "v001_ESV_EXO_025",
+                7,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 The Lord said to Moses,"
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                9,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#For ver. 1-7, see ch.35:4-9"
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "“Speak to the people of Israel, that they take for me a contribution. From"
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                11,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#ch.35:5,21,29;36:2;Judg. 5:2;1 Chr. 29:5;[Ezra 1:6;2:68;3:5;7:16]; Neh. 11:2; [2 Cor. 8:12; 9:7]"
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                12,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "every man whose heart moves him you shall receive the contribution for me."
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                "v002_ESV_EXO_025",
+                13,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 “Speak to the people of Israel, that they take for me a contribution. From every man whose heart moves him you shall receive the contribution for me."
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "p1",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                15,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "And this is the contribution that you shall receive from them: gold, silver, and bronze,"
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                "v003_ESV_EXO_025",
+                16,
+                "p1",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 And this is the contribution that you shall receive from them: gold, silver, and bronze,"
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                17,
+                "p1",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#ch.26:1,31,36"
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "blue and purple and scarlet yarns and fine twined linen, goats’ hair,"
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                "v004_ESV_EXO_025",
+                20,
+                "p1",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 blue and purple and scarlet yarns and fine twined linen, goats’ hair,"
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p1",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                22,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "tanned"
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "p1",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#ch.26:14"
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                24,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "rams’ skins, goatskins,"
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "p1",
+                "verse",
+                "v5",
+                "note",
+                "f"
+              ],
+              "value": "#25:5Uncertain; possiblydolphin skins, ordugong skins; compare 26:14"
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                26,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "acacia wood,"
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                "v005_ESV_EXO_025",
+                27,
+                "p1",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 tanned rams’ skins, goatskins, acacia wood,"
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                28,
+                "p1",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                29,
+                "p1",
+                "verse",
+                "v6",
+                "note",
+                "x"
+              ],
+              "value": "#ch.27:20"
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                30,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "oil for the lamps,"
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                31,
+                "p1",
+                "verse",
+                "v6",
+                "note",
+                "x"
+              ],
+              "value": "#ch.30:7,23,34;31:11"
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "spices for the anointing oil and for the fragrant incense,"
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                "v006_ESV_EXO_025",
+                33,
+                "p1",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 oil for the lamps, spices for the anointing oil and for the fragrant incense,"
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                34,
+                "p1",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                35,
+                "p1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "onyx stones, and stones for setting, for the"
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "p1",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#ch.28:4,15"
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                37,
+                "p1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "ephod and for the breastpiece."
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                "v007_ESV_EXO_025",
+                38,
+                "p1",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 onyx stones, and stones for setting, for the ephod and for the breastpiece."
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                39,
+                "p1",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                40,
+                "p1",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "And let them make me a"
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p1",
+                "verse",
+                "v8",
+                "note",
+                "x"
+              ],
+              "value": "#Heb. 9:1,2;See ch.36:1-4"
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "p1",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "sanctuary, that"
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                43,
+                "p1",
+                "verse",
+                "v8",
+                "note",
+                "x"
+              ],
+              "value": "#ch.29:45;1 Kgs. 6:13;2 Cor. 6:16;Rev. 21:3"
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                44,
+                "p1",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "I may dwell in their midst."
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                "v008_ESV_EXO_025",
+                45,
+                "p1",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 And let them make me a sanctuary, that I may dwell in their midst."
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                46,
+                "p1",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                47,
+                "p1",
+                "verse",
+                "v9",
+                "note",
+                "x"
+              ],
+              "value": "#ver.40"
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                48,
+                "p1",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "Exactly as I show you concerning the pattern of the"
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                49,
+                "p1",
+                "verse",
+                "v9",
+                "note",
+                "x"
+              ],
+              "value": "#ch.26:1"
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "p1",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "tabernacle, and of all its furniture, so you shall make it."
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "The Ark of the Covenant"
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                "v009_ESV_EXO_025",
+                52,
+                "p1",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 Exactly as I show you concerning the pattern of the tabernacle, and of all its furniture, so you shall make it."
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                53,
+                "p2",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                54,
+                "p2",
+                "verse",
+                "v10",
+                "note",
+                "x"
+              ],
+              "value": "#ch.37:1-3;Deut. 10:3;Heb. 9:4"
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                55,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "“They shall make an ark of acacia wood. Two cubits"
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                56,
+                "p2",
+                "verse",
+                "v10",
+                "note",
+                "f"
+              ],
+              "value": "#25:10Acubitwas about 18 inches or 45 centimeters"
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                57,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "and a half shall be its length, a cubit and a half its breadth, and a cubit and a half its height."
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                "v010_ESV_EXO_025",
+                58,
+                "p2",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 “They shall make an ark of acacia wood. Two cubits and a half shall be its length, a cubit and a half its breadth, and a cubit and a half its height."
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                59,
+                "p2",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                60,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "You shall overlay it with"
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                61,
+                "p2",
+                "verse",
+                "v11",
+                "note",
+                "x"
+              ],
+              "value": "#ver.24, 25;ch.30:3,4;37:2"
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                62,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "pure gold, inside and outside shall you overlay it, and you shall make on it a molding of gold around it."
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                "v011_ESV_EXO_025",
+                63,
+                "p2",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 You shall overlay it with pure gold, inside and outside shall you overlay it, and you shall make on it a molding of gold around it."
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                64,
+                "p2",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                65,
+                "p2",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "You shall cast four rings of gold for it and put them on its"
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                66,
+                "p2",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#ch.37:3"
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                67,
+                "p2",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "four feet, two rings on the one side of it, and two rings on the other side of it."
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                "v012_ESV_EXO_025",
+                68,
+                "p2",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 You shall cast four rings of gold for it and put them on its four feet, two rings on the one side of it, and two rings on the other side of it."
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                69,
+                "p2",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                70,
+                "p2",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "You shall make poles of acacia wood and overlay them with gold."
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                "v013_ESV_EXO_025",
+                71,
+                "p2",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 You shall make poles of acacia wood and overlay them with gold."
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                72,
+                "p2",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                73,
+                "p2",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "And you shall put the poles into the rings on the sides of the ark to carry the ark by them."
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                "v014_ESV_EXO_025",
+                74,
+                "p2",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 And you shall put the poles into the rings on the sides of the ark to carry the ark by them."
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                75,
+                "p2",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                76,
+                "p2",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "The"
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                77,
+                "p2",
+                "verse",
+                "v15",
+                "note",
+                "x"
+              ],
+              "value": "#1 Kgs. 8:8"
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                78,
+                "p2",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "poles shall remain in the rings of the ark; they shall not be taken from it."
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                "v015_ESV_EXO_025",
+                79,
+                "p2",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 The poles shall remain in the rings of the ark; they shall not be taken from it."
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                80,
+                "p2",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                81,
+                "p2",
+                "verse",
+                "v16",
+                "note",
+                "x"
+              ],
+              "value": "#[Deut. 31:26;1 Kgs. 8:9]"
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                82,
+                "p2",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "And you shall put into the ark the"
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                83,
+                "p2",
+                "verse",
+                "v16",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.16:34"
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                84,
+                "p2",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "testimony that I shall give you."
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                "v016_ESV_EXO_025",
+                85,
+                "p2",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 And you shall put into the ark the testimony that I shall give you."
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                86,
+                "p3",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                87,
+                "p3",
+                "verse",
+                "v17",
+                "note",
+                "x"
+              ],
+              "value": "#ch.37:6;Heb. 9:5"
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                88,
+                "p3",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "“You shall make a mercy seat"
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                89,
+                "p3",
+                "verse",
+                "v17",
+                "note",
+                "f"
+              ],
+              "value": "#25:17Orcover"
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                90,
+                "p3",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "of pure gold. Two cubits and a half shall be its length, and a cubit and a half its breadth."
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                "v017_ESV_EXO_025",
+                91,
+                "p3",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 “You shall make a mercy seat of pure gold. Two cubits and a half shall be its length, and a cubit and a half its breadth."
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                92,
+                "p3",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                93,
+                "p3",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "And you shall make two cherubim of gold; of"
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                94,
+                "p3",
+                "verse",
+                "v18",
+                "note",
+                "x"
+              ],
+              "value": "#ver.31;ch.37:7,17,22;Num. 8:4;10:2"
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                95,
+                "p3",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "hammered work shall you make them, on the two ends of the mercy seat."
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                "v018_ESV_EXO_025",
+                96,
+                "p3",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 And you shall make two cherubim of gold; of hammered work shall you make them, on the two ends of the mercy seat."
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                97,
+                "p3",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                98,
+                "p3",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "Make one cherub on the one end, and one cherub on the other end."
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                99,
+                "p3",
+                "verse",
+                "v19",
+                "note",
+                "x"
+              ],
+              "value": "#ch.37:8"
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                100,
+                "p3",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "Of one piece with the mercy seat shall you make the cherubim on its two ends."
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                "v019_ESV_EXO_025",
+                101,
+                "p3",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 Make one cherub on the one end, and one cherub on the other end. Of one piece with the mercy seat shall you make the cherubim on its two ends."
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                102,
+                "p3",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                103,
+                "p3",
+                "verse",
+                "v20",
+                "note",
+                "x"
+              ],
+              "value": "#1 Kgs. 8:7;1 Chr. 28:18;Heb. 9:5"
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                104,
+                "p3",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "The cherubim shall spread out their wings above, overshadowing the mercy seat with their wings, their faces one to another; toward the mercy seat shall the faces of the cherubim be."
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                "v020_ESV_EXO_025",
+                105,
+                "p3",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 The cherubim shall spread out their wings above, overshadowing the mercy seat with their wings, their faces one to another; toward the mercy seat shall the faces of the cherubim be."
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                106,
+                "p3",
+                "verse",
+                "v21",
+                "label"
+              ],
+              "value": "21"
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                107,
+                "p3",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "And you shall put the mercy seat on the top of the ark, and in the ark you shall put the testimony that I shall give you."
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                "v021_ESV_EXO_025",
+                108,
+                "p3",
+                "verse",
+                "v21",
+                "plain_text"
+              ],
+              "value": "21 And you shall put the mercy seat on the top of the ark, and in the ark you shall put the testimony that I shall give you."
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                109,
+                "p3",
+                "verse",
+                "v22",
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                110,
+                "p3",
+                "verse",
+                "v22",
+                "note",
+                "x"
+              ],
+              "value": "#ch.29:42,43;30:6,36;Lev. 16:2;Num. 17:4"
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                111,
+                "p3",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "There I will meet with you, and from above the mercy seat, from"
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                112,
+                "p3",
+                "verse",
+                "v22",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 7:89"
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                113,
+                "p3",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "between the two cherubim that are on the ark of the testimony, I will speak with you about all that I will give you in commandment for the people of Israel."
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "The Table for Bread"
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                "v022_ESV_EXO_025",
+                115,
+                "p3",
+                "verse",
+                "v22",
+                "plain_text"
+              ],
+              "value": "22 There I will meet with you, and from above the mercy seat, from between the two cherubim that are on the ark of the testimony, I will speak with you about all that I will give you in commandment for the people of Israel."
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                116,
+                "p4",
+                "verse",
+                "v23",
+                "label"
+              ],
+              "value": "23"
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                117,
+                "p4",
+                "verse",
+                "v23",
+                "note",
+                "x"
+              ],
+              "value": "#For ver. 23-29, see ch.37:10-16;[1 Kgs. 7:48;2 Chr. 4:8;Heb. 9:2]"
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                118,
+                "p4",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "“You shall make a table of acacia wood. Two cubits shall be its length, a cubit its breadth, and a cubit and a half its height."
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                "v023_ESV_EXO_025",
+                119,
+                "p4",
+                "verse",
+                "v23",
+                "plain_text"
+              ],
+              "value": "23 “You shall make a table of acacia wood. Two cubits shall be its length, a cubit its breadth, and a cubit and a half its height."
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                120,
+                "p4",
+                "verse",
+                "v24",
+                "label"
+              ],
+              "value": "24"
+            },
+            {
+              "rowId": 121,
+              "keyParts": [
+                121,
+                "p4",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "You shall overlay it with"
+            },
+            {
+              "rowId": 122,
+              "keyParts": [
+                122,
+                "p4",
+                "verse",
+                "v24",
+                "note",
+                "x"
+              ],
+              "value": "#ver.11"
+            },
+            {
+              "rowId": 123,
+              "keyParts": [
+                123,
+                "p4",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "pure gold and make a molding of gold around it."
+            },
+            {
+              "rowId": 124,
+              "keyParts": [
+                "v024_ESV_EXO_025",
+                124,
+                "p4",
+                "verse",
+                "v24",
+                "plain_text"
+              ],
+              "value": "24 You shall overlay it with pure gold and make a molding of gold around it."
+            },
+            {
+              "rowId": 125,
+              "keyParts": [
+                125,
+                "p4",
+                "verse",
+                "v25",
+                "label"
+              ],
+              "value": "25"
+            },
+            {
+              "rowId": 126,
+              "keyParts": [
+                126,
+                "p4",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "And you shall make a rim around it a handbreadth"
+            },
+            {
+              "rowId": 127,
+              "keyParts": [
+                127,
+                "p4",
+                "verse",
+                "v25",
+                "note",
+                "f"
+              ],
+              "value": "#25:25Ahandbreadthwas about 3 inches or 7.5 centimeters"
+            },
+            {
+              "rowId": 128,
+              "keyParts": [
+                128,
+                "p4",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "wide, and a molding of gold around the rim."
+            },
+            {
+              "rowId": 129,
+              "keyParts": [
+                "v025_ESV_EXO_025",
+                129,
+                "p4",
+                "verse",
+                "v25",
+                "plain_text"
+              ],
+              "value": "25 And you shall make a rim around it a handbreadth wide, and a molding of gold around the rim."
+            },
+            {
+              "rowId": 130,
+              "keyParts": [
+                130,
+                "p4",
+                "verse",
+                "v26",
+                "label"
+              ],
+              "value": "26"
+            },
+            {
+              "rowId": 131,
+              "keyParts": [
+                131,
+                "p4",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "And you shall make for it four rings of gold, and fasten the rings to the four corners at its four legs."
+            },
+            {
+              "rowId": 132,
+              "keyParts": [
+                "v026_ESV_EXO_025",
+                132,
+                "p4",
+                "verse",
+                "v26",
+                "plain_text"
+              ],
+              "value": "26 And you shall make for it four rings of gold, and fasten the rings to the four corners at its four legs."
+            },
+            {
+              "rowId": 133,
+              "keyParts": [
+                133,
+                "p4",
+                "verse",
+                "v27",
+                "label"
+              ],
+              "value": "27"
+            },
+            {
+              "rowId": 134,
+              "keyParts": [
+                134,
+                "p4",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "Close to the frame the rings shall lie, as"
+            },
+            {
+              "rowId": 135,
+              "keyParts": [
+                135,
+                "p4",
+                "verse",
+                "v27",
+                "note",
+                "x"
+              ],
+              "value": "#ch.26:29;30:4;36:34;37:14,27;38:5"
+            },
+            {
+              "rowId": 136,
+              "keyParts": [
+                136,
+                "p4",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "holders for the poles to carry the table."
+            },
+            {
+              "rowId": 137,
+              "keyParts": [
+                "v027_ESV_EXO_025",
+                137,
+                "p4",
+                "verse",
+                "v27",
+                "plain_text"
+              ],
+              "value": "27 Close to the frame the rings shall lie, as holders for the poles to carry the table."
+            },
+            {
+              "rowId": 138,
+              "keyParts": [
+                138,
+                "p4",
+                "verse",
+                "v28",
+                "label"
+              ],
+              "value": "28"
+            },
+            {
+              "rowId": 139,
+              "keyParts": [
+                139,
+                "p4",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "You shall make the poles of acacia wood, and overlay them with gold, and the table shall be carried with these."
+            },
+            {
+              "rowId": 140,
+              "keyParts": [
+                "v028_ESV_EXO_025",
+                140,
+                "p4",
+                "verse",
+                "v28",
+                "plain_text"
+              ],
+              "value": "28 You shall make the poles of acacia wood, and overlay them with gold, and the table shall be carried with these."
+            },
+            {
+              "rowId": 141,
+              "keyParts": [
+                141,
+                "p4",
+                "verse",
+                "v29",
+                "label"
+              ],
+              "value": "29"
+            },
+            {
+              "rowId": 142,
+              "keyParts": [
+                142,
+                "p4",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "And you shall make its plates and"
+            },
+            {
+              "rowId": 143,
+              "keyParts": [
+                143,
+                "p4",
+                "verse",
+                "v29",
+                "note",
+                "x"
+              ],
+              "value": "#ch.37:16;Num. 4:7"
+            },
+            {
+              "rowId": 144,
+              "keyParts": [
+                144,
+                "p4",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "dishes for incense, and its flagons and bowls with which to pour drink offerings; you shall make them of pure gold."
+            },
+            {
+              "rowId": 145,
+              "keyParts": [
+                "v029_ESV_EXO_025",
+                145,
+                "p4",
+                "verse",
+                "v29",
+                "plain_text"
+              ],
+              "value": "29 And you shall make its plates and dishes for incense, and its flagons and bowls with which to pour drink offerings; you shall make them of pure gold."
+            },
+            {
+              "rowId": 146,
+              "keyParts": [
+                146,
+                "p4",
+                "verse",
+                "v30",
+                "label"
+              ],
+              "value": "30"
+            },
+            {
+              "rowId": 147,
+              "keyParts": [
+                147,
+                "p4",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "And you shall set the"
+            },
+            {
+              "rowId": 148,
+              "keyParts": [
+                148,
+                "p4",
+                "verse",
+                "v30",
+                "note",
+                "x"
+              ],
+              "value": "#Lev. 24:5,6"
+            },
+            {
+              "rowId": 149,
+              "keyParts": [
+                149,
+                "p4",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "bread of the Presence on the table before me regularly."
+            },
+            {
+              "rowId": 150,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "The Golden Lampstand"
+            },
+            {
+              "rowId": 151,
+              "keyParts": [
+                "v030_ESV_EXO_025",
+                151,
+                "p4",
+                "verse",
+                "v30",
+                "plain_text"
+              ],
+              "value": "30 And you shall set the bread of the Presence on the table before me regularly."
+            },
+            {
+              "rowId": 152,
+              "keyParts": [
+                152,
+                "p5",
+                "verse",
+                "v31",
+                "label"
+              ],
+              "value": "31"
+            },
+            {
+              "rowId": 153,
+              "keyParts": [
+                153,
+                "p5",
+                "verse",
+                "v31",
+                "note",
+                "x"
+              ],
+              "value": "#For ver. 31-39, see ch.37:17-24;[1 Kgs. 7:49;Zech. 4:2;Heb. 9:2;Rev. 1:12]"
+            },
+            {
+              "rowId": 154,
+              "keyParts": [
+                154,
+                "p5",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "“You shall make a lampstand of pure gold. The lampstand shall be made of hammered work: its base, its stem, its cups, its calyxes, and its flowers shall be of one piece with it."
+            },
+            {
+              "rowId": 155,
+              "keyParts": [
+                "v031_ESV_EXO_025",
+                155,
+                "p5",
+                "verse",
+                "v31",
+                "plain_text"
+              ],
+              "value": "31 “You shall make a lampstand of pure gold. The lampstand shall be made of hammered work: its base, its stem, its cups, its calyxes, and its flowers shall be of one piece with it."
+            },
+            {
+              "rowId": 156,
+              "keyParts": [
+                156,
+                "p5",
+                "verse",
+                "v32",
+                "label"
+              ],
+              "value": "32"
+            },
+            {
+              "rowId": 157,
+              "keyParts": [
+                157,
+                "p5",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "And there shall be six branches going out of its sides, three branches of the lampstand out of one side of it and three branches of the lampstand out of the other side of it;"
+            },
+            {
+              "rowId": 158,
+              "keyParts": [
+                "v032_ESV_EXO_025",
+                158,
+                "p5",
+                "verse",
+                "v32",
+                "plain_text"
+              ],
+              "value": "32 And there shall be six branches going out of its sides, three branches of the lampstand out of one side of it and three branches of the lampstand out of the other side of it;"
+            },
+            {
+              "rowId": 159,
+              "keyParts": [
+                159,
+                "p5",
+                "verse",
+                "v33",
+                "label"
+              ],
+              "value": "33"
+            },
+            {
+              "rowId": 160,
+              "keyParts": [
+                160,
+                "p5",
+                "verse",
+                "v33",
+                "content"
+              ],
+              "value": "three cups made like almond blossoms, each with calyx and flower, on one branch, and three cups made like almond blossoms, each with calyx and flower, on the other branch—so for the six branches going out of the lampstand."
+            },
+            {
+              "rowId": 161,
+              "keyParts": [
+                "v033_ESV_EXO_025",
+                161,
+                "p5",
+                "verse",
+                "v33",
+                "plain_text"
+              ],
+              "value": "33 three cups made like almond blossoms, each with calyx and flower, on one branch, and three cups made like almond blossoms, each with calyx and flower, on the other branch—so for the six branches going out of the lampstand."
+            },
+            {
+              "rowId": 162,
+              "keyParts": [
+                162,
+                "p5",
+                "verse",
+                "v34",
+                "label"
+              ],
+              "value": "34"
+            },
+            {
+              "rowId": 163,
+              "keyParts": [
+                163,
+                "p5",
+                "verse",
+                "v34",
+                "content"
+              ],
+              "value": "And on the lampstand itself there shall be four cups made like almond blossoms, with their calyxes and flowers,"
+            },
+            {
+              "rowId": 164,
+              "keyParts": [
+                "v034_ESV_EXO_025",
+                164,
+                "p5",
+                "verse",
+                "v34",
+                "plain_text"
+              ],
+              "value": "34 And on the lampstand itself there shall be four cups made like almond blossoms, with their calyxes and flowers,"
+            },
+            {
+              "rowId": 165,
+              "keyParts": [
+                165,
+                "p5",
+                "verse",
+                "v35",
+                "label"
+              ],
+              "value": "35"
+            },
+            {
+              "rowId": 166,
+              "keyParts": [
+                166,
+                "p5",
+                "verse",
+                "v35",
+                "content"
+              ],
+              "value": "and a calyx of one piece with it under each pair of the six branches going out from the lampstand."
+            },
+            {
+              "rowId": 167,
+              "keyParts": [
+                "v035_ESV_EXO_025",
+                167,
+                "p5",
+                "verse",
+                "v35",
+                "plain_text"
+              ],
+              "value": "35 and a calyx of one piece with it under each pair of the six branches going out from the lampstand."
+            },
+            {
+              "rowId": 168,
+              "keyParts": [
+                168,
+                "p5",
+                "verse",
+                "v36",
+                "label"
+              ],
+              "value": "36"
+            },
+            {
+              "rowId": 169,
+              "keyParts": [
+                169,
+                "p5",
+                "verse",
+                "v36",
+                "content"
+              ],
+              "value": "Their calyxes and their branches shall be of one piece with it, the whole of it a single piece of hammered work of pure gold."
+            },
+            {
+              "rowId": 170,
+              "keyParts": [
+                "v036_ESV_EXO_025",
+                170,
+                "p5",
+                "verse",
+                "v36",
+                "plain_text"
+              ],
+              "value": "36 Their calyxes and their branches shall be of one piece with it, the whole of it a single piece of hammered work of pure gold."
+            },
+            {
+              "rowId": 171,
+              "keyParts": [
+                171,
+                "p5",
+                "verse",
+                "v37",
+                "label"
+              ],
+              "value": "37"
+            },
+            {
+              "rowId": 172,
+              "keyParts": [
+                172,
+                "p5",
+                "verse",
+                "v37",
+                "content"
+              ],
+              "value": "You shall make seven lamps for it. And the lamps"
+            },
+            {
+              "rowId": 173,
+              "keyParts": [
+                173,
+                "p5",
+                "verse",
+                "v37",
+                "note",
+                "x"
+              ],
+              "value": "#Lev. 24:2-4;2 Chr. 13:11"
+            },
+            {
+              "rowId": 174,
+              "keyParts": [
+                174,
+                "p5",
+                "verse",
+                "v37",
+                "content"
+              ],
+              "value": "shall be set up so as"
+            },
+            {
+              "rowId": 175,
+              "keyParts": [
+                175,
+                "p5",
+                "verse",
+                "v37",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 8:2"
+            },
+            {
+              "rowId": 176,
+              "keyParts": [
+                176,
+                "p5",
+                "verse",
+                "v37",
+                "content"
+              ],
+              "value": "to give light on the space in front of it."
+            },
+            {
+              "rowId": 177,
+              "keyParts": [
+                "v037_ESV_EXO_025",
+                177,
+                "p5",
+                "verse",
+                "v37",
+                "plain_text"
+              ],
+              "value": "37 You shall make seven lamps for it. And the lamps shall be set up so as to give light on the space in front of it."
+            },
+            {
+              "rowId": 178,
+              "keyParts": [
+                178,
+                "p5",
+                "verse",
+                "v38",
+                "label"
+              ],
+              "value": "38"
+            },
+            {
+              "rowId": 179,
+              "keyParts": [
+                179,
+                "p5",
+                "verse",
+                "v38",
+                "content"
+              ],
+              "value": "Its tongs and their trays shall be of pure gold."
+            },
+            {
+              "rowId": 180,
+              "keyParts": [
+                "v038_ESV_EXO_025",
+                180,
+                "p5",
+                "verse",
+                "v38",
+                "plain_text"
+              ],
+              "value": "38 Its tongs and their trays shall be of pure gold."
+            },
+            {
+              "rowId": 181,
+              "keyParts": [
+                181,
+                "p5",
+                "verse",
+                "v39",
+                "label"
+              ],
+              "value": "39"
+            },
+            {
+              "rowId": 182,
+              "keyParts": [
+                182,
+                "p5",
+                "verse",
+                "v39",
+                "content"
+              ],
+              "value": "It shall be made, with all these utensils, out of a talent"
+            },
+            {
+              "rowId": 183,
+              "keyParts": [
+                183,
+                "p5",
+                "verse",
+                "v39",
+                "note",
+                "f"
+              ],
+              "value": "#25:39Atalentwas about 75 pounds or 34 kilograms"
+            },
+            {
+              "rowId": 184,
+              "keyParts": [
+                184,
+                "p5",
+                "verse",
+                "v39",
+                "content"
+              ],
+              "value": "of pure gold."
+            },
+            {
+              "rowId": 185,
+              "keyParts": [
+                "v039_ESV_EXO_025",
+                185,
+                "p5",
+                "verse",
+                "v39",
+                "plain_text"
+              ],
+              "value": "39 It shall be made, with all these utensils, out of a talent of pure gold."
+            },
+            {
+              "rowId": 186,
+              "keyParts": [
+                186,
+                "p5",
+                "verse",
+                "v40",
+                "label"
+              ],
+              "value": "40"
+            },
+            {
+              "rowId": 187,
+              "keyParts": [
+                187,
+                "p5",
+                "verse",
+                "v40",
+                "content"
+              ],
+              "value": "And"
+            },
+            {
+              "rowId": 188,
+              "keyParts": [
+                188,
+                "p5",
+                "verse",
+                "v40",
+                "note",
+                "x"
+              ],
+              "value": "#ver.9;ch.26:30;27:8;Num. 8:4;Acts 7:44;CitedHeb. 8:5;[1 Chr. 28:11,19]"
+            },
+            {
+              "rowId": 189,
+              "keyParts": [
+                189,
+                "p5",
+                "verse",
+                "v40",
+                "content"
+              ],
+              "value": "see that you make them after the pattern for them, which is being shown you on the mountain."
+            },
+            {
+              "rowId": 190,
+              "keyParts": [
+                "v040_ESV_EXO_025",
+                190,
+                "p5",
+                "verse",
+                "v40",
+                "plain_text"
+              ],
+              "value": "40 And see that you make them after the pattern for them, which is being shown you on the mountain."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2592 @@
+{
+  "translationId": "ESV",
+  "name": "English Standard Version",
+  "abbreviation": "ESV",
+  "language": "English",
+  "copyright": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.",
+  "books": [
+    {
+      "bookId": "LEV",
+      "testament": "OT",
+      "order": 3,
+      "title": "Leviticus",
+      "abbreviation": "LEV",
+      "chapters": [
+        {
+          "chapter": 22,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                2,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "And the"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "spoke to Moses, saying,"
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                "v001_ESV_LEV_022",
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 And the Lord spoke to Moses, saying,"
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                7,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "“Speak to Aaron and his sons so that they"
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                9,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#[Num. 6:3]"
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "abstain from the holy things of the people of Israel, which they"
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                11,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#ver.3;Ex. 28:38;Deut. 15:19"
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                12,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "dedicate to me, so that they do not"
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                13,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#[Num. 18:32];See ch.18:21"
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "profane my holy name: I am the"
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                15,
+                "p1",
+                "verse",
+                "v2",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                16,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "."
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                "v002_ESV_LEV_022",
+                17,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 “Speak to Aaron and his sons so that they abstain from the holy things of the people of Israel, which they dedicate to me, so that they do not profane my holy name: I am the Lord ."
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "p1",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "Say to them, ‘If any one of all your offspring throughout your generations approaches the holy things that the people of Israel dedicate to the"
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                20,
+                "p1",
+                "verse",
+                "v3",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": ", while"
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                22,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#ch.7:20"
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "he has an uncleanness, that person shall be cut off from my presence: I am the"
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                24,
+                "p1",
+                "verse",
+                "v3",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "."
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                "v003_ESV_LEV_022",
+                26,
+                "p1",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 Say to them, ‘If any one of all your offspring throughout your generations approaches the holy things that the people of Israel dedicate to the Lord , while he has an uncleanness, that person shall be cut off from my presence: I am the Lord ."
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                27,
+                "p1",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                28,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "None of the offspring of Aaron who has a leprous disease or a"
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                29,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#ch.15:2"
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                30,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "discharge may eat of the holy things"
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                31,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#ch.14:2;15:13"
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "until he is clean."
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                33,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 19:11"
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                34,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "Whoever touches anything that is unclean through contact with the dead or"
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                35,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#ch.15:16"
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "a man who has had an emission of semen,"
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                "v004_ESV_LEV_022",
+                37,
+                "p1",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 None of the offspring of Aaron who has a leprous disease or a discharge may eat of the holy things until he is clean. Whoever touches anything that is unclean through contact with the dead or a man who has had an emission of semen,"
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                38,
+                "p1",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                39,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "and"
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                40,
+                "p1",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#ch.11:24,43,44"
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "whoever touches a swarming thing by which he may be made unclean or"
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "p1",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#ch.15:7,19"
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                43,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "a person from whom he may take uncleanness, whatever his uncleanness may be—"
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                "v005_ESV_LEV_022",
+                44,
+                "p1",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 and whoever touches a swarming thing by which he may be made unclean or a person from whom he may take uncleanness, whatever his uncleanness may be—"
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                45,
+                "p1",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                46,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "the person who touches such a thing shall be unclean until the evening and shall not eat of the holy things unless he has"
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                47,
+                "p1",
+                "verse",
+                "v6",
+                "note",
+                "x"
+              ],
+              "value": "#[Heb. 10:22];See ch. 15:5-11"
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                48,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "bathed his body in water."
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                "v006_ESV_LEV_022",
+                49,
+                "p1",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 the person who touches such a thing shall be unclean until the evening and shall not eat of the holy things unless he has bathed his body in water."
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "p1",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                51,
+                "p1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "When the sun goes down he shall be clean, and afterward he may eat of the holy things, because"
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                52,
+                "p1",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#ch.21:22;[Num. 18:11,13];See ch.3:11"
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                53,
+                "p1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "they are his food."
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                "v007_ESV_LEV_022",
+                54,
+                "p1",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 When the sun goes down he shall be clean, and afterward he may eat of the holy things, because they are his food."
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                55,
+                "p1",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                56,
+                "p1",
+                "verse",
+                "v8",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.7:24"
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                57,
+                "p1",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "He shall not eat what dies of itself or is torn by beasts, and so make himself unclean by it: I am the"
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                58,
+                "p1",
+                "verse",
+                "v8",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                59,
+                "p1",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": ".’"
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                "v008_ESV_LEV_022",
+                60,
+                "p1",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 He shall not eat what dies of itself or is torn by beasts, and so make himself unclean by it: I am the Lord .’"
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                61,
+                "p1",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                62,
+                "p1",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "They shall therefore keep my charge,"
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                63,
+                "p1",
+                "verse",
+                "v9",
+                "note",
+                "x"
+              ],
+              "value": "#[Ex. 28:43];See ch.19:17"
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                64,
+                "p1",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "lest they bear sin for it and die thereby when they profane it:"
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                65,
+                "p1",
+                "verse",
+                "v9",
+                "note",
+                "x"
+              ],
+              "value": "#ch.21:8,15,23"
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                66,
+                "p1",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "I am the"
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                67,
+                "p1",
+                "verse",
+                "v9",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                68,
+                "p1",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "who sanctifies them."
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                "v009_ESV_LEV_022",
+                69,
+                "p1",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 They shall therefore keep my charge, lest they bear sin for it and die thereby when they profane it: I am the Lord who sanctifies them."
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                70,
+                "p2",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                71,
+                "p2",
+                "verse",
+                "v10",
+                "note",
+                "x"
+              ],
+              "value": "#ch.24:9;[1 Sam. 21:6;Matt. 12:4;Mark 2:26;Luke 6:4]"
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                72,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "“A lay person shall not eat of a holy thing; no foreign guest of the priest or hired worker shall eat of a holy thing,"
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                "v010_ESV_LEV_022",
+                73,
+                "p2",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 “A lay person shall not eat of a holy thing; no foreign guest of the priest or hired worker shall eat of a holy thing,"
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                74,
+                "p2",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                75,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "but if a priest buys a slave"
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                76,
+                "p2",
+                "verse",
+                "v11",
+                "note",
+                "f"
+              ],
+              "value": "#22:11Orservant; twice in this verse"
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                77,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "as his property for money, the slave"
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                78,
+                "p2",
+                "verse",
+                "v11",
+                "note",
+                "f"
+              ],
+              "value": "#22:11Hebrewhe"
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                79,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "may eat of it, and"
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                80,
+                "p2",
+                "verse",
+                "v11",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 18:11,13"
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                81,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "anyone born in his house may eat of his food."
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                "v011_ESV_LEV_022",
+                82,
+                "p2",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 but if a priest buys a slave as his property for money, the slave may eat of it, and anyone born in his house may eat of his food."
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                83,
+                "p2",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                84,
+                "p2",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "If a priest’s daughter marries a layman, she shall not eat of the contribution of the holy things."
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                "v012_ESV_LEV_022",
+                85,
+                "p2",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 If a priest’s daughter marries a layman, she shall not eat of the contribution of the holy things."
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                86,
+                "p2",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                87,
+                "p2",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "But if a priest’s daughter is widowed or divorced and has no child and"
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                88,
+                "p2",
+                "verse",
+                "v13",
+                "note",
+                "x"
+              ],
+              "value": "#[Gen. 38:11;Ruth 1:8]"
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                89,
+                "p2",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "returns to her father’s house,"
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                90,
+                "p2",
+                "verse",
+                "v13",
+                "note",
+                "x"
+              ],
+              "value": "#ch.10:14;Num. 18:11,19"
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                91,
+                "p2",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "as in her youth, she may eat of her father’s food; yet no lay person shall eat of it."
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                "v013_ESV_LEV_022",
+                92,
+                "p2",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 But if a priest’s daughter is widowed or divorced and has no child and returns to her father’s house, as in her youth, she may eat of her father’s food; yet no lay person shall eat of it."
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                93,
+                "p2",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                94,
+                "p2",
+                "verse",
+                "v14",
+                "note",
+                "x"
+              ],
+              "value": "#ch.4:2;5:15,16,18"
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                95,
+                "p2",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "And if anyone eats of a holy thing unintentionally, he shall add"
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                96,
+                "p2",
+                "verse",
+                "v14",
+                "note",
+                "x"
+              ],
+              "value": "#ch.27:13,15,19"
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                97,
+                "p2",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "the fifth of its value to it and give the holy thing to the priest."
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                "v014_ESV_LEV_022",
+                98,
+                "p2",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 And if anyone eats of a holy thing unintentionally, he shall add the fifth of its value to it and give the holy thing to the priest."
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                99,
+                "p2",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                100,
+                "p2",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "They"
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                101,
+                "p2",
+                "verse",
+                "v15",
+                "note",
+                "x"
+              ],
+              "value": "#ch.19:8;Num. 18:32"
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                102,
+                "p2",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "shall not profane the holy things of the people of Israel, which they contribute to the"
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                103,
+                "p2",
+                "verse",
+                "v15",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                104,
+                "p2",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": ","
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                "v015_ESV_LEV_022",
+                105,
+                "p2",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 They shall not profane the holy things of the people of Israel, which they contribute to the Lord ,"
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                106,
+                "p2",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                107,
+                "p2",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "and so cause them"
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                108,
+                "p2",
+                "verse",
+                "v16",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.9above]"
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                109,
+                "p2",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "to bear iniquity and guilt, by eating their holy things:"
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                110,
+                "p2",
+                "verse",
+                "v16",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.9above]"
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                111,
+                "p2",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "for I am the"
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                112,
+                "p2",
+                "verse",
+                "v16",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                113,
+                "p2",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "who sanctifies them.”"
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Acceptable Offerings"
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                "v016_ESV_LEV_022",
+                115,
+                "p2",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 and so cause them to bear iniquity and guilt, by eating their holy things: for I am the Lord who sanctifies them.”"
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                116,
+                "p3",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                117,
+                "p3",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "And the"
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                118,
+                "p3",
+                "verse",
+                "v17",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                119,
+                "p3",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "spoke to Moses, saying,"
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                "v017_ESV_LEV_022",
+                120,
+                "p3",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 And the Lord spoke to Moses, saying,"
+            },
+            {
+              "rowId": 121,
+              "keyParts": [
+                121,
+                "p3",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 122,
+              "keyParts": [
+                122,
+                "p3",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "“Speak to Aaron and his sons and all the people of Israel and say to them,"
+            },
+            {
+              "rowId": 123,
+              "keyParts": [
+                123,
+                "p3",
+                "verse",
+                "v18",
+                "note",
+                "x"
+              ],
+              "value": "#ch.1:2,3,10;Num. 15:14"
+            },
+            {
+              "rowId": 124,
+              "keyParts": [
+                124,
+                "p3",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "When any one of the house of Israel or of the sojourners in Israel presents a burnt offering as his offering, for any of their vows or freewill offerings that they offer to the"
+            },
+            {
+              "rowId": 125,
+              "keyParts": [
+                125,
+                "p3",
+                "verse",
+                "v18",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 126,
+              "keyParts": [
+                126,
+                "p3",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": ","
+            },
+            {
+              "rowId": 127,
+              "keyParts": [
+                "v018_ESV_LEV_022",
+                127,
+                "p3",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 “Speak to Aaron and his sons and all the people of Israel and say to them, When any one of the house of Israel or of the sojourners in Israel presents a burnt offering as his offering, for any of their vows or freewill offerings that they offer to the Lord ,"
+            },
+            {
+              "rowId": 128,
+              "keyParts": [
+                128,
+                "p3",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 129,
+              "keyParts": [
+                129,
+                "p3",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "if it is to be accepted for you it shall be a"
+            },
+            {
+              "rowId": 130,
+              "keyParts": [
+                130,
+                "p3",
+                "verse",
+                "v19",
+                "note",
+                "x"
+              ],
+              "value": "#ch.1:3,10"
+            },
+            {
+              "rowId": 131,
+              "keyParts": [
+                131,
+                "p3",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "male without blemish, of the bulls or the sheep or the goats."
+            },
+            {
+              "rowId": 132,
+              "keyParts": [
+                "v019_ESV_LEV_022",
+                132,
+                "p3",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 if it is to be accepted for you it shall be a male without blemish, of the bulls or the sheep or the goats."
+            },
+            {
+              "rowId": 133,
+              "keyParts": [
+                133,
+                "p3",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 134,
+              "keyParts": [
+                134,
+                "p3",
+                "verse",
+                "v20",
+                "note",
+                "x"
+              ],
+              "value": "#Deut. 15:21;17:1;Mal. 1:8,14;[Heb. 9:14;1 Pet. 1:19]"
+            },
+            {
+              "rowId": 135,
+              "keyParts": [
+                135,
+                "p3",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "You shall not offer anything that has a blemish, for it will not be acceptable for you."
+            },
+            {
+              "rowId": 136,
+              "keyParts": [
+                "v020_ESV_LEV_022",
+                136,
+                "p3",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 You shall not offer anything that has a blemish, for it will not be acceptable for you."
+            },
+            {
+              "rowId": 137,
+              "keyParts": [
+                137,
+                "p3",
+                "verse",
+                "v21",
+                "label"
+              ],
+              "value": "21"
+            },
+            {
+              "rowId": 138,
+              "keyParts": [
+                138,
+                "p3",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "And when anyone"
+            },
+            {
+              "rowId": 139,
+              "keyParts": [
+                139,
+                "p3",
+                "verse",
+                "v21",
+                "note",
+                "x"
+              ],
+              "value": "#ch.3:1,6"
+            },
+            {
+              "rowId": 140,
+              "keyParts": [
+                140,
+                "p3",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "offers a sacrifice of peace offerings to the"
+            },
+            {
+              "rowId": 141,
+              "keyParts": [
+                141,
+                "p3",
+                "verse",
+                "v21",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 142,
+              "keyParts": [
+                142,
+                "p3",
+                "verse",
+                "v21",
+                "note",
+                "x"
+              ],
+              "value": "#ch.7:16;Num. 15:3,8;Deut. 23:21,23;Ps. 61:8;65:1;Eccles. 5:4,5"
+            },
+            {
+              "rowId": 143,
+              "keyParts": [
+                143,
+                "p3",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "to fulfill a vow or as a freewill offering from the herd or from the flock, to be accepted it must be perfect; there shall be no blemish in it."
+            },
+            {
+              "rowId": 144,
+              "keyParts": [
+                "v021_ESV_LEV_022",
+                144,
+                "p3",
+                "verse",
+                "v21",
+                "plain_text"
+              ],
+              "value": "21 And when anyone offers a sacrifice of peace offerings to the Lord to fulfill a vow or as a freewill offering from the herd or from the flock, to be accepted it must be perfect; there shall be no blemish in it."
+            },
+            {
+              "rowId": 145,
+              "keyParts": [
+                145,
+                "p3",
+                "verse",
+                "v22",
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 146,
+              "keyParts": [
+                146,
+                "p3",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "Animals"
+            },
+            {
+              "rowId": 147,
+              "keyParts": [
+                147,
+                "p3",
+                "verse",
+                "v22",
+                "note",
+                "x"
+              ],
+              "value": "#ver.20;ch.21:18;Mal. 1:8"
+            },
+            {
+              "rowId": 148,
+              "keyParts": [
+                148,
+                "p3",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "blind or disabled or mutilated or having a discharge or"
+            },
+            {
+              "rowId": 149,
+              "keyParts": [
+                149,
+                "p3",
+                "verse",
+                "v22",
+                "note",
+                "x"
+              ],
+              "value": "#ch.21:20"
+            },
+            {
+              "rowId": 150,
+              "keyParts": [
+                150,
+                "p3",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "an itch or scabs you shall not offer to the"
+            },
+            {
+              "rowId": 151,
+              "keyParts": [
+                151,
+                "p3",
+                "verse",
+                "v22",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 152,
+              "keyParts": [
+                152,
+                "p3",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "or give them to the"
+            },
+            {
+              "rowId": 153,
+              "keyParts": [
+                153,
+                "p3",
+                "verse",
+                "v22",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 154,
+              "keyParts": [
+                154,
+                "p3",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "as a food"
+            },
+            {
+              "rowId": 155,
+              "keyParts": [
+                155,
+                "p3",
+                "verse",
+                "v22",
+                "note",
+                "x"
+              ],
+              "value": "#ch.1:9,13;3:3,5"
+            },
+            {
+              "rowId": 156,
+              "keyParts": [
+                156,
+                "p3",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "offering on the altar."
+            },
+            {
+              "rowId": 157,
+              "keyParts": [
+                "v022_ESV_LEV_022",
+                157,
+                "p3",
+                "verse",
+                "v22",
+                "plain_text"
+              ],
+              "value": "22 Animals blind or disabled or mutilated or having a discharge or an itch or scabs you shall not offer to the Lord or give them to the Lord as a food offering on the altar."
+            },
+            {
+              "rowId": 158,
+              "keyParts": [
+                158,
+                "p3",
+                "verse",
+                "v23",
+                "label"
+              ],
+              "value": "23"
+            },
+            {
+              "rowId": 159,
+              "keyParts": [
+                159,
+                "p3",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "You may present a bull or a lamb that has a part"
+            },
+            {
+              "rowId": 160,
+              "keyParts": [
+                160,
+                "p3",
+                "verse",
+                "v23",
+                "note",
+                "x"
+              ],
+              "value": "#ch.21:18"
+            },
+            {
+              "rowId": 161,
+              "keyParts": [
+                161,
+                "p3",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "too long or too short for a freewill offering, but for a vow offering it cannot be accepted."
+            },
+            {
+              "rowId": 162,
+              "keyParts": [
+                "v023_ESV_LEV_022",
+                162,
+                "p3",
+                "verse",
+                "v23",
+                "plain_text"
+              ],
+              "value": "23 You may present a bull or a lamb that has a part too long or too short for a freewill offering, but for a vow offering it cannot be accepted."
+            },
+            {
+              "rowId": 163,
+              "keyParts": [
+                163,
+                "p3",
+                "verse",
+                "v24",
+                "label"
+              ],
+              "value": "24"
+            },
+            {
+              "rowId": 164,
+              "keyParts": [
+                164,
+                "p3",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "Any animal that has its testicles bruised or crushed or torn or cut you shall not offer to the"
+            },
+            {
+              "rowId": 165,
+              "keyParts": [
+                165,
+                "p3",
+                "verse",
+                "v24",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 166,
+              "keyParts": [
+                166,
+                "p3",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "; you shall not do it within your land,"
+            },
+            {
+              "rowId": 167,
+              "keyParts": [
+                "v024_ESV_LEV_022",
+                167,
+                "p3",
+                "verse",
+                "v24",
+                "plain_text"
+              ],
+              "value": "24 Any animal that has its testicles bruised or crushed or torn or cut you shall not offer to the Lord ; you shall not do it within your land,"
+            },
+            {
+              "rowId": 168,
+              "keyParts": [
+                168,
+                "p3",
+                "verse",
+                "v25",
+                "label"
+              ],
+              "value": "25"
+            },
+            {
+              "rowId": 169,
+              "keyParts": [
+                169,
+                "p3",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "neither shall you offer as"
+            },
+            {
+              "rowId": 170,
+              "keyParts": [
+                170,
+                "p3",
+                "verse",
+                "v25",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.3:11"
+            },
+            {
+              "rowId": 171,
+              "keyParts": [
+                171,
+                "p3",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "the bread of your God any such animals gotten from a foreigner. Since there is a"
+            },
+            {
+              "rowId": 172,
+              "keyParts": [
+                172,
+                "p3",
+                "verse",
+                "v25",
+                "note",
+                "x"
+              ],
+              "value": "#Mal. 1:14"
+            },
+            {
+              "rowId": 173,
+              "keyParts": [
+                173,
+                "p3",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "blemish in them, because of their mutilation, they will not be accepted for you.”"
+            },
+            {
+              "rowId": 174,
+              "keyParts": [
+                "v025_ESV_LEV_022",
+                174,
+                "p3",
+                "verse",
+                "v25",
+                "plain_text"
+              ],
+              "value": "25 neither shall you offer as the bread of your God any such animals gotten from a foreigner. Since there is a blemish in them, because of their mutilation, they will not be accepted for you.”"
+            },
+            {
+              "rowId": 175,
+              "keyParts": [
+                175,
+                "p4",
+                "verse",
+                "v26",
+                "label"
+              ],
+              "value": "26"
+            },
+            {
+              "rowId": 176,
+              "keyParts": [
+                176,
+                "p4",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "And the"
+            },
+            {
+              "rowId": 177,
+              "keyParts": [
+                177,
+                "p4",
+                "verse",
+                "v26",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 178,
+              "keyParts": [
+                178,
+                "p4",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "spoke to Moses, saying,"
+            },
+            {
+              "rowId": 179,
+              "keyParts": [
+                "v026_ESV_LEV_022",
+                179,
+                "p4",
+                "verse",
+                "v26",
+                "plain_text"
+              ],
+              "value": "26 And the Lord spoke to Moses, saying,"
+            },
+            {
+              "rowId": 180,
+              "keyParts": [
+                180,
+                "p4",
+                "verse",
+                "v27",
+                "label"
+              ],
+              "value": "27"
+            },
+            {
+              "rowId": 181,
+              "keyParts": [
+                181,
+                "p4",
+                "verse",
+                "v27",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 22:30"
+            },
+            {
+              "rowId": 182,
+              "keyParts": [
+                182,
+                "p4",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "“When an ox or sheep or goat is born, it shall remain seven days with its mother, and from the eighth day on it shall be acceptable as a food offering to the"
+            },
+            {
+              "rowId": 183,
+              "keyParts": [
+                183,
+                "p4",
+                "verse",
+                "v27",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 184,
+              "keyParts": [
+                184,
+                "p4",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "."
+            },
+            {
+              "rowId": 185,
+              "keyParts": [
+                "v027_ESV_LEV_022",
+                185,
+                "p4",
+                "verse",
+                "v27",
+                "plain_text"
+              ],
+              "value": "27 “When an ox or sheep or goat is born, it shall remain seven days with its mother, and from the eighth day on it shall be acceptable as a food offering to the Lord ."
+            },
+            {
+              "rowId": 186,
+              "keyParts": [
+                186,
+                "p4",
+                "verse",
+                "v28",
+                "label"
+              ],
+              "value": "28"
+            },
+            {
+              "rowId": 187,
+              "keyParts": [
+                187,
+                "p4",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "But you shall not kill an ox or a sheep"
+            },
+            {
+              "rowId": 188,
+              "keyParts": [
+                188,
+                "p4",
+                "verse",
+                "v28",
+                "note",
+                "x"
+              ],
+              "value": "#[Deut. 22:6]"
+            },
+            {
+              "rowId": 189,
+              "keyParts": [
+                189,
+                "p4",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "and her young in one day."
+            },
+            {
+              "rowId": 190,
+              "keyParts": [
+                "v028_ESV_LEV_022",
+                190,
+                "p4",
+                "verse",
+                "v28",
+                "plain_text"
+              ],
+              "value": "28 But you shall not kill an ox or a sheep and her young in one day."
+            },
+            {
+              "rowId": 191,
+              "keyParts": [
+                191,
+                "p4",
+                "verse",
+                "v29",
+                "label"
+              ],
+              "value": "29"
+            },
+            {
+              "rowId": 192,
+              "keyParts": [
+                192,
+                "p4",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "And when you sacrifice a"
+            },
+            {
+              "rowId": 193,
+              "keyParts": [
+                193,
+                "p4",
+                "verse",
+                "v29",
+                "note",
+                "x"
+              ],
+              "value": "#ch.7:12;Ps. 107:22;116:17;Amos 4:5"
+            },
+            {
+              "rowId": 194,
+              "keyParts": [
+                194,
+                "p4",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "sacrifice of thanksgiving to the"
+            },
+            {
+              "rowId": 195,
+              "keyParts": [
+                195,
+                "p4",
+                "verse",
+                "v29",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 196,
+              "keyParts": [
+                196,
+                "p4",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": ", you shall sacrifice it so that you may be accepted."
+            },
+            {
+              "rowId": 197,
+              "keyParts": [
+                "v029_ESV_LEV_022",
+                197,
+                "p4",
+                "verse",
+                "v29",
+                "plain_text"
+              ],
+              "value": "29 And when you sacrifice a sacrifice of thanksgiving to the Lord , you shall sacrifice it so that you may be accepted."
+            },
+            {
+              "rowId": 198,
+              "keyParts": [
+                198,
+                "p4",
+                "verse",
+                "v30",
+                "label"
+              ],
+              "value": "30"
+            },
+            {
+              "rowId": 199,
+              "keyParts": [
+                199,
+                "p4",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "It shall be eaten on the same day;"
+            },
+            {
+              "rowId": 200,
+              "keyParts": [
+                200,
+                "p4",
+                "verse",
+                "v30",
+                "note",
+                "x"
+              ],
+              "value": "#ch.7:15"
+            },
+            {
+              "rowId": 201,
+              "keyParts": [
+                201,
+                "p4",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "you shall leave none of it until morning: I am the"
+            },
+            {
+              "rowId": 202,
+              "keyParts": [
+                202,
+                "p4",
+                "verse",
+                "v30",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 203,
+              "keyParts": [
+                203,
+                "p4",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "."
+            },
+            {
+              "rowId": 204,
+              "keyParts": [
+                "v030_ESV_LEV_022",
+                204,
+                "p4",
+                "verse",
+                "v30",
+                "plain_text"
+              ],
+              "value": "30 It shall be eaten on the same day; you shall leave none of it until morning: I am the Lord ."
+            },
+            {
+              "rowId": 205,
+              "keyParts": [
+                205,
+                "p5",
+                "verse",
+                "v31",
+                "label"
+              ],
+              "value": "31"
+            },
+            {
+              "rowId": 206,
+              "keyParts": [
+                206,
+                "p5",
+                "verse",
+                "v31",
+                "note",
+                "x"
+              ],
+              "value": "#ch.19:37;Num. 15:40;Deut. 4:40"
+            },
+            {
+              "rowId": 207,
+              "keyParts": [
+                207,
+                "p5",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "“So you shall keep my commandments and do them: I am the"
+            },
+            {
+              "rowId": 208,
+              "keyParts": [
+                208,
+                "p5",
+                "verse",
+                "v31",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 209,
+              "keyParts": [
+                209,
+                "p5",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "."
+            },
+            {
+              "rowId": 210,
+              "keyParts": [
+                "v031_ESV_LEV_022",
+                210,
+                "p5",
+                "verse",
+                "v31",
+                "plain_text"
+              ],
+              "value": "31 “So you shall keep my commandments and do them: I am the Lord ."
+            },
+            {
+              "rowId": 211,
+              "keyParts": [
+                211,
+                "p5",
+                "verse",
+                "v32",
+                "label"
+              ],
+              "value": "32"
+            },
+            {
+              "rowId": 212,
+              "keyParts": [
+                212,
+                "p5",
+                "verse",
+                "v32",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.18:21"
+            },
+            {
+              "rowId": 213,
+              "keyParts": [
+                213,
+                "p5",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "And you shall not profane my holy name, that"
+            },
+            {
+              "rowId": 214,
+              "keyParts": [
+                214,
+                "p5",
+                "verse",
+                "v32",
+                "note",
+                "x"
+              ],
+              "value": "#ch.10:3"
+            },
+            {
+              "rowId": 215,
+              "keyParts": [
+                215,
+                "p5",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "I may be sanctified among the people of Israel."
+            },
+            {
+              "rowId": 216,
+              "keyParts": [
+                216,
+                "p5",
+                "verse",
+                "v32",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.20:8"
+            },
+            {
+              "rowId": 217,
+              "keyParts": [
+                217,
+                "p5",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "I am the"
+            },
+            {
+              "rowId": 218,
+              "keyParts": [
+                218,
+                "p5",
+                "verse",
+                "v32",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 219,
+              "keyParts": [
+                219,
+                "p5",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "who sanctifies you,"
+            },
+            {
+              "rowId": 220,
+              "keyParts": [
+                "v032_ESV_LEV_022",
+                220,
+                "p5",
+                "verse",
+                "v32",
+                "plain_text"
+              ],
+              "value": "32 And you shall not profane my holy name, that I may be sanctified among the people of Israel. I am the Lord who sanctifies you,"
+            },
+            {
+              "rowId": 221,
+              "keyParts": [
+                221,
+                "p5",
+                "verse",
+                "v33",
+                "label"
+              ],
+              "value": "33"
+            },
+            {
+              "rowId": 222,
+              "keyParts": [
+                222,
+                "p5",
+                "verse",
+                "v33",
+                "content"
+              ],
+              "value": "who brought you out of the land of Egypt"
+            },
+            {
+              "rowId": 223,
+              "keyParts": [
+                223,
+                "p5",
+                "verse",
+                "v33",
+                "note",
+                "x"
+              ],
+              "value": "#SeeEx. 6:7"
+            },
+            {
+              "rowId": 224,
+              "keyParts": [
+                224,
+                "p5",
+                "verse",
+                "v33",
+                "content"
+              ],
+              "value": "to be your God: I am the"
+            },
+            {
+              "rowId": 225,
+              "keyParts": [
+                225,
+                "p5",
+                "verse",
+                "v33",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 226,
+              "keyParts": [
+                226,
+                "p5",
+                "verse",
+                "v33",
+                "content"
+              ],
+              "value": ".”"
+            },
+            {
+              "rowId": 227,
+              "keyParts": [
+                "v033_ESV_LEV_022",
+                227,
+                "p5",
+                "verse",
+                "v33",
+                "plain_text"
+              ],
+              "value": "33 who brought you out of the land of Egypt to be your God: I am the Lord .”"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

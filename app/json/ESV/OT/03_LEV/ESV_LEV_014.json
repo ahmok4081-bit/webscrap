@@ -1,0 +1,3366 @@
+{
+  "translationId": "ESV",
+  "name": "English Standard Version",
+  "abbreviation": "ESV",
+  "language": "English",
+  "copyright": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.",
+  "books": [
+    {
+      "bookId": "LEV",
+      "testament": "OT",
+      "order": 3,
+      "title": "Leviticus",
+      "abbreviation": "LEV",
+      "chapters": [
+        {
+          "chapter": 14,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Laws for Cleansing Lepers"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "The"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "spoke to Moses, saying,"
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                "v001_ESV_LEV_014",
+                7,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 The Lord spoke to Moses, saying,"
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                9,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "“This shall be the law of the leprous person for the day of his cleansing."
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "p1",
+                "verse",
+                "v2",
+                "note",
+                "x"
+              ],
+              "value": "#Matt. 8:2,4;Mark 1:40,44;Luke 5:12,14;17:14"
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                11,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "He shall be brought to the priest,"
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                "v002_ESV_LEV_014",
+                12,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 “This shall be the law of the leprous person for the day of his cleansing. He shall be brought to the priest,"
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                13,
+                "p1",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "and the priest shall go"
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                15,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#[2 Kgs. 7:10;Luke 17:12]"
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                16,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "out of the camp, and the priest shall look. Then, if the case of leprous disease is healed in the leprous person,"
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                "v003_ESV_LEV_014",
+                17,
+                "p1",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 and the priest shall go out of the camp, and the priest shall look. Then, if the case of leprous disease is healed in the leprous person,"
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "p1",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "the priest shall command them to take for him who is to be cleansed two live"
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                20,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "f"
+              ],
+              "value": "#14:4Orwild"
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "clean birds and"
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                22,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 19:6"
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "cedarwood and"
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                24,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#Heb. 9:19"
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "scarlet yarn and"
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                26,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#SeeEx. 12:22"
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                27,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "hyssop."
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                "v004_ESV_LEV_014",
+                28,
+                "p1",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 the priest shall command them to take for him who is to be cleansed two live clean birds and cedarwood and scarlet yarn and hyssop."
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                29,
+                "p1",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                30,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "And the priest shall command them to kill one of the birds in an earthenware vessel over fresh"
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                31,
+                "p1",
+                "verse",
+                "v5",
+                "note",
+                "f"
+              ],
+              "value": "#14:5Orrunning; Hebrewliving; also verses 6, 50, 51, 52"
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "water."
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                "v005_ESV_LEV_014",
+                33,
+                "p1",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 And the priest shall command them to kill one of the birds in an earthenware vessel over fresh water."
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                34,
+                "p1",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                35,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "He shall take the live bird with the cedarwood and the scarlet yarn and the hyssop, and dip them and the live bird in the blood of the bird that was killed over the fresh water."
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                "v006_ESV_LEV_014",
+                36,
+                "p1",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 He shall take the live bird with the cedarwood and the scarlet yarn and the hyssop, and dip them and the live bird in the blood of the bird that was killed over the fresh water."
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                37,
+                "p1",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                38,
+                "p1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "And he shall"
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                39,
+                "p1",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#Heb. 9:13"
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                40,
+                "p1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "sprinkle it"
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p1",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#[2 Kgs. 5:10,14]"
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "p1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "seven times on him who is to be cleansed of the leprous disease. Then he shall pronounce him clean and shall"
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                43,
+                "p1",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#[ch.16:22]"
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                44,
+                "p1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "let the living bird go"
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                45,
+                "p1",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#ver.53;[ch.17:5]"
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                46,
+                "p1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "into the open field."
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                "v007_ESV_LEV_014",
+                47,
+                "p1",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 And he shall sprinkle it seven times on him who is to be cleansed of the leprous disease. Then he shall pronounce him clean and shall let the living bird go into the open field."
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                48,
+                "p1",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                49,
+                "p1",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "And he who is to be cleansed"
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "p1",
+                "verse",
+                "v8",
+                "note",
+                "x"
+              ],
+              "value": "#ver.47;See ch.11:25"
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                51,
+                "p1",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "shall wash his clothes and shave off all his hair and bathe himself in water, and he shall be clean. And after that he may come into the camp, but"
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                52,
+                "p1",
+                "verse",
+                "v8",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 12:15"
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                53,
+                "p1",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "live outside his tent seven days."
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                "v008_ESV_LEV_014",
+                54,
+                "p1",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 And he who is to be cleansed shall wash his clothes and shave off all his hair and bathe himself in water, and he shall be clean. And after that he may come into the camp, but live outside his tent seven days."
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                55,
+                "p1",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                56,
+                "p1",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "And"
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                57,
+                "p1",
+                "verse",
+                "v9",
+                "note",
+                "x"
+              ],
+              "value": "#[Num. 31:19]"
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                58,
+                "p1",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "on the seventh day he shall shave off all his hair from his head, his beard, and his eyebrows. He shall shave off all his hair, and then he"
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                59,
+                "p1",
+                "verse",
+                "v9",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.8above]"
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                60,
+                "p1",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "shall wash his clothes and bathe his body in water, and he shall be clean."
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                "v009_ESV_LEV_014",
+                61,
+                "p1",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 And on the seventh day he shall shave off all his hair from his head, his beard, and his eyebrows. He shall shave off all his hair, and then he shall wash his clothes and bathe his body in water, and he shall be clean."
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                62,
+                "p2",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                63,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "“And on the eighth day he"
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                64,
+                "p2",
+                "verse",
+                "v10",
+                "note",
+                "x"
+              ],
+              "value": "#[Matt. 8:4]; Mark 1:44; Luke 5:14"
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                65,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "shall take two male lambs without blemish, and one ewe lamb a year old without blemish, and a"
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                66,
+                "p2",
+                "verse",
+                "v10",
+                "note",
+                "x"
+              ],
+              "value": "#Num. 15:4;See ch.2"
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                67,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "grain offering of three tenths of an ephah"
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                68,
+                "p2",
+                "verse",
+                "v10",
+                "note",
+                "f"
+              ],
+              "value": "#14:10Anephahwas about 3/5 bushel or 22 liters"
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                69,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "of fine flour mixed with oil, and one log"
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                70,
+                "p2",
+                "verse",
+                "v10",
+                "note",
+                "f"
+              ],
+              "value": "#14:10Alogwas about 1/3 quart or 0.3 liter"
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                71,
+                "p2",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "of oil."
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                "v010_ESV_LEV_014",
+                72,
+                "p2",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 “And on the eighth day he shall take two male lambs without blemish, and one ewe lamb a year old without blemish, and a grain offering of three tenths of an ephah of fine flour mixed with oil, and one log of oil."
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                73,
+                "p2",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                74,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "And the priest who cleanses him shall set the man who is to be cleansed and these things before the"
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                75,
+                "p2",
+                "verse",
+                "v11",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                76,
+                "p2",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": ", at the entrance of the tent of meeting."
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                "v011_ESV_LEV_014",
+                77,
+                "p2",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 And the priest who cleanses him shall set the man who is to be cleansed and these things before the Lord , at the entrance of the tent of meeting."
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                78,
+                "p2",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                79,
+                "p2",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "And the priest shall take one of the male lambs and"
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                80,
+                "p2",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#ch.5:18;6:6,7"
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                81,
+                "p2",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "offer it for a guilt offering, along with the log of oil, and"
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                82,
+                "p2",
+                "verse",
+                "v12",
+                "note",
+                "x"
+              ],
+              "value": "#SeeEx. 29:24"
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                83,
+                "p2",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "wave them for a wave offering before the"
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                84,
+                "p2",
+                "verse",
+                "v12",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                85,
+                "p2",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "."
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                "v012_ESV_LEV_014",
+                86,
+                "p2",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 And the priest shall take one of the male lambs and offer it for a guilt offering, along with the log of oil, and wave them for a wave offering before the Lord ."
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                87,
+                "p2",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                88,
+                "p2",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "And he shall kill the lamb"
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                89,
+                "p2",
+                "verse",
+                "v13",
+                "note",
+                "x"
+              ],
+              "value": "#ch.1:5,11;4:4,24"
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                90,
+                "p2",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "in the place where they kill the sin offering and the burnt offering, in the place of the sanctuary. For"
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                91,
+                "p2",
+                "verse",
+                "v13",
+                "note",
+                "x"
+              ],
+              "value": "#ch.7:7"
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                92,
+                "p2",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "the guilt offering, like the sin offering, belongs to the priest;"
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                93,
+                "p2",
+                "verse",
+                "v13",
+                "note",
+                "x"
+              ],
+              "value": "#ch.2:3;7:6"
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                94,
+                "p2",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "it is most holy."
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                "v013_ESV_LEV_014",
+                95,
+                "p2",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 And he shall kill the lamb in the place where they kill the sin offering and the burnt offering, in the place of the sanctuary. For the guilt offering, like the sin offering, belongs to the priest; it is most holy."
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                96,
+                "p2",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                97,
+                "p2",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "The priest shall take some of the blood of the guilt offering, and the priest shall put it"
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                98,
+                "p2",
+                "verse",
+                "v14",
+                "note",
+                "x"
+              ],
+              "value": "#[ch.8:23;Ex. 29:20]"
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                99,
+                "p2",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "on the lobe of the right ear of him who is to be cleansed and on the thumb of his right hand and on the big toe of his right foot."
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                "v014_ESV_LEV_014",
+                100,
+                "p2",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 The priest shall take some of the blood of the guilt offering, and the priest shall put it on the lobe of the right ear of him who is to be cleansed and on the thumb of his right hand and on the big toe of his right foot."
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                101,
+                "p2",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                102,
+                "p2",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "Then the priest shall take some of the log of oil and pour it into the palm of his own left hand"
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                "v015_ESV_LEV_014",
+                103,
+                "p2",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 Then the priest shall take some of the log of oil and pour it into the palm of his own left hand"
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                104,
+                "p2",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                105,
+                "p2",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "and dip his right finger in the oil that is in his left hand and sprinkle some oil with his finger seven times before the"
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                106,
+                "p2",
+                "verse",
+                "v16",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                107,
+                "p2",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "."
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                "v016_ESV_LEV_014",
+                108,
+                "p2",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 and dip his right finger in the oil that is in his left hand and sprinkle some oil with his finger seven times before the Lord ."
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                109,
+                "p2",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                110,
+                "p2",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "And some of the oil that remains in his hand the priest shall put on the lobe of the right ear of him who is to be cleansed and on the thumb of his right hand and on the big toe of his right foot, on top of the blood of the guilt offering."
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                "v017_ESV_LEV_014",
+                111,
+                "p2",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 And some of the oil that remains in his hand the priest shall put on the lobe of the right ear of him who is to be cleansed and on the thumb of his right hand and on the big toe of his right foot, on top of the blood of the guilt offering."
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                112,
+                "p2",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                113,
+                "p2",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "And the rest of the oil that is in the priest’s hand he shall put on the head of him who is to be cleansed."
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                114,
+                "p2",
+                "verse",
+                "v18",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.4:26"
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                115,
+                "p2",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "Then the priest shall make atonement for him before the"
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                116,
+                "p2",
+                "verse",
+                "v18",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                117,
+                "p2",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "."
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                "v018_ESV_LEV_014",
+                118,
+                "p2",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 And the rest of the oil that is in the priest’s hand he shall put on the head of him who is to be cleansed. Then the priest shall make atonement for him before the Lord ."
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                119,
+                "p2",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                120,
+                "p2",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "The priest shall offer the sin offering, to make atonement for him who is to be cleansed from his uncleanness. And afterward he shall kill the burnt offering."
+            },
+            {
+              "rowId": 121,
+              "keyParts": [
+                "v019_ESV_LEV_014",
+                121,
+                "p2",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 The priest shall offer the sin offering, to make atonement for him who is to be cleansed from his uncleanness. And afterward he shall kill the burnt offering."
+            },
+            {
+              "rowId": 122,
+              "keyParts": [
+                122,
+                "p2",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 123,
+              "keyParts": [
+                123,
+                "p2",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "And the priest shall offer the burnt offering and the"
+            },
+            {
+              "rowId": 124,
+              "keyParts": [
+                124,
+                "p2",
+                "verse",
+                "v20",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.10above]"
+            },
+            {
+              "rowId": 125,
+              "keyParts": [
+                125,
+                "p2",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "grain offering on the altar."
+            },
+            {
+              "rowId": 126,
+              "keyParts": [
+                126,
+                "p2",
+                "verse",
+                "v20",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.18above]"
+            },
+            {
+              "rowId": 127,
+              "keyParts": [
+                127,
+                "p2",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "Thus the priest shall make atonement for him, and he shall be clean."
+            },
+            {
+              "rowId": 128,
+              "keyParts": [
+                "v020_ESV_LEV_014",
+                128,
+                "p2",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 And the priest shall offer the burnt offering and the grain offering on the altar. Thus the priest shall make atonement for him, and he shall be clean."
+            },
+            {
+              "rowId": 129,
+              "keyParts": [
+                129,
+                "p3",
+                "verse",
+                "v21",
+                "label"
+              ],
+              "value": "21"
+            },
+            {
+              "rowId": 130,
+              "keyParts": [
+                130,
+                "p3",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "“But"
+            },
+            {
+              "rowId": 131,
+              "keyParts": [
+                131,
+                "p3",
+                "verse",
+                "v21",
+                "note",
+                "x"
+              ],
+              "value": "#ch.5:7,11;12:8"
+            },
+            {
+              "rowId": 132,
+              "keyParts": [
+                132,
+                "p3",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "if he is poor and cannot afford so much, then he shall take one male lamb for a guilt offering"
+            },
+            {
+              "rowId": 133,
+              "keyParts": [
+                133,
+                "p3",
+                "verse",
+                "v21",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.12above]"
+            },
+            {
+              "rowId": 134,
+              "keyParts": [
+                134,
+                "p3",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "to be waved, to make atonement for him, and a tenth of an ephah of fine flour mixed with oil for a grain offering, and a log of oil;"
+            },
+            {
+              "rowId": 135,
+              "keyParts": [
+                "v021_ESV_LEV_014",
+                135,
+                "p3",
+                "verse",
+                "v21",
+                "plain_text"
+              ],
+              "value": "21 “But if he is poor and cannot afford so much, then he shall take one male lamb for a guilt offering to be waved, to make atonement for him, and a tenth of an ephah of fine flour mixed with oil for a grain offering, and a log of oil;"
+            },
+            {
+              "rowId": 136,
+              "keyParts": [
+                136,
+                "p3",
+                "verse",
+                "v22",
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 137,
+              "keyParts": [
+                137,
+                "p3",
+                "verse",
+                "v22",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.12:8"
+            },
+            {
+              "rowId": 138,
+              "keyParts": [
+                138,
+                "p3",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "also two turtledoves or two pigeons, whichever he can afford. The one shall be a sin offering and the other a burnt offering."
+            },
+            {
+              "rowId": 139,
+              "keyParts": [
+                "v022_ESV_LEV_014",
+                139,
+                "p3",
+                "verse",
+                "v22",
+                "plain_text"
+              ],
+              "value": "22 also two turtledoves or two pigeons, whichever he can afford. The one shall be a sin offering and the other a burnt offering."
+            },
+            {
+              "rowId": 140,
+              "keyParts": [
+                140,
+                "p3",
+                "verse",
+                "v23",
+                "label"
+              ],
+              "value": "23"
+            },
+            {
+              "rowId": 141,
+              "keyParts": [
+                141,
+                "p3",
+                "verse",
+                "v23",
+                "note",
+                "x"
+              ],
+              "value": "#ver.10, 11"
+            },
+            {
+              "rowId": 142,
+              "keyParts": [
+                142,
+                "p3",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "And on the eighth day he shall bring them for his cleansing to the priest, to the entrance of the tent of meeting, before the"
+            },
+            {
+              "rowId": 143,
+              "keyParts": [
+                143,
+                "p3",
+                "verse",
+                "v23",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 144,
+              "keyParts": [
+                144,
+                "p3",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "."
+            },
+            {
+              "rowId": 145,
+              "keyParts": [
+                "v023_ESV_LEV_014",
+                145,
+                "p3",
+                "verse",
+                "v23",
+                "plain_text"
+              ],
+              "value": "23 And on the eighth day he shall bring them for his cleansing to the priest, to the entrance of the tent of meeting, before the Lord ."
+            },
+            {
+              "rowId": 146,
+              "keyParts": [
+                146,
+                "p3",
+                "verse",
+                "v24",
+                "label"
+              ],
+              "value": "24"
+            },
+            {
+              "rowId": 147,
+              "keyParts": [
+                147,
+                "p3",
+                "verse",
+                "v24",
+                "note",
+                "x"
+              ],
+              "value": "#ver.12"
+            },
+            {
+              "rowId": 148,
+              "keyParts": [
+                148,
+                "p3",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "And the priest shall take the lamb of the guilt offering and the log of oil, and the priest shall wave them for a wave offering before the"
+            },
+            {
+              "rowId": 149,
+              "keyParts": [
+                149,
+                "p3",
+                "verse",
+                "v24",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 150,
+              "keyParts": [
+                150,
+                "p3",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "."
+            },
+            {
+              "rowId": 151,
+              "keyParts": [
+                "v024_ESV_LEV_014",
+                151,
+                "p3",
+                "verse",
+                "v24",
+                "plain_text"
+              ],
+              "value": "24 And the priest shall take the lamb of the guilt offering and the log of oil, and the priest shall wave them for a wave offering before the Lord ."
+            },
+            {
+              "rowId": 152,
+              "keyParts": [
+                152,
+                "p3",
+                "verse",
+                "v25",
+                "label"
+              ],
+              "value": "25"
+            },
+            {
+              "rowId": 153,
+              "keyParts": [
+                153,
+                "p3",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "And he shall kill the lamb of the guilt offering."
+            },
+            {
+              "rowId": 154,
+              "keyParts": [
+                154,
+                "p3",
+                "verse",
+                "v25",
+                "note",
+                "x"
+              ],
+              "value": "#For ver. 25-29, see ver.14-18"
+            },
+            {
+              "rowId": 155,
+              "keyParts": [
+                155,
+                "p3",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "And the priest shall take some of the blood of the guilt offering and put it on the lobe of the right ear of him who is to be cleansed, and on the thumb of his right hand and on the big toe of his right foot."
+            },
+            {
+              "rowId": 156,
+              "keyParts": [
+                "v025_ESV_LEV_014",
+                156,
+                "p3",
+                "verse",
+                "v25",
+                "plain_text"
+              ],
+              "value": "25 And he shall kill the lamb of the guilt offering. And the priest shall take some of the blood of the guilt offering and put it on the lobe of the right ear of him who is to be cleansed, and on the thumb of his right hand and on the big toe of his right foot."
+            },
+            {
+              "rowId": 157,
+              "keyParts": [
+                157,
+                "p3",
+                "verse",
+                "v26",
+                "label"
+              ],
+              "value": "26"
+            },
+            {
+              "rowId": 158,
+              "keyParts": [
+                158,
+                "p3",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "And the priest shall pour some of the oil into the palm of his own left hand,"
+            },
+            {
+              "rowId": 159,
+              "keyParts": [
+                "v026_ESV_LEV_014",
+                159,
+                "p3",
+                "verse",
+                "v26",
+                "plain_text"
+              ],
+              "value": "26 And the priest shall pour some of the oil into the palm of his own left hand,"
+            },
+            {
+              "rowId": 160,
+              "keyParts": [
+                160,
+                "p3",
+                "verse",
+                "v27",
+                "label"
+              ],
+              "value": "27"
+            },
+            {
+              "rowId": 161,
+              "keyParts": [
+                161,
+                "p3",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "and shall sprinkle with his right finger some of the oil that is in his left hand seven times before the"
+            },
+            {
+              "rowId": 162,
+              "keyParts": [
+                162,
+                "p3",
+                "verse",
+                "v27",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 163,
+              "keyParts": [
+                163,
+                "p3",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "."
+            },
+            {
+              "rowId": 164,
+              "keyParts": [
+                "v027_ESV_LEV_014",
+                164,
+                "p3",
+                "verse",
+                "v27",
+                "plain_text"
+              ],
+              "value": "27 and shall sprinkle with his right finger some of the oil that is in his left hand seven times before the Lord ."
+            },
+            {
+              "rowId": 165,
+              "keyParts": [
+                165,
+                "p3",
+                "verse",
+                "v28",
+                "label"
+              ],
+              "value": "28"
+            },
+            {
+              "rowId": 166,
+              "keyParts": [
+                166,
+                "p3",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "And the priest shall put some of the oil that is in his hand on the lobe of the right ear of him who is to be cleansed and on the thumb of his right hand and on the big toe of his right foot, in the place where the blood of the guilt offering was put."
+            },
+            {
+              "rowId": 167,
+              "keyParts": [
+                "v028_ESV_LEV_014",
+                167,
+                "p3",
+                "verse",
+                "v28",
+                "plain_text"
+              ],
+              "value": "28 And the priest shall put some of the oil that is in his hand on the lobe of the right ear of him who is to be cleansed and on the thumb of his right hand and on the big toe of his right foot, in the place where the blood of the guilt offering was put."
+            },
+            {
+              "rowId": 168,
+              "keyParts": [
+                168,
+                "p3",
+                "verse",
+                "v29",
+                "label"
+              ],
+              "value": "29"
+            },
+            {
+              "rowId": 169,
+              "keyParts": [
+                169,
+                "p3",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "And the rest of the oil that is in the priest’s hand he shall put on the head of him who is to be cleansed, to make atonement for him before the"
+            },
+            {
+              "rowId": 170,
+              "keyParts": [
+                170,
+                "p3",
+                "verse",
+                "v29",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 171,
+              "keyParts": [
+                171,
+                "p3",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "."
+            },
+            {
+              "rowId": 172,
+              "keyParts": [
+                "v029_ESV_LEV_014",
+                172,
+                "p3",
+                "verse",
+                "v29",
+                "plain_text"
+              ],
+              "value": "29 And the rest of the oil that is in the priest’s hand he shall put on the head of him who is to be cleansed, to make atonement for him before the Lord ."
+            },
+            {
+              "rowId": 173,
+              "keyParts": [
+                173,
+                "p3",
+                "verse",
+                "v30",
+                "label"
+              ],
+              "value": "30"
+            },
+            {
+              "rowId": 174,
+              "keyParts": [
+                174,
+                "p3",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "And he shall offer, of the"
+            },
+            {
+              "rowId": 175,
+              "keyParts": [
+                175,
+                "p3",
+                "verse",
+                "v30",
+                "note",
+                "x"
+              ],
+              "value": "#ver.22;ch.15:15"
+            },
+            {
+              "rowId": 176,
+              "keyParts": [
+                176,
+                "p3",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "turtledoves or pigeons, whichever he can afford,"
+            },
+            {
+              "rowId": 177,
+              "keyParts": [
+                "v030_ESV_LEV_014",
+                177,
+                "p3",
+                "verse",
+                "v30",
+                "plain_text"
+              ],
+              "value": "30 And he shall offer, of the turtledoves or pigeons, whichever he can afford,"
+            },
+            {
+              "rowId": 178,
+              "keyParts": [
+                178,
+                "p3",
+                "verse",
+                "v31",
+                "label"
+              ],
+              "value": "31"
+            },
+            {
+              "rowId": 179,
+              "keyParts": [
+                179,
+                "p3",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "one"
+            },
+            {
+              "rowId": 180,
+              "keyParts": [
+                180,
+                "p3",
+                "verse",
+                "v31",
+                "note",
+                "f"
+              ],
+              "value": "#14:31Septuagint, Syriac; Hebrewafford,31such as he can afford, one"
+            },
+            {
+              "rowId": 181,
+              "keyParts": [
+                181,
+                "p3",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "for a sin offering and the other for a burnt offering, along with a grain offering."
+            },
+            {
+              "rowId": 182,
+              "keyParts": [
+                182,
+                "p3",
+                "verse",
+                "v31",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.18above]"
+            },
+            {
+              "rowId": 183,
+              "keyParts": [
+                183,
+                "p3",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "And the priest shall make atonement before the"
+            },
+            {
+              "rowId": 184,
+              "keyParts": [
+                184,
+                "p3",
+                "verse",
+                "v31",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 185,
+              "keyParts": [
+                185,
+                "p3",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "for him who is being cleansed."
+            },
+            {
+              "rowId": 186,
+              "keyParts": [
+                "v031_ESV_LEV_014",
+                186,
+                "p3",
+                "verse",
+                "v31",
+                "plain_text"
+              ],
+              "value": "31 one for a sin offering and the other for a burnt offering, along with a grain offering. And the priest shall make atonement before the Lord for him who is being cleansed."
+            },
+            {
+              "rowId": 187,
+              "keyParts": [
+                187,
+                "p3",
+                "verse",
+                "v32",
+                "label"
+              ],
+              "value": "32"
+            },
+            {
+              "rowId": 188,
+              "keyParts": [
+                188,
+                "p3",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "This is the law for him in whom is a case of leprous disease, who cannot afford"
+            },
+            {
+              "rowId": 189,
+              "keyParts": [
+                189,
+                "p3",
+                "verse",
+                "v32",
+                "note",
+                "x"
+              ],
+              "value": "#ver.10"
+            },
+            {
+              "rowId": 190,
+              "keyParts": [
+                190,
+                "p3",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "the offerings for his cleansing.”"
+            },
+            {
+              "rowId": 191,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Laws for Cleansing Houses"
+            },
+            {
+              "rowId": 192,
+              "keyParts": [
+                "v032_ESV_LEV_014",
+                192,
+                "p3",
+                "verse",
+                "v32",
+                "plain_text"
+              ],
+              "value": "32 This is the law for him in whom is a case of leprous disease, who cannot afford the offerings for his cleansing.”"
+            },
+            {
+              "rowId": 193,
+              "keyParts": [
+                193,
+                "p4",
+                "verse",
+                "v33",
+                "label"
+              ],
+              "value": "33"
+            },
+            {
+              "rowId": 194,
+              "keyParts": [
+                194,
+                "p4",
+                "verse",
+                "v33",
+                "content"
+              ],
+              "value": "The"
+            },
+            {
+              "rowId": 195,
+              "keyParts": [
+                195,
+                "p4",
+                "verse",
+                "v33",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 196,
+              "keyParts": [
+                196,
+                "p4",
+                "verse",
+                "v33",
+                "content"
+              ],
+              "value": "spoke to Moses and Aaron, saying,"
+            },
+            {
+              "rowId": 197,
+              "keyParts": [
+                "v033_ESV_LEV_014",
+                197,
+                "p4",
+                "verse",
+                "v33",
+                "plain_text"
+              ],
+              "value": "33 The Lord spoke to Moses and Aaron, saying,"
+            },
+            {
+              "rowId": 198,
+              "keyParts": [
+                198,
+                "p4",
+                "verse",
+                "v34",
+                "label"
+              ],
+              "value": "34"
+            },
+            {
+              "rowId": 199,
+              "keyParts": [
+                199,
+                "p4",
+                "verse",
+                "v34",
+                "content"
+              ],
+              "value": "“When you come into the land of Canaan, which I give you"
+            },
+            {
+              "rowId": 200,
+              "keyParts": [
+                200,
+                "p4",
+                "verse",
+                "v34",
+                "note",
+                "x"
+              ],
+              "value": "#Gen. 17:8;Num. 32:22;Deut. 32:49"
+            },
+            {
+              "rowId": 201,
+              "keyParts": [
+                201,
+                "p4",
+                "verse",
+                "v34",
+                "content"
+              ],
+              "value": "for a possession, and I put a case of leprous disease in a house in the land of your possession,"
+            },
+            {
+              "rowId": 202,
+              "keyParts": [
+                "v034_ESV_LEV_014",
+                202,
+                "p4",
+                "verse",
+                "v34",
+                "plain_text"
+              ],
+              "value": "34 “When you come into the land of Canaan, which I give you for a possession, and I put a case of leprous disease in a house in the land of your possession,"
+            },
+            {
+              "rowId": 203,
+              "keyParts": [
+                203,
+                "p4",
+                "verse",
+                "v35",
+                "label"
+              ],
+              "value": "35"
+            },
+            {
+              "rowId": 204,
+              "keyParts": [
+                204,
+                "p4",
+                "verse",
+                "v35",
+                "content"
+              ],
+              "value": "then he who owns the house shall come and tell the priest, ‘There seems to me to be some case of"
+            },
+            {
+              "rowId": 205,
+              "keyParts": [
+                205,
+                "p4",
+                "verse",
+                "v35",
+                "note",
+                "x"
+              ],
+              "value": "#[Ps. 91:10;Zech. 5:4]"
+            },
+            {
+              "rowId": 206,
+              "keyParts": [
+                206,
+                "p4",
+                "verse",
+                "v35",
+                "content"
+              ],
+              "value": "disease in my house.’"
+            },
+            {
+              "rowId": 207,
+              "keyParts": [
+                "v035_ESV_LEV_014",
+                207,
+                "p4",
+                "verse",
+                "v35",
+                "plain_text"
+              ],
+              "value": "35 then he who owns the house shall come and tell the priest, ‘There seems to me to be some case of disease in my house.’"
+            },
+            {
+              "rowId": 208,
+              "keyParts": [
+                208,
+                "p4",
+                "verse",
+                "v36",
+                "label"
+              ],
+              "value": "36"
+            },
+            {
+              "rowId": 209,
+              "keyParts": [
+                209,
+                "p4",
+                "verse",
+                "v36",
+                "content"
+              ],
+              "value": "Then the priest shall command that they empty the house before the priest goes to examine the disease, lest all that is in the house be declared unclean. And afterward the priest shall go in to see the house."
+            },
+            {
+              "rowId": 210,
+              "keyParts": [
+                "v036_ESV_LEV_014",
+                210,
+                "p4",
+                "verse",
+                "v36",
+                "plain_text"
+              ],
+              "value": "36 Then the priest shall command that they empty the house before the priest goes to examine the disease, lest all that is in the house be declared unclean. And afterward the priest shall go in to see the house."
+            },
+            {
+              "rowId": 211,
+              "keyParts": [
+                211,
+                "p4",
+                "verse",
+                "v37",
+                "label"
+              ],
+              "value": "37"
+            },
+            {
+              "rowId": 212,
+              "keyParts": [
+                212,
+                "p4",
+                "verse",
+                "v37",
+                "content"
+              ],
+              "value": "And he shall examine the disease. And if the disease is in the walls of the house with greenish or reddish spots, and if it appears to be deeper than the surface,"
+            },
+            {
+              "rowId": 213,
+              "keyParts": [
+                "v037_ESV_LEV_014",
+                213,
+                "p4",
+                "verse",
+                "v37",
+                "plain_text"
+              ],
+              "value": "37 And he shall examine the disease. And if the disease is in the walls of the house with greenish or reddish spots, and if it appears to be deeper than the surface,"
+            },
+            {
+              "rowId": 214,
+              "keyParts": [
+                214,
+                "p4",
+                "verse",
+                "v38",
+                "label"
+              ],
+              "value": "38"
+            },
+            {
+              "rowId": 215,
+              "keyParts": [
+                215,
+                "p4",
+                "verse",
+                "v38",
+                "content"
+              ],
+              "value": "then the priest shall go out of the house to the door of the house and shut up the house seven days."
+            },
+            {
+              "rowId": 216,
+              "keyParts": [
+                "v038_ESV_LEV_014",
+                216,
+                "p4",
+                "verse",
+                "v38",
+                "plain_text"
+              ],
+              "value": "38 then the priest shall go out of the house to the door of the house and shut up the house seven days."
+            },
+            {
+              "rowId": 217,
+              "keyParts": [
+                217,
+                "p4",
+                "verse",
+                "v39",
+                "label"
+              ],
+              "value": "39"
+            },
+            {
+              "rowId": 218,
+              "keyParts": [
+                218,
+                "p4",
+                "verse",
+                "v39",
+                "content"
+              ],
+              "value": "And the priest shall come again on the seventh day, and look. If the disease has spread in the walls of the house,"
+            },
+            {
+              "rowId": 219,
+              "keyParts": [
+                "v039_ESV_LEV_014",
+                219,
+                "p4",
+                "verse",
+                "v39",
+                "plain_text"
+              ],
+              "value": "39 And the priest shall come again on the seventh day, and look. If the disease has spread in the walls of the house,"
+            },
+            {
+              "rowId": 220,
+              "keyParts": [
+                220,
+                "p4",
+                "verse",
+                "v40",
+                "label"
+              ],
+              "value": "40"
+            },
+            {
+              "rowId": 221,
+              "keyParts": [
+                221,
+                "p4",
+                "verse",
+                "v40",
+                "content"
+              ],
+              "value": "then the priest shall command that they take out the stones in which is the disease and throw them into an unclean place outside the city."
+            },
+            {
+              "rowId": 222,
+              "keyParts": [
+                "v040_ESV_LEV_014",
+                222,
+                "p4",
+                "verse",
+                "v40",
+                "plain_text"
+              ],
+              "value": "40 then the priest shall command that they take out the stones in which is the disease and throw them into an unclean place outside the city."
+            },
+            {
+              "rowId": 223,
+              "keyParts": [
+                223,
+                "p4",
+                "verse",
+                "v41",
+                "label"
+              ],
+              "value": "41"
+            },
+            {
+              "rowId": 224,
+              "keyParts": [
+                224,
+                "p4",
+                "verse",
+                "v41",
+                "content"
+              ],
+              "value": "And he shall have the inside of the house scraped all around, and the plaster that they scrape off they shall pour out in an unclean place outside the city."
+            },
+            {
+              "rowId": 225,
+              "keyParts": [
+                "v041_ESV_LEV_014",
+                225,
+                "p4",
+                "verse",
+                "v41",
+                "plain_text"
+              ],
+              "value": "41 And he shall have the inside of the house scraped all around, and the plaster that they scrape off they shall pour out in an unclean place outside the city."
+            },
+            {
+              "rowId": 226,
+              "keyParts": [
+                226,
+                "p4",
+                "verse",
+                "v42",
+                "label"
+              ],
+              "value": "42"
+            },
+            {
+              "rowId": 227,
+              "keyParts": [
+                227,
+                "p4",
+                "verse",
+                "v42",
+                "content"
+              ],
+              "value": "Then they shall take other stones and put them in the place of those stones, and he shall take other plaster and plaster the house."
+            },
+            {
+              "rowId": 228,
+              "keyParts": [
+                "v042_ESV_LEV_014",
+                228,
+                "p4",
+                "verse",
+                "v42",
+                "plain_text"
+              ],
+              "value": "42 Then they shall take other stones and put them in the place of those stones, and he shall take other plaster and plaster the house."
+            },
+            {
+              "rowId": 229,
+              "keyParts": [
+                229,
+                "p5",
+                "verse",
+                "v43",
+                "label"
+              ],
+              "value": "43"
+            },
+            {
+              "rowId": 230,
+              "keyParts": [
+                230,
+                "p5",
+                "verse",
+                "v43",
+                "content"
+              ],
+              "value": "“If the disease breaks out again in the house, after he has taken out the stones and scraped the house and plastered it,"
+            },
+            {
+              "rowId": 231,
+              "keyParts": [
+                "v043_ESV_LEV_014",
+                231,
+                "p5",
+                "verse",
+                "v43",
+                "plain_text"
+              ],
+              "value": "43 “If the disease breaks out again in the house, after he has taken out the stones and scraped the house and plastered it,"
+            },
+            {
+              "rowId": 232,
+              "keyParts": [
+                232,
+                "p5",
+                "verse",
+                "v44",
+                "label"
+              ],
+              "value": "44"
+            },
+            {
+              "rowId": 233,
+              "keyParts": [
+                233,
+                "p5",
+                "verse",
+                "v44",
+                "content"
+              ],
+              "value": "then the priest shall go and look. And if the disease has spread in the house, it is a"
+            },
+            {
+              "rowId": 234,
+              "keyParts": [
+                234,
+                "p5",
+                "verse",
+                "v44",
+                "note",
+                "x"
+              ],
+              "value": "#ch.13:51,52"
+            },
+            {
+              "rowId": 235,
+              "keyParts": [
+                235,
+                "p5",
+                "verse",
+                "v44",
+                "content"
+              ],
+              "value": "persistent leprous disease in the house; it is unclean."
+            },
+            {
+              "rowId": 236,
+              "keyParts": [
+                "v044_ESV_LEV_014",
+                236,
+                "p5",
+                "verse",
+                "v44",
+                "plain_text"
+              ],
+              "value": "44 then the priest shall go and look. And if the disease has spread in the house, it is a persistent leprous disease in the house; it is unclean."
+            },
+            {
+              "rowId": 237,
+              "keyParts": [
+                237,
+                "p5",
+                "verse",
+                "v45",
+                "label"
+              ],
+              "value": "45"
+            },
+            {
+              "rowId": 238,
+              "keyParts": [
+                238,
+                "p5",
+                "verse",
+                "v45",
+                "content"
+              ],
+              "value": "And he shall break down the house, its stones and timber and all the plaster of the house, and he shall carry them out of the city to an unclean place."
+            },
+            {
+              "rowId": 239,
+              "keyParts": [
+                "v045_ESV_LEV_014",
+                239,
+                "p5",
+                "verse",
+                "v45",
+                "plain_text"
+              ],
+              "value": "45 And he shall break down the house, its stones and timber and all the plaster of the house, and he shall carry them out of the city to an unclean place."
+            },
+            {
+              "rowId": 240,
+              "keyParts": [
+                240,
+                "p5",
+                "verse",
+                "v46",
+                "label"
+              ],
+              "value": "46"
+            },
+            {
+              "rowId": 241,
+              "keyParts": [
+                241,
+                "p5",
+                "verse",
+                "v46",
+                "content"
+              ],
+              "value": "Moreover, whoever enters the house while it is shut up shall be unclean until the evening,"
+            },
+            {
+              "rowId": 242,
+              "keyParts": [
+                "v046_ESV_LEV_014",
+                242,
+                "p5",
+                "verse",
+                "v46",
+                "plain_text"
+              ],
+              "value": "46 Moreover, whoever enters the house while it is shut up shall be unclean until the evening,"
+            },
+            {
+              "rowId": 243,
+              "keyParts": [
+                243,
+                "p5",
+                "verse",
+                "v47",
+                "label"
+              ],
+              "value": "47"
+            },
+            {
+              "rowId": 244,
+              "keyParts": [
+                244,
+                "p5",
+                "verse",
+                "v47",
+                "content"
+              ],
+              "value": "and whoever sleeps in the house"
+            },
+            {
+              "rowId": 245,
+              "keyParts": [
+                245,
+                "p5",
+                "verse",
+                "v47",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.11:25"
+            },
+            {
+              "rowId": 246,
+              "keyParts": [
+                246,
+                "p5",
+                "verse",
+                "v47",
+                "content"
+              ],
+              "value": "shall wash his clothes, and whoever eats in the house shall wash his clothes."
+            },
+            {
+              "rowId": 247,
+              "keyParts": [
+                "v047_ESV_LEV_014",
+                247,
+                "p5",
+                "verse",
+                "v47",
+                "plain_text"
+              ],
+              "value": "47 and whoever sleeps in the house shall wash his clothes, and whoever eats in the house shall wash his clothes."
+            },
+            {
+              "rowId": 248,
+              "keyParts": [
+                248,
+                "p6",
+                "verse",
+                "v48",
+                "label"
+              ],
+              "value": "48"
+            },
+            {
+              "rowId": 249,
+              "keyParts": [
+                249,
+                "p6",
+                "verse",
+                "v48",
+                "content"
+              ],
+              "value": "“But if the priest comes and looks, and if the disease has not spread in the house after the house was plastered, then the priest shall pronounce the house clean, for the disease is healed."
+            },
+            {
+              "rowId": 250,
+              "keyParts": [
+                "v048_ESV_LEV_014",
+                250,
+                "p6",
+                "verse",
+                "v48",
+                "plain_text"
+              ],
+              "value": "48 “But if the priest comes and looks, and if the disease has not spread in the house after the house was plastered, then the priest shall pronounce the house clean, for the disease is healed."
+            },
+            {
+              "rowId": 251,
+              "keyParts": [
+                251,
+                "p6",
+                "verse",
+                "v49",
+                "label"
+              ],
+              "value": "49"
+            },
+            {
+              "rowId": 252,
+              "keyParts": [
+                252,
+                "p6",
+                "verse",
+                "v49",
+                "content"
+              ],
+              "value": "And for the"
+            },
+            {
+              "rowId": 253,
+              "keyParts": [
+                253,
+                "p6",
+                "verse",
+                "v49",
+                "note",
+                "x"
+              ],
+              "value": "#ver.52"
+            },
+            {
+              "rowId": 254,
+              "keyParts": [
+                254,
+                "p6",
+                "verse",
+                "v49",
+                "content"
+              ],
+              "value": "cleansing of the house he shall take"
+            },
+            {
+              "rowId": 255,
+              "keyParts": [
+                255,
+                "p6",
+                "verse",
+                "v49",
+                "note",
+                "x"
+              ],
+              "value": "#[ver.4-6]"
+            },
+            {
+              "rowId": 256,
+              "keyParts": [
+                256,
+                "p6",
+                "verse",
+                "v49",
+                "content"
+              ],
+              "value": "two small birds, with cedarwood and scarlet yarn and hyssop,"
+            },
+            {
+              "rowId": 257,
+              "keyParts": [
+                "v049_ESV_LEV_014",
+                257,
+                "p6",
+                "verse",
+                "v49",
+                "plain_text"
+              ],
+              "value": "49 And for the cleansing of the house he shall take two small birds, with cedarwood and scarlet yarn and hyssop,"
+            },
+            {
+              "rowId": 258,
+              "keyParts": [
+                258,
+                "p6",
+                "verse",
+                "v50",
+                "label"
+              ],
+              "value": "50"
+            },
+            {
+              "rowId": 259,
+              "keyParts": [
+                259,
+                "p6",
+                "verse",
+                "v50",
+                "content"
+              ],
+              "value": "and shall kill one of the birds in an earthenware vessel over fresh water"
+            },
+            {
+              "rowId": 260,
+              "keyParts": [
+                "v050_ESV_LEV_014",
+                260,
+                "p6",
+                "verse",
+                "v50",
+                "plain_text"
+              ],
+              "value": "50 and shall kill one of the birds in an earthenware vessel over fresh water"
+            },
+            {
+              "rowId": 261,
+              "keyParts": [
+                261,
+                "p6",
+                "verse",
+                "v51",
+                "label"
+              ],
+              "value": "51"
+            },
+            {
+              "rowId": 262,
+              "keyParts": [
+                262,
+                "p6",
+                "verse",
+                "v51",
+                "content"
+              ],
+              "value": "and shall take the cedarwood and the hyssop and the scarlet yarn, along with the live bird, and dip them in the blood of the bird that was killed and in the fresh water and sprinkle the house seven times."
+            },
+            {
+              "rowId": 263,
+              "keyParts": [
+                "v051_ESV_LEV_014",
+                263,
+                "p6",
+                "verse",
+                "v51",
+                "plain_text"
+              ],
+              "value": "51 and shall take the cedarwood and the hyssop and the scarlet yarn, along with the live bird, and dip them in the blood of the bird that was killed and in the fresh water and sprinkle the house seven times."
+            },
+            {
+              "rowId": 264,
+              "keyParts": [
+                264,
+                "p6",
+                "verse",
+                "v52",
+                "label"
+              ],
+              "value": "52"
+            },
+            {
+              "rowId": 265,
+              "keyParts": [
+                265,
+                "p6",
+                "verse",
+                "v52",
+                "content"
+              ],
+              "value": "Thus he shall cleanse the house with the blood of the bird and with the fresh water and with the live bird and with the cedarwood and hyssop and scarlet yarn."
+            },
+            {
+              "rowId": 266,
+              "keyParts": [
+                "v052_ESV_LEV_014",
+                266,
+                "p6",
+                "verse",
+                "v52",
+                "plain_text"
+              ],
+              "value": "52 Thus he shall cleanse the house with the blood of the bird and with the fresh water and with the live bird and with the cedarwood and hyssop and scarlet yarn."
+            },
+            {
+              "rowId": 267,
+              "keyParts": [
+                267,
+                "p6",
+                "verse",
+                "v53",
+                "label"
+              ],
+              "value": "53"
+            },
+            {
+              "rowId": 268,
+              "keyParts": [
+                268,
+                "p6",
+                "verse",
+                "v53",
+                "content"
+              ],
+              "value": "And he shall let the live bird go out of the city"
+            },
+            {
+              "rowId": 269,
+              "keyParts": [
+                269,
+                "p6",
+                "verse",
+                "v53",
+                "note",
+                "x"
+              ],
+              "value": "#Seever.7"
+            },
+            {
+              "rowId": 270,
+              "keyParts": [
+                270,
+                "p6",
+                "verse",
+                "v53",
+                "content"
+              ],
+              "value": "into the open country. So he shall"
+            },
+            {
+              "rowId": 271,
+              "keyParts": [
+                271,
+                "p6",
+                "verse",
+                "v53",
+                "note",
+                "x"
+              ],
+              "value": "#ver.19, 20"
+            },
+            {
+              "rowId": 272,
+              "keyParts": [
+                272,
+                "p6",
+                "verse",
+                "v53",
+                "content"
+              ],
+              "value": "make atonement for the house, and it shall be clean.”"
+            },
+            {
+              "rowId": 273,
+              "keyParts": [
+                "v053_ESV_LEV_014",
+                273,
+                "p6",
+                "verse",
+                "v53",
+                "plain_text"
+              ],
+              "value": "53 And he shall let the live bird go out of the city into the open country. So he shall make atonement for the house, and it shall be clean.”"
+            },
+            {
+              "rowId": 274,
+              "keyParts": [
+                274,
+                "p7",
+                "verse",
+                "v54",
+                "label"
+              ],
+              "value": "54"
+            },
+            {
+              "rowId": 275,
+              "keyParts": [
+                275,
+                "p7",
+                "verse",
+                "v54",
+                "content"
+              ],
+              "value": "This is the law for any case of leprous disease: for"
+            },
+            {
+              "rowId": 276,
+              "keyParts": [
+                276,
+                "p7",
+                "verse",
+                "v54",
+                "note",
+                "x"
+              ],
+              "value": "#ch.13:30"
+            },
+            {
+              "rowId": 277,
+              "keyParts": [
+                277,
+                "p7",
+                "verse",
+                "v54",
+                "content"
+              ],
+              "value": "an itch,"
+            },
+            {
+              "rowId": 278,
+              "keyParts": [
+                "v054_ESV_LEV_014",
+                278,
+                "p7",
+                "verse",
+                "v54",
+                "plain_text"
+              ],
+              "value": "54 This is the law for any case of leprous disease: for an itch,"
+            },
+            {
+              "rowId": 279,
+              "keyParts": [
+                279,
+                "p7",
+                "verse",
+                "v55",
+                "label"
+              ],
+              "value": "55"
+            },
+            {
+              "rowId": 280,
+              "keyParts": [
+                280,
+                "p7",
+                "verse",
+                "v55",
+                "content"
+              ],
+              "value": "for"
+            },
+            {
+              "rowId": 281,
+              "keyParts": [
+                281,
+                "p7",
+                "verse",
+                "v55",
+                "note",
+                "x"
+              ],
+              "value": "#ch.13:47"
+            },
+            {
+              "rowId": 282,
+              "keyParts": [
+                282,
+                "p7",
+                "verse",
+                "v55",
+                "content"
+              ],
+              "value": "leprous disease in a garment or in"
+            },
+            {
+              "rowId": 283,
+              "keyParts": [
+                283,
+                "p7",
+                "verse",
+                "v55",
+                "note",
+                "x"
+              ],
+              "value": "#ver.34"
+            },
+            {
+              "rowId": 284,
+              "keyParts": [
+                284,
+                "p7",
+                "verse",
+                "v55",
+                "content"
+              ],
+              "value": "a house,"
+            },
+            {
+              "rowId": 285,
+              "keyParts": [
+                "v055_ESV_LEV_014",
+                285,
+                "p7",
+                "verse",
+                "v55",
+                "plain_text"
+              ],
+              "value": "55 for leprous disease in a garment or in a house,"
+            },
+            {
+              "rowId": 286,
+              "keyParts": [
+                286,
+                "p7",
+                "verse",
+                "v56",
+                "label"
+              ],
+              "value": "56"
+            },
+            {
+              "rowId": 287,
+              "keyParts": [
+                287,
+                "p7",
+                "verse",
+                "v56",
+                "content"
+              ],
+              "value": "and"
+            },
+            {
+              "rowId": 288,
+              "keyParts": [
+                288,
+                "p7",
+                "verse",
+                "v56",
+                "note",
+                "x"
+              ],
+              "value": "#ch.13:2"
+            },
+            {
+              "rowId": 289,
+              "keyParts": [
+                289,
+                "p7",
+                "verse",
+                "v56",
+                "content"
+              ],
+              "value": "for a swelling or an eruption or a spot,"
+            },
+            {
+              "rowId": 290,
+              "keyParts": [
+                "v056_ESV_LEV_014",
+                290,
+                "p7",
+                "verse",
+                "v56",
+                "plain_text"
+              ],
+              "value": "56 and for a swelling or an eruption or a spot,"
+            },
+            {
+              "rowId": 291,
+              "keyParts": [
+                291,
+                "p7",
+                "verse",
+                "v57",
+                "label"
+              ],
+              "value": "57"
+            },
+            {
+              "rowId": 292,
+              "keyParts": [
+                292,
+                "p7",
+                "verse",
+                "v57",
+                "content"
+              ],
+              "value": "to"
+            },
+            {
+              "rowId": 293,
+              "keyParts": [
+                293,
+                "p7",
+                "verse",
+                "v57",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.10:10,11"
+            },
+            {
+              "rowId": 294,
+              "keyParts": [
+                294,
+                "p7",
+                "verse",
+                "v57",
+                "content"
+              ],
+              "value": "show when it is unclean and when it is clean. This is the law for leprous disease."
+            },
+            {
+              "rowId": 295,
+              "keyParts": [
+                "v057_ESV_LEV_014",
+                295,
+                "p7",
+                "verse",
+                "v57",
+                "plain_text"
+              ],
+              "value": "57 to show when it is unclean and when it is clean. This is the law for leprous disease."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

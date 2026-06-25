@@ -1,0 +1,3474 @@
+{
+  "translationId": "ESV",
+  "name": "English Standard Version",
+  "abbreviation": "ESV",
+  "language": "English",
+  "copyright": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.",
+  "books": [
+    {
+      "bookId": "NUM",
+      "testament": "OT",
+      "order": 4,
+      "title": "Numbers",
+      "abbreviation": "NUM",
+      "chapters": [
+        {
+          "chapter": 16,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Korah’s Rebellion"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "Now"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#ch.27:3;Ex. 6:16,18,21;Jude 11"
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "Korah the son of Izhar, son of Kohath, son of Levi, and"
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                7,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#ch.26:9"
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "Dathan and Abiram the sons of Eliab, and On the son of Peleth, sons of Reuben, took men."
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                "v001_ESV_NUM_016",
+                9,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 Now Korah the son of Izhar, son of Kohath, son of Levi, and Dathan and Abiram the sons of Eliab, and On the son of Peleth, sons of Reuben, took men."
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                10,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                11,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "And they rose up before Moses, with a number of the people of Israel, 250 chiefs of the congregation, chosen from the assembly, well-known men."
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                "v002_ESV_NUM_016",
+                12,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 And they rose up before Moses, with a number of the people of Israel, 250 chiefs of the congregation, chosen from the assembly, well-known men."
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                13,
+                "p1",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#Ps. 106:16-18"
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                15,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "They assembled themselves together against Moses and against Aaron and said to them,"
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                16,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#ver.7"
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                17,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "“You have gone too far! For"
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "p1",
+                "verse",
+                "v3",
+                "note",
+                "x"
+              ],
+              "value": "#SeeEx. 19:6"
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "all in the congregation are holy, every one of them, and the"
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                20,
+                "p1",
+                "verse",
+                "v3",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "is among them. Why then do you exalt yourselves above the assembly of the"
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                22,
+                "p1",
+                "verse",
+                "v3",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                23,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "?”"
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                "v003_ESV_NUM_016",
+                24,
+                "p1",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 They assembled themselves together against Moses and against Aaron and said to them, “You have gone too far! For all in the congregation are holy, every one of them, and the Lord is among them. Why then do you exalt yourselves above the assembly of the Lord ?”"
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "p1",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                26,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "When Moses heard it,"
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                27,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#ch.14:5;20:6"
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                28,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "he fell on his face,"
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                "v004_ESV_NUM_016",
+                29,
+                "p1",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 When Moses heard it, he fell on his face,"
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                30,
+                "p1",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                31,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "and he said to Korah and all his company, “In the morning the"
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "p1",
+                "verse",
+                "v5",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                33,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "will show"
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                34,
+                "p1",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#[2 Tim. 2:19]"
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                35,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "who is his,"
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "p1",
+                "verse",
+                "v5",
+                "note",
+                "f"
+              ],
+              "value": "#16:5SeptuagintTheLordknows those who are his"
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                37,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "and who is"
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                38,
+                "p1",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#ver.3"
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                39,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "holy, and will bring him near to him. The one"
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                40,
+                "p1",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#ch.17:5;1 Sam. 2:28;Ps. 105:26;[Ex. 28:1]"
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "whom he chooses he will"
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                42,
+                "p1",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#ch.3:10;Lev. 10:3;Ps. 65:4;Ezek. 40:46;44:15,16"
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                43,
+                "p1",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "bring near to him."
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                "v005_ESV_NUM_016",
+                44,
+                "p1",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 and he said to Korah and all his company, “In the morning the Lord will show who is his, and who is holy, and will bring him near to him. The one whom he chooses he will bring near to him."
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                45,
+                "p1",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                46,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "Do this: take"
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                47,
+                "p1",
+                "verse",
+                "v6",
+                "note",
+                "x"
+              ],
+              "value": "#Lev. 10:1"
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                48,
+                "p1",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "censers, Korah and all his company;"
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                "v006_ESV_NUM_016",
+                49,
+                "p1",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 Do this: take censers, Korah and all his company;"
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "p1",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                51,
+                "p1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "put fire in them and put incense on them before the"
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                52,
+                "p1",
+                "verse",
+                "v7",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                53,
+                "p1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "tomorrow, and the man whom the"
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                54,
+                "p1",
+                "verse",
+                "v7",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                55,
+                "p1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "chooses shall be the holy one."
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                56,
+                "p1",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#ver.3"
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                57,
+                "p1",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "You have gone too far, sons of Levi!”"
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                "v007_ESV_NUM_016",
+                58,
+                "p1",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 put fire in them and put incense on them before the Lord tomorrow, and the man whom the Lord chooses shall be the holy one. You have gone too far, sons of Levi!”"
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                59,
+                "p1",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                60,
+                "p1",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "And Moses said to Korah, “Hear now, you sons of Levi:"
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                "v008_ESV_NUM_016",
+                61,
+                "p1",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 And Moses said to Korah, “Hear now, you sons of Levi:"
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                62,
+                "p1",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                63,
+                "p1",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "is it"
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                64,
+                "p1",
+                "verse",
+                "v9",
+                "note",
+                "x"
+              ],
+              "value": "#ver.13;1 Sam. 18:23;Isa. 7:13;[Ezek. 16:20]"
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                65,
+                "p1",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "too small a thing for you that the God of Israel has"
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                66,
+                "p1",
+                "verse",
+                "v9",
+                "note",
+                "x"
+              ],
+              "value": "#ch.8:14;Deut. 10:8"
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                67,
+                "p1",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "separated you from the congregation of Israel, to bring you near to himself, to do service in the tabernacle of the"
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                68,
+                "p1",
+                "verse",
+                "v9",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                69,
+                "p1",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "and to stand before the congregation to minister to them,"
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                "v009_ESV_NUM_016",
+                70,
+                "p1",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 is it too small a thing for you that the God of Israel has separated you from the congregation of Israel, to bring you near to himself, to do service in the tabernacle of the Lord and to stand before the congregation to minister to them,"
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                71,
+                "p1",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                72,
+                "p1",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "and that he has brought you near him, and all your brothers the sons of Levi with you? And would you seek the priesthood also?"
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                "v010_ESV_NUM_016",
+                73,
+                "p1",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 and that he has brought you near him, and all your brothers the sons of Levi with you? And would you seek the priesthood also?"
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                74,
+                "p1",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                75,
+                "p1",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "Therefore it is against the"
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                76,
+                "p1",
+                "verse",
+                "v11",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                77,
+                "p1",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "that you and all your company have gathered together. What is"
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                78,
+                "p1",
+                "verse",
+                "v11",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 16:8;[1 Cor. 3:5]"
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                79,
+                "p1",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "Aaron that you grumble against him?”"
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                "v011_ESV_NUM_016",
+                80,
+                "p1",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 Therefore it is against the Lord that you and all your company have gathered together. What is Aaron that you grumble against him?”"
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                81,
+                "p2",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                82,
+                "p2",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "And Moses sent to call Dathan and Abiram the sons of Eliab, and they said, “We will not come up."
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                "v012_ESV_NUM_016",
+                83,
+                "p2",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 And Moses sent to call Dathan and Abiram the sons of Eliab, and they said, “We will not come up."
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                84,
+                "p2",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                85,
+                "p2",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "Is it"
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                86,
+                "p2",
+                "verse",
+                "v13",
+                "note",
+                "x"
+              ],
+              "value": "#ver.9"
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                87,
+                "p2",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "a small thing that you have brought us up out of"
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                88,
+                "p2",
+                "verse",
+                "v13",
+                "note",
+                "x"
+              ],
+              "value": "#SeeEx. 3:8"
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                89,
+                "p2",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "a land flowing with milk and honey, to kill us in the wilderness, that you must also"
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                90,
+                "p2",
+                "verse",
+                "v13",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 2:14;Acts 7:27,35"
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                91,
+                "p2",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "make yourself a prince over us?"
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                "v013_ESV_NUM_016",
+                92,
+                "p2",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 Is it a small thing that you have brought us up out of a land flowing with milk and honey, to kill us in the wilderness, that you must also make yourself a prince over us?"
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                93,
+                "p2",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                94,
+                "p2",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "Moreover, you have not brought us into a land flowing with milk and honey, nor given us inheritance of fields and vineyards. Will you put out the eyes of these men? We will not come up.”"
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                "v014_ESV_NUM_016",
+                95,
+                "p2",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 Moreover, you have not brought us into a land flowing with milk and honey, nor given us inheritance of fields and vineyards. Will you put out the eyes of these men? We will not come up.”"
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                96,
+                "p2",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                97,
+                "p2",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "And Moses was very angry and said to the"
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                98,
+                "p2",
+                "verse",
+                "v15",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                99,
+                "p2",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": ","
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                100,
+                "p2",
+                "verse",
+                "v15",
+                "note",
+                "x"
+              ],
+              "value": "#[Gen. 4:4,5]"
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                101,
+                "p2",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "“Do not respect their offering."
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                102,
+                "p2",
+                "verse",
+                "v15",
+                "note",
+                "x"
+              ],
+              "value": "#1 Sam. 12:3;[Acts 20:33;2 Cor. 7:2]"
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                103,
+                "p2",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "I have not taken one donkey from them, and I have not harmed one of them.”"
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                "v015_ESV_NUM_016",
+                104,
+                "p2",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 And Moses was very angry and said to the Lord , “Do not respect their offering. I have not taken one donkey from them, and I have not harmed one of them.”"
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                105,
+                "p3",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                106,
+                "p3",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "And Moses said to Korah, “Be present, you and all your company,"
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                107,
+                "p3",
+                "verse",
+                "v16",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 16:9;1 Sam. 12:3,7"
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                108,
+                "p3",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "before the"
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                109,
+                "p3",
+                "verse",
+                "v16",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                110,
+                "p3",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": ", you and they, and Aaron, tomorrow."
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                "v016_ESV_NUM_016",
+                111,
+                "p3",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 And Moses said to Korah, “Be present, you and all your company, before the Lord , you and they, and Aaron, tomorrow."
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                112,
+                "p3",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                113,
+                "p3",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "And"
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                114,
+                "p3",
+                "verse",
+                "v17",
+                "note",
+                "x"
+              ],
+              "value": "#ver.6, 7"
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                115,
+                "p3",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "let every one of you take his censer and put incense on it, and every one of you bring before the"
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                116,
+                "p3",
+                "verse",
+                "v17",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                117,
+                "p3",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "his censer,"
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                118,
+                "p3",
+                "verse",
+                "v17",
+                "note",
+                "x"
+              ],
+              "value": "#ver.35"
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                119,
+                "p3",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "250 censers; you also, and Aaron, each his censer.”"
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                "v017_ESV_NUM_016",
+                120,
+                "p3",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 And let every one of you take his censer and put incense on it, and every one of you bring before the Lord his censer, 250 censers; you also, and Aaron, each his censer.”"
+            },
+            {
+              "rowId": 121,
+              "keyParts": [
+                121,
+                "p3",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 122,
+              "keyParts": [
+                122,
+                "p3",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "So every man took his censer and put fire in them and laid incense on them and stood at the entrance of the tent of meeting with Moses and Aaron."
+            },
+            {
+              "rowId": 123,
+              "keyParts": [
+                "v018_ESV_NUM_016",
+                123,
+                "p3",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 So every man took his censer and put fire in them and laid incense on them and stood at the entrance of the tent of meeting with Moses and Aaron."
+            },
+            {
+              "rowId": 124,
+              "keyParts": [
+                124,
+                "p3",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 125,
+              "keyParts": [
+                125,
+                "p3",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "Then Korah assembled all the congregation against them at the entrance of the tent of meeting."
+            },
+            {
+              "rowId": 126,
+              "keyParts": [
+                126,
+                "p3",
+                "verse",
+                "v19",
+                "note",
+                "x"
+              ],
+              "value": "#SeeLev. 9:23"
+            },
+            {
+              "rowId": 127,
+              "keyParts": [
+                127,
+                "p3",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "And the glory of the"
+            },
+            {
+              "rowId": 128,
+              "keyParts": [
+                128,
+                "p3",
+                "verse",
+                "v19",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 129,
+              "keyParts": [
+                129,
+                "p3",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "appeared to all the congregation."
+            },
+            {
+              "rowId": 130,
+              "keyParts": [
+                "v019_ESV_NUM_016",
+                130,
+                "p3",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 Then Korah assembled all the congregation against them at the entrance of the tent of meeting. And the glory of the Lord appeared to all the congregation."
+            },
+            {
+              "rowId": 131,
+              "keyParts": [
+                131,
+                "p4",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 132,
+              "keyParts": [
+                132,
+                "p4",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "And the"
+            },
+            {
+              "rowId": 133,
+              "keyParts": [
+                133,
+                "p4",
+                "verse",
+                "v20",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 134,
+              "keyParts": [
+                134,
+                "p4",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "spoke to Moses and to Aaron, saying,"
+            },
+            {
+              "rowId": 135,
+              "keyParts": [
+                "v020_ESV_NUM_016",
+                135,
+                "p4",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 And the Lord spoke to Moses and to Aaron, saying,"
+            },
+            {
+              "rowId": 136,
+              "keyParts": [
+                136,
+                "p4",
+                "verse",
+                "v21",
+                "label"
+              ],
+              "value": "21"
+            },
+            {
+              "rowId": 137,
+              "keyParts": [
+                137,
+                "p4",
+                "verse",
+                "v21",
+                "note",
+                "x"
+              ],
+              "value": "#ver.45;[Gen. 19:17,22;Jer. 51:6;Rev. 18:4]"
+            },
+            {
+              "rowId": 138,
+              "keyParts": [
+                138,
+                "p4",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "“Separate yourselves from among this congregation, that I may consume them"
+            },
+            {
+              "rowId": 139,
+              "keyParts": [
+                139,
+                "p4",
+                "verse",
+                "v21",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 33:5;Ps. 73:19"
+            },
+            {
+              "rowId": 140,
+              "keyParts": [
+                140,
+                "p4",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "in a moment.”"
+            },
+            {
+              "rowId": 141,
+              "keyParts": [
+                "v021_ESV_NUM_016",
+                141,
+                "p4",
+                "verse",
+                "v21",
+                "plain_text"
+              ],
+              "value": "21 “Separate yourselves from among this congregation, that I may consume them in a moment.”"
+            },
+            {
+              "rowId": 142,
+              "keyParts": [
+                142,
+                "p4",
+                "verse",
+                "v22",
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 143,
+              "keyParts": [
+                143,
+                "p4",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "And they"
+            },
+            {
+              "rowId": 144,
+              "keyParts": [
+                144,
+                "p4",
+                "verse",
+                "v22",
+                "note",
+                "x"
+              ],
+              "value": "#ver.45;ch.14:5;20:6"
+            },
+            {
+              "rowId": 145,
+              "keyParts": [
+                145,
+                "p4",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "fell on their faces and said, “O God,"
+            },
+            {
+              "rowId": 146,
+              "keyParts": [
+                146,
+                "p4",
+                "verse",
+                "v22",
+                "note",
+                "x"
+              ],
+              "value": "#ch.27:16;Job 12:10;Eccles. 12:7;Isa. 57:16;Zech. 12:1"
+            },
+            {
+              "rowId": 147,
+              "keyParts": [
+                147,
+                "p4",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "the God of the spirits of all flesh,"
+            },
+            {
+              "rowId": 148,
+              "keyParts": [
+                148,
+                "p4",
+                "verse",
+                "v22",
+                "note",
+                "x"
+              ],
+              "value": "#[Gen. 18:23-25;2 Sam. 24:17]"
+            },
+            {
+              "rowId": 149,
+              "keyParts": [
+                149,
+                "p4",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "shall one man sin, and will you be angry with all the congregation?”"
+            },
+            {
+              "rowId": 150,
+              "keyParts": [
+                "v022_ESV_NUM_016",
+                150,
+                "p4",
+                "verse",
+                "v22",
+                "plain_text"
+              ],
+              "value": "22 And they fell on their faces and said, “O God, the God of the spirits of all flesh, shall one man sin, and will you be angry with all the congregation?”"
+            },
+            {
+              "rowId": 151,
+              "keyParts": [
+                151,
+                "p4",
+                "verse",
+                "v23",
+                "label"
+              ],
+              "value": "23"
+            },
+            {
+              "rowId": 152,
+              "keyParts": [
+                152,
+                "p4",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "And the"
+            },
+            {
+              "rowId": 153,
+              "keyParts": [
+                153,
+                "p4",
+                "verse",
+                "v23",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 154,
+              "keyParts": [
+                154,
+                "p4",
+                "verse",
+                "v23",
+                "content"
+              ],
+              "value": "spoke to Moses, saying,"
+            },
+            {
+              "rowId": 155,
+              "keyParts": [
+                "v023_ESV_NUM_016",
+                155,
+                "p4",
+                "verse",
+                "v23",
+                "plain_text"
+              ],
+              "value": "23 And the Lord spoke to Moses, saying,"
+            },
+            {
+              "rowId": 156,
+              "keyParts": [
+                156,
+                "p4",
+                "verse",
+                "v24",
+                "label"
+              ],
+              "value": "24"
+            },
+            {
+              "rowId": 157,
+              "keyParts": [
+                157,
+                "p4",
+                "verse",
+                "v24",
+                "content"
+              ],
+              "value": "“Say to the congregation, Get away from the dwelling of Korah, Dathan, and Abiram.”"
+            },
+            {
+              "rowId": 158,
+              "keyParts": [
+                "v024_ESV_NUM_016",
+                158,
+                "p4",
+                "verse",
+                "v24",
+                "plain_text"
+              ],
+              "value": "24 “Say to the congregation, Get away from the dwelling of Korah, Dathan, and Abiram.”"
+            },
+            {
+              "rowId": 159,
+              "keyParts": [
+                159,
+                "p5",
+                "verse",
+                "v25",
+                "label"
+              ],
+              "value": "25"
+            },
+            {
+              "rowId": 160,
+              "keyParts": [
+                160,
+                "p5",
+                "verse",
+                "v25",
+                "content"
+              ],
+              "value": "Then Moses rose and went to Dathan and Abiram, and the elders of Israel followed him."
+            },
+            {
+              "rowId": 161,
+              "keyParts": [
+                "v025_ESV_NUM_016",
+                161,
+                "p5",
+                "verse",
+                "v25",
+                "plain_text"
+              ],
+              "value": "25 Then Moses rose and went to Dathan and Abiram, and the elders of Israel followed him."
+            },
+            {
+              "rowId": 162,
+              "keyParts": [
+                162,
+                "p5",
+                "verse",
+                "v26",
+                "label"
+              ],
+              "value": "26"
+            },
+            {
+              "rowId": 163,
+              "keyParts": [
+                163,
+                "p5",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "And he spoke to the congregation, saying,"
+            },
+            {
+              "rowId": 164,
+              "keyParts": [
+                164,
+                "p5",
+                "verse",
+                "v26",
+                "note",
+                "x"
+              ],
+              "value": "#[Gen. 19:12-14;Isa. 52:11;2 Cor. 6:17;Rev. 18:4]"
+            },
+            {
+              "rowId": 165,
+              "keyParts": [
+                165,
+                "p5",
+                "verse",
+                "v26",
+                "content"
+              ],
+              "value": "“Depart, please, from the tents of these wicked men, and touch nothing of theirs, lest you be swept away with all their sins.”"
+            },
+            {
+              "rowId": 166,
+              "keyParts": [
+                "v026_ESV_NUM_016",
+                166,
+                "p5",
+                "verse",
+                "v26",
+                "plain_text"
+              ],
+              "value": "26 And he spoke to the congregation, saying, “Depart, please, from the tents of these wicked men, and touch nothing of theirs, lest you be swept away with all their sins.”"
+            },
+            {
+              "rowId": 167,
+              "keyParts": [
+                167,
+                "p5",
+                "verse",
+                "v27",
+                "label"
+              ],
+              "value": "27"
+            },
+            {
+              "rowId": 168,
+              "keyParts": [
+                168,
+                "p5",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "So they got away from the dwelling of Korah, Dathan, and Abiram. And Dathan and Abiram came out and stood"
+            },
+            {
+              "rowId": 169,
+              "keyParts": [
+                169,
+                "p5",
+                "verse",
+                "v27",
+                "note",
+                "x"
+              ],
+              "value": "#[Ex. 33:8]"
+            },
+            {
+              "rowId": 170,
+              "keyParts": [
+                170,
+                "p5",
+                "verse",
+                "v27",
+                "content"
+              ],
+              "value": "at the door of their tents, together with their wives, their sons, and their little ones."
+            },
+            {
+              "rowId": 171,
+              "keyParts": [
+                "v027_ESV_NUM_016",
+                171,
+                "p5",
+                "verse",
+                "v27",
+                "plain_text"
+              ],
+              "value": "27 So they got away from the dwelling of Korah, Dathan, and Abiram. And Dathan and Abiram came out and stood at the door of their tents, together with their wives, their sons, and their little ones."
+            },
+            {
+              "rowId": 172,
+              "keyParts": [
+                172,
+                "p5",
+                "verse",
+                "v28",
+                "label"
+              ],
+              "value": "28"
+            },
+            {
+              "rowId": 173,
+              "keyParts": [
+                173,
+                "p5",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "And Moses said, “Hereby you shall know that the"
+            },
+            {
+              "rowId": 174,
+              "keyParts": [
+                174,
+                "p5",
+                "verse",
+                "v28",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 175,
+              "keyParts": [
+                175,
+                "p5",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "has sent me to do all these works, and that it has not been"
+            },
+            {
+              "rowId": 176,
+              "keyParts": [
+                176,
+                "p5",
+                "verse",
+                "v28",
+                "note",
+                "x"
+              ],
+              "value": "#[Jer. 23:16;Ezek. 13:2,17]"
+            },
+            {
+              "rowId": 177,
+              "keyParts": [
+                177,
+                "p5",
+                "verse",
+                "v28",
+                "content"
+              ],
+              "value": "of my own accord."
+            },
+            {
+              "rowId": 178,
+              "keyParts": [
+                "v028_ESV_NUM_016",
+                178,
+                "p5",
+                "verse",
+                "v28",
+                "plain_text"
+              ],
+              "value": "28 And Moses said, “Hereby you shall know that the Lord has sent me to do all these works, and that it has not been of my own accord."
+            },
+            {
+              "rowId": 179,
+              "keyParts": [
+                179,
+                "p5",
+                "verse",
+                "v29",
+                "label"
+              ],
+              "value": "29"
+            },
+            {
+              "rowId": 180,
+              "keyParts": [
+                180,
+                "p5",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "If these men die as all men die, or if they are visited by the fate of all mankind,"
+            },
+            {
+              "rowId": 181,
+              "keyParts": [
+                181,
+                "p5",
+                "verse",
+                "v29",
+                "note",
+                "x"
+              ],
+              "value": "#[1 Kgs. 22:28]"
+            },
+            {
+              "rowId": 182,
+              "keyParts": [
+                182,
+                "p5",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "then the"
+            },
+            {
+              "rowId": 183,
+              "keyParts": [
+                183,
+                "p5",
+                "verse",
+                "v29",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 184,
+              "keyParts": [
+                184,
+                "p5",
+                "verse",
+                "v29",
+                "content"
+              ],
+              "value": "has not sent me."
+            },
+            {
+              "rowId": 185,
+              "keyParts": [
+                "v029_ESV_NUM_016",
+                185,
+                "p5",
+                "verse",
+                "v29",
+                "plain_text"
+              ],
+              "value": "29 If these men die as all men die, or if they are visited by the fate of all mankind, then the Lord has not sent me."
+            },
+            {
+              "rowId": 186,
+              "keyParts": [
+                186,
+                "p5",
+                "verse",
+                "v30",
+                "label"
+              ],
+              "value": "30"
+            },
+            {
+              "rowId": 187,
+              "keyParts": [
+                187,
+                "p5",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "But if the"
+            },
+            {
+              "rowId": 188,
+              "keyParts": [
+                188,
+                "p5",
+                "verse",
+                "v30",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 189,
+              "keyParts": [
+                189,
+                "p5",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "creates something new, and"
+            },
+            {
+              "rowId": 190,
+              "keyParts": [
+                190,
+                "p5",
+                "verse",
+                "v30",
+                "note",
+                "x"
+              ],
+              "value": "#[Gen. 4:11]"
+            },
+            {
+              "rowId": 191,
+              "keyParts": [
+                191,
+                "p5",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "the ground opens its mouth and swallows them up with all that belongs to them, and they"
+            },
+            {
+              "rowId": 192,
+              "keyParts": [
+                192,
+                "p5",
+                "verse",
+                "v30",
+                "note",
+                "x"
+              ],
+              "value": "#ver.33;Ps. 55:15"
+            },
+            {
+              "rowId": 193,
+              "keyParts": [
+                193,
+                "p5",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": "go down alive into Sheol, then you shall know that these men have despised the"
+            },
+            {
+              "rowId": 194,
+              "keyParts": [
+                194,
+                "p5",
+                "verse",
+                "v30",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 195,
+              "keyParts": [
+                195,
+                "p5",
+                "verse",
+                "v30",
+                "content"
+              ],
+              "value": ".”"
+            },
+            {
+              "rowId": 196,
+              "keyParts": [
+                "v030_ESV_NUM_016",
+                196,
+                "p5",
+                "verse",
+                "v30",
+                "plain_text"
+              ],
+              "value": "30 But if the Lord creates something new, and the ground opens its mouth and swallows them up with all that belongs to them, and they go down alive into Sheol, then you shall know that these men have despised the Lord .”"
+            },
+            {
+              "rowId": 197,
+              "keyParts": [
+                197,
+                "p6",
+                "verse",
+                "v31",
+                "label"
+              ],
+              "value": "31"
+            },
+            {
+              "rowId": 198,
+              "keyParts": [
+                198,
+                "p6",
+                "verse",
+                "v31",
+                "note",
+                "x"
+              ],
+              "value": "#ch.26:10;27:3;Deut. 11:6;Ps. 106:17"
+            },
+            {
+              "rowId": 199,
+              "keyParts": [
+                199,
+                "p6",
+                "verse",
+                "v31",
+                "content"
+              ],
+              "value": "And as soon as he had finished speaking all these words, the ground under them split apart."
+            },
+            {
+              "rowId": 200,
+              "keyParts": [
+                "v031_ESV_NUM_016",
+                200,
+                "p6",
+                "verse",
+                "v31",
+                "plain_text"
+              ],
+              "value": "31 And as soon as he had finished speaking all these words, the ground under them split apart."
+            },
+            {
+              "rowId": 201,
+              "keyParts": [
+                201,
+                "p6",
+                "verse",
+                "v32",
+                "label"
+              ],
+              "value": "32"
+            },
+            {
+              "rowId": 202,
+              "keyParts": [
+                202,
+                "p6",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "And the earth opened its mouth and swallowed them up, with their households and"
+            },
+            {
+              "rowId": 203,
+              "keyParts": [
+                203,
+                "p6",
+                "verse",
+                "v32",
+                "note",
+                "x"
+              ],
+              "value": "#[ch.26:11;1 Chr. 6:22,27]"
+            },
+            {
+              "rowId": 204,
+              "keyParts": [
+                204,
+                "p6",
+                "verse",
+                "v32",
+                "content"
+              ],
+              "value": "all the people who belonged to Korah and all their goods."
+            },
+            {
+              "rowId": 205,
+              "keyParts": [
+                "v032_ESV_NUM_016",
+                205,
+                "p6",
+                "verse",
+                "v32",
+                "plain_text"
+              ],
+              "value": "32 And the earth opened its mouth and swallowed them up, with their households and all the people who belonged to Korah and all their goods."
+            },
+            {
+              "rowId": 206,
+              "keyParts": [
+                206,
+                "p6",
+                "verse",
+                "v33",
+                "label"
+              ],
+              "value": "33"
+            },
+            {
+              "rowId": 207,
+              "keyParts": [
+                207,
+                "p6",
+                "verse",
+                "v33",
+                "content"
+              ],
+              "value": "So they and all that belonged to them went down alive into Sheol, and the earth closed over them, and"
+            },
+            {
+              "rowId": 208,
+              "keyParts": [
+                208,
+                "p6",
+                "verse",
+                "v33",
+                "note",
+                "x"
+              ],
+              "value": "#Jude 11"
+            },
+            {
+              "rowId": 209,
+              "keyParts": [
+                209,
+                "p6",
+                "verse",
+                "v33",
+                "content"
+              ],
+              "value": "they perished from the midst of the assembly."
+            },
+            {
+              "rowId": 210,
+              "keyParts": [
+                "v033_ESV_NUM_016",
+                210,
+                "p6",
+                "verse",
+                "v33",
+                "plain_text"
+              ],
+              "value": "33 So they and all that belonged to them went down alive into Sheol, and the earth closed over them, and they perished from the midst of the assembly."
+            },
+            {
+              "rowId": 211,
+              "keyParts": [
+                211,
+                "p6",
+                "verse",
+                "v34",
+                "label"
+              ],
+              "value": "34"
+            },
+            {
+              "rowId": 212,
+              "keyParts": [
+                212,
+                "p6",
+                "verse",
+                "v34",
+                "content"
+              ],
+              "value": "And all Israel who were around them fled at their cry, for they said, “Lest the earth swallow us up!”"
+            },
+            {
+              "rowId": 213,
+              "keyParts": [
+                "v034_ESV_NUM_016",
+                213,
+                "p6",
+                "verse",
+                "v34",
+                "plain_text"
+              ],
+              "value": "34 And all Israel who were around them fled at their cry, for they said, “Lest the earth swallow us up!”"
+            },
+            {
+              "rowId": 214,
+              "keyParts": [
+                214,
+                "p6",
+                "verse",
+                "v35",
+                "label"
+              ],
+              "value": "35"
+            },
+            {
+              "rowId": 215,
+              "keyParts": [
+                215,
+                "p6",
+                "verse",
+                "v35",
+                "content"
+              ],
+              "value": "And"
+            },
+            {
+              "rowId": 216,
+              "keyParts": [
+                216,
+                "p6",
+                "verse",
+                "v35",
+                "note",
+                "x"
+              ],
+              "value": "#[ch.11:1]; Lev. 10:2; Ps. 106:18"
+            },
+            {
+              "rowId": 217,
+              "keyParts": [
+                217,
+                "p6",
+                "verse",
+                "v35",
+                "content"
+              ],
+              "value": "fire came out from the"
+            },
+            {
+              "rowId": 218,
+              "keyParts": [
+                218,
+                "p6",
+                "verse",
+                "v35",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 219,
+              "keyParts": [
+                219,
+                "p6",
+                "verse",
+                "v35",
+                "content"
+              ],
+              "value": "and consumed"
+            },
+            {
+              "rowId": 220,
+              "keyParts": [
+                220,
+                "p6",
+                "verse",
+                "v35",
+                "note",
+                "x"
+              ],
+              "value": "#ver.17"
+            },
+            {
+              "rowId": 221,
+              "keyParts": [
+                221,
+                "p6",
+                "verse",
+                "v35",
+                "content"
+              ],
+              "value": "the 250 men offering the incense."
+            },
+            {
+              "rowId": 222,
+              "keyParts": [
+                "v035_ESV_NUM_016",
+                222,
+                "p6",
+                "verse",
+                "v35",
+                "plain_text"
+              ],
+              "value": "35 And fire came out from the Lord and consumed the 250 men offering the incense."
+            },
+            {
+              "rowId": 223,
+              "keyParts": [
+                223,
+                "p7",
+                "verse",
+                "v36",
+                "label"
+              ],
+              "value": "36"
+            },
+            {
+              "rowId": 224,
+              "keyParts": [
+                224,
+                "p7",
+                "verse",
+                "v36",
+                "note",
+                "f"
+              ],
+              "value": "#16:36Ch 17:1 in Hebrew"
+            },
+            {
+              "rowId": 225,
+              "keyParts": [
+                225,
+                "p7",
+                "verse",
+                "v36",
+                "content"
+              ],
+              "value": "Then the"
+            },
+            {
+              "rowId": 226,
+              "keyParts": [
+                226,
+                "p7",
+                "verse",
+                "v36",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 227,
+              "keyParts": [
+                227,
+                "p7",
+                "verse",
+                "v36",
+                "content"
+              ],
+              "value": "spoke to Moses, saying,"
+            },
+            {
+              "rowId": 228,
+              "keyParts": [
+                "v036_ESV_NUM_016",
+                228,
+                "p7",
+                "verse",
+                "v36",
+                "plain_text"
+              ],
+              "value": "36 Then the Lord spoke to Moses, saying,"
+            },
+            {
+              "rowId": 229,
+              "keyParts": [
+                229,
+                "p7",
+                "verse",
+                "v37",
+                "label"
+              ],
+              "value": "37"
+            },
+            {
+              "rowId": 230,
+              "keyParts": [
+                230,
+                "p7",
+                "verse",
+                "v37",
+                "content"
+              ],
+              "value": "“Tell Eleazar the son of Aaron the priest to take up the censers out of the blaze. Then scatter the fire far and wide, for they have become holy."
+            },
+            {
+              "rowId": 231,
+              "keyParts": [
+                "v037_ESV_NUM_016",
+                231,
+                "p7",
+                "verse",
+                "v37",
+                "plain_text"
+              ],
+              "value": "37 “Tell Eleazar the son of Aaron the priest to take up the censers out of the blaze. Then scatter the fire far and wide, for they have become holy."
+            },
+            {
+              "rowId": 232,
+              "keyParts": [
+                232,
+                "p7",
+                "verse",
+                "v38",
+                "label"
+              ],
+              "value": "38"
+            },
+            {
+              "rowId": 233,
+              "keyParts": [
+                233,
+                "p7",
+                "verse",
+                "v38",
+                "content"
+              ],
+              "value": "As for the censers of"
+            },
+            {
+              "rowId": 234,
+              "keyParts": [
+                234,
+                "p7",
+                "verse",
+                "v38",
+                "note",
+                "x"
+              ],
+              "value": "#Prov. 20:2;Hab. 2:10;[1 Kgs. 2:23]"
+            },
+            {
+              "rowId": 235,
+              "keyParts": [
+                235,
+                "p7",
+                "verse",
+                "v38",
+                "content"
+              ],
+              "value": "these men who have sinned at the cost of their lives, let them be made into hammered plates as a covering for the altar, for they offered them before the"
+            },
+            {
+              "rowId": 236,
+              "keyParts": [
+                236,
+                "p7",
+                "verse",
+                "v38",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 237,
+              "keyParts": [
+                237,
+                "p7",
+                "verse",
+                "v38",
+                "content"
+              ],
+              "value": ", and they became holy."
+            },
+            {
+              "rowId": 238,
+              "keyParts": [
+                238,
+                "p7",
+                "verse",
+                "v38",
+                "note",
+                "x"
+              ],
+              "value": "#ch.17:10;26:10"
+            },
+            {
+              "rowId": 239,
+              "keyParts": [
+                239,
+                "p7",
+                "verse",
+                "v38",
+                "content"
+              ],
+              "value": "Thus they shall be a sign to the people of Israel.”"
+            },
+            {
+              "rowId": 240,
+              "keyParts": [
+                "v038_ESV_NUM_016",
+                240,
+                "p7",
+                "verse",
+                "v38",
+                "plain_text"
+              ],
+              "value": "38 As for the censers of these men who have sinned at the cost of their lives, let them be made into hammered plates as a covering for the altar, for they offered them before the Lord , and they became holy. Thus they shall be a sign to the people of Israel.”"
+            },
+            {
+              "rowId": 241,
+              "keyParts": [
+                241,
+                "p7",
+                "verse",
+                "v39",
+                "label"
+              ],
+              "value": "39"
+            },
+            {
+              "rowId": 242,
+              "keyParts": [
+                242,
+                "p7",
+                "verse",
+                "v39",
+                "content"
+              ],
+              "value": "So Eleazar the priest took the bronze censers, which those who were burned had offered, and they were hammered out as a covering for the altar,"
+            },
+            {
+              "rowId": 243,
+              "keyParts": [
+                "v039_ESV_NUM_016",
+                243,
+                "p7",
+                "verse",
+                "v39",
+                "plain_text"
+              ],
+              "value": "39 So Eleazar the priest took the bronze censers, which those who were burned had offered, and they were hammered out as a covering for the altar,"
+            },
+            {
+              "rowId": 244,
+              "keyParts": [
+                244,
+                "p7",
+                "verse",
+                "v40",
+                "label"
+              ],
+              "value": "40"
+            },
+            {
+              "rowId": 245,
+              "keyParts": [
+                245,
+                "p7",
+                "verse",
+                "v40",
+                "content"
+              ],
+              "value": "to be a reminder to the people of Israel, so"
+            },
+            {
+              "rowId": 246,
+              "keyParts": [
+                246,
+                "p7",
+                "verse",
+                "v40",
+                "note",
+                "x"
+              ],
+              "value": "#ch.3:10;2 Chr. 26:18"
+            },
+            {
+              "rowId": 247,
+              "keyParts": [
+                247,
+                "p7",
+                "verse",
+                "v40",
+                "content"
+              ],
+              "value": "that no outsider, who is not of the descendants of Aaron, should draw near to burn incense before the"
+            },
+            {
+              "rowId": 248,
+              "keyParts": [
+                248,
+                "p7",
+                "verse",
+                "v40",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 249,
+              "keyParts": [
+                249,
+                "p7",
+                "verse",
+                "v40",
+                "content"
+              ],
+              "value": ", lest he become like Korah and his company—as the"
+            },
+            {
+              "rowId": 250,
+              "keyParts": [
+                250,
+                "p7",
+                "verse",
+                "v40",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 251,
+              "keyParts": [
+                251,
+                "p7",
+                "verse",
+                "v40",
+                "content"
+              ],
+              "value": "said to him through Moses."
+            },
+            {
+              "rowId": 252,
+              "keyParts": [
+                "v040_ESV_NUM_016",
+                252,
+                "p7",
+                "verse",
+                "v40",
+                "plain_text"
+              ],
+              "value": "40 to be a reminder to the people of Israel, so that no outsider, who is not of the descendants of Aaron, should draw near to burn incense before the Lord , lest he become like Korah and his company—as the Lord said to him through Moses."
+            },
+            {
+              "rowId": 253,
+              "keyParts": [
+                253,
+                "p8",
+                "verse",
+                "v41",
+                "label"
+              ],
+              "value": "41"
+            },
+            {
+              "rowId": 254,
+              "keyParts": [
+                254,
+                "p8",
+                "verse",
+                "v41",
+                "content"
+              ],
+              "value": "But on the next day all the congregation of the people of Israel"
+            },
+            {
+              "rowId": 255,
+              "keyParts": [
+                255,
+                "p8",
+                "verse",
+                "v41",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.14:2"
+            },
+            {
+              "rowId": 256,
+              "keyParts": [
+                256,
+                "p8",
+                "verse",
+                "v41",
+                "content"
+              ],
+              "value": "grumbled against Moses and against Aaron, saying, “You have killed the people of the"
+            },
+            {
+              "rowId": 257,
+              "keyParts": [
+                257,
+                "p8",
+                "verse",
+                "v41",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 258,
+              "keyParts": [
+                258,
+                "p8",
+                "verse",
+                "v41",
+                "content"
+              ],
+              "value": ".”"
+            },
+            {
+              "rowId": 259,
+              "keyParts": [
+                "v041_ESV_NUM_016",
+                259,
+                "p8",
+                "verse",
+                "v41",
+                "plain_text"
+              ],
+              "value": "41 But on the next day all the congregation of the people of Israel grumbled against Moses and against Aaron, saying, “You have killed the people of the Lord .”"
+            },
+            {
+              "rowId": 260,
+              "keyParts": [
+                260,
+                "p8",
+                "verse",
+                "v42",
+                "label"
+              ],
+              "value": "42"
+            },
+            {
+              "rowId": 261,
+              "keyParts": [
+                261,
+                "p8",
+                "verse",
+                "v42",
+                "content"
+              ],
+              "value": "And when the congregation had assembled against Moses and against Aaron, they turned toward the tent of meeting. And behold,"
+            },
+            {
+              "rowId": 262,
+              "keyParts": [
+                262,
+                "p8",
+                "verse",
+                "v42",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 40:34"
+            },
+            {
+              "rowId": 263,
+              "keyParts": [
+                263,
+                "p8",
+                "verse",
+                "v42",
+                "content"
+              ],
+              "value": "the cloud covered it, and"
+            },
+            {
+              "rowId": 264,
+              "keyParts": [
+                264,
+                "p8",
+                "verse",
+                "v42",
+                "note",
+                "x"
+              ],
+              "value": "#ver.19;SeeLev. 9:23"
+            },
+            {
+              "rowId": 265,
+              "keyParts": [
+                265,
+                "p8",
+                "verse",
+                "v42",
+                "content"
+              ],
+              "value": "the glory of the"
+            },
+            {
+              "rowId": 266,
+              "keyParts": [
+                266,
+                "p8",
+                "verse",
+                "v42",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 267,
+              "keyParts": [
+                267,
+                "p8",
+                "verse",
+                "v42",
+                "content"
+              ],
+              "value": "appeared."
+            },
+            {
+              "rowId": 268,
+              "keyParts": [
+                "v042_ESV_NUM_016",
+                268,
+                "p8",
+                "verse",
+                "v42",
+                "plain_text"
+              ],
+              "value": "42 And when the congregation had assembled against Moses and against Aaron, they turned toward the tent of meeting. And behold, the cloud covered it, and the glory of the Lord appeared."
+            },
+            {
+              "rowId": 269,
+              "keyParts": [
+                269,
+                "p8",
+                "verse",
+                "v43",
+                "label"
+              ],
+              "value": "43"
+            },
+            {
+              "rowId": 270,
+              "keyParts": [
+                270,
+                "p8",
+                "verse",
+                "v43",
+                "content"
+              ],
+              "value": "And Moses and Aaron came to the front of the tent of meeting,"
+            },
+            {
+              "rowId": 271,
+              "keyParts": [
+                "v043_ESV_NUM_016",
+                271,
+                "p8",
+                "verse",
+                "v43",
+                "plain_text"
+              ],
+              "value": "43 And Moses and Aaron came to the front of the tent of meeting,"
+            },
+            {
+              "rowId": 272,
+              "keyParts": [
+                272,
+                "p8",
+                "verse",
+                "v44",
+                "label"
+              ],
+              "value": "44"
+            },
+            {
+              "rowId": 273,
+              "keyParts": [
+                273,
+                "p8",
+                "verse",
+                "v44",
+                "content"
+              ],
+              "value": "and the"
+            },
+            {
+              "rowId": 274,
+              "keyParts": [
+                274,
+                "p8",
+                "verse",
+                "v44",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 275,
+              "keyParts": [
+                275,
+                "p8",
+                "verse",
+                "v44",
+                "content"
+              ],
+              "value": "spoke to Moses, saying,"
+            },
+            {
+              "rowId": 276,
+              "keyParts": [
+                "v044_ESV_NUM_016",
+                276,
+                "p8",
+                "verse",
+                "v44",
+                "plain_text"
+              ],
+              "value": "44 and the Lord spoke to Moses, saying,"
+            },
+            {
+              "rowId": 277,
+              "keyParts": [
+                277,
+                "p8",
+                "verse",
+                "v45",
+                "label"
+              ],
+              "value": "45"
+            },
+            {
+              "rowId": 278,
+              "keyParts": [
+                278,
+                "p8",
+                "verse",
+                "v45",
+                "note",
+                "x"
+              ],
+              "value": "#ver.21, 24"
+            },
+            {
+              "rowId": 279,
+              "keyParts": [
+                279,
+                "p8",
+                "verse",
+                "v45",
+                "content"
+              ],
+              "value": "“Get away from the midst of this congregation, that I may consume them in a moment.”"
+            },
+            {
+              "rowId": 280,
+              "keyParts": [
+                280,
+                "p8",
+                "verse",
+                "v45",
+                "note",
+                "x"
+              ],
+              "value": "#ver.22"
+            },
+            {
+              "rowId": 281,
+              "keyParts": [
+                281,
+                "p8",
+                "verse",
+                "v45",
+                "content"
+              ],
+              "value": "And they fell on their faces."
+            },
+            {
+              "rowId": 282,
+              "keyParts": [
+                "v045_ESV_NUM_016",
+                282,
+                "p8",
+                "verse",
+                "v45",
+                "plain_text"
+              ],
+              "value": "45 “Get away from the midst of this congregation, that I may consume them in a moment.” And they fell on their faces."
+            },
+            {
+              "rowId": 283,
+              "keyParts": [
+                283,
+                "p8",
+                "verse",
+                "v46",
+                "label"
+              ],
+              "value": "46"
+            },
+            {
+              "rowId": 284,
+              "keyParts": [
+                284,
+                "p8",
+                "verse",
+                "v46",
+                "content"
+              ],
+              "value": "And Moses said to Aaron, “Take your censer, and put fire on it from off the altar and lay incense on it and carry it quickly to the congregation and make atonement for them, for"
+            },
+            {
+              "rowId": 285,
+              "keyParts": [
+                285,
+                "p8",
+                "verse",
+                "v46",
+                "note",
+                "x"
+              ],
+              "value": "#ch.8:19;11:33;Lev. 10:6;1 Chr. 27:24"
+            },
+            {
+              "rowId": 286,
+              "keyParts": [
+                286,
+                "p8",
+                "verse",
+                "v46",
+                "content"
+              ],
+              "value": "wrath has gone out from the"
+            },
+            {
+              "rowId": 287,
+              "keyParts": [
+                287,
+                "p8",
+                "verse",
+                "v46",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 288,
+              "keyParts": [
+                288,
+                "p8",
+                "verse",
+                "v46",
+                "content"
+              ],
+              "value": "; the plague has begun.”"
+            },
+            {
+              "rowId": 289,
+              "keyParts": [
+                "v046_ESV_NUM_016",
+                289,
+                "p8",
+                "verse",
+                "v46",
+                "plain_text"
+              ],
+              "value": "46 And Moses said to Aaron, “Take your censer, and put fire on it from off the altar and lay incense on it and carry it quickly to the congregation and make atonement for them, for wrath has gone out from the Lord ; the plague has begun.”"
+            },
+            {
+              "rowId": 290,
+              "keyParts": [
+                290,
+                "p8",
+                "verse",
+                "v47",
+                "label"
+              ],
+              "value": "47"
+            },
+            {
+              "rowId": 291,
+              "keyParts": [
+                291,
+                "p8",
+                "verse",
+                "v47",
+                "content"
+              ],
+              "value": "So Aaron took it as Moses said and ran into the midst of the assembly. And behold, the plague had already begun among the people. And he put on the incense and made atonement for the people."
+            },
+            {
+              "rowId": 292,
+              "keyParts": [
+                "v047_ESV_NUM_016",
+                292,
+                "p8",
+                "verse",
+                "v47",
+                "plain_text"
+              ],
+              "value": "47 So Aaron took it as Moses said and ran into the midst of the assembly. And behold, the plague had already begun among the people. And he put on the incense and made atonement for the people."
+            },
+            {
+              "rowId": 293,
+              "keyParts": [
+                293,
+                "p8",
+                "verse",
+                "v48",
+                "label"
+              ],
+              "value": "48"
+            },
+            {
+              "rowId": 294,
+              "keyParts": [
+                294,
+                "p8",
+                "verse",
+                "v48",
+                "content"
+              ],
+              "value": "And he stood between the dead and the living, and"
+            },
+            {
+              "rowId": 295,
+              "keyParts": [
+                295,
+                "p8",
+                "verse",
+                "v48",
+                "note",
+                "x"
+              ],
+              "value": "#ver.50;ch.25:8;2 Sam. 24:25;Ps. 106:30"
+            },
+            {
+              "rowId": 296,
+              "keyParts": [
+                296,
+                "p8",
+                "verse",
+                "v48",
+                "content"
+              ],
+              "value": "the plague was stopped."
+            },
+            {
+              "rowId": 297,
+              "keyParts": [
+                "v048_ESV_NUM_016",
+                297,
+                "p8",
+                "verse",
+                "v48",
+                "plain_text"
+              ],
+              "value": "48 And he stood between the dead and the living, and the plague was stopped."
+            },
+            {
+              "rowId": 298,
+              "keyParts": [
+                298,
+                "p8",
+                "verse",
+                "v49",
+                "label"
+              ],
+              "value": "49"
+            },
+            {
+              "rowId": 299,
+              "keyParts": [
+                299,
+                "p8",
+                "verse",
+                "v49",
+                "content"
+              ],
+              "value": "Now those who died in the plague were 14,700,"
+            },
+            {
+              "rowId": 300,
+              "keyParts": [
+                300,
+                "p8",
+                "verse",
+                "v49",
+                "note",
+                "x"
+              ],
+              "value": "#ch.27:3"
+            },
+            {
+              "rowId": 301,
+              "keyParts": [
+                301,
+                "p8",
+                "verse",
+                "v49",
+                "content"
+              ],
+              "value": "besides those who died in the affair of Korah."
+            },
+            {
+              "rowId": 302,
+              "keyParts": [
+                "v049_ESV_NUM_016",
+                302,
+                "p8",
+                "verse",
+                "v49",
+                "plain_text"
+              ],
+              "value": "49 Now those who died in the plague were 14,700, besides those who died in the affair of Korah."
+            },
+            {
+              "rowId": 303,
+              "keyParts": [
+                303,
+                "p8",
+                "verse",
+                "v50",
+                "label"
+              ],
+              "value": "50"
+            },
+            {
+              "rowId": 304,
+              "keyParts": [
+                304,
+                "p8",
+                "verse",
+                "v50",
+                "content"
+              ],
+              "value": "And Aaron returned to Moses at the entrance of the tent of meeting, when the plague was stopped."
+            },
+            {
+              "rowId": 305,
+              "keyParts": [
+                "v050_ESV_NUM_016",
+                305,
+                "p8",
+                "verse",
+                "v50",
+                "plain_text"
+              ],
+              "value": "50 And Aaron returned to Moses at the entrance of the tent of meeting, when the plague was stopped."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

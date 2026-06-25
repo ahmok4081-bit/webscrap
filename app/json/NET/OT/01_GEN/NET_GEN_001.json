@@ -7,6 +7,8 @@
   "books": [
     {
       "bookId": "GEN",
+      "testament": "",
+      "order": 0,
       "title": "Genesis",
       "abbreviation": "GEN",
       "chapters": [
@@ -134,6 +136,7 @@
             {
               "rowId": 12,
               "keyParts": [
+                "v001_NET_GEN_001",
                 12,
                 "p1",
                 "verse",
@@ -363,6 +366,7 @@
             {
               "rowId": 32,
               "keyParts": [
+                "v002_NET_GEN_001",
                 32,
                 "p2",
                 "verse",
@@ -465,6 +469,7 @@
             {
               "rowId": 41,
               "keyParts": [
+                "v003_NET_GEN_001",
                 41,
                 "p2",
                 "verse",
@@ -567,6 +572,7 @@
             {
               "rowId": 50,
               "keyParts": [
+                "v004_NET_GEN_001",
                 50,
                 "p2",
                 "verse",
@@ -658,6 +664,7 @@
             {
               "rowId": 58,
               "keyParts": [
+                "v005_NET_GEN_001",
                 58,
                 "p2",
                 "verse",
@@ -737,6 +744,7 @@
             {
               "rowId": 65,
               "keyParts": [
+                "v006_NET_GEN_001",
                 65,
                 "p3",
                 "verse",
@@ -805,6 +813,7 @@
             {
               "rowId": 71,
               "keyParts": [
+                "v007_NET_GEN_001",
                 71,
                 "p3",
                 "verse",
@@ -861,6 +870,7 @@
             {
               "rowId": 76,
               "keyParts": [
+                "v008_NET_GEN_001",
                 76,
                 "p3",
                 "verse",
@@ -940,6 +950,7 @@
             {
               "rowId": 83,
               "keyParts": [
+                "v009_NET_GEN_001",
                 83,
                 "p4",
                 "verse",
@@ -996,6 +1007,7 @@
             {
               "rowId": 88,
               "keyParts": [
+                "v010_NET_GEN_001",
                 88,
                 "p4",
                 "verse",
@@ -1098,6 +1110,7 @@
             {
               "rowId": 97,
               "keyParts": [
+                "v011_NET_GEN_001",
                 97,
                 "p5",
                 "verse",
@@ -1131,6 +1144,7 @@
             {
               "rowId": 100,
               "keyParts": [
+                "v012_NET_GEN_001",
                 100,
                 "p5",
                 "verse",
@@ -1164,6 +1178,7 @@
             {
               "rowId": 103,
               "keyParts": [
+                "v013_NET_GEN_001",
                 103,
                 "p5",
                 "verse",
@@ -1266,6 +1281,7 @@
             {
               "rowId": 112,
               "keyParts": [
+                "v014_NET_GEN_001",
                 112,
                 "p6",
                 "verse",
@@ -1299,6 +1315,7 @@
             {
               "rowId": 115,
               "keyParts": [
+                "v015_NET_GEN_001",
                 115,
                 "p6",
                 "verse",
@@ -1367,6 +1384,7 @@
             {
               "rowId": 121,
               "keyParts": [
+                "v016_NET_GEN_001",
                 121,
                 "p6",
                 "verse",
@@ -1423,6 +1441,7 @@
             {
               "rowId": 126,
               "keyParts": [
+                "v017_NET_GEN_001",
                 126,
                 "p6",
                 "verse",
@@ -1479,6 +1498,7 @@
             {
               "rowId": 131,
               "keyParts": [
+                "v018_NET_GEN_001",
                 131,
                 "p6",
                 "verse",
@@ -1512,6 +1532,7 @@
             {
               "rowId": 134,
               "keyParts": [
+                "v019_NET_GEN_001",
                 134,
                 "p6",
                 "verse",
@@ -1591,6 +1612,7 @@
             {
               "rowId": 141,
               "keyParts": [
+                "v020_NET_GEN_001",
                 141,
                 "p7",
                 "verse",
@@ -1647,6 +1669,7 @@
             {
               "rowId": 146,
               "keyParts": [
+                "v021_NET_GEN_001",
                 146,
                 "p7",
                 "verse",
@@ -1715,6 +1738,7 @@
             {
               "rowId": 152,
               "keyParts": [
+                "v022_NET_GEN_001",
                 152,
                 "p7",
                 "verse",
@@ -1748,6 +1772,7 @@
             {
               "rowId": 155,
               "keyParts": [
+                "v023_NET_GEN_001",
                 155,
                 "p7",
                 "verse",
@@ -1804,6 +1829,7 @@
             {
               "rowId": 160,
               "keyParts": [
+                "v024_NET_GEN_001",
                 160,
                 "p8",
                 "verse",
@@ -1837,6 +1863,7 @@
             {
               "rowId": 163,
               "keyParts": [
+                "v025_NET_GEN_001",
                 163,
                 "p8",
                 "verse",
@@ -2008,6 +2035,7 @@
             {
               "rowId": 178,
               "keyParts": [
+                "v026_NET_GEN_001",
                 178,
                 "p9",
                 "verse",
@@ -2088,17 +2116,6 @@
               "rowId": 185,
               "keyParts": [
                 185,
-                "p10",
-                "verse",
-                "v27",
-                "plain_text"
-              ],
-              "value": "27 God created humankind in his own image, in the image of God he created them,"
-            },
-            {
-              "rowId": 186,
-              "keyParts": [
-                186,
                 "p12",
                 "verse",
                 "v27",
@@ -2107,9 +2124,9 @@
               "value": "male and female he created them."
             },
             {
-              "rowId": 187,
+              "rowId": 186,
               "keyParts": [
-                187,
+                186,
                 "p12",
                 "verse",
                 "v27",
@@ -2117,6 +2134,18 @@
                 "f"
               ],
               "value": "sn The distinction of “humankind” as “male” and “female” is another point of separation in God’s creation. There is no possibility that the verse is teaching that humans were first androgynous (having both male and female physical characteristics) and afterward were separated. The mention of male and female prepares for the blessing to follow."
+            },
+            {
+              "rowId": 187,
+              "keyParts": [
+                "v027_NET_GEN_001",
+                187,
+                "p10",
+                "verse",
+                "v27",
+                "plain_text"
+              ],
+              "value": "27 God created humankind in his own image, in the image of God he created them, male and female he created them."
             },
             {
               "rowId": 188,
@@ -2224,6 +2253,7 @@
             {
               "rowId": 197,
               "keyParts": [
+                "v028_NET_GEN_001",
                 197,
                 "p13",
                 "verse",
@@ -2292,6 +2322,7 @@
             {
               "rowId": 203,
               "keyParts": [
+                "v029_NET_GEN_001",
                 203,
                 "p13",
                 "verse",
@@ -2348,6 +2379,7 @@
             {
               "rowId": 208,
               "keyParts": [
+                "v030_NET_GEN_001",
                 208,
                 "p13",
                 "verse",
@@ -2404,6 +2436,7 @@
             {
               "rowId": 213,
               "keyParts": [
+                "v031_NET_GEN_001",
                 213,
                 "p14",
                 "verse",

@@ -1,0 +1,1435 @@
+{
+  "translationId": "ESV",
+  "name": "English Standard Version",
+  "abbreviation": "ESV",
+  "language": "English",
+  "copyright": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.",
+  "books": [
+    {
+      "bookId": "DEU",
+      "testament": "OT",
+      "order": 5,
+      "title": "Deuteronomy",
+      "abbreviation": "DEU",
+      "chapters": [
+        {
+          "chapter": 24,
+          "entries": [
+            {
+              "rowId": 1,
+              "keyParts": [
+                "label"
+              ],
+              "value": "24"
+            },
+            {
+              "rowId": 2,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Laws Concerning Divorce"
+            },
+            {
+              "rowId": 3,
+              "keyParts": [
+                3,
+                "p1",
+                "verse",
+                "v1",
+                "label"
+              ],
+              "value": "1"
+            },
+            {
+              "rowId": 4,
+              "keyParts": [
+                4,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "“When a man takes a wife and marries her, if then she finds no favor in his eyes because he has found some indecency in her, and"
+            },
+            {
+              "rowId": 5,
+              "keyParts": [
+                5,
+                "p1",
+                "verse",
+                "v1",
+                "note",
+                "x"
+              ],
+              "value": "#Matt. 19:7;Mark 10:4;CitedMatt. 5:31;[Isa. 50:1;Jer. 3:8]"
+            },
+            {
+              "rowId": 6,
+              "keyParts": [
+                6,
+                "p1",
+                "verse",
+                "v1",
+                "content"
+              ],
+              "value": "he writes her a certificate of divorce and puts it in her hand and sends her out of his house, and she departs out of his house,"
+            },
+            {
+              "rowId": 7,
+              "keyParts": [
+                "v001_ESV_DEU_024",
+                7,
+                "p1",
+                "verse",
+                "v1",
+                "plain_text"
+              ],
+              "value": "1 “When a man takes a wife and marries her, if then she finds no favor in his eyes because he has found some indecency in her, and he writes her a certificate of divorce and puts it in her hand and sends her out of his house, and she departs out of his house,"
+            },
+            {
+              "rowId": 8,
+              "keyParts": [
+                8,
+                "p1",
+                "verse",
+                "v2",
+                "label"
+              ],
+              "value": "2"
+            },
+            {
+              "rowId": 9,
+              "keyParts": [
+                9,
+                "p1",
+                "verse",
+                "v2",
+                "content"
+              ],
+              "value": "and if she goes and becomes another man’s wife,"
+            },
+            {
+              "rowId": 10,
+              "keyParts": [
+                "v002_ESV_DEU_024",
+                10,
+                "p1",
+                "verse",
+                "v2",
+                "plain_text"
+              ],
+              "value": "2 and if she goes and becomes another man’s wife,"
+            },
+            {
+              "rowId": 11,
+              "keyParts": [
+                11,
+                "p1",
+                "verse",
+                "v3",
+                "label"
+              ],
+              "value": "3"
+            },
+            {
+              "rowId": 12,
+              "keyParts": [
+                12,
+                "p1",
+                "verse",
+                "v3",
+                "content"
+              ],
+              "value": "and the latter man hates her and writes her a certificate of divorce and puts it in her hand and sends her out of his house, or if the latter man dies, who took her to be his wife,"
+            },
+            {
+              "rowId": 13,
+              "keyParts": [
+                "v003_ESV_DEU_024",
+                13,
+                "p1",
+                "verse",
+                "v3",
+                "plain_text"
+              ],
+              "value": "3 and the latter man hates her and writes her a certificate of divorce and puts it in her hand and sends her out of his house, or if the latter man dies, who took her to be his wife,"
+            },
+            {
+              "rowId": 14,
+              "keyParts": [
+                14,
+                "p1",
+                "verse",
+                "v4",
+                "label"
+              ],
+              "value": "4"
+            },
+            {
+              "rowId": 15,
+              "keyParts": [
+                15,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "then"
+            },
+            {
+              "rowId": 16,
+              "keyParts": [
+                16,
+                "p1",
+                "verse",
+                "v4",
+                "note",
+                "x"
+              ],
+              "value": "#[Jer. 3:1]"
+            },
+            {
+              "rowId": 17,
+              "keyParts": [
+                17,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "her former husband, who sent her away, may not take her again to be his wife, after she has been defiled, for that is an abomination before the"
+            },
+            {
+              "rowId": 18,
+              "keyParts": [
+                18,
+                "p1",
+                "verse",
+                "v4",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 19,
+              "keyParts": [
+                19,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": ". And you shall not bring sin upon the land that the"
+            },
+            {
+              "rowId": 20,
+              "keyParts": [
+                20,
+                "p1",
+                "verse",
+                "v4",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 21,
+              "keyParts": [
+                21,
+                "p1",
+                "verse",
+                "v4",
+                "content"
+              ],
+              "value": "your God is giving you for an inheritance."
+            },
+            {
+              "rowId": 22,
+              "keyParts": [
+                "s1",
+                "heading"
+              ],
+              "value": "Miscellaneous Laws"
+            },
+            {
+              "rowId": 23,
+              "keyParts": [
+                "v004_ESV_DEU_024",
+                23,
+                "p1",
+                "verse",
+                "v4",
+                "plain_text"
+              ],
+              "value": "4 then her former husband, who sent her away, may not take her again to be his wife, after she has been defiled, for that is an abomination before the Lord . And you shall not bring sin upon the land that the Lord your God is giving you for an inheritance."
+            },
+            {
+              "rowId": 24,
+              "keyParts": [
+                24,
+                "p2",
+                "verse",
+                "v5",
+                "label"
+              ],
+              "value": "5"
+            },
+            {
+              "rowId": 25,
+              "keyParts": [
+                25,
+                "p2",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#[ch.20:7]"
+            },
+            {
+              "rowId": 26,
+              "keyParts": [
+                26,
+                "p2",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "“When a man is newly married, he shall not go out with the army or be liable for any other public duty. He shall be free at home one year"
+            },
+            {
+              "rowId": 27,
+              "keyParts": [
+                27,
+                "p2",
+                "verse",
+                "v5",
+                "note",
+                "x"
+              ],
+              "value": "#Prov. 5:18"
+            },
+            {
+              "rowId": 28,
+              "keyParts": [
+                28,
+                "p2",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "to be happy with his wife"
+            },
+            {
+              "rowId": 29,
+              "keyParts": [
+                29,
+                "p2",
+                "verse",
+                "v5",
+                "note",
+                "f"
+              ],
+              "value": "#24:5Orto make happy his wife"
+            },
+            {
+              "rowId": 30,
+              "keyParts": [
+                30,
+                "p2",
+                "verse",
+                "v5",
+                "content"
+              ],
+              "value": "whom he has taken."
+            },
+            {
+              "rowId": 31,
+              "keyParts": [
+                "v005_ESV_DEU_024",
+                31,
+                "p2",
+                "verse",
+                "v5",
+                "plain_text"
+              ],
+              "value": "5 “When a man is newly married, he shall not go out with the army or be liable for any other public duty. He shall be free at home one year to be happy with his wife whom he has taken."
+            },
+            {
+              "rowId": 32,
+              "keyParts": [
+                32,
+                "p3",
+                "verse",
+                "v6",
+                "label"
+              ],
+              "value": "6"
+            },
+            {
+              "rowId": 33,
+              "keyParts": [
+                33,
+                "p3",
+                "verse",
+                "v6",
+                "content"
+              ],
+              "value": "“No one shall take a mill or an upper millstone in pledge, for that would be taking a life in pledge."
+            },
+            {
+              "rowId": 34,
+              "keyParts": [
+                "v006_ESV_DEU_024",
+                34,
+                "p3",
+                "verse",
+                "v6",
+                "plain_text"
+              ],
+              "value": "6 “No one shall take a mill or an upper millstone in pledge, for that would be taking a life in pledge."
+            },
+            {
+              "rowId": 35,
+              "keyParts": [
+                35,
+                "p4",
+                "verse",
+                "v7",
+                "label"
+              ],
+              "value": "7"
+            },
+            {
+              "rowId": 36,
+              "keyParts": [
+                36,
+                "p4",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 21:16;[1 Tim. 1:10]"
+            },
+            {
+              "rowId": 37,
+              "keyParts": [
+                37,
+                "p4",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "“If a man is found stealing one of his brothers of the people of Israel, and if he"
+            },
+            {
+              "rowId": 38,
+              "keyParts": [
+                38,
+                "p4",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#ch.21:14"
+            },
+            {
+              "rowId": 39,
+              "keyParts": [
+                39,
+                "p4",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "treats him as a slave or sells him, then that thief shall die."
+            },
+            {
+              "rowId": 40,
+              "keyParts": [
+                40,
+                "p4",
+                "verse",
+                "v7",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.13:5"
+            },
+            {
+              "rowId": 41,
+              "keyParts": [
+                41,
+                "p4",
+                "verse",
+                "v7",
+                "content"
+              ],
+              "value": "So you shall purge the evil from your midst."
+            },
+            {
+              "rowId": 42,
+              "keyParts": [
+                "v007_ESV_DEU_024",
+                42,
+                "p4",
+                "verse",
+                "v7",
+                "plain_text"
+              ],
+              "value": "7 “If a man is found stealing one of his brothers of the people of Israel, and if he treats him as a slave or sells him, then that thief shall die. So you shall purge the evil from your midst."
+            },
+            {
+              "rowId": 43,
+              "keyParts": [
+                43,
+                "p5",
+                "verse",
+                "v8",
+                "label"
+              ],
+              "value": "8"
+            },
+            {
+              "rowId": 44,
+              "keyParts": [
+                44,
+                "p5",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "“Take care, in"
+            },
+            {
+              "rowId": 45,
+              "keyParts": [
+                45,
+                "p5",
+                "verse",
+                "v8",
+                "note",
+                "x"
+              ],
+              "value": "#SeeLev. 13–14"
+            },
+            {
+              "rowId": 46,
+              "keyParts": [
+                46,
+                "p5",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "a case of leprous"
+            },
+            {
+              "rowId": 47,
+              "keyParts": [
+                47,
+                "p5",
+                "verse",
+                "v8",
+                "note",
+                "f"
+              ],
+              "value": "#24:8Leprosywas a term for several skin diseases; see Leviticus 13"
+            },
+            {
+              "rowId": 48,
+              "keyParts": [
+                48,
+                "p5",
+                "verse",
+                "v8",
+                "content"
+              ],
+              "value": "disease, to be very careful to do according to all that the Levitical priests shall direct you. As I commanded them, so you shall be careful to do."
+            },
+            {
+              "rowId": 49,
+              "keyParts": [
+                "v008_ESV_DEU_024",
+                49,
+                "p5",
+                "verse",
+                "v8",
+                "plain_text"
+              ],
+              "value": "8 “Take care, in a case of leprous disease, to be very careful to do according to all that the Levitical priests shall direct you. As I commanded them, so you shall be careful to do."
+            },
+            {
+              "rowId": 50,
+              "keyParts": [
+                50,
+                "p5",
+                "verse",
+                "v9",
+                "label"
+              ],
+              "value": "9"
+            },
+            {
+              "rowId": 51,
+              "keyParts": [
+                51,
+                "p5",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "Remember what the"
+            },
+            {
+              "rowId": 52,
+              "keyParts": [
+                52,
+                "p5",
+                "verse",
+                "v9",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 53,
+              "keyParts": [
+                53,
+                "p5",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "your God did to"
+            },
+            {
+              "rowId": 54,
+              "keyParts": [
+                54,
+                "p5",
+                "verse",
+                "v9",
+                "note",
+                "x"
+              ],
+              "value": "#SeeNum. 12:10-15"
+            },
+            {
+              "rowId": 55,
+              "keyParts": [
+                55,
+                "p5",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "Miriam"
+            },
+            {
+              "rowId": 56,
+              "keyParts": [
+                56,
+                "p5",
+                "verse",
+                "v9",
+                "note",
+                "x"
+              ],
+              "value": "#ch.25:17"
+            },
+            {
+              "rowId": 57,
+              "keyParts": [
+                57,
+                "p5",
+                "verse",
+                "v9",
+                "content"
+              ],
+              "value": "on the way as you came out of Egypt."
+            },
+            {
+              "rowId": 58,
+              "keyParts": [
+                "v009_ESV_DEU_024",
+                58,
+                "p5",
+                "verse",
+                "v9",
+                "plain_text"
+              ],
+              "value": "9 Remember what the Lord your God did to Miriam on the way as you came out of Egypt."
+            },
+            {
+              "rowId": 59,
+              "keyParts": [
+                59,
+                "p6",
+                "verse",
+                "v10",
+                "label"
+              ],
+              "value": "10"
+            },
+            {
+              "rowId": 60,
+              "keyParts": [
+                60,
+                "p6",
+                "verse",
+                "v10",
+                "content"
+              ],
+              "value": "“When you make your neighbor a loan of any sort, you shall not go into his house to collect his pledge."
+            },
+            {
+              "rowId": 61,
+              "keyParts": [
+                "v010_ESV_DEU_024",
+                61,
+                "p6",
+                "verse",
+                "v10",
+                "plain_text"
+              ],
+              "value": "10 “When you make your neighbor a loan of any sort, you shall not go into his house to collect his pledge."
+            },
+            {
+              "rowId": 62,
+              "keyParts": [
+                62,
+                "p6",
+                "verse",
+                "v11",
+                "label"
+              ],
+              "value": "11"
+            },
+            {
+              "rowId": 63,
+              "keyParts": [
+                63,
+                "p6",
+                "verse",
+                "v11",
+                "content"
+              ],
+              "value": "You shall stand outside, and the man to whom you make the loan shall bring the pledge out to you."
+            },
+            {
+              "rowId": 64,
+              "keyParts": [
+                "v011_ESV_DEU_024",
+                64,
+                "p6",
+                "verse",
+                "v11",
+                "plain_text"
+              ],
+              "value": "11 You shall stand outside, and the man to whom you make the loan shall bring the pledge out to you."
+            },
+            {
+              "rowId": 65,
+              "keyParts": [
+                65,
+                "p6",
+                "verse",
+                "v12",
+                "label"
+              ],
+              "value": "12"
+            },
+            {
+              "rowId": 66,
+              "keyParts": [
+                66,
+                "p6",
+                "verse",
+                "v12",
+                "content"
+              ],
+              "value": "And if he is a poor man, you shall not sleep in his pledge."
+            },
+            {
+              "rowId": 67,
+              "keyParts": [
+                "v012_ESV_DEU_024",
+                67,
+                "p6",
+                "verse",
+                "v12",
+                "plain_text"
+              ],
+              "value": "12 And if he is a poor man, you shall not sleep in his pledge."
+            },
+            {
+              "rowId": 68,
+              "keyParts": [
+                68,
+                "p6",
+                "verse",
+                "v13",
+                "label"
+              ],
+              "value": "13"
+            },
+            {
+              "rowId": 69,
+              "keyParts": [
+                69,
+                "p6",
+                "verse",
+                "v13",
+                "note",
+                "x"
+              ],
+              "value": "#SeeEx. 22:26"
+            },
+            {
+              "rowId": 70,
+              "keyParts": [
+                70,
+                "p6",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "You shall restore to him the pledge as the sun sets, that he may sleep in his cloak and"
+            },
+            {
+              "rowId": 71,
+              "keyParts": [
+                71,
+                "p6",
+                "verse",
+                "v13",
+                "note",
+                "x"
+              ],
+              "value": "#Job 29:13;31:20"
+            },
+            {
+              "rowId": 72,
+              "keyParts": [
+                72,
+                "p6",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "bless you. And"
+            },
+            {
+              "rowId": 73,
+              "keyParts": [
+                73,
+                "p6",
+                "verse",
+                "v13",
+                "note",
+                "x"
+              ],
+              "value": "#Ps. 112:9;Dan. 4:27;[ch.6:25]"
+            },
+            {
+              "rowId": 74,
+              "keyParts": [
+                74,
+                "p6",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "it shall be righteousness for you before the"
+            },
+            {
+              "rowId": 75,
+              "keyParts": [
+                75,
+                "p6",
+                "verse",
+                "v13",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 76,
+              "keyParts": [
+                76,
+                "p6",
+                "verse",
+                "v13",
+                "content"
+              ],
+              "value": "your God."
+            },
+            {
+              "rowId": 77,
+              "keyParts": [
+                "v013_ESV_DEU_024",
+                77,
+                "p6",
+                "verse",
+                "v13",
+                "plain_text"
+              ],
+              "value": "13 You shall restore to him the pledge as the sun sets, that he may sleep in his cloak and bless you. And it shall be righteousness for you before the Lord your God."
+            },
+            {
+              "rowId": 78,
+              "keyParts": [
+                78,
+                "p7",
+                "verse",
+                "v14",
+                "label"
+              ],
+              "value": "14"
+            },
+            {
+              "rowId": 79,
+              "keyParts": [
+                79,
+                "p7",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "“You shall not"
+            },
+            {
+              "rowId": 80,
+              "keyParts": [
+                80,
+                "p7",
+                "verse",
+                "v14",
+                "note",
+                "x"
+              ],
+              "value": "#Mal. 3:5;SeeLev. 25:39-43"
+            },
+            {
+              "rowId": 81,
+              "keyParts": [
+                81,
+                "p7",
+                "verse",
+                "v14",
+                "content"
+              ],
+              "value": "oppress a hired worker who is poor and needy, whether he is one of your brothers or one of the sojourners who are in your land within your towns."
+            },
+            {
+              "rowId": 82,
+              "keyParts": [
+                "v014_ESV_DEU_024",
+                82,
+                "p7",
+                "verse",
+                "v14",
+                "plain_text"
+              ],
+              "value": "14 “You shall not oppress a hired worker who is poor and needy, whether he is one of your brothers or one of the sojourners who are in your land within your towns."
+            },
+            {
+              "rowId": 83,
+              "keyParts": [
+                83,
+                "p7",
+                "verse",
+                "v15",
+                "label"
+              ],
+              "value": "15"
+            },
+            {
+              "rowId": 84,
+              "keyParts": [
+                84,
+                "p7",
+                "verse",
+                "v15",
+                "note",
+                "x"
+              ],
+              "value": "#Jer. 22:13;SeeLev. 19:13"
+            },
+            {
+              "rowId": 85,
+              "keyParts": [
+                85,
+                "p7",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "You shall give him his wages on the same day, before the sun sets (for he is poor and counts on it),"
+            },
+            {
+              "rowId": 86,
+              "keyParts": [
+                86,
+                "p7",
+                "verse",
+                "v15",
+                "note",
+                "x"
+              ],
+              "value": "#ch.15:9;James 5:4"
+            },
+            {
+              "rowId": 87,
+              "keyParts": [
+                87,
+                "p7",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": "lest he cry against you to the"
+            },
+            {
+              "rowId": 88,
+              "keyParts": [
+                88,
+                "p7",
+                "verse",
+                "v15",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 89,
+              "keyParts": [
+                89,
+                "p7",
+                "verse",
+                "v15",
+                "content"
+              ],
+              "value": ", and you be guilty of sin."
+            },
+            {
+              "rowId": 90,
+              "keyParts": [
+                "v015_ESV_DEU_024",
+                90,
+                "p7",
+                "verse",
+                "v15",
+                "plain_text"
+              ],
+              "value": "15 You shall give him his wages on the same day, before the sun sets (for he is poor and counts on it), lest he cry against you to the Lord , and you be guilty of sin."
+            },
+            {
+              "rowId": 91,
+              "keyParts": [
+                91,
+                "p8",
+                "verse",
+                "v16",
+                "label"
+              ],
+              "value": "16"
+            },
+            {
+              "rowId": 92,
+              "keyParts": [
+                92,
+                "p8",
+                "verse",
+                "v16",
+                "note",
+                "x"
+              ],
+              "value": "#Cited2 Kgs. 14:6;2 Chr. 25:4;[Jer. 31:29,30;Ezek. 18:20]"
+            },
+            {
+              "rowId": 93,
+              "keyParts": [
+                93,
+                "p8",
+                "verse",
+                "v16",
+                "content"
+              ],
+              "value": "“Fathers shall not be put to death because of their children, nor shall children be put to death because of their fathers. Each one shall be put to death for his own sin."
+            },
+            {
+              "rowId": 94,
+              "keyParts": [
+                "v016_ESV_DEU_024",
+                94,
+                "p8",
+                "verse",
+                "v16",
+                "plain_text"
+              ],
+              "value": "16 “Fathers shall not be put to death because of their children, nor shall children be put to death because of their fathers. Each one shall be put to death for his own sin."
+            },
+            {
+              "rowId": 95,
+              "keyParts": [
+                95,
+                "p9",
+                "verse",
+                "v17",
+                "label"
+              ],
+              "value": "17"
+            },
+            {
+              "rowId": 96,
+              "keyParts": [
+                96,
+                "p9",
+                "verse",
+                "v17",
+                "note",
+                "x"
+              ],
+              "value": "#Ex. 22:21,22;23:6;[ch.10:18;27:19;Isa. 1:23;Jer. 5:28];See ch.16:19"
+            },
+            {
+              "rowId": 97,
+              "keyParts": [
+                97,
+                "p9",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "“You shall not pervert the justice due to the sojourner or to the fatherless,"
+            },
+            {
+              "rowId": 98,
+              "keyParts": [
+                98,
+                "p9",
+                "verse",
+                "v17",
+                "note",
+                "x"
+              ],
+              "value": "#[ver. 6, 13;Job 24:3]"
+            },
+            {
+              "rowId": 99,
+              "keyParts": [
+                99,
+                "p9",
+                "verse",
+                "v17",
+                "content"
+              ],
+              "value": "or take a widow’s garment in pledge,"
+            },
+            {
+              "rowId": 100,
+              "keyParts": [
+                "v017_ESV_DEU_024",
+                100,
+                "p9",
+                "verse",
+                "v17",
+                "plain_text"
+              ],
+              "value": "17 “You shall not pervert the justice due to the sojourner or to the fatherless, or take a widow’s garment in pledge,"
+            },
+            {
+              "rowId": 101,
+              "keyParts": [
+                101,
+                "p9",
+                "verse",
+                "v18",
+                "label"
+              ],
+              "value": "18"
+            },
+            {
+              "rowId": 102,
+              "keyParts": [
+                102,
+                "p9",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "but"
+            },
+            {
+              "rowId": 103,
+              "keyParts": [
+                103,
+                "p9",
+                "verse",
+                "v18",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.5:15"
+            },
+            {
+              "rowId": 104,
+              "keyParts": [
+                104,
+                "p9",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "you shall remember that you were a slave in Egypt and the"
+            },
+            {
+              "rowId": 105,
+              "keyParts": [
+                105,
+                "p9",
+                "verse",
+                "v18",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 106,
+              "keyParts": [
+                106,
+                "p9",
+                "verse",
+                "v18",
+                "content"
+              ],
+              "value": "your God redeemed you from there; therefore I command you to do this."
+            },
+            {
+              "rowId": 107,
+              "keyParts": [
+                "v018_ESV_DEU_024",
+                107,
+                "p9",
+                "verse",
+                "v18",
+                "plain_text"
+              ],
+              "value": "18 but you shall remember that you were a slave in Egypt and the Lord your God redeemed you from there; therefore I command you to do this."
+            },
+            {
+              "rowId": 108,
+              "keyParts": [
+                108,
+                "p10",
+                "verse",
+                "v19",
+                "label"
+              ],
+              "value": "19"
+            },
+            {
+              "rowId": 109,
+              "keyParts": [
+                109,
+                "p10",
+                "verse",
+                "v19",
+                "note",
+                "x"
+              ],
+              "value": "#Lev. 19:9;23:22"
+            },
+            {
+              "rowId": 110,
+              "keyParts": [
+                110,
+                "p10",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "“When you reap your harvest in your field and forget a sheaf in the field, you shall not go back to get it. It shall be for the sojourner, the fatherless, and the widow,"
+            },
+            {
+              "rowId": 111,
+              "keyParts": [
+                111,
+                "p10",
+                "verse",
+                "v19",
+                "note",
+                "x"
+              ],
+              "value": "#See ch.14:29"
+            },
+            {
+              "rowId": 112,
+              "keyParts": [
+                112,
+                "p10",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "that the"
+            },
+            {
+              "rowId": 113,
+              "keyParts": [
+                113,
+                "p10",
+                "verse",
+                "v19",
+                "nd"
+              ],
+              "value": "Lord"
+            },
+            {
+              "rowId": 114,
+              "keyParts": [
+                114,
+                "p10",
+                "verse",
+                "v19",
+                "content"
+              ],
+              "value": "your God may bless you in all the work of your hands."
+            },
+            {
+              "rowId": 115,
+              "keyParts": [
+                "v019_ESV_DEU_024",
+                115,
+                "p10",
+                "verse",
+                "v19",
+                "plain_text"
+              ],
+              "value": "19 “When you reap your harvest in your field and forget a sheaf in the field, you shall not go back to get it. It shall be for the sojourner, the fatherless, and the widow, that the Lord your God may bless you in all the work of your hands."
+            },
+            {
+              "rowId": 116,
+              "keyParts": [
+                116,
+                "p10",
+                "verse",
+                "v20",
+                "label"
+              ],
+              "value": "20"
+            },
+            {
+              "rowId": 117,
+              "keyParts": [
+                117,
+                "p10",
+                "verse",
+                "v20",
+                "content"
+              ],
+              "value": "When you beat your olive trees, you shall not go over them again. It shall be for the sojourner, the fatherless, and the widow."
+            },
+            {
+              "rowId": 118,
+              "keyParts": [
+                "v020_ESV_DEU_024",
+                118,
+                "p10",
+                "verse",
+                "v20",
+                "plain_text"
+              ],
+              "value": "20 When you beat your olive trees, you shall not go over them again. It shall be for the sojourner, the fatherless, and the widow."
+            },
+            {
+              "rowId": 119,
+              "keyParts": [
+                119,
+                "p10",
+                "verse",
+                "v21",
+                "label"
+              ],
+              "value": "21"
+            },
+            {
+              "rowId": 120,
+              "keyParts": [
+                120,
+                "p10",
+                "verse",
+                "v21",
+                "content"
+              ],
+              "value": "When you gather the grapes of your vineyard, you shall not strip it afterward. It shall be for the sojourner, the fatherless, and the widow."
+            },
+            {
+              "rowId": 121,
+              "keyParts": [
+                "v021_ESV_DEU_024",
+                121,
+                "p10",
+                "verse",
+                "v21",
+                "plain_text"
+              ],
+              "value": "21 When you gather the grapes of your vineyard, you shall not strip it afterward. It shall be for the sojourner, the fatherless, and the widow."
+            },
+            {
+              "rowId": 122,
+              "keyParts": [
+                122,
+                "p10",
+                "verse",
+                "v22",
+                "label"
+              ],
+              "value": "22"
+            },
+            {
+              "rowId": 123,
+              "keyParts": [
+                123,
+                "p10",
+                "verse",
+                "v22",
+                "note",
+                "x"
+              ],
+              "value": "#[See ver.18above]"
+            },
+            {
+              "rowId": 124,
+              "keyParts": [
+                124,
+                "p10",
+                "verse",
+                "v22",
+                "content"
+              ],
+              "value": "You shall remember that you were a slave in the land of Egypt; therefore I command you to do this."
+            },
+            {
+              "rowId": 125,
+              "keyParts": [
+                "v022_ESV_DEU_024",
+                125,
+                "p10",
+                "verse",
+                "v22",
+                "plain_text"
+              ],
+              "value": "22 You shall remember that you were a slave in the land of Egypt; therefore I command you to do this."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
